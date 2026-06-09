@@ -1,6 +1,6 @@
 /* Cấu hình site Thư Viện Tiên Hiệp.
    - readerBase: URL công khai R2 chứa dữ liệu chương (index.json + chapters/).
-     Khi chưa có/CORS chưa bật → web tự dùng Dữ LIỆU MẪU để xem bố cục.
+     Khi chưa có/CORS chưa bật → web tự dùng DỮ LIỆU MẪU để xem bố cục.
    - dataBase: nơi chứa JSON thực thể (characters/realms/...). Khi deploy,
      đồng bộ <bộ>/data/*.json vào đây. Local mở bằng file:// sẽ fallback demo.
 */
@@ -10,7 +10,7 @@ window.LIB_CONFIG = {
     {
       slug: "tien-nghich", ten: "Tiên Nghịch", cn: "仙逆", tacGia: "Nhĩ Căn",
       blurb: "Vương Lâm — phàm nhân tư chất tầm thường, nghịch thiên cải mệnh, bước trên con đường tu tiên đầy máu và cô độc.",
-      readerBase: "https://REPLACE-pub-XXXX.r2.dev/tien-nghich/reader",
+      readerBase: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/tien-nghich/reader",
       dataBase: "data/tien-nghich"
     },
     {
