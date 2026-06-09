@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Thư Viện Tiên Hiệp</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="assets/theme.css">
+</head>
+<body>
+<div class="topbar">
+  <a class="logo" href="index.html">
+    <span class="seal">仙</span>
+    <span class="brandtext"><b>Thư Viện Tiên Hiệp</b><small>Tra cứu nhân vật · sự kiện · thế lực · pháp bảo · công pháp</small></span>
+  </a>
+  <span class="spacer"></span>
+</div>
+
+<div class="wrap">
+  <div class="page-head">
+    <h1>Tàng Thư Các</h1>
+    <span class="sub">Mỗi bộ một khu vực riêng · bám sát nguyên tác, có neo chương</span>
+  </div>
+  <div class="flourish"><span class="gem">❖ TÀNG THƯ ❖ CÁC ❖</span></div>
+  <div id="boCards" class="cards grid-2"></div>
+</div>
+
+<script src="assets/config.js"></script>
+<script src="assets/chrome.js"></script>
+<script>
+  const wrap = document.getElementById("boCards");
+  const esc = s => (s==null?"":String(s)).replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\'":"&quot;"}[m]));
+  (window.LIB_CONFIG.boList || []).forEach(b => {
+    const a = document.createElement("a");
+    a.className = "card"; a.href = "bo.html?bo=" + b.slug;
+    a.innerHTML =
+      '<h3>' + esc(b.ten) + ' <span class="cn">' + esc(b.cn||"") + '</span></h3>' +
+      '<div class="cn" style="font-family:var(--sans);color:var(--muted2)">Tác giả: ' + esc(b.tacGia||"") + '</div>' +
+      '<div class="blurb">' + esc(b.blurb||"") + '</div>' +
+      '<div class="meta-row">' +
+        '<span class="chip gold">7 mục tra cứu</span>' +
+        '<span class="chip">Đọc truyện</span><span class="chip">Nhân vật</span><span class="chip">Cảnh giới</span>' +
+      '</div>';
+    wrap.appendChild(a);
+  });
+</script>
+</body>
+</html>
