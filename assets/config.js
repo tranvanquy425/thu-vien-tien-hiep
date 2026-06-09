@@ -1,6 +1,6 @@
 /* Cấu hình site Thư Viện Tiên Hiệp.
    - readerBase: URL công khai R2 chứa dữ liệu chương (index.json + chapters/).
-     Khi chưa có/CORS chưa bật → web tự dùng DỮ LIỆU MẪU để xem bố cục.
+     Khi chưa có/CORS chưa bật → web tự dùng Dữ LIỆU MẪU để xem bố cục.
    - dataBase: nơi chứa JSON thực thể (characters/realms/...). Khi deploy,
      đồng bộ <bộ>/data/*.json vào đây. Local mở bằng file:// sẽ fallback demo.
 */

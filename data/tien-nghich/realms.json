@@ -1,0 +1,4 @@
+{
+  "_chuY": "Dữ liệu Cảnh Giới hiện là NGUỒN SỐNG trong data.js (web/data/tien-nghich/data.js → window.LIB_DATA['tien-nghich'].realms). File .json này không còn được web đọc; giữ lại làm ghi chú để tránh hai nguồn lệch nhau. Sửa cảnh giới → sửa data.js.",
+  "nguon": ["fandom:vu-tru-tien-nghich/Hệ_thống_tu_luyện", "fandom:vu-tru-tien-nghich/Tiên_Di_Tộc", "user-xac-nhan-2026-06-09"]
+}
