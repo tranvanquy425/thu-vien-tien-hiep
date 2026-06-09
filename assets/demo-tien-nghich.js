@@ -11,13 +11,15 @@ window.LIB_DEMO["tien-nghich"] = {
       gioiTinh: "Nam", theLuc: "Tán tu", canhGioiCaoNhat: "(mẫu) — điền sau", trangThai: "song",
       blurb: "(mẫu) Nhân vật chính. Phàm nhân tư chất tầm thường, nghịch thiên cải mệnh.",
       tabs: {
-        tieuSu: "(Nội dung mẫu) Vương Lâm xuất thân thôn quê, tên mụ Thiết Trụ, từ nhỏ thông minh hiếu học.",
+        tieuSu: "(Nội dung mẫu) Vương Lâm xuất thân thôn quê, tên mụ Thiết Trụ, từ nhỏ thông minh hiếu học. Vì cơ duyên mà bước vào tu tiên, mang theo tính cẩn trọng và ý chí ngoan cường. — Đây là chỗ điền tiểu sử tổng quan theo góc đã-hoàn-chỉnh.",
         kinhLich: [
           { chuong: "@c0001", importance: "major", text: "(mẫu) Rời thôn, theo tứ thúc lên đường — khởi điểm hành trình." },
-          { bridge: true, khoang: "@c0002–@c0006", text: "(mẫu) Trên đường tới nơi mới, Vương Lâm lần đầu va chạm với thế giới ngoài sơn thôn." },
-          { chuong: "@c0007", importance: "normal", text: "(mẫu) Vào được một thế lực tu tiên, bắt đầu tu luyện." }
+          { bridge: true, khoang: "@c0002–@c0006", text: "(mẫu) Trên đường tới nơi mới, Vương Lâm lần đầu va chạm với thế giới ngoài sơn thôn: bỡ ngỡ, toan tính và lần đầu nghe tới chuyện tu tiên — dần lộ rõ tính cẩn trọng, nhẫn nại." },
+          { chuong: "@c0007", importance: "normal", text: "(mẫu) Vào được một thế lực tu tiên, bắt đầu tu luyện." },
+          { bridge: true, khoang: "@c0008–@c0019", text: "(mẫu) Giai đoạn làm quen tu luyện: cọ xát đồng môn, nếm trải phân biệt vì tư chất, âm thầm tích luỹ nền tảng và tâm tính." },
+          { chuong: "@c0020", importance: "minor", text: "(mẫu) Một va chạm nhỏ hé lộ tính cách nhẫn nại." }
         ],
-        tuVi: "(mẫu) Diễn tiến tu vi: từ phàm nhân → các mốc đột phá sẽ ghi kèm neo chương khi có data thật.",
+        tuVi: "(mẫu) Diễn tiến tu vi: từ phàm nhân → các mốc đột phá sẽ ghi kèm neo chương khi có data thật. Ví dụ: đột phá tầng X tại @c00xx.",
         nhanMach: [
           { ten: "Tứ thúc", quanHe: "Người dẫn đường", ghiChu: "(mẫu) đưa Vương Lâm rời thôn." },
           { ten: "Lý Mộ Uyển", quanHe: "Bạn đồng hành", ghiChu: "(mẫu) quan hệ phát triển về sau." }
@@ -49,23 +51,25 @@ window.LIB_DEMO["tien-nghich"] = {
     }
   ]},
 
+  // CẢNH GIỚI — DỮ LIỆU THẬT (đã chốt từ Fandom Vũ Trụ Tiên Nghịch, Chiến xác nhận 2026-06-09).
+  // Bản gốc: web/data/tien-nghich/realms.json. Đây là bản mirror cho preview local.
   realms: {
     updatedAt: "2026-06-09", chot: true,
     ghiChu: "Tu Đạo là hệ tu luyện CHÍNH, xuyên suốt cả truyện. Tu Tiên và Cổ Tộc là hệ song song, đối chiếu tương đương. Nguồn: Fandom Vũ Trụ Tiên Nghịch (đã xác nhận khớp truyện gốc).",
     heThong: [
       { id: "tu-dao", ten: "Tu Đạo", chinh: true, moTa: "Hệ tu luyện chính, xuyên suốt cả truyện. 4 bước: dựng căn cơ → chữ Niết → chứng đạo bổn nguyên → Đạp Thiên." },
       { id: "tu-tien", ten: "Tu Tiên", moTa: "Hệ tiên nhân: Tiên Sĩ → Thượng Tiên → Thiên Tiên → Tiên Vương → Tiên Quân → Tiên Đế → các Tôn." },
-      { id: "co-toc", ten: "Cổ Tộc (Cổ Thần · Cổ Yêu · Cổ Ma)", moTa: "Đo bằng 'sao' (Tinh): Nhất Tinh → Cửu Tinh → 27 sao." },
+      { id: "co-toc", ten: "Cổ Tộc (Cổ Thần · Cổ Yêu · Cổ Ma)", moTa: "Đo bằng 'sao' (Tinh): Nhất Tinh → Cửu Tinh → 27 sao. Dùng nhiều về cuối truyện." },
       { id: "tien-di-toc", ten: "Tiên Di Tộc / Tiên Tuyển Tộc", moTa: "Chủng tộc phụ, hệ riêng. Chi tiết tại wiki, bổ sung sau.", link: "https://vu-tru-tien-nghich.fandom.com/vi/wiki/Ti%C3%AAn_Di_T%E1%BB%99c" }
     ],
     realms: [
-      { id: "ngung-khi", name: "Ngưng Khí", aliases: ["Linh Động Kỳ", "Luyện Khí"], buoc: "Bước 1", capBac: 1, blurb: "Hấp thu linh khí trời đất vào thân, cải tạo thể chất.", detail: "Còn gọi Linh Động Kỳ, phân từ tầng 1 đến tầng 15.", dacThu: "Phân 15 tầng.", tuongDuong: { tuTien: "", coToc: "Nhất Tinh (1 sao)" }, nguon: [] },
-      { id: "truc-co", name: "Trúc Cơ", buoc: "Bước 1", capBac: 2, blurb: "Thanh tẩy toàn thân, cải tạo thể chất lần hai, lột xác thành tu sĩ thật.", tuongDuong: { tuTien: "", coToc: "Nhất Tinh (1 sao)" }, nguon: [] },
-      { id: "ket-dan", name: "Kết Đan", buoc: "Bước 1", capBac: 3, blurb: "Ngưng tụ một viên kim đan ở đan điền.", tuongDuong: { tuTien: "", coToc: "Nhất Tinh (1 sao)" }, nguon: [] },
-      { id: "nguyen-anh", name: "Nguyên Anh", buoc: "Bước 1", capBac: 4, blurb: "Kim đan vỡ, hình thành nguyên anh; có thể đoạt xá, thuấn di.", tuongDuong: { tuTien: "", coToc: "Nhị Tinh (2 sao)" }, nguon: [] },
-      { id: "hoa-than", name: "Hoá Thần", buoc: "Bước 1", capBac: 5, blurb: "Nuôi nguyên anh thành nguyên thần nhờ hợp nhất ý cảnh và thần thức.", tuongDuong: { tuTien: "", coToc: "Nhị Tinh (2 sao)" }, nguon: [] },
-      { id: "anh-bien", name: "Anh Biến", buoc: "Bước 1", capBac: 6, blurb: "Tẩy phàm thể, hình thành tiên thể, vận tiên lực — tương đương Tiên Sĩ.", tuongDuong: { tuTien: "Tiên Sĩ", coToc: "Tam Tinh (3 sao)" }, nguon: [] },
-      { id: "van-dinh", name: "Vấn Đỉnh", buoc: "Bước 1", capBac: 7, blurb: "Đỉnh Nhất Bộ, một ngưỡng lớn về thọ nguyên; có hai con đường Thuận và Nghịch Thiên.", tuongDuong: { tuTien: "Thượng Tiên", coToc: "Tam Tinh (3 sao)" }, nguon: [] },
+      { id: "ngung-khi", name: "Ngưng Khí", aliases: ["Linh Động Kỳ", "Luyện Khí"], buoc: "Bước 1", capBac: 1, blurb: "Hấp thu linh khí trời đất vào thân, cải tạo thể chất.", detail: "Còn gọi Linh Động Kỳ, phân từ tầng 1 đến tầng 15. Tu sĩ hấp thụ linh khí của trời đất vào thân thể, cải tạo thể chất cho thích hợp việc tu luyện; đã có thể dùng linh khí để thi triển một vài thuật pháp đơn giản.", dacThu: "Phân 15 tầng.", tuongDuong: { tuTien: "", coToc: "Nhất Tinh (1 sao)" }, nguon: [] },
+      { id: "truc-co", name: "Trúc Cơ", buoc: "Bước 1", capBac: 2, blurb: "Thanh tẩy toàn thân, cải tạo thể chất lần hai, lột xác thành tu sĩ thật.", detail: "Dùng linh lực thanh tẩy toàn thân, cải tạo thể chất lần thứ hai cho hợp việc tu luyện — lột xác trở thành một tu sĩ thật sự.", dacThu: "Sơ → Trung → Hậu kỳ.", tuongDuong: { tuTien: "", coToc: "Nhất Tinh (1 sao)" }, nguon: [] },
+      { id: "ket-dan", name: "Kết Đan", buoc: "Bước 1", capBac: 3, blurb: "Ngưng tụ một viên kim đan ở đan điền.", detail: "Nén linh lực từ dạng khí thành dạng chất lỏng, rồi tiếp tục nén và ngưng tụ thành một viên kim đan ở đan điền. Từ cảnh giới này có thể bước đi trên hư không.", dacThu: "Sơ → Trung → Hậu → Đỉnh.", tuongDuong: { tuTien: "", coToc: "Nhất Tinh (1 sao)" }, nguon: [] },
+      { id: "nguyen-anh", name: "Nguyên Anh", buoc: "Bước 1", capBac: 4, blurb: "Kim đan vỡ, hình thành nguyên anh; có thể đoạt xá, thuấn di.", detail: "Hấp thu linh khí đến mức cực hạn, kim đan vỡ vụn và hình thành nguyên anh nhỏ (như đứa trẻ) trong thân. Cho nguyên anh xuất khiếu để đoạt xá (chiếm thân xác khác); đồng thời có thể thuấn di — dịch chuyển tức thời qua vô số khoảng cách.", dacThu: "Sơ → Trung → Hậu → Đỉnh.", tuongDuong: { tuTien: "", coToc: "Nhị Tinh (2 sao)" }, nguon: [] },
+      { id: "hoa-than", name: "Hoá Thần", buoc: "Bước 1", capBac: 5, blurb: "Nuôi nguyên anh thành nguyên thần nhờ hợp nhất ý cảnh và thần thức.", detail: "Nuôi nguyên anh đến khi trưởng thành; tu sĩ phải sở hữu 'ý cảnh', ý cảnh hợp nhất với thần thức thì nguyên anh ngưng kết thành nguyên thần (người lớn) — 'nguyên thần bất diệt, nhục thân vĩnh tồn'. Ý cảnh là lĩnh vực của vạn vật: tự cảm ngộ (đi xa hơn) hoặc mượn của người khác (kẻ yếu kém). Tăng tiểu cảnh giới rất khó vì phải tiến cả tu vi lẫn ý cảnh; có thể điều động lực lượng thiên địa, dung ý cảnh vào thần thông để chiến đấu.", dacThu: "Bắt buộc lĩnh ngộ ý cảnh.", tuongDuong: { tuTien: "", coToc: "Nhị Tinh (2 sao)" }, nguon: [] },
+      { id: "anh-bien", name: "Anh Biến", buoc: "Bước 1", capBac: 6, blurb: "Tẩy phàm thể, hình thành tiên thể, vận tiên lực — tương đương Tiên Sĩ.", detail: "Biến ý cảnh thành thực chất, thân thể thay da đổi thịt, xóa bỏ phàm thể và hình thành tiên thể để vận tiên lực (cần nhiều tiên ngọc). Nguyên thần cũng thực chất hóa, thành 'tráng niên'. Mạnh nhờ sở hữu tiên lực — thuật pháp tăng cường vô số; bị thương phải dùng tiên khí để chữa. Tương đương Tiên Sĩ bên hệ Tu Tiên.", dacThu: "Bắt đầu vận tiên lực; tương đương Tiên Sĩ.", tuongDuong: { tuTien: "Tiên Sĩ", coToc: "Tam Tinh (3 sao)" }, nguon: [] },
+      { id: "van-dinh", name: "Vấn Đỉnh", buoc: "Bước 1", capBac: 7, blurb: "Đỉnh Nhất Bộ, một ngưỡng lớn về thọ nguyên; có hai con đường Thuận và Nghịch Thiên.", detail: "Muốn đạt Vấn Đỉnh trước phải 'vấn đạo': hấp thụ đủ tiên khí rồi làm ý cảnh viên mãn. Hai con đường — Thuận: quên hết ký ức, xóa sạch tình cảm để ý cảnh viên mãn; Nghịch Thiên: giữ lại những tình cảm trong lòng mà nghịch thiên. Vấn Đỉnh là một ngưỡng: vượt được thì thọ nguyên gần như vô hạn, không vượt thì chờ cạn thọ.", dacThu: "Ngưỡng cuối Bước 1; gắn chủ đề 'Nghịch Thiên'.", tuongDuong: { tuTien: "Thượng Tiên", coToc: "Tam Tinh (3 sao)" }, nguon: [] },
       { id: "am-hu", name: "Âm Hư", buoc: "Quá Độ", capBac: 8, blurb: "Quá độ 'Hư Thực Nhị Ý' — lĩnh hội ý nghĩa Hư.", tuongDuong: { tuTien: "Thượng Tiên", coToc: "Tứ Tinh (4 sao)" }, nguon: [] },
       { id: "duong-thuc", name: "Dương Thực", buoc: "Quá Độ", capBac: 9, blurb: "Quá độ 'Hư Thực Nhị Ý' — lĩnh hội ý nghĩa Thực.", tuongDuong: { tuTien: "Thượng Tiên", coToc: "Tứ Tinh (4 sao)" }, nguon: [] },
       { id: "khuy-niet", name: "Khuy Niết", buoc: "Bước 2", capBac: 10, blurb: "Khởi đầu Nhị Bộ — khuy phá thiên cơ, chạm tầng quy tắc sâu hơn.", tuongDuong: { tuTien: "Thiên Tiên", coToc: "Ngũ Tinh (5 sao)" }, nguon: [] },
@@ -75,9 +79,9 @@ window.LIB_DEMO["tien-nghich"] = {
       { id: "khong-niet", name: "Không Niết", buoc: "Bước 3", capBac: 14, blurb: "Tam Bộ ('Tứ Không') — chứng đạo bổn nguyên, hàng đại năng.", tuongDuong: { tuTien: "Tiên Đế", coToc: "Thất Tinh (7 sao)" }, nguon: [] },
       { id: "khong-linh", name: "Không Linh", buoc: "Bước 3", capBac: 15, blurb: "Tầng hai của 'Tứ Không'.", tuongDuong: { tuTien: "Tiên Đế", coToc: "Bát Tinh (8 sao)" }, nguon: [] },
       { id: "khong-huyen", name: "Không Huyền", buoc: "Bước 3", capBac: 16, blurb: "Tầng ba của 'Tứ Không'.", tuongDuong: { tuTien: "Tiên Đế", coToc: "Cửu Tinh (9 sao)" }, nguon: [] },
-      { id: "huyen-kiep", name: "Huyền Kiếp", buoc: "Bước 3", capBac: 17, blurb: "Kiếp giữa Tam Bộ.", tuongDuong: { tuTien: "", coToc: "Dung luyện tam mạch" }, nguon: [] },
+      { id: "huyen-kiep", name: "Huyền Kiếp", buoc: "Bước 3", capBac: 17, blurb: "Kiếp giữa Tam Bộ; Cổ Tộc tương ứng 'dung luyện tam mạch'.", tuongDuong: { tuTien: "", coToc: "Dung luyện tam mạch" }, nguon: [] },
       { id: "khong-kiep", name: "Không Kiếp", buoc: "Bước 3", capBac: 18, blurb: "Bên Tu Tiên phân Đại Tôn → Kim Tôn → Thiên Tôn → Dược Thiên Tôn.", tuongDuong: { tuTien: "Đại Tôn · Kim Tôn · Thiên Tôn · Dược Thiên Tôn", coToc: "Nhị Thập Thất Tinh (27 sao)" }, nguon: [] },
-      { id: "dai-thien-ton", name: "Đại Thiên Tôn", buoc: "Bước 3", capBac: 19, blurb: "Ngưng tụ Đại Thiên Tôn chi dương.", tuongDuong: { tuTien: "", coToc: "Độ qua Tam Tổn Thất Kiếp" }, nguon: [] },
+      { id: "dai-thien-ton", name: "Đại Thiên Tôn", buoc: "Bước 3", capBac: 19, blurb: "Ngưng tụ Đại Thiên Tôn chi dương; Cổ Tộc 'độ qua Tam Tổn Thất Kiếp'.", tuongDuong: { tuTien: "", coToc: "Độ qua Tam Tổn Thất Kiếp" }, nguon: [] },
       { id: "dap-thien-kieu", name: "Đạp Thiên Cửu Kiều", buoc: "Quá Độ", capBac: 20, blurb: "Vượt 9 cầu Đạp Thiên (Đệ Nhất → Đệ Cửu) để hoàn toàn vào Tứ Bộ.", tuongDuong: { tuTien: "", coToc: "" }, nguon: [] },
       { id: "dap-thien", name: "Đạp Thiên Cảnh", buoc: "Bước 4", capBac: 21, blurb: "Tứ Bộ — cảnh giới siêu thoát, đỉnh cao Tu Đạo.", tuongDuong: { tuTien: "", coToc: "" }, nguon: [] }
     ],
@@ -109,18 +113,33 @@ window.LIB_DEMO["tien-nghich"] = {
   artifacts: { updatedAt: "mẫu", artifacts: [
     { id: "phi-kiem-a", name: "(mẫu) Phi Kiếm Thanh Phong", cn: "", category: "phap-bao", categoryLabel: "Pháp bảo",
       phamCap: "(mẫu) Hạ phẩm", soHuu: ["Vương Lâm"], trangThai: "đang dùng",
-      blurb: "(mẫu) Phi kiếm dùng thời kỳ đầu.", detail: "(mẫu) Mô tả chi tiết — điền sau.", nguon: ["@c0012"] }
+      blurb: "(mẫu) Phi kiếm dùng thời kỳ đầu.", detail: "(mẫu) Mô tả chi tiết — điền sau.", nguon: ["@c0012"] },
+    { id: "than-khi-b", name: "(mẫu) Cổ Đỉnh", cn: "", category: "than-khi", categoryLabel: "Thần khí",
+      phamCap: "(mẫu) Thượng phẩm", soHuu: [], trangThai: "thất lạc",
+      blurb: "(mẫu) Một thần khí cổ.", detail: "(mẫu) điền sau.", nguon: [] },
+    { id: "dan-c", name: "(mẫu) Hồi Khí Đan", cn: "", category: "dan-duoc", categoryLabel: "Đan dược",
+      phamCap: "(mẫu)", soHuu: [], trangThai: "phổ biến", blurb: "(mẫu) Đan hồi phục linh lực.", detail: "(mẫu)", nguon: [] }
   ]},
 
   techniques: { updatedAt: "mẫu", techniques: [
     { id: "cp-nhap-mon", name: "(mẫu) Thanh Nguyên Quyết", cn: "", loai: "cong-phap", loaiLabel: "Công pháp",
       phamCap: "(mẫu) Hoàng giai", hePhai: "(mẫu) Chính đạo", soHuu: ["Vương Lâm"],
-      blurb: "(mẫu) Công pháp nhập môn.", detail: "(mẫu) điền sau.", nguon: ["@c0007"] }
+      blurb: "(mẫu) Công pháp nhập môn.", detail: "(mẫu) điền sau.", nguon: ["@c0007"] },
+    { id: "tt-than-thong", name: "(mẫu) Lôi Đình Thủ", cn: "", loai: "than-thong", loaiLabel: "Thần thông",
+      phamCap: "(mẫu)", hePhai: "(mẫu)", soHuu: [], blurb: "(mẫu) Thần thông sấm sét.", detail: "(mẫu)", nguon: [] }
   ]},
 
   map: { updatedAt: "mẫu", nodes: [
     { id: "tu-chan-gioi", name: "(mẫu) Tu Chân Giới", cn: "", capDo: "gioi-dien", parentId: null,
-      blurb: "(mẫu) Giới diện lớn nhất giai đoạn đầu.", detail: "(mẫu) điền sau.", theLucLienQuan: [], nguon: [] }
+      blurb: "(mẫu) Giới diện lớn nhất giai đoạn đầu.", detail: "(mẫu) điền sau.", theLucLienQuan: [], nguon: [] },
+    { id: "trung-chau", name: "(mẫu) Trung Châu", cn: "", capDo: "chau", parentId: "tu-chan-gioi",
+      blurb: "(mẫu) Một châu lớn.", detail: "(mẫu)", theLucLienQuan: ["(mẫu) Tông môn X"], nguon: [] },
+    { id: "thien-phong-quoc", name: "(mẫu) Thiên Phong Quốc", cn: "", capDo: "quoc-gia", parentId: "trung-chau",
+      blurb: "(mẫu) Quốc gia phàm nhân.", detail: "(mẫu)", theLucLienQuan: [], nguon: [] },
+    { id: "thon-vuong-lam", name: "(mẫu) Thôn của Vương Lâm", cn: "", capDo: "khac", parentId: "thien-phong-quoc",
+      blurb: "(mẫu) Nơi Vương Lâm sinh ra.", detail: "(mẫu)", theLucLienQuan: [], nguon: ["@c0001"] },
+    { id: "bac-vuc", name: "(mẫu) Bắc Vực", cn: "", capDo: "vuc", parentId: "tu-chan-gioi",
+      blurb: "(mẫu) Một vực phương bắc.", detail: "(mẫu)", theLucLienQuan: [], nguon: [] }
   ]},
 
   factions: { updatedAt: "mẫu", factions: [
@@ -130,12 +149,19 @@ window.LIB_DEMO["tien-nghich"] = {
 
   volumes: { updatedAt: "mẫu", volumes: [
     { value: "q01", label: "Quyển 1", range: "Ch.1 – 20", title: "(mẫu) Ly Hương",
-      summary: "(mẫu) Vương Lâm rời thôn, bước vào tu tiên.", milestones: ["(mẫu) Rời thôn", "(mẫu) Nhập môn"] }
+      summary: "(mẫu) Vương Lâm rời thôn, bước vào tu tiên.", milestones: ["(mẫu) Rời thôn", "(mẫu) Nhập môn"] },
+    { value: "q02", label: "Quyển 2", range: "Ch.21 – 40", title: "(mẫu) Khởi Bộ",
+      summary: "(mẫu) Những thử thách đầu tiên.", milestones: ["(mẫu) Thử luyện"] }
   ]},
 
   cotTruyen: {
     q01: [
-      { chuong: 1, tieuDe: "LY HƯƠNG", tomTat: "(mẫu) Vương Lâm rời thôn theo tứ thúc, mở đầu hành trình." }
+      { chuong: 1, tieuDe: "LY HƯƠNG", tomTat: "(mẫu) Vương Lâm (tên mụ Thiết Trụ) rời thôn theo tứ thúc, mở đầu hành trình." },
+      { chuong: 2, tieuDe: "(mẫu) Nhập thành", tomTat: "(mẫu) Tới nơi mới, lần đầu chạm ngõ tu tiên." },
+      { chuong: 7, tieuDe: "(mẫu) Nhập môn", tomTat: "(mẫu) Được nhận vào một thế lực tu tiên, bắt đầu tu luyện." }
+    ],
+    q02: [
+      { chuong: 21, tieuDe: "(mẫu) Thử luyện", tomTat: "(mẫu) Bước vào thử thách đầu tiên của quyển 2." }
     ]
   },
 
