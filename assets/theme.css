@@ -8,7 +8,7 @@
   --ink:#0e0b07; --ink2:#171109; --ink3:#1f1810; --panel:#1c150d; --panel2:#241b10;
   --line:#3b2f1c; --line2:#52401f; --line-gold:#6b521f;
   --gold:#c9a227; --gold2:#e7cd84; --gold3:#f3e6bf; --gold-soft:#9c7c2b;
-  --chu:#b0411f; --chu2:#d65a33;
+  --chu:#b0411f; --chu2:#d65a33;            /* chu sa - cinnabar (ấn triện) */
   --jade:#5a8c73;
   --text:#ece0c6; --muted:#a8966f; --muted2:#7d6c4c;
   --paper:#f4ead2; --paper2:#efe2c4; --paper-ink:#2a2014; --paper-line:#d9c79b;
@@ -20,7 +20,7 @@
   --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Noto Sans",sans-serif;
 }
 *{box-sizing:border-box}
-*,*::before,*::after{min-width:0}
+*,*::before,*::after{min-width:0}                 /* CHỐNG TRÀN: flex/grid item co được */
 html,body{margin:0;padding:0}
 body{
   font-family:var(--serif);color:var(--text);line-height:1.7;min-height:100vh;
@@ -30,10 +30,12 @@ body{
     radial-gradient(1200px 700px at 50% 120%, rgba(176,65,31,.06), transparent 60%),
     #0e0b07;
 }
+/* texture giấy mờ phủ toàn trang */
 body::before{
   content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.05;
   background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
 }
+/* CHỐNG TRÀN VIỀN — toàn cục */
 img,svg,video,canvas{max-width:100%;height:auto}
 h1,h2,h3,h4,p,span,a,div,li,td,button,input,textarea,select{overflow-wrap:anywhere;word-break:break-word}
 a{color:var(--gold2);text-decoration:none}
@@ -45,11 +47,13 @@ a:hover{color:var(--gold3);text-decoration:underline}
 *::-webkit-scrollbar-thumb:hover{background:#52401f}
 *::-webkit-scrollbar-track{background:transparent}
 
+/* ---------- nét vàng trang trí ---------- */
 .goldrule{height:1px;border:0;background:linear-gradient(90deg,transparent,var(--line-gold),var(--gold),var(--line-gold),transparent);margin:0}
 .flourish{display:flex;align-items:center;justify-content:center;gap:14px;color:var(--gold-soft);margin:6px 0 18px}
 .flourish::before,.flourish::after{content:"";height:1px;flex:1;max-width:220px;background:linear-gradient(90deg,transparent,var(--line-gold),transparent)}
 .flourish .gem{color:var(--gold);font-size:13px;letter-spacing:3px}
 
+/* ---------- ấn triện (seal) ---------- */
 .seal{
   flex:0 0 auto;width:38px;height:38px;border-radius:9px;display:grid;place-items:center;
   font-family:var(--han);font-size:24px;line-height:1;color:#fbe9c8;
@@ -57,6 +61,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
   border:1px solid #d98a5f;box-shadow:inset 0 0 0 2px rgba(255,225,190,.18);
 }
 
+/* ---------- top bar ---------- */
 .topbar{
   position:sticky;top:0;z-index:40;display:flex;align-items:center;gap:14px;
   padding:11px 20px;
@@ -74,6 +79,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .crumbs{color:var(--muted);font-size:13.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:46vw}
 .crumbs a{color:var(--gold)}
 
+/* ---------- buttons / chips ---------- */
 .btn{background:#2c2113;border:1px solid var(--line2);color:var(--text);border-radius:var(--radius-sm);
   padding:8px 14px;cursor:pointer;font-size:14px;transition:.15s;font-family:var(--sans);max-width:100%}
 .btn:hover{border-color:var(--gold);color:var(--gold2);background:#352815}
@@ -88,10 +94,12 @@ a:hover{color:var(--gold3);text-decoration:underline}
   color:var(--gold);font-variant-numeric:tabular-nums;font-family:var(--sans);max-width:100%}
 .neo:hover{border-color:var(--gold);text-decoration:none;color:var(--gold2)}
 
+/* ---------- demo banner ---------- */
 .demo-banner{background:repeating-linear-gradient(45deg,#3a2c10,#3a2c10 12px,#332810 12px,#332810 24px);
   color:var(--gold2);text-align:center;padding:7px 14px;font-size:13px;border-bottom:1px solid var(--gold-soft);font-family:var(--sans)}
 .demo-banner b{color:#fff}
 
+/* ============ NHÀ TÀI TRỢ — ô ngang gọn (đầu & cuối trang) ============ */
 .sponsor{max-width:var(--maxw);margin:14px auto 0;padding:0 16px}
 .sponsor-inner{
   display:flex;align-items:center;gap:14px;flex-wrap:wrap;
@@ -113,12 +121,14 @@ a:hover{color:var(--gold3);text-decoration:underline}
 @keyframes pulseCta{0%,100%{box-shadow:0 0 12px rgba(201,162,39,.18)}50%{box-shadow:0 0 22px rgba(231,205,132,.45)}}
 .sponsor.foot{margin:28px auto 0}
 
+/* ---------- layout ---------- */
 .wrap{max-width:var(--maxw);margin:0 auto;padding:22px 20px 36px}
 .page-head{display:flex;align-items:baseline;gap:12px;margin:8px 0 6px;flex-wrap:wrap}
 .page-head h1{font-family:var(--display);font-size:30px;margin:0;color:var(--gold2);font-weight:700;letter-spacing:.3px;line-height:1.15}
 .page-head .sub{color:var(--muted);font-size:14px}
 .section-title{font-family:var(--display);color:var(--gold2);font-size:21px;margin:0 0 12px;border-bottom:1px solid var(--line);padding-bottom:8px;font-weight:600}
 
+/* ---------- bộ nav (7 mục) — XUỐNG DÒNG, không vuốt ngang ---------- */
 .bo-nav{position:sticky;top:54px;z-index:30;display:flex;flex-wrap:wrap;gap:6px;justify-content:center;padding:9px 12px;
   background:linear-gradient(180deg,#1a130a,#140e07);border-bottom:1px solid var(--line)}
 .bo-nav a{white-space:nowrap;padding:7px 14px;border-radius:var(--radius-sm);color:var(--muted);font-size:14px;font-weight:600;
@@ -126,6 +136,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .bo-nav a:hover{background:#2a2012;color:var(--gold2);text-decoration:none}
 .bo-nav a.active{background:linear-gradient(180deg,#3a2c12,#2c2110);color:var(--gold2);box-shadow:inset 0 -2px 0 var(--gold)}
 
+/* ---------- cards ---------- */
 .cards{display:grid;gap:16px}
 .grid-2{grid-template-columns:repeat(auto-fill,minmax(min(100%,290px),1fr))}
 .grid-3{grid-template-columns:repeat(auto-fill,minmax(min(100%,240px),1fr))}
@@ -139,6 +150,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .card .blurb{color:var(--muted);font-size:13.5px;margin-top:8px;line-height:1.6;overflow-wrap:anywhere}
 .card .meta-row{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px;min-width:0}
 
+/* ---------- toolbar (filters) ---------- */
 .toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:16px;min-width:0}
 .toolbar input,.toolbar select{background:#140e07;border:1px solid var(--line2);color:var(--text);border-radius:var(--radius-sm);
   padding:9px 11px;font-size:14px;font-family:var(--sans);max-width:100%}
@@ -147,6 +159,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .toolbar label{color:var(--muted);font-size:13px}
 .count{color:var(--muted2);font-size:13px}
 
+/* ---------- drawer ---------- */
 .drawer-bg{position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:50;display:none}
 .drawer-bg.show{display:block}
 .drawer{position:fixed;top:0;right:0;height:100%;width:min(560px,96vw);background:linear-gradient(180deg,#1a130a,#140e07);
@@ -160,6 +173,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .drawer .body{overflow:auto;padding:18px 20px 40px}
 .kv{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;min-width:0}
 
+/* ---------- tabs (nhân vật) ---------- */
 .tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin:4px 0 16px;overflow-x:auto}
 .tabs button{background:none;border:none;color:var(--muted);padding:9px 13px;cursor:pointer;font-size:14px;font-weight:600;
   white-space:nowrap;font-family:var(--sans);border-bottom:2px solid transparent}
@@ -168,6 +182,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .tab-pane.active{display:block}
 .prose{color:#dccfb2;font-size:15px;line-height:1.85;overflow-wrap:anywhere}
 .prose p{margin:0 0 1em}
+/* Tiểu sử dạng khối (theo web cũ) */
 .info-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:14px}
 .iblock{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 13px;min-width:0}
 .iblock.full{grid-column:1/-1}
@@ -176,6 +191,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .ts-sum{background:#1c150d;border-left:3px solid var(--gold);border-radius:0 10px 10px 0;padding:12px 15px;color:#ddd0b6;font-size:14.5px;line-height:1.8}
 @media(max-width:520px){.info-grid{grid-template-columns:1fr}}
 
+/* ---------- kinh lịch timeline ---------- */
 .timeline{border-left:2px solid var(--line2);margin-left:6px;padding-left:16px;display:flex;flex-direction:column;gap:14px}
 .ev{position:relative;min-width:0}
 .ev::before{content:"";position:absolute;left:-23px;top:5px;width:10px;height:10px;border-radius:50%;background:var(--normal)}
@@ -190,6 +206,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .lvl.major{background:#3a2c10;color:var(--major)}
 .lvl.normal{background:#22303c;color:var(--normal)}
 .lvl.minor{background:#222a1c;color:var(--minor)}
+/* tag quan hệ (nhân mạch) */
 .rtag{font-size:11px;padding:1px 9px;border-radius:999px;font-family:var(--sans);white-space:nowrap;border:1px solid transparent}
 .rtag.cha-me{background:#1f2e22;color:#7fc99a;border-color:#2f5a40}
 .rtag.the-thiep{background:#33182a;color:#e79ac0;border-color:#7e3a66}
@@ -201,6 +218,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .rtag.doi-thu{background:#33180f;color:#e7a98e;border-color:#7e3a26}
 .rtag.khac{background:#241b10;color:#a8966f;border-color:#3a2f1c}
 
+/* ---------- realm ladder ---------- */
 .ladder{display:flex;flex-direction:column;gap:0}
 .rung{display:flex;gap:14px;align-items:stretch;cursor:pointer;min-width:0}
 .rung .rail{display:flex;flex-direction:column;align-items:center;flex:0 0 auto}
@@ -212,6 +230,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .rung .rcard h3{margin:0;color:var(--gold2);font-family:var(--display);font-size:17px;font-weight:600;overflow-wrap:anywhere}
 .rung .rcard .lvlno{color:var(--gold-soft);font-size:12px;font-weight:700;margin-right:6px;font-family:var(--sans)}
 
+/* ---------- map tree ---------- */
 .tree{font-size:14.5px}
 .tree ul{list-style:none;margin:0;padding-left:18px;border-left:1px dashed var(--line2)}
 .tree>ul{border-left:none;padding-left:0}
@@ -222,6 +241,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .tree .tw{width:14px;display:inline-block;color:var(--muted2);cursor:pointer;user-select:none;flex:0 0 auto}
 .tree .cap{font-size:10.5px;color:var(--muted2);border:1px solid var(--line2);border-radius:5px;padding:0 5px;font-family:var(--sans);flex:0 0 auto}
 
+/* ---------- reader ---------- */
 .reader-wrap{display:flex;gap:0;height:calc(100vh - 116px);border:1px solid var(--line-gold);border-radius:14px;overflow:hidden;min-width:0}
 .reader-toc{width:300px;flex:0 0 300px;background:#171109;border-right:1px solid var(--line);display:flex;flex-direction:column;min-width:0}
 .reader-toc .s{padding:10px}
@@ -244,14 +264,17 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .pager{display:flex;gap:10px;margin-top:24px}
 .pager .btn{flex:1;text-align:center;padding:12px}
 
+/* ---------- misc ---------- */
 .empty{color:var(--muted2);text-align:center;padding:50px 16px}
 .loading{color:var(--muted);text-align:center;padding:40px}
 
+/* ============ FOOTER: trợ duyên + góp ý ============ */
 .site-foot{max-width:var(--maxw);margin:8px auto 0;padding:0 16px 40px}
 .foot-grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));margin-top:18px}
 .foot-card{background:linear-gradient(180deg,#1c150d,#161009);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;min-width:0}
 .foot-card h3{margin:0 0 4px;font-family:var(--display);color:var(--gold2);font-size:19px;font-weight:700;display:flex;align-items:center;gap:9px}
 .foot-card .lead{color:var(--muted);font-size:13.5px;margin:0 0 14px;overflow-wrap:anywhere}
+/* donate */
 .donate-row{display:flex;gap:16px;flex-wrap:wrap;align-items:center}
 .qr{width:124px;height:124px;flex:0 0 auto;border-radius:11px;background:#f4ead2;display:grid;place-items:center;color:#6b521f;
   border:1px solid #cdb682;font-size:12px;text-align:center;font-family:var(--sans);padding:8px}
@@ -259,6 +282,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .donate-info .di{display:flex;justify-content:space-between;gap:10px;padding:4px 0;border-bottom:1px dashed var(--line2)}
 .donate-info .di b{color:var(--gold2);font-family:var(--sans);text-align:right;overflow-wrap:anywhere}
 .donate-info .di span{color:var(--muted)}
+/* feedback */
 .fb-form{display:flex;flex-direction:column;gap:10px}
 .fb-form textarea{width:100%;min-height:96px;resize:vertical;background:#120c06;border:1px solid var(--line2);color:var(--text);
   border-radius:10px;padding:11px 13px;font-family:var(--serif);font-size:14.5px;line-height:1.6}
@@ -272,6 +296,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 
 .copyline{color:var(--muted2);font-size:12.5px;text-align:center;padding:22px 12px 0;margin-top:22px;border-top:1px solid var(--line);font-family:var(--sans)}
 
+/* ============ BONG BÓNG NỔI Zalo + TikTok (cạnh phải) ============ */
 .bubbles{position:fixed;right:16px;bottom:20px;z-index:70;display:flex;flex-direction:column;gap:12px}
 .bubbles a{width:50px;height:50px;border-radius:50%;display:grid;place-items:center;color:#fff;font-weight:700;
   font-family:var(--sans);font-size:13px;border:2px solid rgba(255,255,255,.25);box-shadow:0 6px 18px rgba(0,0,0,.45);
@@ -288,6 +313,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .bubbles a.tiktok::after{color:#ff3b5c}
 @keyframes ring{0%{opacity:.5;transform:scale(1)}70%{opacity:0;transform:scale(1.5)}100%{opacity:0}}
 
+/* ---------- responsive ---------- */
 @media (max-width:820px){
   .reader-wrap{flex-direction:column;height:auto}
   .reader-toc{width:auto;flex:none;max-height:42vh}

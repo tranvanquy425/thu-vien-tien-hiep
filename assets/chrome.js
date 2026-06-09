@@ -33,10 +33,10 @@
     sponsorHTML(true) +
     '<div class="site-foot"><div class="flourish"><span class="gem">❖ ❖ ❖</span></div>' +
       '<div class="foot-grid">' +
-        '<div class="foot-card"><h3><span class="seal" style="width:30px;height:30px;font-size:18px">緣</span> Trợ duyên</h3>' +
+        '<div class="foot-card"><h3><span class="seal" style="width:30px;height:30px;font-size:18px">緰</span> Trợ duyên</h3>' +
           '<p class="lead">' + esc(dn.lead || "") + '</p>' +
           '<div class="donate-row">' + qr + '<div class="donate-info">' + diRows + '</div></div></div>' +
-        '<div class="foot-card"><h3><span class="seal" style="width:30px;height:30px;font-size:18px">諫</span> Góp ý</h3>' +
+        '<div class="foot-card"><h3><span class="seal" style="width:30px;height:30px;font-size:18px">誫</span> Góp ý</h3>' +
           '<p class="lead">' + esc(fb.lead || "Góp ý nếu thấy nội dung chưa chuẩn.") + '</p>' +
           '<form class="fb-form" id="fbForm">' +
             '<textarea id="fbText" placeholder="Nội dung góp ý (vd: chương 12 ghi sai cảnh giới…)" required></textarea>' +
