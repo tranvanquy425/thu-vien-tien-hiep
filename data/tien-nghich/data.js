@@ -184,53 +184,53 @@ window.LIB_DATA["tien-nghich"].characters = {
         kinhLich: [
           {
             chuong: "@c0001",
-            importance: "major",
-            text: "Được Tứ thúc nhường danh ngạch đề cử Hằng Nhạc Phái; bị anh họ Vương Trác công khai sỉ nhục tại tiệc. Âm thầm hạ quyết tâm 'vô luận thế nào cũng phải được tuyển chọn'. Rời thôn theo Tứ thúc lần đầu tiên."
+            importance: "normal",
+            text: "Được Tứ thúc nhường danh ngạch đề cử Hằng Nhạc Phái; bị anh họ Vương Trác công khai sỉ nhục tại tiệc ('ngươi không bằng miếng thức ăn gia súc'). Âm thầm hạ quyết tâm 'vô luận thế nào cũng phải được tuyển chọn'. Rời thôn theo Tứ thúc lần đầu tiên."
           },
           {
             chuong: "@c0002",
-            importance: "major",
-            text: "Cùng Vương Trác và thiếu niên lanh lợi được bạch y thanh niên Hằng Nhạc Phái độn kiếm quang đưa lên sơn phong. Lần đầu thấy tiên nhân, kinh hãi mặt tái. Tham gia trắc thí linh căn cùng tổng cộng 48 thiếu niên."
+            importance: "minor",
+            text: "Lần đầu thấy tiên nhân — kinh hãi mặt tái, nhưng lòng càng khát vọng tu tiên. Cùng Vương Trác, Vương Hạo được bạch y thanh niên độn kiếm quang đưa lên sơn phong Hằng Nhạc Phái dự trắc thí."
           },
           {
             chuong: "@c0003",
-            importance: "major",
-            text: "Bị phán 'Không hợp cách' ở vòng trắc thí tư chất. Không bỏ cuộc, tham gia vòng hai — leo thềm đá dốc trắc thí nghị lực (hạn 3 ngày). Thở sâu, ánh mắt kiên định, không do dự bước lên thềm đá bắt đầu leo."
+            importance: "minor",
+            text: "Bị phán 'Không hợp cách' ở vòng trắc thí linh căn. Không gục ngã — thở sâu, ánh mắt kiên định, bước lên thềm đá bắt đầu vòng hai: trắc thí nghị lực (leo thềm đá dốc trong 3 ngày)."
           },
           {
             chuong: "@c0004",
-            importance: "major",
-            text: "Leo thềm đá suốt hai ngày rồi ngày thứ ba: hai chân nổi huyết phao đau như kim châm, tay huyết nhục lẫn lộn, hôn mê ngã xuống khi chỉ còn cách đỉnh chưa đầy mười trượng — trượt trắc thí nghị lực. Được đưa thử Kiếm Linh Các: vượt mốc năm trượng mà sáu người trước bị chặn, tiến tới cách cổng ba trượng khiến chủ khảo lộ hứng thú, nhưng bị lực đạo khổng lồ đẩy bật ra — trượt Kiếm Linh. Mười một người đều trượt."
+            importance: "normal",
+            text: "Trượt toàn bộ hai vòng cuối: leo thềm đá gần ba ngày đến huyết nhục lẫn lộn, hôn mê ngã xuống cách đỉnh chưa đầy mười trượng — trượt nghị lực. Vào Kiếm Linh Các tiến xa nhất nhóm (tới cách cổng ba trượng) nhưng bị lực đạo đẩy bật ra — trượt Kiếm Linh. Trượt cả ba hạng trắc thí."
           },
           {
             chuong: "@c0005",
-            importance: "major",
-            text: "Trở về giữa bữa tiệc chúc mừng của Vương gia — không được Hằng Nhạc Phái thu nhận. Quỳ dập đầu xin lỗi cha mẹ; mẹ khuyên đừng làm chuyện dại dột. Tinh thần suy sụp nặng nề."
+            importance: "minor",
+            text: "Trở về giữa tiệc chúc mừng của Vương gia — không được Hằng Nhạc Phái thu nhận. Quỳ dập đầu xin lỗi cha mẹ; mẹ an ủi đừng làm chuyện dại dột. Tinh thần suy sụp nặng nề."
           },
           {
             chuong: "@c0006",
-            importance: "major",
-            text: "Toàn bộ thân thích Vương gia trở mặt đồng loạt sỉ nhục cả nhà. Vương Lâm nén đau, trầm tĩnh nhìn tất cả, ghi kỹ diện mạo mỗi thân thích, thề sẽ bước vào tiên môn. Tứ thúc bênh vực và dàn xếp kết thúc."
+            importance: "normal",
+            text: "Toàn bộ thân thích trở mặt sỉ nhục, đòi lại lễ vật. Vương Lâm trầm tĩnh nhìn tất cả, ghi kỹ diện mạo mỗi kẻ — khoảnh khắc 'khắc cốt ghi thù' then chốt. Tứ thúc bênh vực và dàn xếp kết thúc."
           },
           {
             chuong: "@c0007",
             importance: "major",
-            text: "Tuyên thề trước thân thích sẽ bước vào tiên nhân môn phái. Đêm khuya để lại lưu thư, bỏ nhà lần thứ hai, băng thâm sơn hướng đông quay lại Hằng Nhạc Phái. Bị hổ trắng dồn, nhảy vách núi; được lực hút kỳ quái kéo vào huyệt động bí ẩn (phong nhãn thiên nhiên). Bị thương cánh tay phải và đùi phải."
+            text: "Tuyên thề trước cả họ sẽ bước vào tiên môn. Đêm khuya để lại lưu thư, bỏ nhà lần thứ hai — băng thâm sơn hướng đông một mình. Bị hổ trắng dồn, nhảy vách núi; giữa chừng rơi được lực hút kỳ quái kéo vào huyệt động phong nhãn thiên nhiên. Bị thương cánh tay phải, mắc kẹt."
           },
           {
             chuong: "@c0008",
             importance: "major",
-            text: "Bị kẹt trong huyệt động, ăn thịt sống phi điểu để sống sót. Moi được Thạch Châu màu xám khắc năm đóa mây trắng từ xác chim. Phát hiện thạch châu tiết hạt sương dưới nắng — sương trị lành cánh tay sưng tấy hoàn toàn; kết luận đây là bảo bối."
+            text: "Mắc kẹt trong huyệt động, ăn thịt sống phi điểu để sống sót. Moi được Thạch Châu màu xám khắc năm đóa mây trắng từ xác chim. Phát hiện châu tiết hạt sương dưới nắng — sương trị lành hoàn toàn cánh tay sưng tấy. Kết luận đây là bảo bối; đây là pháp bảo đầu tiên hắn sở hữu."
           },
           {
             chuong: "@c0009",
-            importance: "major",
-            text: "Tụt vách xuống chân núi (xé quần áo bện dây, dây đứt giữa chừng), đùi phải đâm trúng đá nhọn lộ xương; tự sơ cứu bằng sương thạch châu. Được cha và đệ tử họ Trương cứu, đưa về Hằng Nhạc Phái. Cha mẹ hiểu lầm hắn muốn tự sát; hắn không giải thích. Các trưởng lão bàn luận, lão giả nếp nhăn (Lý trưởng lão — tên xác nhận ở @c0010) đề xuất phá lệ thu hắn làm ký danh đệ tử."
+            importance: "normal",
+            text: "Tụt vách xuống chân núi bằng dây bện từ quần áo — dây đứt giữa chừng, đùi phải đâm trúng đá nhọn lộ xương; tự sơ cứu bằng sương thạch châu. Được cha và đệ tử họ Trương cứu, đưa về Hằng Nhạc Phái; cha mẹ hiểu lầm hắn tự sát, hắn không giải thích."
           },
           {
             chuong: "@c0010",
             importance: "major",
-            text: "Chính thức nhập môn Hằng Nhạc Phái với thân phận ký danh đệ tử — nhờ Tứ thúc dâng khối tinh thiết bất phàm cho trung niên nhân tiến cử. Nhận áo xám, thẻ bài, phòng ở phía Bắc. Bị đệ tử áo vàng 'con chồn' ép gánh đầy mười vại nước khổng lồ mỗi ngày (không hoàn thành 7 ngày liên tiếp sẽ bị trục xuất). Quyết giấu kín Thạch Châu. Kết bạn với bạn cùng phòng Trương Hổ."
+            text: "Chính thức nhập môn Hằng Nhạc Phái với thân phận ký danh đệ tử — thực nhờ Tứ thúc dâng khối tinh thiết bất phàm cho trung niên nhân tiến cử. Nhận áo xám, thẻ bài, phòng phía Bắc. Bị đệ tử áo vàng 'con chồn' giao lao dịch nặng: gánh đủ mười vại nước khổng lồ mỗi ngày (không đủ 7 ngày liên tiếp sẽ bị trục xuất). Quyết giấu kín Thạch Châu. Kết bạn với bạn cùng phòng Trương Hổ."
           },
         ],
         tuVi: "Phàm nhân xuyên suốt Ch.1–10, chưa bắt đầu tu luyện tiên pháp nào. Thân phận: ký danh đệ tử Hằng Nhạc Phái (từ @c0010), chưa đủ điều kiện được truyền tiên pháp (cần làm tạp vụ đủ mười năm). Thạch Châu chưa có biểu hiện cường hóa thể chất rõ trong phạm vi Ch.1–10.",
@@ -287,8 +287,8 @@ window.LIB_DATA["tien-nghich"].characters = {
           },
           {
             chuong: "@c0003",
-            importance: "major",
-            text: "Đạt vòng trắc thí tư chất, được nhận một phần nhờ Đạo Hư sư thúc tiến cử. Qua bên phải, tiếp tục khinh miệt và mỉa mai những người thất bại, trong đó có Vương Lâm."
+            importance: "normal",
+            text: "Đạt vòng trắc thí tư chất — qua bên phải nhờ linh căn và Đạo Hư sư thúc tiến cử. Tiếp tục khinh miệt, mỉa mai những người trượt, trong đó có Vương Lâm."
           },
           {
             chuong: "@c0004",
@@ -585,8 +585,8 @@ window.LIB_DATA["tien-nghich"].characters = {
         kinhLich: [
           {
             chuong: "@c0010",
-            importance: "major",
-            text: "Lần đầu xuất hiện trực tiếp — thiếu niên áo xám gầy yếu, mệt mỏi, bạn cùng phòng của Vương Lâm. Đói hai ngày; Vương Lâm cho khoai lang, anh ăn ngấu nghiến, khai đã hai ngày chưa ăn, cảm ơn và hỏi tên. Biết Vương Lâm là 'kẻ dựa tự sát mà vào phái', ngượng nhưng bội phục. Cảnh báo về 'con chồn' (hoàng y thanh niên — đệ tử tạp vụ áo vàng, chưa rõ tên) tâm địa gian xảo, sẽ không nhìn ký danh đệ tử như con người. Bộc trực, biết ơn — người bạn đầu tiên của Vương Lâm trong phái."
+            importance: "normal",
+            text: "Lần đầu xuất hiện — ký danh đệ tử áo xám gầy yếu, bạn cùng phòng của Vương Lâm. Đói hai ngày; Vương Lâm cho khoai lang, kết thân. Nhận ra Vương Lâm là 'kẻ dựa tự sát mà vào phái', ngượng nhưng bội phục. Cảnh báo về 'con chồn' tạp vụ tâm địa gian xảo, sẽ không nhìn ký danh đệ tử như con người."
           },
         ],
         tuVi: "Phàm nhân, ký danh đệ tử Hằng Nhạc Phái ba năm; chưa được truyền tiên pháp (cần đủ mười năm làm tạp vụ đủ định mức). Cảnh giới: chưa nhập môn tu luyện.",
