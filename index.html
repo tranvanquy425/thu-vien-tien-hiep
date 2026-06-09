@@ -30,13 +30,13 @@
 <script src="assets/chrome.js"></script>
 <script>
   const wrap = document.getElementById("boCards");
-  const esc = s => (s==null?"":String(s)).replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\'":"&quot;"}[m]));
+  const esc = s => (s==null?"":String(s)).replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
   (window.LIB_CONFIG.boList || []).forEach(b => {
     const a = document.createElement("a");
     a.className = "card"; a.href = "bo.html?bo=" + b.slug;
     a.innerHTML =
       '<h3>' + esc(b.ten) + ' <span class="cn">' + esc(b.cn||"") + '</span></h3>' +
-      '<div class="cn" style="font-family:var(--sans);color:var(--muted2)">Tác giả: ' + esc(b.tacGia||"") + '</div>' +
+      '<div class="cn" style="font-family:var(--sans);color:var(--muted2)">Tác giả: ' + esc(b.tacGia||"—") + '</div>' +
       '<div class="blurb">' + esc(b.blurb||"") + '</div>' +
       '<div class="meta-row">' +
         '<span class="chip gold">7 mục tra cứu</span>' +
