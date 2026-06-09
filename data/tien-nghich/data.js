@@ -158,7 +158,7 @@ window.LIB_DATA["tien-nghich"].realms = {
 
 window.LIB_DATA["tien-nghich"].characters = {
   updatedAt: "2026-06-10",
-  count: 19,
+  count: 27,
   chars: [
     {
       id: "vuong-lam",
@@ -310,6 +310,56 @@ window.LIB_DATA["tien-nghich"].characters = {
             importance: "normal",
             text: "Huyền Đạo Tông tới Hằng Nhạc Phái (cưỡi linh thú Thiên Túc Ngô Công). Gặp Liễu Mi — nữ đệ tử nổi bật Huyền Đạo Tông, tim đập thình thịch nhưng lập tức khóa tâm thần; được Liễu Mi đánh giá nhầm là Ngưng Khí tầng 3. Mở rộng nhãn giới về Tu Chân Giới Triệu quốc và các tông môn. (@c0040)"
           },
+          {
+            chuong: "@c0041",
+            importance: "minor",
+            text: "Bị Vương Trác công khai sắp đặt giao việc nguy hiểm (săn mồi nuôi Ngô Công) trước mặt cả hai phái. Ngồi tách riêng, trò chuyện với Nữ tử họ Chu — bày tỏ quan niệm 'Đại đạo vô tình' nhưng tự nhận không dứt được phàm trần vì nhớ công ơn cha mẹ. (@c0041)"
+          },
+          {
+            chuong: "@c0042",
+            importance: "minor",
+            text: "Một mình thăm dò Ngô Công: bị hút hàn khí nhưng vận linh khí hóa giải dễ dàng, Ngô Công kinh ngạc. Quan sát Ngô Công khạc khí đen làm tan thú nhỏ thành vũng máu; suy ra độc tố tỉ lệ thuận kích thước đầu. (@c0042)"
+          },
+          {
+            chuong: "@c0043",
+            importance: "normal",
+            text: "Thăm Vương Hạo sau 4 năm; dùng thần thức phát hiện linh khí Vương Hạo lưu động quỷ dị, sắp khí tán thân vong. Đọc công pháp Lô Hỏa Khai Đỉnh Đại Pháp, nhìn ra Lữ Vân Kiệt (tam sư huynh) đang biến Vương Hạo thành dược lô luyện Nhân Thọ đan. Nhớ về phụ thân bị phong hàn nhập thể, nảy ý lấy dịch độc Ngô Công chữa bệnh cho cha. (@c0043)"
+          },
+          {
+            chuong: "@c0044",
+            importance: "normal",
+            text: "Nhận lời cầu xin của Vương Hạo: sẽ giết Lữ Vân Kiệt báo thù khi tu vi đủ mạnh. Chứng kiến Lý Sơn (Huyền Đạo Tông) bán Phích Lịch đạn gian lận; thần thức phát hiện bí mật — đạn không tự nổ, Lý Sơn ngầm phóng linh khí kích hoạt. Bước vào cảnh giới ngộ đạo sau khi Vương Hạo rời đi; lĩnh ngộ 'cá lớn nuốt cá bé' của Tu Chân Giới. (@c0044)"
+          },
+          {
+            chuong: "@c0045",
+            importance: "minor",
+            text: "Mua ba viên Phích Lịch đạn từ Lý Sơn bằng linh phù môn phái; biết tỏng đạn do Lý Sơn khống chế nổ nhưng vẫn mua để tương kế tựu kế. (@c0045)"
+          },
+          {
+            chuong: "@c0046",
+            importance: "major",
+            text: "Phát hiện bên trong Phích Lịch đạn lưu đạo thần thức của Lý Sơn; bao thần thức của mình lên, 'nuốt' đạo thần thức Lý Sơn vào trong, từ đó tự mình kích nổ được. Lần đầu tiên tiếp xúc lão quái vật ẩn trong Thạch Châu (Tư Đồ Nam) — lão xưng 'Linh Động Kỳ viên mãn' là tu vi thật của VL, tiết lộ đã âm thầm trợ giúp và theo dõi VL gần 30 năm. Biết về hệ thống Tu Chân Quốc 5 cấp và Liên Minh Tu Chân. (@c0046)"
+          },
+          {
+            chuong: "@c0047",
+            importance: "normal",
+            text: "Trong Mộng Cảnh, Tư Đồ Nam tự xưng danh (cường giả Chu Tước quốc lục cấp), kể lai lịch bị truy sát thân hủy chui vào Thạch Châu, tiết lộ đã dùng tinh hoa nguyên anh giúp VL củng cố tu vi suốt mấy chục năm. Điều kiện Thạch Châu nhận chủ: đủ ngũ hành + tu vi ≥ Anh Biến kỳ. Tham dự tỷ thí; bị Ngô Công phun hàn khí, VL vận linh lực hóa giải. (@c0047)"
+          },
+          {
+            chuong: "@c0048",
+            importance: "major",
+            text: "Được Hoàng Long chân nhân cử lên làm 'con tốt thí'. Lần đầu thực chiến: ba lần liên tiếp đánh bại Chu Bằng (Ngưng Khí tầng 13, đại đệ tử Huyền Đạo tông) bằng Dẫn Lực thuật + Phích Lịch đạn; tiếp tục hạ Dương Nghị (nhị sư huynh Huyền Đạo). Được toàn bộ đệ tử Hằng Nhạc tôn 'đại sư huynh'. Nội tâm xác nhận: thực lực = Linh Động Kỳ viên mãn ≈ Ngưng Khí tầng 14 (theo Tư Đồ Nam); bác bỏ thuyết 'chặt duyên phàm trần'. (@c0048)"
+          },
+          {
+            chuong: "@c0049",
+            importance: "normal",
+            text: "Đối đầu Âu Dương lão giả: vận Dẫn Lực thuật hóa hai bàn tay hữu hình, vừa đỡ cự kiếm vừa khống chế Ngô Công ép thổ dịch độc màu đen. Thu được dịch độc Thiên Túc Ngô Công (để trị bệnh phong hàn cho phụ thân); dùng bình ngọc nước sông hậu sơn làm vật đổi hóa giải xung đột. Được Hoàng Long nêu làm gương toàn môn. (@c0049)"
+          },
+          {
+            chuong: "@c0050",
+            importance: "major",
+            text: "Phát hiện Vương Hạo sắp chết trong lò luyện đan của Lữ Vân Kiệt; phá màn ngũ thải lò luyện, cứu Vương Hạo thoát khỏi quỷ môn quan. Bị Hoàng Long chân nhân thẩm vấn riêng về tiên pháp và tu vi thật — tiếp tục giấu, khăng khăng 'không biết mình đạt cấp độ gì'. Lữ Vân Kiệt bị phạt diện bích 20 năm; Vương Hạo được nâng thành nội môn đệ tử. (@c0050)"
+          },
         ],
         tuVi: "Phàm nhân xuyên suốt Ch.1–20, không thể linh khí nhập thể dù bí mật ngâm Thạch Châu (cuối Ch.20 nguyên tác ghi rõ: \"đến bây giờ vẫn như cũ không thể linh khí nhập thể\"@c0020). Từ Ch.16 trở thành đệ tử nội môn trên danh nghĩa của Tôn Đại Trụ. Đột phá Ngưng Khí tầng 1 @c0025 nhờ Mộng Cảnh thời gian gấp 10 lần; đột phá tầng 2 @c0030, sinh thần thức. Ch.31–40: đạt tầng 3 trong mộng cảnh @c0036; bị chặn ở tầng 4 (cần lĩnh ngộ đại đạo/'chặt đứt phàm trần' @c0037). Đặc dị: tầng 3 không có cực hạn — linh khí vẫn tăng khi người thường bị kẹt. Sau 4 năm hậu sơn, tổng tu luyện thực tế 27 năm (gồm mộng cảnh). Công khai lộ tầng 3 @c0038. Dẫn Lực Thuật luyện hơn 20 năm, đứng đầu Triệu quốc Tu Chân Giới @c0038. (Lưu ý: \"Ngưng Khí tầng 5 @c0020\" là của Tôn Đại Trụ — không phải Vương Lâm.)",
         tuViMoc: [
@@ -364,7 +414,7 @@ window.LIB_DATA["tien-nghich"].characters = {
           ]
         }
       },
-      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007", "@c0008", "@c0009", "@c0010", "@c0011", "@c0012", "@c0013", "@c0014", "@c0015", "@c0016", "@c0017", "@c0018", "@c0019", "@c0020", "@c0031", "@c0032", "@c0033", "@c0034", "@c0035", "@c0036", "@c0037", "@c0038", "@c0039", "@c0040"]
+      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007", "@c0008", "@c0009", "@c0010", "@c0011", "@c0012", "@c0013", "@c0014", "@c0015", "@c0016", "@c0017", "@c0018", "@c0019", "@c0020", "@c0031", "@c0032", "@c0033", "@c0034", "@c0035", "@c0036", "@c0037", "@c0038", "@c0039", "@c0040", "@c0041", "@c0042", "@c0043", "@c0044", "@c0045", "@c0046", "@c0047", "@c0048", "@c0049", "@c0050"]
     },
     {
       id: "vuong-trac",
@@ -512,11 +562,11 @@ window.LIB_DATA["tien-nghich"].characters = {
       aliases: [],
       gioiTinh: "nam",
       theLuc: ["Vương Thị Gia Tộc", "Hằng Nhạc Phái"],
-      canhGioiCaoNhat: "Phàm nhân (học tiên pháp cấp thấp với tư cách đồng tử)",
-      trangThai: "song",
+      canhGioiCaoNhat: "Chưa rõ (vẫn chưa Ngưng Khí tầng 1 @c0030; bị Lữ Vân Kiệt biến thành dược lô @c0043, sắp khí tán thân vong)",
+      trangThai: "song (cứu thoát @c0050, thăng nội môn đệ tử)",
       vaiTro: "Bạn đồng hành / đồng tử",
       tinhCach: "Lanh lợi, thực tế, không ngại nịnh nọt để đạt mục đích; có thiện cảm với Vương Lâm.",
-      blurb: "Thiếu niên lanh lợi, con của Tam đệ trong Vương gia. Tư chất kém nhưng dâng linh chi 300 năm, được nhận làm dược đồng (đồng tử) Hằng Nhạc Phái. Có thiện cảm với Vương Lâm dù không dám bày tỏ công khai.",
+      blurb: "Thiếu niên lanh lợi, con của Tam đệ trong Vương gia. Tư chất kém nhưng dâng linh chi 300 năm, được nhận làm dược đồng (đồng tử) Hằng Nhạc Phái. Bị tam sư huynh Lữ Vân Kiệt ép tu Lô Hỏa Khai Đỉnh Đại Pháp, biến thành dược lô luyện Nhân Thọ đan, chỉ còn ~1 năm sống (@c0043). Được Vương Lâm cứu thoát và thăng nội môn đệ tử (@c0050).",
       tabs: {
         tieuSu: "Vương Hạo là con của Tam đệ (tức Tam thúc của Vương Lâm), thiếu niên da hơi đen, khỏe mạnh, mắt lanh lợi — một trong ba đại diện Vương gia dự trắc thí. Hắn tự giới thiệu với Vương Lâm và tỏ ra thân thiện. Cha hắn từng tình cờ nhặt được một hộp ngọc trong núi; Vương Hạo mang theo vật này. Tại trắc thí, tư chất Vương Hạo bị phán 'kém chút, không'. Hắn lập tức nịnh nọt tiên sư và dâng hộp ngọc — bên trong chứa gốc linh chi 300 năm. Trung niên nhân thu hắn làm tiểu đồng luyện đan (đồng tử), được học tiên pháp cấp thấp. Sau khi Vương Lâm bị cả họ sỉ nhục, Vương Hạo lộ vẻ áy náy, mở lời định bênh nhưng bị cha trừng mắt ngăn lại — chi tiết hé lộ thiện cảm thật sự với Vương Lâm. Theo lời Trương Hổ, đồng tử kiểu Vương Hạo có tư chất bình thường, cả đời khó có tiền đồ lớn, chỉ hầu hạ suốt đời.",
         diem: [
@@ -559,13 +609,24 @@ window.LIB_DATA["tien-nghich"].characters = {
             chuong: "@c0030",
             importance: "normal",
             text: "Tới tìm VL giữa mùa đông, viện cớ mang đồ bỏ quên. Mục đích thật: ngỏ mượn Tham Thân tiên phù của VL. Xác nhận bản thân TỚI CHƯA đạt Ngưng Khí tầng 1 dù có linh đan hỗ trợ."
+          },
+          {
+            chuong: "@c0043",
+            importance: "major",
+            text: "Bị tam sư huynh Lữ Vân Kiệt lừa uống Tạo Hóa Đan rồi ép tu Lô Hỏa Khai Đỉnh Đại Pháp — bị biến thành dược lô luyện đan. Linh khí trong người lưu động quỷ dị, sắp khí tán thân vong, thọ mệnh chỉ còn ~1 năm. Cầu xin Vương Lâm báo thù Lữ Vân Kiệt. (@c0043)"
+          },
+          {
+            chuong: "@c0050",
+            importance: "major",
+            text: "Được Vương Lâm phá màn ngũ thải lò luyện của Lữ Vân Kiệt, cứu thoát khỏi quỷ môn quan. Hồng Kiểm lão giả xác nhận Lô Hỏa Khai Đỉnh có thật. Lữ Vân Kiệt bị phạt diện bích 20 năm; Vương Hạo được thăng thành nội môn đệ tử. (@c0050)"
           }
         ],
-        tuVi: "Phàm nhân (Ch.2–10), đồng tử Hằng Nhạc Phái. Được học tiên pháp cấp thấp với tư cách đồng tử/người hầu, không làm tạp vụ. Cảnh giới cụ thể chưa nêu rõ trong phạm vi Ch.1–10.",
+        tuVi: "Phàm nhân (Ch.2–10), đồng tử Hằng Nhạc Phái. Được học tiên pháp cấp thấp với tư cách đồng tử/người hầu, không làm tạp vụ. Chưa đạt Ngưng Khí tầng 1 tính đến @c0030. Sau @c0050: thăng nội môn đệ tử.",
         tuViMoc: [],
         nhanMach: [
-          { ten: "Vương Lâm", quanHe: "Họ hàng / bạn đồng hành", ghiChu: "Có thiện cảm thật sự; định bênh khi bị sỉ nhục nhưng bị cha ngăn.", tag: "ban-be" },
-          { ten: "Trung niên nhân (Tam sư huynh)", quanHe: "Chủ nhân / tiên sư", ghiChu: "Thu Vương Hạo làm dược đồng nhờ linh chi.", tag: "su-mon" }
+          { ten: "Vương Lâm", quanHe: "Họ hàng / ân nhân", ghiChu: "Có thiện cảm thật sự; định bênh khi bị sỉ nhục nhưng bị cha ngăn. Vương Lâm cứu khỏi lò luyện đan @c0050.", tag: "an-nhan" },
+          { ten: "Lữ Vân Kiệt", quanHe: "Kẻ hại mình", ghiChu: "Tam sư huynh, lừa biến thành dược lô; bị Hoàng Long phạt diện bích @c0050.", tag: "thu-dich" },
+          { ten: "Trung niên nhân (Tam sư huynh)", quanHe: "Chủ nhân / tiên sư (ban đầu)", ghiChu: "Thu Vương Hạo làm dược đồng nhờ linh chi; sau xác định đây chính là Lữ Vân Kiệt.", tag: "su-mon" }
         ],
         tuiDo: {
           phapBao: [],
@@ -577,7 +638,7 @@ window.LIB_DATA["tien-nghich"].characters = {
           ]
         }
       },
-      nguon: ["@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0021", "@c0030"]
+      nguon: ["@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0021", "@c0030", "@c0043", "@c0050"]
     },
     {
       id: "vuong-thien-thuy",
@@ -961,6 +1022,11 @@ window.LIB_DATA["tien-nghich"].characters = {
             chuong: "@c0037",
             importance: "minor",
             text: "Chu sư tỷ hỏi Trương Cuồng về bình cảnh tam tiến tứ, tự nhận đang ở Ngưng Khí tầng 3; là người Vương Trác theo đuổi. Sau 2 năm vẫn kẹt ở tầng 3, linh khí không tăng nửa điểm — ví dụ điển hình bình cảnh người thường. Từ sư tỷ sau 4 năm đạt Ngưng Khí tầng 3."
+          },
+          {
+            chuong: "@c0041",
+            importance: "minor",
+            text: "Trong đợt Huyền Đạo Tông tới Hằng Nhạc Phái, Nữ tử họ Chu (Chu sư tỷ) chủ động ngồi bên Vương Lâm trò chuyện. Khi VL nói đến 'Đại đạo vô tình', cô thừa nhận bản thân cũng không thể dứt bỏ tình thân gia đình. (@c0041)"
           }
         ],
         tuVi: "Ngưng Khí kỳ tầng 3 (xác nhận @c0037).",
@@ -972,7 +1038,7 @@ window.LIB_DATA["tien-nghich"].characters = {
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0021", "@c0037"]
+      nguon: ["@c0021", "@c0037", "@c0041"]
     },
     {
       id: "truong-cuong",
@@ -1007,6 +1073,11 @@ window.LIB_DATA["tien-nghich"].characters = {
             chuong: "@c0037",
             importance: "normal",
             text: "Chủ trì buổi giảng giải 2 bình cảnh Ngưng Khí kỳ (tam tiến tứ cần lĩnh ngộ đại đạo; ngũ tiến lục hao linh khí lớn). Lặng lẽ tiếp cận dò xét VL bên sông linh khí — không bị thần thức VL phát hiện; tạm tin lời giải thích."
+          },
+          {
+            chuong: "@c0048",
+            importance: "minor",
+            text: "Liễu Mi tiết lộ bí mật của Trương Cuồng trước tỷ thí: hắn dùng Linh Tuyền thủy để duy trì diện mạo trẻ trung (bí mật giữ nhan). (@c0048)"
           }
         ],
         tuVi: "Ngưng Khí kỳ tầng 6 (@c0035, @c0037). Mặc tử y — đệ tử nòng cốt Hằng Nhạc Phái, cấp cao nhất.",
@@ -1018,7 +1089,7 @@ window.LIB_DATA["tien-nghich"].characters = {
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0033", "@c0035", "@c0037"]
+      nguon: ["@c0033", "@c0035", "@c0037", "@c0048"]
     },
     {
       id: "dao-hu",
@@ -1066,18 +1137,21 @@ window.LIB_DATA["tien-nghich"].characters = {
         tieuSu: "Đệ tử nội môn Hằng Nhạc Phái, thanh niên bạch y ~24-25 tuổi. Phe Vương Trác. Tại hậu sơn, cùng Vương Trác chế nhạo Vương Lâm là 'phế vật', ném bình sai lấy nước.",
         diem: [],
         kinhLich: [
-          { chuong: "@c0036", importance: "minor", text: "Ném bình xuống chân Vương Lâm, sai lấy nước, dọa giáo huấn viện lý do nhị sư huynh cho phép đánh nhau trong hậu sơn; bị Trương Cuồng bay xuống quát mắng, không dám nói gì." }
+          { chuong: "@c0036", importance: "minor", text: "Ném bình xuống chân Vương Lâm, sai lấy nước, dọa giáo huấn viện lý do nhị sư huynh cho phép đánh nhau trong hậu sơn; bị Trương Cuồng bay xuống quát mắng, không dám nói gì." },
+          { chuong: "@c0042", importance: "minor", text: "Chứng kiến Vương Lâm vào kiểm tra Ngô Công một mình; công khai mỉa mai — gọi là 'ngu' khi dám một mình vào với Ngô Công. (@c0042)" },
+          { chuong: "@c0047", importance: "normal", text: "Xuất trận tỷ thí tại Thương Tùng Phong; đấu với Lý Sơn (Huyền Đạo Tông). Bị Lý Sơn dùng Phích Lịch đạn đánh bại (đạn kích hoạt bởi Lý Sơn ngầm gửi linh khí). Bại trận. (@c0047)" }
         ],
         tuVi: "Ngưng Khí kỳ tầng 4 đỉnh phong (@c0036).",
         tuViMoc: [
           { chuong: "@c0036", canhGioi: "Ngưng Khí kỳ tầng 4 đỉnh phong", text: "Xác nhận qua thần thức Vương Lâm quét qua (@c0036)." }
         ],
         nhanMach: [
-          { ten: "Vương Trác", quanHe: "Đồng phe", ghiChu: "Cùng chế nhạo Vương Lâm tại hậu sơn.", tag: "dong-phe" }
+          { ten: "Vương Trác", quanHe: "Đồng phe", ghiChu: "Cùng chế nhạo Vương Lâm tại hậu sơn.", tag: "dong-phe" },
+          { ten: "Lý Sơn", quanHe: "Đối thủ", ghiChu: "Đánh bại Tôn Hạo tại tỷ thí bằng Phích Lịch đạn @c0047.", tag: "doi-thu" }
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0036"]
+      nguon: ["@c0036", "@c0042", "@c0047"]
     },
     {
       id: "hoang-long-chan-nhan",
@@ -1100,9 +1174,11 @@ window.LIB_DATA["tien-nghich"].characters = {
           { chuong: "@c0035", importance: "major", text: "Chủ trì đại điện, tuyên bố đợt tập huấn 4 năm; xuất 1 vạn linh đan; dùng pháp thuật dịch chuyển tập thể đệ tử vào hậu sơn. (Tên chưa xác nhận chương này.)" },
           { chuong: "@c0038", importance: "normal", text: "Kết thúc đợt tập huấn tại đại điện; lệnh đệ tử tầng 5+ ở lại, còn lại giải tán; thông báo Huyền Đạo Tông tới sau 3 ngày." },
           { chuong: "@c0039", importance: "minor", text: "Đứng đầu đoàn nghênh đón Huyền Đạo Tông. (Tên chưa xác nhận chương này.)" },
-          { chuong: "@c0040", importance: "major", text: "Tên Hoàng Long chân nhân lần đầu xác nhận. Thúc Tử Nhạc Tiên Kiếm hóa tử long uy hiếp Thiên Túc Ngô Công; thỏa thuận điều kiện tỷ thí 10 năm với Âu Dương (nếu thua trả pháp bảo + 100 phi kiếm; nếu thắng nhận bí pháp khống chế linh thú)." }
+          { chuong: "@c0040", importance: "major", text: "Tên Hoàng Long chân nhân lần đầu xác nhận. Thúc Tử Nhạc Tiên Kiếm hóa tử long uy hiếp Thiên Túc Ngô Công; thỏa thuận điều kiện tỷ thí 10 năm với Âu Dương (nếu thua trả pháp bảo + 100 phi kiếm; nếu thắng nhận bí pháp khống chế linh thú)." },
+          { chuong: "@c0049", importance: "normal", text: "Sau màn Vương Lâm đánh Ngô Công lấy dịch độc, nêu tên VL làm gương cho toàn môn; cảnh báo (qua Âu Dương): Tu Chân Quốc Triệu không có Nguyên Anh lão tổ, bị xâm phạm không ai hậu thuẫn. (@c0049)" },
+          { chuong: "@c0050", importance: "normal", text: "Thẩm vấn Vương Lâm riêng về tiên pháp và tu vi thật sau khi VL cứu Vương Hạo. VL tiếp tục chối quanh, khăng khăng 'không biết'. Chứng kiến xử lý vụ Lữ Vân Kiệt: phạt diện bích 20 năm; nâng Vương Hạo thành nội môn đệ tử. (@c0050)" }
         ],
-        tuVi: "Cảnh giới chưa nêu rõ trong nguyên tác tới Ch.40. Là chưởng môn — cao nhất Hằng Nhạc Phái trong truyện tới giờ.",
+        tuVi: "Cảnh giới chưa nêu rõ trong nguyên tác tới Ch.50. Là chưởng môn — cao nhất Hằng Nhạc Phái trong truyện tới giờ.",
         tuViMoc: [],
         nhanMach: [
           { ten: "Tôn Đại Trụ", quanHe: "Sư đệ", ghiChu: "Tôn Đại Trụ xưng 'Chưởng môn sư huynh' (@c0035).", tag: "su-mon" },
@@ -1115,7 +1191,7 @@ window.LIB_DATA["tien-nghich"].characters = {
           congPhap: [], danDuoc: [], linhThu: [], khac: []
         }
       },
-      nguon: ["@c0035", "@c0038", "@c0039", "@c0040"]
+      nguon: ["@c0035", "@c0038", "@c0039", "@c0040", "@c0049", "@c0050"]
     },
     {
       id: "lieu-mi",
@@ -1133,7 +1209,9 @@ window.LIB_DATA["tien-nghich"].characters = {
         tieuSu: "Mặc tử y Huyền Đạo Tông, phượng nhãn môi anh đào, mỹ mạo khiến Vương Lâm (đã tu luyện 27 năm thực tế) cũng tim đập. Tự tin về mị thuật trời sinh. Ngạc nhiên khi VL lập tức khôi phục thần sắc sau khi nhìn qua; đánh giá nhầm hắn tầng 3.",
         diem: [],
         kinhLich: [
-          { chuong: "@c0040", importance: "normal", text: "Tới Hằng Nhạc Phái cùng đoàn Huyền Đạo Tông. Chú ý Vương Lâm, mỉm cười; VL gật đầu rồi rút lui. Tự tin về mị lực nhưng thất bại với VL. Đánh giá nhầm VL chỉ là Ngưng Khí tầng 3." }
+          { chuong: "@c0040", importance: "normal", text: "Tới Hằng Nhạc Phái cùng đoàn Huyền Đạo Tông. Chú ý Vương Lâm, mỉm cười; VL gật đầu rồi rút lui. Tự tin về mị lực nhưng thất bại với VL. Đánh giá nhầm VL chỉ là Ngưng Khí tầng 3." },
+          { chuong: "@c0047", importance: "normal", text: "Xuất trận tỷ thí tại Thương Tùng Phong, dùng Thủy Mạc đánh bại Triệu Long (đệ tử Hằng Nhạc Phái). (@c0047)" },
+          { chuong: "@c0048", importance: "minor", text: "Tiết lộ bí mật Trương Cuồng (Nhị sư huynh dùng Linh Tuyền thủy giữ nhan) cho Vương Lâm biết trước tỷ thí. (@c0048)" }
         ],
         tuVi: "Chưa xác nhận; che giấu tu vi bằng tiên pháp cao minh (@c0040). Mặc tử y — đệ tử nòng cốt.",
         tuViMoc: [],
@@ -1142,7 +1220,7 @@ window.LIB_DATA["tien-nghich"].characters = {
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0040"]
+      nguon: ["@c0040", "@c0047", "@c0048"]
     },
     {
       id: "tan-co-loi",
@@ -1176,25 +1254,290 @@ window.LIB_DATA["tien-nghich"].characters = {
       aliases: ["Âu Dương lão nhân"],
       gioiTinh: "nam",
       theLuc: ["Huyền Đạo Tông"],
-      canhGioiCaoNhat: "Chưa xác nhận; là trưởng lão/lão giả @c0040",
+      canhGioiCaoNhat: "Ngưng Khí tầng 14 (xác nhận @c0048 — VL không xuyên qua được tu vi của Âu Dương)",
       trangThai: "song",
       vaiTro: "Trưởng lão Huyền Đạo Tông, đại diện ra điều kiện",
-      tinhCach: "Ngoài mặt lịch thiệp, bên trong kiên quyết với quyền lợi môn phái; có giao tình cũ với Hằng Nhạc Phái.",
-      blurb: "Trưởng lão Huyền Đạo Tông. Ra điều kiện tỷ thí 10 năm với Hoàng Long chân nhân: Huyền Đạo Tông thắng đòi trả pháp bảo + 100 phi kiếm; thua thì giao bí pháp khống chế linh thú (@c0040).",
+      tinhCach: "Ngoài mặt lịch thiệp, bên trong kiên quyết với quyền lợi môn phái; thực dụng, đặt tên 'Cầm Long thủ' để cứu thể diện trước đám đông; có giao tình cũ với Hằng Nhạc Phái.",
+      blurb: "Trưởng lão Huyền Đạo Tông, tu vi Ngưng Khí tầng 14. Ra điều kiện tỷ thí 10 năm với Hoàng Long chân nhân (@c0040). Tại tỷ thí, chứng kiến VL đánh bại liên tiếp đại đệ tử Chu Bằng và nhị sư huynh Dương Nghị; cảm nhận không thể nhìn thấu tu vi thật của VL, đặt tên 'Cầm Long thủ' (tên bịa, không có thật) để cứu thể diện (@c0048).",
       tabs: {
-        tieuSu: "Lão giả trong đoàn Huyền Đạo Tông tới Hằng Nhạc Phái. Tán thưởng Tử Nhạc Tiên Kiếm; nhắc kỳ hạn 10 năm. Quen biết Tống sư thúc Hằng Nhạc Phái từ 20 năm trước; cả hai hàn huyên như tri kỷ sau khi căng thẳng qua.",
-        diem: [],
-        kinhLich: [
-          { chuong: "@c0040", importance: "normal", text: "Đại diện Huyền Đạo Tông thỏa thuận điều kiện tỷ thí; tán thưởng Tử Nhạc Tiên Kiếm; nhận Tống sư thúc làm bạn cũ, hàn huyên về rượu ngon." }
+        tieuSu: "Lão giả trong đoàn Huyền Đạo Tông tới Hằng Nhạc Phái. Tán thưởng Tử Nhạc Tiên Kiếm; nhắc kỳ hạn 10 năm. Quen biết Tống sư thúc Hằng Nhạc Phái từ 20 năm trước; cả hai hàn huyên như tri kỷ sau khi căng thẳng qua. Tại tỷ thí tầng 14, chứng kiến VL hạ cả Chu Bằng và Dương Nghị nhưng không thể nhìn thấu tu vi thật — đặt tên 'Cầm Long thủ' để cứu mặt trước đông đảo người xem. Cảnh báo Hoàng Long không có Nguyên Anh lão tổ bảo hộ.",
+        diem: [
+          { text: "Đặt tên 'Cầm Long thủ' — tên tự bịa, không có trong tiên pháp nào, chỉ nhằm cứu thể diện trước đám đông khi không giải thích được tu vi VL.", chuong: "@c0048" }
         ],
-        tuVi: "Chưa xác nhận (@c0040).",
-        tuViMoc: [],
+        kinhLich: [
+          { chuong: "@c0040", importance: "normal", text: "Đại diện Huyền Đạo Tông thỏa thuận điều kiện tỷ thí; tán thưởng Tử Nhạc Tiên Kiếm; nhận Tống sư thúc làm bạn cũ, hàn huyên về rượu ngon." },
+          { chuong: "@c0048", importance: "major", text: "Giám sát tỷ thí. Chứng kiến VL (lộ tầng 3) hạ Chu Bằng (tầng 13) ba lần và Dương Nghị; không nhìn xuyên được tu vi VL. Đặt tên 'Cầm Long thủ' để hội trường nghe (tên giả, không có thật — nhằm cứu thể diện môn phái). Bị Tư Đồ Nam bình luận 'không tầm thường'. (@c0048)" },
+          { chuong: "@c0049", importance: "normal", text: "Đối đầu trực tiếp với VL trong cảnh VL đánh Ngô Công lấy dịch độc. Bị VL vừa đỡ cự kiếm vừa khống chế Ngô Công bằng Dẫn Lực thuật; nhận nước sông đổi dịch độc. Cảnh báo VL tu vi thật có thể khiến bị thù hận từ các tông phái lớn hơn. (@c0049)" }
+        ],
+        tuVi: "Ngưng Khí tầng 14 (@c0048 — thần thức VL không xuyên qua được; Tư Đồ Nam nhận xét 'không tầm thường').",
+        tuViMoc: [
+          { chuong: "@c0048", canhGioi: "Ngưng Khí kỳ tầng 14", text: "VL dùng thần thức quét nhưng không thấy được tu vi thật Âu Dương; suy ra tầng 14." }
+        ],
         nhanMach: [
-          { ten: "Tống sư thúc (Hằng Nhạc Phái)", quanHe: "Bạn cũ 20 năm", ghiChu: "Hai người quen nhau từ 20 năm trước; hàn huyên vui vẻ sau tỷ thí (@c0040).", tag: "ban-be" }
+          { ten: "Tống sư thúc (Hằng Nhạc Phái)", quanHe: "Bạn cũ 20 năm", ghiChu: "Hai người quen nhau từ 20 năm trước; hàn huyên vui vẻ sau tỷ thí (@c0040).", tag: "ban-be" },
+          { ten: "Vương Lâm", quanHe: "Đối tượng theo dõi", ghiChu: "Không thể nhìn thấu tu vi VL; cảnh báo VL về hậu quả lộ thực lực @c0049.", tag: "xa-la" }
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0040"]
+      nguon: ["@c0040", "@c0048", "@c0049"]
+    },
+    {
+      id: "tu-do-nam",
+      name: "Tư Đồ Nam",
+      cn: "",
+      aliases: ["Lão quái vật"],
+      gioiTinh: "nam",
+      theLuc: ["Chu Tước Quốc (diệt)", "Thạch Châu"],
+      canhGioiCaoNhat: "Lục cấp (Chu Tước Quốc hệ thống) @c0047; tinh hoa nguyên anh còn sót @c0047",
+      trangThai: "sống sót trong Thạch Châu (thân hủy, chỉ còn thần thức + tinh hoa nguyên anh)",
+      vaiTro: "Thế lực ẩn — người bảo hộ Vương Lâm từ bóng tối",
+      tinhCach: "Bí ẩn, thận trọng cực kỳ, ẩn mình hàng chục năm; thẳng thắn khi đã quyết tiết lộ; âm mưu lâu dài vì điều kiện nhận chủ rất cao.",
+      blurb: "Cường giả Chu Tước Quốc lục cấp, bị truy sát thân hủy, thần thức ẩn trong Thạch Châu. Âm thầm dùng tinh hoa nguyên anh trợ giúp Vương Lâm gần 30 năm. Tiết lộ bản thân tại Mộng Cảnh @c0046–@c0047. Điều kiện Thạch Châu nhận chủ: đủ ngũ hành linh căn + tu vi ≥ Anh Biến kỳ. (@c0047)",
+      tabs: {
+        tieuSu: "Tư Đồ Nam từng là cường giả lục cấp tại Chu Tước Quốc — quốc gia tu chân 6 cấp. Bị truy sát thân hủy, chỉ còn tinh hoa nguyên anh; trốn vào Thạch Châu (viên châu VL nhặt @c0008). Suốt gần 30 năm theo dõi VL, dùng tinh hoa nguyên anh củng cố tu vi VL từ bóng tối. Lần đầu giao tiếp trực tiếp tại Mộng Cảnh (@c0046) khi VL 'nuốt' thần thức Lý Sơn trong Phích Lịch đạn. Tiết lộ: Tu Chân Quốc 5 cấp, Liên Minh Tu Chân, lai lịch Chu Tước Quốc, điều kiện nhận chủ Thạch Châu.",
+        diem: [
+          { text: "Sự thật bên trong Thạch Châu — không phải vật bình thường, mà là nơi ẩn náu của cường giả lục cấp bị truy sát.", chuong: "@c0047" },
+          { text: "Đánh giá VL = 'Linh Động Kỳ viên mãn' — tu vi thật của VL không phải tầng 3 mà xấp xỉ tầng 14 Ngưng Khí.", chuong: "@c0046" }
+        ],
+        kinhLich: [
+          {
+            chuong: "@c0046",
+            importance: "major",
+            text: "Xuất hiện lần đầu trong Mộng Cảnh khi VL 'nuốt' thần thức Lý Sơn. Tự xưng là 'lão quái vật' ẩn trong Thạch Châu. Xác nhận tu vi thật của VL = 'Linh Động Kỳ viên mãn'. Tiết lộ hệ thống Tu Chân Quốc 5 cấp và Liên Minh Tu Chân. (@c0046)"
+          },
+          {
+            chuong: "@c0047",
+            importance: "major",
+            text: "Tiết lộ danh tính: cường giả Chu Tước Quốc lục cấp. Bị truy sát thân hủy, dùng tinh hoa nguyên anh ẩn vào Thạch Châu — nay chỉ còn tinh hoa nguyên anh sót lại. Từng dùng tinh hoa nguyên anh trợ giúp VL củng cố tu vi suốt gần 30 năm. Điều kiện nhận chủ Thạch Châu: đủ ngũ hành linh căn + tu vi ≥ Anh Biến kỳ. Bình luận các trận tỷ thí, nhận xét Âu Dương 'không tầm thường'. (@c0047)"
+          },
+          {
+            chuong: "@c0048",
+            importance: "normal",
+            text: "Theo dõi màn VL thi đấu tỷ thí; bác bỏ thuyết 'chặt dứt phàm trần'; khẳng định VL thực lực ≈ tầng 14 Ngưng Khí (Linh Động Kỳ viên mãn); giải thích vì sao Thiên Nghịch Châu hiển thị tầng 3 (vì VL đang vận thuật giấu tu vi). (@c0048)"
+          }
+        ],
+        tuVi: "Lục cấp (Chu Tước Quốc) — đã thân hủy, chỉ còn tinh hoa nguyên anh. Tương đương Nguyên Anh kỳ hoặc cao hơn trong hệ thống Tu Chân Quốc 5 cấp (ngụ ý @c0047).",
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Vương Lâm", quanHe: "Đối tượng trợ giúp / chủ nhân tương lai Thạch Châu", ghiChu: "Theo dõi gần 30 năm, dùng tinh hoa nguyên anh trợ giúp VL; điều kiện nhận chủ chưa đủ @c0047.", tag: "an-nhan" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0046", "@c0047", "@c0048"]
+    },
+    {
+      id: "lu-van-kiet",
+      name: "Lữ Vân Kiệt",
+      cn: "",
+      aliases: ["Tam sư huynh", "Trung niên nhân (tiết lộ danh tính @c0050)"],
+      gioiTinh: "nam",
+      theLuc: ["Hằng Nhạc Phái"],
+      canhGioiCaoNhat: "Ngưng Khí kỳ tầng 6 @c0044",
+      trangThai: "song (bị phạt diện bích 20 năm @c0050)",
+      vaiTro: "Tam sư huynh Hằng Nhạc Phái, kẻ phản diện nội bộ",
+      tinhCach: "Tham lam, tâm địa hiểm ác, giỏi luyện đan và được chưởng môn yêu; bị kẹt tầng 6 suốt 25 năm, bất chấp mọi thủ đoạn để đột phá.",
+      blurb: "Tam sư huynh Hằng Nhạc Phái, tầng 6, giỏi luyện đan. Bị kẹt tầng 6 suốt 25 năm không tiến nổi (@c0044). Lừa Vương Hạo uống Tạo Hóa Đan, ép tu Lô Hỏa Khai Đỉnh Đại Pháp biến thành dược lô luyện Nhân Thọ đan. Bị Vương Lâm vạch trần và Hoàng Long phạt diện bích 20 năm (@c0050).",
+      tabs: {
+        tieuSu: "Tam sư huynh Hằng Nhạc Phái, xuất hiện lần đầu (danh tính ẩn) @c0002 với tư cách 'trung niên nhân' chủ trì trắc thí tuyển môn. Thu Vương Hạo làm dược đồng nhờ linh chi 300 năm. Được chưởng môn Hoàng Long yêu trọng vì giỏi luyện đan. Bị kẹt Ngưng Khí tầng 6 suốt 25 năm. Lên mưu dùng Vương Hạo làm dược lô luyện Nhân Thọ đan để đổi thọ mệnh. Danh tính 'tam sư huynh' tiết lộ @c0043 qua lời Vương Hạo. Danh tính 'Lữ Vân Kiệt' + đối mặt với VL @c0050.",
+        diem: [
+          { text: "Bị kẹt tầng 6 suốt 25 năm — không thể tiến, bất chấp mọi thủ đoạn kể cả dùng người làm dược lô.", chuong: "@c0044" }
+        ],
+        kinhLich: [
+          { chuong: "@c0002", importance: "minor", text: "Xuất hiện (danh tính ẩn = 'trung niên nhân') chủ trì trắc thí tuyển môn. Nhận Vương Hạo làm dược đồng nhờ linh chi 300 năm." },
+          {
+            chuong: "@c0043",
+            importance: "major",
+            text: "Lộ diện tội ác: Vương Hạo tiết lộ 'tam sư huynh' đã lừa hắn uống Tạo Hóa Đan rồi ép tu Lô Hỏa Khai Đỉnh Đại Pháp, biến Vương Hạo thành dược lô để luyện Nhân Thọ đan; thọ mệnh Vương Hạo chỉ còn ~1 năm. (@c0043)"
+          },
+          {
+            chuong: "@c0044",
+            importance: "normal",
+            text: "Được xác nhận là tam sư huynh, tầng 6, giỏi luyện đan, được chưởng môn yêu. Bị kẹt tầng 6 suốt 25 năm không tiến. (@c0044)"
+          },
+          {
+            chuong: "@c0050",
+            importance: "major",
+            text: "Lần đầu lộ mặt thật với VL (xưng danh Lữ Vân Kiệt). Cầu xin VL tha thứ, nhận tội với Hoàng Long. Bị Hoàng Long phạt diện bích 20 năm; Hồng Kiểm lão giả xác nhận công pháp Lô Hỏa Khai Đỉnh có thật. (@c0050)"
+          }
+        ],
+        tuVi: "Ngưng Khí kỳ tầng 6 (@c0044). Kẹt tầng 6 suốt 25 năm.",
+        tuViMoc: [
+          { chuong: "@c0044", canhGioi: "Ngưng Khí kỳ tầng 6", text: "Được Vương Hạo xác nhận là tầng 6, kẹt 25 năm." }
+        ],
+        nhanMach: [
+          { ten: "Vương Hạo", quanHe: "Nạn nhân / dược lô", ghiChu: "Lừa biến thành dược lô luyện đan; bị VL cứu và Hoàng Long trừng trị @c0050.", tag: "thu-dich" },
+          { ten: "Vương Lâm", quanHe: "Kẻ vạch trần", ghiChu: "VL phá lò luyện, cứu Vương Hạo; Lữ Vân Kiệt cầu xin @c0050.", tag: "thu-dich" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0002", "@c0043", "@c0044", "@c0050"]
+    },
+    {
+      id: "chu-bang",
+      name: "Chu Bằng",
+      cn: "",
+      aliases: ["Đại đệ tử Huyền Đạo Tông"],
+      gioiTinh: "nam",
+      theLuc: ["Huyền Đạo Tông"],
+      canhGioiCaoNhat: "Ngưng Khí kỳ tầng 13 thật (tầng 14 bề ngoài — thần thức VL xác nhận tầng 13) @c0048",
+      trangThai: "song (thua 3 lần @c0048)",
+      vaiTro: "Đại đệ tử Huyền Đạo Tông, đại diện đầu tiên trong tỷ thí",
+      tinhCach: "Tự cao, kiêu ngạo, không tin kẻ 'tầng 3' có thể đánh bại mình; mất bình tĩnh khi liên tiếp thất bại.",
+      blurb: "Đại đệ tử Huyền Đạo Tông, tu vi thật Ngưng Khí tầng 13 (giả vờ tầng 14). Thua Vương Lâm 3 lần liên tiếp tại tỷ thí — dùng Dẫn Lực thuật + Phích Lịch đạn. (@c0048)",
+      tabs: {
+        tieuSu: "Đại đệ tử Huyền Đạo Tông tham gia tỷ thí tại Thương Tùng Phong. Tu vi thật tầng 13 nhưng bề ngoài che giấu thành tầng 14 — VL dùng thần thức phát hiện ra. Bị VL đánh bại 3 lần liên tiếp; càng đánh càng tức giận và không hiểu nổi cơ chế VL thắng.",
+        diem: [],
+        kinhLich: [
+          {
+            chuong: "@c0048",
+            importance: "major",
+            text: "Xuất trận tỷ thí, xem VL (lộ tầng 3) là chuột bé. Bị VL dùng Dẫn Lực thuật đỡ phi kiếm + Phích Lịch đạn kích nổ đánh bại 3 lần liên tiếp; mỗi lần bại trận càng bối rối hơn. (@c0048)"
+          }
+        ],
+        tuVi: "Ngưng Khí kỳ tầng 13 thật (@c0048 — thần thức VL xác nhận; bề ngoài ngụy trang tầng 14).",
+        tuViMoc: [
+          { chuong: "@c0048", canhGioi: "Ngưng Khí kỳ tầng 13", text: "Thần thức VL xác nhận tầng 13 thật, dù bề ngoài che tầng 14." }
+        ],
+        nhanMach: [
+          { ten: "Vương Lâm", quanHe: "Đối thủ", ghiChu: "Thua 3 lần liên tiếp @c0048.", tag: "doi-thu" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0048"]
+    },
+    {
+      id: "duong-nghi",
+      name: "Dương Nghị",
+      cn: "",
+      aliases: ["Nhị sư huynh Huyền Đạo Tông"],
+      gioiTinh: "nam",
+      theLuc: ["Huyền Đạo Tông"],
+      canhGioiCaoNhat: "Chưa xác nhận cụ thể; nhị sư huynh Huyền Đạo, cao hơn Chu Bằng",
+      trangThai: "song (thua VL @c0048)",
+      vaiTro: "Nhị sư huynh Huyền Đạo Tông",
+      tinhCach: "Tính toán, dùng mỹ nhân kế + phi kiếm tấn công đồng thời; thất bại rồi im lặng.",
+      blurb: "Nhị sư huynh Huyền Đạo Tông. Dùng Thất Thải Nhan Sắc (mỹ nhân kế) + phi kiếm đỏ phối hợp tấn công VL tại tỷ thí; bị VL đánh bại. (@c0048)",
+      tabs: {
+        tieuSu: "Tham gia tỷ thí sau khi Chu Bằng thua 3 lần. Phát huy tổ hợp Thất Thải Nhan Sắc (dùng nhan sắc gây mê hoặc) + phi kiếm đỏ đồng thời tấn công; bị VL hóa giải và hạ bại.",
+        diem: [],
+        kinhLich: [
+          {
+            chuong: "@c0048",
+            importance: "normal",
+            text: "Dùng Thất Thải Nhan Sắc (mỹ nhân kế gây mê hoặc) kết hợp phi kiếm đỏ tấn công VL. Bị VL đánh bại. (@c0048)"
+          }
+        ],
+        tuVi: "Chưa xác nhận cụ thể (@c0048).",
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Vương Lâm", quanHe: "Đối thủ", ghiChu: "Thua VL tại tỷ thí @c0048.", tag: "doi-thu" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0048"]
+    },
+    {
+      id: "lieu-phong",
+      name: "Liễu Phong",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: ["Huyền Đạo Tông"],
+      canhGioiCaoNhat: "Chưa xác nhận cụ thể; đủ sức dùng Thủy Mạc tại tỷ thí @c0047",
+      trangThai: "song",
+      vaiTro: "Đệ tử Huyền Đạo Tông tham gia tỷ thí",
+      tinhCach: "Chưa được mô tả chi tiết.",
+      blurb: "Đệ tử Huyền Đạo Tông. Dùng công pháp Thủy Mạc đánh bại Triệu Long (đệ tử Hằng Nhạc Phái) trong trận đầu tỷ thí tại Thương Tùng Phong. (@c0047)",
+      tabs: {
+        tieuSu: "Tham gia tỷ thí tại Thương Tùng Phong; đấu với Triệu Long của Hằng Nhạc Phái và giành chiến thắng bằng Thủy Mạc.",
+        diem: [],
+        kinhLich: [
+          { chuong: "@c0047", importance: "minor", text: "Dùng Thủy Mạc đánh bại Triệu Long trong trận mở màn tỷ thí. (@c0047)" }
+        ],
+        tuVi: "Chưa xác nhận (@c0047).",
+        tuViMoc: [],
+        nhanMach: [],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0047"]
+    },
+    {
+      id: "hua-moc",
+      name: "Hứa Mộc",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: ["Hằng Nhạc Phái"],
+      canhGioiCaoNhat: "Chưa xác nhận cụ thể @c0047",
+      trangThai: "song",
+      vaiTro: "Đệ tử Hằng Nhạc Phái tham gia tỷ thí",
+      tinhCach: "Chưa được mô tả chi tiết.",
+      blurb: "Đệ tử Hằng Nhạc Phái. Đấu với Lữ Tung (Huyền Đạo Tông) trong tỷ thí tại Thương Tùng Phong; trận đấu gián đoạn do trung niên nam tử bí ẩn Huyền Đạo Tông can thiệp bẻ gãy phi kiếm Lữ Tung. (@c0047)",
+      tabs: {
+        tieuSu: "Tham gia tỷ thí, đấu với Lữ Tung. Trận đấu bị gián đoạn khi một trung niên nam tử bí ẩn trong đoàn Huyền Đạo Tông bất ngờ bẻ gãy phi kiếm của Lữ Tung.",
+        diem: [],
+        kinhLich: [
+          { chuong: "@c0047", importance: "minor", text: "Đấu tỷ thí với Lữ Tung; trận dừng lại vì trung niên nam tử bí ẩn Huyền Đạo Tông bẻ gãy phi kiếm Lữ Tung. (@c0047)" }
+        ],
+        tuVi: "Chưa xác nhận (@c0047).",
+        tuViMoc: [],
+        nhanMach: [],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0047"]
+    },
+    {
+      id: "lu-tung",
+      name: "Lữ Tung",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: ["Huyền Đạo Tông"],
+      canhGioiCaoNhat: "Chưa xác nhận cụ thể @c0047",
+      trangThai: "song",
+      vaiTro: "Đệ tử Huyền Đạo Tông tham gia tỷ thí",
+      tinhCach: "Thực dụng, biết nhìn người — sau khi chứng kiến VL thắng, chọn kết giao thay vì gây thù.",
+      blurb: "Đệ tử Huyền Đạo Tông. Đấu Hứa Mộc trong tỷ thí; phi kiếm bị trung niên nam tử bí ẩn bẻ gãy, trận gián đoạn. Sau khi thấy VL hạ Chu Bằng và Dương Nghị, từ bỏ ý gây thù, chủ động kết giao với VL. (@c0047–@c0048)",
+      tabs: {
+        tieuSu: "Tham gia tỷ thí, đấu Hứa Mộc; trận gián đoạn vì bị trung niên nam tử bí ẩn can thiệp. Chứng kiến VL thắng liên tiếp, quyết định không thù địch mà chủ động làm quen.",
+        diem: [],
+        kinhLich: [
+          { chuong: "@c0047", importance: "minor", text: "Đấu tỷ thí với Hứa Mộc; phi kiếm bị trung niên nam tử bí ẩn trong đoàn Huyền Đạo Tông bẻ gãy. (@c0047)" },
+          { chuong: "@c0048", importance: "minor", text: "Chứng kiến VL hạ Chu Bằng và Dương Nghị; quyết định chủ động kết giao với VL thay vì đối địch. (@c0048)" }
+        ],
+        tuVi: "Chưa xác nhận (@c0047).",
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Vương Lâm", quanHe: "Quen biết mới (chủ động kết giao)", ghiChu: "Lữ Tung chọn kết giao sau khi thấy thực lực VL @c0048.", tag: "ban-be" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0047", "@c0048"]
+    },
+    {
+      id: "trieu-long",
+      name: "Triệu Long",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: ["Hằng Nhạc Phái"],
+      canhGioiCaoNhat: "Chưa xác nhận cụ thể @c0047",
+      trangThai: "song (thua Liễu Phong @c0047)",
+      vaiTro: "Đệ tử Hằng Nhạc Phái tham gia tỷ thí",
+      tinhCach: "Chưa được mô tả chi tiết.",
+      blurb: "Đệ tử Hằng Nhạc Phái. Dùng Liên Hoa kiếm khí đấu với Liễu Phong (Huyền Đạo Tông) trong tỷ thí tại Thương Tùng Phong; thua trước Thủy Mạc. (@c0047)",
+      tabs: {
+        tieuSu: "Tham gia tỷ thí, dùng Liên Hoa kiếm khí đấu Liễu Phong; bị Thủy Mạc hóa giải và thua trận.",
+        diem: [],
+        kinhLich: [
+          { chuong: "@c0047", importance: "minor", text: "Dùng Liên Hoa kiếm khí đấu Liễu Phong trong tỷ thí; thua trước Thủy Mạc. (@c0047)" }
+        ],
+        tuVi: "Chưa xác nhận (@c0047).",
+        tuViMoc: [],
+        nhanMach: [],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0047"]
     }
   ]
 };
@@ -1401,6 +1744,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       tieuDe: "Khách Đến",
       tomTat: "Hoàng Long chân nhân thúc Tử Nhạc Tiên Kiếm hóa tử long uy hiếp Thiên Túc Ngô Công — hai bên cân bằng. Trưởng lão Âu Dương (Huyền Đạo Tông) nhắc kỳ hạn 10 năm: Huyền Đạo Tông thắng đòi trả pháp bảo + 100 phi kiếm; thua giao bí pháp khống chế linh thú. Hơn 10 đệ tử Huyền Đạo Tông đều mặc tử y ra oai, tuấn mỹ, có thuật giấu tu vi cao minh. Liễu Mi — nữ tử nổi bật nhất — để ý VL; VL tim đập nhưng lập tức khóa tâm thần, cảnh giác. Liễu Mi đánh giá nhầm VL chỉ tầng 3. Trưởng lão hai phái hàn huyên; VL nghe kể chuyện các tông môn Triệu quốc lần đầu có ấn tượng tổng quan. VL phát hiện một nam tử trung niên bí ẩn được cả đoàn Huyền Đạo Tông kính nể ngầm. (@c0040)"
     },
+    {
+      chuong: 41,
+      tieuDe: "Ngô Công",
+      tomTat: "Vương Trác công khai phân công Vương Lâm nhiệm vụ nguy hiểm: săn mồi nuôi Thiên Túc Ngô Công (con rết khổng lồ linh thú Huyền Đạo Tông) — nhục nhã trước cả hai phái. VL tách ra, Nữ tử họ Chu (Chu sư tỷ) ngồi bên hàn huyên; VL nói 'Đại đạo vô tình', cô thừa nhận bản thân cũng không dứt được tình thân. Đêm khuya VL lẻn lại chuồng Ngô Công một mình — bị Ngô Công phun hàn khí nhưng VL vận linh lực hóa giải dễ dàng, Ngô Công kinh ngạc. (@c0041)"
+    },
+    {
+      chuong: 42,
+      tieuDe: "Dịch Độc",
+      tomTat: "VL tiếp tục quan sát Ngô Công. Rết phun hàn khí + khạc khí đen độc hại lên một con thú nhỏ — thú tan thành vũng máu. VL suy ra: độc tính Ngô Công tỉ lệ thuận với kích thước đầu. Tôn Hạo chứng kiến VL vào một mình, mỉa mai 'ngu'. Vương Lâm không trả lời, tiếp tục lên kế hoạch lấy dịch độc trị bệnh phong hàn cho phụ thân. (@c0042)"
+    },
+    {
+      chuong: 43,
+      tieuDe: "Dược Lô",
+      tomTat: "VL gặp Vương Hạo sau 4 năm xa cách; thần thức quét thấy linh khí trong người Vương Hạo lưu động quỷ dị — sắp khí tán thân vong. Vương Hạo tiết lộ: bị tam sư huynh (Lữ Vân Kiệt) lừa uống Tạo Hóa Đan, ép tu Lô Hỏa Khai Đỉnh Đại Pháp — bị biến thành dược lô để luyện Nhân Thọ đan; chỉ còn ~1 năm sống. Lữ Vân Kiệt là tầng 6, giỏi luyện đan, được chưởng môn yêu; kẹt tầng 6 suốt 25 năm. VL nghe, nhớ phụ thân bị phong hàn, quyết lấy dịch độc Ngô Công. (@c0043)"
+    },
+    {
+      chuong: 44,
+      tieuDe: "Ngộ Đạo",
+      tomTat: "VL nhận lời cứu Vương Hạo (sẽ giết Lữ Vân Kiệt khi tu vi đủ mạnh). Chứng kiến Lý Sơn (Huyền Đạo Tông) bán Phích Lịch đạn tại chợ; thần thức phát hiện bí mật — đạn không tự nổ, Lý Sơn ngầm kích hoạt bằng linh khí ba động. Sau khi Vương Hạo rời đi, VL bước vào cảnh giới ngộ đạo: lĩnh ngộ quy luật 'cá lớn nuốt cá bé' của Tu Chân Giới — không cần lĩnh ngộ huyền diệu, chỉ cần sức mạnh là đủ. (@c0044)"
+    },
+    {
+      chuong: 45,
+      tieuDe: "Phích Lịch Đạn",
+      tomTat: "VL quyết định tương kế tựu kế: mua 3 viên Phích Lịch đạn từ Lý Sơn bằng linh phù môn phái; biết tỏng đạn do Lý Sơn khống chế nổ nhưng vẫn mua, có kế hoạch riêng. Lý Sơn thoả mãn vì nghĩ VL chỉ là quân cờ tầng 3 dễ dùng. (@c0045)"
+    },
+    {
+      chuong: 46,
+      tieuDe: "Mộng Cảnh",
+      tomTat: "VL bao thần thức vào Phích Lịch đạn, phát hiện đạo thần thức Lý Sơn lưu bên trong; nuốt đạo thần thức đó vào thân — từ đó tự mình kích nổ được. Lập tức bị kéo vào Mộng Cảnh: lão quái vật ẩn trong Thạch Châu (Tư Đồ Nam) lần đầu lên tiếng. Tự xưng là lão quái vật, xác nhận tu vi thật VL = 'Linh Động Kỳ viên mãn'; hệ thống Tu Chân Quốc 5 cấp (Ngưng Khí → Trúc Cơ → Kết Đan → Nguyên Anh; 5 cấp là Liên Minh Tu Chân). (@c0046) ⚠️ [Ghi chú R0: Linh Động Kỳ / Anh Biến Kỳ / Hóa Thần Kỳ là cảnh giới cao hơn hệ thống Tu Chân Quốc — chưa thêm vào realms, chờ phê duyệt]"
+    },
+    {
+      chuong: 47,
+      tieuDe: "Tỷ Thí Khai Mạc",
+      tomTat: "Tư Đồ Nam tiết lộ danh tính: cường giả lục cấp Chu Tước Quốc; bị truy sát thân hủy, ẩn vào Thạch Châu; dùng tinh hoa nguyên anh trợ giúp VL gần 30 năm. Điều kiện Thạch Châu nhận chủ: ngũ hành linh căn đủ + ≥ Anh Biến kỳ. Tỷ thí chính thức khai màn tại Thương Tùng Phong: trận 1 — Liễu Phong (Huyền Đạo, Thủy Mạc) thắng Triệu Long (Hằng Nhạc, Liên Hoa kiếm khí); trận 2 — Tôn Hạo (Hằng Nhạc) thua Lý Sơn (Phích Lịch đạn kích hoạt); trận 3 — Hứa Mộc (Hằng Nhạc) vs Lữ Tung (Huyền Đạo) bị gián đoạn vì trung niên nam tử bí ẩn trong đoàn Huyền Đạo bẻ gãy phi kiếm Lữ Tung. (@c0047)"
+    },
+    {
+      chuong: 48,
+      tieuDe: "Liên Thắng",
+      tomTat: "VL được Hoàng Long cử vào trận thay người. Ba lần liên tiếp hạ Chu Bằng (đại đệ tử Huyền Đạo, tầng 13 thật dù giả vờ 14) bằng Dẫn Lực thuật + Phích Lịch đạn. Tiếp tục hạ Dương Nghị (nhị sư huynh Huyền Đạo, dùng Thất Thải Nhan Sắc + phi kiếm đỏ). Toàn bộ Hằng Nhạc tôn VL 'đại sư huynh'. Âu Dương không thể nhìn xuyên tu vi VL; đặt tên 'Cầm Long thủ' để cứu mặt (tên bịa, không có trong tiên pháp nào). Liễu Mi tiết lộ bí mật Trương Cuồng dùng Linh Tuyền thủy giữ nhan. Lữ Tung quyết định kết giao VL. Tư Đồ Nam bình: thực lực VL = Linh Động Kỳ viên mãn ≈ tầng 14; bác thuyết 'chặt đứt phàm trần'. Nội bộ Huyền Đạo: tam sư huynh Lữ Vân Kiệt âm mưu giết Vương Hạo để bịt đầu mối. (@c0048)"
+    },
+    {
+      chuong: 49,
+      tieuDe: "Dịch Độc Thiên Túc",
+      tomTat: "VL đối đầu trực tiếp Âu Dương lão giả trước đám đông để lấy dịch độc Ngô Công: vận Dẫn Lực thuật hóa hai bàn tay hữu hình, vừa đỡ cự kiếm vừa khống chế Ngô Công ép thổ dịch độc màu đen vào bình ngọc. Thu dịch độc xong, dùng bình ngọc nước sông hậu sơn làm vật đổi hóa giải xung đột; Huyền Đạo Tông chấp nhận, Ngô Công được trả. Âu Dương cảnh báo: lộ thực lực sẽ bị các tông lớn nhòm ngó, Tu Chân Quốc Triệu không có Nguyên Anh lão tổ hậu thuẫn. Hoàng Long nêu tên VL làm gương toàn môn. (@c0049)"
+    },
+    {
+      chuong: 50,
+      tieuDe: "Giải Cứu",
+      tomTat: "VL phát hiện Vương Hạo sắp chết trong lò luyện đan của Lữ Vân Kiệt (màn ngũ thải); phá màn, cứu Vương Hạo thoát quỷ môn quan. Hồng Kiểm lão giả (xuất hiện lần đầu) xác nhận Lô Hỏa Khai Đỉnh Đại Pháp có thật. Lữ Vân Kiệt lần đầu lộ mặt thật xưng danh, cầu xin, nhận tội. Hoàng Long phạt Lữ Vân Kiệt diện bích 20 năm; nâng Vương Hạo thành nội môn đệ tử. Hoàng Long thẩm vấn riêng VL về tiên pháp và tu vi — VL tiếp tục giấu, khăng khăng 'không biết'. (@c0050)"
+    }
   ]
 };
 
@@ -1409,7 +1802,7 @@ window.LIB_DATA["tien-nghich"].volumes = {
   updatedAt: "2026-06-10",
   volumes: [
     { value: "q01", label: "Quyển 1", range: "Ch.1 – 100", title: "Phàm nhân khởi đầu",
-      summary: "Khởi đầu hành trình của Vương Lâm — thiếu niên thôn quê tư chất kém, nhờ ý chí phi thường và cơ duyên nhặt được Thạch Châu mà bước vào con đường tu tiên. Bị tiên môn từ chối ba lần, chịu cả họ sỉ nhục, bỏ nhà băng thâm sơn lần thứ hai — rơi vào huyệt động phong nhãn, nhặt được Thạch Châu bí ẩn. Được phá lệ thu làm ký danh đệ tử, phải gánh mười vại nước nặng nhọc. Bí mật dùng Thạch Châu cường hóa thể chất, bị trưởng lão họ Tôn điều tra, rồi được thu làm đệ tử nội môn (danh nghĩa). Thạch Châu dần bộc lộ bản chất: hút nước mạnh bạo, nước ngâm châu biến thành linh khí, số đám mây tăng 5→9. Vương Lâm lần đầu bước vào tu tiên, đột phá Ngưng Khí tầng 1 @c0025 và tầng 2 @c0030 nhờ Mộng Cảnh Thạch Châu. (Wiki nghiên cứu tới Ch.30.)",
+      summary: "Khởi đầu hành trình của Vương Lâm — thiếu niên thôn quê tư chất kém, nhờ ý chí phi thường và cơ duyên nhặt được Thạch Châu mà bước vào con đường tu tiên. Bị tiên môn từ chối ba lần, chịu cả họ sỉ nhục, bỏ nhà băng thâm sơn lần thứ hai — rơi vào huyệt động phong nhãn, nhặt được Thạch Châu bí ẩn. Được phá lệ thu làm ký danh đệ tử, phải gánh mười vại nước nặng nhọc. Bí mật dùng Thạch Châu cường hóa thể chất, bị trưởng lão họ Tôn điều tra, rồi được thu làm đệ tử nội môn (danh nghĩa). Thạch Châu dần bộc lộ bản chất: hút nước mạnh bạo, nước ngâm châu biến thành linh khí, số đám mây tăng 5→9. Vương Lâm lần đầu bước vào tu tiên, đột phá Ngưng Khí tầng 1 @c0025 và tầng 2 @c0030, tầng 3 @c0036 nhờ Mộng Cảnh Thạch Châu. Tham gia tỷ thí với Huyền Đạo Tông (Ch.47–49): thắng liên tiếp Chu Bằng (3 lần) + Dương Nghị; lấy dịch độc Thiên Túc Ngô Công về trị bệnh cha. Cứu Vương Hạo thoát lò luyện đan; Lữ Vân Kiệt bị phạt diện bích 20 năm (Ch.50). Thực lực thật = Linh Động Kỳ viên mãn (@c0046–@c0048) — vẫn bí mật che giấu. (Wiki nghiên cứu tới Ch.50.)",
       milestones: [
         "Trượt cả ba hạng trắc thí Hằng Nhạc Phái (Ch.4)",
         "Bỏ nhà lần hai, rơi vào huyệt động phong nhãn (Ch.7)",
@@ -1423,7 +1816,14 @@ window.LIB_DATA["tien-nghich"].volumes = {
         "Đột phá Ngưng Khí tầng 1 — chính thức thành tu tiên (Ch.25)",
         "Trương Hổ giết Lưu sư huynh bỏ trốn; VL nhặt cuộn giấy vàng bí ẩn (Ch.26)",
         "Vương Lâm trở thành quản sự khu tạp vụ Hằng Nhạc Phái (Ch.28)",
-        "Đột phá Ngưng Khí tầng 2, sinh thần thức; biệt danh 'Hắc Tâm vương' (Ch.30)"
+        "Đột phá Ngưng Khí tầng 2, sinh thần thức; biệt danh 'Hắc Tâm vương' (Ch.30)",
+        "Đột phá Ngưng Khí tầng 3 trong Mộng Cảnh; bị chặn ở tầng 4 (Ch.36)",
+        "Lấy phi kiếm Cự Phú — đệ nhất phi kiếm Triệu quốc (Ch.39)",
+        "Huyền Đạo Tông tới, gặp Liễu Mi; lộ tầng 3 (Ch.40)",
+        "Tư Đồ Nam tiết lộ: tu vi thật VL = Linh Động Kỳ viên mãn, ẩn trong Thạch Châu ~30 năm (Ch.46–47)",
+        "Tỷ thí: hạ Chu Bằng 3 lần + Dương Nghị; toàn môn tôn 'đại sư huynh' (Ch.48)",
+        "Lấy dịch độc Thiên Túc Ngô Công — trị bệnh phong hàn cho cha (Ch.49)",
+        "Cứu Vương Hạo thoát lò luyện đan; Lữ Vân Kiệt bị diện bích 20 năm (Ch.50)"
       ]
     },
     { value: "q02", label: "Quyển 2", range: "Ch.101 – 140", title: "Tái sinh nơi Vực Ngoại",
@@ -1433,7 +1833,7 @@ window.LIB_DATA["tien-nghich"].volumes = {
 
 window.LIB_DATA["tien-nghich"].techniques = {
   updatedAt: "2026-06-10",
-  count: 5,
+  count: 9,
   techniques: [
     {
       id: "ngung-khi-tam-thien",
@@ -1455,9 +1855,9 @@ window.LIB_DATA["tien-nghich"].techniques = {
       he: "Hằng Nhạc Phái",
       capBac: "Cơ bản (Ngưng Khí kỳ trở lên)",
       nguoiDung: ["vuong-lam"],
-      blurb: "Pháp thuật dẫn và điều khiển lực — Vương Lâm luyện chuyên sâu nhất. Sau 20+ năm tu trong Mộng Cảnh, Dẫn Lực Thuật của VL đứng đầu Tu Chân Giới Triệu quốc (@c0038). Đây là căn bản cho nhiều kỹ năng chiến đấu khác.",
-      detail: "Dẫn Lực Thuật là một trong các pháp thuật cơ bản của Hằng Nhạc Phái (kèm trong Ngưng Khí tam thiên @c0025). Vương Lâm đặc biệt chuyên tâm luyện pháp thuật này — luyện cả trong và ngoài Mộng Cảnh. Sau hơn 20 năm tu luyện cộng dồn (Mộng Cảnh + thực tế), Dẫn Lực Thuật của VL đạt trình độ đứng đầu Tu Chân Giới Triệu quốc (@c0038). Đến @c0036, VL luyện Dẫn Lực Thuật tới cảnh giới 'lô hỏa thuần thanh'. Tôn Đại Trụ dùng kết quả này như bằng chứng để nhận VL làm đệ tử chân chính (@c0038).",
-      nguon: ["@c0025", "@c0027", "@c0036", "@c0038"]
+      blurb: "Pháp thuật dẫn và điều khiển lực — Vương Lâm luyện chuyên sâu nhất. Sau 20+ năm tu trong Mộng Cảnh, Dẫn Lực Thuật của VL đứng đầu Tu Chân Giới Triệu quốc (@c0038). Đây là căn bản cho nhiều kỹ năng chiến đấu khác; tới @c0049 đã hóa thành 'hai bàn tay hữu hình' đủ sức khống chế linh thú lớn.",
+      detail: "Dẫn Lực Thuật là một trong các pháp thuật cơ bản của Hằng Nhạc Phái (kèm trong Ngưng Khí tam thiên @c0025). Vương Lâm đặc biệt chuyên tâm luyện pháp thuật này — luyện cả trong và ngoài Mộng Cảnh. Sau hơn 20 năm tu luyện cộng dồn (Mộng Cảnh + thực tế), Dẫn Lực Thuật của VL đạt trình độ đứng đầu Tu Chân Giới Triệu quốc (@c0038). Đến @c0036, VL luyện Dẫn Lực Thuật tới cảnh giới 'lô hỏa thuần thanh'. Tôn Đại Trụ dùng kết quả này như bằng chứng để nhận VL làm đệ tử chân chính (@c0038). Tại @c0048–@c0049, VL biểu diễn Dẫn Lực Thuật hóa thành hai bàn tay hữu hình (nhìn thấy được) — đỡ cự kiếm tầng 14 và ép khống chế Thiên Túc Ngô Công đồng thời.",
+      nguon: ["@c0025", "@c0027", "@c0036", "@c0038", "@c0048", "@c0049"]
     },
     {
       id: "khu-vat-thuat",
@@ -1494,14 +1894,62 @@ window.LIB_DATA["tien-nghich"].techniques = {
       blurb: "Bí thuật cực độc: tra tấn linh hồn để moi ký ức/bí mật. Đối tượng bị dùng lên: 8–9 phần tử vong, còn lại trở nên si ngốc. Người thi triển cũng bị tụt tu vi mạnh. Tôn Đại Trụ từng có kế hoạch dùng lên Vương Lâm nhưng bỏ sau @c0038.",
       detail: "Sưu Hồn thuật là pháp thuật cực kỳ nguy hiểm — moi hồn/tra hồn để lấy ký ức và bí mật. Hệ quả cho đối tượng: 8–9 phần mười tử vong ngay; số sống sót phần lớn trở thành si ngốc cả đời (@c0019). Hệ quả cho người thi triển: tụt tu vi đáng kể sau mỗi lần dùng (@c0038). Tôn Đại Trụ ấp ủ kế hoạch dùng lên Vương Lâm từ @c0019 (đợi VL đạt tầng 1 để hỏi bí mật hồ lô); nhưng đến @c0038 khi thấy VL đã đạt tầng 3, Tôn bỏ hoàn toàn ý định này.",
       nguon: ["@c0019", "@c0038"]
+    },
+    {
+      id: "lo-hoa-khai-dinh",
+      name: "Lô Hỏa Khai Đỉnh Đại Pháp",
+      loai: "cong-phap",
+      loaiLabel: "Công pháp — Tà đạo",
+      he: "Không rõ nguồn gốc (Lữ Vân Kiệt tự sử dụng)",
+      capBac: "Cao — cần nhân lực ngoài làm dược lô",
+      nguoiDung: ["lu-van-kiet"],
+      blurb: "Công pháp tà đạo luyện Nhân Thọ đan: dùng người khác làm 'dược lô' — ép người tu công pháp này để tích năng lượng rồi thu về luyện đan đổi thọ mệnh. Đối tượng làm dược lô chỉ còn ~1 năm sống. Hồng Kiểm lão giả xác nhận tên công pháp này có thật @c0050.",
+      detail: "Lữ Vân Kiệt dùng kế hoạch: lừa Vương Hạo uống Tạo Hóa Đan rồi ép tu Lô Hỏa Khai Đỉnh Đại Pháp (@c0043). Vương Hạo bị biến thành dược lô: linh khí trong người lưu động quỷ dị, thọ mệnh chỉ còn ~1 năm. Mục đích: luyện Nhân Thọ đan để Lữ Vân Kiệt đổi thêm thọ mệnh (bị kẹt tầng 6 suốt 25 năm). Hồng Kiểm lão giả Hằng Nhạc Phái xác nhận tên công pháp này là thật @c0050.",
+      nguon: ["@c0043", "@c0050"]
+    },
+    {
+      id: "thuy-mac",
+      name: "Thủy Mạc",
+      loai: "phap-thuat",
+      loaiLabel: "Pháp thuật — Thủy hệ",
+      he: "Huyền Đạo Tông",
+      capBac: "Chưa xác định",
+      nguoiDung: ["lieu-phong"],
+      blurb: "Pháp thuật thủy hệ của đệ tử Huyền Đạo Tông Liễu Phong. Dùng để đánh bại Triệu Long (Liên Hoa kiếm khí) trong trận mở màn tỷ thí tại Thương Tùng Phong. (@c0047)",
+      detail: "Liễu Phong (đệ tử Huyền Đạo Tông) dùng Thủy Mạc trong tỷ thí (@c0047); hóa giải và vượt qua Liên Hoa kiếm khí của Triệu Long. Chi tiết cơ chế không được mô tả thêm.",
+      nguon: ["@c0047"]
+    },
+    {
+      id: "lien-hoa-kiem-khi",
+      name: "Liên Hoa Kiếm Khí",
+      loai: "phap-thuat",
+      loaiLabel: "Pháp thuật — Kiếm khí",
+      he: "Hằng Nhạc Phái",
+      capBac: "Chưa xác định",
+      nguoiDung: ["trieu-long"],
+      blurb: "Pháp thuật kiếm khí của đệ tử Hằng Nhạc Phái Triệu Long. Dùng trong tỷ thí tại Thương Tùng Phong; thua trước Thủy Mạc của Liễu Phong. (@c0047)",
+      detail: "Triệu Long (đệ tử Hằng Nhạc Phái) dùng Liên Hoa kiếm khí trong tỷ thí (@c0047); bị Thủy Mạc hóa giải. Chi tiết cơ chế không được mô tả thêm.",
+      nguon: ["@c0047"]
+    },
+    {
+      id: "that-thai-nhan-sac",
+      name: "Thất Thải Nhan Sắc",
+      loai: "bi-thuat",
+      loaiLabel: "Bí thuật — Mê hoặc",
+      he: "Huyền Đạo Tông",
+      capBac: "Chưa xác định",
+      nguoiDung: ["duong-nghi"],
+      blurb: "Bí thuật mê hoặc của nhị sư huynh Huyền Đạo Tông Dương Nghị — dùng nhan sắc/sắc khí để làm đối thủ mất bình tĩnh hoặc mê hoặc. Phối hợp với phi kiếm đỏ tấn công đồng thời tại tỷ thí; bị VL hóa giải và hạ bại. (@c0048)",
+      detail: "Dương Nghị (nhị sư huynh Huyền Đạo Tông) phát huy Thất Thải Nhan Sắc kết hợp phi kiếm đỏ trong trận đấu với VL (@c0048). VL hóa giải tổ hợp này và hạ bại Dương Nghị. Chi tiết cụ thể về cơ chế không được mô tả thêm.",
+      nguon: ["@c0048"]
     }
   ]
 };
 
-// MAP — địa danh Ch.1-40 (neo nguyên tác)
+// MAP — địa danh Ch.1-50 (neo nguyên tác)
 window.LIB_DATA["tien-nghich"].map = {
   updatedAt: "2026-06-10",
-  count: 15,
+  count: 18,
   nodes: [
     { id: "trieu-quoc", name: "Triệu Quốc", cn: "", capDo: "quoc-gia", parentId: null,
       blurb: "Quốc gia nơi Vương Lâm sinh ra; vừa có dân phàm vừa có thế lực tu chân.", detail: "Bối cảnh đầu truyện. Trong Triệu quốc có cả vùng phàm tục (thôn, thị trấn, huyện) lẫn môn phái tu chân như Hằng Nhạc Phái.", theLucLienQuan: ["Hằng Nhạc Phái", "Vương thị gia tộc"], nguon: ["@c0002"] },
@@ -1532,13 +1980,19 @@ window.LIB_DATA["tien-nghich"].map = {
     { id: "duoc-vien", name: "Dược Viên (Tôn Đại Trụ)", cn: "", capDo: "khac", parentId: "chinh-vien-hang-nhac",
       blurb: "Vườn dược của Tôn Đại Trụ trong chính viện Hằng Nhạc Phái — linh khí cực nồng đậm, cấm chế nghiêm ngặt. Từ @c0038 Tôn Đại Trụ giao cho Vương Lâm ở đây để tiện quản lý.", detail: "Vườn dược của Tôn Đại Trụ nằm trong chính viện, cách ngoài một cánh cổng (ngoài cổng không ngửi được mùi thuốc). Bên trong linh khí cực nồng đậm — Vương Lâm tu luyện ở đây lần đầu ở @c0017, cảm nhận linh khí tốt hơn hẳn. Trồng nhiều thảo dược quý: Lam Tuyến Thảo, Tử Dạ Hoa (@c0012–@c0013). Sau @c0038, Tôn Đại Trụ chính thức giao VL cư trú và quản lý ở Dược Viên — nơi VL dùng lệnh bài đến Kiếm Linh Các @c0039.", theLucLienQuan: ["Hằng Nhạc Phái"], nguon: ["@c0012", "@c0017", "@c0038", "@c0039"] },
     { id: "giao-dich-hoi", name: "Giao dịch hội bí mật (núi sâu)", cn: "", capDo: "khac", parentId: "son-phong-hang-nhac",
-      blurb: "Chợ đen bí mật của đệ tử nội môn Hằng Nhạc Phái — tổ chức nơi núi sâu, 'vé vào' là viên Hóa Hình Hóa Thanh Đan. Nơi trao đổi phi kiếm, đan dược, pháp bảo và bí thuật ngoài quy định môn phái.", detail: "Giao dịch hội được tổ chức bí mật trong núi sâu, chỉ đệ tử nội môn được mời; mỗi người phải uống Hóa Hình Hóa Thanh Đan để che thân phận (giá 200 tờ tiên phù/viên). Hơn mười đệ tử ẩn dáng trao đổi đủ loại: phi kiếm, đan dược, pháp bảo, bí thuật @c0032. Vương Lâm và Vương Hạo tham gia lần đầu @c0032. Các giao dịch nổi bật: VL mua thuật giấu tu vi (5 khỏa linh đan @c0032); Tạo Hóa Đan bị đẩy giá 2000 Đoạt Linh Đan không ai mua @c0033; Trương Cuồng (nhị sư huynh, tử y) đổi khẩu quyết tầng 4–9 lấy Linh Khí Tuyền Thủy @c0033.", theLucLienQuan: ["Hằng Nhạc Phái"], nguon: ["@c0031", "@c0032", "@c0033"] }
+      blurb: "Chợ đen bí mật của đệ tử nội môn Hằng Nhạc Phái — tổ chức nơi núi sâu, 'vé vào' là viên Hóa Hình Hóa Thanh Đan. Nơi trao đổi phi kiếm, đan dược, pháp bảo và bí thuật ngoài quy định môn phái.", detail: "Giao dịch hội được tổ chức bí mật trong núi sâu, chỉ đệ tử nội môn được mời; mỗi người phải uống Hóa Hình Hóa Thanh Đan để che thân phận (giá 200 tờ tiên phù/viên). Hơn mười đệ tử ẩn dáng trao đổi đủ loại: phi kiếm, đan dược, pháp bảo, bí thuật @c0032. Vương Lâm và Vương Hạo tham gia lần đầu @c0032. Các giao dịch nổi bật: VL mua thuật giấu tu vi (5 khỏa linh đan @c0032); Tạo Hóa Đan bị đẩy giá 2000 Đoạt Linh Đan không ai mua @c0033; Trương Cuồng (nhị sư huynh, tử y) đổi khẩu quyết tầng 4–9 lấy Linh Khí Tuyền Thủy @c0033.", theLucLienQuan: ["Hằng Nhạc Phái"], nguon: ["@c0031", "@c0032", "@c0033"] },
+    { id: "thuong-tung-phong", name: "Thương Tùng Phong", cn: "", capDo: "khac", parentId: "son-phong-hang-nhac",
+      blurb: "Đỉnh Thương Tùng — địa điểm tổ chức tỷ thí giữa Hằng Nhạc Phái và Huyền Đạo Tông (Ch.47–49). Bãi đấu ngoài trời trên đỉnh phong.", detail: "Tỷ thí 10 năm giữa Hằng Nhạc Phái và Huyền Đạo Tông diễn ra tại Thương Tùng Phong (@c0047). Các trận đấu được đánh dấu: Liễu Phong vs Triệu Long, Tôn Hạo vs Lý Sơn, Hứa Mộc vs Lữ Tung (gián đoạn), và đặc biệt VL vs Chu Bằng (3 lần) + VL vs Dương Nghị (@c0048). Sau đó VL đối đầu Âu Dương ngay tại khu vực này để lấy dịch độc Ngô Công (@c0049).", theLucLienQuan: ["Hằng Nhạc Phái", "Huyền Đạo Tông"], nguon: ["@c0047", "@c0048", "@c0049"] },
+    { id: "hang-nhac-phong", name: "Hằng Nhạc Phong", cn: "", capDo: "khac", parentId: "son-phong-hang-nhac",
+      blurb: "Đỉnh Hằng Nhạc — phong đỉnh trung tâm (hoặc nơi tiếp đón khách) của Hằng Nhạc Phái, nơi Huyền Đạo Tông cắm trại và thả nuôi Thiên Túc Ngô Công (linh thú rết khổng lồ) trong đợt đến thăm (Ch.40–50).", detail: "Thiên Túc Ngô Công được đặt tại khu này khi Huyền Đạo Tông đến (@c0040–@c0042). VL được giao nhiệm vụ săn mồi nuôi rết tại đây (@c0041). Đây cũng là nơi VL quan sát cơ chế độc của Ngô Công (@c0042).", theLucLienQuan: ["Hằng Nhạc Phái", "Huyền Đạo Tông"], nguon: ["@c0040", "@c0041", "@c0042", "@c0049"] },
+    { id: "chu-tuoc-quoc-map", name: "Chu Tước Quốc", cn: "", capDo: "quoc-gia", parentId: null,
+      blurb: "Quốc gia tu chân 6 cấp — quê hương của Tư Đồ Nam (cường giả lục cấp). Nước này đã tan rã/tiêu diệt (Tư Đồ Nam bị truy sát, thân hủy). Chi tiết vị trí địa lý chưa xác định trong nguyên tác tới Ch.50.", detail: "Chu Tước Quốc là quốc gia tu chân cấp 6 — cao hơn hẳn Tu Chân Quốc 5 cấp như Triệu quốc (@c0047). Tư Đồ Nam từng là cường giả lục cấp tại đây; bị truy sát toàn bộ, thân hủy, chỉ còn tinh hoa nguyên anh chui vào Thạch Châu. Liên quan: Thanh Long Quốc có Nguyên Anh kỳ từng khống chế Triệu quốc 500 năm trước (@c0047). Vị trí địa lý tương đối chưa rõ.", theLucLienQuan: ["Chu Tước Quốc"], nguon: ["@c0047"] }
   ]
 };
 
 window.LIB_DATA["tien-nghich"].artifacts = {
   updatedAt: "2026-06-10",
-  count: 14,
+  count: 17,
   artifacts: [
     {
       id: "thach-chau",
@@ -1546,12 +2000,12 @@ window.LIB_DATA["tien-nghich"].artifacts = {
       cn: "",
       category: "phap-bao",
       categoryLabel: "Pháp bảo",
-      phamCap: "Chưa xác định (vượt tầm phàm nhân, lai lịch bí ẩn)",
+      phamCap: "Vượt phàm — thực chất là nơi ẩn náu của cường giả lục cấp Chu Tước Quốc (Tư Đồ Nam) @c0047; điều kiện nhận chủ: ngũ hành + ≥Anh Biến kỳ",
       soHuu: ["vuong-lam"],
-      trangThai: "Vương Lâm đang sở hữu, cất trong túi trữ vật (từ @c0020)",
-      blurb: "Viên châu xám khắc hoa văn đám mây trắng, pháp bảo trục chính của cả bộ Tiên Nghịch. Nhặt trong xác một con phi điểu ở huyệt động phong nhãn (@c0008). Tiết hạt sương dưới ánh nắng, sương trị lành vết thương. Nước ngâm châu biến thành nước chứa linh khí. Có năng lực hút nước/sinh cơ mạnh bạo. Số đám mây trên châu tăng dần (5→9), phán đoán mức cuối là 10.",
-      detail: "To bằng nắm tay trẻ con; bề ngoài ban đầu phủ huyết nhục, lau sạch lộ màu xám với hoa văn đám mây trắng, trông rất cổ. Công năng xác nhận tới Ch.40: (1) Tiết hạt sương khi gặp ánh nắng buổi sáng — sương trị lành vết thương thể chất (@c0008–@c0009). (2) Nước ngâm châu có dược tính; hạt sương sáng sớm kết trên châu cho hiệu quả tốt nhất; tiếp theo là nước suối; máu/mồ hôi gần như vô dụng (@c0012). (3) Châu tự hấp thu hơn phân nửa hạt sương — người dùng chỉ giữ được chưa đến một phần mười (@c0012). (4) Cường hóa thể chất khi uống nước ngâm châu thường xuyên (@c0011). (5) Nước ngâm châu biến thành nước chứa linh khí sung túc (Tôn Đại Trụ xác nhận @c0016). (6) Dị biến hút nước mạnh: hút toàn bộ nước/hơi ẩm trong phạm vi rộng kể cả nước trong cơ thể người — suýt giết Trương Hổ bằng đông lạnh (@c0014). (7) Làm héo rũ thảo dược lân cận (Lam Tuyến Thảo, Tử Dạ Hoa) dù cơ chế chưa xác nhận rõ (@c0012–@c0013). (8) Số đám mây khắc trên châu tăng khi hấp thu nước: 5 (@c0008) → 6 → 7 (@c0014) → 9 (@c0020); 10 là mức cuối. (9) KHÔNG GIAN MỘNG CẢNH (@c0023): khi châu đạt đủ 10 đám mây, mây tan — lộ vài chữ số bí ẩn; châu khai mở không gian bên trong. Thời gian trong Mộng Cảnh chạy nhanh gấp 10 lần thực tại; không có linh khí tự nhiên trong đó. Mỗi lần vào cần ≥5 canh giờ liên tục — dùng cách này VL tu được ~1 năm trong 2 tháng thực (@c0024–@c0025). (10) Hiệu quả nước ngâm châu: Lộ thủy (nước lộ sớm) > Tuyết thủy (tuyết nấu tan) > Tuyền thủy (nước suối) — phân cấp xác nhận @c0031. Linh Khí Tuyết Thủy có hiệu quả trội hơn tuyền thủy, đặc biệt từ tầng 2 trở lên khi tuyền thủy bắt đầu giảm sút (@c0031). Lực hút kỳ quái trong huyệt động là của hắc động trên vách — KHÔNG phải thạch châu (@c0008). Lai lịch sâu hơn chưa hé lộ.",
-      nguon: ["@c0008", "@c0009", "@c0010", "@c0011", "@c0012", "@c0014", "@c0016", "@c0020", "@c0023", "@c0024", "@c0025", "@c0031"]
+      trangThai: "Vương Lâm đang sở hữu, cất trong túi trữ vật (từ @c0020); thực ra Tư Đồ Nam ẩn bên trong",
+      blurb: "Viên châu xám khắc hoa văn đám mây trắng, pháp bảo trục chính của cả bộ Tiên Nghịch. Nhặt trong xác một con phi điểu ở huyệt động phong nhãn (@c0008). Tiết hạt sương dưới ánh nắng, sương trị lành vết thương. Nước ngâm châu biến thành nước chứa linh khí. Lai lịch thật (@c0047): Tư Đồ Nam — cường giả lục cấp Chu Tước Quốc bị truy sát, ẩn tinh hoa nguyên anh vào châu; dùng tinh hoa nguyên anh trợ giúp VL gần 30 năm. Điều kiện nhận chủ: đủ ngũ hành + tu vi ≥ Anh Biến kỳ.",
+      detail: "To bằng nắm tay trẻ con; bề ngoài ban đầu phủ huyết nhục, lau sạch lộ màu xám với hoa văn đám mây trắng, trông rất cổ. Công năng xác nhận tới Ch.50: (1) Tiết hạt sương khi gặp ánh nắng buổi sáng — sương trị lành vết thương thể chất (@c0008–@c0009). (2) Nước ngâm châu có dược tính; hạt sương sáng sớm kết trên châu cho hiệu quả tốt nhất; tiếp theo là nước suối; máu/mồ hôi gần như vô dụng (@c0012). (3) Châu tự hấp thu hơn phân nửa hạt sương — người dùng chỉ giữ được chưa đến một phần mười (@c0012). (4) Cường hóa thể chất khi uống nước ngâm châu thường xuyên (@c0011). (5) Nước ngâm châu biến thành nước chứa linh khí sung túc (Tôn Đại Trụ xác nhận @c0016). (6) Dị biến hút nước mạnh: hút toàn bộ nước/hơi ẩm trong phạm vi rộng kể cả nước trong cơ thể người — suýt giết Trương Hổ bằng đông lạnh (@c0014). (7) Làm héo rũ thảo dược lân cận (Lam Tuyến Thảo, Tử Dạ Hoa) dù cơ chế chưa xác nhận rõ (@c0012–@c0013). (8) Số đám mây khắc trên châu tăng khi hấp thu nước: 5 (@c0008) → 6 → 7 (@c0014) → 9 (@c0020); 10 là mức cuối. (9) KHÔNG GIAN MỘNG CẢNH (@c0023): khi châu đạt đủ 10 đám mây, mây tan — lộ vài chữ số bí ẩn; châu khai mở không gian bên trong. Thời gian trong Mộng Cảnh chạy nhanh gấp 10 lần thực tại; không có linh khí tự nhiên trong đó. Mỗi lần vào cần ≥5 canh giờ liên tục — dùng cách này VL tu được ~1 năm trong 2 tháng thực (@c0024–@c0025). (10) Hiệu quả nước ngâm châu: Lộ thủy (nước lộ sớm) > Tuyết thủy (tuyết nấu tan) > Tuyền thủy (nước suối) — phân cấp xác nhận @c0031. (11) LAI LỊCH THẬT (@c0047): Thạch Châu là nơi ẩn náu của Tư Đồ Nam — cường giả lục cấp Chu Tước Quốc bị truy sát thân hủy; tinh hoa nguyên anh sót lại chui vào châu. Tư Đồ Nam dùng tinh hoa nguyên anh trợ giúp VL củng cố tu vi suốt gần 30 năm. ĐIỀU KIỆN NHẬN CHỦ: đủ ngũ hành linh căn + tu vi ≥ Anh Biến kỳ.",
+      nguon: ["@c0008", "@c0009", "@c0010", "@c0011", "@c0012", "@c0014", "@c0016", "@c0020", "@c0023", "@c0024", "@c0025", "@c0031", "@c0046", "@c0047"]
     },
     {
       id: "that-thai-tuong-van",
@@ -1678,10 +2132,10 @@ window.LIB_DATA["tien-nghich"].artifacts = {
       categoryLabel: "Linh thú",
       phamCap: "Hộ sơn linh thú (cấp Kết Đan hoặc cao hơn)",
       soHuu: ["huyen-dao-tong"],
-      trangThai: "Huyền Đạo Tông sử dụng (@c0039–@c0040)",
-      blurb: "Linh thú hộ sơn của Huyền Đạo Tông — rết khổng lồ trăm chân, thân dài hàng trượng (~100m), xuất hiện khi đoàn Huyền Đạo Tông đến Hằng Nhạc Phái gây khiếp đảm toàn môn. Bị Tử Nhạc Tiên Kiếm của Hoàng Long chân nhân uy hiếp đến mức chùn lại.",
-      detail: "Thiên Túc Ngô Công là linh thú hộ sơn của Huyền Đạo Tông. Hình dáng: rết khổng lồ trăm chân, thân dài ước tính cỡ trăm trượng, màu sắc bí ẩn; xuất hiện theo đoàn khách Huyền Đạo Tông đến Hằng Nhạc Phái @c0039. Sự xuất hiện của nó gây kinh hãi toàn thể Hằng Nhạc Phái. Hoàng Long chân nhân thi triển Tử Nhạc Tiên Kiếm hóa tử long để uy hiếp — hai bên cân bằng, không phân thắng bại @c0040. Thế lực của Huyền Đạo Tông có khống chế linh thú này; bí pháp khống chế là vật trao đổi trong cược tỷ thí @c0040.",
-      nguon: ["@c0039", "@c0040"]
+      trangThai: "Huyền Đạo Tông sử dụng; VL đã lấy dịch độc @c0049 và Ngô Công được trả lại",
+      blurb: "Linh thú hộ sơn của Huyền Đạo Tông — rết khổng lồ trăm chân, thân dài hàng trượng, xuất hiện khi đoàn Huyền Đạo Tông đến Hằng Nhạc Phái gây khiếp đảm toàn môn. Bị Tử Nhạc Tiên Kiếm uy hiếp (@c0040). Dịch độc màu đen của nó mạnh theo tỉ lệ kích thước đầu (@c0042); VL lấy được dịch độc tại Ch.49 để trị bệnh phong hàn cho phụ thân.",
+      detail: "Thiên Túc Ngô Công là linh thú hộ sơn của Huyền Đạo Tông. Hình dáng: rết khổng lồ trăm chân, thân dài ước tính cỡ trăm trượng; xuất hiện theo đoàn khách Huyền Đạo Tông đến Hằng Nhạc Phái @c0039. Hoàng Long chân nhân thi triển Tử Nhạc Tiên Kiếm hóa tử long để uy hiếp — hai bên cân bằng @c0040. Bí pháp khống chế là vật trao đổi trong cược tỷ thí @c0040. VL một mình vào chuồng Ngô Công @c0041: bị Ngô Công phun hàn khí nhưng VL vận linh lực hóa giải dễ dàng; Ngô Công kinh ngạc. VL quan sát cơ chế độc @c0042: Ngô Công phun hàn khí + khạc khí đen độc hại; độc tỉ lệ thuận kích thước đầu; khí đen làm tan thú nhỏ thành vũng máu. Ch.49: VL vận Dẫn Lực thuật hóa hai bàn tay hữu hình, khống chế Ngô Công ép thổ dịch độc màu đen vào bình ngọc; Ngô Công bị kiểm soát dù Âu Dương can thiệp. VL thu dịch độc, đổi bình nước sông hóa giải xung đột (@c0049).",
+      nguon: ["@c0039", "@c0040", "@c0041", "@c0042", "@c0049"]
     },
     {
       id: "tao-hoa-dan",
@@ -1721,13 +2175,52 @@ window.LIB_DATA["tien-nghich"].artifacts = {
       blurb: "Đan dược hỗ trợ tu luyện phổ thông, đồng thời là đơn vị tiêu chuẩn trong giao dịch nội bộ Hằng Nhạc Phái. Phát định kỳ cho đệ tử nội môn; tại Hậu Sơn Trương Cuồng phát 100 viên/người/năm.",
       detail: "Đoạt Linh Đan là đan dược hỗ trợ tu luyện cơ bản của Hằng Nhạc Phái. Ngoài công dụng tu luyện, nó còn là đơn vị đo giá trị chuẩn trong các giao dịch nội bộ tu chân giới (@c0032). Tôn Đại Trụ cấp cho VL định kỳ (số lượng không xác định). Tại Hậu Sơn trong 4 năm tập huấn: Trương Cuồng phát 50 lọ × 100 viên/người, tức 100 viên/người/năm (@c0035). VL sử dụng loại này thường xuyên trong tu luyện.",
       nguon: ["@c0017", "@c0032", "@c0035"]
+    },
+    {
+      id: "phich-lich-dan",
+      name: "Phích Lịch Đạn",
+      cn: "",
+      category: "dan-duoc",
+      categoryLabel: "Đan dược — Vũ khí",
+      phamCap: "Hạ phẩm (có thể mua tại chợ; Lý Sơn bán công khai @c0044)",
+      soHuu: ["ly-son", "vuong-lam"],
+      trangThai: "VL mua 3 viên @c0045; đã dùng một số trong tỷ thí @c0048",
+      blurb: "Đạn nổ bán công khai tại chợ của Lý Sơn (Huyền Đạo Tông). Thực chất là đạn gian: không tự nổ — chỉ nổ khi Lý Sơn ngầm phóng linh khí ba động kích hoạt. VL phát hiện bí mật này qua thần thức (@c0044–@c0045), nuốt đạo thần thức Lý Sơn bên trong để tự mình kích nổ (@c0046).",
+      detail: "Phích Lịch Đạn ngoài mặt rao bán như vũ khí nổ thông thường. Bí mật: bên trong mỗi viên có đạo thần thức của Lý Sơn; Lý Sơn phóng linh khí ba động từ xa mới kích hoạt nổ — không có Lý Sơn can thiệp thì đạn không nổ (@c0044). VL dùng thần thức phát hiện cơ chế này (@c0044). Mua 3 viên từ Lý Sơn (@c0045). Sau đó VL bao thần thức vào đạn, phát hiện đạo thần thức Lý Sơn bên trong, nuốt đạo thần thức đó — từ đó VL tự kích nổ được (@c0046). Dùng trong tỷ thí hạ Chu Bằng 3 lần và Dương Nghị (@c0048).",
+      nguon: ["@c0044", "@c0045", "@c0046", "@c0048"]
+    },
+    {
+      id: "dich-doc-ngo-cong",
+      name: "Dịch Độc Thiên Túc Ngô Công",
+      cn: "",
+      category: "nguyen-lieu",
+      categoryLabel: "Nguyên liệu đặc biệt",
+      phamCap: "Quý hiếm — lấy trực tiếp từ linh thú cấp cao",
+      soHuu: ["vuong-lam"],
+      trangThai: "Vương Lâm thu được vào bình ngọc @c0049",
+      blurb: "Dịch độc màu đen do Thiên Túc Ngô Công khạc ra — tan thú nhỏ thành vũng máu. Độc tỉ lệ thuận kích thước đầu (@c0042). VL lấy để trị bệnh phong hàn nhập thể cho phụ thân (@c0043, @c0049). Thu được bằng cách ép Ngô Công bằng Dẫn Lực thuật, bỏ vào bình ngọc.",
+      detail: "Ngô Công khạc khí đen sau khi phun hàn khí — khí đen làm tan con thú nhỏ thành vũng máu (@c0042). Độc tố tỉ lệ thuận kích thước đầu Ngô Công (@c0042). VL muốn lấy dịch độc này khi nghe Vương Hạo kể về bệnh phong hàn nhập thể của phụ thân (@c0043). Ch.49: VL vận Dẫn Lực thuật hóa hai bàn tay hữu hình, khống chế Ngô Công ép thổ dịch độc màu đen vào bình ngọc; thu được trước sự can thiệp của Âu Dương (@c0049). Công dụng trị phong hàn chưa được xác nhận trong nguyên tác (là mục đích của VL).",
+      nguon: ["@c0042", "@c0043", "@c0049"]
+    },
+    {
+      id: "nhan-tho-dan",
+      name: "Nhân Thọ Đan",
+      cn: "",
+      category: "dan-duoc",
+      categoryLabel: "Đan dược — Tà đạo",
+      phamCap: "Bí ẩn (luyện bằng dược lô người sống)",
+      soHuu: ["lu-van-kiet"],
+      trangThai: "Lữ Vân Kiệt đang luyện; Vương Hạo được cứu trước khi hoàn thành @c0050",
+      blurb: "Đan dược tà đạo — luyện bằng cách dùng người làm dược lô (ép tu Lô Hỏa Khai Đỉnh Đại Pháp). Mục đích: đổi thêm thọ mệnh cho người tu luyện bị kẹt cảnh giới. Lữ Vân Kiệt luyện để kéo dài thọ mệnh do bị kẹt tầng 6 suốt 25 năm. (@c0043)",
+      detail: "Nhân Thọ Đan cần nguyên liệu đặc biệt: người làm dược lô tu Lô Hỏa Khai Đỉnh Đại Pháp — tích năng lượng sống rồi bị thu hết. Người làm dược lô chỉ còn ~1 năm sống (@c0043). Lữ Vân Kiệt bị kẹt tầng 6 suốt 25 năm, lên kế hoạch dùng Vương Hạo làm dược lô. Vương Hạo được VL cứu trước khi quá trình hoàn tất (@c0050). Hồng Kiểm lão giả xác nhận Lô Hỏa Khai Đỉnh là thật (@c0050). Công dụng Nhân Thọ Đan chưa được mô tả chi tiết — chỉ biết dùng để kéo dài thọ mệnh.",
+      nguon: ["@c0043", "@c0050"]
     }
   ]
 };
 
 window.LIB_DATA["tien-nghich"].factions = {
   updatedAt: "2026-06-10",
-  count: 6,
+  count: 9,
   factions: [
     {
       id: "hang-nhac-phai",
@@ -1741,8 +2234,8 @@ window.LIB_DATA["tien-nghich"].factions = {
       trangThai: "Đang hoạt động",
       blurb: "Môn phái tu chân chính của cốt truyện — nơi Vương Lâm tu luyện. Thực lực trong Triệu quốc ở mức trung bình; từng có tổ sư Nguyên Anh Kỳ, nay suy thoái. Định kỳ 20 năm một lần tổ chức giao lưu tỷ thí với Huyền Đạo Tông — 100 năm gần nhất liên tục thua (@c0034).",
       detail: "Hằng Nhạc Phái là tông môn tu chân tại Triệu quốc, nơi Vương Lâm nhập môn từ đầu truyện. Cơ cấu: chưởng môn (Hoàng Long chân nhân @c0040) + hàng Nhị đại đệ tử (trưởng lão) + nội môn đệ tử (hồng y) + đồng tử + ký danh đệ tử (xám). Hậu Sơn là không gian tu luyện bí mật do tổ sư Nguyên Anh Kỳ mở ngàn năm trước @c0035. Pháp bảo đặc trưng: Kiếm Linh Các (cất phi kiếm), Tử Nhạc Tiên Kiếm (chưởng môn). Quan hệ với Huyền Đạo Tông: tỷ thí giao lưu 20 năm/lần, Hằng Nhạc thua liên tục 100 năm gần đây @c0034.",
-      thanhVien: ["vuong-lam", "ton-dai-tru", "hoang-long-chan-nhan", "truong-cuong", "ton-hao", "dao-hu", "vuong-trac", "vuong-hao"],
-      nguon: ["@c0002", "@c0034", "@c0035", "@c0038", "@c0040"]
+      thanhVien: ["vuong-lam", "ton-dai-tru", "hoang-long-chan-nhan", "truong-cuong", "ton-hao", "dao-hu", "vuong-trac", "vuong-hao", "lu-van-kiet", "hua-moc", "trieu-long", "lu-tung"],
+      nguon: ["@c0002", "@c0034", "@c0035", "@c0038", "@c0040", "@c0047", "@c0048", "@c0049", "@c0050"]
     },
     {
       id: "huyen-dao-tong",
@@ -1754,10 +2247,10 @@ window.LIB_DATA["tien-nghich"].factions = {
       capDo: "Địa phương (Triệu quốc) — mạnh hơn Hằng Nhạc Phái",
       lanhDao: "Trưởng lão Tần Cổ Lôi, Âu Dương (đại diện tỷ thí @c0040); chưởng môn chưa nêu tên",
       trangThai: "Đang hoạt động",
-      blurb: "Tông môn lớn hơn Hằng Nhạc Phái trong Triệu quốc — đệ tử đều mặc tử y, tuấn mỹ, có thuật giấu tu vi cao minh. Có hộ sơn linh thú Thiên Túc Ngô Công (rết khổng lồ). Giao lưu tỷ thí với Hằng Nhạc 20 năm/lần; thắng liên tiếp 100 năm gần đây.",
-      detail: "Huyền Đạo Tông là một trong các tông môn Tu Chân Giới Triệu quốc, thực lực cao hơn Hằng Nhạc Phái. Giao lưu tỷ thí với Hằng Nhạc 20 năm/lần @c0034. Tại lần giao lưu hiện tại (lần sau 100 năm Hằng Nhạc thua), cược tỷ thí trong 10 năm: Huyền Đạo Tông thắng thì Hằng Nhạc trả pháp bảo + 100 phi kiếm; Huyền Đạo Tông thua thì giao bí pháp khống chế linh thú @c0040. Đặc trưng: đệ tử đều mặc tử y, đẹp trai/đẹp gái, có thuật giấu tu vi cao (@c0040). Hộ sơn linh thú: Thiên Túc Ngô Công — rết khổng lồ ~100m @c0039–@c0040. Trong đoàn có một nam tử trung niên bí ẩn được toàn đoàn kính nể ngầm @c0040.",
-      thanhVien: ["tan-co-loi", "au-duong", "lieu-mi"],
-      nguon: ["@c0034", "@c0038", "@c0039", "@c0040"]
+      blurb: "Tông môn lớn hơn Hằng Nhạc Phái trong Triệu quốc — đệ tử đều mặc tử y, tuấn mỹ, có thuật giấu tu vi cao minh. Có hộ sơn linh thú Thiên Túc Ngô Công (rết khổng lồ). Giao lưu tỷ thí với Hằng Nhạc 20 năm/lần; thắng liên tiếp 100 năm gần đây. Thanh Long Quốc từng cử Nguyên Anh kỳ người cai trị Triệu quốc 500 năm trước — không rõ có liên quan đến Huyền Đạo Tông không.",
+      detail: "Huyền Đạo Tông là một trong các tông môn Tu Chân Giới Triệu quốc, thực lực cao hơn Hằng Nhạc Phái. Giao lưu tỷ thí với Hằng Nhạc 20 năm/lần @c0034. Tại lần giao lưu hiện tại (lần sau 100 năm Hằng Nhạc thua), cược tỷ thí trong 10 năm: Huyền Đạo Tông thắng thì Hằng Nhạc trả pháp bảo + 100 phi kiếm; Huyền Đạo Tông thua thì giao bí pháp khống chế linh thú @c0040. Đặc trưng: đệ tử đều mặc tử y, đẹp trai/đẹp gái, có thuật giấu tu vi cao (@c0040). Hộ sơn linh thú: Thiên Túc Ngô Công — rết khổng lồ ~100m @c0039–@c0040. Trong đoàn có một nam tử trung niên bí ẩn được toàn đoàn kính nể ngầm @c0040. Tỷ thí: Huyền Đạo thắng 2/3 đầu (Liễu Phong thắng Triệu Long, Lý Sơn thắng Tôn Hạo); VL thắng liên tiếp Chu Bằng + Dương Nghị (@c0047–@c0048). VL lấy dịch độc Ngô Công; Huyền Đạo chấp nhận đổi bình nước (@c0049).",
+      thanhVien: ["tan-co-loi", "au-duong", "lieu-mi", "chu-bang", "duong-nghi", "lieu-phong", "lu-tung"],
+      nguon: ["@c0034", "@c0038", "@c0039", "@c0040", "@c0047", "@c0048", "@c0049"]
     },
     {
       id: "kiem-linh-cac-tl",
@@ -1812,12 +2305,58 @@ window.LIB_DATA["tien-nghich"].factions = {
       loaiLabel: "Tông môn tu chân",
       viTri: "Triệu quốc",
       capDo: "Địa phương (Triệu quốc) — có Kết Đan kỳ tu sĩ",
-      lanhDao: "Vô Vi chân nhân (Kết Đan kỳ @c0040)",
+      lanhDao: "Chưa rõ",
+      thaiThuongTruongLao: "Vô Vi chân nhân (Kết Đan kỳ @c0040)",
       trangThai: "Đang hoạt động",
-      blurb: "Một trong các tông môn tu chân Triệu quốc; đáng chú ý vì có Vô Vi chân nhân ở Kết Đan kỳ — cảnh giới cao hơn Nguyên Anh kỳ. Chi tiết tông môn chưa được mô tả đến Ch.40.",
+      blurb: "Một trong các tông môn tu chân Triệu quốc; đáng chú ý vì có Vô Vi chân nhân — thái thượng trưởng lão ở Kết Đan kỳ (cao hơn Trúc Cơ, dưới Nguyên Anh) — thực lực đáng kể trong Triệu quốc @c0040. Chi tiết tông môn chưa được mô tả đến Ch.40.",
       detail: "Phiêu Miểu Tông có Vô Vi chân nhân ở Kết Đan kỳ — cho thấy tông này có thực lực đáng kể. Đề cập trong hội thoại trưởng lão @c0040 cùng với Vô Phong Cốc, Thiên Đạo Môn, Hợp Hoan Tông. Chi tiết tổ chức và nhân vật khác chưa được nguyên tác mô tả đến Ch.40.",
       thanhVien: [],
       nguon: ["@c0040"]
+    },
+    {
+      id: "chu-tuoc-quoc",
+      name: "Chu Tước Quốc",
+      cn: "",
+      loai: "quoc-gia-tu-chan",
+      loaiLabel: "Quốc gia tu chân",
+      viTri: "Chưa xác định (ngoài phạm vi Triệu quốc)",
+      capDo: "Lục cấp — cao hơn Tu Chân Quốc 5 cấp",
+      lanhDao: "Không rõ (đã tan rã hoặc bị tiêu diệt)",
+      trangThai: "Không còn tồn tại (Tư Đồ Nam bị truy sát — ngụ ý đã diệt @c0047)",
+      blurb: "Quốc gia tu chân cấp 6 — quê hương của Tư Đồ Nam. Hệ thống cảnh giới cao hơn Tu Chân Quốc 5 cấp thông thường. Tư Đồ Nam từng là cường giả lục cấp tại đây; bị truy sát thân hủy, chỉ còn tinh hoa nguyên anh ẩn trong Thạch Châu. (@c0047)",
+      detail: "Chu Tước Quốc là quốc gia tu chân với hệ thống 6 cấp — cao hơn hệ thống Tu Chân Quốc thông thường của Triệu quốc (5 cấp). Tư Đồ Nam từng là cường giả lục cấp — tức là cảnh giới đỉnh của quốc gia này. Bị truy sát toàn diện, thân hủy, chỉ còn tinh hoa nguyên anh chui vào Thạch Châu (@c0047). Trạng thái quốc gia sau đó không được nêu rõ — có thể đã tan rã. Vị trí địa lý chưa xác định trong nguyên tác tới Ch.50.",
+      thanhVien: ["tu-do-nam"],
+      nguon: ["@c0047"]
+    },
+    {
+      id: "thanh-long-quoc",
+      name: "Thanh Long Quốc",
+      cn: "",
+      loai: "quoc-gia-tu-chan",
+      loaiLabel: "Quốc gia tu chân",
+      viTri: "Không rõ (có thể liền kề Triệu quốc)",
+      capDo: "Có Nguyên Anh kỳ tu sĩ (xác nhận @c0047)",
+      lanhDao: "Không rõ",
+      trangThai: "Chưa rõ trạng thái hiện tại",
+      blurb: "Quốc gia tu chân có Nguyên Anh kỳ tu sĩ. 500 năm trước, Thanh Long Quốc cử Nguyên Anh kỳ đến cai quản Triệu quốc — cho thấy tương quan thực lực giữa hai quốc (@c0047). Chi tiết thêm chưa được nguyên tác mô tả đến Ch.50.",
+      detail: "Thanh Long Quốc được Tư Đồ Nam nhắc đến: 500 năm trước Thanh Long Quốc cử Nguyên Anh kỳ cai quản Triệu quốc (@c0047). Điều này cho thấy Tu Chân Quốc Triệu về thực lực thấp hơn — không có Nguyên Anh lão tổ ở mức đó (Âu Dương cũng cảnh báo VL về điều này @c0049). Không có thêm thông tin về Thanh Long Quốc trong Ch.1–50.",
+      thanhVien: [],
+      nguon: ["@c0047"]
+    },
+    {
+      id: "lien-minh-tu-chan",
+      name: "Liên Minh Tu Chân",
+      cn: "",
+      loai: "lien-minh",
+      loaiLabel: "Liên minh tu chân quốc tế",
+      viTri: "Trên phạm vi nhiều quốc gia",
+      capDo: "Tổ chức cấp cao — trên Tu Chân Quốc 5 cấp",
+      lanhDao: "Không rõ",
+      trangThai: "Đang hoạt động",
+      blurb: "Liên minh của các Tu Chân Quốc 5 cấp — tổ chức siêu quốc gia. Tư Đồ Nam đề cập khi giải thích hệ thống Tu Chân Giới (@c0046). Chi tiết cơ cấu và thành viên chưa được nguyên tác mô tả đến Ch.50.",
+      detail: "Liên Minh Tu Chân là cấp độ tổ chức cao hơn các Tu Chân Quốc 5 cấp đơn lẻ — được Tư Đồ Nam nhắc đến khi giải thích bức tranh Tu Chân Giới tổng thể (@c0046). Hệ thống: Tu Chân Quốc 5 cấp → Liên Minh Tu Chân. Triệu quốc (nơi Vương Lâm đang ở) là một Tu Chân Quốc 5 cấp — không có Nguyên Anh lão tổ bảo hộ (@c0046, @c0049). Chi tiết thêm chưa được nguyên tác mô tả đến Ch.50.",
+      thanhVien: [],
+      nguon: ["@c0046"]
     }
   ]
 };
