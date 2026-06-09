@@ -158,7 +158,7 @@ window.LIB_DATA["tien-nghich"].realms = {
 
 window.LIB_DATA["tien-nghich"].characters = {
   updatedAt: "2026-06-09",
-  count: 7,
+  count: 8,
   chars: [
     {
       id: "vuong-lam",
@@ -166,19 +166,20 @@ window.LIB_DATA["tien-nghich"].characters = {
       cn: "",
       aliases: ["Thiết Trụ"],
       gioiTinh: "nam",
-      theLuc: "Vương thị gia tộc / ứng thí Hằng Nhạc Phái (mới nhập)",
-      canhGioiCaoNhat: "Phàm nhân",
+      theLuc: "Hằng Nhạc Phái",
+      canhGioiCaoNhat: "Phàm nhân (ký danh đệ tử Hằng Nhạc Phái)",
       trangThai: "song",
       vaiTro: "✦ Nhân vật chính",
-      tinhCach: "Ý chí kiên cường, nhẫn nhịn và tâm cơ sâu; bề ngoài bình thản, bên trong quyết liệt — bị sỉ nhục không cãi, âm thầm hạ quyết tâm; bị loại tư chất vẫn leo thềm đá đến huyết phao mà không bỏ cuộc (Ch.1–3).",
-      blurb: "Nhân vật chính. Thiếu niên 15 tuổi xuất thân bình dân, ý chí kiên định, quyết vào tu tiên dù bị phán tư chất kém.",
+      tinhCach: "Ý chí kiên cường, nhẫn nhịn và tâm cơ sâu; bề ngoài bình thản, bên trong quyết liệt — bị sỉ nhục không cãi, âm thầm ghi thù; bị loại tư chất vẫn leo thềm đá đến huyết phao mà không bỏ cuộc; ghi nhớ diện mạo mỗi kẻ từng hạ nhục để sau trả thù.",
+      blurb: "Nhân vật chính. Thiếu niên 15 tuổi xuất thân bình dân, ý chí kiên định, quyết vào tu tiên dù bị phán tư chất kém. Nhờ ý chí và một viên Thạch Châu bí ẩn nhặt được trong huyệt động, hắn trở thành ký danh đệ tử Hằng Nhạc Phái. Giấu kín Thạch Châu, lặng lẽ chịu đựng lao dịch nặng trong phái.",
       tabs: {
-        tieuSu: "Vương Lâm (tên mụ Thiết Trụ) là con trai của Vương Thiên Thủy — người thợ mộc bị gia tộc họ Vương bức rời đi, nay định cư tại một sơn thôn nhỏ. Từ nhỏ Vương Lâm thông minh, ham đọc sách, được cả thôn xem là thần đồng; cha mẹ kỳ vọng hắn thi đỗ kỳ thi huyện. Cơ duyên đổi hướng khi Tứ thúc (em cha) nhường suất đề cử của Vương thị gia tộc cho hắn đi dự tuyển đệ tử Hằng Nhạc Phái — môn phái tu tiên duy nhất trong vùng. Tại buổi trắc thí, Vương Lâm bị phán 'Không hợp cách' ở vòng tư chất, nhưng không gục ngã: hắn chọn leo thềm đá dốc để qua vòng nghị lực, hòng được nhận làm ký danh đệ tử. Cuối chương 3, sau hai ngày leo núi, hai chân nổi huyết phao rỉ máu, hắn vẫn không bỏ cuộc.",
+        tieuSu: "Vương Lâm (tên mụ Thiết Trụ) là con trai của Vương Thiên Thủy — người thợ mộc bị gia tộc họ Vương bức rời đi, nay định cư tại một sơn thôn nhỏ. Từ nhỏ Vương Lâm thông minh, ham đọc sách, được cả thôn xem là thần đồng; cha mẹ kỳ vọng hắn thi đỗ kỳ thi huyện. Cơ duyên đổi hướng khi Tứ thúc (em cha) nhường suất đề cử của Vương thị gia tộc cho hắn đi dự tuyển đệ tử Hằng Nhạc Phái. Tại buổi trắc thí, Vương Lâm bị phán 'Không hợp cách' ở vòng tư chất, nhưng không gục ngã: hắn leo thềm đá dốc để qua vòng nghị lực, leo suốt hai ngày đến huyết nhục lẫn lộn nhưng hôn mê ngã xuống khi chưa đầy mười trượng. Tiếp tục thử Kiếm Linh Các — tiến xa nhất trong nhóm 11 người nhưng vẫn bị lực đạo đẩy ra. Trượt cả ba vòng, bị đưa về nhà. Chịu cả họ sỉ nhục, hắn ghi tạc diện mạo từng kẻ, thề nhất định bước vào tiên môn. Đêm khuya lén bỏ nhà lần hai, băng thâm sơn, bị hổ trắng dồn nên nhảy vách núi — được lực hút kỳ quái của một huyệt động cứu sống. Trong huyệt động hắn nhặt được Thạch Châu — viên châu xám khắc năm đóa mây trắng tiết ra sương chữa lành vết thương. Nhờ Tứ thúc dâng khối tinh thiết bất phàm, Hằng Nhạc Phái phá lệ thu hắn làm ký danh đệ tử. Trong phái bị giao lao dịch nặng (nấu nước mười vại lớn mỗi ngày). Hắn giấu kín Thạch Châu không cho ai biết; kết bạn với bạn cùng phòng Trương Hổ.",
         diem: [
-          { text: "Ý chí phi thường — bị phán tư chất kém vẫn không bỏ cuộc, leo thềm đá hai ngày, chân nổi huyết phao rỉ máu đau như kim châm nhưng quyết không dừng.", chuong: "@c0003" },
-          { text: "Tâm cơ và nhẫn nhịn — bị Vương Trác sỉ nhục tại tiệc vẫn im lặng, chỉ liếc sâu một cái rồi âm thầm hạ quyết tâm 'vô luận thế nào cũng phải được tuyển chọn'.", chuong: "@c0001" },
-          { text: "Hiếu kỳ và khát vọng tu tiên — lần đầu thấy tiên nhân dù kinh hãi mặt tái nhưng trong lòng càng mong đợi được tu tiên.", chuong: "@c0002" },
-          { text: "Xuất thân bình dân, thông minh ham học — từ nhỏ được cả thôn xem là thần đồng; cha mẹ kỳ vọng đỗ kỳ thi huyện trước khi cơ duyên tu tiên đến.", chuong: "@c0001" }
+          { text: "Ý chí phi thường — bị phán tư chất kém vẫn không bỏ cuộc, leo thềm đá hai ngày, chân nổi huyết phao đau như kim châm nhưng quyết không dừng.", chuong: "@c0004" },
+          { text: "Tâm cơ và nhẫn nhịn — bị Vương Trác sỉ nhục tại tiệc vẫn im lặng, chỉ liếc sâu một cái rồi âm thầm hạ quyết tâm.", chuong: "@c0001" },
+          { text: "Ghi thù tất báo — khi bị sỉ nhục trước cả họ, trầm tĩnh nhìn tất cả, nhớ kỹ diện mạo mỗi kẻ; sau khi vào phái tiếp tục ghi mặt các ký danh đệ tử châm chọc để sau trả thù.", chuong: "@c0006" },
+          { text: "Thận trọng và kiên nhẫn — giấu kín Thạch Châu ngay từ ngày đầu nhập môn ('hoài bích có tội'), không cho bất kỳ ai biết.", chuong: "@c0010" },
+          { text: "Hiếu kỳ và khát vọng tu tiên — lần đầu thấy tiên nhân dù kinh hãi mặt tái nhưng trong lòng càng mong đợi được tu tiên.", chuong: "@c0002" }
         ],
         kinhLich: [
           {
@@ -189,29 +190,70 @@ window.LIB_DATA["tien-nghich"].characters = {
           {
             chuong: "@c0002",
             importance: "major",
-            text: "Cùng Vương Trác và thiếu niên lanh lợi được bạch y thanh niên Hằng Nhạc Phái độn kiếm quang đưa lên sơn phong. Lần đầu thấy tiên nhân, kinh hãi mặt tái. Tham gia trắc thí linh căn cùng tổng cộng 48 thiếu niên; vẫn là phàm nhân chưa tu luyện."
+            text: "Cùng Vương Trác và thiếu niên lanh lợi được bạch y thanh niên Hằng Nhạc Phái độn kiếm quang đưa lên sơn phong. Lần đầu thấy tiên nhân, kinh hãi mặt tái. Tham gia trắc thí linh căn cùng tổng cộng 48 thiếu niên."
           },
           {
             chuong: "@c0003",
             importance: "major",
-            text: "Bị phán 'Không hợp cách' ở vòng trắc thí tư chất. Không bỏ cuộc, tham gia vòng hai — leo thềm đá dốc trắc thí nghị lực (hạn 3 ngày). Sau hai ngày leo, hai chân nổi huyết phao đau như kim châm, vẫn kiên quyết tiếp tục."
-          }
+            text: "Bị phán 'Không hợp cách' ở vòng trắc thí tư chất. Không bỏ cuộc, tham gia vòng hai — leo thềm đá dốc trắc thí nghị lực (hạn 3 ngày). Thở sâu, ánh mắt kiên định, không do dự bước lên thềm đá bắt đầu leo."
+          },
+          {
+            chuong: "@c0004",
+            importance: "major",
+            text: "Leo thềm đá suốt hai ngày rồi ngày thứ ba: hai chân nổi huyết phao đau như kim châm, tay huyết nhục lẫn lộn, hôn mê ngã xuống khi chỉ còn cách đỉnh chưa đầy mười trượng — trượt trắc thí nghị lực. Được đưa thử Kiếm Linh Các: vượt mốc năm trượng mà sáu người trước bị chặn, tiến tới cách cổng ba trượng khiến chủ khảo lộ hứng thú, nhưng bị lực đạo khổng lồ đẩy bật ra — trượt Kiếm Linh. Mười một người đều trượt."
+          },
+          {
+            chuong: "@c0005",
+            importance: "major",
+            text: "Trở về giữa bữa tiệc chúc mừng của Vương gia — không được Hằng Nhạc Phái thu nhận. Quỳ dập đầu xin lỗi cha mẹ; mẹ khuyên đừng làm chuyện dại dột. Tinh thần suy sụp nặng nề."
+          },
+          {
+            chuong: "@c0006",
+            importance: "major",
+            text: "Toàn bộ thân thích Vương gia trở mặt đồng loạt sỉ nhục cả nhà. Vương Lâm nén đau, trầm tĩnh nhìn tất cả, ghi kỹ diện mạo mỗi thân thích, thề sẽ bước vào tiên môn. Tứ thúc bênh vực và dàn xếp kết thúc."
+          },
+          {
+            chuong: "@c0007",
+            importance: "major",
+            text: "Tuyên thề trước thân thích sẽ bước vào tiên nhân môn phái. Đêm khuya để lại lưu thư, bỏ nhà lần thứ hai, băng thâm sơn hướng đông quay lại Hằng Nhạc Phái. Bị hổ trắng dồn, nhảy vách núi; được lực hút kỳ quái kéo vào huyệt động bí ẩn (phong nhãn thiên nhiên). Bị thương cánh tay phải và đùi phải."
+          },
+          {
+            chuong: "@c0008",
+            importance: "major",
+            text: "Bị kẹt trong huyệt động, ăn thịt sống phi điểu để sống sót. Moi được Thạch Châu màu xám khắc năm đóa mây trắng từ xác chim. Phát hiện thạch châu tiết hạt sương dưới nắng — sương trị lành cánh tay sưng tấy hoàn toàn; kết luận đây là bảo bối."
+          },
+          {
+            chuong: "@c0009",
+            importance: "major",
+            text: "Tụt vách xuống chân núi (xé quần áo bện dây, dây đứt giữa chừng), đùi phải đâm trúng đá nhọn lộ xương; tự sơ cứu bằng sương thạch châu. Được cha và đệ tử họ Trương cứu, đưa về Hằng Nhạc Phái. Cha mẹ hiểu lầm hắn muốn tự sát; hắn không giải thích. Các trưởng lão bàn luận, lão giả nếp nhăn (Lý trưởng lão — tên xác nhận ở @c0010) đề xuất phá lệ thu hắn làm ký danh đệ tử."
+          },
+          {
+            chuong: "@c0010",
+            importance: "major",
+            text: "Chính thức nhập môn Hằng Nhạc Phái với thân phận ký danh đệ tử — nhờ Tứ thúc dâng khối tinh thiết bất phàm cho trung niên nhân tiến cử. Nhận áo xám, thẻ bài, phòng ở phía Bắc. Bị đệ tử áo vàng 'con chồn' ép gánh đầy mười vại nước khổng lồ mỗi ngày (không hoàn thành 7 ngày liên tiếp sẽ bị trục xuất). Quyết giấu kín Thạch Châu. Kết bạn với bạn cùng phòng Trương Hổ."
+          },
         ],
-        tuVi: "Phàm nhân (Ch.1–3), chưa bắt đầu tu luyện. Bị phán tư chất kém tại trắc thí Hằng Nhạc Phái; đang tranh suất ký danh đệ tử qua vòng nghị lực.",
+        tuVi: "Phàm nhân xuyên suốt Ch.1–10, chưa bắt đầu tu luyện tiên pháp nào. Thân phận: ký danh đệ tử Hằng Nhạc Phái (từ @c0010), chưa đủ điều kiện được truyền tiên pháp (cần làm tạp vụ đủ mười năm). Thạch Châu chưa có biểu hiện cường hóa thể chất rõ trong phạm vi Ch.1–10.",
         tuViMoc: [
           { chuong: "@c0001", canhGioi: "Phàm nhân", text: "Phàm nhân — quyết chí tu tiên sau khi nhận danh ngạch đề cử từ Tứ thúc." },
-          { chuong: "@c0003", canhGioi: "Phàm nhân", text: "Phàm nhân — được nhận làm ký danh đệ tử (đang leo thềm trắc thí nghị lực, chưa tu luyện)." }
+          { chuong: "@c0010", canhGioi: "Phàm nhân", text: "Phàm nhân — nhập môn Hằng Nhạc Phái, chính thức trở thành ký danh đệ tử; chưa được truyền tiên pháp. Thạch Châu trước đó đã trị lành vết thương cánh tay (@c0008), công năng khác chưa biểu hiện rõ trong phạm vi Ch.1–10." }
         ],
         nhanMach: [
           { ten: "Vương Thiên Thủy", quanHe: "Cha", ghiChu: "Thợ mộc, yêu thương con, kỳ vọng cao.", tag: "cha-me" },
           { ten: "Mẹ (Nhị nương)", quanHe: "Mẹ", ghiChu: "Hiền hậu, lo lắng con bị bắt nạt, chuẩn bị hành lý tiễn con.", tag: "cha-me" },
-          { ten: "Tứ thúc", quanHe: "Chú (em cha)", ghiChu: "Ân nhân — nhường danh ngạch đề cử cho Vương Lâm.", tag: "an-nhan" },
-          { ten: "Vương Trác", quanHe: "Anh họ (con Đại bá)", ghiChu: "Đối thủ, kiêu ngạo, sỉ nhục Vương Lâm.", tag: "doi-thu" },
-          { ten: "Vương Hạo", quanHe: "Họ hàng / bạn đồng hành", ghiChu: "Thân thiện, nói chuyện riêng với Vương Lâm trong buổi trắc thí.", tag: "ban-be" }
+          { ten: "Tứ thúc", quanHe: "Chú (em cha)", ghiChu: "Ân nhân — nhường danh ngạch đề cử, dùng khối tinh thiết bất phàm giúp hắn vào phái.", tag: "an-nhan" },
+          { ten: "Vương Trác", quanHe: "Anh họ (con Đại bá)", ghiChu: "Đối thủ, kiêu ngạo, liên tục sỉ nhục Vương Lâm.", tag: "doi-thu" },
+          { ten: "Vương Hạo", quanHe: "Họ hàng / bạn đồng hành", ghiChu: "Có thiện cảm với Vương Lâm, định bênh nhưng bị cha ngăn.", tag: "ban-be" },
+          { ten: "Trương Hổ", quanHe: "Bạn cùng phòng", ghiChu: "Ký danh đệ tử Hằng Nhạc Phái, bạn đầu tiên của Vương Lâm trong phái; từng đói hai ngày, được Vương Lâm chia khoai lang nên kết thân.", tag: "ban-be" }
         ],
-        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+        tuiDo: {
+          phapBao: [
+            { ten: "Thạch Châu", moTa: "Viên châu xám khắc năm đóa mây trắng, to bằng nắm tay trẻ con, trông rất cổ. Nhặt từ trong xác một con phi điểu chết trong huyệt động (@c0008). Tiết hạt sương khi gặp ánh nắng; sương vị ngọt, trị lành vết thương thể chất. Đeo ở cổ bằng dây thừng, giấu kín dưới áo. (@c0008–@c0010)", nguon: "@c0008" }
+          ],
+          congPhap: [], danDuoc: [], linhThu: [], khac: []
+        }
       },
-      nguon: ["@c0001", "@c0002", "@c0003"]
+      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007", "@c0008", "@c0009", "@c0010"]
     },
     {
       id: "vuong-trac",
@@ -219,17 +261,18 @@ window.LIB_DATA["tien-nghich"].characters = {
       cn: "",
       aliases: [],
       gioiTinh: "nam",
-      theLuc: "Vương thị gia tộc / đệ tử Hằng Nhạc Phái (mới nhập, tư chất đạt)",
-      canhGioiCaoNhat: "Phàm nhân (chưa tu luyện, mới được nhận vào phái)",
+      theLuc: "Hằng Nhạc Phái",
+      canhGioiCaoNhat: "Phàm nhân (chưa bắt đầu tu luyện trong phạm vi Ch.1–10); được Đạo Hư sư phụ hứa sẽ truyền pháp thuật tu tiên sau khi về nhà xử lý việc thế tục",
       trangThai: "song",
       vaiTro: "Đối thủ (anh họ)",
-      tinhCach: "Kiêu căng ngạo mạn, khinh miệt kẻ yếu hơn; lấy thân thế và linh căn làm ưu thế (Ch.1–3).",
-      blurb: "Anh họ và đối thủ ban đầu của Vương Lâm. Kiêu ngạo, có tu tiên linh căn, được Đạo Hư tiên nhân tiến cử vào Hằng Nhạc Phái.",
+      tinhCach: "Kiêu căng ngạo mạn, khinh miệt kẻ yếu hơn; lấy thân thế và linh căn làm ưu thế; không kiềm được miệng lưỡi ngay cả khi bị người có thực lực hơn dọa nạt.",
+      blurb: "Anh họ kiêu ngạo của Vương Lâm. Có tu tiên linh căn, được Đạo Hư thượng tiên chính thức thu làm đồ đệ truyền thừa; liên tục châm biếm và sỉ nhục Vương Lâm trong suốt giai đoạn Ch.1–7.",
       tabs: {
-        tieuSu: "Vương Trác là con của Đại bá (bác cả, anh cha Vương Lâm), thiếu niên 16-17 tuổi, tướng mạo tuấn tú mày kiếm mắt sáng. Hắn có tu tiên linh căn và được Đạo Hư thượng tiên của Hằng Nhạc Phái nhìn trúng từ trước, nội bộ chỉ định làm đệ tử tiên sư. Tại buổi tiệc nhà Vương Lâm, Vương Trác công khai khinh miệt anh họ, nói Vương Lâm 'ngu dốt si đần' và không xứng tu tiên. Trong buổi trắc thí, Vương Trác là người đầu tiên đạt vòng tư chất, qua bên phải nhờ cả tư chất lẫn sự tiến cử của Đạo Hư sư thúc.",
+        tieuSu: "Vương Trác là con của Vương Thiên Sơn (Đại bá — bác cả, anh của cha Vương Lâm), thiếu niên 16-17 tuổi, tướng mạo tuấn tú mày kiếm mắt sáng. Hắn có tu tiên linh căn và được Đạo Hư thượng tiên của Hằng Nhạc Phái nhìn trúng từ trước, nội bộ chỉ định làm đệ tử truyền thừa. Sau khi vượt trắc thí tư chất (nhờ cả thực lực lẫn tiến cử của Đạo Hư sư thúc), hắn chính thức được Đạo Hư thu làm đồ đệ và được hứa trong mười năm sẽ thành nhân tài kiệt xuất trong hàng đệ tử Hằng Nhạc Phái. Trên đường về và sau khi về tới gia tộc, hắn liên tục khoe khoang, khinh miệt và châm biếm Vương Lâm; kể cả khi bị Tứ thúc dọa sẽ phế hắn vì tội ngạo mạn, hắn vẫn không nhịn được, cần cha kéo ra che chắn.",
         diem: [
           { text: "Kiêu ngạo, khinh miệt — công khai sỉ nhục Vương Lâm tại tiệc, mỉa mai người thất bại sau trắc thí tư chất.", chuong: "@c0001" },
-          { text: "Có linh căn tu tiên được Đạo Hư xác nhận từ trước — được nhận vào phái một phần nhờ chỗ dựa tiên sư.", chuong: "@c0003" }
+          { text: "Có linh căn tu tiên được Đạo Hư xác nhận từ trước — được nhận vào phái một phần nhờ chỗ dựa tiên sư.", chuong: "@c0003" },
+          { text: "Được Đạo Hư thượng tiên chính thức thu làm đồ đệ; sư phụ hứa mười năm thành nhân tài kiệt xuất. Liên tục mỉa mai Vương Lâm và Vương Hạo khi về tới gia tộc.", chuong: "@c0005" }
         ],
         kinhLich: [
           {
@@ -246,18 +289,39 @@ window.LIB_DATA["tien-nghich"].characters = {
             chuong: "@c0003",
             importance: "major",
             text: "Đạt vòng trắc thí tư chất, được nhận một phần nhờ Đạo Hư sư thúc tiến cử. Qua bên phải, tiếp tục khinh miệt và mỉa mai những người thất bại, trong đó có Vương Lâm."
-          }
+          },
+          {
+            chuong: "@c0004",
+            importance: "normal",
+            text: "Trên đường đưa về Vương gia, khoe với cả đoàn: sư phụ Đạo Hư nói chỉ đợi hắn về nhà xử lý xong việc thế tục là truyền pháp thuật tu tiên. Gọi biệt danh 'Thiết Trụ' nhạo báng Vương Lâm."
+          },
+          {
+            chuong: "@c0005",
+            importance: "major",
+            text: "Về tới Vương thị gia tộc giữa tiệc mừng, chính thức xác nhận được Đạo Hư thượng tiên thu làm đồ đệ; sư phụ hứa trong mười năm hắn sẽ thành nhân tài kiệt xuất trong hàng đệ tử Hằng Nhạc Phái. Cha (Vương Thiên Sơn) mừng rỡ. Liên tục châm chọc Vương Lâm và Vương Hạo."
+          },
+          {
+            chuong: "@c0006",
+            importance: "normal",
+            text: "Đắc ý sỉ nhục Vương Lâm cùng cả họ; gọi nhà Vương Lâm là 'tính cách con lừa, thô lỗ'. Bị Tứ thúc dọa sẽ phế hắn đi; cha phải đứng ra bênh và kéo con ra sau lưng."
+          },
+          {
+            chuong: "@c0007",
+            importance: "normal",
+            text: "Tái xuất ngắn trong cảnh thân thích họp mặt; tiếp tục châm biếm. Bị Tứ thúc dọa thêm lần nữa, bị cha kéo đi."
+          },
+          { bridge: true, khoang: "@c0008–@c0010", text: "Không xuất hiện trực tiếp trong giai đoạn này; Vương Lâm đã rời gia tộc." }
         ],
-        tuVi: "Phàm nhân (Ch.1–3), chưa tu luyện. Đạt trắc thí tư chất, vừa được nhận vào Hằng Nhạc Phái (đệ tử, chưa rõ cấp nội/ngoại môn). Có tu tiên linh căn được Đạo Hư xác nhận.",
+        tuVi: "Phàm nhân, chưa bắt đầu tu luyện trong phạm vi Ch.1–10. Được Đạo Hư thượng tiên chính thức thu làm đồ đệ truyền thừa; sư phụ hứa trong mười năm thành nhân tài kiệt xuất trong hàng đệ tử Hằng Nhạc Phái. Có tu tiên linh căn được Đạo Hư xác nhận.",
         tuViMoc: [],
         nhanMach: [
-          { ten: "Đại bá", quanHe: "Cha", ghiChu: "Ngoài mặt quở trách con nhưng trong lòng đắc ý.", tag: "cha-me" },
-          { ten: "Vương Lâm", quanHe: "Em họ", ghiChu: "Khinh miệt, xem là đối thủ thua kém.", tag: "doi-thu" },
-          { ten: "Đạo Hư (sư thúc Hằng Nhạc Phái)", quanHe: "Người tiến cử / sư thúc tương lai", ghiChu: "Nội bộ chỉ định Vương Trác từ trước.", tag: "su-mon" }
+          { ten: "Vương Thiên Sơn", quanHe: "Cha (Đại bá)", ghiChu: "Ngoài mặt quở trách con nhưng trong lòng đắc ý; bênh con khi bị Tứ thúc dọa.", tag: "cha-me" },
+          { ten: "Vương Lâm", quanHe: "Em họ", ghiChu: "Khinh miệt, liên tục sỉ nhục và nhạo báng.", tag: "doi-thu" },
+          { ten: "Đạo Hư thượng tiên", quanHe: "Sư phụ", ghiChu: "Nội bộ chỉ định từ trước; chính thức thu làm đồ đệ, hứa mười năm thành nhân tài kiệt xuất.", tag: "su-mon" }
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0001", "@c0002", "@c0003"]
+      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007"]
     },
     {
       id: "tu-thuc",
@@ -265,7 +329,7 @@ window.LIB_DATA["tien-nghich"].characters = {
       cn: "",
       aliases: ["Lão Tứ"],
       gioiTinh: "nam",
-      theLuc: "Vương thị gia tộc (phàm nhân, quản việc tộc)",
+      theLuc: "Vương Thị Gia Tộc",
       canhGioiCaoNhat: "Phàm nhân",
       trangThai: "song",
       vaiTro: "Ân nhân",
@@ -305,33 +369,50 @@ window.LIB_DATA["tien-nghich"].characters = {
       cn: "",
       aliases: [],
       gioiTinh: "nam",
-      theLuc: "Vương thị gia tộc / dược đồng Hằng Nhạc Phái (mới nhận)",
-      canhGioiCaoNhat: "Phàm nhân (chưa tu luyện, mới vào phái làm dược đồng)",
+      theLuc: "Hằng Nhạc Phái",
+      canhGioiCaoNhat: "Phàm nhân (học tiên pháp cấp thấp với tư cách đồng tử)",
       trangThai: "song",
-      vaiTro: "Bạn đồng hành / dược đồng",
-      tinhCach: "Lanh lợi, thực tế, không ngại nịnh nọt để đạt mục đích; thân thiện với Vương Lâm (Ch.2–3).",
-      blurb: "Thiếu niên lanh lợi, bạn đồng hành của Vương Lâm tại buổi trắc thí. Tư chất kém nhưng dâng linh chi 300 năm, được nhận làm dược đồng luyện đan Hằng Nhạc Phái.",
+      vaiTro: "Bạn đồng hành / đồng tử",
+      tinhCach: "Lanh lợi, thực tế, không ngại nịnh nọt để đạt mục đích; có thiện cảm với Vương Lâm.",
+      blurb: "Thiếu niên lanh lợi, con của Tam đệ trong Vương gia. Tư chất kém nhưng dâng linh chi 300 năm, được nhận làm dược đồng (đồng tử) Hằng Nhạc Phái. Có thiện cảm với Vương Lâm dù không dám bày tỏ công khai.",
       tabs: {
-        tieuSu: "Vương Hạo là thiếu niên da hơi đen, khỏe mạnh, mắt lanh lợi — một trong ba đại diện Vương gia dự trắc thí. Hắn tự giới thiệu với Vương Lâm và tỏ ra thân thiện. Cha hắn từng tình cờ nhặt được một hộp ngọc trong núi, đập nhiều lần không vỡ (vì người tu chân phong ấn); Vương Hạo mang theo vật này. Tại trắc thí, tư chất Vương Hạo bị phán 'kém chút, không'. Hắn lập tức nịnh nọt tiên sư và dâng hộp ngọc — bên trong chứa gốc linh chi 300 năm. Trung niên nhân nhận ra giá trị, thu hắn làm tiểu đồng luyện đan (dược đồng), hứa cho tu luyện một loại tiên thuật. Lưu ý: nghiên cứu ghi nhận mâu thuẫn nhân xưng tên 'Vương Hạo' trong bản dịch Ch.2 — cần xác minh.",
+        tieuSu: "Vương Hạo là con của Tam đệ (tức Tam thúc của Vương Lâm), thiếu niên da hơi đen, khỏe mạnh, mắt lanh lợi — một trong ba đại diện Vương gia dự trắc thí. Hắn tự giới thiệu với Vương Lâm và tỏ ra thân thiện. Cha hắn từng tình cờ nhặt được một hộp ngọc trong núi; Vương Hạo mang theo vật này. Tại trắc thí, tư chất Vương Hạo bị phán 'kém chút, không'. Hắn lập tức nịnh nọt tiên sư và dâng hộp ngọc — bên trong chứa gốc linh chi 300 năm. Trung niên nhân thu hắn làm tiểu đồng luyện đan (đồng tử), được học tiên pháp cấp thấp. Sau khi Vương Lâm bị cả họ sỉ nhục, Vương Hạo lộ vẻ áy náy, mở lời định bênh nhưng bị cha trừng mắt ngăn lại — chi tiết hé lộ thiện cảm thật sự với Vương Lâm. Theo lời Trương Hổ, đồng tử kiểu Vương Hạo có tư chất bình thường, cả đời khó có tiền đồ lớn, chỉ hầu hạ suốt đời.",
         diem: [
-          { text: "Lanh lợi và nịnh nọt — dâng linh chi 300 năm, nịnh tiên sư không ngại xấu hổ để đổi lấy suất vào môn phái.", chuong: "@c0003" }
+          { text: "Lanh lợi và thực tế — dâng linh chi 300 năm, nịnh tiên sư không ngại xấu hổ để đổi lấy suất vào môn phái.", chuong: "@c0003" },
+          { text: "Thiện cảm với Vương Lâm — định bênh khi cả họ sỉ nhục nhưng bị cha ngăn; áy náy nhìn Thiết Trụ bị hạ nhục.", chuong: "@c0006" }
         ],
         kinhLich: [
           {
             chuong: "@c0002",
             importance: "normal",
-            text: "Tự giới thiệu tên Vương Hạo với Vương Lâm trong sân tập kết. Ánh mắt cuồng nhiệt khi thấy tiên cảnh Hằng Nhạc Phái. Mang vật lạ giấu trong nội y (hộp ngọc) — bạch y thanh niên cũng để ý liếc tới."
+            text: "Tự giới thiệu tên Vương Hạo với Vương Lâm trong sân tập kết. Ánh mắt cuồng nhiệt khi thấy tiên cảnh Hằng Nhạc Phái. Mang vật lạ giấu trong nội y (hộp ngọc)."
           },
           {
             chuong: "@c0003",
             importance: "major",
-            text: "Bị phán tư chất 'kém chút, không'. Dâng hộp ngọc chứa linh chi 300 năm làm lễ vật. Được trung niên nhân (Tam sư huynh) nhận làm dược đồng luyện đan, hứa cho tu luyện một loại tiên thuật cùng đệ tử nội môn. Nói chuyện thân thiện với Vương Lâm trước đó."
-          }
+            text: "Bị phán tư chất 'kém chút, không'. Dâng hộp ngọc chứa linh chi 300 năm làm lễ vật. Được trung niên nhân (Tam sư huynh) nhận làm dược đồng luyện đan, hứa cho tu luyện một loại tiên thuật."
+          },
+          {
+            chuong: "@c0004",
+            importance: "minor",
+            text: "Trên đường đưa về nhà tộc, bĩu môi mỉa mai Vương Trác có vẻ tiểu nhân đắc chí, khoe lại 'ta còn có thể luyện đan'."
+          },
+          {
+            chuong: "@c0005",
+            importance: "minor",
+            text: "Về tới Vương thị gia tộc. Vương Trác mỉa mai rằng cậu nhờ nịnh nọt/tặng lễ mới đạt tư cách dược đồng; Vương Hạo phản pháo lại."
+          },
+          {
+            chuong: "@c0006",
+            importance: "normal",
+            text: "Lộ vẻ không đành lòng khi cả họ sỉ nhục Vương Lâm; mở lời 'Thiết Trụ hắn...' thì bị cha trừng mắt ngăn lại, phải im lặng. Chi tiết tính cách: có thiện cảm/áy náy với Vương Lâm."
+          },
+          { bridge: true, khoang: "@c0007–@c0010", text: "Không xuất hiện trực tiếp — đang làm đồng tử trong Hằng Nhạc Phái." }
         ],
-        tuVi: "Phàm nhân (Ch.2–3), chưa tu luyện. Vừa được nhận vào Hằng Nhạc Phái làm dược đồng, sẽ được học tiên thuật. Tư chất kém hơn tiêu chuẩn nhận đệ tử chính thức.",
+        tuVi: "Phàm nhân (Ch.2–10), đồng tử Hằng Nhạc Phái. Được học tiên pháp cấp thấp với tư cách đồng tử/người hầu, không làm tạp vụ. Cảnh giới cụ thể chưa nêu rõ trong phạm vi Ch.1–10.",
         tuViMoc: [],
         nhanMach: [
-          { ten: "Vương Lâm", quanHe: "Họ hàng / bạn đồng hành", ghiChu: "Thân thiện, nói chuyện riêng trong buổi trắc thí.", tag: "ban-be" },
+          { ten: "Vương Lâm", quanHe: "Họ hàng / bạn đồng hành", ghiChu: "Có thiện cảm thật sự; định bênh khi bị sỉ nhục nhưng bị cha ngăn.", tag: "ban-be" },
           { ten: "Trung niên nhân (Tam sư huynh)", quanHe: "Chủ nhân / tiên sư", ghiChu: "Thu Vương Hạo làm dược đồng nhờ linh chi.", tag: "su-mon" }
         ],
         tuiDo: {
@@ -344,7 +425,7 @@ window.LIB_DATA["tien-nghich"].characters = {
           ]
         }
       },
-      nguon: ["@c0002", "@c0003"]
+      nguon: ["@c0002", "@c0003", "@c0004", "@c0005", "@c0006"]
     },
     {
       id: "vuong-thien-thuy",
@@ -352,32 +433,58 @@ window.LIB_DATA["tien-nghich"].characters = {
       cn: "",
       aliases: ["Nhị ca", "Lão Nhị"],
       gioiTinh: "nam",
-      theLuc: "Vương thị gia tộc (nhánh bị bức rời, định cư sơn thôn)",
+      theLuc: "Vương Thị Gia Tộc",
       canhGioiCaoNhat: "Phàm nhân",
       trangThai: "song",
       vaiTro: "Phụ thân",
-      tinhCach: "Yêu thương con sâu sắc, tình cảm gia đình là trụ cột; chịu đựng bất công trong lặng lẽ (Ch.1).",
-      blurb: "Cha của Vương Lâm. Thợ mộc, con thứ vợ lẻ bị gia tộc bức rời đi; yêu thương con, đặt trọn kỳ vọng vào Vương Lâm.",
+      tinhCach: "Yêu thương con sâu sắc, tình cảm gia đình là trụ cột; chịu đựng bất công trong lặng lẽ nhưng có thể bùng nộ khi bị dồn cùng.",
+      blurb: "Cha của Vương Lâm. Thợ mộc, con thứ vợ lẻ bị gia tộc bức rời đi; yêu thương con, đặt trọn kỳ vọng vào Vương Lâm. Tên xác nhận từ Ch.6.",
       tabs: {
-        tieuSu: "Vương Thiên Thủy (tên tự xưng trong tiệc — cần xác minh nhất quán ở chương sau) là con thứ vợ lẻ trong Vương thị gia tộc, từng bị gia tộc bức rời đi. Ông định cư tại sơn thôn nhỏ, làm nghề thợ mộc và điêu khắc để nuôi gia đình. Tình cảm gia đình sâu đậm: cảm động rơi lệ khi con được đề cử tu tiên; dặn dò Vương Lâm phải nhớ ân Tứ thúc suốt đời. Khi con lên đường, ông rơi lệ tiễn đưa.",
+        tieuSu: "Vương Thiên Thủy (xác nhận tên tự xưng @c0006) là con thứ vợ lẻ trong Vương thị gia tộc, từng bị gia tộc bức rời đi, trong đó có Vương Thiên Sơn (Đại ca) từng cướp phần gia sản ông nội lưu lại. Ông định cư tại sơn thôn nhỏ, làm nghề thợ mộc. Tình cảm gia đình sâu đậm: cảm động rơi lệ khi con được đề cử tu tiên; lo lắng tột độ khi con trượt tuyển và sau đó bỏ nhà đi. Cùng Tứ thúc và cha mẹ đi tìm con, theo đệ tử Hằng Nhạc Phái vào thâm sơn cứu con.",
         diem: [],
         kinhLich: [
           {
             chuong: "@c0001",
             importance: "normal",
-            text: "Cảm động quỳ tạ Tứ thúc khi nghe tin Vương Lâm được nhường suất đề cử. Mở tiệc lớn. Dặn Vương Lâm nhớ ân Tứ thúc. Rơi lệ tiễn con khi Vương Lâm rời thôn theo Tứ thúc."
-          }
+            text: "Cảm động quỳ tạ Tứ thúc khi nghe tin Vương Lâm được nhường suất đề cử. Mở tiệc lớn. Dặn Vương Lâm nhớ ân Tứ thúc. Rơi lệ tiễn con."
+          },
+          {
+            chuong: "@c0005",
+            importance: "normal",
+            text: "Vui mừng đón đoàn về, tưởng con thành tiên nhân. Khi biết con trượt cả ba hạng trắc thí, 'như già đi hơn mười tuổi, ngồi phịch xuống ghế'. An ủi con đừng làm chuyện dại dột."
+          },
+          {
+            chuong: "@c0006",
+            importance: "normal",
+            text: "Tên xác nhận: tự xưng 'Vương Thiên Thủy' khi quát thẳng Vương Thiên Sơn, tố cáo đại ca cướp phần gia sản ông nội lưu lại. Vớ băng ghế định đánh nhau, bị Tứ thúc ngăn."
+          },
+          {
+            chuong: "@c0007",
+            importance: "normal",
+            text: "Trên xe ngựa về nhà, an ủi con: bản thân từng bị đuổi ra gia môn còn chán nản hơn nhưng vẫn kiên trì; khuyên con về nhà đọc sách hoặc theo Tứ thúc ra ngoài. Can ngăn Tứ thúc khỏi xung đột với Vương Thiên Sơn."
+          },
+          {
+            chuong: "@c0009",
+            importance: "normal",
+            text: "Thương tâm rơi lệ, ôm con khóc khi tìm thấy Vương Lâm dưới chân vách núi. Hiểu lầm con muốn tự sát. Theo đệ tử Hằng Nhạc Phái đến phái để chăm con."
+          },
+          {
+            chuong: "@c0010",
+            importance: "minor",
+            text: "Vui mừng tiễn con vào phái sau khi Vương Lâm được nhận làm ký danh đệ tử; để lại khoai lang cho con rồi xuống núi."
+          },
+          { bridge: true, khoang: "@c0011+", text: "Không xuất hiện trực tiếp trong phạm vi đã đọc (Ch.1–10) — đang ở nhà." }
         ],
-        tuVi: "Phàm nhân (Ch.1). Không liên quan tu tiên.",
+        tuVi: "Phàm nhân (Ch.1–10). Không liên quan tu tiên.",
         tuViMoc: [],
         nhanMach: [
-          { ten: "Vương Lâm", quanHe: "Con trai", ghiChu: "Đặt trọn kỳ vọng vào con.", tag: "cha-me" },
-          { ten: "Tứ thúc", quanHe: "Em ruột", ghiChu: "Mang ơn vì nhường suất tu tiên cho Vương Lâm.", tag: "ho-hang" },
-          { ten: "Đại bá", quanHe: "Anh ruột", ghiChu: "Quan hệ lạnh nhạt — từng cùng gia tộc bức Vương Thiên Thủy rời đi.", tag: "doi-thu" }
+          { ten: "Vương Lâm", quanHe: "Con trai", ghiChu: "Đặt trọn kỳ vọng vào con; vui mừng và lo lắng xuyên suốt.", tag: "cha-me" },
+          { ten: "Tứ thúc", quanHe: "Em ruột", ghiChu: "Mang ơn vì nhường suất tu tiên và sau đó giúp con vào phái.", tag: "ho-hang" },
+          { ten: "Vương Thiên Sơn", quanHe: "Anh ruột (Đại ca)", ghiChu: "Quan hệ thù địch — từng cùng gia tộc bức rời đi, cướp gia sản.", tag: "doi-thu" }
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0001"]
+      nguon: ["@c0001", "@c0005", "@c0006", "@c0007", "@c0009", "@c0010"]
     },
     {
       id: "me-vuong-lam",
@@ -385,7 +492,7 @@ window.LIB_DATA["tien-nghich"].characters = {
       cn: "",
       aliases: ["Nhị nương", "Nhị tẩu"],
       gioiTinh: "nu",
-      theLuc: "Vương thị gia tộc (nhánh sơn thôn, phàm nhân)",
+      theLuc: "Vương Thị Gia Tộc",
       canhGioiCaoNhat: "Phàm nhân",
       trangThai: "song",
       vaiTro: "Mẫu thân",
@@ -413,18 +520,18 @@ window.LIB_DATA["tien-nghich"].characters = {
     },
     {
       id: "dai-ba",
-      name: "Đại bá",
+      name: "Vương Thiên Sơn",
       cn: "",
-      aliases: ["Đại ca (của cha Vương Lâm)"],
+      aliases: ["Đại bá", "Đại ca (của cha Vương Lâm)"],
       gioiTinh: "nam",
-      theLuc: "Vương thị gia tộc (nhánh chính, lão giả trên 50 tuổi)",
+      theLuc: "Vương Thị Gia Tộc",
       canhGioiCaoNhat: "Phàm nhân",
       trangThai: "song",
-      vaiTro: "Họ hàng (bác cả)",
-      tinhCach: "Giả tạo, bề ngoài xã giao nhưng trong lòng khinh thường nhánh Nhị đệ (Ch.1–2).",
-      blurb: "Bác cả của Vương Lâm, cha của Vương Trác. Ngoài mặt chúc mừng Vương Lâm nhưng trong lòng khinh thường — đắc ý vì con mình đã được tiên sư chỉ định.",
+      vaiTro: "Họ hàng (bác cả / phản diện nội tộc)",
+      tinhCach: "Giả tạo, bề ngoài xã giao nhưng trong lòng khinh thường nhánh Nhị đệ; cầm đầu sỉ nhục, cướp gia sản.",
+      blurb: "Bác cả của Vương Lâm, cha của Vương Trác. Kẻ cầm đầu việc sỉ nhục Vương Lâm và chiếm đoạt gia sản cha Vương Lâm. Ngoài mặt chúc mừng nhưng trong lòng đắc ý.",
       tabs: {
-        tieuSu: "Đại bá (lão giả hơn 50 tuổi) là anh cả của cha Vương Lâm, cha của Vương Trác. Ông đại diện cho nhánh gia tộc từng bức Vương Thiên Thủy rời đi. Tại tiệc, ông tới cùng con trai, ngoài mặt quở trách Vương Trác sỉ nhục Vương Lâm nhưng thực ra trong lòng đắc ý và khinh thường nhánh của Nhị đệ. Tại buổi trắc thí, ông cung kính trước tiên nhân, giới thiệu ba thiếu niên ứng thí và kéo Vương Trác ra khi tiên nhân hỏi.",
+        tieuSu: "Vương Thiên Sơn (Đại bá, lão giả hơn 50 tuổi) là anh cả của cha Vương Lâm, cha của Vương Trác. Ông đại diện cho nhánh gia tộc từng cướp phần gia sản ông nội lưu lại cho Vương Thiên Thủy. Tại tiệc, ngoài mặt quở trách Vương Trác nhưng thực ra trong lòng đắc ý. Khi Vương Lâm trượt tuyển, ông cầm đầu sỉ nhục cả nhà; bị Vương Thiên Thủy tố cáo và Tứ thúc đe dọa.",
         diem: [],
         kinhLich: [
           {
@@ -436,18 +543,61 @@ window.LIB_DATA["tien-nghich"].characters = {
             chuong: "@c0002",
             importance: "minor",
             text: "Đứng trong sân, dặn Vương Lâm làm theo 'ca ca' Vương Trác. Cung kính bẩm với tiên nhân, vui mừng kéo Vương Trác ra khi tiên nhân hỏi tên."
+          },
+          {
+            chuong: "@c0006",
+            importance: "normal",
+            text: "Cầm đầu sỉ nhục sau khi Vương Lâm trượt tuyển. Bị Vương Thiên Thủy tố cáo cướp gia sản, phản pháo: 'thượng bất chính hạ tắc loạn'. Kiêng kị bằng hữu giang hồ của Tứ thúc nên ậm ừ rút lui."
+          },
+          {
+            chuong: "@c0007",
+            importance: "minor",
+            text: "Bênh Vương Trác khi bị Tứ thúc dọa phế, đối đầu Tứ thúc: 'Lão Tứ, ngươi dám!'"
           }
         ],
-        tuVi: "Phàm nhân (Ch.1–2). Không liên quan tu tiên.",
+        tuVi: "Phàm nhân (Ch.1–7). Không liên quan tu tiên.",
         tuViMoc: [],
         nhanMach: [
           { ten: "Vương Trác", quanHe: "Con trai", ghiChu: "Đắc ý vì con được tiên sư chỉ định.", tag: "cha-me" },
-          { ten: "Vương Thiên Thủy", quanHe: "Em ruột", ghiChu: "Quan hệ lạnh nhạt; từng tham gia bức ép em rời gia tộc.", tag: "doi-thu" }
+          { ten: "Vương Thiên Thủy", quanHe: "Em ruột", ghiChu: "Quan hệ thù địch; từng cướp gia sản.", tag: "doi-thu" }
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0001", "@c0002"]
-    }
+      nguon: ["@c0001", "@c0002", "@c0006", "@c0007"]
+    },
+    {
+      id: "truong-ho",
+      name: "Trương Hổ",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: "Hằng Nhạc Phái",
+      canhGioiCaoNhat: "Phàm nhân (ký danh đệ tử, chưa được truyền tiên pháp)",
+      trangThai: "song",
+      vaiTro: "Bạn cùng phòng / người bạn đầu tiên trong phái",
+      tinhCach: "Bộc trực, biết ơn, hay chửi thề; chịu khổ lâu năm nhưng vẫn nhiệt tình giúp người mới; thực tế và am hiểu quy củ môn phái.",
+      blurb: "Ký danh đệ tử Hằng Nhạc Phái, bạn cùng phòng đầu tiên của Vương Lâm. Từng đói hai ngày, được Vương Lâm chia khoai lang nên kết thân; cảnh báo Vương Lâm về 'con chồn' tạp vụ áo vàng.",
+      tabs: {
+        tieuSu: "Trương Hổ là ký danh đệ tử Hằng Nhạc Phái, thiếu niên gầy yếu làm lao dịch trong phái. Anh là bạn cùng phòng của Vương Lâm tại dãy phòng phía Bắc. Lần đầu gặp, anh đang đói hai ngày; Vương Lâm chia khoai lang, anh ăn ngấu nghiến, cảm ơn và kết bạn. Tính bộc trực, hay chửi thề, biết ơn. Anh cảnh báo Vương Lâm về 'con chồn' tạp vụ (hoàng y thanh niên) tâm địa gian xảo, không nhìn ký danh đệ tử như con người.",
+        diem: [
+          { text: "Người bạn đầu tiên của Vương Lâm trong phái — cho khoai lang, cảnh báo về 'con chồn', chia sẻ kiến thức quy củ môn phái không giấu diếm.", chuong: "@c0010" }
+        ],
+        kinhLich: [
+          {
+            chuong: "@c0010",
+            importance: "major",
+            text: "Lần đầu xuất hiện trực tiếp — thiếu niên áo xám gầy yếu, mệt mỏi, bạn cùng phòng của Vương Lâm. Đói hai ngày; Vương Lâm cho khoai lang, anh ăn ngấu nghiến, khai đã hai ngày chưa ăn, cảm ơn và hỏi tên. Biết Vương Lâm là 'kẻ dựa tự sát mà vào phái', ngượng nhưng bội phục. Cảnh báo về 'con chồn' (hoàng y thanh niên — đệ tử tạp vụ áo vàng, chưa rõ tên) tâm địa gian xảo, sẽ không nhìn ký danh đệ tử như con người. Bộc trực, biết ơn — người bạn đầu tiên của Vương Lâm trong phái."
+          },
+        ],
+        tuVi: "Phàm nhân, ký danh đệ tử Hằng Nhạc Phái ba năm; chưa được truyền tiên pháp (cần đủ mười năm làm tạp vụ đủ định mức). Cảnh giới: chưa nhập môn tu luyện.",
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Vương Lâm", quanHe: "Bạn cùng phòng", ghiChu: "Người bạn đầu tiên của Vương Lâm trong phái; trao đổi thông tin và chia sẻ lương thực.", tag: "ban-be" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0010"]
+    },
   ]
 };
 
@@ -466,8 +616,43 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
     {
       chuong: 3,
       tieuDe: "Trắc Thí",
-      tomTat: "Vòng trắc thí tư chất tiếp diễn: Vương Trác đạt nhờ linh căn và sự tiến cử của Đạo Hư sư thúc; Vương Hạo tư chất kém nhưng dâng hộp ngọc chứa linh chi 300 năm nên được nhận làm dược đồng luyện đan; Vương Lâm bị phán thẳng 'Không hợp cách', rơi vào tuyệt vọng. Chỉ có 3 trong 48 thiếu niên đạt tư chất. Khi tưởng như hết đường, trung niên nhân mở vòng hai: trắc thí nghị lực — leo thềm đá dốc lên đỉnh núi trong 3 ngày, ai tới đỉnh thì được làm ký danh đệ tử. Vương Lâm không do dự, bước lên thềm đá. Sau hai ngày leo, hắn hai chân nổi huyết phao rỉ máu, đau như kim châm nhưng vẫn kiên quyết không bỏ cuộc. (@c0003)"
-    }
+      tomTat: "Vòng trắc thí tư chất tiếp diễn: Vương Trác đạt nhờ linh căn và sự tiến cử của Đạo Hư sư thúc; Vương Hạo tư chất kém nhưng dâng hộp ngọc chứa linh chi 300 năm nên được nhận làm dược đồng luyện đan; Vương Lâm bị phán thẳng 'Không hợp cách', rơi vào tuyệt vọng. Chỉ có 3 trong 48 thiếu niên đạt tư chất. Khi tưởng như hết đường, trung niên nhân mở vòng hai: trắc thí nghị lực — leo thềm đá dốc lên đỉnh núi trong 3 ngày, ai tới đỉnh thì được làm ký danh đệ tử. 39 người bắt đầu leo, tốc độ mỗi người mỗi khác. Vương Lâm thở sâu, ánh mắt kiên định, không do dự bước lên thềm đá bắt đầu leo. (@c0003)"
+    },
+    {
+      chuong: 4,
+      tieuDe: "Vô Tình",
+      tomTat: "Vương Lâm leo thềm đá suốt gần ba ngày — huyết nhục lẫn lộn, hôn mê ngã xuống chỉ còn cách đỉnh chưa đầy mười trượng — trượt trắc thí nghị lực. Hắc y trung niên nhân tuyên hết giờ với vẻ vô tình. Trong nhóm 11 người kiên trì đến cuối, Vương Lâm được thử Kiếm Linh Các: hắn tiến xa nhất — vượt qua mốc năm trượng mà sáu người trước bị chặn, bước tới cách cổng ba trượng, khiến chủ khảo thanh niên áo trắng lộ hứng thú và hứa sẽ được nhận thẳng làm đệ tử chính thức nếu vào được. Nhưng rốt cục lực đạo khổng lồ đẩy bật hắn ra — trượt Kiếm Linh. Mười một người đều trượt. Trên đường về, Vương Trác nhạo báng Vương Lâm bằng biệt danh 'Thiết Trụ'; Vương Lâm nén nhục, chỉ xin được đưa về với cha mẹ. (@c0004)"
+    },
+    {
+      chuong: 5,
+      tieuDe: "Đường Về",
+      tomTat: "Ba thiếu niên được đệ tử Hằng Nhạc Phái đưa về bằng kiếm quang. Tại Vương thị gia tộc, một bữa tiệc chúc mừng lớn đang chờ — toàn bộ thân thích tề tựu, tâng bốc cha Vương Lâm không ngừng vì tưởng con sẽ thành tiên nhân. Khi đoàn xuất hiện, Vương Trác đắc ý khoe được Đạo Hư thượng tiên thu làm đồ đệ; Vương Hạo được nhận làm dược đồng. Vương Lâm im lặng — không được Hằng Nhạc Phái thu nhận. Hắn quỳ dập đầu xin lỗi cha mẹ, cắn môi chảy máu; mẹ ôm con khóc, dặn đừng làm chuyện dại dột. Đệ tử Hằng Nhạc Phái nói lời 'Đại đạo vô tình', hẹn ba ngày sau quay lại đón người được chọn, rồi hóa kiếm quang rời đi. (@c0005)"
+    },
+    {
+      chuong: 6,
+      tieuDe: "Lợi Thế",
+      tomTat: "Ngay sau khi Vương Lâm trượt tuyển bị công khai, toàn bộ thân thích Vương gia trở mặt — sỉ nhục, đòi lại lễ vật, hủy thông gia, chê tên 'Thiết Trụ' nghe ngu ngốc. Vương Lâm trầm tĩnh nhìn từng người, ghi kỹ diện mạo mỗi thân thích; đây là khoảnh khắc tâm tính then chốt. Cha Vương Lâm (Vương Thiên Thủy) bùng nộ tố cáo Vương Thiên Sơn cướp gia sản, suýt hổn chiến; Tứ thúc ngăn lại rồi đe dọa Vương Thiên Sơn bằng thế lực giang hồ. Vương Hạo có thiện cảm, định bênh nhưng bị cha ngăn. Tứ thúc dàn xếp xong, đề nghị đưa Vương Lâm ra phàm nhân môn phái giang hồ lịch lãm nếu không muốn đọc sách. (@c0006)"
+    },
+    {
+      chuong: 7,
+      tieuDe: "Lưu Thư",
+      tomTat: "Vương Lâm tuyên thề trước cả họ sẽ bước vào tiên nhân môn phái; Tứ thúc dọa phế Vương Trác, suýt xung đột với Vương Thiên Sơn. Đêm khuya, Vương Lâm lén để lại lưu thư cho cha mẹ, bỏ nhà lần thứ hai — băng thâm sơn hướng đông quay lại Hằng Nhạc Phái. Sau một tuần đi sâu trong núi, hắn bị hổ trắng dồn nên nhảy vách núi, vĩnh biệt cha mẹ trong lòng. Giữa chừng rơi, một cỗ lực hút khổng lồ từ huyệt động trên vách kéo hắn vào — cứu hắn khỏi cái chết. Huyệt động bí ẩn này đầy hài cốt chim thú, và trên vách có một lỗ đen bằng nắm tay định kỳ phát ra lực hút khổng lồ. Vương Lâm bắt đầu đo chu kỳ: hút khoảng một canh giờ, ngưng nửa canh giờ. (@c0007)"
+    },
+    {
+      chuong: 8,
+      tieuDe: "Thạch Châu",
+      tomTat: "Bị kẹt trong huyệt động với cánh tay phải sưng tê liệt và không thể trốn thoát, Vương Lâm ăn thịt sống phi điểu chết trong động để sống sót. Trong xác chim, hắn moi được một vật tưởng là nội đan đỏ — lau sạch hóa ra là Thạch Châu màu xám khắc năm đóa mây trắng, trông rất cổ. Sáng hôm sau phát hiện thạch châu tiết hạt sương dưới nắng; sương vị ngọt, bôi lên chỗ sưng thì vết thương xẹp hẳn, cánh tay hồi phục. Vương Lâm kết luận đây là bảo bối. Lưu ý: lực hút kỳ quái trong động là của hắc động trên vách — KHÔNG phải thạch châu; thạch châu chưa có biểu hiện 'hút sinh cơ' trong chương này. (@c0008)"
+    },
+    {
+      chuong: 9,
+      tieuDe: "Hạ Nhai",
+      tomTat: "Vương Lâm tụt vách xuống chân núi (xé quần áo bện dây, dây đứt), đùi phải đâm trúng đá nhọn lộ xương; tự sơ cứu bằng sương thạch châu. Đang kiệt sức thì nghe tiếng gọi của cha — đệ tử Hằng Nhạc Phái họ Trương và cha Vương Lâm đang tìm hắn. Đệ tử họ Trương leo lên xem huyệt động, xác nhận lực hút là 'phong nhãn thiên nhiên hình thành', kết luận đứa nhỏ muốn tự sát nhưng bị phong nhãn cứu. Tại đại điện Hằng Nhạc Phái, các trưởng lão (Mã trưởng lão, cẩm bào lão giả, trung niên nhân) tranh luận số phận Vương Lâm; lão giả mặt đầy nếp nhăn cuối cùng đề xuất phá lệ thu hắn làm ký danh đệ tử để tránh tiếng 'bức tử' — chương kết tại đây. (@c0009)"
+    },
+    {
+      chuong: 10,
+      tieuDe: "Nhập Môn",
+      tomTat: "Vương Lâm chính thức nhập môn Hằng Nhạc Phái với thân phận ký danh đệ tử — thực ra nhờ Tứ thúc dâng khối tinh thiết bất phàm mua từ thợ rèn cho trung niên nhân tiến cử. Tiễn cha mẹ xuống núi, hắn bị hoàng y thanh niên ('con chồn' — đệ tử tạp vụ áo vàng, chưa rõ tên) ra lệnh gánh đầy mười vại nước khổng lồ mỗi ngày; không hoàn thành bảy ngày liên tiếp sẽ bị trục xuất. Nhận áo xám, thẻ bài, phòng ở phía Bắc. Hắn quyết giấu kín Thạch Châu ('hoài bích có tội'). Tối đến gặp bạn cùng phòng Trương Hổ — thiếu niên đói hai ngày; Vương Lâm cho khoai lang, Trương Hổ cảnh báo về 'con chồn' tạp vụ tâm địa gian xảo. (@c0010)"
+    },
   ]
 };
 
@@ -476,8 +661,15 @@ window.LIB_DATA["tien-nghich"].volumes = {
   updatedAt: "2026-06-09",
   volumes: [
     { value: "q01", label: "Quyển 1", range: "Ch.1 – 100", title: "Phàm nhân khởi đầu",
-      summary: "Khởi đầu hành trình của Vương Lâm — thiếu niên thôn quê tư chất kém, nhờ Tứ thúc nhường suất mà vào Hằng Nhạc Phái, lấy ý chí bù thiên phú. (Wiki đang nghiên cứu — hiện tới Ch.3.)",
-      milestones: ["Vào Hằng Nhạc Phái nhờ suất tiến cử (Ch.1-3)"] },
+      summary: "Khởi đầu hành trình của Vương Lâm — thiếu niên thôn quê tư chất kém, nhờ ý chí phi thường và cơ duyên nhặt được Thạch Châu mà bước vào con đường tu tiên. Bị tiên môn từ chối ba lần, chịu cả họ sỉ nhục, bỏ nhà băng thâm sơn lần thứ hai — rơi vào huyệt động phong nhãn, nhặt được Thạch Châu bí ẩn. Tụt vách xuống chân núi, bị thương nặng, được cha và đệ tử Hằng Nhạc Phái cứu; Tứ thúc dâng khối tinh thiết, được phái phá lệ thu làm ký danh đệ tử. Trong phái phải gánh mười vại nước khổng lồ mỗi ngày, bí mật dùng Thạch Châu dưỡng thương. Kết bạn với bạn cùng phòng Trương Hổ. (Wiki đang nghiên cứu — hiện tới Ch.10.)",
+      milestones: [
+        "Trượt cả ba hạng trắc thí Hằng Nhạc Phái (Ch.4)",
+        "Bỏ nhà lần hai, rơi vào huyệt động phong nhãn (Ch.7)",
+        "Nhặt được Thạch Châu — pháp bảo khởi nguồn, sương trị lành cánh tay (Ch.8)",
+        "Tụt vách, bị thương đùi phải lộ xương, được cứu, đưa về Hằng Nhạc Phái (Ch.9)",
+        "Được phá lệ thu làm ký danh đệ tử Hằng Nhạc Phái nhờ khối tinh thiết của Tứ thúc; kết bạn Trương Hổ (Ch.10)"
+      ]
+    },
     { value: "q02", label: "Quyển 2", range: "Ch.101 – 140", title: "Tái sinh nơi Vực Ngoại",
       summary: "(Chưa nghiên cứu tới — sẽ cập nhật khi đọc.)", milestones: [] }
   ]
@@ -494,6 +686,28 @@ window.LIB_DATA["tien-nghich"].map = {
     { id: "thi-tran-vuong-thi", name: "Thị trấn họ Vương", cn: "", capDo: "thanh", parentId: "trieu-quoc",
       blurb: "Nơi Vương thị gia tộc làm ăn (nghề mộc), có danh tiếng vùng.", detail: "Gia tộc họ Vương là vọng tộc địa phương, đủ tư cách được tiến cử đệ tử cho Hằng Nhạc Phái.", theLucLienQuan: ["Vương thị gia tộc"], nguon: ["@c0001"] },
     { id: "son-thon-vuong-lam", name: "Sơn thôn của Vương Lâm", cn: "", capDo: "khac", parentId: "thi-tran-vuong-thi",
-      blurb: "Thôn quê nơi Vương Lâm (Thiết Trụ) sinh ra và lớn lên.", detail: "Cha Vương Lâm là con thứ vợ lẻ, rời thị trấn về định cư tại thôn làm thợ mộc. Khởi điểm hành trình (Ch.1).", theLucLienQuan: [], nguon: ["@c0001"] }
+      blurb: "Thôn quê nơi Vương Lâm (Thiết Trụ) sinh ra và lớn lên.", detail: "Cha Vương Lâm là con thứ vợ lẻ, rời thị trấn về định cư tại thôn làm thợ mộc. Khởi điểm hành trình (Ch.1).", theLucLienQuan: [], nguon: ["@c0001"] },
+    { id: "huyet-dong-phong-nhan", name: "Huyệt động phong nhãn thiên nhiên", cn: "", capDo: "khac", parentId: "son-phong-hang-nhac",
+      blurb: "Huyệt động trên vách núi đối diện sơn môn Hằng Nhạc Phái, nơi Vương Lâm rơi vào và nhặt được Thạch Châu.", detail: "Huyệt động thiên nhiên không lớn trên vách núi, cửa đón nắng. Bên trong đầy hài cốt chim thú bị lực hút giết. Trên vách sau có lỗ đen bằng nắm tay tối như mực — phát ra lực hút khổng lồ theo chu kỳ (hút khoảng một canh giờ, ngưng nửa canh giờ, lặp lại). Đệ tử Hằng Nhạc Phái xác nhận đây là 'phong nhãn thiên nhiên hình thành'. Vương Lâm nhặt được Thạch Châu tại đây.", theLucLienQuan: [], nguon: ["@c0007", "@c0008", "@c0009"] }
+  ]
+};
+
+window.LIB_DATA["tien-nghich"].artifacts = {
+  updatedAt: "2026-06-09",
+  count: 1,
+  artifacts: [
+    {
+      id: "thach-chau",
+      name: "Thạch Châu",
+      cn: "",
+      category: "phap-bao",
+      categoryLabel: "Pháp bảo",
+      phamCap: "Chưa xác định (vượt tầm phàm nhân, lai lịch bí ẩn)",
+      soHuu: ["vuong-lam"],
+      trangThai: "Vương Lâm đang sở hữu, đeo ở cổ bằng dây thừng, giấu dưới áo (từ @c0009)",
+      blurb: "Viên châu xám khắc năm đóa mây trắng, pháp bảo trục chính của cả bộ Tiên Nghịch. Nhặt trong xác một con phi điểu ở huyệt động phong nhãn (@c0008). Tiết hạt sương dưới ánh nắng, sương trị lành vết thương thể chất. Lai lịch và toàn bộ công năng chưa hé lộ trong phạm vi Ch.1–10.",
+      detail: "To bằng nắm tay trẻ con; bề ngoài ban đầu phủ huyết nhục trông như nội đan động vật màu đỏ, lau sạch lộ màu xám với năm đóa mây trắng khắc trên mặt, trông rất cổ. Công năng đã quan sát được tới Ch.10: (1) Tiết hạt sương khi gặp ánh nắng buổi sáng — sương vị ngọt, bôi/uống vào ấm áp dào dạt, trị lành vết thương thể chất (cánh tay sưng tê liệt hồi phục hoàn toàn @c0008; đùi phải lộ xương dịu đau @c0009). (2) Nước ngâm châu cũng có dược tính (kém hơn sương trực tiếp). Lực hút kỳ quái trong huyệt động là của hắc động trên vách — KHÔNG phải thạch châu (@c0008). Công năng 'hút sinh cơ thảo dược' và 'cường hóa thể chất' CHƯA xuất hiện trong Ch.1–10; lai lịch sâu hơn và toàn bộ công năng chưa hé lộ.",
+      nguon: ["@c0008", "@c0009", "@c0010"]
+    }
   ]
 };
