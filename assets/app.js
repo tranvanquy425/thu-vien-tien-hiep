@@ -11,6 +11,8 @@
   const view = $("#view");
   const esc = s => (s == null ? "" : String(s)).replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
   const pad4 = n => String(n).padStart(4, "0");
+  // Một nhân vật có thể thuộc NHIỀU thế lực (giữ tới khi rời bỏ) → theLuc là mảng (chấp cả chuỗi cũ).
+  const tlArr = c => Array.isArray(c.theLuc) ? c.theLuc.filter(Boolean) : (c.theLuc ? [c.theLuc] : []);
 
   if (!bo) { view.innerHTML = '<div class="empty">Không tìm thấy bộ truyện. <a href="index.html">Về Tàng Thư Các</a></div>'; return; }
   $("#boSub").textContent = bo.ten + " · " + (bo.cn || "");
@@ -200,7 +202,7 @@
   /* --- 3. Nhân Vật --- */
   function viewNhanVat() {
     const chars = DB.chars;
-    const theLucs = [...new Set(chars.map(c => c.theLuc).filter(Boolean))];
+    const theLucs = [...new Set(chars.flatMap(tlArr))];
     view.innerHTML =
       '<div class="page-head"><h1>Nhân Vật</h1><span class="sub">' + chars.length + ' nhân vật</span></div>' +
       '<div class="toolbar"><input id="nvSearch" placeholder="Tìm tên / biệt danh…">' +
@@ -211,13 +213,13 @@
       const q = $("#nvSearch").value.trim().toLowerCase(), tl = $("#nvTheLuc").value;
       const items = chars.filter(c => {
         const hay = (c.name + " " + (c.cn || "") + " " + (c.aliases || []).join(" ")).toLowerCase();
-        return (!q || hay.includes(q)) && (!tl || c.theLuc === tl);
+        return (!q || hay.includes(q)) && (!tl || tlArr(c).includes(tl));
       });
       $("#nvCount").textContent = items.length + " kết quả";
       $("#nvGrid").innerHTML = items.length ? items.map(c =>
         '<div class="card" data-id="' + c.id + '"><h3>' + esc(c.name) + (c.cn ? ' <span class="cn">' + esc(c.cn) + '</span>' : '') + '</h3>' +
         '<div class="meta-row">' +
-          (c.theLuc ? '<span class="chip">' + esc(c.theLuc) + '</span>' : '') +
+          tlArr(c).map(x => '<span class="chip">' + esc(x) + '</span>').join('') +
           (c.canhGioiCaoNhat ? '<span class="chip gold">' + esc(c.canhGioiCaoNhat) + '</span>' : '') +
           '<span class="chip">' + esc(trangThaiLabel[c.trangThai] || c.trangThai || "") + '</span></div>' +
         '<div class="blurb">' + esc(c.blurb || "") + '</div></div>').join("")
@@ -236,7 +238,7 @@
       }
       const lv = e.importance || "normal";
       return '<div class="ev ' + lv + '"><div class="ev-head"><span class="lvl ' + lv + '">' +
-        ({ major: "Trọng đại", normal: "Thường", minor: "Nhỏ" }[lv] || "Thường") + '</span>' +
+        ({ major: "Trọng đại", normal: "Quan trọng", minor: "Bình thường" }[lv] || "Quan trọng") + '</span>' +
         (e.chuong ? '<a class="neo" href="#doc" data-goch="' + String(e.chuong).replace(/[^0-9]/g, "") + '">' + esc(e.chuong) + '</a>' : '') +
         '</div><div class="ev-text">' + esc(e.text || "") + '</div></div>';
     }).join("");
@@ -254,11 +256,10 @@
         ib("Họ tên", esc(c.name)) +
         ib("Hán tự / Bí danh", hanBd || "—") +
         ib("Vai trò", esc(c.vaiTro || (c.blurb ? "" : ""))) +
-        ib("Phe / Môn phái", esc(c.theLuc || "")) +
+        ib("Phe / Môn phái", esc(tlArr(c).join(" · "))) +
         ib("Cảnh giới", esc(c.canhGioiCaoNhat || ""), true) +
         ib("Tính cách", esc(c.tinhCach || ""), true) +
       '</div>' +
-      (t.tieuSu ? '<div class="ts-sum">' + esc(t.tieuSu) + '</div>' : '') +
       (diem ? '<div style="margin-top:14px"><div class="chip gold">Nét nổi bật</div><div class="timeline" style="margin-top:10px">' + diem + '</div></div>' : '');
     // Tu vi: timeline theo mốc (như kinh lịch)
     const tuViMoc = (t.tuViMoc || []).map(m => '<div class="ev ' + (m.importance || "major") + '"><div class="ev-head">' +
@@ -267,8 +268,19 @@
       '</div>' + (m.text ? '<div class="ev-text">' + esc(m.text) + '</div>' : '') + '</div>').join("");
     const tuViPane = tuViMoc ? '<div class="timeline">' + tuViMoc + '</div>' : '<div class="prose">' + esc(t.tuVi || "—") + '</div>';
     const td = t.tuiDo || {};
-    const bag = [["Pháp bảo", td.phapBao], ["Công pháp", td.congPhap], ["Đan dược", td.danDuoc], ["Linh thú", td.linhThu], ["Khác", td.khac]]
-      .filter(([, a]) => a && a.length).map(([lbl, a]) => '<div style="margin-bottom:10px"><div class="chip gold">' + lbl + '</div><div class="prose">' + a.map(esc).join(" · ") + '</div></div>').join("");
+    const TDTRANG = { "dang-co": "Đang giữ", "da-dung": "Đã dùng", "hong": "Hư hỏng", "mat": "Bị mất", "bi-cuop": "Bị cướp", "doi-ten": "Đổi tên" };
+    function bagItem(it) {
+      if (it == null) return "";
+      if (typeof it === "string") return '<div class="ev"><div class="ev-text">' + esc(it) + '</div></div>';
+      const st = it.trangThai ? '<span class="rtag ' + esc(it.trangThai) + '">' + esc(TDTRANG[it.trangThai] || it.trangThai) + '</span>' : '';
+      const old = it.tenCu ? '<span class="chip">trước gọi: ' + esc(it.tenCu) + '</span>' : '';
+      const neo = it.nguon ? ' <a class="neo" href="#doc" data-goch="' + String(it.nguon).replace(/[^0-9]/g, "") + '">' + esc(it.nguon) + '</a>' : '';
+      const moTa = it.moTa || it.ghiChu || "";
+      return '<div class="ev"><div class="ev-head"><b style="color:#e6c878">' + esc(it.ten || "") + '</b>' + st + old + '</div>' +
+        (moTa ? '<div class="ev-text">' + esc(moTa) + neo + '</div>' : (neo ? '<div class="ev-text">' + neo + '</div>' : '')) + '</div>';
+    }
+    const bag = [["Pháp bảo", td.phapBao], ["Công pháp", td.congPhap], ["Đan dược", td.danDuoc], ["Linh thú", td.linhThu], ["Nguyên liệu", td.nguyenLieu], ["Linh thảo", td.linhThao], ["Khác", td.khac]]
+      .filter(([, a]) => a && a.length).map(([lbl, a]) => '<div style="margin-bottom:12px"><div class="chip gold">' + lbl + '</div><div class="timeline" style="margin-top:8px">' + a.map(bagItem).join("") + '</div></div>').join("");
     const tabs = [
       ["Tiểu sử", tieuSuPane],
       ["Kinh lịch", kl ? '<div class="timeline">' + kl + '</div>' : '<div class="empty">Chưa có sự kiện.</div>'],
@@ -277,7 +289,7 @@
       ["Túi đồ", bag || '<div class="empty">Trống.</div>']
     ];
     const head = '<div class="kv">' +
-      (c.theLuc ? '<span class="chip">' + esc(c.theLuc) + '</span>' : '') +
+      tlArr(c).map(x => '<span class="chip">' + esc(x) + '</span>').join('') +
       (c.canhGioiCaoNhat ? '<span class="chip gold">' + esc(c.canhGioiCaoNhat) + '</span>' : '') +
       '<span class="chip">' + esc(trangThaiLabel[c.trangThai] || "") + '</span>' +
       (c.aliases && c.aliases.length ? '<span class="chip">Biệt danh: ' + c.aliases.map(esc).join(", ") + '</span>' : '') + '</div>' +
