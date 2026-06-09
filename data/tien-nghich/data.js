@@ -157,8 +157,8 @@ window.LIB_DATA["tien-nghich"].realms = {
 };
 
 window.LIB_DATA["tien-nghich"].characters = {
-  updatedAt: "2026-06-09",
-  count: 8,
+  updatedAt: "2026-06-10",
+  count: 9,
   chars: [
     {
       id: "vuong-lam",
@@ -167,7 +167,7 @@ window.LIB_DATA["tien-nghich"].characters = {
       aliases: ["Thiết Trụ"],
       gioiTinh: "nam",
       theLuc: ["Vương Thị Gia Tộc", "Hằng Nhạc Phái"],
-      canhGioiCaoNhat: "Phàm nhân (ký danh đệ tử Hằng Nhạc Phái)",
+      canhGioiCaoNhat: "Ngưng Khí kỳ tầng 5 (đệ tử nội môn Hằng Nhạc Phái)",
       trangThai: "song",
       vaiTro: "✦ Nhân vật chính",
       tinhCach: "Ý chí kiên cường, nhẫn nhịn và tâm cơ sâu; bề ngoài bình thản, bên trong quyết liệt — bị sỉ nhục không cãi, âm thầm ghi thù; bị loại tư chất vẫn leo thềm đá đến huyết phao mà không bỏ cuộc; ghi nhớ diện mạo mỗi kẻ từng hạ nhục để sau trả thù.",
@@ -233,27 +233,44 @@ window.LIB_DATA["tien-nghich"].characters = {
             text: "Chính thức nhập môn Hằng Nhạc Phái với thân phận ký danh đệ tử — thực nhờ Tứ thúc dâng khối tinh thiết bất phàm cho trung niên nhân tiến cử. Nhận áo xám, thẻ bài, phòng phía Bắc. Bị đệ tử áo vàng 'con chồn' giao lao dịch nặng: gánh đủ mười vại nước khổng lồ mỗi ngày (không đủ 7 ngày liên tiếp sẽ bị trục xuất). Quyết giấu kín Thạch Châu. Kết bạn với bạn cùng phòng Trương Hổ."
           },
         ],
-        tuVi: "Phàm nhân xuyên suốt Ch.1–10, chưa bắt đầu tu luyện tiên pháp nào. Thân phận: ký danh đệ tử Hằng Nhạc Phái (từ @c0010), chưa đủ điều kiện được truyền tiên pháp (cần làm tạp vụ đủ mười năm). Thạch Châu chưa có biểu hiện cường hóa thể chất rõ trong phạm vi Ch.1–10.",
+        tuVi: "Phàm nhân xuyên suốt Ch.1–10, chưa bắt đầu tu luyện tiên pháp nào. Từ Ch.16 trở thành đệ tử nội môn của Tôn Đại Trụ. Tại Ch.17, lần đầu cảm nhận được linh khí nhập thể (cảm giác như côn trùng bò) ở dược viên — bước đầu vào tu tiên. Đến Ch.20, Tôn Đại Trụ xác nhận tu vi đã đạt Ngưng Khí kỳ tầng 5 — tốc độ bất thường nhờ bí mật Thạch Châu.",
         tuViMoc: [
           { chuong: "@c0001", canhGioi: "Phàm nhân", text: "Phàm nhân — quyết chí tu tiên sau khi nhận danh ngạch đề cử từ Tứ thúc." },
-          { chuong: "@c0010", canhGioi: "Phàm nhân", text: "Phàm nhân — nhập môn Hằng Nhạc Phái, chính thức trở thành ký danh đệ tử; chưa được truyền tiên pháp. Thạch Châu trước đó đã trị lành vết thương cánh tay (@c0008), công năng khác chưa biểu hiện rõ trong phạm vi Ch.1–10." }
+          { chuong: "@c0010", canhGioi: "Phàm nhân", text: "Phàm nhân — nhập môn Hằng Nhạc Phái, chính thức trở thành ký danh đệ tử; chưa được truyền tiên pháp. Thạch Châu trước đó đã trị lành vết thương cánh tay (@c0008), công năng khác chưa biểu hiện rõ trong phạm vi Ch.1–10." },
+          { chuong: "@c0017", canhGioi: "Ngưng Khí kỳ (nhập môn)", text: "Lần đầu cảm nhận linh khí nhập thể ở dược viên — bước đầu vào tu tiên sau khi nhận công pháp Ngưng Khí tam thiên. Tu luyện cả đêm trong phòng thất bại, nhưng sáng ra thành công ở dược viên (cảm giác như côn trùng bò)." },
+          { chuong: "@c0020", canhGioi: "Ngưng Khí kỳ tầng 5", text: "Tôn Đại Trụ xác nhận Vương Lâm đã đạt Ngưng Khí kỳ tầng 5 — tốc độ tu luyện bất thường do bí mật Thạch Châu (nước ngâm châu chứa linh khí)." }
         ],
         nhanMach: [
           { ten: "Vương Thiên Thủy", quanHe: "Cha", ghiChu: "Thợ mộc, yêu thương con, kỳ vọng cao.", tag: "cha-me" },
           { ten: "Mẹ (Nhị nương)", quanHe: "Mẹ", ghiChu: "Hiền hậu, lo lắng con bị bắt nạt, chuẩn bị hành lý tiễn con.", tag: "cha-me" },
           { ten: "Tứ thúc", quanHe: "Chú (em cha)", ghiChu: "Ân nhân — nhường danh ngạch đề cử, dùng khối tinh thiết bất phàm giúp hắn vào phái.", tag: "an-nhan" },
-          { ten: "Vương Trác", quanHe: "Anh họ (con Đại bá)", ghiChu: "Đối thủ, kiêu ngạo, liên tục sỉ nhục Vương Lâm.", tag: "doi-thu" },
+          { ten: "Vương Trác", quanHe: "Anh họ (con Đại bá)", ghiChu: "Đối thủ, kiêu ngạo, liên tục sỉ nhục Vương Lâm; tái xuất tại đan phòng (@c0020) là đệ tử hồng y, mới luyện Ngưng Khí tầng 1.", tag: "doi-thu" },
           { ten: "Vương Hạo", quanHe: "Họ hàng / bạn đồng hành", ghiChu: "Có thiện cảm với Vương Lâm, định bênh nhưng bị cha ngăn.", tag: "ban-be" },
-          { ten: "Trương Hổ", quanHe: "Bạn cùng phòng", ghiChu: "Ký danh đệ tử Hằng Nhạc Phái, bạn đầu tiên của Vương Lâm trong phái; từng đói hai ngày, được Vương Lâm chia khoai lang nên kết thân.", tag: "ban-be" }
+          { ten: "Trương Hổ", quanHe: "Bạn cùng phòng", ghiChu: "Ký danh đệ tử Hằng Nhạc Phái, bạn đầu tiên của Vương Lâm trong phái; từng đói hai ngày, được Vương Lâm chia khoai lang nên kết thân. Suýt đông chết vì dị biến hạt châu hút nước mưa (@c0014); đồng ý giữ kín (@c0015).", tag: "ban-be" },
+          { ten: "Tôn Đại Trụ", quanHe: "Sư phụ (trên danh nghĩa)", ghiChu: "Trưởng lão Hằng Nhạc Phái thu Vương Lâm làm đệ tử nội môn để chiếm hồ lô nước linh khí; hai mặt, âm mưu kìm hãm rồi trục xuất Vương Lâm (@c0016–@c0019).", tag: "su-mon" },
+          { ten: "Lưu sư huynh", quanHe: "Sư huynh (ký danh đệ tử họ Lưu)", ghiChu: "Ban đầu chèn ép, giao việc nặng; sau khi biết Tôn trưởng lão tìm Vương Lâm thì đảo ngược hoàn toàn — xu nịnh, giảm việc, tặng tiên phù (@c0013–@c0015).", tag: "ban-be" }
         ],
         tuiDo: {
           phapBao: [
-            { ten: "Thạch Châu", moTa: "Viên châu xám khắc năm đóa mây trắng, to bằng nắm tay trẻ con, trông rất cổ. Nhặt từ trong xác một con phi điểu chết trong huyệt động (@c0008). Tiết hạt sương khi gặp ánh nắng; sương vị ngọt, trị lành vết thương thể chất. Đeo ở cổ bằng dây thừng, giấu kín dưới áo. (@c0008–@c0010)", nguon: "@c0008" }
+            { ten: "Thạch Châu", moTa: "Viên châu xám khắc hoa văn đám mây trắng, to bằng nắm tay trẻ con, trông rất cổ. Nhặt từ trong xác một con phi điểu chết trong huyệt động (@c0008). Tiết hạt sương khi gặp ánh nắng; sương vị ngọt, trị lành vết thương thể chất. Nước ngâm châu cũng có dược tính, kém hơn sương trực tiếp; hạt sương sáng sớm kết trên châu cho hiệu quả tốt nhất (@c0012). Thạch Châu tự hấp thu hơn phân nửa hạt sương — VL chỉ giữ được chưa đến một phần mười (@c0012). Dị biến đêm mưa Ch.14: châu hút toàn bộ nước mưa cả phòng (kể cả nước trên người Trương Hổ, suýt giết Trương Hổ bằng đông lạnh) (@c0014). Số đám mây khắc trên châu tăng dần khi hấp thu nước: 5 → 6 → 7 (Ch.14) → 9 (Ch.20); VL phán đoán 10 là mức cuối cùng (@c0014, @c0020). Nước ngâm châu biến thành nước chứa linh khí sung túc (xác nhận @c0016). Thảo dược quanh vùng (Lam Tuyến Thảo, Tử Dạ Hoa) héo rũ bất thường sau khi châu ở gần — cài cắm nguyên nhân sâu xa (@c0012–@c0013). Mang trong túi trữ vật từ @c0020.", nguon: "@c0008, @c0011, @c0012, @c0014, @c0016, @c0020" },
+            { ten: "Hồ Lô (đựng nước linh khí)", moTa: "Hồ lô hoang dại VL tìm trong núi, dùng đựng nước suối ngâm Thạch Châu — nước biến thành chứa linh khí sung túc. Bị Tôn Đại Trụ phát hiện và tịch thu khi lục soát phòng (@c0016). VL sau đó lấy lại được ba hồ lô sương sớm (sương bên trong đông đặc) và cất vào túi trữ vật (@c0020). Linh khí trong hồ lô cũ cạn dần sau ~1 tháng (@c0019).", nguon: "@c0012, @c0016, @c0019, @c0020" },
+            { ten: "Thiên Lý Phù", moTa: "Tờ giấy vàng trông như giấy thường, dùng được hai lần, dán ở đùi để tăng tốc độ di chuyển cho phàm nhân; phát bạch quang chói mắt, dã thú thấy tránh xa. Tôn trưởng lão cấp để Vương Lâm về dự thọ cha (@c0012). Lưu sư huynh sau đó tặng thêm một tờ (@c0015).", nguon: "@c0012, @c0015" }
           ],
-          congPhap: [], danDuoc: [], linhThu: [], khac: []
+          congPhap: [
+            { ten: "Ngưng Khí tam thiên", moTa: "Công pháp cơ bản nhất Tôn Đại Trụ truyền cho Vương Lâm khi thành đệ tử nội môn; gồm ba tầng, toàn bộ Ngưng Khí kỳ có mười lăm tầng. Bản chất: thổ nạp thiên địa linh khí, tích lũy vào thân, cải biến thể chất làm cơ sở tu luyện. Dấu hiệu linh khí nhập thể: cảm giác như côn trùng bò (@c0017).", nguon: "@c0017" }
+          ],
+          danDuoc: [
+            { ten: "Đoạt Linh Đan", moTa: "Đan dược phát hàng tháng tại đan phòng chính viện (cùng với hạ phẩm linh thạch mẩu nhỏ); dùng để gia tăng linh khí khi tu luyện Ngưng Khí kỳ (@c0020).", nguon: "@c0020" }
+          ],
+          linhThu: [],
+          khac: [
+            { ten: "Túi trữ vật", moTa: "Túi nhỏ màu xám, dẹt; tín vật thân phận đệ tử nội môn, đồng thời chứa đồ. Tôn Đại Trụ tặng khi thu VL làm đệ tử (@c0017).", nguon: "@c0017" },
+            { ten: "Hạ phẩm linh thạch", moTa: "Vật giúp ngưng khí dễ dàng hơn. Tôn Đại Trụ cấp một khối để thổ nạp (@c0019) và hứa thêm nếu đổi hồ lô (@c0017); đan phòng phát hàng tháng mẩu nhỏ (@c0020).", nguon: "@c0017, @c0019, @c0020" },
+            { ten: "Y phục hồng sắc", moTa: "Trang phục đặc trưng của đệ tử nội môn Hằng Nhạc Phái. Nhận từ Tôn Đại Trụ khi thành đệ tử (@c0017).", nguon: "@c0017" }
+          ]
         }
       },
-      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007", "@c0008", "@c0009", "@c0010"]
+      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007", "@c0008", "@c0009", "@c0010", "@c0011", "@c0012", "@c0013", "@c0014", "@c0015", "@c0016", "@c0017", "@c0018", "@c0019", "@c0020"]
     },
     {
       id: "vuong-trac",
