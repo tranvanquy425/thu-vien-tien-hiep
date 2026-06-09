@@ -25,16 +25,19 @@
   /* -------- data load -------- */
   async function loadJson(url) { const r = await fetch(url, { cache: "no-cache" }); if (!r.ok) throw new Error(r.status); return r.json(); }
   async function loadEntity(name, demoKey) {
-    const D = (window.LIB_DATA || {})[slug];
+    const D = (window.LIB_DATA || {})[slug];           // dữ liệu thật (data.js) — ưu tiên, chạy cả local
     if (D && D[demoKey]) return D[demoKey];
     try { return await loadJson(bo.dataBase + "/" + name + ".json"); }
     catch (e) { usedDemo = true; return DEMO[demoKey] || null; }
   }
   async function loadReaderIndex() {
     const D = (window.LIB_DATA || {})[slug];
-    if (D && D.reader && D.reader.index) return D.reader.index;
+    // Ưu tiên index R2 (đủ toàn bộ chương). readerBase chưa đặt/chưa lên → fallback bundle reader.js (Ch.1-20) → demo.
     try { return await loadJson(bo.readerBase + "/index.json"); }
-    catch (e) { usedDemo = true; return (DEMO.reader && DEMO.reader.index) || null; }
+    catch (e) {
+      if (D && D.reader && D.reader.index) return D.reader.index;
+      usedDemo = true; return (DEMO.reader && DEMO.reader.index) || null;
+    }
   }
   async function loadChapter(so) {
     const D = (window.LIB_DATA || {})[slug];
@@ -241,6 +244,7 @@
     const nm = (t.nhanMach || []).map(n => '<div class="ev"><div class="ev-head"><b style="color:#e6c878">' + esc(n.ten) + '</b>' +
       (n.tag ? '<span class="rtag ' + esc(n.tag) + '">' + esc(RTAG[n.tag] || n.tag) + '</span>' : '') +
       (n.quanHe ? '<span class="chip">' + esc(n.quanHe) + '</span>' : '') + '</div><div class="ev-text">' + esc(n.ghiChu || "") + '</div></div>').join("");
+    // Tiểu sử: prose + điểm nổi bật (có neo) — theo khuôn web cũ
     const diem = (t.diem || []).map(d => '<div class="ev minor"><div class="ev-text">' + esc(d.text || "") +
       (d.chuong ? ' <a class="neo" href="#doc" data-goch="' + String(d.chuong).replace(/[^0-9]/g, "") + '">' + esc(d.chuong) + '</a>' : '') + '</div></div>').join("");
     const ib = (lbl, val, full) => val ? '<div class="iblock' + (full ? ' full' : '') + '"><div class="lbl">' + lbl + '</div><div class="val">' + val + '</div></div>' : '';
@@ -256,6 +260,7 @@
       '</div>' +
       (t.tieuSu ? '<div class="ts-sum">' + esc(t.tieuSu) + '</div>' : '') +
       (diem ? '<div style="margin-top:14px"><div class="chip gold">Nét nổi bật</div><div class="timeline" style="margin-top:10px">' + diem + '</div></div>' : '');
+    // Tu vi: timeline theo mốc (như kinh lịch)
     const tuViMoc = (t.tuViMoc || []).map(m => '<div class="ev ' + (m.importance || "major") + '"><div class="ev-head">' +
       (m.canhGioi ? '<span class="lvl major">' + esc(m.canhGioi) + '</span>' : '') +
       (m.chuong ? '<a class="neo" href="#doc" data-goch="' + String(m.chuong).replace(/[^0-9]/g, "") + '">' + esc(m.chuong) + '</a>' : '') +
@@ -328,6 +333,7 @@
       '<h3 style="display:inline">' + esc(h.ten) + '</h3>' +
       '<div class="blurb">' + esc(h.moTa || "") + '</div>' +
       '<div style="margin-top:8px;color:var(--gold);font-size:12.5px">Xem chi tiết ›</div></div>').join("") + '</div>' : "";
+    // bảng đối chiếu — nội dung cho cửa sổ (mở từ thanh ngang)
     const rows = doiChieu.map(r =>
       '<tr style="border-top:1px solid var(--line)"><td style="color:var(--muted2);white-space:nowrap;padding:8px 10px">' + esc(r.buoc || "") + '</td>' +
       '<td style="color:var(--gold2);font-weight:600;padding:8px 10px">' + esc(r.tuDao || "") + '</td>' +
@@ -342,15 +348,18 @@
       '<th style="text-align:left;padding:9px 10px;color:var(--gold2)">Tu Tiên</th>' +
       '<th style="text-align:left;padding:9px 10px;color:var(--gold2)">Cổ Tộc</th></tr></thead>' +
       '<tbody>' + rows + '</tbody></table></div>' : "";
+    // THANH NGANG đối chiếu — đặt ngay sau 4 hệ thống
     const dcBar = doiChieu.length ?
       '<button class="btn gold" id="dcBar" style="width:100%;text-align:left;display:flex;align-items:center;gap:10px;padding:13px 16px;margin-bottom:18px;font-size:14.5px">' +
       '<span style="font-size:18px">▤</span> Bảng đối chiếu hệ thống · Tu Đạo — Tu Tiên — Cổ Tộc <span style="margin-left:auto;color:var(--gold)">bấm để xem ›</span></button>' : "";
+
     view.innerHTML =
       '<div class="page-head"><h1>Cảnh Giới</h1><span class="sub">Hệ thống tu luyện — Tu Đạo (chính) · đối chiếu Tu Tiên & Cổ Tộc</span></div>' +
       (DB.realmsGhiChu ? '<div class="prose" style="font-size:13.5px;color:var(--muted);margin-bottom:14px">' + esc(DB.realmsGhiChu) + '</div>' : "") +
       heCards + dcBar +
       '<h2 class="section-title">Lộ trình Tu Đạo</h2><div class="ladder" id="ladder"></div>';
     if (doiChieu.length) $("#dcBar").onclick = () => openDrawer("Bảng đối chiếu hệ thống", "Tu Đạo · Tu Tiên · Cổ Tộc", tableInner);
+    // thẻ hệ thống bấm được → cửa sổ chi tiết + cấp bậc đối chiếu
     view.querySelectorAll('.card[data-he]').forEach(el => el.onclick = () => {
       const h = heThong[+el.dataset.he];
       let body = '<div class="prose">' + esc(h.detail || h.moTa || "") + '</div>';
@@ -361,6 +370,7 @@
       if (h.link) body += '<div style="margin-top:12px"><a class="neo" href="' + esc(h.link) + '" target="_blank" rel="noopener">Trang wiki ↗</a></div>';
       openDrawer(h.ten, h.chinh ? "Hệ chính" : "", body);
     });
+
     $("#ladder").innerHTML = realms.map(r => {
       const tdg = r.tuongDuong || {};
       const eq = [tdg.tuTien ? '<span class="chip">Tiên: ' + esc(tdg.tuTien) + '</span>' : '', tdg.coToc ? '<span class="chip chu">Cổ Tộc: ' + esc(tdg.coToc) + '</span>' : ''].join("");
@@ -381,7 +391,7 @@
     });
   }
 
-  /* --- 6 & 7. Pháp Bảo / Công Pháp --- */
+  /* --- 6 & 7. Pháp Bảo / Công Pháp (lưới + lọc) --- */
   function gridView(opts) {
     const { title, sub, items, getCat, catKey, detail } = opts;
     const cats = [...new Set(items.map(getCat).filter(Boolean))];
