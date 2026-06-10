@@ -472,7 +472,7 @@
     // thẻ hệ thống bấm được → cửa sổ chi tiết + cấp bậc đối chiếu
     view.querySelectorAll('.card[data-he]').forEach(el => el.onclick = () => {
       const h = heThong[+el.dataset.he];
-      let body = '<div class="prose">' + esc(h.detail || h.moTa || "") + '</div>';
+      let body = '<div class="prose">' + fmtProse(h.detail || h.moTa || "") + '</div>';
       if (h.capBac && h.capBac.length) body += '<div style="margin-top:14px"><div class="chip gold">Cấp bậc & đối chiếu</div><div class="timeline" style="margin-top:10px">' +
         h.capBac.map(c => '<div class="ev"><div class="ev-head"><b style="color:#e6c878">' + esc(c.ten) + '</b>' +
           (c.tuongDuong ? '<span class="chip">↔ ' + esc(c.tuongDuong) + '</span>' : '') + '</div>' +
@@ -493,7 +493,7 @@
     $("#ladder").querySelectorAll(".rung").forEach(el => el.onclick = () => {
       const r = realms.find(x => x.id === el.dataset.id); const tdg = r.tuongDuong || {};
       openDrawer(r.name, (r.aliases && r.aliases.length ? r.aliases.join(", ") : r.cn), '<div class="kv"><span class="chip gold">' + esc(r.buoc || "") + '</span><span class="chip">Cấp ' + (r.capBac || "?") + '</span></div>' +
-        '<div class="prose">' + esc(stripNeo(r.detail || r.blurb || "—")) + '</div>' +
+        '<div class="prose">' + fmtProse(r.detail || r.blurb || "—") + '</div>' +
         (r.dacThu ? '<div style="margin-top:12px"><div class="chip gold">Đặc thù</div><div class="prose">' + esc(stripNeo(r.dacThu)) + '</div></div>' : '') +
         ((tdg.tuTien || tdg.coToc) ? '<div style="margin-top:12px"><div class="chip gold">Tương đương</div><div class="prose">' +
           (tdg.tuTien ? 'Tu Tiên: ' + esc(tdg.tuTien) + '<br>' : '') + (tdg.coToc ? 'Cổ Tộc: ' + esc(tdg.coToc) : '') + '</div></div>' : ''));
