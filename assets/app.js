@@ -32,10 +32,11 @@
     try { return await loadJson(bo.dataBase + "/" + name + ".json"); }
     catch (e) { usedDemo = true; return DEMO[demoKey] || null; }
   }
+  function readerBaseUrl() { return bo.readerBase + (readerState.phanBase || ""); }   // nối base của PHẦN đang chọn
   async function loadReaderIndex() {
     const D = (window.LIB_DATA || {})[slug];
     // Ưu tiên index R2 (đủ toàn bộ chương). readerBase chưa đặt/chưa lên → fallback bundle reader.js (Ch.1-20) → demo.
-    try { return await loadJson(bo.readerBase + "/index.json"); }
+    try { return await loadJson(readerBaseUrl() + "/index.json"); }
     catch (e) {
       if (D && D.reader && D.reader.index) return D.reader.index;
       usedDemo = true; return (DEMO.reader && DEMO.reader.index) || null;
@@ -43,8 +44,8 @@
   }
   async function loadChapter(so) {
     const D = (window.LIB_DATA || {})[slug];
-    if (D && D.reader && D.reader.chapters && D.reader.chapters[so]) return D.reader.chapters[so];
-    try { return await loadJson(bo.readerBase + "/chapters/c" + pad4(so) + ".json"); }
+    if ((readerState.phanBase || "") === "" && D && D.reader && D.reader.chapters && D.reader.chapters[so]) return D.reader.chapters[so];
+    try { return await loadJson(readerBaseUrl() + "/chapters/c" + pad4(so) + ".json"); }
     catch (e) { usedDemo = true; return (DEMO.reader && DEMO.reader.chapters && DEMO.reader.chapters[so]) || null; }
   }
   async function loadCotTruyen(quyen) {
@@ -102,9 +103,10 @@
   const trangThaiLabel = { song: "Còn sống", "tu-vong": "Tử vong", "mat-tich": "Mất tích", "khong-ro": "Không rõ" };
 
   /* --- 1. Đọc truyện --- */
-  let readerState = { index: null, cur: -1 };
+  let readerState = { index: null, cur: -1, phanBase: "" };
   let pendingChapter = null;
   async function viewDoc() {
+    const phanList = (bo.phanList && bo.phanList.length > 1) ? bo.phanList : null;
     view.innerHTML = '<div class="loading">Đang tải mục lục…</div>';
     if (!readerState.index) readerState.index = await loadReaderIndex();
     const idx = readerState.index;
@@ -116,6 +118,7 @@
     view.innerHTML =
       '<div class="page-head"><h1>Đọc truyện</h1><span class="sub">đã nạp ' + idx.chuong.length + ' chương' + (idx.tongChuong && idx.tongChuong > idx.chuong.length ? ' / tổng ' + idx.tongChuong : '') + '</span></div>' +
       '<div class="toolbar">' +
+        (phanList ? '<label>Phần</label><select id="rPhan">' + phanList.map(p => '<option value="' + esc(p.base) + '"' + (((readerState.phanBase || "") === p.base) ? ' selected' : '') + '>' + esc(p.ten) + '</option>').join("") + '</select>' : '') +
         (quyens.length ? '<label>Quyển</label><select id="rVol">' + qOpts + '</select>' : '') +
         '<label>Chương</label><select id="rCh" style="flex:1 1 220px"></select>' +
         '<input id="rJump" type="number" min="1" placeholder="Tới chương #" style="max-width:150px">' +
@@ -132,6 +135,7 @@
     function syncVol(q) { if ($("#rVol") && q) { $("#rVol").value = q; fillCh(); } }
     window.__readerSync = syncVol;
     fillCh();
+    if ($("#rPhan")) $("#rPhan").onchange = () => { readerState.phanBase = $("#rPhan").value; readerState.index = null; readerState.cur = -1; pendingChapter = null; viewDoc(); };
     if ($("#rVol")) $("#rVol").onchange = () => { fillCh(); const v = $("#rCh").value; if (v !== "") openCh(+v); };
     $("#rCh").onchange = () => openCh(+$("#rCh").value);
     $("#rJump").onchange = () => { const so = parseInt($("#rJump").value, 10); const j = idx.chuong.findIndex(c => c.so === so); if (j >= 0) { syncVol(idx.chuong[j].quyen); openCh(j); } };
