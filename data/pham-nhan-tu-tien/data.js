@@ -169,7 +169,17 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { chuong: 47, importance: "normal", tieuDe: "Đối chiến Ma Ngân Thủ", text: "Giao chiến với Mặc đại phu khi lão thi triển Ma Ngân Thủ. Thi triển La Yên bộ thoát khỏi màn chắn bạc của Ma Ngân Thủ, chạy tới góc phòng tái lập thế." },
           { chuong: 48, importance: "normal", tieuDe: "Trá ngữ dẫn dụ", text: "Thể lực mất hơn phân nửa, tay trái tê liệt; dùng trá ngữ làm Mặc đại phu khựng thế công. Lấy ra đoản kiếm thứ hai (chủy thủ ngắn) dùng cho chiêu cất giấu cuối cùng. Bày tư thế thân người uốn như cung tên lao tới." },
           { chuong: 49, importance: "normal", tieuDe: "Sáo Trung Sáo", text: "Xoay góc mũi kiếm tạo bạch quang chói mắt làm Mặc đại phu tạm mù. Dụ Mặc đại phu bắt mũi kiếm rỗng, bất ngờ rút tiêm trùy giấu bên trong đâm thẳng yết hầu lão. Lão né thoát nhờ bản năng thân thể vượt người thường — chỉ trầy gáy chảy máu." },
-          { chuong: 50, importance: "major", tieuDe: "Hạ độc khống chế Mặc đại phu", text: "Vờ đề nghị giảng hòa, thả vũ khí. Tiết lộ đã bôi Triền Hương Ti — độc dược từ từ nhập cốt — lên tiêm trùy trước khi đâm trúng Mặc đại phu; tự học cách phối chế từ tờ phương thuốc kẹp trong dược thư lão quên bẵng. Tự tin tuyên bố tánh mạng Mặc đại phu nằm trong tay mình." }
+          { chuong: 50, importance: "major", tieuDe: "Hạ độc khống chế Mặc đại phu", text: "Vờ đề nghị giảng hòa, thả vũ khí. Tiết lộ đã bôi Triền Hương Ti — độc dược từ từ nhập cốt — lên tiêm trùy trước khi đâm trúng Mặc đại phu; tự học cách phối chế từ tờ phương thuốc kẹp trong dược thư lão quên bẵng. Tự tin tuyên bố tánh mạng Mặc đại phu nằm trong tay mình." },
+          { chuong: 51, importance: "normal", tieuDe: "Rơi vào thế hạ phong", text: "Hạ độc Triền Hương Ti vào Mặc đại phu nhưng lão thản nhiên không sợ — hắc có chỗ dựa. Bị Thiết Nô (thủ hạ thân thể cứng như đá) bắt giữ, thiết trùy bị đánh văng, vai và đầu gối trọng thương. Bình tĩnh suy ra Mặc đại phu cố ý lưu tình vì mình 'có điểm đại dụng', tính dùng điểm này để mặc cả. Bị Mặc đại phu lấy mất hộ tâm kính." },
+          { chuong: 52, importance: "normal", tieuDe: "Chứng kiến Thất Quỷ Phệ Hồn đại pháp", text: "Bị Thiết Nô khống chế áp chế không thoát được; chứng kiến Mặc đại phu tự cắm bảy dao cán đầu quỷ vào thân và phát động Thất Quỷ Phệ Hồn đại pháp." },
+          { chuong: 53, importance: "normal", tieuDe: "Nhận thức thế giới thần quỷ có thật", text: "Tận mắt xem Mặc đại phu hồi phục tuổi trẻ — hóa thành mỹ nam tử ~30 tuổi. Lần đầu xác tín thế giới tu tiên/thần quỷ là có thật. Trấn tĩnh, giả ngốc thử dò xin được tha." },
+          { chuong: 54, importance: "normal", tieuDe: "Bị Định Thần Phù khống chế", text: "Hiểu ra Mặc đại phu định cướp đoạt thân xác, cố giãy dụa bất thành. Bị dán Định Thần Phù lên gáy — mất hoàn toàn quyền khống chế cơ thể nhưng vẫn nghe nhìn được. Kỳ lạ: Trường Xuân công trong người tự kích động khi nhìn ký hiệu trên phù." },
+          { chuong: 55, importance: "normal", tieuDe: "Bị đặt vào trận đồ đoạt xá", text: "Bị mang vào căn nhà đá kín, bị quăng nằm ngửa giữa đồ án/trận đồ khảm ngọc thạch. Nghe quỷ hồn 'đệ tam nhân' lần đầu lộ diện qua tiếng nói." },
+          { chuong: 56, importance: "major", tieuDe: "Nguyên thần mạnh dị thường — thắng cuộc đoạt xá", text: "Bị chú ngữ thôi miên hôn mê; trong mộng hóa thành quang cầu xanh biếc lớn bằng nắm tay (nguyên thần cực mạnh), nuốt gọn quang cầu vàng nhỏ, đánh đuổi quang cầu xanh lớn nhưng suy yếu (đối phương tự tách bộ phận để trốn, chỉ còn 1/3). Độc chiếm lãnh địa." },
+          { chuong: 57, importance: "major", tieuDe: "Thoát đoạt xá — Mặc đại phu chết", text: "Tỉnh lại, giành lại thân thể — đoạt xá thất bại. Xác nhận Mặc đại phu đã chết (hóa lão cực độ, mắt trợn tròn). Định Thần Phù biến thành tro bụi. Phát hiện quang cầu (Dư Tử Đồng) còn trốn trong góc nhà đá; gọi đúng tên, Dư Tử Đồng thừa nhận thân phận và bắt đầu khai báo." },
+          { chuong: 58, importance: "normal", tieuDe: "Nghe Dư Tử Đồng tự khai lai lịch", text: "Nghe Dư Tử Đồng (nguyên thần) kể toàn bộ quá khứ và chân tướng vụ Mặc đại phu. Không hoàn toàn tin nhưng tự suy ra bảy tám phần chân tướng." },
+          { chuong: 59, importance: "normal", tieuDe: "Vạch trần toàn bộ âm mưu", text: "Tỉnh táo suy luận, vạch trần âm mưu Dư Tử Đồng: kẻ chủ mưu thật giăng bẫy Mặc đại phu và mình đồng quy vu tận. Nghe tam đại thiết tắc của đoạt xá. Dư Tử Đồng dụ làm đồ đệ gia tộc tu tiên, chưa nhận. Xác nhận tu Trường Xuân công tới tầng 6 (Dư Tử Đồng xác nhận)." },
+          { chuong: 60, importance: "major", tieuDe: "Phun độc diệt nguyên thần Dư Tử Đồng", text: "Dùng mưu vờ đồng ý hợp tác để câu giờ moi thông tin xong rồi ra tay: phun độc dịch bằng ống đồng trúng nguyên thần Dư Tử Đồng, sau đó rút Ngọc Đái đoản kiếm chém xuống. Dư Tử Đồng bị diệt." }
         ],
         tuViMoc: [
           { chuong: 1, canhGioi: "Phàm nhân", text: "Chưa tu luyện, không có một điểm chân khí." },
@@ -180,7 +190,8 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { chuong: 23, canhGioi: "Trường Xuân công — tầng 3 đỉnh phong (sau biến cố tâm ma)", text: "Sau khi dùng bình an phù trừ tâm ma, công lực tăng đạt đỉnh phong tầng thứ ba; cách tầng bốn không còn xa.", importance: "normal" },
           { chuong: 28, canhGioi: "Trường Xuân công — tầng 4", text: "Nhờ Hoàng Long Đan và Kim Tủy Hoàn, đột phá thành công tầng thứ tư trong một đêm; ngũ cảm tăng vọt mang tính chất, điều khiển được cỗ chân khí kỳ dị.", importance: "major" },
           { chuong: 34, canhGioi: "Trường Xuân công — tầng 5", text: "Hai tháng trước chương 34 (tức khoảng c032-c033), nhờ Hoàng Long Đan và Kim Tủy Hoàn đột phá thẳng từ tầng tư lên tầng năm; năng lực ghi nhớ võ công 'gặp qua không thể quên' khởi phát.", importance: "major" },
-          { chuong: 43, canhGioi: "Trường Xuân công — tầng 6", text: "Nhờ hơn mười bình linh dược phụ trợ, đột phá tầng sáu — tầng cao nhất Mặc đại phu từng cấp. Công pháp tầng sáu cho năng lực phục hồi thân thể dị thường vượt xa người bình thường, điều chính Hàn Lập cũng không ngờ tới; vẫn che giấu thực lực, chỉ phô tầng tư trước mặt Mặc đại phu.", importance: "major" }
+          { chuong: 43, canhGioi: "Trường Xuân công — tầng 6", text: "Nhờ hơn mười bình linh dược phụ trợ, đột phá tầng sáu — tầng cao nhất Mặc đại phu từng cấp. Công pháp tầng sáu cho năng lực phục hồi thân thể dị thường vượt xa người bình thường, điều chính Hàn Lập cũng không ngờ tới; vẫn che giấu thực lực, chỉ phô tầng tư trước mặt Mặc đại phu.", importance: "major" },
+          { chuong: 59, canhGioi: "Trường Xuân công — tầng 6", text: "Dư Tử Đồng xác nhận Hàn Lập đã tu tới tầng 6 — chỉ kém Dư Tử Đồng 1 tầng (Dư Tử Đồng tầng 7). Chính nhờ tốc độ/tư chất tu luyện vượt dự tính của Mặc đại phu nên đoạt xá thất bại.", importance: "major" }
         ],
         nhanMach: [
           { ten: "Tam thúc (Lão Hàn béo)", tag: "ho-hang", quanHe: "Chú ruột, đệ tử ngoại môn Thất Huyền môn, người tiến cử Hàn Lập" },
@@ -194,7 +205,9 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
         ],
         tuiDo: {
           phapBao: [
-            { ten: "Bình thần bí", loai: "pháp bảo (bất hoại, hút linh khí, thôi sanh dược thảo)", trangThai: "đang giữ — đeo trong túi da ở cổ", moTa: "Bình màu xanh nhạt, hoa văn lá xanh biếc sống động. Bất hoại trước vũ lực phàm nhân. Hút ánh sáng (quang điểm) ban đêm trời quang có trăng sao; khoảng 7 ngày/giọt tái sinh Thần Bí Dịch (lục dịch). Nhỏ trực tiếp một giọt nguyên chất lên một gốc dược thảo tăng khoảng 100 năm tuổi/dược tính. Lục dịch chỉ giữ được trong bình; rời bình một khắc là tan biến. Cũng là kịch độc: pha loãng cho thỏ uống thì thỏ nổ banh thân.", nguon: ["c0010", "c0012", "c0013", "c0014", "c0023", "c0024", "c0025", "c0026"] }
+            { ten: "Bình thần bí", loai: "pháp bảo (bất hoại, hút linh khí, thôi sanh dược thảo)", trangThai: "đang giữ — đeo trong túi da ở cổ", moTa: "Bình màu xanh nhạt, hoa văn lá xanh biếc sống động. Bất hoại trước vũ lực phàm nhân. Hút ánh sáng (quang điểm) ban đêm trời quang có trăng sao; khoảng 7 ngày/giọt tái sinh Thần Bí Dịch (lục dịch). Nhỏ trực tiếp một giọt nguyên chất lên một gốc dược thảo tăng khoảng 100 năm tuổi/dược tính. Lục dịch chỉ giữ được trong bình; rời bình một khắc là tan biến. Cũng là kịch độc: pha loãng cho thỏ uống thì thỏ nổ banh thân.", nguon: ["c0010", "c0012", "c0013", "c0014", "c0023", "c0024", "c0025", "c0026"] },
+            { ten: "Ngọc Đái đoản kiếm", loai: "nhuyễn kiếm (trọng kim)", trangThai: "đang giữ", moTa: "Nhuyễn kiếm Hàn Lập đặt thợ rèn làm bằng trọng kim — thanh kiếm đắt nhất hắn có. Rộng chừng một ngón tay, dài tầm thước rưỡi, lưỡi kiếm mềm dẻo. Lần đầu dùng tại c60 để chém nguyên thần Dư Tử Đồng.", nguon: ["c0060"] },
+            { ten: "Ống đồng đựng độc dịch", loai: "vũ khí ẩn (độc)", trangThai: "đang giữ", moTa: "Ống đồng nhỏ chứa chất lỏng đen quánh đặc mùi hủ xú; bóp ngón cái thì phun ra. Tổn thương nguyên thần/quang cầu khi bắn trúng. Dùng lần đầu tại c60 để làm suy yếu nguyên thần Dư Tử Đồng trước khi chém.", nguon: ["c0060"] }
           ],
           danDuoc: [
             { ten: "Trừu Tủy Hoàn", loai: "đan dược (từng dùng chia nhỏ)", trangThai: "đã dùng", moTa: "Từng chia một viên thành mười phần làm dược dẫn — cách dùng an toàn không gây hại.", nguon: ["c0020"] },
@@ -219,7 +232,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
         }
       },
       uuTien: 1,
-      nguon: ["c0001", "c0002", "c0003", "c0004", "c0005", "c0006", "c0007", "c0008", "c0009", "c0010", "c0011", "c0012", "c0013", "c0014", "c0015", "c0016", "c0017", "c0018", "c0019", "c0020", "c0021", "c0022", "c0023", "c0024", "c0025", "c0026", "c0027", "c0028", "c0029", "c0030", "c0031", "c0032", "c0033", "c0034", "c0035", "c0036", "c0037", "c0038", "c0039", "c0040", "c0041", "c0042", "c0043", "c0044", "c0045", "c0046", "c0047", "c0048", "c0049", "c0050"]
+      nguon: ["c0001", "c0002", "c0003", "c0004", "c0005", "c0006", "c0007", "c0008", "c0009", "c0010", "c0011", "c0012", "c0013", "c0014", "c0015", "c0016", "c0017", "c0018", "c0019", "c0020", "c0021", "c0022", "c0023", "c0024", "c0025", "c0026", "c0027", "c0028", "c0029", "c0030", "c0031", "c0032", "c0033", "c0034", "c0035", "c0036", "c0037", "c0038", "c0039", "c0040", "c0041", "c0042", "c0043", "c0044", "c0045", "c0046", "c0047", "c0048", "c0049", "c0050", "c0051", "c0052", "c0053", "c0054", "c0055", "c0056", "c0057", "c0058", "c0059", "c0060"]
     },
     {
       id: "mac-dai-phu",
@@ -231,9 +244,9 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
       theLuc: [
         { ten: "Thất Huyền môn — Cung Phụng đường", trangThai: "gan-bo" }
       ],
-      canhGioiCaoNhat: "Người tu luyện — mức độ thực sự chưa rõ",
-      trangThai: "song",
-      blurb: "Thầy thuốc bí ẩn của Thất Huyền môn. Tên thật Mặc Cư Nhân — từng là cao thủ võ lâm Lam Châu biệt danh 'quỷ thủ', thực chất mới 30 tuổi nhưng bị tà khí xâm cốt lão hóa cực nhanh trông như người trên 70. Bị thân tín ám toán, lưu lạc khắp nơi, vô tình nhận được kỳ thư từ đó học Trường Xuân công và cách phá giải. Cứu mạng Vương môn chủ nên được mời nhập môn Thất Huyền. Cần Hàn Lập luyện Trường Xuân công tới tầng tư để vận khí kích thích bí huyệt giải độc cho mình; đã thử mấy trăm đồng tử đều thất bại, chỉ Hàn Lập có linh căn. Chỉ còn sống thêm khoảng một năm.",
+      canhGioiCaoNhat: "Phàm nhân vô linh căn — cao thủ võ lâm (Ma Ngân Thủ); tự tu Trường Xuân công tới tầng 4 (vì không có linh căn)",
+      trangThai: "tu-vong",
+      blurb: "Thầy thuốc bí ẩn của Thất Huyền môn. Tên thật Mặc Cư Nhân — từng là cao thủ võ lâm Lam Châu biệt danh 'quỷ thủ', thực chất mới 30 tuổi nhưng bị tà khí xâm cốt lão hóa cực nhanh. Chân tướng: là PHÀM NHÂN vô linh căn, không phải tu tiên giả thật; bị nguyên thần Dư Tử Đồng (kẻ hắn đầu độc giết hại) chui vào thân ký sinh, bị 'huyết tiến âm hồn chú' trớ chú khiến già nhanh mỗi ngày. Mọi pháp thuật quỷ đạo (Thất Quỷ Phệ Hồn đại pháp, Định Thần Phù) đều do Dư Tử Đồng truyền. Là công cụ bị Dư Tử Đồng lợi dụng thực hiện đoạt xá Hàn Lập. Chết vì đoạt xá thất bại — pháp lực không đủ hơn Hàn Lập, bị 'cắn ngược'.",
       vaiTro: "Sư phụ của Hàn Lập",
       tinhCach: [
         { text: "Lạnh lùng, ít nói, vô biểu cảm trong sinh hoạt hằng ngày", chuong: 6 },
@@ -267,10 +280,18 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { chuong: 46, importance: "normal", text: "Bị Hàn Lập ám sát một kiếm suýt thủng bụng; phải dùng Thiết bản kiều mới thoát, lần đầu trong nửa đời giang hồ bị áp sát tử thần đến mặt xanh lét run rẩy. Thừa nhận đã coi nhẹ Hàn Lập, chuẩn bị nghiêm túc dùng tuyệt kỹ thật." },
           { chuong: 47, importance: "normal", text: "Thi triển Ma Ngân Thủ — tuyệt kỹ thành danh của mình. Hai tay bành trướng chuyển màu trắng bạc cứng chắc như bạc thật. Chủ ý chỉ dùng nửa thành công lực để bắt sống Hàn Lập, không giết." },
           { chuong: 49, importance: "normal", text: "Bị bạch quang mù tạm thời; dựa Ma Ngân Thủ và công phu nghe tiếng gió định vị bắt được mũi kiếm của Hàn Lập. Bị tiêm trùy giấu trong mũi kiếm rỗng đâm vào gáy, chỉ trầy da nhờ bản năng né thoát thần tốc. Tự phong huyết mạch cầm máu." },
-          { chuong: 50, importance: "major", tieuDe: "Bị hạ độc Triền Hương Ti", text: "Nhận ra bị trúng Triền Hương Ti — độc dược từ tờ phương thuốc chính lão chép rồi kẹp trong dược thư bỏ quên, nay bị Hàn Lập đọc lén và bôi lên binh khí. Biến sắc kinh hãi vì thứ này nằm ngoài dự liệu; cố chống đỡ nhưng vết thương ở gáy đang phát độc." }
+          { chuong: 50, importance: "major", tieuDe: "Bị hạ độc Triền Hương Ti", text: "Nhận ra bị trúng Triền Hương Ti — độc dược từ tờ phương thuốc chính lão chép rồi kẹp trong dược thư bỏ quên, nay bị Hàn Lập đọc lén và bôi lên binh khí. Biến sắc kinh hãi vì thứ này nằm ngoài dự liệu; cố chống đỡ nhưng vết thương ở gáy đang phát độc." },
+          { chuong: 51, importance: "normal", tieuDe: "Điều Thiết Nô bắt Hàn Lập", text: "Không ngại Triền Hương Ti của Hàn Lập — có chỗ dựa. Lệnh Thiết Nô bắt giữ Hàn Lập nhưng ra lệnh 'điểm nhẹ thôi' vì Hàn Lập còn 'có đại dụng'. Lấy hộ tâm kính của Hàn Lập (giải thích vì sao điểm huyệt trước thất bại). Giở hộp gỗ ngân nhận — dụng cụ thi thuật sắp tới." },
+          { chuong: 52, importance: "major", tieuDe: "Phát động Thất Quỷ Phệ Hồn đại pháp", text: "Tự cắm bảy dao nhọn cán hình đầu quỷ vào hai vai, hai chân, bụng và ngực. Nhập định, kết ấn hoa sen, niệm chú; mặt nổi quỷ vụ/hắc vụ đậm đen tạo xúc tu. Hét tên bí thuật 'Thất Quỷ Phệ Hồn đại pháp'." },
+          { chuong: 53, importance: "major", tieuDe: "Hồi phục tuổi trẻ", text: "Hoàn thành Thất Quỷ Phệ Hồn đại pháp — bảy đầu quỷ hút sạch quỷ vụ trên mặt, lão trở về dung mạo nam tử ~30 tuổi, mỹ nam tử mị lực. Vẫn chưa buông tha Hàn Lập — mục đích thật với hắn còn ẩn." },
+          { chuong: 54, importance: "major", tieuDe: "Khởi động đoạt xá bằng Định Thần Phù", text: "Tuyên bố thẳng ý định cướp thân Hàn Lập. Niệm chú dán Định Thần Phù lên sau gáy Hàn Lập — khống chế hoàn toàn thân thể hắn. Lộ quá khứ mỹ nam tử 'làm điên đảo giang hồ hiệp nữ'." },
+          { chuong: 55, importance: "normal", tieuDe: "Tự xây nhà đá hành thuật", text: "Dẫn Hàn Lập vào căn nhà đá kín mít tự xây; đặt Hàn Lập giữa trận đồ khảm ngọc thạch. Ra lệnh Thiết Nô canh ngoài 'giết không tha'. Đối thoại căng thẳng với nguyên thần Dư Tử Đồng — ép thề độc vì nghi y ôm hận lừa gạt." },
+          { chuong: 56, importance: "major", tieuDe: "Thực hiện nghi thức đoạt xá", text: "Cắm kim châm vào bí huyệt tăng tinh lực, kích hoạt trận đồ bằng hồng quang, niệm chú ngữ thôi miên Hàn Lập. Thực ra bị Dư Tử Đồng giăng bẫy: lão vô linh căn, tự tu tầng 4 bằng pháp lực mượn, không hơn được Hàn Lập tầng 6-7 → bị cắn ngược." },
+          { chuong: 57, importance: "major", tieuDe: "CHẾT — đoạt xá thất bại", text: "Chết 'vô thanh vô tức' do đoạt xá thất bại, nguyên thần bị Hàn Lập thôn phệ ngược. Ngoại hình lúc chết: hóa lão cực độ, tóc bạc, khô gầy tiều tụy, già thêm ~10 tuổi, mắt trợn tròn hoảng sợ." }
         ],
         tuViMoc: [
-          { chuong: 29, canhGioi: "Cao thủ võ lâm phàm trần — Ma Ngân Thủ", text: "Ra tay điểm huyệt Hàn Lập cực nhanh như u linh, thân pháp vượt xa phàm nhân thường. Sở hữu tuyệt kỹ thành danh Ma Ngân Thủ — hai tay luyện cứng trắng bạc như bạc thật, đao thương bất nhập, bắt được lưỡi kiếm trực tiếp." }
+          { chuong: 29, canhGioi: "Cao thủ võ lâm phàm trần — Ma Ngân Thủ", text: "Ra tay điểm huyệt Hàn Lập cực nhanh như u linh, thân pháp vượt xa phàm nhân thường. Sở hữu tuyệt kỹ thành danh Ma Ngân Thủ — hai tay luyện cứng trắng bạc như bạc thật, đao thương bất nhập, bắt được lưỡi kiếm trực tiếp." },
+          { chuong: 59, canhGioi: "Phàm nhân vô linh căn — Trường Xuân công tầng 4 (tự tu thất bại)", text: "Dư Tử Đồng tiết lộ: Mặc đại phu là phàm nhân KHÔNG có linh căn, không thể tu tiên thực thụ. Tự tu Trường Xuân công chỉ tới tầng 4 bằng pháp lực mượn/bí thuật. Đây là lý do hắn sa vào bẫy của Dư Tử Đồng — pháp lực không hơn Hàn Lập tầng 6-7 nên đoạt xá thất bại." }
         ],
         nhanMach: [
           { ten: "Hàn Lập", tag: "su-mon", quanHe: "Thân truyền đệ tử trên danh nghĩa; thực chất lợi dụng để phá giải" },
@@ -921,33 +942,42 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
     },
     {
       id: "than-bi-nhan",
-      name: "Thần bí nhân",
+      name: "Thiết Nô",
       cn: null,
-      aliases: ["Người lục bào"],
-      gioiTinh: "unknown",
+      aliases: ["Người lục bào", "Thần bí nhân"],
+      gioiTinh: "nam",
       theLuc: [],
-      canhGioiCaoNhat: "Không rõ",
-      trangThai: "song",
-      blurb: "Nhân vật bí ẩn mặc lục bào thùng thình, khăn đen che kín toàn thân không lộ da thịt, cao hơn Hàn Lập hai cái đầu, vóc to lớn rắn chắc. Do Mặc đại phu dẫn về Thần Thủ Cốc. Đứng bất động trước cửa phòng Mặc đại phu như câm điếc, thể lực kinh người, chưa một lần mở miệng. Hàn Lập phán đoán đây là sát thủ do Mặc đại phu huấn luyện thành con rối tuyệt đối phục tùng; bóng lưng người này khiến hắn có cảm giác quen thuộc nhưng không nhớ ra là ai.",
-      vaiTro: "Nhân vật bí ẩn đi theo Mặc đại phu — nghi là sát thủ",
-      tinhCach: [],
+      canhGioiCaoNhat: "Cao thủ võ lâm phàm trần — thân thể cứng như đá, sức mạnh dị thường",
+      trangThai: "vo-danh",
+      blurb: "Nô bộc tuyệt đối phục tùng của Mặc đại phu. Che kín toàn thân bằng lục bào khăn đen, thân hình khổng lồ cao hơn người thường hai cái đầu, thân thể cứng như đá — vũ khí tấn công đều bật ra không gây thương tích. Tên thật 'Thiết Nô' do Mặc đại phu gọi. Người bí ẩn lục bào c28-c44 và Thiết Nô c51-c55 là cùng một người — Hàn Lập nhận ra bóng lưng quen thuộc khi y ra tay.",
+      vaiTro: "Thủ hạ nô bộc Mặc đại phu — người thực thi lệnh trực tiếp",
+      tinhCach: [
+        { text: "Tuyệt đối phục tùng, không ý chí riêng — đứng bất động cả ngày như câm điếc; chỉ hành động khi Mặc đại phu ra lệnh", chuong: 34 },
+        { text: "Ra tay nhưng giữ chừng theo lệnh — Mặc đại phu dặn 'điểm nhẹ thôi' nên chỉ đánh văng thiết trùy và khống chế chứ không giết Hàn Lập", chuong: 51 }
+      ],
       tabs: {
         diem: [
-          { text: "Che kín toàn thân bằng lục bào thùng thình và khăn đen — không lộ chút da thịt nào; cảm giác dung mạo dữ tợn xấu xí", chuong: 28 },
-          { text: "Đứng bất động ngoài cửa phòng Mặc đại phu cả ngày dưới nắng, không mệt mỏi, như câm điếc bẩm sinh; thể lực kinh người", chuong: 34 }
+          { text: "Che kín toàn thân bằng lục bào thùng thình và khăn đen — không lộ chút da thịt nào; vóc người cao to bất thường, cảm giác dung mạo dữ tợn", chuong: 28 },
+          { text: "Thân thể cứng như đá — thiết trùy và vũ khí phàm nhân bật ra không gây thương tích", chuong: 51 },
+          { text: "Sức mạnh kinh người — khống chế hoàn toàn Hàn Lập chỉ bằng một tay, không cho hắn thoát được", chuong: 51 }
         ],
         kinhLich: [
-          { chuong: 28, importance: "normal", text: "Xuất hiện lần đầu: theo sau Mặc đại phu khi lão trở về Thần Thủ Cốc; đứng bất động phía sau ghế của Mặc đại phu, không nói gì." },
+          { chuong: 28, importance: "normal", text: "Xuất hiện lần đầu (dưới tên 'người lục bào'): theo sau Mặc đại phu khi lão trở về Thần Thủ Cốc; đứng bất động phía sau ghế của Mặc đại phu, không nói gì." },
           { chuong: 34, importance: "normal", text: "Hàn Lập quan sát từ xa thấy người này đứng bất động ngoài cửa phòng Mặc đại phu giữa trời nắng; Hàn Lập thử bắt chuyện nhưng hắn như khúc gỗ. Bóng lưng khiến Hàn Lập có cảm giác quen thuộc tựa hồ đã gặp ở đâu." },
-          { chuong: 44, importance: "minor", text: "Vẫn đứng vô thanh vô tức trong góc phòng Mặc đại phu như người chết khi Hàn Lập tới gặp lại; Hàn Lập phải cố ý để ý mới nhận ra sự tồn tại." }
+          { chuong: 44, importance: "minor", text: "Vẫn đứng vô thanh vô tức trong góc phòng Mặc đại phu như người chết khi Hàn Lập tới gặp lại; Hàn Lập phải cố ý để ý mới nhận ra sự tồn tại." },
+          { chuong: 51, importance: "normal", tieuDe: "Lộ tên — bắt Hàn Lập theo lệnh", text: "Được Mặc đại phu gọi tên 'Thiết Nô' lần đầu. Nhận lệnh bắt Hàn Lập; đánh văng thiết trùy của hắn rồi khống chế hoàn toàn — thân thể cứng như đá, thiết trùy bật ra không gây thương tích. Đánh gãy vai và đầu gối Hàn Lập nhưng cố ý 'điểm nhẹ' theo lệnh chủ." },
+          { chuong: 52, importance: "minor", text: "Tiếp tục khống chế Hàn Lập trong lúc Mặc đại phu thi triển Thất Quỷ Phệ Hồn đại pháp; không cho Hàn Lập thoát." },
+          { chuong: 53, importance: "minor", text: "Vẫn canh giữ Hàn Lập sau khi Mặc đại phu hồi phục tuổi trẻ thành mỹ nam tử." },
+          { chuong: 54, importance: "minor", text: "Canh giữ Hàn Lập khi Mặc đại phu dán Định Thần Phù." },
+          { chuong: 55, importance: "minor", text: "Mang Hàn Lập vào căn nhà đá kín. Bị Mặc đại phu cho ra ngoài canh cửa với lệnh 'giết không tha' bất kỳ ai cố đột nhập." }
         ],
         tuViMoc: [],
         nhanMach: [
-          { ten: "Mặc đại phu", tag: "dong-minh", quanHe: "Người huấn luyện và sai khiến; theo sát không rời" }
+          { ten: "Mặc đại phu", tag: "chu", quanHe: "Chủ nhân tuyệt đối sai khiến; Thiết Nô không bao giờ hành động ngược lệnh" }
         ],
         tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
       },
-      nguon: ["c0028", "c0029", "c0034", "c0044"]
+      nguon: ["c0028", "c0029", "c0034", "c0044", "c0051", "c0052", "c0053", "c0054", "c0055"]
     },
     {
       id: "co-thien-long",
@@ -1061,39 +1091,68 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
       id: "du-tu-dong",
       name: "Dư Tử Đồng",
       cn: null,
-      aliases: [],
+      aliases: ["Đệ tam nhân", "Nguyên thần ký sinh"],
       gioiTinh: "nam",
-      theLuc: [],
-      canhGioiCaoNhat: "Không rõ",
-      trangThai: "song",
-      blurb: "Thanh niên nam tử bí ẩn, giao tiếp với Mặc đại phu qua truyền âm trong đầu. Người cấp công pháp cho Mặc đại phu luyện. Rất sợ Mặc đại phu — chỉ dám cảnh báo một câu rồi im lặng khi bị khiển trách. Cảnh báo Mặc đại phu chớ coi thường Hàn Lập vì hắn tinh minh, không phải 'ngọn đèn sắp cạn dầu dễ thất bại'. Nghi có mưu đồ riêng vì công pháp đưa cho Mặc đại phu 'hình như có chỗ không ổn'.",
-      vaiTro: "Nhân vật bí ẩn — người cấp công pháp cho Mặc đại phu",
+      theLuc: ["Gia tộc tu tiên (không nêu tên)"],
+      canhGioiCaoNhat: "Tu tiên — Trường Xuân công tầng 7 (chưa Trúc Cơ; nay chỉ còn nguyên thần, mất pháp thân)",
+      trangThai: "tu-vong",
+      blurb: "Tu sĩ sơ cấp xuất thân gia tộc tu tiên. Tu Trường Xuân công tới tầng 7 nhưng tư chất có hạn, không đạt Trúc Cơ. Khi bị Mặc Cư Nhân hạ độc giết chết, lâm tử dùng 'huyết tiến âm hồn chú' phóng nguyên thần chui vào thân Mặc đại phu ký sinh — trở thành quỷ hồn trú ngụ suốt nhiều năm. Là KẺ CHỦ MƯU thật: cố ý giăng bẫy để Mặc đại phu và Hàn Lập đồng quy vu tận, hòng ngư ông đắc lợi đoạt xá Hàn Lập. Bị Hàn Lập phản sát: độc dịch phá nguyên thần + Ngọc Đái đoản kiếm chém tận diệt tại @c60.",
+      vaiTro: "Phản diện ngầm — kẻ chủ mưu vụ đoạt xá; nguyên thần ký sinh trong thân Mặc đại phu",
       tinhCach: [
-        { text: "Rất sợ Mặc đại phu, không dám tiếp lời sau khi bị khiển trách", chuong: 42 }
+        { text: "Giảo hoạt, xảo quyệt — đẩy hết tội lỗi cho Mặc đại phu (đã chết), tự xưng 'nạn nhân bất đắc dĩ' khi thật ra là kẻ chủ mưu", chuong: 58 },
+        { text: "Kiên nhẫn và tầm nhìn xa — ký sinh suốt nhiều năm, chịu đựng Mặc đại phu dùng Phệ Hồn đại pháp giam cầm, chờ thời cơ đoạt xá", chuong: 59 },
+        { text: "Biết xuống nước khi thế yếu — tha mạng Hàn Lập, hứa hẹn 'hợp tác', mời làm đồ đệ gia tộc tu tiên; thật ra muốn hắn hạ cảnh giác", chuong: 59 },
+        { text: "Dụ dỗ bằng viễn cảnh tu tiên bất tử — chiêu quen dùng với cả Mặc đại phu lẫn Hàn Lập", chuong: 60 }
       ],
       tabs: {
         diem: [
-          { text: "Giao tiếp với Mặc đại phu qua truyền âm trong đầu (không phải gặp mặt trực tiếp)", chuong: 42 },
-          { text: "Đã thử công pháp qua động vật — có con vật chết; giải thích có thể do Mặc đại phu chưa quen công pháp", chuong: 42 }
+          { text: "Trước khi chết dùng 'huyết tiến âm hồn chú' — hóa máu huyết thành huyết chú phún lên đầu Mặc đại phu; nguyên thần xuất khiếu, chui vào thân Mặc đại phu vì không có pháp khí dung thân", chuong: 58 },
+          { text: "Ký sinh trong thân Mặc đại phu suốt nhiều năm, chịu bị Phệ Hồn đại pháp giam cầm khống chế, từng đòi về gia tộc xin cứu nhưng bị từ chối", chuong: 59 },
+          { text: "Chủ mưu thật: cố ý truyền công pháp sai lệch cho Mặc đại phu, dẫn dắt hắn nhắm vào Hàn Lập — mục đích thật là để cả hai đồng quy vu tận, mình đoạt xá Hàn Lập", chuong: 59 },
+          { text: "Nay chỉ còn nguyên thần (quang cầu lục quang), mất pháp thân; nguyên khí đại thương sau cuộc đoạt xá thất bại với Hàn Lập; pháp lực hao mòn dần vì không thân thể bổ sung", chuong: 59 }
         ],
         kinhLich: [
-          { chuong: 42, importance: "normal", text: "Cảnh báo Mặc đại phu qua truyền âm: Hàn Lập tinh minh, không dễ thất bại. Bị Mặc đại phu khiển trách nghi ngờ công pháp 'có chỗ không ổn'; vội giải thích rồi không dám tiếp lời." }
+          { chuong: 42, importance: "normal", text: "Cảnh báo Mặc đại phu qua truyền âm: Hàn Lập tinh minh, không dễ thất bại. Bị Mặc đại phu khiển trách nghi ngờ công pháp 'có chỗ không ổn'; vội giải thích rồi không dám tiếp lời. Bộ mặt thật lúc này còn ẩn." },
+          { chuong: 55, importance: "normal", tieuDe: "Lộ diện 'đệ tam nhân'", text: "Tiếng nói 'đệ tam nhân' lần đầu lộ diện — cất tiếng trong căn nhà đá khiến cả Mặc đại phu lẫn Hàn Lập đều nghe thấy. Ép Mặc đại phu thề độc về việc hợp tác — vì nghi lão ôm hận muốn trở mặt sau khi đoạt xá xong." },
+          { chuong: 56, importance: "normal", tieuDe: "Giải thích Thất Quỷ Phệ Hồn đại pháp", text: "Tham gia vào nghi thức đoạt xá bên phía Mặc đại phu; hiện diện như quỷ hồn ẩn trong không gian. Giải thích nguyên lý Thất Quỷ Phệ Hồn đại pháp và cơ chế đoạt xá cho Hàn Lập nghe (lúc Hàn Lập đang bất tỉnh — về sau Hàn Lập nhớ lại)." },
+          { chuong: 57, importance: "major", tieuDe: "Lộ danh tính — đoạt xá thất bại", text: "Đoạt xá thất bại; nguyên thần bị nguyên thần Hàn Lập đánh đuổi, chỉ còn 1/3, trốn vào góc nhà đá. Hàn Lập gọi đúng tên 'Dư Tử Đồng' — thừa nhận thân phận và bắt đầu khai báo. Chính thức lộ diện là nhân vật thứ ba ẩn phía sau vụ đoạt xá." },
+          { chuong: 58, importance: "normal", tieuDe: "Tự khai lai lịch — chiêu tìm đồng cảm", text: "Kể trọn bộ lai lịch: gia tộc tu tiên, tu Trường Xuân công tầng 7, không đạt Trúc Cơ, lang thang thế tục, mua Huyết linh thảo, bị truy sát, dùng Bảo mệnh phù chạy thoát, gặp Mặc đại phu bị hại, lâm tử dùng huyết tiến âm hồn chú cứu nguyên thần. Đẩy hết tội cho Mặc đại phu, tự nhận là nạn nhân bất đắc dĩ." },
+          { chuong: 59, importance: "major", tieuDe: "Tự thú chủ mưu — đề nghị hợp tác", text: "Bị Hàn Lập vạch trần toàn bộ: thực ra là kẻ chủ mưu, cố ý giăng bẫy. Thừa nhận là chủ mưu nhưng biện minh 'không có lựa chọn khác'. Tiết lộ tam đại thiết tắc của đoạt xá. Ở thế yếu, xuống nước đề nghị hợp tác: hứa dẫn Hàn Lập gặp trưởng lão gia tộc thu làm đồ đệ tu tiên chân chính." },
+          { chuong: 60, importance: "major", tieuDe: "BỊ DIỆT — Hàn Lập phản sát", text: "Bị Hàn Lập dùng mưu vờ đồng ý hợp tác để câu giờ; lúc mất cảnh giác bị phun độc dịch trúng nguyên thần — quang cầu ảm đạm, thụ thương nặng, kêu thảm. Tiếp theo bị Ngọc Đái đoản kiếm chém xuống. Nguyên thần bị tiêu diệt tận gốc." }
         ],
-        tuViMoc: [],
+        tuViMoc: [
+          { chuong: 58, canhGioi: "Tu tiên — Trường Xuân công tầng 7 (không đạt Trúc Cơ)", text: "Tự khai: tu Trường Xuân công tới tầng 7 nhưng tư chất có hạn, hỏa hầu không đủ để đột phá Trúc Cơ. Rời gia tộc xuống thế tục tìm dược liệu/nâng tâm cảnh, cuối cùng sa vào vinh hoa phai nhạt tâm tu.", importance: "major" },
+          { chuong: 59, canhGioi: "Nguyên thần tàn — 1/3 còn lại, nguyên khí đại thương", text: "Sau cuộc đoạt xá thất bại với Hàn Lập: chỉ còn 1/3 nguyên thần, nguyên khí đại thương, pháp lực hao mòn dần. Dư Tử Đồng xác nhận cao hơn Hàn Lập 1 tầng (tầng 7 vs tầng 6-7 của Hàn Lập), nhưng ở trạng thái đại thương không thể địch lại." }
+        ],
         nhanMach: [
-          { ten: "Mặc đại phu", tag: "dong-minh", quanHe: "Người được hắn cấp công pháp; hắn rất sợ lão" }
+          { ten: "Mặc đại phu (Mặc Cư Nhân)", tag: "cuu-thu", quanHe: "Kẻ hạ độc giết hắn năm xưa; hắn ký sinh vào thân Mặc đại phu suốt nhiều năm, thống hận nhưng bất lực trước Phệ Hồn đại pháp" },
+          { ten: "Hàn Lập", tag: "ke-thu", quanHe: "Mục tiêu đoạt xá; bị Hàn Lập phản sát tại c60" }
         ],
-        tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
+        tuiDo: {
+          phapBao: [],
+          danDuoc: [
+            { ten: "Huyết linh thảo (đã mất)", loai: "dược liệu", trangThai: "bị cướp", moTa: "Dược liệu hiếm mua được ở dược điếm; bị Mặc đại phu cướp sau khi giết hắn.", nguon: ["c0058"] },
+            { ten: "Dược hoàn (đã mất)", loai: "đan dược không rõ loại", trangThai: "bị cướp", moTa: "Đan dược trên thi thể Dư Tử Đồng; Mặc đại phu cướp uống vào, khôi phục công lực.", nguon: ["c0058"] }
+          ],
+          congPhap: [
+            { ten: "Trường Xuân công (tầng 7)", loai: "công pháp tu tiên", trangThai: "đã tu", moTa: "Tu tới tầng 7, không đột phá Trúc Cơ được vì tư chất hạn.", nguon: ["c0058"] },
+            { ten: "Huyết tiến âm hồn chú", loai: "bí thuật lâm tử", trangThai: "đã dùng @c58", moTa: "Bí thuật dùng khi lâm tử: hóa máu huyết thành huyết chú phún lên đầu đối phương; nguyên thần xuất khiếu thoát ra trước khi thân xác chết.", nguon: ["c0058"] }
+          ],
+          linhThu: [], nguyenLieu: [], linhThao: [],
+          khac: [
+            { ten: "Bảo mệnh phù (đã dùng)", loai: "phù lục gia tộc", trangThai: "đã tiêu hao", moTa: "Bí pháp gia tộc tu tiên: kích hoạt gây hiệu ứng 'đồng quy vu tận' với đối thủ — dùng để dọa lui tu sĩ truy sát.", nguon: ["c0058"] }
+          ]
+        }
       },
-      uuTien: 4,
-      nguon: ["c0042"]
+      uuTien: 3,
+      nguon: ["c0042", "c0055", "c0056", "c0057", "c0058", "c0059", "c0060"]
     }
   ]
 };
 
 window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
   updatedAt: "2026-06-10",
-  count: 14,
+  count: 19,
   artifacts: [
     {
       id: "binh-than-bi",
@@ -1276,13 +1335,78 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
       blurb: "Hơn mười sợi dây thừng có kết nút, thả từ đỉnh sơn nhai xuống để thí sinh đu leo trong trắc thí nhập môn Thất Huyền môn.",
       detail: "Bố trí tại đỉnh sơn nhai Luyện Cốt Nhai; mỗi thí sinh một sợi riêng, leo lên đỉnh trước chính ngọ là điều kiện thành đệ tử chính thức.",
       nguon: ["c0004"]
+    },
+    {
+      id: "dinh-than-phu",
+      name: "Định Thần Phù",
+      cn: null,
+      category: "khac",
+      categoryLabel: "Phù lục",
+      phamCap: "Phù lục tu tiên sơ cấp",
+      soHuu: ["Mặc đại phu (đã dùng → tiêu tan)"],
+      trangThai: "tiêu tan — biến thành tro bụi sau khi đoạt xá thất bại",
+      blurb: "Phù lục tu tiên do Dư Tử Đồng truyền cho Mặc đại phu. Dán lên gáy mục tiêu sẽ khống chế hoàn toàn thân thể người đó nhưng giữ nguyên ý thức/ngũ quan. Mặc đại phu dùng để chuẩn bị đoạt xá Hàn Lập; tự tan thành tro sau khi nghi thức thất bại.",
+      detail: "Hình thức: phù lục nhỏ, dán lên gáy mục tiêu. Hiệu quả: mục tiêu mất hoàn toàn quyền khống chế cơ thể nhưng vẫn nghe nhìn được. Kỳ lạ: khi Hàn Lập nhìn ký hiệu trên phù, Trường Xuân công trong người tự kích động — dấu hiệu linh căn phản ứng với phù lục. Kết cục: biến thành tro bụi khi đoạt xá thất bại tại c57.",
+      nguon: ["c0054", "c0057"]
+    },
+    {
+      id: "ngan-nhan-quy-dau-dao",
+      name: "Ngân nhận / Dao cán quỷ đầu",
+      cn: null,
+      category: "phap-bao",
+      categoryLabel: "Dụng cụ bí thuật",
+      phamCap: "Chưa xác định",
+      soHuu: ["Mặc đại phu → Dư Tử Đồng (truyền)"],
+      trangThai: "không rõ sau khi Mặc đại phu chết",
+      blurb: "Hai loại dụng cụ dùng trong bí thuật Thất Quỷ Phệ Hồn đại pháp. Ngân nhận là hộp gỗ chứa vật phẩm Mặc đại phu lấy từ Hàn Lập; bảy dao nhọn cán hình đầu quỷ cắm vào người thi thuật để dẫn quỷ vụ.",
+      detail: "Ngân nhận (hộp gỗ ngân nhận): hộp dụng cụ bí thuật Mặc đại phu mang theo; dùng để chứa hộ tâm kính lấy từ Hàn Lập (dụng cụ neo linh hồn/thân phận). Bảy dao nhọn cán quỷ đầu: Mặc đại phu tự cắm vào hai vai, hai chân, bụng và ngực khi phát động Thất Quỷ Phệ Hồn đại pháp; tạo quỷ vụ xúc tu màu đen bao phủ thi thuật. Do Dư Tử Đồng truyền lại.",
+      nguon: ["c0051", "c0052"]
+    },
+    {
+      id: "huyet-linh-thao",
+      name: "Huyết linh thảo",
+      cn: null,
+      category: "nguyen-lieu",
+      categoryLabel: "Nguyên liệu tu tiên",
+      phamCap: "Hiếm — dược liệu tu tiên",
+      soHuu: ["Dư Tử Đồng (mua được → bị cướp)"],
+      trangThai: "bị Mặc đại phu cướp (đã mất)",
+      blurb: "Dược liệu tu tiên hiếm Dư Tử Đồng mua được tại dược điếm khi lang thang thế tục. Chính vì tranh chấp dược liệu này mà Dư Tử Đồng bị tu sĩ khác truy sát, rồi sa vào tay Mặc đại phu bị hạ độc giết hại.",
+      detail: "Lai lịch: Dư Tử Đồng rời gia tộc tu tiên xuống thế tục, ngẫu nhiên tìm được Huyết linh thảo tại một dược điếm. Tranh chấp với một tu sĩ khác (pháp lực cao hơn một bậc) — bị truy sát, hộc máu trọng thương. Dùng Bảo mệnh phù dọa lui đối thủ, chạy thoát nhưng trọng thương, lạc vào tay Mặc đại phu. Mặc đại phu cướp dược liệu trên thi thể Dư Tử Đồng để uống vào khôi phục công lực.",
+      nguon: ["c0058"]
+    },
+    {
+      id: "hong-du-hoa",
+      name: "Hồng du hoa",
+      cn: null,
+      category: "nguyen-lieu",
+      categoryLabel: "Nguyên liệu dược thảo",
+      phamCap: "Chưa xác định",
+      soHuu: ["Không rõ"],
+      trangThai: "được nhắc đến trong nguyên tác",
+      blurb: "Dược thảo được nhắc đến trong phạm vi đợt 06. Chi tiết cụ thể về công dụng và lai lịch chưa được nguyên tác khai triển đầy đủ tại giai đoạn này.",
+      detail: "Xuất hiện trong context các chương 51-60 liên quan đến dược liệu tu tiên. Thông tin bổ sung sẽ được cập nhật khi nguyên tác khai triển thêm.",
+      nguon: ["c0051"]
+    },
+    {
+      id: "bao-menh-phu",
+      name: "Bảo mệnh phù",
+      cn: null,
+      category: "khac",
+      categoryLabel: "Phù lục gia tộc",
+      phamCap: "Bí pháp gia tộc tu tiên",
+      soHuu: ["Dư Tử Đồng (đã dùng → tiêu hao)"],
+      trangThai: "đã tiêu hao tại c58",
+      blurb: "Bí pháp gia tộc tu tiên Dư Tử Đồng mang theo. Khi kích hoạt tạo ra cơ chế 'đồng quy vu tận' — nếu đối thủ tiếp tục tấn công thì cả hai cùng chết. Dùng như đòn uy hiếp cuối cùng để dọa lui tu sĩ truy sát sau vụ tranh chấp Huyết linh thảo.",
+      detail: "Cơ chế: kích hoạt đồng quy vu tận — đối thủ biết nếu ra tay giết Dư Tử Đồng thì cả hai sẽ chết theo. Tu sĩ truy sát biết danh tiếng bảo mệnh phù gia tộc nên rút lui. Kết quả: Dư Tử Đồng thoát chết nhưng vẫn trọng thương, tiếp tục chạy trốn. Phù đã tiêu hao sau lần dùng đó.",
+      nguon: ["c0058"]
     }
   ]
 };
 
 window.LIB_DATA["pham-nhan-tu-tien"].techniques = {
   updatedAt: "2026-06-10",
-  count: 14,
+  count: 16,
   techniques: [
     {
       id: "vo-danh-khau-quyet",
@@ -1465,6 +1589,32 @@ window.LIB_DATA["pham-nhan-tu-tien"].techniques = {
       blurb: "Tuyệt kỹ thành danh của Mặc đại phu. Vận khởi thì sát khí trùng thiên, hai tay bành trướng chuyển từ màu vàng sang trắng bạc, cứng chắc kiên bất khả tồi như luyện từ bạc thật — đao thương bất nhập, bắt được lưỡi kiếm sắc bén trực tiếp. Chiêu thức đa dạng: cự chưởng áp đỉnh, trảo bắt gân, hóa hai tay thành màn chắn bạc dày đặc.",
       detail: "Khi thi triển, sát khí tràn ngập không gian bức lui đối thủ. Cụ thể trong trận với Hàn Lập: búng ngón tay khiến hổ khẩu Hàn Lập nóng ran, đoản kiếm văng cắm sâu vào tường; bắt khóa mũi kiếm đoản trực tiếp trong trận Sáo Trung Sáo mà không bị thương. Chiêu 'Phách không chưởng' và 'Chỉ xích thiên nhai' là các thủ pháp bổ trợ Mặc đại phu dùng kết hợp với Ma Ngân Thủ.",
       nguon: ["c0047", "c0049"]
+    },
+    {
+      id: "that-quy-phe-hon-dai-phap",
+      name: "Thất Quỷ Phệ Hồn đại pháp",
+      cn: null,
+      loai: "bi-thuat",
+      loaiLabel: "Bí thuật tà đạo",
+      phamCap: "Bí thuật cấp cao (nguồn gốc tu tiên)",
+      hePhai: "Tà đạo — do Dư Tử Đồng truyền cho Mặc đại phu",
+      soHuu: ["Mặc đại phu (đã dùng, nay đã chết)", "Dư Tử Đồng (kẻ truyền thuật)"],
+      blurb: "Bí thuật tà đạo cực kỳ uy lực do Dư Tử Đồng truyền cho Mặc đại phu. Thi thuật bằng cách tự cắm bảy dao nhọn cán hình đầu quỷ vào thân; tạo ra quỷ vụ đen đặc bao phủ, xúc tu hút linh/hồn kẻ khác. Dùng để hồi phục tuổi trẻ cho Mặc đại phu và chuẩn bị tiến hành đoạt xá.",
+      detail: "Nghi thức: cắm bảy dao nhọn vào hai vai, hai chân, bụng và ngực; nhập định kết ấn hoa sen, niệm chú. Kết quả: mặt thi thuật giả nổi quỷ vụ đen đặc tạo xúc tu, rút sạch âm khí/quỷ khí từ môi trường; bảy đầu quỷ trên dao hút lấy quỷ vụ. Sau khi hoàn thành: Mặc đại phu hồi phục tuổi trẻ từ lão già 70+ thành mỹ nam tử ~30 tuổi. Thực chất là bước chuẩn bị năng lượng cho nghi thức đoạt xá tiếp theo. Nguồn gốc và toàn bộ công năng do Dư Tử Đồng truyền — đây là một trong những bí thuật Dư Tử Đồng dùng để lợi dụng Mặc đại phu.",
+      nguon: ["c0052", "c0053"]
+    },
+    {
+      id: "huyet-tien-am-hon-chu",
+      name: "Huyết tiến âm hồn chú",
+      cn: null,
+      loai: "bi-thuat",
+      loaiLabel: "Bí thuật lâm tử",
+      phamCap: "Bí thuật gia tộc tu tiên (cấp độ thoát sinh)",
+      hePhai: "Gia tộc tu tiên Dư Tử Đồng",
+      soHuu: ["Dư Tử Đồng (đã dùng)"],
+      blurb: "Bí thuật lâm tử của Dư Tử Đồng. Khi gần chết, hóa máu huyết thành huyết chú phún lên đầu đối phương; nguyên thần thoát ra khỏi thân xác trước khi thân xác tắt thở, chui vào cơ thể đối phương để tránh tiêu vong. Dư Tử Đồng dùng kỹ thuật này để ký sinh vào thân Mặc đại phu sau khi bị hắn đầu độc.",
+      detail: "Cơ chế: lâm tử kích hoạt — máu huyết hóa thành huyết chú phún lên đầu đối phương (Mặc đại phu); nguyên thần Dư Tử Đồng xuất khiếu, không có pháp khí dung thân nên chui thẳng vào thân thể Mặc đại phu. Hệ quả: trạng thái nguyên thần ký sinh, chịu sự khống chế của Mặc đại phu, nhưng vẫn giữ được ý thức và mưu đồ riêng. Mặc đại phu dần già nhanh do 'huyết tiến âm hồn chú' của Dư Tử Đồng tàn dư trên thân lão.",
+      nguon: ["c0058", "c0059"]
     }
   ]
 };
@@ -1992,6 +2142,56 @@ window.LIB_DATA["pham-nhan-tu-tien"].cotTruyen = {
       chuong: 50,
       tieuDe: "Triền Hương Ti",
       tomTat: "Mặc đại phu hồi tưởng và kinh hãi nhận ra: Hàn Lập đã bố trí 'liên hoàn sáo' từ đầu — từ việc không cho đóng cửa đến phản xạ ánh sáng mặt trời, tất cả nằm trong tính toán. Lão coi hắn như thần đồng chuyển thế. Cả hai rơi vào thế giằng co, không ai dám ra tay trước. Hàn Lập vờ đề nghị giảng hòa, thả thiết trùy xuống chân — nhưng đây là bước cuối của kế hoạch. Hàn Lập tiết lộ: tiêm trùy đã bôi Triền Hương Ti — độc dược từ từ nhập cốt, cách phối chế học lén từ tờ phương thuốc Mặc đại phu chép rồi kẹp trong dược thư bỏ quên. Mặc đại phu biến sắc cả kinh — nhận ra mình bị hạ bằng chính sơ suất của mình. Tánh mạng lão nay nằm trong tay Hàn Lập."
+    },
+    {
+      chuong: 51,
+      tieuDe: "Cự Hán Hiển Uy",
+      tomTat: "Kế hoạch của Hàn Lập sụp đổ hoàn toàn: Mặc đại phu không hề sợ Triền Hương Ti — lão đã có chỗ dựa bí mật. Lệnh một người tên Thiết Nô lao ra bắt Hàn Lập với tốc độ như chớp. Hàn Lập dùng thiết trùy đâm vào bụng Thiết Nô — nhưng như đâm vào đá; binh khí bật văng, cổ tay tê dại. Thiết Nô bóp chặt hai vai Hàn Lập như muốn nghiền nát xương; Hàn Lập đầu gối đá vào hạ bộ nhưng chỗ đó cũng cứng như sắt đá — đầu gối gần vỡ. Bị khống chế hoàn toàn, gần ngất. Mặc đại phu ra lệnh 'điểm nhẹ thôi' vì Hàn Lập còn 'đại dụng' — Hàn Lập lập tức hiểu: điểm 'đại dụng' này là chỗ để mặc cả thoát thân. Mặc đại phu lấy hộ tâm kính từ ngực Hàn Lập (giải thích sao trước kia điểm huyệt không được), rồi mở hộp gỗ ngân nhận — mấy thanh dao cổ quái cán hình đầu quỷ — ánh mắt tà ác nhìn Hàn Lập như sắp ra tay."
+    },
+    {
+      chuong: 52,
+      tieuDe: "Thất Quỷ Phệ Hồn",
+      tomTat: "Mặc đại phu cầm dao nhọn cán đầu quỷ bổ chậm rãi xuống người Hàn Lập — nhưng cắm thẳng vào vai mình, không chảy một giọt máu. Không phải trừng phạt mà là chuẩn bị bí thuật. Lần lượt cắm tổng cộng bảy thanh dao vào hai vai, hai chân, bụng, ngực — nhìn như bị loạn đao phân thây mà bình thản. Nhập định, kết ấn hoa sen, môi niệm chú; mặt nổi quỷ vụ đen đặc hơn một năm trước nhiều lần, sinh ra xúc tu sáng đen nhảy múa. Khi hắc vụ dày nhất, Mặc đại phu mở to mắt hét tên bí thuật: 'Thất Quỷ Phệ Hồn đại pháp!' — lần đầu cái tên đáng sợ này được xướng lên. Thiết Nô tiếp tục áp đầu vai Hàn Lập, khóa chặt mọi cơ hội thoát thân."
+    },
+    {
+      chuong: 53,
+      tieuDe: "Mỹ Nam Tử",
+      tomTat: "Thất Quỷ Phệ Hồn đại pháp hoàn thành: bảy đầu quỷ trên dao trợn mắt đỏ như máu, há miệng hớp sạch quỷ vụ đen trên mặt Mặc đại phu. Khi lớp hắc tuyến biến mất hoàn toàn, hiện ra một mỹ nam tử khoảng ba mươi tuổi — chính là Mặc đại phu trẻ lại hàng chục tuổi, mị lực tràn trề. Sự thật được xác nhận: lão không hề nói dối — vốn ngoài ba mươi, bị tà ma quỷ đói hút tinh nguyên trong lúc trị thương nên lão hóa cực độ. Nhưng mặc dù đã hồi phục, lão vẫn chưa thả Hàn Lập. Hàn Lập tỉnh táo nhận ra điều này và giả ngốc thử dò: 'Người đã khỏi rồi, có thể tha đệ tử?' — chương kết ở cái câu thăm dò đó, không có câu trả lời."
+    },
+    {
+      chuong: 54,
+      tieuDe: "Định Thần Phù",
+      tomTat: "Mặc đại phu lộ thẳng ý định: 'Thân thể này, ta phải tiếp thu' — ý đồ cướp đoạt xác Hàn Lập không còn che giấu. Lão lấy ra tờ giấy vàng cũ kỹ đựng trong túi lụa đỏ như lửa; mặt trước vẽ ký hiệu bằng sơn bạc — kỳ lạ: Trường Xuân công trong người Hàn Lập tự kích động khi nhìn vào ký hiệu đó. Hàn Lập giãy dụa nhưng Thiết Nô đè chặt bằng hai bàn tay to như núi. Mặc đại phu niệm chú, các ký hiệu bạc lần lượt phóng sáng, hô một chữ 'Định' như sấm nổ rồi áp phù lên ót Hàn Lập. Lập tức Hàn Lập mất hoàn toàn quyền điều khiển thân thể — không nháy mắt được, thân như cái xác — nhưng ý thức và ngũ quan vẫn còn. Mặc đại phu thong thả: 'Thân thể ngươi còn có thể giữ lại chốc lát nữa.'"
+    },
+    {
+      chuong: 55,
+      tieuDe: "Đệ Tam Nhân",
+      tomTat: "Hàn Lập bị mang vào một căn nhà đá kín mít mới xây, thắp đầy đèn nến, giữa nhà vẽ một đồ án khảm ngọc thạch xanh phương viên mấy trượng — đây là trận đồ tiến hành nghi thức đoạt xá. Mặc đại phu đặt Hàn Lập nằm ngửa giữa trận, sai Thiết Nô canh ngoài: 'Ai tới gần thì giết không tha.' Đúng lúc căng thẳng, một giọng nói bí ẩn của nam tử trẻ cất lên trong phòng — không phải ai bước vào, mà là âm thanh từ một nguyên thần/quỷ hồn vô hình: đây là 'đệ tam nhân' không có thân xác, chỉ còn nguyên thần, chính là kẻ đã truyền cho Mặc đại phu toàn bộ bí thuật (Thất Quỷ Phệ Hồn đại pháp, Định Thần Phù). Mặc đại phu đa nghi, ép đệ tam nhân thề độc bằng tổ tiên và toàn tộc mới chịu tiến hành. Đệ tam nhân tức giận nhưng thề, sau đó Mặc đại phu tắt dần đèn chuẩn bị khởi sự."
+    },
+    {
+      chuong: 56,
+      tieuDe: "Quang Cầu Chi Chiến",
+      tomTat: "Dư Tử Đồng (tên đệ tam nhân) phát lời thề độc đầy đủ, thuyết phục Mặc đại phu ra tay: 'Ông không có linh căn, không thể tu tiên — nếu đoạt xá thành công sẽ có thân xác linh căn, thoát sinh lão bệnh tử.' Mặc đại phu quyết tâm, cắm kim châm vào bí huyệt tăng tinh lực, bắn hồng quang vào trận đồ, niệm chú ngữ thôi miên Hàn Lập. Ý thức Hàn Lập mờ dần rồi hôn mê — trong cơn mê, hắn hóa thành quang cầu xanh biếc lớn bằng nắm tay, sáng chói. Lần lượt hai quang cầu địch xâm nhập: quang cầu vàng nhỏ bằng ngón cái — Hàn Lập nuốt gọn không khó; quang cầu xanh to hơn nhưng ánh sáng ảm đạm — kinh hãi do dự, mỗi lần bị bắt lại tự cắt bỏ một phần để chạy, cuối cùng chỉ còn 1/3. Hàn Lập độc chiếm 'lãnh địa', thắng hai trận — nguyên thần hắn mạnh dị thường, vượt xa dự liệu của kẻ đoạt xá."
+    },
+    {
+      chuong: 57,
+      tieuDe: "Thân Tỉnh Địch Vong",
+      tomTat: "Hàn Lập tỉnh dậy, đầu đau nặng, toàn thân mềm nhũn — nhưng thân thể lại lần nữa hoàn toàn là của hắn. Đoạt xá thất bại. Quay sang nhìn Mặc đại phu: lão đã chết — hóa lão tột độ, tóc bạc, khô gầy tiều tụy già hơn mười tuổi, hai mắt trợn tròn hoảng sợ đông cứng. Hàn Lập cẩn thận kiểm tra mạch + hơi thở — xác nhận đại địch gian xảo đã chết 'vô thanh vô tức'. Định Thần Phù đã tan thành tro bụi trên gáy. Hàn Lập còn phát hiện một quang cầu xanh biếc nhỏ — tàn dư nguyên thần Dư Tử Đồng — đang lập lòe run rẩy trong góc tối của nhà đá, sợ hãi né tránh ánh mắt. Hàn Lập bước lại, gọi đúng tên: 'Dư Tử Đồng.' Quang cầu giật mình thừa nhận. Hàn Lập lạnh lùng yêu cầu: khai đầy đủ ngươi là ai, mối quan hệ với Mặc đại phu, và kế hoạch của bọn ngươi."
+    },
+    {
+      chuong: 58,
+      tieuDe: "Toàn bộ chân tướng",
+      tomTat: "Dư Tử Đồng (nguyên thần) kể trọn lai lịch trước mặt Hàn Lập: xuất thân gia tộc tu tiên, tu Trường Xuân công tới tầng 7 nhưng không đạt Trúc Cơ; rời gia tộc lang thang thế tục, mua Huyết linh thảo hiếm rồi bị tu sĩ mạnh hơn truy sát; dùng Bảo mệnh phù của gia tộc dọa lui đối thủ, nhưng trọng thương. Tình cờ gặp Mặc đại phu — bị lão lén hạ độc giết hại để cướp dược liệu. Lâm tử dùng 'huyết tiến âm hồn chú' phóng nguyên thần chui vào thân Mặc đại phu tránh tiêu vong — ký sinh từ đó. Chân tướng thực sự về Mặc đại phu: không phải kỳ thư thần bí mà nhờ cướp dược hoàn trên thi thể Dư Tử Đồng mà công lực khôi phục. Hàn Lập nghe xong, không tin hoàn toàn nhưng tự suy ra bảy tám phần: Dư Tử Đồng tự nhận là nạn nhân nhưng mưu đồ vẫn còn ẩn."
+    },
+    {
+      chuong: 59,
+      tieuDe: "Tam Đại Thiết Tắc",
+      tomTat: "Hàn Lập tỉnh táo vạch trần toàn bộ: Dư Tử Đồng chính là kẻ chủ mưu, cố ý giăng bẫy để Mặc đại phu và Hàn Lập đồng quy vu tận — mình ngư ông đắc lợi đoạt xá Hàn Lập. Dư Tử Đồng thừa nhận nhưng biện minh không có lựa chọn khác. Bí mật đoạt xá được tiết lộ: ba quy tắc sắt của tu tiên giới — chỉ tu sĩ pháp lực CAO đoạt được kẻ pháp lực THẤP; không đoạt xá phàm nhân; mỗi người chỉ đoạt xá được một lần trong đời. Bí quyết cuối đặc biệt quan trọng: Trường Xuân công tầng 6 của Hàn Lập cao hơn dự tính của Mặc đại phu (lão tầng 4, Dư Tử Đồng tầng 7) — đủ để phản chiếm. Dư Tử Đồng thấy mình ở thế yếu, xuống nước đề nghị hợp tác: hứa đưa Hàn Lập gặp trưởng lão gia tộc tu tiên thu làm đồ đệ, đổi lại Hàn Lập giúp tìm thân thể cho hắn đoạt xá."
+    },
+    {
+      chuong: 60,
+      tieuDe: "Thí Độc",
+      tomTat: "Hàn Lập vờ cân nhắc đề nghị hợp tác, đòi Dư Tử Đồng giải thích nghi vấn về bản nguyên chi lực và ký ức bị nhồi vào đầu sau vụ thôn phệ nguyên thần. Dư Tử Đồng tự tin trả lời tất cả — vì chiêu 'hứa đắc đạo thành tiên vĩnh sinh bất tử' này đã từng mê hoặc được cả Mặc đại phu. Sau khi moi đủ thông tin, Hàn Lập ra tay không do dự: phun độc dịch đen quánh từ ống đồng giấu sẵn trúng thẳng vào quang cầu lục quang — nguyên thần Dư Tử Đồng ảm đạm, thụ thương nặng, kêu thảm. Hàn Lập lập tức rút Ngọc Đái đoản kiếm — nhuyễn kiếm rèn bằng trọng kim, thanh kiếm đắt nhất hắn có, lần đầu được dùng — chém thẳng xuống quang cầu. Kẻ chủ mưu sau hàng chục năm mưu đồ bị chính con mồi phản sát bằng đúng thứ hắn không ngờ tới nhất: trọng kim và độc."
     }
   ]
 };
