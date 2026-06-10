@@ -179,9 +179,7 @@
     fVol.innerHTML = vols.map(v => '<option value="' + v.value + '">' + esc(v.label) + " · " + esc(v.range || "") + '</option>').join("");
     async function renderVol() {
       const v = vols.find(x => x.value === fVol.value) || vols[0];
-      $("#ctVolInfo").innerHTML = '<div class="card" style="cursor:default;margin-bottom:14px"><h3>' + esc(v.label) + " — " + esc(v.title || "") +
-        '</h3><div class="blurb">' + esc(v.summary || "") + '</div>' +
-        (v.milestones && v.milestones.length ? '<div class="meta-row">' + v.milestones.map(m => '<span class="chip gold">' + esc(m) + '</span>').join("") + '</div>' : "") + '</div>';
+      $("#ctVolInfo").innerHTML = "";   // bỏ ô tóm tắt quyển — vào thẳng danh sách chương
       const data = await loadCotTruyen(v.value);
       fCh.innerHTML = '<option value="">— Tất cả —</option>' + data.map(c => '<option value="' + c.chuong + '">Ch.' + c.chuong + (c.tieuDe ? " · " + esc(c.tieuDe) : "") + '</option>').join("");
       drawCt(data);
@@ -296,7 +294,7 @@
       '<div class="prose" style="margin-bottom:10px">' + esc(c.blurb || "") + '</div>';
     const tabsBar = '<div class="tabs">' + tabs.map((t2, i) => '<button data-t="' + i + '"' + (i === 0 ? ' class="active"' : '') + '>' + t2[0] + '</button>').join("") + '</div>';
     const panes = tabs.map((t2, i) => '<div class="tab-pane' + (i === 0 ? ' active' : '') + '" data-p="' + i + '">' + t2[1] + '</div>').join("");
-    openDrawer(c.name, c.cn, head + tabsBar + panes + (c.nguon && c.nguon.length ? '<div style="margin-top:14px"><div class="chip">Neo nguồn</div>' + neoChips(c.nguon) + '</div>' : ''));
+    openDrawer(c.name, c.cn, head + tabsBar + panes);   // bỏ "Neo nguồn" cuối thẻ — neo đã gắn inline trong từng mục (dữ liệu nội bộ)
     $("#dBody").querySelectorAll(".tabs button").forEach(b => b.onclick = () => {
       $("#dBody").querySelectorAll(".tabs button").forEach(x => x.classList.remove("active"));
       $("#dBody").querySelectorAll(".tab-pane").forEach(x => x.classList.remove("active"));
