@@ -1,3 +1,4 @@
+/* sync-bump 2026-06-11T00:32Z — sort nhân mạch/túi đồ theo thời gian + dedup chéo tab */
 /* ===================== Thư Viện Tiên Hiệp — app trang bộ ===================== */
 (function () {
   "use strict";
