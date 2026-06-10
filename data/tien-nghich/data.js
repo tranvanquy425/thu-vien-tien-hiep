@@ -177,7 +177,10 @@ window.LIB_DATA["tien-nghich"].linhLuc = {
   thucThe: [
     { ten: "Cực Âm Linh Lực (Vương Lâm)", thuoc: "cuc-canh",
       detail: "Linh lực của Vương Lâm dị biến theo hướng Cực cảnh — do tu Hoàng Tuyền Thăng Khiếu Quyết tại cực âm chi địa cộng hưởng với Nghịch Thiên Châu. Đan điền cắn nuốt âm hàn lực, ngưng thành tinh vân ở huyệt Khí Hải và linh lực màu lam; điểm vào vật thể khiến đóng băng tới tận kết cấu bên trong. Ban đầu chính Vương Lâm cũng chưa biết mình đã chạm Cực cảnh.",
-      nguon: ["@c0078", "@c0079"] }
+      nguon: ["@c0078", "@c0079"] },
+    { ten: "Thần Thức Cực Cảnh (Vương Lâm)", thuoc: "cuc-canh",
+      detail: "Sau khi linh lực cạn kiệt trong Vực Ngoại, ý Cực cảnh chuyển dung hợp vào thần thức của Vương Lâm — hình thành 'Thần Thức Cực Cảnh' (cực thức). Sức mạnh: thần thức có thể tiêu diệt mọi sinh vật cùng cấp bất kể sơ kỳ/trung kỳ/hậu kỳ. Giới hạn cứng do pháp tắc Vực Ngoại áp đặt: Nguyên Anh hậu kỳ là tuyệt đỉnh — đột phá lên Hóa Thần sẽ bị pháp tắc hủy diệt. Đây là loại Cực cảnh duy nhất ghi nhận trong nguyên tác: Cực cảnh ấn lên thần thức, không phải lên linh lực. (@c0108)",
+      nguon: ["@c0108"] }
   ]
 };
 
@@ -3514,6 +3517,58 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       tieuDe: "Vương Lâm Bỏ Mạng",
       tomTat: "Trận đối đầu sinh tử trước toàn Triệu quốc tu chân giới: VL dùng huyễn thuật Thiên Huyễn + Lam Băng Thiểm (Hoàng Tuyền Tông) + thuấn di liên hoàn. Tự chém đứt cánh tay phải bằng phi kiếm, đoạt túi trữ vật ĐHN bằng Dẫn Lực Thuật. ĐHN phóng Nguyên Anh ra ngoài, dùng trớ chú lưới máu giam VL; tra tấn tinh thần bằng hồn phách phụ mẫu; hủy túi trữ vật và lệnh bài VL; cho 3 vạn tinh hồn nuốt dần chân tay. VL tự nổ thân thể, phóng hồn phách phụ mẫu cùng bản thân xuyên vào thông đạo Vực Ngoại chiến trường. Lâm Dịch nói 'Là—' bị ngắt. Kết Quyển 1. (@c0100)"
     }
+  ],
+  q02: [
+    {
+      chuong: 101,
+      tieuDe: "Vực Ngoại Mở Màn",
+      tomTat: "Khi thông đạo Vực Ngoại vừa đóng lại ở phía Triệu quốc, ở phía bên kia một cường giả Cự Ma tộc (Anh Biến kỳ, thân người khổng lồ) xuất hiện để thu hồi hạt châu. Đằng Hóa Nguyên rút về Đằng Gia bế quan, thề Nguyên Anh hậu kỳ rồi tính sổ. Phác Nam Tử nhân lúc đó thu Vương Hạo làm đệ tử. Người từ Hỏa Phần quốc cũng có mặt: Mã Lương (Chiến Thần Điện) cầm con thoi đỏ — pháp bảo phi hành tốc độ cao — đuổi theo hạt châu ba ngày không kịp. Cường giả Cự Ma tộc tước con thoi đỏ. Ngoại vực chiến trường được giới thiệu: chu kỳ 50 năm; tu sĩ tham gia nhận ngọc phù; tỷ lệ sống sót chỉ khoảng 30%; dung nhan được bảo toàn bên trong bất kể thời gian. (@c0101)"
+    },
+    {
+      chuong: 102,
+      tieuDe: "Tái Sinh Trong Khe Nứt",
+      tomTat: "Linh hồn Vương Lâm tỉnh lại trong khe nứt không gian — tồn tại dưới dạng linh hồn chi hỏa. Nghịch Thiên Châu dung hợp vĩnh viễn vào hồn phách, không thể tách ra. VL ký thác vào xác người khổng lồ Cự Ma tộc cổ đại (trán có hình búa đen) và tiêu diệt sinh vật khói (sinh linh hư không) để rèn thần thức. Hồi phục toàn bộ ký ức. Phát hiện điều then chốt: Tư Đồ Nam chưa chết — đang ngủ sâu trong Nguyên Anh, bên trong giữ hồn phách cha mẹ VL. VL lên kế hoạch đưa một sợi thần thức nhỏ xuyên qua khe nứt rồi tự chặt đứt để thoát ra thế giới tu chân. (@c0102)"
+    },
+    {
+      chuong: 103,
+      tieuDe: "Ám Bố Chiến Trường",
+      tomTat: "Tại ngoại vực chiến trường, hai tu sĩ Trúc Cơ hậu kỳ xuất hiện: Hứa Hạo (đệ tử Linh Vũ Tông, Cự Lộc Quốc) và Cát Dương. Từ ba năm qua, VL đã lặng lẽ tràn ngập chiến trường bằng vô số sợi thần thức vô chủ — hành động này làm chiến trường sớm sụp đổ trước kỳ hạn 50 năm. Du hồn khắp nơi, mọi tu sĩ trên chiến trường bị uy hiếp. Đúng lúc đó, Mã Lương vừa bị giết. VL tức thì thâm nhập đại quy mô vào thân xác Mã Lương — một luồng thần thức khổng lồ ùa vào, chữa lành vết thương, mở mắt, tỏa ra ánh quang. VL thu hồi toàn bộ thần thức đã rải khắp chiến trường cùng lúc — cú thu hồi đồng loạt khiến mọi tu sĩ còn sống trên chiến trường chấn động. (@c0103)"
+    },
+    {
+      chuong: 104,
+      tieuDe: "Hệ Thống Tu Chân Quốc",
+      tomTat: "Liên Minh Tu Chân được vén màn chi tiết: hệ thống nhất đến lục cấp; ngưỡng gia nhập là lục cấp trở lên kết hợp với sở hữu một tinh cầu. Triệu quốc = tam cấp; Thanh Long Quốc = tứ cấp; Cự Ma Tộc = ngũ cấp; Chu Tước Quốc = lục cấp — từ nhất cấp vươn lên lục trong 100.000 năm, được ban Chu Tước tinh với 18 ngũ cấp tu chân quốc và 108 chiến trường ngoại vực trực thuộc. VL (trong thân Mã Lương) xuất hiện giữa chiến trường hỗn loạn, chặn đứng du hồn bằng một tiếng 'Không biết sống chết!', thương lượng với ba thôn hồn hoãn sự sụp đổ. Phát hiện linh lực trong thân Mã Lương đã cạn hoàn toàn. Nhận ra ba đệ tử Chiến Thần Điện — Chu Tử Hồng và hai người — đang bị du hồn truy đuổi. (@c0104)"
+    },
+    {
+      chuong: 105,
+      tieuDe: "Túi Trữ Vật Từ Người Chết",
+      tomTat: "VL cứu ba đệ tử Chiến Thần Điện (Chu Tử Hồng cùng Lâm Đào và Dương Hùng) bằng một tiếng quát thần thức. Sai ba thôn hồn làm 'hàng xóm tốt' — đi tìm Hứa Hạo và Cát Dương: cả hai đã xác nhận tử vong. VL thu ba túi trữ vật của họ từ tay du hồn hai sừng — loại du hồn dị biến sinh lý khiến VL liên tưởng tới Nguyên Anh Tư Đồ Nam đang ngủ. Ra lệnh cho du hồn giết Lâm Đào. (@c0105)"
+    },
+    {
+      chuong: 106,
+      tieuDe: "Bản Mệnh Tinh Huyết",
+      tomTat: "Lâm Đào không chạy — nhận ra thực trạng và chủ động khuất phục. Hắn tự tay nhỏ một giọt bản mệnh tinh huyết (giọt máu từ mi tâm, giao nộp mệnh sống vào tay người nhận). Dương Hùng và Chu Tử Hồng lần lượt làm theo. VL hấp thu cả ba giọt vào thần thức — ba ánh sáng mờ nhạt neo trong thức hải, đủ để kiểm soát sinh tử ba người. Ba thôn hồn giải thích hệ sinh thái khe nứt: du hồn là nô lệ/thức ăn; 'ma đầu' là du hồn sống trong không gian sinh linh. Chiến trường ngoại vực = vùng đệm giữa không gian sinh linh và không gian tịch diệt. Cảnh báo: VL cuối cùng buộc phải trở về tịch diệt. VL thử cho du hồn tấn công truyền tống trận để thăm dò cơ chế thoát ra. (@c0106)"
+    },
+    {
+      chuong: 107,
+      tieuDe: "Sợi Tơ Đen Pháp Tắc",
+      tomTat: "VL phát hiện 'sợi tơ đen' — cơ chế pháp tắc thật sự tiêu diệt thần thức ở ranh giới truyền tống trận. Thử nghiệm bằng du hồn dị biến (có ý thức mờ) — chết ngay. VL đích thân thử tiếp xúc thần thức với sợi tơ đen: sức tàn phá kinh hoàng nhưng có thể chịu đựng. Kiểm tra ba túi trữ vật thu được: Mã Lương có ngọc phù ngoại vực (vật chứng thân phận), Hứa + Cát cộng hơn 2000 trung phẩm linh thạch (tích lũy gần 50 năm), pháp bảo các loại và tài liệu. VL thiết lập Qui Giáp Huyền Diệt trận — hai bộ, mỗi bộ khoảng 60-70 linh thạch, 49 ký hiệu/bộ; nhấn trận nhãn vào mi tâm để kích hoạt. (@c0107)"
+    },
+    {
+      chuong: 108,
+      tieuDe: "Thần Thức Cực Cảnh",
+      tomTat: "VL một mình đối mặt cửa truyền tống trận. Khung thời gian quyết định: 3 giây. Giây 1: triển khai khoảng 1000 ký hiệu (21 bộ Qui Giáp Huyền Diệt trận). Giây 2: ném ra hàng trăm pháp bảo từ ba túi trữ vật. Giây 3: pháp tắc sợi tơ đen nghiền nát và tái tạo thần thức VL hàng vạn lần — ý Cực cảnh dung hợp vào thần thức, hình thành Thần Thức Cực Cảnh (cực thức). Một sợi chỉ thuần khiết cực thức hình thành, chặn đứng bàn tay đen khổng lồ ngay đúng khi 3 giây kết thúc. VL thoát ra. Hệ quả: linh lực suy yếu vĩnh viễn nhưng thần thức có thể tiêu diệt mọi sinh vật cùng cấp bất kể sơ/trung/hậu kỳ. Giới hạn tuyệt đối: Nguyên Anh hậu kỳ — pháp tắc sẽ hủy diệt nếu cố phá vỡ. (@c0108)"
+    },
+    {
+      chuong: 109,
+      tieuDe: "Hỏa Phần Quốc",
+      tomTat: "VL được truyền tống về Hỏa Phần quốc — tam cấp tu chân quốc phía nam Chu Tước, cạnh Tu Ma Hải. Điểm đến là truyền tống trận của Chiến Thần Điện trên đỉnh núi lửa. VL gặp Hoắc Hồng Phi (trưởng lão Kết Đan sơ kỳ, sư phụ Chu Tử Hồng, hơn 200 tuổi, tu Thần Đạo Thuật, trông chỉ ngoài 40) và Từ Tư (hôn thê cũ của Mã Lương). Bốn tông phái tại Hỏa Phần quốc: Chiến Thần Điện (số 1, độc quyền Thần Đạo), Tà Ma Tông, Lạc Hà Môn, Thi Âm Tông — Chiến Thần Điện có 6 lão tổ Nguyên Anh kỳ. VL từ chối tái gia nhập Chiến Thần Điện, ném lại một túi vật phẩm, hóa cầu vồng bay đi. Hoắc Hồng Phi cảm nhận khí tức kỳ lạ từ VL, không dám truy đuổi. (@c0109)"
+    },
+    {
+      chuong: 110,
+      tieuDe: "Bế Quan Núi Lửa",
+      tomTat: "Từ Tư nhớ lại quá khứ với Mã Lương: đính hôn từ thuở ấu thơ, cùng vào Chiến Thần Điện, nàng hứa sẽ làm lữ tu bạn lữ nếu hắn trở về. VL dựa vào ký ức Mã Lương tìm đến quần thể núi lửa nổi tiếng Hỏa Phần. Dừng tại làng lấy nước, tìm hang đá tự nhiên, dùng đá chặn cửa kết hợp trận pháp che giấu và bắt đầu bế quan. Bên trong thức hải: đại dương vàng che phủ sương tối, tiểu kiếm ba tấc màu lục (nhiều vết nứt) và thạch châu (hai phiến lá, vùng rõ ràng xung quanh) — cực thức di chuyển cả hai. Thạch châu dẫn vào Mộng Cảnh. Thăm Tư Đồ Nam: Nguyên Anh thu nhỏ còn 1/10, mờ tối; hai ánh sáng mờ nhạt là hồn phách cha mẹ VL. Khóc và quỳ lạy. Tỷ lệ thời gian: 1 năm thực tế = 7 năm Mộng Cảnh. Kết quả bế quan: 3 năm Mộng Cảnh → Ngưng Khí tầng 15; 2 năm → Trúc Cơ sơ kỳ; 1 năm → Trúc Cơ trung kỳ. Thân xác Mã Lương hoàn toàn thuần hóa; băng ý ngày càng mạnh. (@c0110)"
+    }
   ]
 };
 
@@ -3565,13 +3620,22 @@ window.LIB_DATA["tien-nghich"].volumes = {
       ]
     },
     { value: "q02", label: "Quyển 2", range: "Ch.101 – 140", title: "Tái sinh nơi Vực Ngoại",
-      summary: "(Chưa nghiên cứu tới — sẽ cập nhật khi đọc.)", milestones: [] }
+      summary: "Vương Lâm tái sinh tại Vực Ngoại chiến trường sau khi tự nổ thân vượt qua thông đạo — linh hồn thoát xác, trôi dạt trong khe nứt không gian dưới dạng linh hồn chi hỏa. Nghịch Thiên Châu dung hợp vĩnh viễn vào hồn phách. VL ký thác vào xác người khổng lồ Cự Ma tộc rồi tiêu diệt sinh vật khói để rèn thần thức. Phát hiện Tư Đồ Nam chưa chết — đang ngủ sâu, giữ hồn phách cha mẹ VL trong Nguyên Anh. VL sau đó đoạt xá thân xác Mã Lương — tu sĩ vừa tử chiến của Chiến Thần Điện từ Hỏa Phần quốc. Tại chiến trường, VL khống chế du hồn bằng thần thức áp đảo, thu nô bộc (Lâm Đào, Dương Hùng cùng một người nữa), đoạt túi trữ vật Hứa Hạo và Cát Dương. Vượt qua sợi tơ đen pháp tắc để trở về thế giới tu chân — thần thức bị nghiền nát và tái tạo hàng vạn lần trong 3 giây, khiến ý Cực cảnh dung hợp vào thần thức, hình thành Thần Thức Cực Cảnh. Trở về Hỏa Phần quốc, từ chối tái gia nhập Chiến Thần Điện, ẩn vào quần thể núi lửa bế quan. Trong bế quan, dùng Nghịch Thiên Châu vào Mộng Cảnh thăm Tư Đồ Nam; 1 năm thực = 7 năm Mộng Cảnh. Sau 6 năm Mộng Cảnh (chưa đầy 1 năm thực) khôi phục Trúc Cơ trung kỳ — toàn bộ Quyển 2 mở màn bằng cuộc tái sinh và vươn lên của VL trong vỏ bọc Mã Lương tại Hỏa Phần quốc.",
+      milestones: [
+        "Linh hồn VL tái sinh trong khe nứt không gian — Nghịch Thiên Châu dung hợp vĩnh viễn vào hồn phách (Ch.102)",
+        "Phát hiện Tư Đồ Nam chưa chết — đang ngủ sâu, giữ hồn phách cha mẹ VL trong Nguyên Anh (Ch.102)",
+        "VL đoạt xá thân xác Mã Lương (Chiến Thần Điện, Hỏa Phần quốc) sau 3 năm ám bố chiến trường (Ch.103–104)",
+        "Vượt sợi tơ đen pháp tắc — Thần Thức Cực Cảnh hình thành; giới hạn cứng Nguyên Anh hậu kỳ (Ch.108)",
+        "Trở về thế giới tu chân tại Hỏa Phần quốc; từ chối Chiến Thần Điện, ẩn vào quần thể núi lửa bế quan (Ch.109)",
+        "1 năm thực = 7 năm Mộng Cảnh — khôi phục Trúc Cơ trung kỳ sau gần 1 năm bế quan (Ch.110)"
+      ]
+    }
   ]
 };
 
 window.LIB_DATA["tien-nghich"].techniques = {
   updatedAt: "2026-06-10",
-  count: 18,
+  count: 20,
   techniques: [
     {
       id: "ngung-khi-tam-thien",
@@ -3793,14 +3857,40 @@ window.LIB_DATA["tien-nghich"].techniques = {
       blurb: "Pháp thuật băng hàn từ Hoàng Tuyền Tông. Lam quang mang khí tức băng hàn cực mạnh, tạo sóng lam đóng băng phương viên vài ngàn thước. VL dùng trong trận đối đầu với Đằng Hóa Nguyên @c0100. Lâm Dịch xác nhận xuất xứ Hoàng Tuyền Tông.",
       detail: "Xuất xứ Hoàng Tuyền Tông; Lâm Dịch nhận ra ngay khi VL thi triển @c0100. Lam quang + khí tức băng hàn kết hợp tạo sóng lam lan diện rộng. VL dùng phối hợp với huyễn thuật Thiên Huyễn + thuấn di trong chuỗi liên hoàn @c0100.",
       nguon: ["@c0100"]
+    },
+    {
+      id: "than-thuc-cuc-canh",
+      name: "Thần Thức Cực Cảnh",
+      cn: "",
+      loai: "than-thuc",
+      loaiLabel: "Thần thức đặc dị",
+      he: "Cực cảnh thượng cổ",
+      capBac: "Vô tiền khoáng hậu (chỉ VL ghi nhận)",
+      nguoiDung: ["vuong-lam"],
+      blurb: "Ý Cực cảnh dung hợp vào thần thức của Vương Lâm trong 3 giây chịu đựng pháp tắc sợi tơ đen tại truyền tống trận Vực Ngoại. Thần thức có thể tiêu diệt mọi sinh linh cùng cấp bất kể sơ/trung/hậu kỳ. Giới hạn tuyệt đối: Nguyên Anh hậu kỳ. (@c0108)",
+      detail: "Hình thành khi ý Cực cảnh từ linh lực VL chuyển sang ấn lên thần thức — xảy ra trong 3 giây VL tự thử thách pháp tắc sợi tơ đen để vượt truyền tống trận khe nứt @c0108. Thần thức bị nghiền nát và tái tạo hàng vạn lần dưới áp lực pháp tắc, rèn luyện ý Cực cảnh dung hợp vào. Sức mạnh: một sợi cực thức thuần khiết đã chặn bàn tay đen khổng lồ của pháp tắc, cho phép VL thoát ra. Hệ quả hai chiều: linh lực của Mã Lương's thân suy yếu vĩnh viễn; bù lại thần thức đạt cực cảnh — tiêu diệt mọi sinh linh cùng cấp tu vi bất kể phân kỳ. Giới hạn cứng do pháp tắc áp đặt: chỉ đến Nguyên Anh hậu kỳ — đột phá lên Hóa Thần sẽ bị pháp tắc tiêu diệt tức thì. Đây là loại Cực cảnh ấn lên thần thức, khác hoàn toàn với Cực Âm Linh Lực VL vốn ấn lên linh lực.",
+      nguon: ["@c0108"]
+    },
+    {
+      id: "doat-xa",
+      name: "Đoạt Xá",
+      cn: "",
+      loai: "ky-nang",
+      loaiLabel: "Kỹ năng đặc dị",
+      he: "Thần thức",
+      capBac: "Không rõ (cơ chế thần thức cực cao)",
+      nguoiDung: ["vuong-lam"],
+      blurb: "Kỹ thuật dùng thần thức chiếm đoạt thân xác người khác. VL thực hiện khi thác linh hồn vào xác Cự Ma tộc @c0102, và lần thứ hai nhập vào xác Mã Lương vừa tử trận @c0103. Cơ chế chính xác chưa được nguyên tác giải thích đầy đủ.",
+      detail: "VL thực hiện đoạt xá lần đầu vào xác người khổng lồ Cự Ma tộc cổ đại trong khe nứt không gian @c0102 — chỉ để tạm ký thác linh hồn và rèn thần thức bằng cách nuốt sinh vật khói. Lần thứ hai là đoạt xá thân xác Mã Lương — tu sĩ Chiến Thần Điện vừa tử chiến @c0103: một luồng thần thức khổng lồ ùa vào thân xác, chữa lành vết thương, mở mắt, tỏa ánh quang. VL sau đó đồng hóa hoàn toàn với thân xác Mã Lương — dáng dấp, ký ức, mùi hương đều hòa nhập @c0110. Một trong những công năng gián tiếp của Thần Thức Cực Cảnh và thần thức vượt trội.",
+      nguon: ["@c0102", "@c0103", "@c0110"]
     }
   ]
 };
 
-// MAP — địa danh Ch.1-80 (neo nguyên tác)
+// MAP — địa danh Ch.1-110 (neo nguyên tác)
 window.LIB_DATA["tien-nghich"].map = {
   updatedAt: "2026-06-10",
-  count: 31,
+  count: 36,
   nodes: [
     { id: "trieu-quoc", name: "Triệu Quốc", cn: "", capDo: "quoc-gia", parentId: null,
       blurb: "Quốc gia nơi Vương Lâm sinh ra; vừa có dân phàm vừa có thế lực tu chân.", detail: "Bối cảnh đầu truyện. Trong Triệu quốc có cả vùng phàm tục (thôn, thị trấn, huyện) lẫn môn phái tu chân như Hằng Nhạc Phái.", theLucLienQuan: ["Hằng Nhạc Phái", "Vương thị gia tộc"], nguon: ["@c0002"] },
@@ -3863,13 +3953,23 @@ window.LIB_DATA["tien-nghich"].map = {
     { id: "vuc-ngoai-chien-truong", name: "Vực Ngoại chiến trường", cn: "", capDo: "khac", parentId: "trieu-quoc",
       blurb: "Không gian Vực Ngoại mở 100 năm/lần; phía sau màng mỏng là không gian hư vô với thi thể và pháp bảo bị tàn phá. Cần đủ lệnh bài tư cách để vào. VL xuyên vào @c0100 sau khi tự nổ thân.", detail: "Vực Ngoại chiến trường mở mỗi 100 năm; thông đạo được kích hoạt qua nghi thức lệnh bài tại Quyết Minh Cốc @c0096. Bên trong là không gian hư vô: thi thể tu sĩ tứ phương + pháp bảo bị tàn phá từ các lần chiến trận trước @c0099. Giới hạn tư cách: phải sở hữu đủ lệnh bài khi thông đạo mở; nếu còn >3 lệnh bài chưa hủy thì mất tư cách @c0100. VL xuyên vào bằng cách tự nổ thân thể phóng qua quang võng @c0100; số phận chưa xác nhận. Tư Đồ Nam từng khuyên VL ra đây sau Quyết Minh Cốc @c0089.", theLucLienQuan: [], nguon: ["@c0082", "@c0083", "@c0089", "@c0096", "@c0099", "@c0100"] },
     { id: "thi-tran-quanh-quyet-minh-coc", name: "Thị trấn quanh Quyết Minh Cốc", cn: "", capDo: "khac", parentId: "trieu-quoc",
-      blurb: "Thị trấn thương mại mọc lên trong ngàn dặm quanh Quyết Minh Cốc mỗi khi thông đạo sắp mở. Cứ 100 năm trở thành trung tâm giao dịch lớn nhất Triệu quốc.", detail: "Mỗi khi Quyết Minh Cốc sắp mở thông đạo Vực Ngoại (100 năm/lần), các thị trấn thương mại tự phát nổi lên trong phạm vi ngàn dặm quanh cốc — trở thành nơi giao dịch lớn nhất Triệu quốc trong kỳ đó @c0096.", theLucLienQuan: [], nguon: ["@c0096"] }
+      blurb: "Thị trấn thương mại mọc lên trong ngàn dặm quanh Quyết Minh Cốc mỗi khi thông đạo sắp mở. Cứ 100 năm trở thành trung tâm giao dịch lớn nhất Triệu quốc.", detail: "Mỗi khi Quyết Minh Cốc sắp mở thông đạo Vực Ngoại (100 năm/lần), các thị trấn thương mại tự phát nổi lên trong phạm vi ngàn dặm quanh cốc — trở thành nơi giao dịch lớn nhất Triệu quốc trong kỳ đó @c0096.", theLucLienQuan: [], nguon: ["@c0096"] },
+    { id: "hoa-phen-quoc", name: "Hỏa Phần Quốc", cn: "", capDo: "quoc-gia", parentId: null,
+      blurb: "Tam cấp tu chân quốc nằm phía nam Chu Tước, cạnh Tu Ma Hải. Địa hình đặc trưng là quần thể núi lửa. Có bốn tông phái: Chiến Thần Điện (số 1, độc quyền Thần Đạo), Tà Ma Tông, Lạc Hà Môn, Thi Âm Tông.", detail: "Hỏa Phần Quốc xác nhận là tam cấp tu chân quốc @c0109. Vị trí: phía nam Chu Tước (lục cấp), tiếp giáp Tu Ma Hải @c0109. Địa hình chủ đạo: quần thể núi lửa nổi tiếng @c0110. Bốn tông phái lớn: Chiến Thần Điện (tông đứng đầu, độc quyền Thần Đạo Thuật, 6 lão tổ Nguyên Anh kỳ), Tà Ma Tông, Lạc Hà Môn, Thi Âm Tông @c0109. Nơi VL (trong thân Mã Lương) ẩn náu và bắt đầu phục hồi tu vi sau khi rời Vực Ngoại.", theLucLienQuan: ["chien-than-dien", "ta-ma-tong", "lac-ha-mon", "thi-am-tong"], nguon: ["@c0109", "@c0110"] },
+    { id: "tu-ma-hai", name: "Tu Ma Hải", cn: "", capDo: "khu-vuc", parentId: null,
+      blurb: "Vùng biển giáp ranh với Hỏa Phần Quốc, nằm cạnh tam cấp tu chân quốc này. Tên gợi lên môi trường tu luyện có liên quan đến ma đạo hoặc điều kiện đặc thù.", detail: "Tu Ma Hải được nhắc đến trong mô tả địa lý Hỏa Phần Quốc @c0109: quốc gia này nằm phía nam Chu Tước và cạnh Tu Ma Hải. Không có thêm chi tiết về Tu Ma Hải trong phạm vi Ch.101–110.", theLucLienQuan: [], nguon: ["@c0109"] },
+    { id: "quan-the-nui-lua-hoa-phen", name: "Quần thể núi lửa Hỏa Phần", cn: "", capDo: "khac", parentId: "hoa-phen-quoc",
+      blurb: "Quần thể núi lửa nổi tiếng của Hỏa Phần Quốc. Trong ký ức Mã Lương có thông tin chi tiết về khu vực này. VL chọn nơi đây làm căn cứ bế quan.", detail: "Quần thể núi lửa là địa điểm nổi tiếng tại Hỏa Phần Quốc, được lưu trong ký ức của Mã Lương @c0110. VL dựa vào ký ức đó bay đến, chọn một hang đá tự nhiên, dùng đá chặn cửa kết hợp trận pháp che giấu để bắt đầu bế quan phục hồi tu vi @c0110.", theLucLienQuan: [], nguon: ["@c0110"] },
+    { id: "chu-tuoc-tinh", name: "Chu Tước Tinh", cn: "", capDo: "khu-vuc", parentId: null,
+      blurb: "Tinh cầu thuộc quyền Chu Tước Quốc (lục cấp). Trực thuộc: 18 ngũ cấp tu chân quốc và 108 chiến trường ngoại vực. Tặng thưởng sau khi Chu Tước Quốc vươn từ nhất cấp lên lục cấp trong 100.000 năm.", detail: "Chu Tước tinh được Liên Minh Tu Chân ban tặng cho Chu Tước Quốc khi quốc gia này đạt lục cấp @c0104. Trực thuộc Chu Tước tinh: 18 ngũ cấp tu chân quốc và 108 chiến trường ngoại vực. Sở hữu tinh cầu là điều kiện tham gia Liên Minh Tu Chân (lục cấp + tinh cầu @c0104). Vị trí địa lý cụ thể trong vũ trụ chưa được mô tả trong phạm vi Ch.101–110.", theLucLienQuan: ["chu-tuoc-quoc"], nguon: ["@c0104"] },
+    { id: "cu-loc-quoc", name: "Cự Lộc Quốc", cn: "", capDo: "quoc-gia", parentId: null,
+      blurb: "Tu chân quốc nơi Linh Vũ Tông đặt trụ sở. Hứa Hạo — đệ tử thứ sáu của Linh Vũ Tông — xuất thân từ đây. Cấp độ quốc gia chưa được xác nhận trong nguyên tác.", detail: "Cự Lộc Quốc được nhắc đến qua lý lịch của Hứa Hạo — đệ tử thứ sáu Linh Vũ Tông @c0103. Không có thêm thông tin về cấp độ hay địa lý quốc gia này trong phạm vi Ch.101–110.", theLucLienQuan: ["linh-vu-tong"], nguon: ["@c0103"] }
   ]
 };
 
 window.LIB_DATA["tien-nghich"].artifacts = {
   updatedAt: "2026-06-10",
-  count: 35,
+  count: 38,
   artifacts: [
     {
       id: "thach-chau",
@@ -3880,10 +3980,10 @@ window.LIB_DATA["tien-nghich"].artifacts = {
       categoryLabel: "Pháp bảo",
       phamCap: "Vượt phàm — thực chất là nơi ẩn náu của cường giả lục cấp Chu Tước Quốc (Tư Đồ Nam) @c0047; điều kiện nhận chủ: ngũ hành + ≥Anh Biến kỳ",
       soHuu: ["vuong-lam"],
-      trangThai: "Vương Lâm đang sở hữu, cất trong túi trữ vật (từ @c0020); thực ra Tư Đồ Nam ẩn bên trong; Mộc giai 3 lá @c0085",
+      trangThai: "Dung hợp vĩnh viễn vào hồn phách Vương Lâm @c0102 — không còn là pháp bảo độc lập; Mộc giai 3 lá @c0085; hiện nằm trong thức hải VL cùng tiểu kiếm",
       blurb: "Viên châu xám khắc hoa văn đám mây trắng, pháp bảo trục chính của cả bộ Tiên Nghịch. Alias: Nghịch Thiên Châu. Nhặt trong xác một con phi điểu ở huyệt động phong nhãn (@c0008). Tiết hạt sương dưới ánh nắng, sương trị lành vết thương. Nước ngâm châu biến thành nước chứa linh khí. Lai lịch thật (@c0047): Tư Đồ Nam — cường giả lục cấp Chu Tước Quốc bị truy sát, ẩn tinh hoa nguyên anh vào châu; dùng tinh hoa nguyên anh trợ giúp VL gần 30 năm. Điều kiện nhận chủ: đủ ngũ hành + tu vi ≥ Anh Biến kỳ. @c0085: Mộc giai hoàn thành 3 lá; @c0088: lần đầu phát hắc quang.",
       detail: "To bằng nắm tay trẻ con; bề ngoài ban đầu phủ huyết nhục, lau sạch lộ màu xám với hoa văn đám mây trắng, trông rất cổ. Công năng xác nhận tới Ch.50: (1) Tiết hạt sương khi gặp ánh nắng buổi sáng — sương trị lành vết thương thể chất (@c0008–@c0009). (2) Nước ngâm châu có dược tính; hạt sương sáng sớm kết trên châu cho hiệu quả tốt nhất; tiếp theo là nước suối; máu/mồ hôi gần như vô dụng (@c0012). (3) Châu tự hấp thu hơn phân nửa hạt sương — người dùng chỉ giữ được chưa đến một phần mười (@c0012). (4) Cường hóa thể chất khi uống nước ngâm châu thường xuyên (@c0011). (5) Nước ngâm châu biến thành nước chứa linh khí sung túc (Tôn Đại Trụ xác nhận @c0016). (6) Dị biến hút nước mạnh: hút toàn bộ nước/hơi ẩm trong phạm vi rộng kể cả nước trong cơ thể người — suýt giết Trương Hổ bằng đông lạnh (@c0014). (7) Làm héo rũ thảo dược lân cận (Lam Tuyến Thảo, Tử Dạ Hoa) dù cơ chế chưa xác nhận rõ (@c0012–@c0013). (8) Số đám mây khắc trên châu tăng khi hấp thu nước: 5 (@c0008) → 6 → 7 (@c0014) → 9 (@c0020); 10 là mức cuối. (9) KHÔNG GIAN MỘNG CẢNH (@c0023): khi châu đạt đủ 10 đám mây, mây tan — lộ vài chữ số bí ẩn; châu khai mở không gian bên trong. Thời gian trong Mộng Cảnh chạy nhanh gấp 10 lần thực tại; không có linh khí tự nhiên trong đó. Mỗi lần vào cần ≥5 canh giờ liên tục — dùng cách này VL tu được ~1 năm trong 2 tháng thực (@c0024–@c0025). (10) Hiệu quả nước ngâm châu: Lộ thủy (nước lộ sớm) > Tuyết thủy (tuyết nấu tan) > Tuyền thủy (nước suối) — phân cấp xác nhận @c0031. (11) LAI LỊCH THẬT (@c0047): Thạch Châu là nơi ẩn náu của Tư Đồ Nam — cường giả lục cấp Chu Tước Quốc bị truy sát thân hủy; tinh hoa nguyên anh sót lại chui vào châu. Tư Đồ Nam dùng tinh hoa nguyên anh trợ giúp VL củng cố tu vi suốt gần 30 năm. ĐIỀU KIỆN NHẬN CHỦ: đủ ngũ hành linh căn + tu vi ≥ Anh Biến kỳ. (12) MỘC GIAI (@c0085): Châu phát triển 3 lá Mộc giai (trước đó đã có 2 lá). (13) HẮC QUANG (@c0088): Lần đầu phát hắc quang bên trong Quyết Minh Cốc — dấu hiệu Mộc giai 3 lá hoạt động. Cự Ma tộc đang tìm kiếm 'Nghịch Thiên Châu' @c0083.",
-      nguon: ["@c0008", "@c0009", "@c0010", "@c0011", "@c0012", "@c0014", "@c0016", "@c0020", "@c0023", "@c0024", "@c0025", "@c0031", "@c0046", "@c0047", "@c0083", "@c0085", "@c0088"]
+      nguon: ["@c0008", "@c0009", "@c0010", "@c0011", "@c0012", "@c0014", "@c0016", "@c0020", "@c0023", "@c0024", "@c0025", "@c0031", "@c0046", "@c0047", "@c0083", "@c0085", "@c0088", "@c0102", "@c0110"]
     },
     {
       id: "that-thai-tuong-van",
@@ -4326,13 +4426,55 @@ window.LIB_DATA["tien-nghich"].artifacts = {
       blurb: "Lệnh bài xác nhận tư cách vào Vực Ngoại chiến trường tại Quyết Minh Cốc. Tổng 7 lệnh bài được phân bổ; chỉ 3 danh ngạch vào Vực Ngoại. Khi thông đạo mở mà còn >3 lệnh bài chưa hủy thì Triệu quốc mất tư cách.",
       detail: "Hệ thống lệnh bài Quyết Minh Cốc: tổng 7 lệnh bài, chỉ 3 danh ngạch vào Vực Ngoại chiến trường @c0092. VL thu được 2 lệnh bài @c0091, thêm 2 @c0092, thêm 1 từ Liễu Mi @c0093 — tổng 5; bóp nát 4, giữ 1 @c0093. Điều kiện duy trì tư cách: khi thông đạo mở không được còn >3 lệnh bài chưa hủy, nếu không mất tư cách @c0100. Đằng Hóa Nguyên hủy lệnh bài cuối cùng của VL trong trận chiến @c0100 — VL mất tư cách chính thức.",
       nguon: ["@c0091", "@c0092", "@c0093", "@c0100"]
+    },
+    {
+      id: "con-thoi-do",
+      name: "Con thoi đỏ",
+      cn: "",
+      aliases: [],
+      category: "phap-bao",
+      categoryLabel: "Pháp bảo phi hành",
+      phamCap: "Chưa rõ (dùng được ở cấp Kết Đan kỳ trở lên)",
+      soHuu: ["ma-luong"],
+      trangThai: "Bị cường giả Cự Ma tộc (Anh Biến kỳ) tước đoạt @c0101",
+      blurb: "Pháp bảo phi hành tốc độ cao của Mã Lương (Chiến Thần Điện, Hỏa Phần quốc). Dùng truy đuổi hạt châu Cự Ma tộc suốt ba ngày liên tục mà không kịp. Bị cường giả Cự Ma tộc Anh Biến kỳ tước đoạt. (@c0101)",
+      detail: "Con thoi đỏ là pháp bảo phi hành của Mã Lương, tu sĩ Chiến Thần Điện từ Hỏa Phần quốc @c0101. Sau khi cường giả Cự Ma tộc (Anh Biến kỳ) xuất hiện tại Triệu quốc để thu hồi hạt châu, Mã Lương dùng con thoi đỏ truy đuổi suốt ba ngày nhưng không theo kịp — tốc độ pháp bảo thua xa cường giả Anh Biến kỳ. Cường giả sau đó tước đoạt con thoi đỏ @c0101. Số phận tiếp theo của pháp bảo này chưa được nguyên tác mô tả.",
+      nguon: ["@c0101"]
+    },
+    {
+      id: "qui-giap-huyen-diet-tran",
+      name: "Qui Giáp Huyền Diệt Trận",
+      cn: "",
+      aliases: [],
+      category: "phap-bao",
+      categoryLabel: "Trận pháp tấn công",
+      phamCap: "Chưa rõ (dùng được với linh thạch trung phẩm)",
+      soHuu: ["vuong-lam"],
+      trangThai: "VL đang nắm giữ; đã dùng ~21 bộ khi vượt truyền tống trận @c0108",
+      blurb: "Trận pháp tấn công VL lấy được từ kho đồ của Hứa Hạo hoặc Cát Dương. Mỗi bộ gồm 49 ký hiệu, tiêu tốn khoảng 60–70 linh thạch trung phẩm, kích hoạt bằng cách nhấn trận nhãn vào mi tâm. VL thiết lập hai bộ trong khe nứt @c0107, dùng thêm khoảng 21 bộ (~1000 ký hiệu) trong giây đầu tiên vượt truyền tống trận @c0108.",
+      detail: "Trận pháp thu được từ túi trữ vật của Hứa Hạo hoặc Cát Dương @c0107. Cơ chế: mỗi bộ 49 ký hiệu, mỗi bộ tiêu hao khoảng 60–70 linh thạch trung phẩm; kích hoạt bằng cách ép trận nhãn vào mi tâm @c0107. VL thiết lập hai bộ thử nghiệm trong khe nứt (khoảng 70 linh thạch bộ đầu, khoảng 60 bộ sau) @c0107. Khi vượt truyền tống trận: trong giây đầu tiên VL triển khai khoảng 21 bộ (~1000 ký hiệu) @c0108 — số lượng lớn làm đòn chặn để tranh thủ thời gian trong 3 giây quyết định.",
+      nguon: ["@c0107", "@c0108"]
+    },
+    {
+      id: "ngoc-phu-chien-truong",
+      name: "Ngọc Phù Chiến Trường Ngoại Vực",
+      cn: "",
+      aliases: ["ngọc phù ngoại vực"],
+      category: "khac",
+      categoryLabel: "Vật phẩm — Tư cách",
+      phamCap: "Vật phẩm tư cách",
+      soHuu: ["ma-luong"],
+      trangThai: "VL (trong thân Mã Lương) thu từ túi trữ vật Mã Lương @c0107; hiện VL giữ",
+      blurb: "Ngọc phù xác nhận tư cách tham gia chiến trường ngoại vực — phát cho tu sĩ mỗi chu kỳ 50 năm. Chu kỳ: 50 năm; tỷ lệ sống sót khoảng 30%; dung nhan người tham gia được bảo toàn bên trong bất kể thời gian trôi qua bên ngoài. (@c0101, @c0107)",
+      detail: "Chiến trường ngoại vực (khác với Vực Ngoại chiến trường của Triệu quốc) có chu kỳ 50 năm @c0101. Tu sĩ tham gia nhận ngọc phù; tỷ lệ sống sót chỉ khoảng 30%; dung nhan được bảo toàn bên trong bất kể thời gian bên ngoài trôi qua — đặc điểm quan trọng vì người trẻ tuổi sợ mất đi vẻ ngoài @c0101. Ngọc phù Mã Lương nằm trong túi trữ vật của hắn, VL thu lại sau khi đoạt xá @c0107. Đây là một trong những vật phẩm tư cách quan trọng tại Hỏa Phần quốc.",
+      nguon: ["@c0101", "@c0107"]
     }
   ]
 };
 
 window.LIB_DATA["tien-nghich"].factions = {
   updatedAt: "2026-06-10",
-  count: 17,
+  count: 21,
   factions: [
     {
       id: "hang-nhac-phai",
@@ -4431,14 +4573,14 @@ window.LIB_DATA["tien-nghich"].factions = {
       cn: "",
       loai: "quoc-gia-tu-chan",
       loaiLabel: "Quốc gia tu chân",
-      viTri: "Chưa xác định (ngoài phạm vi Triệu quốc)",
-      capDo: "Lục cấp — cao hơn Tu Chân Quốc 5 cấp",
-      lanhDao: "Không rõ (đã tan rã hoặc bị tiêu diệt)",
-      trangThai: "Không còn tồn tại (Tư Đồ Nam bị truy sát — ngụ ý đã diệt @c0047)",
-      blurb: "Quốc gia tu chân cấp 6 — quê hương của Tư Đồ Nam. Hệ thống cảnh giới cao hơn Tu Chân Quốc 5 cấp thông thường. Tư Đồ Nam từng là cường giả lục cấp tại đây; bị truy sát thân hủy, chỉ còn tinh hoa nguyên anh ẩn trong Thạch Châu. (@c0047)",
-      detail: "Chu Tước Quốc là quốc gia tu chân với hệ thống 6 cấp — cao hơn hệ thống Tu Chân Quốc thông thường của Triệu quốc (5 cấp). Tư Đồ Nam từng là cường giả lục cấp — tức là cảnh giới đỉnh của quốc gia này. Bị truy sát toàn diện, thân hủy, chỉ còn tinh hoa nguyên anh chui vào Thạch Châu (@c0047). Trạng thái quốc gia sau đó không được nêu rõ — có thể đã tan rã. Vị trí địa lý chưa xác định trong nguyên tác tới Ch.50.",
+      viTri: "Phía bắc Hỏa Phần Quốc; sở hữu Chu Tước tinh",
+      capDo: "Lục cấp — ngưỡng tham gia Liên Minh Tu Chân; sở hữu Chu Tước tinh với 18 ngũ cấp quốc và 108 chiến trường ngoại vực",
+      lanhDao: "Không rõ",
+      trangThai: "Đang tồn tại; Hỏa Phần Quốc (tam cấp) nằm phía nam Chu Tước @c0109",
+      blurb: "Lục cấp tu chân quốc — cao nhất trong hệ thống Liên Minh Tu Chân. Đã vươn từ nhất cấp lên lục cấp trong 100.000 năm và được Liên Minh ban tặng Chu Tước tinh, trực thuộc 18 ngũ cấp tu chân quốc và 108 chiến trường ngoại vực. Tư Đồ Nam từng là cường giả xuất xứ lục cấp Chu Tước Quốc, bị truy sát thân hủy @c0047.",
+      detail: "Chu Tước Quốc là lục cấp tu chân quốc — ngưỡng tham gia Liên Minh Tu Chân (lục cấp + sở hữu tinh cầu @c0104). Đã trải qua hành trình nhất cấp → lục cấp mất 100.000 năm; được Liên Minh Tu Chân ban Chu Tước tinh @c0104. Trực thuộc Chu Tước tinh: 18 ngũ cấp tu chân quốc và 108 chiến trường ngoại vực @c0104. Hỏa Phần Quốc (tam cấp) nằm phía nam Chu Tước @c0109. Tư Đồ Nam từng là cường giả lục cấp — bị truy sát toàn diện, thân hủy, chỉ còn tinh hoa nguyên anh ẩn trong Nghịch Thiên Châu @c0047.",
       thanhVien: ["tu-do-nam"],
-      nguon: ["@c0047"]
+      nguon: ["@c0047", "@c0104", "@c0109"]
     },
     {
       id: "thanh-long-quoc",
@@ -4447,7 +4589,7 @@ window.LIB_DATA["tien-nghich"].factions = {
       loai: "quoc-gia-tu-chan",
       loaiLabel: "Quốc gia tu chân",
       viTri: "Không rõ (có thể liền kề Triệu quốc)",
-      capDo: "Có Nguyên Anh kỳ tu sĩ (xác nhận @c0047)",
+      capDo: "Tứ cấp tu chân quốc (@c0104)",
       lanhDao: "Không rõ",
       trangThai: "Chưa rõ trạng thái hiện tại",
       blurb: "Quốc gia tu chân có Nguyên Anh kỳ tu sĩ. 500 năm trước, Thanh Long Quốc cử Nguyên Anh kỳ đến cai quản Triệu quốc — cho thấy tương quan thực lực giữa hai quốc (@c0047). Chi tiết thêm chưa được nguyên tác mô tả đến Ch.50.",
@@ -4461,14 +4603,14 @@ window.LIB_DATA["tien-nghich"].factions = {
       cn: "",
       loai: "lien-minh",
       loaiLabel: "Liên minh tu chân quốc tế",
-      viTri: "Trên phạm vi nhiều quốc gia",
-      capDo: "Tổ chức cấp cao — trên Tu Chân Quốc 5 cấp",
+      viTri: "Trên phạm vi nhiều quốc gia và tinh cầu",
+      capDo: "Tổ chức siêu quốc gia — ngưỡng gia nhập: lục cấp + sở hữu tinh cầu",
       lanhDao: "Không rõ",
       trangThai: "Đang hoạt động",
-      blurb: "Liên minh của các Tu Chân Quốc 5 cấp — tổ chức siêu quốc gia. Tư Đồ Nam đề cập khi giải thích hệ thống Tu Chân Giới (@c0046). Chi tiết cơ cấu và thành viên chưa được nguyên tác mô tả đến Ch.50.",
-      detail: "Liên Minh Tu Chân là cấp độ tổ chức cao hơn các Tu Chân Quốc 5 cấp đơn lẻ — được Tư Đồ Nam nhắc đến khi giải thích bức tranh Tu Chân Giới tổng thể (@c0046). Hệ thống: Tu Chân Quốc 5 cấp → Liên Minh Tu Chân. Triệu quốc (nơi Vương Lâm đang ở) là một Tu Chân Quốc 5 cấp — không có Nguyên Anh lão tổ bảo hộ (@c0046, @c0049). Chi tiết thêm chưa được nguyên tác mô tả đến Ch.50.",
+      blurb: "Liên minh tu chân quốc tế, ngưỡng gia nhập: lục cấp tu chân quốc + sở hữu một tinh cầu. Hệ thống phân cấp nhất đến lục: Triệu quốc = tam cấp; Thanh Long Quốc = tứ cấp; Cự Ma Tộc = ngũ cấp; Chu Tước Quốc = lục cấp (thành viên). (@c0104)",
+      detail: "Liên Minh Tu Chân hoạt động theo hệ thống phân cấp nhất đến lục xác nhận tại @c0104. Ngưỡng gia nhập: tu chân quốc phải đạt lục cấp VÀ sở hữu ít nhất một tinh cầu @c0104. Các cấp được xác nhận: Triệu quốc = tam cấp (@c0046, @c0089); Thanh Long Quốc = tứ cấp; Cự Ma Tộc = ngũ cấp; Chu Tước Quốc = lục cấp @c0104. Chu Tước Quốc được ban Chu Tước tinh kèm 18 ngũ cấp tu chân quốc và 108 chiến trường ngoại vực trực thuộc sau khi đạt lục cấp @c0104. Tư Đồ Nam đề cập hệ thống này lần đầu @c0046.",
       thanhVien: [],
-      nguon: ["@c0046"]
+      nguon: ["@c0046", "@c0089", "@c0104"]
     },
     {
       id: "dang-gia",
@@ -4506,14 +4648,14 @@ window.LIB_DATA["tien-nghich"].factions = {
       cn: "",
       loai: "the-luc-ngoai",
       loaiLabel: "Thế lực bên ngoài Tu Chân Quốc",
-      viTri: "Không rõ (đang hoạt động tại Triệu quốc @c0083)",
-      capDo: "Cường đại — sứ giả đầu khổng lồ, đã lấy được Thất Thải pháp khí từ Thông Thiên Tháp",
+      viTri: "Không rõ (đang hoạt động tại Triệu quốc và Vực Ngoại @c0083)",
+      capDo: "Ngũ cấp — thành viên hệ thống Liên Minh Tu Chân @c0104; cường giả Anh Biến kỳ được xác nhận @c0101",
       lanhDao: "Không rõ",
-      trangThai: "Đang hoạt động tại Triệu quốc; tìm kiếm Nghịch Thiên Châu (Thạch Châu của VL) @c0083",
-      blurb: "Liên minh sứ giả đầu khổng lồ — thế lực bí ẩn hoạt động bên ngoài hệ thống Tu Chân Quốc. Đã lấy Thất Thải pháp khí từ Thông Thiên Tháp (trung tâm Triệu quốc) @c0083. Đang tìm Nghịch Thiên Châu — alias của Thạch Châu Vương Lâm đang giữ. (@c0083)",
-      detail: "Cự Ma tộc xuất hiện tại Triệu quốc @c0082–@c0083 với hành động rõ ràng: lấy Thất Thải pháp khí từ Thông Thiên Tháp @c0083. Mục tiêu tiếp theo là tìm Nghịch Thiên Châu — alias của Thạch Châu VL đang giữ. Đặc điểm: sứ giả đầu khổng lồ (hình thái đặc biệt). Không rõ nguồn gốc hay mục đích cuối cùng.",
+      trangThai: "Đang hoạt động; đã thu hồi hạt châu từ Triệu quốc @c0101 và tước đoạt con thoi đỏ Mã Lương @c0101",
+      blurb: "Ngũ cấp tu chân quốc trong hệ thống Liên Minh Tu Chân — thế lực có cường giả Anh Biến kỳ. Xuất hiện tại Triệu quốc lấy Thất Thải pháp khí @c0083 và thu hồi hạt châu @c0101. Thành viên nổi bật: xác người khổng lồ Cự Ma tộc (cổ đại, trán hình búa đen) mà VL dùng tạm làm thân xác trong khe nứt @c0102. (@c0083, @c0101, @c0104)",
+      detail: "Cự Ma tộc xác nhận là ngũ cấp tu chân quốc trong hệ thống Liên Minh Tu Chân — thấp hơn Chu Tước Quốc (lục cấp) và cao hơn Thanh Long Quốc (tứ cấp) @c0104. Cường giả Anh Biến kỳ: thân người khổng lồ xuất hiện tại Triệu quốc để thu hồi hạt châu @c0101; tước đoạt con thoi đỏ của Mã Lương sau 3 ngày Mã Lương truy đuổi không kịp @c0101. Hình thái đặc biệt: người khổng lồ. Tại Vực Ngoại: có xác người khổng lồ Cự Ma tộc cổ đại — trán khắc hình búa đen — mà VL ký thác linh hồn vào tạm thời trong khe nứt để rèn thần thức @c0102. Mục tiêu tìm Nghịch Thiên Châu @c0083.",
       thanhVien: [],
-      nguon: ["@c0082", "@c0083"]
+      nguon: ["@c0082", "@c0083", "@c0101", "@c0102", "@c0104"]
     },
     {
       id: "hop-hoan-tong",
