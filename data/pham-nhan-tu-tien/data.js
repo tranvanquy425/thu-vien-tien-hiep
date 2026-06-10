@@ -86,7 +86,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].realms = {
 
 window.LIB_DATA["pham-nhan-tu-tien"].characters = {
   updatedAt: "2026-06-10",
-  count: 14,
+  count: 21,
   chars: [
     {
       id: "han-lap",
@@ -97,23 +97,26 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
       theLuc: [
         { ten: "Thất Huyền môn", trangThai: "gan-bo" }
       ],
-      canhGioiCaoNhat: "Phàm nhân — đang tu Vô danh khẩu quyết (tầng 2)",
+      canhGioiCaoNhat: "Phàm nhân — Vô danh khẩu quyết tầng 3 (Luyện Khí Kỳ tầng thấp)",
       trangThai: "song",
-      blurb: "Nhân vật chính. Xuất thân nông dân nghèo, trí tuệ vượt trội, tính cẩn thận và ẩn nhẫn. Vào Thất Huyền môn nhờ tam thúc tiến cử, được Mặc đại phu thu làm thân truyền đệ tử vì thể chất kỳ dị. Trong tay đang giữ một cái bình kim loại thần bí.",
+      blurb: "Nhân vật chính. Xuất thân nông dân nghèo, trí tuệ vượt trội, tính cẩn thận và ẩn nhẫn. Vào Thất Huyền môn nhờ tam thúc tiến cử, được Mặc đại phu thu làm thân truyền đệ tử vì thể chất kỳ dị. Sở hữu bình thần bí — vật bí ẩn hút linh khí và sinh ra Thần Bí Dịch. Thông thạo y thuật ngân châm, từng dùng Trừu Tủy Hoàn chia nhỏ làm dược dẫn.",
       vaiTro: "Nhân vật chính",
       tinhCach: [
         { text: "Thành thật, nhẫn nhịn, không tranh chấp — lời dặn của cha từ nhỏ", chuong: 1 },
         { text: "Tinh ranh, kín đáo, hay quan sát và đánh giá người xung quanh", chuong: 3 },
         { text: "Kiên trì cực độ, dốc hết sức dù cơ thể đã kiệt lực", chuong: 4 },
         { text: "Trọng tình nghĩa, nhớ nhà, thương tiểu muội", chuong: 6 },
-        { text: "Cẩn thận đề phòng, nhạy bén với những điều bất thường", chuong: 9 }
+        { text: "Cẩn thận đề phòng, nhạy bén với những điều bất thường", chuong: 9 },
+        { text: "Giữ bí mật tuyệt đối — bản năng mách bảo không tiết lộ cái bình cho bất kỳ ai, kể cả người thân", chuong: 12 },
+        { text: "Sau nhiều năm khổ tu, tâm ý chín chắn già dặn hơn tuổi, không còn nhiệt huyết bốc đồng của thuở trẻ", chuong: 16 }
       ],
       tabs: {
         diem: [
           { text: "Con thứ tư trong gia đình nông dân bảy miệng ăn, 10 tuổi khi rời nhà", chuong: 1 },
           { text: "Bị cả làng gọi hỗn danh \"Anh ngố\" dù thực ra thông minh nhất làng", chuong: 1 },
           { text: "Tay lạnh như băng — Mặc đại phu nhận xét không giống tay người sống", chuong: 8 },
-          { text: "Thể nội sinh ra lương khí (chân khí lạnh) khi tu Vô danh khẩu quyết — khác hẳn nhiệt lưu chân khí của đồng môn", chuong: 7 }
+          { text: "Thể nội sinh ra lương khí (chân khí lạnh) khi tu Vô danh khẩu quyết — khác hẳn nhiệt lưu chân khí của đồng môn", chuong: 7 },
+          { text: "Thông thạo y thuật ngân châm, am hiểu sâu về dược lý — học qua y tịch của Mặc đại phu", chuong: 20 }
         ],
         kinhLich: [
           { chuong: 1, importance: "major", text: "Tam thúc tiến cử dự kỳ khảo thí Thất Huyền môn; Hàn Lập lần đầu rời thôn." },
@@ -126,13 +129,21 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { chuong: 7, importance: "normal", text: "Phát hiện thể nội sinh lương khí lạnh — khác hẳn chân khí nóng của đồng môn tu Chính dương kinh." },
           { chuong: 8, importance: "major", text: "Qua khảo hạch; Mặc đại phu phát hiện thể chất kỳ dị, kích động thu làm thân truyền đệ tử." },
           { chuong: 9, importance: "major", text: "Được cấp thạch thất luyện công riêng và dược vật trân quý; đột phá luyện thành tầng 2 Vô danh khẩu quyết, bị nội thương nhẹ." },
-          { chuong: 10, importance: "major", text: "Nhặt được cái bình kim loại màu xanh biếc nặng bất thường trên đường mòn trong núi." }
+          { chuong: 10, importance: "major", text: "Nhặt được cái bình kim loại màu xanh biếc nặng bất thường trên đường mòn trong núi." },
+          { chuong: 12, importance: "normal", text: "Khảo sát bình thần bí — đập bằng thiết chùy tới mười hai phần công lực, bình vẫn không một vết xước, xác lập bản chất bất hoại. Quyết giấu kín bình vào túi da đeo cổ." },
+          { chuong: 13, importance: "major", text: "Bình thần bí lộ công năng lần đầu — hút ánh sáng trắng li ti từ không gian ban đêm, ra chỗ trống hút càng mạnh, tạo bồn ánh sáng lớn." },
+          { chuong: 14, importance: "major", text: "Sau 8 ngày bình hút ánh sáng, thân bình hiện phù hào vàng kim cổ xưa, nắp tự mở; bên trong lộ một giọt Thần Bí Dịch màu xanh biếc to bằng hạt đậu. Mặc đại phu dùng tiền thưởng mỗi tầng gấp đôi để thúc Hàn Lập tu điên cuồng." },
+          { bridge: true, khoang: "c0014–c0015", text: "Bốn năm khổ luyện trong Thần Thủ Cốc bị phong tỏa; Hàn Lập 14 tuổi, trầm mặc kiên nghị, vừa tu khẩu quyết vừa học y tịch của Mặc đại phu." },
+          { chuong: 15, importance: "normal", text: "Luyện tới tầng 3 Vô danh khẩu quyết thì đình trệ hơn một năm. Phát giác ánh mắt tham lam của Mặc đại phu — lòng đề phòng tăng dần. Mặc đại phu hạ sơn, để Hàn Lập một mình trong Thần Thủ Cốc." },
+          { bridge: true, khoang: "c0016–c0019", text: "Ra ngoài quan sát trường đấu giang hồ giữa các đệ tử (phe Vương đại bàn vs phe Trương Trường Quý). Dùng thủ thuật bịa thân phận để moi tin từ Kim Đông Bảo. Quan sát Lệ sư huynh thi triển Phong Lôi đao pháp đả bại Triệu Tử Linh. Hứa chữa bệnh miễn phí cho Kim Đông Bảo." },
+          { chuong: 20, importance: "major", text: "Cứu tỉnh Lệ sư huynh bằng ngân châm bên suối; vạch trần Lệ sư huynh bí mật dùng Trừu Tủy Hoàn cả viên nhiều năm để tăng võ công. Tự tiết lộ mình cũng từng dùng Trừu Tủy Hoàn nhưng chia một viên thành mười phần làm dược dẫn nên không bị hại." }
         ],
         tuViMoc: [
           { chuong: 1, canhGioi: "Phàm nhân", text: "Chưa tu luyện, không có một điểm chân khí." },
           { chuong: 6, canhGioi: "Phàm nhân — sơ học Vô danh khẩu quyết", text: "Bắt đầu tu Vô danh khẩu quyết, sinh ra tia lương khí lúc có lúc không." },
-          { chuong: 8, canhGioi: "Vô danh khẩu quyết — đang tu tầng 1", text: "Luồng năng lượng nội thể từ bằng sợi tóc tăng lên bằng sợi chỉ; vận hành được một chu thiên qua kỳ kinh bát mạch.", importance: "major" },
-          { chuong: 9, canhGioi: "Vô danh khẩu quyết — tầng 2", text: "Luyện thành tầng 2 nhờ dược vật trợ lực; bị nội thương nhẹ khi trùng quan do kinh mạch phá liệt.", importance: "major" }
+          { chuong: 8, canhGioi: "Vô danh khẩu quyết — tầng 1", text: "Luồng năng lượng nội thể từ bằng sợi tóc tăng lên bằng sợi chỉ; vận hành được một chu thiên qua kỳ kinh bát mạch.", importance: "major" },
+          { chuong: 9, canhGioi: "Vô danh khẩu quyết — tầng 2", text: "Luyện thành tầng 2 nhờ dược vật trợ lực; bị nội thương nhẹ khi trùng quan do kinh mạch phá liệt.", importance: "major" },
+          { chuong: 14, canhGioi: "Vô danh khẩu quyết — tầng 3 (Luyện Khí Kỳ tầng thấp)", text: "Sau 4 năm khổ tu, đột phá tầng 3 khẩu quyết vô danh; cảm quan cực kỳ mẫn duệ. Sau đó đình trệ hơn một năm.", importance: "major" }
         ],
         nhanMach: [
           { ten: "Tam thúc (Lão Hàn béo)", tag: "ho-hang", quanHe: "Chú ruột, đệ tử ngoại môn Thất Huyền môn, người tiến cử Hàn Lập" },
@@ -140,15 +151,19 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { ten: "Hàn mẫu", tag: "cha-me", quanHe: "Mẹ ruột" },
           { ten: "Tiểu muội muội", tag: "ho-hang", quanHe: "Em gái út, người Hàn Lập yêu thương nhất" },
           { ten: "Mặc đại phu", tag: "su-mon", quanHe: "Sư phụ thân truyền tại Thất Huyền môn" },
-          { ten: "Trương Thiết", tag: "ban-be", quanHe: "Bạn đồng môn thân nhất, cùng làm đệ tử Mặc đại phu" }
+          { ten: "Trương Thiết", tag: "ban-be", quanHe: "Bạn đồng môn thân nhất, cùng làm đệ tử Mặc đại phu; hiện mất tích" },
+          { ten: "Lệ sư huynh (Lệ hổ)", tag: "dong-mon", quanHe: "Đệ tử cùng môn; Hàn Lập cứu và vạch trần bí mật Trừu Tủy Hoàn" },
+          { ten: "Kim Đông Bảo (tiểu toán bàn)", tag: "dong-mon", quanHe: "Đệ tử cùng môn, nguồn tin tức; Hàn Lập hứa chữa bệnh miễn phí" }
         ],
         tuiDo: {
           phapBao: [
-            { ten: "Bình thần bí", loai: "pháp bảo (chưa xác định)", trangThai: "đang giữ", moTa: "Bình kim loại màu xanh biếc, hoa văn xanh lá, quai tinh xảo ở cổ, nặng bất thường, bên trong có chất lỏng sóng sánh, nắp chưa mở được.", nguon: ["c0010"] }
+            { ten: "Bình thần bí", loai: "pháp bảo (bất hoại, hút linh khí)", trangThai: "đang giữ — đeo trong túi da ở cổ", moTa: "Bình màu xanh nhạt, hoa văn lá xanh biếc sống động, chất liệu lạ không phải kim loại cũng không phải đồ sứ. Bất hoại trước vũ lực phàm nhân. Hút linh khí ban đêm, sau 8 ngày hiện phù hào vàng kim và nắp tự mở, bên trong có Thần Bí Dịch.", nguon: ["c0010", "c0012", "c0013", "c0014"] }
           ],
-          danDuoc: [],
+          danDuoc: [
+            { ten: "Trừu Tủy Hoàn", loai: "đan dược (từng dùng chia nhỏ)", trangThai: "đã dùng", moTa: "Từng chia một viên thành mười phần làm dược dẫn — cách dùng an toàn không gây hại.", nguon: ["c0020"] }
+          ],
           congPhap: [
-            { ten: "Vô danh khẩu quyết", loai: "công pháp tu thân", trangThai: "đang tu (tầng 2)", moTa: "Do Mặc đại phu truyền; sinh ra lương khí lạnh trong nội thể. Nghiêm cấm truyền ra ngoài.", nguon: ["c0006", "c0007", "c0008", "c0009"] }
+            { ten: "Vô danh khẩu quyết", loai: "công pháp tu thân", trangThai: "đang tu (tầng 3, đình trệ)", moTa: "Do Mặc đại phu truyền; sinh ra lương khí lạnh trong nội thể. Nghiêm cấm truyền ra ngoài.", nguon: ["c0006", "c0007", "c0008", "c0009", "c0014", "c0015"] }
           ],
           linhThu: [],
           nguyenLieu: [],
@@ -157,7 +172,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
         }
       },
       uuTien: 1,
-      nguon: ["c0001", "c0002", "c0003", "c0004", "c0005", "c0006", "c0007", "c0008", "c0009", "c0010"]
+      nguon: ["c0001", "c0002", "c0003", "c0004", "c0005", "c0006", "c0007", "c0008", "c0009", "c0010", "c0011", "c0012", "c0013", "c0014", "c0015", "c0016", "c0017", "c0018", "c0019", "c0020"]
     },
     {
       id: "mac-dai-phu",
@@ -170,25 +185,29 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
       ],
       canhGioiCaoNhat: "Người tu luyện — mức độ thực sự chưa rõ",
       trangThai: "song",
-      blurb: "Thầy thuốc bí ẩn của Thất Huyền môn, ở tại Thần thủ cốc. Cứu mạng Vương môn chủ nên được mời nhập môn. Bề ngoài già yếu ho khan nhưng được mọi sư huynh kính trọng hơn cả đường chủ. Mưu cầu trường sinh bất tử; đối đãi Hàn Lập vượt quá tình thầy trò bình thường.",
+      blurb: "Thầy thuốc bí ẩn của Thất Huyền môn, ở tại Thần thủ cốc. Cứu mạng Vương môn chủ nên được mời nhập môn. Bề ngoài già yếu ho khan nhưng được mọi sư huynh kính trọng hơn cả đường chủ. Mưu cầu trường sinh bất tử; dùng tiền thưởng thúc Hàn Lập tu điên cuồng và phong tỏa Thần Thủ Cốc để hắn chuyên tâm. Đối đãi Hàn Lập hậu hĩnh vượt quá tình thầy trò bình thường, song ánh mắt ẩn chứa tham lam như nhìn đồ vật.",
       vaiTro: "Sư phụ của Hàn Lập",
       tinhCach: [
         { text: "Lạnh lùng, ít nói, vô biểu cảm trong sinh hoạt hằng ngày", chuong: 6 },
         { text: "Khi phát hiện thể chất kỳ dị Hàn Lập, kích động đến mức điên cuồng, suýt mất kiểm soát", chuong: 8 },
-        { text: "Nghiêm cấm tiết lộ Vô danh khẩu quyết — trịnh trọng bất thường với công pháp này", chuong: 6 }
+        { text: "Nghiêm cấm tiết lộ Vô danh khẩu quyết — trịnh trọng bất thường với công pháp này", chuong: 6 },
+        { text: "Nắm bắt tâm lý đệ tử, biết dùng tiền bạc làm đòn bẩy thúc đẩy tu luyện", chuong: 14 }
       ],
       tabs: {
         diem: [
           { text: "Hơn sáu mươi tuổi, tóc bạc, da nhăn, ho khan liên tục — trông như sắp ngã", chuong: 5 },
           { text: "Vốn không phải đệ tử Thất Huyền môn gốc; được Vương môn chủ mời nhập môn sau khi cứu mạng lão", chuong: 6 },
           { text: "Có một thân công phu nhưng chưa từng để đệ tử thấy thân thủ", chuong: 6 },
-          { text: "Ngày ngày ôm khư khư cuốn Trường sinh kinh — mưu cầu sống quá ngàn năm", chuong: 7 }
+          { text: "Ngày ngày ôm khư khư cuốn Trường sinh kinh — mưu cầu sống quá ngàn năm", chuong: 7 },
+          { text: "Sức khỏe suy sụp rõ rệt sau 4 năm: ho khan liên miên, lão hóa nhanh, bệnh ngày càng nặng", chuong: 15 }
         ],
         kinhLich: [
           { chuong: 5, importance: "major", text: "Bước ra từ rừng rậm, thiếu nhân thủ, chỉ ngay vào hai ký danh đệ tử Hàn Lập và Trương Thiết bắt về Thần thủ cốc." },
           { chuong: 6, importance: "major", text: "Chính thức nhận Hàn Lập và Trương Thiết làm đệ tử ký danh; truyền Vô danh khẩu quyết với điều kiện tra khảo." },
           { chuong: 8, importance: "major", text: "Kiểm tra và phát hiện thể chất kỳ dị của Hàn Lập; thu làm thân truyền đệ tử. Đột ngột đổi ý nhận cả Trương Thiết với tâm pháp khác." },
-          { chuong: 9, importance: "normal", text: "Cấp thạch thất luyện công riêng và dược vật trân quý cho Hàn Lập; truyền Tượng giáp công cho Trương Thiết." }
+          { chuong: 9, importance: "normal", text: "Cấp thạch thất luyện công riêng và dược vật trân quý cho Hàn Lập; truyền Tượng giáp công cho Trương Thiết." },
+          { chuong: 14, importance: "normal", text: "Hứa thưởng bạc trắng tăng gấp đôi mỗi tầng khẩu quyết Hàn Lập đột phá; phong tỏa Thần Thủ Cốc để hắn chuyên tâm tu luyện." },
+          { chuong: 15, importance: "normal", text: "Hạ sơn tìm dược tài — rời Thất Huyền môn, để Hàn Lập ở lại Thần Thủ Cốc một mình. Sức khỏe suy sụp, dược vật trợ lực đã cạn kiệt." }
         ],
         tuViMoc: [],
         nhanMach: [
@@ -210,7 +229,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
         }
       },
       uuTien: 2,
-      nguon: ["c0005", "c0006", "c0007", "c0008", "c0009", "c0010"]
+      nguon: ["c0005", "c0006", "c0007", "c0008", "c0009", "c0010", "c0011", "c0013", "c0014", "c0015", "c0020"]
     },
     {
       id: "truong-thiet",
@@ -221,27 +240,33 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
       theLuc: [
         { ten: "Thất Huyền môn", trangThai: "gan-bo" }
       ],
-      canhGioiCaoNhat: "Phàm nhân — đang tu Tượng giáp công (tầng 1 đỉnh phong)",
-      trangThai: "song",
-      blurb: "Bạn thân và đồng môn của Hàn Lập tại Thất Huyền môn. Xuất thân từ nhà hàng ăn, tính chu đáo tốt bụng. Không tu được Vô danh khẩu quyết nhưng được Mặc đại phu truyền Tượng giáp công — môn võ công luyện thể cực hiếm.",
+      canhGioiCaoNhat: "Phàm nhân (võ giả) — Tượng giáp công tầng 3",
+      trangThai: "mat-tich",
+      blurb: "Bạn thân và đồng môn của Hàn Lập tại Thất Huyền môn. Xuất thân từ nhà hàng ăn, tính chu đáo tốt bụng. Không tu được Vô danh khẩu quyết nhưng được Mặc đại phu truyền Tượng giáp công — môn võ công luyện thể cực hiếm. Sau khi luyện thành tầng 3, để lại thư cáo từ nói đi lịch lãm giang hồ rồi biến mất, gây chấn động Thất Huyền môn.",
       vaiTro: "Bạn đồng môn thân thiết của Hàn Lập",
       tinhCach: [
         { text: "Chu đáo, tốt bụng — mang bánh bao cho Hàn Lập khi nhớ ra bạn chưa ăn", chuong: 6 },
-        { text: "Khổ tu không ngại đau đớn, ngồi dưới thác nước chịu trùng kích để luyện Tượng giáp công", chuong: 9 }
+        { text: "Kiên trì khổ luyện không ngại đau đớn, ngồi dưới thác nước chịu trùng kích để luyện Tượng giáp công", chuong: 9 },
+        { text: "Sẵn lòng giúp bạn thử mở bình dù không biết lý do; không hỏi nhiều", chuong: 11 }
       ],
       tabs: {
         diem: [
           { text: "Nhà bán quán (gia đình làm hàng ăn) nên quen lấy đồ ăn", chuong: 6 },
-          { text: "Khổ tu Vô danh khẩu quyết không kém Hàn Lập nhưng thể nội hoàn toàn không có phản ứng", chuong: 8 }
+          { text: "Khổ tu Vô danh khẩu quyết không kém Hàn Lập nhưng thể nội hoàn toàn không có phản ứng", chuong: 8 },
+          { text: "Sức lực lớn phi thường: hai tay nhấc nổi hơn mười thùng nước, lên xuống núi nhanh như bay", chuong: 11 }
         ],
         kinhLich: [
           { chuong: 5, importance: "normal", text: "Cùng Hàn Lập được Mặc đại phu chọn làm ký danh đệ tử tại Thần thủ cốc." },
           { chuong: 6, importance: "normal", text: "Đưa bánh bao cho Hàn Lập; được Hàn Lập gọi là Trương ca." },
           { chuong: 8, importance: "major", text: "Qua khảo hạch nhờ Mặc đại phu đột ngột đổi ý — đề nghị tâm pháp khác phù hợp với hắn." },
-          { chuong: 9, importance: "major", text: "Được truyền Tượng giáp công; chỉ sau hai tháng đã luyện tầng 1 tới đỉnh phong, đang ngồi dưới thác nước chuẩn bị đột phá tầng 2." }
+          { chuong: 9, importance: "major", text: "Được truyền Tượng giáp công; chỉ sau hai tháng đã luyện tầng 1 tới đỉnh phong, đang ngồi dưới thác nước chuẩn bị đột phá tầng 2." },
+          { chuong: 11, importance: "normal", text: "Giúp Hàn Lập thử vặn mở bình thần bí nhưng cũng thất bại — bình hoàn toàn không nhúc nhích dù dùng hết sức." },
+          { chuong: 13, importance: "normal", text: "Kể cho Hàn Lập nghe sự tàn khốc của Tượng giáp công tầng 1: Mặc đại phu bôi thuốc hôi và dùng gậy gỗ đánh rèn gân cốt, đêm không ngủ yên." },
+          { chuong: 15, importance: "major", text: "Hai năm trước luyện thành Tượng giáp công tầng 3 rồi đột nhiên biến mất, chỉ để lại thư cáo từ nói muốn đi lịch lãm giang hồ — Thất Huyền môn chấn động." }
         ],
         tuViMoc: [
-          { chuong: 9, canhGioi: "Tượng giáp công — tầng 1 đỉnh phong", text: "Da thịt dày chắc hơn, lực khí bền bỉ hơn; đang ngồi dưới thác để chuẩn bị đột phá tầng 2.", importance: "major" }
+          { chuong: 9, canhGioi: "Tượng giáp công — tầng 1 đỉnh phong", text: "Da thịt dày chắc hơn, lực khí bền bỉ hơn; đang ngồi dưới thác để chuẩn bị đột phá tầng 2.", importance: "major" },
+          { chuong: 15, canhGioi: "Tượng giáp công — tầng 3", text: "Luyện thành tầng 3 rồi rời môn bí ẩn — thông tin qua hồi cố, không có chi tiết quá trình đột phá.", importance: "major" }
         ],
         nhanMach: [
           { ten: "Hàn Lập", tag: "ban-be", quanHe: "Bạn thân đồng môn" },
@@ -251,7 +276,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           phapBao: [],
           danDuoc: [],
           congPhap: [
-            { ten: "Tượng giáp công", loai: "công pháp luyện thể", trangThai: "đang tu (tầng 1 đỉnh phong)", moTa: "Do Mặc đại phu truyền; môn võ công ngoại gia chín tầng cực hiếm.", nguon: ["c0009"] }
+            { ten: "Tượng giáp công", loai: "công pháp luyện thể", trangThai: "đã luyện (tầng 3)", moTa: "Do Mặc đại phu truyền; môn võ công ngoại gia chín tầng cực hiếm. Luyện thành tầng 3 thì rời môn.", nguon: ["c0009", "c0013", "c0015"] }
           ],
           linhThu: [],
           nguyenLieu: [],
@@ -259,7 +284,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           khac: []
         }
       },
-      nguon: ["c0005", "c0006", "c0007", "c0008", "c0009", "c0010"]
+      nguon: ["c0005", "c0006", "c0007", "c0008", "c0009", "c0010", "c0011", "c0013", "c0015"]
     },
     {
       id: "tam-thuc",
@@ -587,6 +612,232 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
         tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
       },
       nguon: ["c0005"]
+    },
+    {
+      id: "le-su-huynh",
+      name: "Lệ sư huynh",
+      cn: null,
+      aliases: ["Lệ hổ"],
+      gioiTinh: "nam",
+      theLuc: [
+        { ten: "Thất Huyền môn", trangThai: "gan-bo" }
+      ],
+      canhGioiCaoNhat: "Phàm nhân (võ giả)",
+      trangThai: "song",
+      blurb: "Đệ tử Thất Huyền môn, ký danh đệ tử nhưng tự lực vươn lên top hạng môn phái nhờ sức luyện phi thường. Phá kỷ lục trắc thí (vượt 30 chiêu), được danh hiệu giang hồ \"Lệ hổ\", sắp được đặc cách vào Thất Tuyệt đường. Bí mật dùng Trừu Tủy Hoàn cả viên nhiều năm để tăng vọt võ công — đổi tuổi thọ lấy thực lực. Được Hàn Lập cứu và vạch trần bí mật.",
+      vaiTro: "Đệ tử nội môn xuất sắc Thất Huyền môn",
+      tinhCach: [
+        { text: "Thần sắc lãnh khốc, quyết đoán, khí thế ngút trời khi ra trận", chuong: 17 },
+        { text: "Bề ngoài tiêu sái vô địch, bên trong ẩn giấu bí mật chết người", chuong: 20 }
+      ],
+      tabs: {
+        diem: [
+          { text: "Thượng sơn 4 năm trước, không qua khảo hạch, vào với tư cách ký danh đệ tử như Hàn Lập", chuong: 18 },
+          { text: "Căn cốt bình thường, tiềm lực hữu hạn — không ai ở cao tầng chịu nhận làm đệ tử; chỉ bái một hộ pháp bình thường, học Phong Lôi đao pháp", chuong: 18 },
+          { text: "Nửa năm sau thượng sơn: đứng hạng nhất trắc thí ký danh, phá kỷ lục vượt 30 chiêu khi đối kháng sư huynh", chuong: 18 },
+          { text: "Tự lực leo top 16 nội môn (tân đệ tử duy nhất), năm sau đạt hạng ba toàn môn", chuong: 18 }
+        ],
+        kinhLich: [
+          { chuong: 17, importance: "normal", text: "Xuất hiện lần đầu trong trường đấu — được cả hai phe đồng loạt hô tên cổ vũ khi bước vào trận cuối. Cầm đao nhắm mắt, thần sắc lãnh khốc." },
+          { chuong: 18, importance: "normal", text: "Tiểu sử được kể lại: ký danh đệ tử tự lực vươn lên top hạng, danh hiệu \"Lệ hổ\", sắp vào Thất Tuyệt đường. Dùng Phong Lôi đao pháp hóa hơn mười đao ảnh, hét vang như sấm, áp đảo Triệu Tử Linh." },
+          { chuong: 19, importance: "minor", text: "Thắng Triệu Tử Linh — liên hoàn đao chấn bay nhuyễn kiếm, Triệu Tử Linh cam bái hạ phong. Đột nhiên biến sắc, viện cớ việc gấp, dùng khinh công cao minh vội rời trường." },
+          { chuong: 20, importance: "major", text: "Bệnh cấp tính phát tác bên suối, gần chết. Được Hàn Lập cứu bằng ngân châm. Bí mật bị vạch trần: dùng Trừu Tủy Hoàn cả viên nhiều năm, chỉ còn sống thêm 5-6 năm. Phải tự chọn: nhờ Mặc đại phu phối bí dược (sống thêm 20-30 năm, mất võ công) hay tiếp tục dùng hoàn." }
+        ],
+        tuViMoc: [
+          { chuong: 18, canhGioi: "Phàm nhân (võ giả) — Phong Lôi đao pháp đỉnh", text: "Thực lực hạng ba toàn môn Thất Huyền môn nhờ kết hợp Phong Lôi đao pháp và Trừu Tủy Hoàn tăng cường thân thể." }
+        ],
+        nhanMach: [
+          { ten: "Hàn Lập", tag: "dong-mon", quanHe: "Người cứu mạng, vạch trần bí mật Trừu Tủy Hoàn" },
+          { ten: "Triệu Tử Linh", tag: "doi-dich-tam-thoi", quanHe: "Đối thủ trong trường đấu, bị Lệ sư huynh đánh bại" }
+        ],
+        tuiDo: {
+          phapBao: [
+            { ten: "Trường đao", loai: "binh khí phàm tục", trangThai: "đang giữ", moTa: "Đao hàn quang, dùng thi triển Phong Lôi đao pháp.", nguon: ["c0017", "c0018"] }
+          ],
+          danDuoc: [
+            { ten: "Trừu Tủy Hoàn", loai: "đan dược (đang dùng)", trangThai: "đang dùng — cả viên", moTa: "Dùng cả viên để tăng vọt võ công; chỉ còn sống thêm 5-6 năm.", nguon: ["c0020"] }
+          ],
+          congPhap: [
+            { ten: "Phong Lôi đao pháp / Bôn Lôi đao pháp", loai: "đao pháp võ lâm", trangThai: "thành thục", moTa: "Đao pháp trung tầng Thất Huyền môn, liên hoàn đao thức, hét vang như sấm áp chế đối thủ, chém đá chặt vàng.", nguon: ["c0017", "c0018", "c0019"] }
+          ],
+          linhThu: [],
+          nguyenLieu: [],
+          linhThao: [],
+          khac: []
+        }
+      },
+      nguon: ["c0017", "c0018", "c0019", "c0020"]
+    },
+    {
+      id: "kim-dong-bao",
+      name: "Kim Đông Bảo",
+      cn: null,
+      aliases: ["tiểu toán bàn", "vạn sự thông"],
+      gioiTinh: "nam",
+      theLuc: [
+        { ten: "Thất Huyền môn", trangThai: "gan-bo" }
+      ],
+      canhGioiCaoNhat: "Phàm nhân (võ giả)",
+      trangThai: "song",
+      blurb: "Đệ tử trẻ của Thất Huyền môn, biệt danh \"tiểu toán bàn\" và \"vạn sự thông\" vì hay tính toán và biết hết chuyện trong môn. Là nguồn cung cấp thông tin cho Hàn Lập khi hắn quan sát trường đấu. Hứa được Hàn Lập chữa bệnh miễn phí.",
+      vaiTro: "Đệ tử cùng môn, nguồn tin tức",
+      tinhCach: [
+        { text: "Hay tính toán vụ lợi, xu viêm phụ thế — đổi ngay từ \"sư đệ\" sang \"sư huynh\" khi tưởng Hàn Lập có thế lực", chuong: 17 },
+        { text: "Miệng không ngừng, hào hứng kể chuyện, dễ tin người khi được chứng minh thân phận", chuong: 19 }
+      ],
+      tabs: {
+        diem: [
+          { text: "Biết hết mọi người, mọi sự trong môn — tự xưng \"vạn sự thông\"", chuong: 16 },
+          { text: "Tục danh Kim Đông Bảo — lộ rõ khi Hàn Lập hỏi thẳng", chuong: 19 }
+        ],
+        kinhLich: [
+          { chuong: 16, importance: "normal", text: "Đứng ngoài cổ vũ, kể cho Hàn Lập nghe toàn bộ nguyên do trường đấu (bi kịch Vương Dạng, mâu thuẫn phe phái)." },
+          { chuong: 17, importance: "minor", text: "Đổi thái độ lập tức khi tưởng Hàn Lập là đệ tử cung phụng quyền thế; bắt đầu nghi ngờ khi thấy hắn không có dấu hiệu nội công." },
+          { chuong: 19, importance: "minor", text: "Xác nhận thân phận Hàn Lập qua lệnh bài nội môn; kể bối cảnh chiến tranh Thất Huyền Môn — Dã Lang Bang và môn quy mới. Tục danh Kim Đông Bảo được hé lộ; Hàn Lập hứa chữa bệnh/thương miễn phí." }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Hàn Lập", tag: "dong-mon", quanHe: "Quen biết tại trường đấu; được hứa chữa bệnh miễn phí" }
+        ],
+        tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
+      },
+      nguon: ["c0016", "c0017", "c0019"]
+    },
+    {
+      id: "trieu-tu-linh",
+      name: "Triệu Tử Linh",
+      cn: null,
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: [
+        { ten: "Thất Huyền môn", trangThai: "gan-bo" }
+      ],
+      canhGioiCaoNhat: "Phàm nhân (võ giả)",
+      trangThai: "song",
+      blurb: "Đệ tử của ngũ trưởng lão Thất Huyền môn. Kẻ mạnh nhất phe Trương Trường Quý trong trường đấu — dùng nhuyễn kiếm, kiếm pháp âm độc gian xảo, phòng thủ kín. Thua Lệ sư huynh: bị liên hoàn đao chấn bay nhuyễn kiếm, hổ khẩu tay phải bị thương, cam bái hạ phong.",
+      vaiTro: "Đệ tử ngũ trưởng lão, đấu thủ phe Trương Trường Quý",
+      tinhCach: [
+        { text: "Tuy thua nhưng vẫn mỉm cười thi lễ — phong độ không mất mặt", chuong: 19 }
+      ],
+      tabs: {
+        diem: [
+          { text: "Đệ tử ngũ trưởng lão — thế lực sau lưng mạnh hơn bình thường", chuong: 18 },
+          { text: "Dùng nhuyễn kiếm mỏng mềm, kiếm pháp phiêu hốt bất định, âm độc gian xảo, phòng thủ như giọt nước không lọt", chuong: 18 }
+        ],
+        kinhLich: [
+          { chuong: 18, importance: "normal", text: "Được Trương Trường Quý cử ra đấu với Lệ sư huynh — người mạnh nhất phía mình. Phòng thủ kín nhưng khí thế đã mất trước liên hoàn đao áp đảo." },
+          { chuong: 19, importance: "normal", text: "Bị liên hoàn đao của Lệ sư huynh chấn bay nhuyễn kiếm, hổ khẩu tay phải bị thương; cam bái hạ phong, mỉm cười thi lễ." }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Ngũ trưởng lão", tag: "su-mon", quanHe: "Sư phụ" },
+          { ten: "Lệ sư huynh", tag: "doi-dich-tam-thoi", quanHe: "Đối thủ trường đấu, người đánh bại mình" }
+        ],
+        tuiDo: {
+          phapBao: [],
+          danDuoc: [],
+          congPhap: [
+            { ten: "Nhuyễn kiếm pháp", loai: "kiếm pháp võ lâm", trangThai: "thành thục", moTa: "Dùng nhuyễn kiếm mỏng mềm, kiếm pháp phiêu hốt bất định, âm độc gian xảo.", nguon: ["c0018", "c0019"] }
+          ],
+          linhThu: [],
+          nguyenLieu: [],
+          linhThao: [],
+          khac: []
+        }
+      },
+      nguon: ["c0018", "c0019"]
+    },
+    {
+      id: "vuong-dai-ban",
+      name: "Vương đại bàn",
+      cn: null,
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: [
+        { ten: "Thất Huyền môn", trangThai: "gan-bo" }
+      ],
+      canhGioiCaoNhat: "Phàm nhân (võ giả)",
+      trangThai: "song",
+      blurb: "Đệ tử Thất Huyền môn, hảo hữu của Hàn Lập. Thân hình béo mập nhưng hạ bàn vững, quyền cước có lực, quan hệ rộng ở tầng trung-hạ. Đứng ra báo thù cho đường đệ Vương Dạng bị cướp hôn ước, cầm đầu phe trung-hạ tầng trong trường đấu với phe phú gia đệ tử của Trương Trường Quý.",
+      vaiTro: "Đệ tử Thất Huyền môn, cầm đầu phe trung-hạ tầng trong tranh chấp",
+      tinhCach: [
+        { text: "Trọng nghĩa khí, đứng ra báo thù cho đường đệ; sau khi thắng thì đắc ý lắc mông khoe khoang", chuong: 16 }
+      ],
+      tabs: {
+        diem: [
+          { text: "Quan hệ rộng ở tầng trung-hạ — thu hút nhiều đệ tử tự nguyện giúp", chuong: 16 }
+        ],
+        kinhLich: [
+          { chuong: 16, importance: "normal", text: "Thắng trận mở màn bằng quyền trúng gáy đối thủ, khiến hắn ngất xỉu. Sau đó đắc ý khoe khoang." }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Vương Dạng", tag: "ho-hang", quanHe: "Đường đệ, đã tự tử" },
+          { ten: "Trương Trường Quý", tag: "doi-dich", quanHe: "Đối thủ trong tranh chấp" },
+          { ten: "Hàn Lập", tag: "ban-be", quanHe: "Hảo hữu trong môn" }
+        ],
+        tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
+      },
+      nguon: ["c0016", "c0017", "c0020"]
+    },
+    {
+      id: "truong-truong-quy",
+      name: "Trương Trường Quý",
+      cn: null,
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: [
+        { ten: "Thất Huyền môn", trangThai: "gan-bo" }
+      ],
+      canhGioiCaoNhat: "Phàm nhân (võ giả)",
+      trangThai: "song",
+      blurb: "Con lão bản tiền trang, nội môn đệ tử Thất Huyền môn. Tâm cao khí ngạo, ỷ tiền bạc. Ép cô gái (vợ chưa cưới Vương Dạng) cải hôn theo mình, gây ra cái chết của Vương Dạng và trận đấu phe phái với Vương đại bàn. Tự biết võ kém nên đòi đấu nhiều trận tính tổng và dùng tiền chiêu mộ trợ thủ phú gia đệ tử.",
+      vaiTro: "Đệ tử phú gia, cầm đầu phe đối địch trong tranh chấp",
+      tinhCach: [
+        { text: "Ỷ tiền bạc lấn át, cướp hôn ước người khác; khôn vặt dùng tiền chiêu mộ thay vì tự đấu", chuong: 16 }
+      ],
+      tabs: {
+        diem: [
+          { text: "Con lão bản tiền trang — giàu có, dùng tiền chiêu mộ trợ thủ phú gia đệ tử", chuong: 16 }
+        ],
+        kinhLich: [
+          { chuong: 16, importance: "normal", text: "Ép cô gái cải hôn, dẫn tới cái chết Vương Dạng. Tổ chức đấu phe với Vương đại bàn — đòi chia nhiều trận tính tổng, dùng tiền mộ trợ thủ." }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Vương đại bàn", tag: "doi-dich", quanHe: "Đối thủ trong tranh chấp" },
+          { ten: "Triệu Tử Linh", tag: "dong-minh", quanHe: "Đấu thủ đại diện phe mình" }
+        ],
+        tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
+      },
+      nguon: ["c0016", "c0017", "c0018", "c0019", "c0020"]
+    },
+    {
+      id: "vuong-duong",
+      name: "Vương Dạng",
+      cn: null,
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: [
+        { ten: "Thất Huyền môn — ngoại môn", trangThai: "da-roi" }
+      ],
+      canhGioiCaoNhat: "Phàm nhân",
+      trangThai: "tu-vong",
+      blurb: "Đường đệ Vương đại bàn, ngoại môn đệ tử Thất Huyền môn. Có hôn ước từ nhỏ với một cô gái; cô gái bị Trương Trường Quý ỷ tiền ép cải hôn. Vương Dạng đau khổ nhảy sông tự tử — cái chết của hắn là ngòi nổ cho trận đấu phe phái giữa Vương đại bàn và Trương Trường Quý.",
+      vaiTro: "Nhân vật nền — nguyên nhân của trận đấu phe phái",
+      tinhCach: [],
+      tabs: {
+        diem: [],
+        kinhLich: [
+          { chuong: 16, importance: "normal", text: "Bị Trương Trường Quý ỷ tiền cướp hôn ước (cô gái cải hôn); đau khổ nhảy sông tự tử. Cái chết thúc đẩy Vương đại bàn tìm Trương Trường Quý quyết đấu." }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Vương đại bàn", tag: "ho-hang", quanHe: "Đường huynh" }
+        ],
+        tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
+      },
+      nguon: ["c0016"]
     }
   ]
 };
