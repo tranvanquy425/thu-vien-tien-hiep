@@ -85,8 +85,8 @@ window.LIB_DATA["pham-nhan-tu-tien"].realms = {
 };
 
 window.LIB_DATA["pham-nhan-tu-tien"].characters = {
-  updatedAt: "2026-06-10",
-  count: 25,
+  updatedAt: "2026-06-11",
+  count: 32,
   chars: [
     {
       id: "han-lap",
@@ -1164,7 +1164,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
       soHuu: ["Hàn Lập"],
       trangThai: "đang giữ — đeo trong túi da ở cổ",
       blurb: "Cái bình thần bí màu xanh nhạt Hàn Lập nhặt được trên đường mòn trong núi. Bất hoại trước vũ lực phàm nhân. Hút ánh sáng trắng ban đêm; sau 8 ngày hấp thụ hiện phù hào vàng kim cổ xưa, nắp tự mở, bên trong chứa một giọt Thần Bí Dịch màu xanh biếc.",
-      detail: "Bình nhỏ gọn vừa một bàn tay, toàn thân màu xanh nhàn nhạt, hoa văn hình lá xanh biếc sống động. Chất liệu lạ không phải kim loại cũng không phải đồ sứ. Niêm phong cực chặt, nắp và thân như đúc liền khối khi chưa kích hoạt. BẤT HOẠI: bị đập bằng thiết chùy tới mười hai phần công lực vẫn không một vết xước. HÚT LINH KHÍ: ban đêm hút ánh sáng trắng li ti từ không gian xung quanh (quang điểm); chỉ kích hoạt vào đêm trời quang thấy rõ sao trăng. Sau 8 ngày hấp thụ, hiện phù hào vàng kim và nắp tự mở; bên trong có một giọt Thần Bí Dịch (lục dịch). THÔI SANH DƯỢC THẢO: nhỏ trực tiếp một giọt lục dịch nguyên chất lên một gốc dược thảo, tăng khoảng 100 năm tuổi/dược tính; khoảng 7 ngày tái sinh một giọt. Lục dịch chỉ giữ được trong bình — rời bình một khắc tan biến, không vật chứa nào tích trữ được. Hòa tan vào chất lỏng khác thì hiệu quả giảm mạnh. Pha loãng cho thỏ uống: thỏ da nổi vết phồng, thân thể trướng phồng rồi nổ banh — là kịch độc chết người. Lai lịch và tên chính thức chưa được nguyên tác tiết lộ ở giai đoạn này.",
+      detail: "Bình nhỏ gọn vừa một bàn tay, toàn thân màu xanh nhàn nhạt, hoa văn hình lá xanh biếc sống động. Chất liệu lạ không phải kim loại cũng không phải đồ sứ. Niêm phong cực chặt, nắp và thân như đúc liền khối khi chưa kích hoạt. BẤT HOẠI: bị đập bằng thiết chùy tới mười hai phần công lực vẫn không một vết xước. HÚT LINH KHÍ: ban đêm hút ánh sáng trắng li ti từ không gian xung quanh (quang điểm); chỉ kích hoạt vào đêm trời quang thấy rõ sao trăng. Sau 8 ngày hấp thụ, hiện phù hào vàng kim và nắp tự mở; bên trong có một giọt Thần Bí Dịch (lục dịch). THÔI SANH DƯỢC THẢO: nhỏ trực tiếp một giọt lục dịch nguyên chất lên một gốc dược thảo, tăng khoảng 100 năm tuổi/dược tính; khoảng 7 ngày tái sinh một giọt. Lục dịch chỉ giữ được trong bình — rời bình một khắc tan biến, không vật chứa nào tích trữ được. Hòa tan vào chất lỏng khác thì hiệu quả giảm mạnh. Pha loãng cho thỏ uống: thỏ da nổi vết phồng, thân thể trướng phồng rồi nổ banh — là kịch độc chết người. Lai lịch và tên gọi chính thức của chiếc bình vẫn còn là một bí ẩn.",
       nguon: ["c0010", "c0011", "c0012", "c0013", "c0014", "c0023", "c0024", "c0025", "c0026"]
     },
     {
@@ -1381,12 +1381,12 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
       cn: null,
       category: "nguyen-lieu",
       categoryLabel: "Nguyên liệu dược thảo",
-      phamCap: "Chưa xác định",
-      soHuu: ["Không rõ"],
-      trangThai: "được nhắc đến trong nguyên tác",
-      blurb: "Dược thảo được nhắc đến trong phạm vi đợt 06. Chi tiết cụ thể về công dụng và lai lịch chưa được nguyên tác khai triển đầy đủ tại giai đoạn này.",
-      detail: "Xuất hiện trong context các chương 51-60 liên quan đến dược liệu tu tiên. Thông tin bổ sung sẽ được cập nhật khi nguyên tác khai triển thêm.",
-      nguon: ["c0051"]
+      phamCap: "Dược thảo thường",
+      soHuu: ["Dược điếm thế tục"],
+      trangThai: "nguyên liệu phụ",
+      blurb: "Loại hoa thảo bình thường, ngoại hình rất giống Huyết linh thảo trân quý nên thường bị nhầm lẫn hoặc bày cạnh nhau.",
+      detail: "Chính vì hồng du hoa giống hệt Huyết linh thảo mà một quả Huyết linh thảo hiếm bị để lẫn cạnh nó tại một dược điếm thế tục — Dư Tử Đồng tình cờ nhận ra giá trị thật, bỏ tiền mua được, từ đó dẫn tới vụ tranh chấp và chuỗi biến cố khiến hắn trọng thương rồi mất mạng dưới tay Mặc đại phu. Bản thân hồng du hoa chỉ là dược liệu phổ thông, dùng để đối chiếu nhận dạng.",
+      nguon: ["c0058"]
     },
     {
       id: "bao-menh-phu",
