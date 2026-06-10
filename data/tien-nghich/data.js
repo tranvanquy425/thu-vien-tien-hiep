@@ -877,7 +877,7 @@ window.LIB_DATA["tien-nghich"].characters = {
             { ten: "Diện Hồn kỳ", moTa: "Tiểu kỳ phong ấn hơn trăm linh hồn tu sĩ Tu Ma Hải (gồm Tang Mộc Nhai); VL dùng làm nguồn tin và nuôi ma đầu (@c0125, @c0126).", nguon: "@c0125" },
             { ten: "Giao long bì giáp / nội giáp", moTa: "Da con giao long (trung phẩm linh thú) Lý Mộ Uyển chế thành hai bộ nội giáp phòng ngự mạnh (tự khôi phục); VL mặc một bộ, một đoạn da dài hơn nghìn trượng được đem đổi lấy Bách Thú Linh Lô (@c0126, @c0127).", nguon: "@c0126, @c0127" },
             { ten: "Hai mảnh ngọc phù (di vật sư phụ Thượng Quan Mặc)", moTa: "Pháp bảo phòng thân duy nhất sư phụ Thượng Quan Mặc lưu lại, chống được một kích toàn lực của cao thủ Nguyên Anh kỳ; tự vỡ thành hai mảnh khi đỡ Tử Chú thuật, bị VL thu (@c0129).", nguon: "@c0129" },
-            { ten: "Họa trục (cuộn tranh phong ấn)", moTa: "Cuộn tranh cổ phát hiện trong túi trữ vật ma đầu; bên trong phong ấn một linh thú tà dị với đôi mắt tam giác. Bị VL dùng năng lực thôn hồn áp chế, phong ấn không bị vỡ (@c0134).", nguon: "@c0134" },
+            { ten: "Họa trục (cuộn tranh phong ấn)", moTa: "Cuộn tranh cổ đoạt được từ một tu sĩ Kết Đan kỳ (đã chết); bên trong phong ấn một linh thú tà dị với đôi mắt tam giác. Cực cảnh thần thức không khống chế được vì cuộn tranh chỉ có công năng phong ấn (@c0134).", nguon: "@c0134" },
             { ten: "Ngọc phù Đấu Long trận cải biến (Lý Mộ Uyển tặng)", moTa: "Ngọc giản Lý Mộ Uyển tặng lúc chia tay, ghi trận pháp dựa trên Đấu Long trận Đấu Tà phái cải biến, tăng uy lực về hướng phòng ngự — dùng khi bế quan gặp nguy (@c0137).", nguon: "@c0137" }
           ],
           khac: [
@@ -5135,7 +5135,7 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
     {
       chuong: 134,
       tieuDe: "Họa Trục",
-      tomTat: "Ma đầu trong Long Cân lộ hai bí mật lớn: đã bí mật đột phá lên Kết Đan kỳ và đã khôi phục hoàn toàn trí nhớ — che giấu cả hai từ trước đến nay. Bị VL dùng năng lực thôn hồn áp chế, buộc phải nhả hồn phách và khai báo. VL còn phát hiện trong túi trữ vật ma đầu có Họa trục — cuộn tranh cổ phong ấn một linh thú tà dị với đôi mắt tam giác, bị VL dùng thôn hồn áp chế, phong ấn giữ nguyên. (@c0134)"
+      tomTat: "Ma đầu trong Long Cân lộ hai bí mật lớn: đã bí mật đột phá lên Kết Đan kỳ và đã khôi phục hoàn toàn trí nhớ — che giấu cả hai từ trước đến nay. Bị VL dùng năng lực thôn hồn áp chế, buộc phải nhả hồn phách và khai báo. VL còn kiểm kê chiến lợi phẩm và phát hiện Họa trục — cuộn tranh cổ đoạt được từ một tu sĩ Kết Đan kỳ (đã chết), bên trong phong ấn một linh thú tà dị với đôi mắt tam giác; Cực cảnh thần thức không khống chế được vì cuộn tranh chỉ có công năng phong ấn. (@c0134)"
     },
     {
       chuong: 135,
@@ -6453,8 +6453,8 @@ window.LIB_DATA["tien-nghich"].artifacts = {
       phamCap: "Chưa xác định",
       soHuu: ["vuong-lam"],
       trangThai: "Vương Lâm đang sở hữu; phong ấn chưa bị vỡ @c0134",
-      blurb: "Cuộn tranh cổ phát hiện trong túi trữ vật ma đầu (Long Cân). Bên trong phong ấn một linh thú tà dị với đôi mắt tam giác — bị Vương Lâm dùng năng lực thôn hồn áp chế, giữ nguyên phong ấn.",
-      detail: "Vương Lâm tìm thấy cuộn tranh này trong túi trữ vật của ma đầu (đã khôi phục trí nhớ và che giấu thực lực). Bên trong phong ấn linh thú với đôi mắt tam giác tà dị đặc biệt. Vương Lâm dùng thôn hồn áp chế linh thú, giữ nguyên trạng thái phong ấn @c0134.",
+      blurb: "Cuộn tranh cổ Vương Lâm đoạt được từ một tu sĩ Kết Đan kỳ (đã chết), gom trong túi trữ vật của hắn. Bên trong phong ấn một linh thú tà dị với đôi mắt tam giác — Cực cảnh thần thức không khống chế được vì pháp bảo chỉ có tác dụng phong ấn.",
+      detail: "Vương Lâm phát hiện cuộn tranh khi kiểm kê chiến lợi phẩm — lấy được trên người một tu sĩ Kết Đan kỳ; chủ cũ từng mở ra một nửa. Bên trong phong ấn một linh thú với đôi mắt tam giác tà dị; Cực cảnh thần thức của Vương Lâm không khống chế được nó vì cuộn tranh chỉ có công năng phong ấn @c0134.",
       nguon: ["@c0134"]
     },
     {
