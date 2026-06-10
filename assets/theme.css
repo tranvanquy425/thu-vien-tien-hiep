@@ -182,6 +182,7 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .tab-pane.active{display:block}
 .prose{color:#dccfb2;font-size:15px;line-height:1.85;overflow-wrap:anywhere}
 .prose p{margin:0 0 1em}
+.prose .pp:last-child{margin-bottom:0}
 /* Tiểu sử dạng khối (theo web cũ) */
 .info-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:14px}
 .iblock{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 13px;min-width:0}
