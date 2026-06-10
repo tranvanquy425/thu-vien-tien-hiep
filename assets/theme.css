@@ -329,3 +329,29 @@ a:hover{color:var(--gold3);text-decoration:underline}
   .bubbles a{width:46px;height:46px}
   .topbar .logo b{font-size:16px}
 }
+
+/* ---------- thẻ nhân vật: cảnh giới / tính cách / mục bấm-mở (details) / bộ lọc túi đồ ---------- */
+.cg-line{margin:2px 0;line-height:1.5}
+.cg-ten{color:#e6c878}
+.cg-neo{color:var(--muted2);font-size:11.5px}
+.tc-list{margin:0;padding-left:18px;list-style:disc}
+.tc-list li{margin:3px 0;line-height:1.6;color:#dccfb2}
+.itx{border:1px solid var(--line);border-radius:8px;margin:6px 0;background:rgba(0,0,0,.12);overflow:hidden}
+.itx>summary{cursor:pointer;padding:8px 12px;list-style:none;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.itx>summary::-webkit-details-marker{display:none}
+.itx>summary::before{content:"▸";color:var(--gold);font-size:11px;flex:none}
+.itx[open]>summary::before{content:"▾"}
+.itx>summary:hover{background:rgba(230,200,120,.06)}
+.itx .ix-ten{color:#e6c878}
+.itx>.ev-text{padding:2px 12px 10px 28px;color:#cdbfa3;overflow-wrap:anywhere}
+.bcat{font-size:11px;color:var(--muted2);border:1px solid var(--line);border-radius:6px;padding:1px 6px}
+.bag-filter{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.bchip{font-family:var(--sans);font-size:12.5px;color:var(--muted);background:transparent;border:1px solid var(--line);border-radius:14px;padding:4px 11px;cursor:pointer;transition:.12s}
+.bchip:hover{color:var(--gold2);border-color:var(--line-gold)}
+.bchip.active{color:#1c150d;background:var(--gold);border-color:var(--gold);font-weight:600}
+.ev.bridge{opacity:.85}
+.ev-bridge{font-size:12.5px;color:var(--muted);font-style:italic;padding:2px 0 2px 14px;border-left:2px dashed var(--line)}
+.neo.rng{font-style:normal;color:var(--muted2)}
+.tl-st{font-size:11.5px;color:var(--muted2)}
+.tl-off{color:var(--muted);opacity:.7}
+.tl-past{font-size:12px;color:var(--muted);margin-top:3px}
