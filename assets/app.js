@@ -12,7 +12,27 @@
   const esc = s => (s == null ? "" : String(s)).replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
   const pad4 = n => String(n).padStart(4, "0");
   // Một nhân vật có thể thuộc NHIỀU thế lực (giữ tới khi rời bỏ) → theLuc là mảng (chấp cả chuỗi cũ).
-  const tlArr = c => Array.isArray(c.theLuc) ? c.theLuc.filter(Boolean) : (c.theLuc ? [c.theLuc] : []);
+  const tlName = x => typeof x === "string" ? x : (x && x.ten || "");
+  const tlRaw = c => Array.isArray(c.theLuc) ? c.theLuc.filter(Boolean) : (c.theLuc ? [c.theLuc] : []);
+  const tlArr = c => tlRaw(c).map(tlName);   // tên hiển thị (chuỗi) — dùng cho lọc/chip
+  const TL_TRANG = { "gan-bo": "", "danh-nghia": "danh nghĩa", "gia-mao": "thân phận giả", "da-roi": "đã rời" };
+  // Phe/Môn phái có trạng thái gắn bó; rời/giả mạo hết -> Tán tu (N1)
+  function fmtTheLuc(c) {
+    const arr = tlRaw(c);
+    if (!arr.length) return "";
+    const objs = arr.filter(x => typeof x === "object");
+    const tanTu = objs.length === arr.length && arr.length && arr.every(x => x.trangThai === "da-roi" || x.trangThai === "gia-mao");
+    const piece = x => {
+      const nm = tlName(x);
+      const off = typeof x === "object" && (x.trangThai === "da-roi" || x.trangThai === "gia-mao");
+      const lbl = (typeof x === "object" && x.trangThai && TL_TRANG[x.trangThai]) ? ' <span class="tl-st">(' + esc(TL_TRANG[x.trangThai]) + ')</span>' : '';
+      return '<span class="' + (off ? 'tl-off' : '') + '">' + esc(nm) + lbl + '</span>';
+    };
+    const list = arr.map(piece).join(' · ');
+    return tanTu
+      ? '<b class="cg-ten">Tán tu</b> <span class="tl-st">(không môn phái)</span><div class="tl-past">từng qua: ' + list + '</div>'
+      : list;
+  }
 
   if (!bo) { view.innerHTML = '<div class="empty">Không tìm thấy bộ truyện. <a href="index.html">Về Tàng Thư Các</a></div>'; return; }
   $("#boSub").textContent = bo.ten + " · " + (bo.cn || "");
@@ -246,9 +266,17 @@
         '</div><div class="ev-text">' + esc(e.text || "") + '</div></div>';
     }).join("");
     const RTAG = { "cha-me": "Cha/Mẹ", "ban-be": "Bạn bè", "dong-minh": "Đồng minh", "doi-thu": "Đối thủ", "ho-hang": "Họ hàng", "an-nhan": "Ân nhân", "su-mon": "Sư môn", "the-thiep": "Thê thiếp", "khac": "Khác" };
-    const nm = (t.nhanMach || []).map(n => '<div class="ev"><div class="ev-head"><b style="color:#e6c878">' + esc(n.ten) + '</b>' +
-      (n.tag ? '<span class="rtag ' + esc(n.tag) + '">' + esc(RTAG[n.tag] || n.tag) + '</span>' : '') +
-      (n.quanHe ? '<span class="chip">' + esc(n.quanHe) + '</span>' : '') + '</div><div class="ev-text">' + esc(n.ghiChu || "") + '</div></div>').join("");
+    const nmArr = _sortPrio(t.nhanMach || []);
+    const nmCompact = nmArr.length > 6;   // nhiều quan hệ (vd nhân vật chính) -> bấm-mở
+    const nm = nmArr.map(n => {
+      const hd = '<b class="ix-ten">' + esc(n.ten) + '</b>' +
+        (n.tag ? '<span class="rtag ' + esc(n.tag) + '">' + esc(RTAG[n.tag] || n.tag) + '</span>' : '') +
+        (n.quanHe ? '<span class="chip">' + esc(n.quanHe) + '</span>' : '');
+      const bd = '<div class="ev-text">' + esc(stripNeo(n.ghiChu || "")) + '</div>';
+      return nmCompact
+        ? '<details class="itx"><summary>' + hd + '</summary>' + bd + '</details>'
+        : '<div class="ev"><div class="ev-head">' + hd + '</div>' + bd + '</div>';
+    }).join("");
     // Tiểu sử: prose + điểm nổi bật (có neo) — theo khuôn web cũ
     const diem = (t.diem || []).map(d => '<div class="ev minor"><div class="ev-text">' + esc(d.text || "") +
       (d.chuong ? ' <a class="neo" href="#doc" data-goch="' + String(d.chuong).replace(/[^0-9]/g, "") + '">' + esc(d.chuong) + '</a>' : '') + '</div></div>').join("");
@@ -259,11 +287,11 @@
         ib("Họ tên", esc(c.name)) +
         ib("Hán tự / Bí danh", hanBd || "—") +
         ib("Vai trò", esc(c.vaiTro || (c.blurb ? "" : ""))) +
-        ib("Phe / Môn phái", esc(tlArr(c).join(" · "))) +
-        ib("Cảnh giới", esc(c.canhGioiCaoNhat || ""), true) +
-        ib("Tính cách", esc(c.tinhCach || ""), true) +
+        ib("Phe / Môn phái", fmtTheLuc(c)) +
+        ib("Cảnh giới", fmtCanhGioi(c.canhGioiCaoNhat), true) +
+        ib("Tính cách", (c.tinhCach ? fmtBullets(c.tinhCach) : ""), true) +
       '</div>' +
-      (diem ? '<div style="margin-top:14px"><div class="chip gold">Nét nổi bật</div><div class="timeline" style="margin-top:10px">' + diem + '</div></div>' : '');
+      ((diem && !c.tinhCach) ? '<div style="margin-top:14px"><div class="chip gold">Nét nổi bật</div><div class="timeline" style="margin-top:10px">' + diem + '</div></div>' : '');
     // Tu vi: timeline theo mốc (như kinh lịch)
     const tuViMoc = (t.tuViMoc || []).map(m => '<div class="ev ' + (m.importance || "major") + '"><div class="ev-head">' +
       (m.canhGioi ? '<span class="lvl major">' + esc(m.canhGioi) + '</span>' : '') +
@@ -299,14 +327,40 @@
     }
     const ownArts = (DB.artifacts || []).filter(a => (a.soHuu || []).includes(c.id));
     const ownTechs = (DB.techniques || []).filter(a => (a.soHuu || []).includes(c.id));
-    const bag = [["Pháp bảo", autoMerge(td.phapBao, ownArts)], ["Công pháp", autoMerge(td.congPhap, ownTechs)], ["Đan dược", td.danDuoc], ["Linh thú", td.linhThu], ["Nguyên liệu", td.nguyenLieu], ["Linh thảo", td.linhThao], ["Khác", td.khac]]
-      .filter(([, a]) => a && a.length).map(([lbl, a]) => '<div style="margin-bottom:12px"><div class="chip gold">' + lbl + '</div><div class="timeline" style="margin-top:8px">' + a.map(bagItem).join("") + '</div></div>').join("");
+    const TD_CATS = [["phapBao", "Pháp bảo"], ["congPhap", "Công pháp"], ["danDuoc", "Đan dược"], ["linhThu", "Linh thú"], ["nguyenLieu", "Nguyên liệu"], ["linhThao", "Linh thảo"], ["khac", "Khác"]];
+    let bagItems = [];
+    TD_CATS.forEach(p => {
+      const arr = p[0] === "phapBao" ? autoMerge(td.phapBao, ownArts) : p[0] === "congPhap" ? autoMerge(td.congPhap, ownTechs) : td[p[0]];
+      (arr || []).forEach(it => bagItems.push({ cat: p[1], it: (typeof it === "string" ? { ten: it } : it) }));
+    });
+    bagItems = bagItems.map((x, i) => [x, i]).sort((a, b) => (_prio(b[0].it) - _prio(a[0].it)) || (a[1] - b[1])).map(p => p[0]);
+    const bagCompact = bagItems.length > 6;   // túi đồ dài (nhân vật chính) -> bộ lọc + bấm-mở
+    let bagHtml;
+    if (!bagItems.length) bagHtml = '';
+    else if (!bagCompact) {
+      bagHtml = TD_CATS.map(p => {
+        const items = bagItems.filter(x => x.cat === p[1]);
+        return items.length ? '<div style="margin-bottom:12px"><div class="chip gold">' + p[1] + '</div><div class="timeline" style="margin-top:8px">' + items.map(x => bagItem(x.it)).join("") + '</div></div>' : '';
+      }).join("");
+    } else {
+      const cats = TD_CATS.map(p => p[1]).filter(lbl => bagItems.some(x => x.cat === lbl));
+      const fb = '<div class="bag-filter"><button class="bchip active" data-cat="">Tất cả (' + bagItems.length + ')</button>' +
+        cats.map(lbl => '<button class="bchip" data-cat="' + esc(lbl) + '">' + esc(lbl) + ' (' + bagItems.filter(x => x.cat === lbl).length + ')</button>').join("") + '</div>';
+      const list = bagItems.map(x => {
+        const it = x.it;
+        const st = (it.trangThai && TDTRANG[it.trangThai]) ? '<span class="rtag ' + esc(it.trangThai) + '">' + esc(TDTRANG[it.trangThai]) + '</span>' : '';
+        const old = it.tenCu ? '<span class="chip">trước gọi: ' + esc(it.tenCu) + '</span>' : '';
+        const moTa = esc(stripNeo(it.moTa || it.ghiChu || ""));
+        return '<details class="itx" data-cat="' + esc(x.cat) + '"><summary><span class="bcat">' + esc(x.cat) + '</span><b class="ix-ten">' + esc(it.ten || "") + '</b>' + st + old + '</summary><div class="ev-text">' + (moTa || "—") + '</div></details>';
+      }).join("");
+      bagHtml = fb + '<div class="bag-list" id="bagList">' + list + '</div>';
+    }
     const tabs = [
       ["Tiểu sử", tieuSuPane],
       ["Kinh lịch", kl ? '<div class="timeline">' + kl + '</div>' : '<div class="empty">Chưa có sự kiện.</div>'],
       ["Tu vi", tuViPane],
       ["Nhân mạch", nm ? '<div class="timeline">' + nm + '</div>' : '<div class="empty">—</div>'],
-      ["Túi đồ", bag || '<div class="empty">Trống.</div>']
+      ["Túi đồ", bagHtml || '<div class="empty">Trống.</div>']
     ];
     const head = '<div class="kv">' +
       tlArr(c).map(x => '<span class="chip">' + esc(x) + '</span>').join('') +
@@ -321,6 +375,13 @@
       $("#dBody").querySelectorAll(".tabs button").forEach(x => x.classList.remove("active"));
       $("#dBody").querySelectorAll(".tab-pane").forEach(x => x.classList.remove("active"));
       b.classList.add("active"); $("#dBody").querySelector('.tab-pane[data-p="' + b.dataset.t + '"]').classList.add("active");
+    });
+    // bộ lọc Túi đồ theo loại (chế độ gọn)
+    $("#dBody").querySelectorAll(".bag-filter .bchip").forEach(b => b.onclick = () => {
+      $("#dBody").querySelectorAll(".bag-filter .bchip").forEach(x => x.classList.remove("active"));
+      b.classList.add("active");
+      const cat = b.dataset.cat;
+      $("#dBody").querySelectorAll("#bagList details").forEach(d => { d.style.display = (!cat || d.dataset.cat === cat) ? "" : "none"; });
     });
   }
 
@@ -461,6 +522,26 @@
   function iblk(lbl, val, full) { return val ? '<div class="iblock' + (full ? ' full' : '') + '"><div class="lbl">' + lbl + '</div><div class="val">' + val + '</div></div>' : ''; }
   function infoGrid(pairs) { const b = pairs.map(p => iblk(p[0], p[1], p[2])).filter(Boolean).join(""); return b ? '<div class="info-grid">' + b + '</div>' : ''; }
   function ownerName(id) { const c = (DB.chars || []).find(x => x.id === id); return c ? c.name : id; }
+  function _neoCount(s) { var m = String(s || "").match(/@c\d{3,4}/g); return m ? m.length : 0; }
+  function _prio(it) { return (it && typeof it === "object" && typeof it.uuTien === "number") ? it.uuTien : 0; } // ưu tiên cao = nổi lên đầu
+  function _sortPrio(arr) { return (arr || []).map(function (x, i) { return [x, i]; }).sort(function (a, b) { return (_prio(b[0]) - _prio(a[0])) || (a[1] - b[1]); }).map(function (p) { return p[0]; }); }
+  function _short(s, n) { s = stripNeo(String(s || "")); return s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "") + "…" : s; }
+  // Cảnh giới: mỗi mốc 1 dòng, tên bôi vàng, neo cỡ nhỏ trong ngoặc
+  function fmtCanhGioi(s) {
+    if (!s) return "";
+    return String(s).split(/\s*[;\n]\s*/).map(function (x) { return x.trim(); }).filter(Boolean).map(function (seg) {
+      var m = seg.match(/^([\s\S]*?)\s*(\([^()]*\))\s*$/);
+      var ten = m ? m[1] : seg, neo = m ? m[2] : "";
+      return '<div class="cg-line"><b class="cg-ten">' + esc(ten) + '</b>' + (neo ? ' <span class="cg-neo">' + esc(neo) + '</span>' : '') + '</div>';
+    }).join("");
+  }
+  // Tách theo ';' (hoặc mảng) -> gạch đầu dòng (dùng cho Tính cách)
+  function fmtBullets(s) {
+    var parts = Array.isArray(s) ? s : String(s || "").split(/\s*;\s*/);
+    parts = parts.map(function (x) { return (typeof x === "string" ? x : (x && x.text || "")).trim(); }).filter(Boolean);
+    if (!parts.length) return "";
+    return '<ul class="tc-list">' + parts.map(function (p) { return '<li>' + esc(stripNeo(p)) + '</li>'; }).join("") + '</ul>';
+  }
   // Chia một đoạn prose dài thành các đoạn nhỏ dễ đọc; TỰ GỠ NEO hiển thị (áp dụng mọi mục, cả về sau)
   function fmtProse(text) {
     text = stripNeo(text);
