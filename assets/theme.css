@@ -375,3 +375,6 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .tv-sub .tv-dot{margin-top:5px}
 .tv-subbody{flex:1}.tv-subbody>b{color:#cdbfa3;font-size:13.5px}
 .tv-subtext{color:var(--muted);font-size:13px;line-height:1.55;margin-top:2px}
+.tv-tag{font-size:11px;padding:1px 8px;border-radius:6px;white-space:nowrap}
+.tv-tag.he{background:#1f2a3a;color:#8fb6d8}
+.tv-tag.bn{background:#3a2417;color:#e0936a}
