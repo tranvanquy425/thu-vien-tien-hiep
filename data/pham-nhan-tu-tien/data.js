@@ -86,7 +86,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].realms = {
 
 window.LIB_DATA["pham-nhan-tu-tien"].characters = {
   updatedAt: "2026-06-10",
-  count: 21,
+  count: 24,
   chars: [
     {
       id: "han-lap",
@@ -97,9 +97,9 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
       theLuc: [
         { ten: "Thất Huyền môn", trangThai: "gan-bo" }
       ],
-      canhGioiCaoNhat: "Phàm nhân — Vô danh khẩu quyết tầng 3 (Luyện Khí Kỳ tầng thấp)",
+      canhGioiCaoNhat: "Phàm nhân — Trường Xuân công tầng 5",
       trangThai: "song",
-      blurb: "Nhân vật chính. Xuất thân nông dân nghèo, trí tuệ vượt trội, tính cẩn thận và ẩn nhẫn. Vào Thất Huyền môn nhờ tam thúc tiến cử, được Mặc đại phu thu làm thân truyền đệ tử vì thể chất kỳ dị. Sở hữu bình thần bí — vật bí ẩn hút linh khí và sinh ra Thần Bí Dịch. Thông thạo y thuật ngân châm, từng dùng Trừu Tủy Hoàn chia nhỏ làm dược dẫn.",
+      blurb: "Nhân vật chính. Xuất thân nông dân nghèo, trí tuệ vượt trội, tính cẩn thận và ẩn nhẫn. Vào Thất Huyền môn nhờ tam thúc tiến cử, được Mặc đại phu thu làm thân truyền đệ tử vì thể chất kỳ dị. Sở hữu bình thần bí — vật bí ẩn hút linh khí và sinh ra Thần Bí Dịch có khả năng thôi sanh dược thảo. Thông thạo y thuật ngân châm, từng dùng Trừu Tủy Hoàn chia nhỏ làm dược dẫn. Tự phối chế các thánh dược hiếm có nhờ Thần Bí Dịch. Thực chất đang tu Trường Xuân công — tên thật của vô danh khẩu quyết Mặc đại phu truyền.",
       vaiTro: "Nhân vật chính",
       tinhCach: [
         { text: "Thành thật, nhẫn nhịn, không tranh chấp — lời dặn của cha từ nhỏ", chuong: 1 },
@@ -108,7 +108,11 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
         { text: "Trọng tình nghĩa, nhớ nhà, thương tiểu muội", chuong: 6 },
         { text: "Cẩn thận đề phòng, nhạy bén với những điều bất thường", chuong: 9 },
         { text: "Giữ bí mật tuyệt đối — bản năng mách bảo không tiết lộ cái bình cho bất kỳ ai, kể cả người thân", chuong: 12 },
-        { text: "Sau nhiều năm khổ tu, tâm ý chín chắn già dặn hơn tuổi, không còn nhiệt huyết bốc đồng của thuở trẻ", chuong: 16 }
+        { text: "Sau nhiều năm khổ tu, tâm ý chín chắn già dặn hơn tuổi, không còn nhiệt huyết bốc đồng của thuở trẻ", chuong: 16 },
+        { text: "Trải qua lần bị kề đao vào cổ, từ bỏ phần bản tính thuần phác: 'không có lợi không làm', thực dụng và đề phòng hơn", chuong: 21 },
+        { text: "Chủ động vun đắp nợ nhân tình với Lệ Phi Vũ như 'quân cờ' dài hạn — tính toán sâu xa nhưng không phải kẻ ác", chuong: 22 },
+        { text: "Bị ép vào cục diện tuyệt vọng vẫn không phó thác mạng vào tay người khác, chủ động gia tăng thực lực và tự nắm vận mệnh", chuong: 32 },
+        { text: "Giữ bí mật tuyệt đối trước mọi người — kể cả với hảo hữu Lệ Phi Vũ, chỉ thổ lộ điều cần thiết tối thiểu để sinh tồn", chuong: 39 }
       ],
       tabs: {
         diem: [
@@ -136,14 +140,36 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { bridge: true, khoang: "c0014–c0015", text: "Bốn năm khổ luyện trong Thần Thủ Cốc bị phong tỏa; Hàn Lập 14 tuổi, trầm mặc kiên nghị, vừa tu khẩu quyết vừa học y tịch của Mặc đại phu." },
           { chuong: 15, importance: "normal", text: "Luyện tới tầng 3 Vô danh khẩu quyết thì đình trệ hơn một năm. Phát giác ánh mắt tham lam của Mặc đại phu — lòng đề phòng tăng dần. Mặc đại phu hạ sơn, để Hàn Lập một mình trong Thần Thủ Cốc." },
           { bridge: true, khoang: "c0016–c0019", text: "Ra ngoài quan sát trường đấu giang hồ giữa các đệ tử (phe Vương đại bàn vs phe Trương Trường Quý). Dùng thủ thuật bịa thân phận để moi tin từ Kim Đông Bảo. Quan sát Lệ sư huynh thi triển Phong Lôi đao pháp đả bại Triệu Tử Linh. Hứa chữa bệnh miễn phí cho Kim Đông Bảo." },
-          { chuong: 20, importance: "major", text: "Cứu tỉnh Lệ sư huynh bằng ngân châm bên suối; vạch trần Lệ sư huynh bí mật dùng Trừu Tủy Hoàn cả viên nhiều năm để tăng võ công. Tự tiết lộ mình cũng từng dùng Trừu Tủy Hoàn nhưng chia một viên thành mười phần làm dược dẫn nên không bị hại." }
+          { chuong: 20, importance: "major", text: "Cứu tỉnh Lệ sư huynh bằng ngân châm bên suối; vạch trần Lệ sư huynh bí mật dùng Trừu Tủy Hoàn cả viên nhiều năm để tăng võ công. Tự tiết lộ mình cũng từng dùng Trừu Tủy Hoàn nhưng chia một viên thành mười phần làm dược dẫn nên không bị hại." },
+          { chuong: 21, importance: "major", text: "Lệ Phi Vũ (Lệ sư huynh) tỉnh lại liền kề trường đao vào cổ đòi diệt khẩu; Hàn Lập giữ trấn định, lý luận và đề nghị phát độc thề giữ bí mật — lén thủ thiết đồng phòng thân. Nguy hiểm được hóa giải, Lệ Phi Vũ tự xưng tên và hứa trả ơn. Hai người hẹn hôm sau giao thuốc giảm đau (chỉ thống dược) tại cốc khẩu Thần Thủ Cốc." },
+          { chuong: 22, importance: "normal", text: "Hàn Lập phối xong 5 phần chỉ thống dược cho Lệ Phi Vũ; cố ý làm đúng 5 phần để năm nào đối phương cũng phải tới lấy thêm. Đêm đó đột ngột có nguy cơ tâm ma xâm lấn, mất dần khống chế cơ thể; Mặc đại phu vắng nên phải tự xử." },
+          { chuong: 23, importance: "major", text: "Dùng bình an phù cha mẹ tặng trừ tâm ma thoát hiểm; công lực tăng đạt đỉnh phong tầng thứ ba. Tình cờ tìm lại bình thần bí đã quên nhiều năm; làm thí nghiệm cho thỏ uống nước pha lục dịch — thỏ da nổi vết phồng, thân thể trướng phồng kinh người." },
+          { chuong: 24, importance: "normal", text: "Hai thỏ nổ banh thân; Hàn Lập quyết không đụng bình nữa. Giao thuốc cho Lệ Phi Vũ tại cốc khẩu; khổ luyện cả buổi chiều vẫn không phá vỡ ngưỡng tầng tư, nhận ra cần dược vật mới qua được." },
+          { chuong: 25, importance: "major", text: "Phát hiện bình thần bí thôi sanh dược thảo: mấy cọng thảo chỉ một-hai năm dược tính qua một đêm thành vài chục năm. Đặt ra ba nan đề: kiểm độc, xác nhận bình tái sinh lục dịch, nắm phương pháp thôi sanh. Thỏ ăn thuốc bổ từ thảo được thôi sanh không trúng độc. Suy đoán điều kiện kích hoạt: bình chỉ phát dị biến vào đêm trời quang thấy sao trăng." },
+          { chuong: 26, importance: "major", text: "Xác nhận bình tái sử dụng được: cứ khoảng 7 ngày sinh một giọt lục dịch sau khi hấp thu quang điểm. Nắm phương pháp: nhỏ trực tiếp nguyên chất một giọt lên một gốc cây tăng khoảng 100 năm tuổi/dược tính mỗi giọt; lục dịch chỉ giữ được một khắc sau khi rời bình. Nuôi tam ô thảo thành ngàn năm qua hai tháng. Quyết tâm giữ bí mật bình tuyệt đối." },
+          { chuong: 27, importance: "major", text: "Tận dụng Mặc đại phu vắng mặt, dùng lục dịch nuôi dưỡng dược tài trân quý và tự tay phối chế thành công: Hoàng Long Đan, Thanh Linh Tán, Kim Tủy Hoàn, Dưỡng Tinh Đan — hơn mười bình thánh dược. Quyết cất giấu bình khi sư phụ về." },
+          { chuong: 28, importance: "major", text: "Ăn Hoàng Long Đan và Kim Tủy Hoàn, ngay đêm đó đột phá thành công tầng thứ tư Trường Xuân công; ngũ cảm tăng vọt, cảm nhận được mọi việc trong phạm vi mười trượng. Giấu đột phá thật khi Mặc đại phu về kiểm tra, tự tin nhờ điều khiển được cỗ chân khí kỳ dị." },
+          { chuong: 29, importance: "major", text: "Mặc đại phu (Mặc Cư Nhân) lộ chân tướng: ra tay điểm huyệt chế trụ Hàn Lập thần tốc, tuyên bố quan hệ hai bên chỉ là lợi dụng lẫn nhau." },
+          { chuong: 30, importance: "major", text: "Mặc Cư Nhân tiết lộ toàn bộ thân thế: 30 tuổi thật nhưng bị tà khí xâm cốt lão hóa cực nhanh, chỉ còn sống thêm một năm; cần Hàn Lập luyện Trường Xuân công lên tầng tư để dùng Trường Xuân khí kích thích bí huyệt phá giải." },
+          { chuong: 31, importance: "major", tieuDe: "Bị ép nuốt Thi Trùng Hoàn", text: "Mặc đại phu vạch trần việc Hàn Lập cố ý giấu tiến độ, dồn ép tâm lý tới mức Hàn Lập thất thủ. Bị ép nuốt Thi Trùng Hoàn — trùng noãn tiềm phục trong cơ thể một năm; không có giải dược thì trùng phá vỡ ăn sạch nội tạng, chết trong ba ngày ba đêm thống khổ. Hàn Lập khuất phục, hứa một năm luyện đến tầng tư." },
+          { chuong: 32, importance: "normal", tieuDe: "Tự nắm vận mệnh", text: "Tự thử giải độc Thi Trùng Hoàn bằng Thanh Linh Tán nhưng thất bại. Từ bỏ ý phó thác mạng vào lòng thương của Mặc đại phu, quyết tâm gia tăng thực lực và tự tìm đường sống." },
+          { bridge: true, khoang: "c0033–c0034", text: "Hơn nửa năm: bắt đầu giao dịch dược-đổi-võ định kỳ với Lệ Phi Vũ tại thủy đàm bí mật; học Cuồng Mãnh Kình và các võ công khác. Nhờ Hoàng Long Đan và Kim Tủy Hoàn đột phá từ tầng tư lên tầng năm Trường Xuân công." },
+          { chuong: 34, importance: "normal", tieuDe: "Nhắm Trát Nhãn kiếm pháp", text: "Nhận ra các chiêu thức võ học thiếu nội lực chân khí sẽ vô dụng trước Mặc đại phu; đặt hết kỳ vọng vào Trát Nhãn kiếm pháp — môn kiếm pháp không cần chân khí. Thỏa thuận với Lệ Phi Vũ lén lấy kiếm phổ." },
+          { chuong: 35, importance: "normal", tieuDe: "Nhận đống bí tịch Thất Tuyệt đường", text: "Lệ Phi Vũ đem cả túi lớn bí tịch trộm từ Thất Tuyệt đường tàng thư — hóa ra toàn bộ 74 quyển đều cùng tên 'Trát Nhãn kiếm phổ'. Hàn Lập kinh hãi và tức giận vì nguy cơ bị tuần đường hộ pháp phát hiện." },
+          { chuong: 37, importance: "normal", tieuDe: "Chọn Trát Nhãn kiếm pháp", text: "Đọc trọn đống bí tịch, phán đoán Trát Nhãn kiếm pháp phù hợp vì 'tam bất luyện' của nó khớp đúng hoàn cảnh mình: không cần chân khí thành tựu, cần nghị lực lớn và thiên phú." },
+          { chuong: 38, importance: "normal", tieuDe: "Phát hiện gian tế nội gián", text: "Đêm khuya xuống núi, nghe lén hai gian tế Dã Lang bang bàn kế hoạch ra tay với Thất Huyền môn; nhận ra đại quản sự phòng bếp — người từng bán thỏ cho hắn — chính là nội gián cài cắm." },
+          { chuong: 39, importance: "normal", tieuDe: "Nhường công cho Lệ Phi Vũ", text: "Quyết định giao toàn bộ công lao bắt gian tế cho Lệ Phi Vũ lập công, vừa báo đáp ân tình kiếm phổ, vừa không tự đưa mình vào nguy hiểm. Suy ngẫm sâu về bản chất Trát Nhãn kiếm pháp — bí kỹ ám sát lợi dụng ánh sáng và sai lầm thị giác." },
+          { chuong: 40, importance: "normal", tieuDe: "Học thuộc kiếm phổ suốt đêm", text: "Đọc bí tịch suốt đêm tới sáng. Quyết định ghi tạc toàn bộ vào trí nhớ thay vì sao chép — tránh để Mặc đại phu giám thị phát hiện. Nhận ra muốn luyện thành cần 2-3 năm, thời gian không đợi người." }
         ],
         tuViMoc: [
           { chuong: 1, canhGioi: "Phàm nhân", text: "Chưa tu luyện, không có một điểm chân khí." },
           { chuong: 6, canhGioi: "Phàm nhân — sơ học Vô danh khẩu quyết", text: "Bắt đầu tu Vô danh khẩu quyết, sinh ra tia lương khí lúc có lúc không." },
           { chuong: 8, canhGioi: "Vô danh khẩu quyết — tầng 1", text: "Luồng năng lượng nội thể từ bằng sợi tóc tăng lên bằng sợi chỉ; vận hành được một chu thiên qua kỳ kinh bát mạch.", importance: "major" },
           { chuong: 9, canhGioi: "Vô danh khẩu quyết — tầng 2", text: "Luyện thành tầng 2 nhờ dược vật trợ lực; bị nội thương nhẹ khi trùng quan do kinh mạch phá liệt.", importance: "major" },
-          { chuong: 14, canhGioi: "Vô danh khẩu quyết — tầng 3 (Luyện Khí Kỳ tầng thấp)", text: "Sau 4 năm khổ tu, đột phá tầng 3 khẩu quyết vô danh; cảm quan cực kỳ mẫn duệ. Sau đó đình trệ hơn một năm.", importance: "major" }
+          { chuong: 14, canhGioi: "Trường Xuân công — tầng 3 (đỉnh phong)", text: "Sau 4 năm khổ tu, đột phá tầng 3 Trường Xuân công; cảm quan cực kỳ mẫn duệ. Sau đó đình trệ hơn một năm.", importance: "major" },
+          { chuong: 23, canhGioi: "Trường Xuân công — tầng 3 đỉnh phong (sau biến cố tâm ma)", text: "Sau khi dùng bình an phù trừ tâm ma, công lực tăng đạt đỉnh phong tầng thứ ba; cách tầng bốn không còn xa.", importance: "normal" },
+          { chuong: 28, canhGioi: "Trường Xuân công — tầng 4", text: "Nhờ Hoàng Long Đan và Kim Tủy Hoàn, đột phá thành công tầng thứ tư trong một đêm; ngũ cảm tăng vọt mang tính chất, điều khiển được cỗ chân khí kỳ dị.", importance: "major" },
+          { chuong: 34, canhGioi: "Trường Xuân công — tầng 5", text: "Hai tháng trước chương 34 (tức khoảng c032-c033), nhờ Hoàng Long Đan và Kim Tủy Hoàn đột phá thẳng từ tầng tư lên tầng năm; năng lực ghi nhớ võ công 'gặp qua không thể quên' khởi phát.", importance: "major" }
         ],
         nhanMach: [
           { ten: "Tam thúc (Lão Hàn béo)", tag: "ho-hang", quanHe: "Chú ruột, đệ tử ngoại môn Thất Huyền môn, người tiến cử Hàn Lập" },
@@ -152,18 +178,24 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { ten: "Tiểu muội muội", tag: "ho-hang", quanHe: "Em gái út, người Hàn Lập yêu thương nhất" },
           { ten: "Mặc đại phu", tag: "su-mon", quanHe: "Sư phụ thân truyền tại Thất Huyền môn" },
           { ten: "Trương Thiết", tag: "ban-be", quanHe: "Bạn đồng môn thân nhất, cùng làm đệ tử Mặc đại phu; hiện mất tích" },
-          { ten: "Lệ sư huynh (Lệ hổ)", tag: "dong-mon", quanHe: "Đệ tử cùng môn; Hàn Lập cứu và vạch trần bí mật Trừu Tủy Hoàn" },
+          { ten: "Lệ Phi Vũ", tag: "dong-mon", quanHe: "Đệ tử cùng môn (Lệ sư huynh); Hàn Lập cứu mạng và kết ơn nghĩa; hứa giúp đỡ khi cần" },
           { ten: "Kim Đông Bảo (tiểu toán bàn)", tag: "dong-mon", quanHe: "Đệ tử cùng môn, nguồn tin tức; Hàn Lập hứa chữa bệnh miễn phí" }
         ],
         tuiDo: {
           phapBao: [
-            { ten: "Bình thần bí", loai: "pháp bảo (bất hoại, hút linh khí)", trangThai: "đang giữ — đeo trong túi da ở cổ", moTa: "Bình màu xanh nhạt, hoa văn lá xanh biếc sống động, chất liệu lạ không phải kim loại cũng không phải đồ sứ. Bất hoại trước vũ lực phàm nhân. Hút linh khí ban đêm, sau 8 ngày hiện phù hào vàng kim và nắp tự mở, bên trong có Thần Bí Dịch.", nguon: ["c0010", "c0012", "c0013", "c0014"] }
+            { ten: "Bình thần bí", loai: "pháp bảo (bất hoại, hút linh khí, thôi sanh dược thảo)", trangThai: "đang giữ — đeo trong túi da ở cổ", moTa: "Bình màu xanh nhạt, hoa văn lá xanh biếc sống động. Bất hoại trước vũ lực phàm nhân. Hút ánh sáng (quang điểm) ban đêm trời quang có trăng sao; khoảng 7 ngày/giọt tái sinh Thần Bí Dịch (lục dịch). Nhỏ trực tiếp một giọt nguyên chất lên một gốc dược thảo tăng khoảng 100 năm tuổi/dược tính. Lục dịch chỉ giữ được trong bình; rời bình một khắc là tan biến. Cũng là kịch độc: pha loãng cho thỏ uống thì thỏ nổ banh thân.", nguon: ["c0010", "c0012", "c0013", "c0014", "c0023", "c0024", "c0025", "c0026"] }
           ],
           danDuoc: [
-            { ten: "Trừu Tủy Hoàn", loai: "đan dược (từng dùng chia nhỏ)", trangThai: "đã dùng", moTa: "Từng chia một viên thành mười phần làm dược dẫn — cách dùng an toàn không gây hại.", nguon: ["c0020"] }
+            { ten: "Trừu Tủy Hoàn", loai: "đan dược (từng dùng chia nhỏ)", trangThai: "đã dùng", moTa: "Từng chia một viên thành mười phần làm dược dẫn — cách dùng an toàn không gây hại.", nguon: ["c0020"] },
+            { ten: "Thi Trùng Hoàn", loai: "đan dược (độc trùng noãn trong cơ thể)", trangThai: "đang tiềm phục trong cơ thể — bị ép nuốt", moTa: "Trùng noãn điều chế bằng bí pháp của Mặc đại phu. Tiềm phục trong cơ thể một năm; có giải dược đặc chế thì tan rã, không thì phá vỏ ăn sạch nội tạng, chết trong ba ngày ba đêm thống khổ. Hàn Lập bị ép nuốt làm con tin. Thanh Linh Tán không giải được.", nguon: ["c0031", "c0032"] }
           ],
           congPhap: [
-            { ten: "Vô danh khẩu quyết", loai: "công pháp tu thân", trangThai: "đang tu (tầng 3, đình trệ)", moTa: "Do Mặc đại phu truyền; sinh ra lương khí lạnh trong nội thể. Nghiêm cấm truyền ra ngoài.", nguon: ["c0006", "c0007", "c0008", "c0009", "c0014", "c0015"] }
+            { ten: "Trường Xuân công", loai: "công pháp tu thân", trangThai: "đang tu (tầng 5)", moTa: "Tên thật của vô danh khẩu quyết Mặc đại phu truyền. Yêu cầu người tu còn trẻ và có linh căn. Sinh ra lương khí lạnh (chân khí kỳ dị) trong nội thể. Tầng năm cho năng lực ghi nhớ võ học gặp qua không thể quên; tầng sáu trở đi phải tự luyện. Mặc đại phu nghiêm cấm truyền ra ngoài.", nguon: ["c0006", "c0007", "c0008", "c0009", "c0014", "c0015", "c0028", "c0030", "c0034"] },
+            { ten: "Trát Nhãn kiếm pháp", loai: "bí kỹ kiếm pháp", trangThai: "đang nghiên cứu (ghi thuộc lòng)", moTa: "Kiếm kỹ ám sát lợi dụng ánh sáng và sai lầm thị giác. Không cần nội lực tinh thuần; đòi hỏi ngũ quan hơn người và thiên phú. Hàn Lập ghi tạc toàn bộ vào trí nhớ thay vì chép để giấu Mặc đại phu.", nguon: ["c0033", "c0034", "c0035", "c0036", "c0037", "c0039", "c0040"] },
+            { ten: "Hoàng Long Đan", loai: "đan dược (thánh dược)", trangThai: "đã dùng một viên", moTa: "Thánh dược thoát thai hoán cốt, gia tăng công lực lớn. Hàn Lập tự phối chế bằng lục dịch thôi sanh dược tài; dùng một viên cùng Kim Tủy Hoàn giúp đột phá tầng tư.", nguon: ["c0027", "c0028"] },
+            { ten: "Kim Tủy Hoàn", loai: "đan dược (thánh dược)", trangThai: "đã dùng một viên", moTa: "Thánh dược thoát thai hoán cốt, gia tăng công lực lớn. Hàn Lập tự phối chế; dùng cùng Hoàng Long Đan để đột phá tầng tư.", nguon: ["c0027", "c0028"] },
+            { ten: "Thanh Linh Tán", loai: "đan dược (thánh dược)", trangThai: "đang lưu giữ", moTa: "Thánh dược giải độc hiếm có, giải được trăm ngàn loại kịch độc. Hàn Lập tự phối chế bằng lục dịch thôi sanh dược tài.", nguon: ["c0027"] },
+            { ten: "Dưỡng Tinh Đan", loai: "đan dược (thánh dược)", trangThai: "đang lưu giữ", moTa: "Linh dược trị nội ngoại thương thần kỳ; ăn một viên không khởi tử hồi sanh nhưng giảm bớt thương thế, bảo trụ tính mạng. Hàn Lập tự phối chế bằng lục dịch thôi sanh dược tài.", nguon: ["c0027"] }
           ],
           linhThu: [],
           nguyenLieu: [],
@@ -172,30 +204,32 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
         }
       },
       uuTien: 1,
-      nguon: ["c0001", "c0002", "c0003", "c0004", "c0005", "c0006", "c0007", "c0008", "c0009", "c0010", "c0011", "c0012", "c0013", "c0014", "c0015", "c0016", "c0017", "c0018", "c0019", "c0020"]
+      nguon: ["c0001", "c0002", "c0003", "c0004", "c0005", "c0006", "c0007", "c0008", "c0009", "c0010", "c0011", "c0012", "c0013", "c0014", "c0015", "c0016", "c0017", "c0018", "c0019", "c0020", "c0021", "c0022", "c0023", "c0024", "c0025", "c0026", "c0027", "c0028", "c0029", "c0030", "c0031", "c0032", "c0033", "c0034", "c0035", "c0036", "c0037", "c0038", "c0039", "c0040"]
     },
     {
       id: "mac-dai-phu",
       name: "Mặc đại phu",
       cn: "墨大夫",
-      aliases: ["Mặc lão", "Mặc phu"],
+      aliases: ["Mặc lão", "Mặc phu", "Mặc Cư Nhân"],
+      tenThat: "Mặc Cư Nhân",
       gioiTinh: "nam",
       theLuc: [
         { ten: "Thất Huyền môn — Cung Phụng đường", trangThai: "gan-bo" }
       ],
       canhGioiCaoNhat: "Người tu luyện — mức độ thực sự chưa rõ",
       trangThai: "song",
-      blurb: "Thầy thuốc bí ẩn của Thất Huyền môn, ở tại Thần thủ cốc. Cứu mạng Vương môn chủ nên được mời nhập môn. Bề ngoài già yếu ho khan nhưng được mọi sư huynh kính trọng hơn cả đường chủ. Mưu cầu trường sinh bất tử; dùng tiền thưởng thúc Hàn Lập tu điên cuồng và phong tỏa Thần Thủ Cốc để hắn chuyên tâm. Đối đãi Hàn Lập hậu hĩnh vượt quá tình thầy trò bình thường, song ánh mắt ẩn chứa tham lam như nhìn đồ vật.",
+      blurb: "Thầy thuốc bí ẩn của Thất Huyền môn. Tên thật Mặc Cư Nhân — từng là cao thủ võ lâm Lam Châu biệt danh 'quỷ thủ', thực chất mới 30 tuổi nhưng bị tà khí xâm cốt lão hóa cực nhanh trông như người trên 70. Bị thân tín ám toán, lưu lạc khắp nơi, vô tình nhận được kỳ thư từ đó học Trường Xuân công và cách phá giải. Cứu mạng Vương môn chủ nên được mời nhập môn Thất Huyền. Cần Hàn Lập luyện Trường Xuân công tới tầng tư để vận khí kích thích bí huyệt giải độc cho mình; đã thử mấy trăm đồng tử đều thất bại, chỉ Hàn Lập có linh căn. Chỉ còn sống thêm khoảng một năm.",
       vaiTro: "Sư phụ của Hàn Lập",
       tinhCach: [
         { text: "Lạnh lùng, ít nói, vô biểu cảm trong sinh hoạt hằng ngày", chuong: 6 },
         { text: "Khi phát hiện thể chất kỳ dị Hàn Lập, kích động đến mức điên cuồng, suýt mất kiểm soát", chuong: 8 },
         { text: "Nghiêm cấm tiết lộ Vô danh khẩu quyết — trịnh trọng bất thường với công pháp này", chuong: 6 },
-        { text: "Nắm bắt tâm lý đệ tử, biết dùng tiền bạc làm đòn bẩy thúc đẩy tu luyện", chuong: 14 }
+        { text: "Nắm bắt tâm lý đệ tử, biết dùng tiền bạc làm đòn bẩy thúc đẩy tu luyện", chuong: 14 },
+        { text: "Sòng phẳng: tuyên bố thẳng quan hệ với Hàn Lập chỉ là lợi dụng lẫn nhau, không có tình thầy trò thật sự", chuong: 29 }
       ],
       tabs: {
         diem: [
-          { text: "Hơn sáu mươi tuổi, tóc bạc, da nhăn, ho khan liên tục — trông như sắp ngã", chuong: 5 },
+          { text: "Hơn sáu mươi tuổi về ngoại hình, tóc bạc, da nhăn, ho khan liên tục — trông như sắp ngã; thực chất mới 30 tuổi thật, bị tà khí xâm cốt lão hóa cực nhanh", chuong: 5 },
           { text: "Vốn không phải đệ tử Thất Huyền môn gốc; được Vương môn chủ mời nhập môn sau khi cứu mạng lão", chuong: 6 },
           { text: "Có một thân công phu nhưng chưa từng để đệ tử thấy thân thủ", chuong: 6 },
           { text: "Ngày ngày ôm khư khư cuốn Trường sinh kinh — mưu cầu sống quá ngàn năm", chuong: 7 },
@@ -207,20 +241,28 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { chuong: 8, importance: "major", text: "Kiểm tra và phát hiện thể chất kỳ dị của Hàn Lập; thu làm thân truyền đệ tử. Đột ngột đổi ý nhận cả Trương Thiết với tâm pháp khác." },
           { chuong: 9, importance: "normal", text: "Cấp thạch thất luyện công riêng và dược vật trân quý cho Hàn Lập; truyền Tượng giáp công cho Trương Thiết." },
           { chuong: 14, importance: "normal", text: "Hứa thưởng bạc trắng tăng gấp đôi mỗi tầng khẩu quyết Hàn Lập đột phá; phong tỏa Thần Thủ Cốc để hắn chuyên tâm tu luyện." },
-          { chuong: 15, importance: "normal", text: "Hạ sơn tìm dược tài — rời Thất Huyền môn, để Hàn Lập ở lại Thần Thủ Cốc một mình. Sức khỏe suy sụp, dược vật trợ lực đã cạn kiệt." }
+          { chuong: 15, importance: "normal", text: "Hạ sơn tìm dược tài — rời Thất Huyền môn, để Hàn Lập ở lại Thần Thủ Cốc một mình. Sức khỏe suy sụp, dược vật trợ lực đã cạn kiệt." },
+          { chuong: 28, importance: "major", text: "Trở về Thần Thủ Cốc sau một năm vắng mặt, dẫn theo một người thần bí mặc lục bào che kín mặt. Sắc mặt hôi bại không sinh khí như đại hạn sắp đến. Kiểm tra tiến độ tu luyện của Hàn Lập." },
+          { chuong: 29, importance: "major", text: "Lộ chân tướng là cao thủ thực lực cao sâu: ra tay điểm huyệt chế trụ Hàn Lập thần tốc. Tự xưng tên thật Mặc Cư Nhân; tuyên bố quan hệ hai bên chỉ là lợi dụng lẫn nhau." },
+          { chuong: 30, importance: "major", text: "Phơi bày toàn bộ thân thế: 30 tuổi thật, từng là cao thủ võ lâm Lam Châu hiệu 'quỷ thủ'; bị thân tín ám toán, nhờ kỳ thư tìm cách phá giải nhưng bị tà khí xâm cốt lão hóa cực nhanh; chỉ còn sống thêm khoảng một năm. Cần Hàn Lập luyện Trường Xuân công tới tầng tư để kích thích bí huyệt phá giải." }
         ],
-        tuViMoc: [],
+        tuViMoc: [
+          { chuong: 29, canhGioi: "Cao thủ võ lâm phàm trần (thực lực ẩn)", text: "Ra tay điểm huyệt Hàn Lập cực nhanh như u linh, thân pháp vượt xa phàm nhân thường. Không rõ cảnh giới cụ thể." }
+        ],
         nhanMach: [
-          { ten: "Hàn Lập", tag: "su-mon", quanHe: "Thân truyền đệ tử" },
+          { ten: "Hàn Lập", tag: "su-mon", quanHe: "Thân truyền đệ tử trên danh nghĩa; thực chất lợi dụng để phá giải" },
           { ten: "Trương Thiết", tag: "su-mon", quanHe: "Đệ tử (tâm pháp riêng)" },
           { ten: "Vương môn chủ", tag: "an-nhan", quanHe: "Người mời nhập môn sau khi được Mặc đại phu cứu mạng" }
         ],
         tuiDo: {
           phapBao: [],
-          danDuoc: [],
+          danDuoc: [
+            { ten: "Bí dược chậm lão hóa", loai: "đan dược (tự phối)", trangThai: "đang dùng", moTa: "Loại thuốc Mặc Cư Nhân tự phối chế theo công thức trong kỳ thư, giúp làm chậm tốc độ lão hóa để cầm cự tới nay.", nguon: ["c0030"] }
+          ],
           congPhap: [
-            { ten: "Vô danh khẩu quyết", loai: "công pháp", trangThai: "đang truyền dạy", moTa: "Bộ khẩu quyết tu thân dưỡng tính Mặc đại phu xem trọng đặc biệt; truyền cho Hàn Lập.", nguon: ["c0006"] },
-            { ten: "Trường sinh kinh", loai: "sách/công pháp", trangThai: "đang nghiên cứu", moTa: "Cuốn sách về tu thân dưỡng tính và kéo dài tuổi thọ; Mặc đại phu ôm khư khư.", nguon: ["c0007"] }
+            { ten: "Trường Xuân công", loai: "công pháp", trangThai: "đã truyền dạy cho Hàn Lập", moTa: "Công pháp Mặc đại phu tìm được từ kỳ thư; truyền cho Hàn Lập với tên 'vô danh khẩu quyết'. Cần người tu có linh căn. Luyện tới tầng tư có thể dùng Trường Xuân khí kích thích bí huyệt.", nguon: ["c0006", "c0030"] },
+            { ten: "Trường sinh kinh", loai: "sách tu luyện", trangThai: "đang nghiên cứu", moTa: "Cuốn sách về tu thân dưỡng tính và kéo dài tuổi thọ; Mặc đại phu ôm khư khư.", nguon: ["c0007"] },
+            { ten: "Kỳ thư thần bí", loai: "sách", trangThai: "đang giữ", moTa: "Quyển sách thâm ảo Mặc Cư Nhân vô tình được ở một nơi thần bí; chứa cách khôi phục công lực, cách phá giải tình cảnh của hắn, và công thức bí dược chậm lão hóa.", nguon: ["c0030"] }
           ],
           linhThu: [],
           nguyenLieu: [],
@@ -229,7 +271,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
         }
       },
       uuTien: 2,
-      nguon: ["c0005", "c0006", "c0007", "c0008", "c0009", "c0010", "c0011", "c0013", "c0014", "c0015", "c0020"]
+      nguon: ["c0005", "c0006", "c0007", "c0008", "c0009", "c0010", "c0011", "c0013", "c0014", "c0015", "c0020", "c0021", "c0022", "c0023", "c0027", "c0028", "c0029", "c0030", "c0031", "c0032", "c0035", "c0039", "c0040"]
     },
     {
       id: "truong-thiet",
@@ -615,16 +657,17 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
     },
     {
       id: "le-su-huynh",
-      name: "Lệ sư huynh",
+      name: "Lệ Phi Vũ",
       cn: null,
-      aliases: ["Lệ hổ"],
+      aliases: ["Lệ sư huynh", "Lệ hổ"],
+      tenThat: "Lệ Phi Vũ",
       gioiTinh: "nam",
       theLuc: [
         { ten: "Thất Huyền môn", trangThai: "gan-bo" }
       ],
       canhGioiCaoNhat: "Phàm nhân (võ giả)",
       trangThai: "song",
-      blurb: "Đệ tử Thất Huyền môn, ký danh đệ tử nhưng tự lực vươn lên top hạng môn phái nhờ sức luyện phi thường. Phá kỷ lục trắc thí (vượt 30 chiêu), được danh hiệu giang hồ \"Lệ hổ\", sắp được đặc cách vào Thất Tuyệt đường. Bí mật dùng Trừu Tủy Hoàn cả viên nhiều năm để tăng vọt võ công — đổi tuổi thọ lấy thực lực. Được Hàn Lập cứu và vạch trần bí mật.",
+      blurb: "Tên thật Lệ Phi Vũ, biệt danh giang hồ 'Lệ hổ'. Ký danh đệ tử Thất Huyền môn tự lực vươn lên top hạng nhờ sức luyện phi thường. Phá kỷ lục trắc thí (vượt 30 chiêu), sắp được đặc cách vào Thất Tuyệt đường. Bí mật dùng Trừu Tủy Hoàn cả viên nhiều năm để tăng vọt võ công. Được Hàn Lập cứu sống, hứa trả ơn; hai người kết ơn nghĩa. Đang nhận chỉ thống dược của Hàn Lập mỗi năm để giảm thống khổ.",
       vaiTro: "Đệ tử nội môn xuất sắc Thất Huyền môn",
       tinhCach: [
         { text: "Thần sắc lãnh khốc, quyết đoán, khí thế ngút trời khi ra trận", chuong: 17 },
@@ -641,24 +684,34 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { chuong: 17, importance: "normal", text: "Xuất hiện lần đầu trong trường đấu — được cả hai phe đồng loạt hô tên cổ vũ khi bước vào trận cuối. Cầm đao nhắm mắt, thần sắc lãnh khốc." },
           { chuong: 18, importance: "normal", text: "Tiểu sử được kể lại: ký danh đệ tử tự lực vươn lên top hạng, danh hiệu \"Lệ hổ\", sắp vào Thất Tuyệt đường. Dùng Phong Lôi đao pháp hóa hơn mười đao ảnh, hét vang như sấm, áp đảo Triệu Tử Linh." },
           { chuong: 19, importance: "minor", text: "Thắng Triệu Tử Linh — liên hoàn đao chấn bay nhuyễn kiếm, Triệu Tử Linh cam bái hạ phong. Đột nhiên biến sắc, viện cớ việc gấp, dùng khinh công cao minh vội rời trường." },
-          { chuong: 20, importance: "major", text: "Bệnh cấp tính phát tác bên suối, gần chết. Được Hàn Lập cứu bằng ngân châm. Bí mật bị vạch trần: dùng Trừu Tủy Hoàn cả viên nhiều năm, chỉ còn sống thêm 5-6 năm. Phải tự chọn: nhờ Mặc đại phu phối bí dược (sống thêm 20-30 năm, mất võ công) hay tiếp tục dùng hoàn." }
+          { chuong: 20, importance: "major", text: "Bệnh cấp tính phát tác bên suối, gần chết. Được Hàn Lập cứu bằng ngân châm. Bí mật bị vạch trần: dùng Trừu Tủy Hoàn cả viên nhiều năm, chỉ còn sống thêm 5-6 năm. Phải tự chọn: nhờ Mặc đại phu phối bí dược (sống thêm 20-30 năm, mất võ công) hay tiếp tục dùng hoàn." },
+          { chuong: 21, importance: "major", text: "Tỉnh lại sau khi được cứu, lập tức rút trường đao kề cổ Hàn Lập đòi lý do không diệt khẩu; lộ vẻ xấu hổ và thu đao sau khi Hàn Lập lập luận và phát độc thề. Tự xưng tên thật Lệ Phi Vũ, hứa trả ơn. Là đệ tử hộ pháp bình thường nhưng được lòng đường chủ/trưởng lão/môn chủ, nên cuộc sống không yên." },
+          { chuong: 22, importance: "normal", text: "Hẹn trưa hôm sau quay lại lấy thuốc rồi đi điều dưỡng. Mang ơn sâu với Hàn Lập vì hắn không truy hỏi nguyên nhân dùng Trừu Tủy Hoàn." },
+          { chuong: 24, importance: "normal", text: "Nhận gói dược phấn giảm đau (chỉ thống dược, năm phân) từ Hàn Lập tại cốc khẩu; mừng rỡ vì các loại thuốc giảm đau trước đây đều vô dụng. Lại thiếu Hàn Lập thêm một phần đại nhân tình." },
+          { bridge: true, khoang: "c0033–c0034", text: "Giao dịch dược-đổi-võ định kỳ hơn nửa năm với Hàn Lập tại thủy đàm bí mật; dạy Cuồng Mãnh Kình và Triền Ti Thủ; hai người dần thành hảo hữu." },
+          { chuong: 35, importance: "major", tieuDe: "Trộm bí tịch Thất Tuyệt đường", text: "Lấy trộm toàn bộ bí tịch từ Thất Tuyệt đường tàng thư — hóa ra 74 quyển đều cùng tên 'Trát Nhãn kiếm phổ' — mang ra giao cho Hàn Lập tại thủy đàm." },
+          { chuong: 37, importance: "normal", tieuDe: "Mất hứng vì tam bất luyện", text: "Khi Hàn Lập giải thích Trát Nhãn kiếm pháp có điều kiện 'chân khí đã có thành tựu — không thể luyện', Lệ Phi Vũ (chân khí nội gia đã có hỏa hậu) lập tức mất hứng, dặn Hàn Lập sao lục bí tịch rồi cáo từ trước." },
+          { chuong: 39, importance: "normal", tieuDe: "Nhận công lao từ Hàn Lập", text: "Hàn Lập quyết định chuyển công lao bắt gian tế Dã Lang bang cho Lệ Phi Vũ lập công huy hoàng — vừa báo đáp ân tình kiếm phổ, vừa giúp Lệ Phi Vũ (người có dã tâm tiến vào cao tầng) thực hiện khát vọng." }
         ],
         tuViMoc: [
-          { chuong: 18, canhGioi: "Phàm nhân (võ giả) — Phong Lôi đao pháp đỉnh", text: "Thực lực hạng ba toàn môn Thất Huyền môn nhờ kết hợp Phong Lôi đao pháp và Trừu Tủy Hoàn tăng cường thân thể." }
+          { chuong: 18, canhGioi: "Phàm nhân (võ giả) — Phong Lôi đao pháp đỉnh", text: "Thực lực hạng ba toàn môn Thất Huyền môn nhờ kết hợp Phong Lôi đao pháp và Trừu Tủy Hoàn tăng cường thân thể." },
+          { chuong: 33, canhGioi: "Phàm nhân (võ giả) — đã vào Thất Tuyệt đường", text: "Đã được vào Thất Tuyệt đường tu luyện; chân khí nội gia có hỏa hậu không ít; dùng dĩ chuyết phá xảo mới thắng Hàn Lập (không dùng chân khí thì trong trăm chiêu chưa chắc thắng)." }
         ],
         nhanMach: [
-          { ten: "Hàn Lập", tag: "dong-mon", quanHe: "Người cứu mạng, vạch trần bí mật Trừu Tủy Hoàn" },
-          { ten: "Triệu Tử Linh", tag: "doi-dich-tam-thoi", quanHe: "Đối thủ trong trường đấu, bị Lệ sư huynh đánh bại" }
+          { ten: "Hàn Lập", tag: "an-nhan", quanHe: "Người cứu mạng; đang nhận chỉ thống dược mỗi năm; hứa giúp đỡ khi cần; giao dịch võ-dược hơn nửa năm thành hảo hữu" },
+          { ten: "Triệu Tử Linh", tag: "doi-dich-tam-thoi", quanHe: "Đối thủ trong trường đấu, bị Lệ Phi Vũ đánh bại" }
         ],
         tuiDo: {
           phapBao: [
             { ten: "Trường đao", loai: "binh khí phàm tục", trangThai: "đang giữ", moTa: "Đao hàn quang, dùng thi triển Phong Lôi đao pháp.", nguon: ["c0017", "c0018"] }
           ],
           danDuoc: [
-            { ten: "Trừu Tủy Hoàn", loai: "đan dược (đang dùng)", trangThai: "đang dùng — cả viên", moTa: "Dùng cả viên để tăng vọt võ công; chỉ còn sống thêm 5-6 năm.", nguon: ["c0020"] }
+            { ten: "Trừu Tủy Hoàn", loai: "đan dược (đang dùng)", trangThai: "đang dùng — cả viên", moTa: "Dùng cả viên để tăng vọt võ công; chỉ còn sống thêm 5-6 năm. Gây thống khổ dữ dội sau mỗi lần dùng.", nguon: ["c0020", "c0021", "c0022", "c0024"] }
           ],
           congPhap: [
-            { ten: "Phong Lôi đao pháp / Bôn Lôi đao pháp", loai: "đao pháp võ lâm", trangThai: "thành thục", moTa: "Đao pháp trung tầng Thất Huyền môn, liên hoàn đao thức, hét vang như sấm áp chế đối thủ, chém đá chặt vàng.", nguon: ["c0017", "c0018", "c0019"] }
+            { ten: "Phong Lôi đao pháp / Bôn Lôi đao pháp", loai: "đao pháp võ lâm", trangThai: "thành thục", moTa: "Đao pháp trung tầng Thất Huyền môn, liên hoàn đao thức, hét vang như sấm áp chế đối thủ, chém đá chặt vàng.", nguon: ["c0017", "c0018", "c0019"] },
+            { ten: "Cuồng Mãnh Kình", loai: "công pháp cương mãnh", trangThai: "thành thục", moTa: "Công pháp thiên về cương dương mà Lệ Phi Vũ truyền cho Hàn Lập. Hàn Lập thấy quá cương mãnh không hợp.", nguon: ["c0033"] },
+            { ten: "Triền Ti Thủ", loai: "công pháp", trangThai: "thành thục", moTa: "Môn võ công Lệ Phi Vũ truyền cho Hàn Lập; Hàn Lập luyện xuất thần nhập hóa chỉ trong hai tháng.", nguon: ["c0035"] }
           ],
           linhThu: [],
           nguyenLieu: [],
@@ -666,7 +719,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           khac: []
         }
       },
-      nguon: ["c0017", "c0018", "c0019", "c0020"]
+      nguon: ["c0017", "c0018", "c0019", "c0020", "c0021", "c0022", "c0024", "c0033", "c0034", "c0035", "c0036", "c0037", "c0038", "c0039"]
     },
     {
       id: "kim-dong-bao",
@@ -838,13 +891,150 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
         tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
       },
       nguon: ["c0016"]
+    },
+    {
+      id: "than-bi-nhan",
+      name: "Thần bí nhân",
+      cn: null,
+      aliases: ["Người lục bào"],
+      gioiTinh: "unknown",
+      theLuc: [],
+      canhGioiCaoNhat: "Không rõ",
+      trangThai: "song",
+      blurb: "Nhân vật bí ẩn mặc lục bào thùng thình, khăn đen che kín toàn thân không lộ da thịt, cao hơn Hàn Lập hai cái đầu, vóc to lớn rắn chắc. Do Mặc đại phu dẫn về Thần Thủ Cốc. Đứng bất động trước cửa phòng Mặc đại phu như câm điếc, thể lực kinh người, chưa một lần mở miệng. Hàn Lập phán đoán đây là sát thủ do Mặc đại phu huấn luyện thành con rối tuyệt đối phục tùng; bóng lưng người này khiến hắn có cảm giác quen thuộc nhưng không nhớ ra là ai.",
+      vaiTro: "Nhân vật bí ẩn đi theo Mặc đại phu — nghi là sát thủ",
+      tinhCach: [],
+      tabs: {
+        diem: [
+          { text: "Che kín toàn thân bằng lục bào thùng thình và khăn đen — không lộ chút da thịt nào; cảm giác dung mạo dữ tợn xấu xí", chuong: 28 },
+          { text: "Đứng bất động ngoài cửa phòng Mặc đại phu cả ngày dưới nắng, không mệt mỏi, như câm điếc bẩm sinh; thể lực kinh người", chuong: 34 }
+        ],
+        kinhLich: [
+          { chuong: 28, importance: "normal", text: "Xuất hiện lần đầu: theo sau Mặc đại phu khi lão trở về Thần Thủ Cốc; đứng bất động phía sau ghế của Mặc đại phu, không nói gì." },
+          { chuong: 34, importance: "normal", text: "Hàn Lập quan sát từ xa thấy người này đứng bất động ngoài cửa phòng Mặc đại phu giữa trời nắng; Hàn Lập thử bắt chuyện nhưng hắn như khúc gỗ. Bóng lưng khiến Hàn Lập có cảm giác quen thuộc tựa hồ đã gặp ở đâu." }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Mặc đại phu", tag: "dong-minh", quanHe: "Người huấn luyện và sai khiến; theo sát không rời" }
+        ],
+        tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
+      },
+      nguon: ["c0028", "c0029", "c0034"]
+    },
+    {
+      id: "co-thien-long",
+      name: "Cổ Thiên Long",
+      cn: null,
+      aliases: ["Kim lang"],
+      gioiTinh: "nam",
+      theLuc: [
+        { ten: "Dã Lang bang", trangThai: "gan-bo" }
+      ],
+      canhGioiCaoNhat: "Không rõ — võ giả phàm tục",
+      trangThai: "song",
+      blurb: "Bang chủ Dã Lang bang, biệt hiệu 'Kim lang'. Đại địch của Thất Huyền môn. Lời đồn trong môn mô tả hắn là ma đầu tắm máu, cao to dữ tợn, ăn thịt uống huyết người sống. Thực tế theo lời Lệ Phi Vũ: gầy yếu tuấn tú, tuổi mới khoảng ba mươi — trái hoàn toàn lời đồn — nhưng cứ động là giết người đúng như truyền thuyết.",
+      vaiTro: "Bang chủ Dã Lang bang",
+      tinhCach: [
+        { text: "Bề ngoài tuấn tú gầy yếu trái ngược đồn đại; hành động thì đúng như truyền thuyết — cứ động cái là giết người", chuong: 38 }
+      ],
+      tabs: {
+        diem: [
+          { text: "Biệt hiệu 'Kim lang'; tuổi khoảng ba mươi, gầy yếu tuấn tú — trái hẳn lời đồn về ma đầu cao to dữ tợn", chuong: 38 }
+        ],
+        kinhLich: [
+          { chuong: 38, importance: "normal", tieuDe: "Được nhắc qua lời gian tế và Lệ Phi Vũ", text: "Hai gian tế đêm khuya nhắc 'bang chủ' khi bàn kế hoạch hành động với Thất Huyền môn. Hàn Lập nhận ra 'Kim lang' Cổ Thiên Long là bang chủ Dã Lang bang duy nhất trong phương viên mấy trăm dặm. Lệ Phi Vũ từng kể thực tế về ngoại hình và tính cách hắn." }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Dã Lang bang", tag: "su-mon", quanHe: "Người lãnh đạo" },
+          { ten: "Thất Huyền môn", tag: "doi-dich", quanHe: "Thế lực đối địch chính" }
+        ],
+        tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
+      },
+      nguon: ["c0038"]
+    },
+    {
+      id: "quan-su-bep",
+      name: "Đại quản sự phòng bếp",
+      cn: null,
+      aliases: ["Quản sự trù phòng"],
+      gioiTinh: "nam",
+      theLuc: [
+        { ten: "Dã Lang bang", trangThai: "gan-bo" },
+        { ten: "Thất Huyền môn", trangThai: "gia-mao" }
+      ],
+      canhGioiCaoNhat: "Không rõ — võ giả phàm tục",
+      trangThai: "song",
+      blurb: "Đại quản sự phòng bếp trên núi Thất Huyền môn, thực chất là gian tế Dã Lang bang cài cắm nội bộ. Râu chữ bát, vẻ ngoài người buôn bán thành thật. Từng bán thỏ cho Hàn Lập và để lại ấn tượng tốt. Bị Hàn Lập nhận ra qua giọng nói khi nghe lén đêm khuya trên sơn đạo.",
+      vaiTro: "Nội gián Dã Lang bang trong Thất Huyền môn",
+      tinhCach: [],
+      tabs: {
+        diem: [
+          { text: "Râu chữ bát, vẻ ngoài người buôn bán thành thật — thân phận quản sự bếp giúp thường xuyên lên xuống núi truyền tin không bị chú ý", chuong: 38 }
+        ],
+        kinhLich: [
+          { chuong: 38, importance: "major", tieuDe: "Bị Hàn Lập nhận ra là gian tế", text: "Một trong hai gian tế đi đêm bàn kế hoạch hành động với Thất Huyền môn liên quan tới việc trộm một 'danh sách'. Hàn Lập nhận ra qua giọng nói — chính là quản sự trù phòng từng bán thỏ cho hắn." }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Cổ Thiên Long", tag: "su-mon", quanHe: "Chủ của bang phái thực sự" },
+          { ten: "Hàn Lập", tag: "doi-dich-tam-thoi", quanHe: "Người tình cờ phát hiện thân phận thật" }
+        ],
+        tuiDo: { phapBao: [], danDuoc: [], congPhap: [], linhThu: [], nguyenLieu: [], linhThao: [], khac: [] }
+      },
+      nguon: ["c0038"]
+    },
+    {
+      id: "truong-lao-trat-nhan",
+      name: "Trưởng lão sáng lập Trát Nhãn kiếm pháp",
+      cn: null,
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: [
+        { ten: "Thất Huyền môn", trangThai: "da-roi" }
+      ],
+      canhGioiCaoNhat: "Võ giả phàm tục (từng công lực cao thâm)",
+      trangThai: "tu-vong",
+      blurb: "Vị trưởng lão Thất Huyền môn thời xa xưa. Thời tráng niên vốn công lực cao thâm, nhưng trong một lần giao tranh trên giang hồ bị đối thủ vô ý phế bỏ nội công. Giấu kín bí mật, bế quan hơn mười năm tự sáng tạo ra Trát Nhãn kiếm pháp — môn kiếm kỹ không cần nội lực. Dùng kiếm pháp mới luyện thành cứu Thất Huyền môn khỏi bị diệt vong, lập đại công, rồi qua đời ở tuổi hoa giáp (sáu mươi). Để lại di chúc đưa kiếm phổ vào Thất Tuyệt đường.",
+      vaiTro: "Người sáng lập Trát Nhãn kiếm pháp",
+      tinhCach: [
+        { text: "Tài cao, thiên phú, kiên trì bế quan hơn mười năm để sáng tạo võ học mới sau khi mất nội lực", chuong: 40 }
+      ],
+      tabs: {
+        diem: [
+          { text: "Bị phế bỏ nội công, sợ mất địa vị trong môn nên giấu kín; dùng cơ trí hơn người để che đậy suốt thời gian bế quan", chuong: 40 },
+          { text: "Qua đời ở tuổi hoa giáp (sáu mươi) sau khi cứu thoát Thất Huyền môn khỏi bị các bang phái vây công", chuong: 40 }
+        ],
+        kinhLich: [
+          { chuong: 33, importance: "normal", tieuDe: "Được nhắc lần đầu", text: "Lệ Phi Vũ đề cập vị trưởng lão sáng tạo Trát Nhãn kiếm pháp: từng nhiều lần cứu Thất Huyền môn khỏi nguy cơ, trước khi lâm chung lập di chúc bắt buộc đưa kiếm pháp vào Thất Tuyệt đường." },
+          { chuong: 40, importance: "normal", tieuDe: "Lai lịch đầy đủ được tiết lộ", text: "Thời tráng niên công lực cao thâm, bị đối thủ phế bỏ võ công vô ý; giấu bí mật, lặng lẽ cưỡng đoạt nhiều bí tịch các môn phái, bế quan hơn mười năm tự sáng tạo Trát Nhãn kiếm pháp. Khi luyện thành, Thất Huyền môn đang bị vây công sắp diệt; hắn mở đường máu thoát vây, lập đại công. Sau đó gặp đại hạn, qua đời ở tuổi hoa giáp." }
+        ],
+        tuViMoc: [
+          { chuong: 40, canhGioi: "Võ giả bị phế nội công — chuyển sang kiếm kỹ không cần chân khí", text: "Từng công lực cao thâm nhưng bị phế bỏ hoàn toàn; về sau dùng Trát Nhãn kiếm pháp thay thế, đủ sức mở đường máu cho toàn môn phái." }
+        ],
+        nhanMach: [
+          { ten: "Thất Huyền môn", tag: "su-mon", quanHe: "Môn phái, người hắn cứu thoát" }
+        ],
+        tuiDo: {
+          phapBao: [],
+          danDuoc: [],
+          congPhap: [
+            { ten: "Trát Nhãn kiếm pháp", loai: "bí kỹ kiếm pháp", trangThai: "sáng lập — đã để lại di chúc đưa vào Thất Tuyệt đường", moTa: "Môn kiếm kỹ ám sát không cần nội lực do hắn tự sáng tạo sau hơn mười năm bế quan, tổng hợp nhiều bí tịch.", nguon: ["c0033", "c0034", "c0040"] }
+          ],
+          linhThu: [],
+          nguyenLieu: [],
+          linhThao: [],
+          khac: []
+        }
+      },
+      nguon: ["c0033", "c0034", "c0040"]
     }
   ]
 };
 
 window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
   updatedAt: "2026-06-10",
-  count: 4,
+  count: 10,
   artifacts: [
     {
       id: "binh-than-bi",
@@ -856,8 +1046,8 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
       soHuu: ["Hàn Lập"],
       trangThai: "đang giữ — đeo trong túi da ở cổ",
       blurb: "Cái bình thần bí màu xanh nhạt Hàn Lập nhặt được trên đường mòn trong núi. Bất hoại trước vũ lực phàm nhân. Hút ánh sáng trắng ban đêm; sau 8 ngày hấp thụ hiện phù hào vàng kim cổ xưa, nắp tự mở, bên trong chứa một giọt Thần Bí Dịch màu xanh biếc.",
-      detail: "Bình nhỏ gọn vừa một bàn tay, toàn thân màu xanh nhàn nhạt, hoa văn hình lá xanh biếc sống động. Chất liệu lạ không phải kim loại cũng không phải đồ sứ. Niêm phong cực chặt, nắp và thân như đúc liền khối khi chưa kích hoạt. BẤT HOẠI: bị đập bằng thiết chùy tới mười hai phần công lực vẫn không một vết xước, mặt bình vẫn óng ánh xanh biếc sáng bóng. HÚT LINH KHÍ: ban đêm hút ánh sáng trắng li ti từ không gian xung quanh (bạch quang / quang điểm); đặt ngoài trời thoáng đãng thì hút mạnh hơn, tạo bồn ánh sáng lớn. Sau 8 ngày hấp thụ liên tục, hoa văn thân bình phát quang xanh biếc, xuất hiện văn tự/phù hào vàng kim cổ xưa du động trên mặt bình — rồi nắp tự mở nhẹ nhàng không tốn lực. Bên trong chứa một giọt Thần Bí Dịch. Lai lịch và tên chính thức chưa được nguyên tác tiết lộ ở giai đoạn này.",
-      nguon: ["c0010", "c0011", "c0012", "c0013", "c0014"]
+      detail: "Bình nhỏ gọn vừa một bàn tay, toàn thân màu xanh nhàn nhạt, hoa văn hình lá xanh biếc sống động. Chất liệu lạ không phải kim loại cũng không phải đồ sứ. Niêm phong cực chặt, nắp và thân như đúc liền khối khi chưa kích hoạt. BẤT HOẠI: bị đập bằng thiết chùy tới mười hai phần công lực vẫn không một vết xước. HÚT LINH KHÍ: ban đêm hút ánh sáng trắng li ti từ không gian xung quanh (quang điểm); chỉ kích hoạt vào đêm trời quang thấy rõ sao trăng. Sau 8 ngày hấp thụ, hiện phù hào vàng kim và nắp tự mở; bên trong có một giọt Thần Bí Dịch (lục dịch). THÔI SANH DƯỢC THẢO: nhỏ trực tiếp một giọt lục dịch nguyên chất lên một gốc dược thảo, tăng khoảng 100 năm tuổi/dược tính; khoảng 7 ngày tái sinh một giọt. Lục dịch chỉ giữ được trong bình — rời bình một khắc tan biến, không vật chứa nào tích trữ được. Hòa tan vào chất lỏng khác thì hiệu quả giảm mạnh. Pha loãng cho thỏ uống: thỏ da nổi vết phồng, thân thể trướng phồng rồi nổ banh — là kịch độc chết người. Lai lịch và tên chính thức chưa được nguyên tác tiết lộ ở giai đoạn này.",
+      nguon: ["c0010", "c0011", "c0012", "c0013", "c0014", "c0023", "c0024", "c0025", "c0026"]
     },
     {
       id: "than-bi-dich",
@@ -868,9 +1058,9 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
       phamCap: "Chưa xác định",
       soHuu: ["Hàn Lập (qua bình thần bí)"],
       trangThai: "trong bình thần bí",
-      blurb: "Một giọt chất lỏng màu xanh biếc to bằng hạt đậu xuất hiện bên trong bình thần bí sau khi bình hấp thụ ánh sáng đủ 8 ngày. Nguyên tác cũng gọi là \"lục dịch\". Công dụng chưa rõ ở thời điểm này.",
-      detail: "Hình dạng: một giọt duy nhất, màu xanh biếc, kích cỡ bằng hạt đậu, cổn động chậm rãi trong bình, nhuốm xanh thành bình. Hàn Lập thoạt đầu thất vọng coi là \"vô dụng\" và cất bình vào túi định nghiên cứu sau. Nguồn gốc và công năng thực sự chưa được nguyên tác giải thích ở các chương đầu.",
-      nguon: ["c0014"]
+      blurb: "Một giọt chất lỏng màu xanh biếc to bằng hạt đậu xuất hiện bên trong bình thần bí sau khi bình hấp thụ ánh sáng đủ 8 ngày. Nguyên tác cũng gọi là 'lục dịch'. Là kỳ dược thôi sanh dược thảo: nhỏ một giọt nguyên chất lên một gốc cây tăng khoảng 100 năm tuổi/dược tính. Đồng thời là kịch độc chết người nếu pha loãng uống vào.",
+      detail: "Hình dạng: giọt màu xanh biếc bằng hạt đậu, cổn động chậm rãi trong bình, nhuốm xanh thành bình. Công năng thôi sanh: nhỏ trực tiếp nguyên chất lên một gốc dược thảo, tăng khoảng 100 năm tuổi mỗi giọt; hòa tan vào nước chỉ tăng một-hai năm. Giới hạn: rời bình một khắc là tan biến, không vật chứa nào giữ được. Kịch độc: pha loãng vào nước cho thỏ uống thì thỏ da nổi vết phồng, thân thể trướng phồng rồi nổ banh. Hàn Lập thoạt đầu thất vọng coi là 'vô dụng' khi mới tìm được.",
+      nguon: ["c0014", "c0023", "c0024", "c0025", "c0026"]
     },
     {
       id: "truu-tuy-hoan",
@@ -884,6 +1074,84 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
       blurb: "Dược hoàn màu phấn hồng đẹp mắt nhưng tỏa mùi hôi kỳ dị. Kích phát mạnh mẽ năng lực thân thể, làm võ công người dùng tăng vọt. Tác dụng phụ chết người: phải uống định kỳ, chịu đau như rút gân hút tủy, bỏ thuốc thì tê liệt hoặc chết; dù uống đúng vẫn chết sau khoảng 10 năm.",
       detail: "Thành phần: luyện từ hợp lan, hạt vĩ hoa, bách niên lam nghĩ noãn, cùng hai mươi ba loại vật phẩm hiếm khác. Công năng: sau khi phục dụng, kích phát mạnh mẽ năng lực thân thể, làm năng lực (võ công) người dùng tăng vọt; càng dùng võ công tinh tiến càng nhanh. Tác dụng phụ: phải uống tiếp định kỳ; mỗi lần chịu đau đớn như rút gân hút tủy (\"trừu cân hấp tủy\" — nguồn gốc tên hoàn); bỏ thuốc nhẹ thì toàn thân tê liệt, nặng thì mất mạng; dù uống đúng thời gian sau khoảng 10 năm vẫn không tránh khỏi cái chết. Lệ sư huynh dùng cả viên nhiều năm nên chỉ còn sống thêm 5-6 năm. Hàn Lập từng dùng bằng cách chia một viên thành mười phần làm dược dẫn — liều nhỏ không gây hại.",
       nguon: ["c0020"]
+    },
+    {
+      id: "binh-an-phu",
+      name: "Bình an phù",
+      cn: null,
+      category: "khac",
+      categoryLabel: "Phù linh",
+      phamCap: "Chưa xác định (vật phi thường)",
+      soHuu: ["Hàn Lập"],
+      trangThai: "đang giữ — đeo trên ngực",
+      blurb: "Vật cha mẹ tặng Hàn Lập khi rời nhà. Khi chạm vào truyền cảm giác thanh tâm thấu tâm, lập tức bình lặng nội tâm, trừ tâm ma và tiêu mọi dị tượng trong cơ thể.",
+      detail: "Trước nay Hàn Lập đeo trong cái túi ở ngực cùng bình thần bí. Đêm hắn bị tâm ma xâm lấn, thoạt đầu nghi cái túi/phù là nguyên nhân và ném đi — tình trạng càng nặng. Sau đó tìm lại bình an phù, chạm vào tay thì cảm giác thanh tâm truyền vào, mọi dị tượng tức thì tiêu tan. Đây là vật không tầm thường, năng lực thực sự chưa rõ hết.",
+      nguon: ["c0022", "c0023"]
+    },
+    {
+      id: "hoang-long-dan",
+      name: "Hoàng Long Đan",
+      cn: null,
+      category: "dan-duoc",
+      categoryLabel: "Đan dược",
+      phamCap: "Thánh dược hiếm có",
+      soHuu: ["Hàn Lập (tự phối chế)"],
+      trangThai: "phần còn lại đang lưu giữ",
+      blurb: "Thánh dược thoát thai hoán cốt, gia tăng công lực lớn. Hàn Lập tự phối chế bằng lục dịch thôi sanh dược tài trân quý. Dùng một viên cùng Kim Tủy Hoàn, ngay đêm đó đột phá tầng thứ tư Trường Xuân công.",
+      detail: "Một trong các thánh dược Hàn Lập tự luyện bằng dược tài được thôi sanh bởi lục dịch từ bình thần bí, trong thời gian Mặc đại phu vắng mặt. Quá trình phối chế thất bại nhiều lần trước khi thành công. Hàn Lập thu được hơn mười bình thánh dược các loại.",
+      nguon: ["c0027", "c0028"]
+    },
+    {
+      id: "kim-tuy-hoan",
+      name: "Kim Tủy Hoàn",
+      cn: null,
+      category: "dan-duoc",
+      categoryLabel: "Đan dược",
+      phamCap: "Thánh dược hiếm có",
+      soHuu: ["Hàn Lập (tự phối chế)"],
+      trangThai: "phần còn lại đang lưu giữ",
+      blurb: "Thánh dược thoát thai hoán cốt, gia tăng công lực lớn. Hàn Lập tự phối chế bằng lục dịch thôi sanh dược tài. Dùng một viên cùng Hoàng Long Đan, ngay đêm đó đột phá tầng thứ tư Trường Xuân công.",
+      detail: "Một trong các thánh dược Hàn Lập tự luyện. Dùng cùng đợt với Hoàng Long Đan để đột phá bình cảnh. Phần còn lại được Hàn Lập cất giữ bí mật để tiếp tục tu luyện các tầng sau.",
+      nguon: ["c0027", "c0028"]
+    },
+    {
+      id: "thanh-linh-tan",
+      name: "Thanh Linh Tán",
+      cn: null,
+      category: "dan-duoc",
+      categoryLabel: "Đan dược",
+      phamCap: "Thánh dược hiếm có",
+      soHuu: ["Hàn Lập (tự phối chế)"],
+      trangThai: "đang lưu giữ",
+      blurb: "Thánh dược giải độc hiếm có thế gian, giải được trăm ngàn loại kịch độc. Hàn Lập tự phối chế bằng lục dịch thôi sanh dược tài trân quý trong thời gian Mặc đại phu vắng mặt.",
+      detail: "Một trong các thánh dược Hàn Lập tự luyện. Thuộc loại giải độc, được phối chế dự phòng vì Hàn Lập ý thức mình vẫn là 'một nửa người giang hồ', dễ gặp ân oán. Cất giữ bí mật cùng các thánh dược khác. Sau khi bị ép nuốt Thi Trùng Hoàn, Hàn Lập thử dùng Thanh Linh Tán giải độc nhưng hoàn toàn vô dụng — xác nhận Thi Trùng Hoàn không phải độc dược thông thường mà là cổ trùng bí pháp nằm ngoài phạm vi giải độc.",
+      nguon: ["c0027", "c0032"]
+    },
+    {
+      id: "duong-tinh-dan",
+      name: "Dưỡng Tinh Đan",
+      cn: null,
+      category: "dan-duoc",
+      categoryLabel: "Đan dược",
+      phamCap: "Thánh dược hiếm có",
+      soHuu: ["Hàn Lập (tự phối chế)"],
+      trangThai: "đang lưu giữ",
+      blurb: "Linh dược trị nội ngoại thương thần kỳ. Ăn một viên không khởi tử hồi sanh nhưng giảm bớt thương thế, bảo trụ tính mạng. Hàn Lập tự phối chế để phòng thân.",
+      detail: "Một trong các thánh dược Hàn Lập tự luyện; thuộc nhóm trị thương, phối chế vì Hàn Lập biết mình có thể bị cuốn vào ân oán giang hồ. Cất giữ bí mật cùng các thánh dược khác.",
+      nguon: ["c0027"]
+    },
+    {
+      id: "thi-trung-hoan",
+      name: "Thi Trùng Hoàn",
+      cn: null,
+      category: "dan-duoc",
+      categoryLabel: "Đan dược",
+      phamCap: "Độc trùng noãn bí pháp",
+      soHuu: ["Mặc đại phu (chế tạo, giữ giải dược)", "Hàn Lập (đang trong cơ thể — bị ép nuốt)"],
+      trangThai: "tiềm phục trong cơ thể Hàn Lập",
+      blurb: "Viên hoàn màu trắng đựng trong hộp gỗ tứ giác điêu khắc tinh xảo. Thực chất không phải dược vật mà là trùng noãn điều chế bằng bí pháp. Tiềm phục trong cơ thể một năm; có giải dược đặc chế của Mặc đại phu thì tự tan rã vô hại — không có thì trùng phá vỡ ăn sạch nội tạng, nạn nhân chết thống khổ ba ngày ba đêm. Thanh Linh Tán không giải được.",
+      detail: "Mặc đại phu dùng làm đòn sát thủ kiểm soát Hàn Lập: ép hắn nuốt rồi đặt thời hạn một năm luyện Trường Xuân công đến tầng tư. Trong một năm nạn nhân hoàn toàn an toàn; chỉ cần phục dụng giải dược đặc chế thì trùng noãn tự tan rã. Không có giải dược, sau một năm trùng nở ra ăn sạch nội tạng từ bên trong. Hàn Lập từng thử dùng Thanh Linh Tán (giải bách độc) nhưng hoàn toàn vô dụng — xác nhận đây không phải độc dược thông thường mà là cổ trùng bí pháp.",
+      nguon: ["c0031", "c0032"]
     },
     {
       id: "day-thua-ket-nut",
@@ -903,20 +1171,20 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
 
 window.LIB_DATA["pham-nhan-tu-tien"].techniques = {
   updatedAt: "2026-06-10",
-  count: 6,
+  count: 9,
   techniques: [
     {
       id: "vo-danh-khau-quyet",
-      name: "Vô danh khẩu quyết",
+      name: "Trường Xuân công",
       cn: null,
       loai: "cong-phap",
       loaiLabel: "Công pháp",
-      phamCap: "Chưa xác định",
-      hePhai: "Mặc đại phu (nguồn gốc không rõ)",
+      phamCap: "Chưa xác định (nguồn gốc liên quan tu tiên)",
+      hePhai: "Mặc đại phu (từ kỳ thư thần bí)",
       soHuu: ["Hàn Lập", "Mặc đại phu"],
-      blurb: "Bộ khẩu quyết tu thân dưỡng tính Mặc đại phu truyền cho Hàn Lập. Không giúp khắc địch chế thắng, chỉ cường thân kiện thể — nhưng Hàn Lập tu thì sinh ra lương khí lạnh bất thường, còn Trương Thiết tu hoàn toàn không có phản ứng.",
-      detail: "Phân nhiều tầng. Khi tu, sinh ra luồng lương khí (chân khí lạnh) trong nội thể — khác hẳn nhiệt lưu chân khí nóng của Chính dương kinh. Năng lượng vận hành theo kỳ kinh bát mạch: đan điền → bách hội → tứ chi → đan điền. Mặc đại phu nghiêm cấm truyền ra ngoài; sẽ tra khảo sau nửa năm. Hàn Lập luyện tầng 2 (bị nội thương nhẹ); sau 4 năm khổ tu đạt tầng 3 thì đình trệ hơn một năm. Đạt tầng 3 thì cảm quan trở nên cực kỳ mẫn duệ. Công pháp kén người tu — chỉ hợp với căn cốt đặc thù.",
-      nguon: ["c0006", "c0007", "c0008", "c0009", "c0014", "c0015"]
+      blurb: "Tên thật của 'vô danh khẩu quyết' Mặc đại phu truyền cho Hàn Lập. Yêu cầu người tu còn trẻ và có linh căn. Sinh ra lương khí lạnh (chân khí kỳ dị) bất thường. Đến tầng tư có thể dùng Trường Xuân khí kích thích bí huyệt người khác — là chìa khóa để Mặc đại phu phá giải tà khí xâm cốt của mình.",
+      detail: "Phân nhiều tầng. Mặc đại phu tìm được từ kỳ thư thần bí; truyền cho Hàn Lập với tên 'vô danh khẩu quyết', nghiêm cấm tiết lộ. Khi tu, sinh ra luồng lương khí (chân khí lạnh) trong nội thể — khác hẳn nhiệt lưu chân khí nóng của Chính dương kinh. Năng lượng vận hành theo kỳ kinh bát mạch. Yêu cầu người tu còn trẻ và phải có 'linh căn' — Mặc đại phu đã thử mấy trăm đồng tử đều thất bại trước khi chọn được Hàn Lập. Đạt tầng 3: cảm quan mẫn duệ cực độ. Đạt tầng 4: ngũ cảm tăng vọt mang tính chất (thấy sợi tơ nhện, nghe tiếng giun đào đất, cảm nhận vạn vật phạm vi mười trượng), điều khiển được cỗ chân khí kỳ dị, có thể che giấu trước người khác. Công pháp kén người tu — chỉ hợp với linh căn đặc thù.",
+      nguon: ["c0006", "c0007", "c0008", "c0009", "c0014", "c0015", "c0028", "c0030"]
     },
     {
       id: "tuong-giap-cong",
@@ -971,6 +1239,45 @@ window.LIB_DATA["pham-nhan-tu-tien"].techniques = {
       nguon: ["c0007"]
     },
     {
+      id: "trat-nhan-kiem-phap",
+      name: "Trát Nhãn kiếm pháp",
+      cn: null,
+      loai: "kiem-quyet",
+      loaiLabel: "Kiếm pháp",
+      phamCap: "Tuyệt học — bí kỹ ám sát (không cần nội lực)",
+      hePhai: "Thất Huyền môn (Thất Tuyệt đường tàng thư)",
+      soHuu: ["Hàn Lập (ghi thuộc lòng)"],
+      blurb: "Bộ kiếm kỹ ám sát kỳ dị do một trưởng lão Thất Huyền môn thời xa xưa tự sáng tạo sau hơn mười năm bế quan — khi ông bị phế nội công và không thể tu luyện lại. Đặc điểm cốt lõi: không cần chân khí/nội lực, thay vào đó lợi dụng thiên thời-địa lợi-nhân hòa (vị trí cây cỏ, góc độ ánh sáng mạnh yếu) để làm sai lệch thị giác đối thủ, trong nháy mắt chộp sơ hở giết người. Điều kiện tu luyện 'tam bất luyện': chân khí đã có thành tựu — không luyện được; không có nghị lực lớn — không luyện được; không có thiên phú — không luyện được.",
+      detail: "Được cất giữ tại Thất Tuyệt đường theo di chúc của người sáng lập. Toàn bộ 74 quyển bí tịch trong góc thư khố đều ghi cùng tên 'Trát Nhãn kiếm phổ' — mỗi quyển là một chiêu kiếm, mỗi chiêu lại chia hàng trăm phân thức tương ứng với từng hoàn cảnh thiên thời khác nhau. Điều kiện tu luyện cực biến thái: cấm dùng nội lực tinh thuần (chân khí mâu thuẫn kỹ xảo vận kình, làm chiêu kiếm biến đổi gây sơ hở); phải có ngũ quan-thị lực-thính giác hơn người. Cả Thất Huyền môn đều bỏ qua vì điều kiện kỳ cục, từ trước chưa ai luyện thành. Muốn thấu hiểu triệt để cần 8-10 năm; người thiên phú cần 2-3 năm mới có chút thành tựu. Hàn Lập ghi tạc toàn bộ vào trí nhớ thay vì sao chép để tránh lộ trước Mặc đại phu.",
+      nguon: ["c0033", "c0034", "c0035", "c0036", "c0037", "c0039", "c0040"]
+    },
+    {
+      id: "cuong-manh-kinh",
+      name: "Cuồng Mãnh Kình",
+      cn: null,
+      loai: "cong-phap",
+      loaiLabel: "Công pháp",
+      phamCap: "Trung tầng võ học Thất Huyền môn",
+      hePhai: "Thất Huyền môn",
+      soHuu: ["Lệ Phi Vũ", "Hàn Lập (đã học)"],
+      blurb: "Công pháp cương mãnh thiên về cương dương của Thất Huyền môn. Lệ Phi Vũ truyền cho Hàn Lập; Hàn Lập thấy quá cương mãnh không hợp với mình và yêu cầu đổi sang loại mềm dẻo hơn.",
+      detail: "Loại công pháp thiên cương dương — phù hợp với người có thiên tính cương mãnh như Lệ Phi Vũ. Hàn Lập học rồi nhận xét không hợp, xin học loại khác mềm dẻo khéo léo hơn.",
+      nguon: ["c0033"]
+    },
+    {
+      id: "trien-ti-thu",
+      name: "Triền Ti Thủ",
+      cn: null,
+      loai: "cong-phap",
+      loaiLabel: "Công pháp",
+      phamCap: "Trung tầng võ học Thất Huyền môn",
+      hePhai: "Thất Huyền môn",
+      soHuu: ["Lệ Phi Vũ", "Hàn Lập (thành thục)"],
+      blurb: "Môn võ công mềm dẻo khéo léo do Lệ Phi Vũ truyền cho Hàn Lập. Hàn Lập luyện xuất thần nhập hóa chỉ trong hai tháng nhờ thiên phú võ học và năng lực ghi nhớ của Trường Xuân công.",
+      detail: "Dùng để điều khiển lực vi tế — Hàn Lập dùng Triền Ti Thủ để khéo léo giải nút thắt túi đựng bí tịch mà Lệ Phi Vũ mang tới. Việc luyện thành trong hai tháng khiến Lệ Phi Vũ gọi Hàn Lập là thiên tài.",
+      nguon: ["c0035"]
+    },
+    {
       id: "that-tuyet-thuong",
       name: "Thất tuyệt thương",
       cn: "七绝枪",
@@ -988,7 +1295,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].techniques = {
 
 window.LIB_DATA["pham-nhan-tu-tien"].map = {
   updatedAt: "2026-06-10",
-  count: 13,
+  count: 15,
   nodes: [
     {
       id: "kinh-chau",
@@ -1123,6 +1430,28 @@ window.LIB_DATA["pham-nhan-tu-tien"].map = {
       nguon: ["c0001"]
     },
     {
+      id: "lam-chau",
+      name: "Lam Châu",
+      cn: null,
+      capDo: "chau",
+      parentId: null,
+      blurb: "Châu nơi Mặc Cư Nhân từng xây dựng cơ nghiệp và hiển hách trong võ lâm với danh hiệu 'quỷ thủ'.",
+      detail: "Địa bàn hoạt động cũ của Mặc Cư Nhân — từng lập lãnh địa riêng, hắc bạch lưỡng đạo đều phải nể sợ. Sau khi bị thân tín ám toán, hắn buộc phải bỏ cơ nghiệp và biệt tăm biệt tích.",
+      theLucLienQuan: [],
+      nguon: ["c0030"]
+    },
+    {
+      id: "that-tuyet-duong-tang-thu",
+      name: "Thất Tuyệt đường tàng thư",
+      cn: null,
+      capDo: "khac",
+      parentId: "thai-ha-son",
+      blurb: "Kho chứa bí tịch tuyệt học của Thất Huyền môn bên trong Thất Tuyệt đường. Có tuần đường hộ pháp canh giữ. Nơi lưu trữ kiếm phổ Trát Nhãn kiếm pháp theo di chúc trưởng lão sáng lập.",
+      detail: "Phần tàng thư bên trong Thất Tuyệt đường — nơi cất giữ các bí tịch và tuyệt kỹ của Thất Huyền môn. Có tuần đường hộ pháp canh giữ, đột nhập trộm bí tịch là nguy hiểm đến tính mạng. Trong đó có 74 quyển bí tịch đều ghi 'Trát Nhãn kiếm phổ' bị quăng vào góc tối không ai để ý. Lệ Phi Vũ lén trộm toàn bộ mang ra ngoài cho Hàn Lập nghiên cứu.",
+      theLucLienQuan: ["Thất Huyền môn"],
+      nguon: ["c0033", "c0034", "c0035", "c0036", "c0037", "c0039", "c0040"]
+    },
+    {
       id: "nui-gan-thon",
       name: "Núi gần Sơn Biên tiểu thôn",
       cn: null,
@@ -1138,7 +1467,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].map = {
 
 window.LIB_DATA["pham-nhan-tu-tien"].factions = {
   updatedAt: "2026-06-10",
-  count: 4,
+  count: 5,
   factions: [
     {
       id: "that-huyen-mon",
@@ -1150,7 +1479,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].factions = {
       nhanVatChinh: ["Vương môn chủ", "Mã phó môn chủ", "Nhạc đường chủ", "Vương hộ pháp", "Mặc đại phu"],
       blurb: "Môn phái võ lâm từng đứng đầu Kính Châu, nay suy tàn về bậc tam lưu tiểu thế lực sau hơn trăm năm. Cứ 5 năm tổ chức khảo thí tuyển đệ tử. Đang trong chiến tranh kéo dài với Dã Lang bang, dẫn tới thay đổi môn quy: đệ tử sau xuất sư phải xuống núi lịch lãm giang hồ trước khi nhận chức nội môn.",
       detail: "Thành lập hơn hai trăm năm trước bởi Thất Tuyệt thượng nhân (Thất Tuyệt thương nhân). Thời thịnh: đứng đầu Kính Châu hơn mười năm, thanh danh lan tới Sổ Châu. Sau khi Thất Tuyệt chân nhân bệnh chết, môn phái suy sụp, bị liên minh các môn phái đẩy khỏi Kính Châu thành, dời về Thái Hà sơn hơn trăm năm trước. Cơ cấu hiện tại: Môn chủ (Vương môn chủ) + ba phó môn chủ; Trưởng lão hội (trong đó có ngũ trưởng lão); Nội môn (Bách Đoán đường — 2 năm huấn luyện cơ sở → bái sư trưởng bối; Thất Tuyệt đường — nhập thất đệ tử môn chủ, được học tuyệt kỹ; Cung Phụng đường; Huyết Nhận đường); Ngoại môn (Phi Điểu đường, Tụ Bảo đường, Tứ Hải đường, Ngoại Nhận đường). Con đường thăng tiến đỉnh: từ Bách Đoán đường → bái sư → kiệt xuất được đặc cách vào Thất Tuyệt đường làm nhập thất đệ tử môn chủ. Có hơn 3-4 ngàn đệ tử. Chiến tranh với Dã Lang bang kéo dài nhiều năm, tổn thất nhiều sư huynh lớn tuổi; môn quy mới: đệ tử xuất sư phải xuống núi lịch lãm và làm nhiệm vụ nhỏ trước khi nhận chức nội môn chính thức — nhờ đó giảm thương vong trong giao chiến thực tế.",
-      nguon: ["c0001", "c0002", "c0003", "c0006", "c0017", "c0019"]
+      nguon: ["c0001", "c0002", "c0003", "c0006", "c0017", "c0019", "c0033", "c0034", "c0035", "c0037", "c0038", "c0039", "c0040"]
     },
     {
       id: "da-lang-bang",
@@ -1159,10 +1488,10 @@ window.LIB_DATA["pham-nhan-tu-tien"].factions = {
       type: "bang-phai",
       typeLabel: "Bang phái",
       diaBan: "Nhiều hương trấn nghèo ở Kính Châu",
-      nhanVatChinh: [],
-      blurb: "Bang phái gốc mã tặc, hung hăng tàn ác. Khống chế nhiều hương trấn hơn Thất Huyền môn nhưng địa bàn nghèo hơn. Đang trong cuộc chiến tranh kéo dài với Thất Huyền môn tranh giành các thành trấn giàu có.",
-      detail: "Tiền thân là đám mã tặc đốt phá cướp bóc ở Kính Châu; bị quan binh đuổi giết, một bộ phận theo hàng quan phủ, phần còn lại lập thành Dã Lang bang. Là bang phái duy nhất đủ sức đối kháng Thất Huyền môn. Huấn luyện bang chúng theo kiểu mã tặc: thấy máu càng điên cuồng, chém giết liều mạng — làm đệ tử Thất Huyền môn (dù võ nghệ cao hơn) phải e dè và thương vong lớn. Trong nhiều năm xung đột, hai bên đánh hơn mười trận to nhỏ; Thất Huyền môn đang chiếm thượng phong nhưng tổn thất nhiều. Dã Lang bang là nguyên nhân khiến Thất Huyền môn thay đổi môn quy, đẩy đệ tử ra ngoài lịch lãm trước.",
-      nguon: ["c0002", "c0019"]
+      nhanVatChinh: ["Cổ Thiên Long"],
+      blurb: "Bang phái gốc mã tặc, hung hăng tàn ác. Khống chế nhiều hương trấn hơn Thất Huyền môn nhưng địa bàn nghèo hơn. Đang trong cuộc chiến tranh kéo dài với Thất Huyền môn tranh giành các thành trấn giàu có. Bang chủ hiệu 'Kim lang' Cổ Thiên Long — gầy yếu tuấn tú tuổi khoảng ba mươi, trái với đồn đại về ma đầu dữ tợn, nhưng cứ động là giết người. Đang cài cắm gian tế nội bộ Thất Huyền môn để trộm 'danh sách' và chuẩn bị hành động.",
+      detail: "Tiền thân là đám mã tặc đốt phá cướp bóc ở Kính Châu; bị quan binh đuổi giết, một bộ phận theo hàng quan phủ, phần còn lại lập thành Dã Lang bang. Là bang phái duy nhất đủ sức đối kháng Thất Huyền môn. Huấn luyện bang chúng theo kiểu mã tặc: thấy máu càng điên cuồng, chém giết liều mạng — làm đệ tử Thất Huyền môn (dù võ nghệ cao hơn) phải e dè và thương vong lớn. Trong nhiều năm xung đột, hai bên đánh hơn mười trận to nhỏ; Thất Huyền môn đang chiếm thượng phong nhưng tổn thất nhiều. Dã Lang bang là nguyên nhân khiến Thất Huyền môn thay đổi môn quy, đẩy đệ tử ra ngoài lịch lãm trước. Giai đoạn ch.38: phái gian tế cài trong Thất Huyền môn (đại quản sự phòng bếp) để trộm một 'danh sách' và chuẩn bị ra tay hành động bất lợi.",
+      nguon: ["c0002", "c0019", "c0038"]
     },
     {
       id: "han-gia",
@@ -1175,6 +1504,18 @@ window.LIB_DATA["pham-nhan-tu-tien"].factions = {
       blurb: "Gia đình nông dân nghèo bảy miệng ăn — cha, mẹ, đại ca, nhị ca Hàn Chú, tỷ tỷ, Hàn Lập, tiểu muội muội. Tam thúc là người duy nhất trong nhà từng ra ngoài làm ăn.",
       detail: "Sống tại Sơn Biên tiểu thôn. Nguồn thu nhập ít ỏi: đại ca học thợ rèn 30 đồng/tháng, tam thúc đại chưởng quỹ. Hàn Lập được kỳ vọng đem tiền về nhà sau khi vào Thất Huyền môn.",
       nguon: ["c0001"]
+    },
+    {
+      id: "that-tuyet-duong",
+      name: "Thất Tuyệt đường",
+      cn: "七绝堂",
+      type: "phan-duong",
+      typeLabel: "Phân đường nội môn",
+      diaBan: "Thái Hà sơn (Thất Huyền môn)",
+      nhanVatChinh: ["Vũ Nham"],
+      blurb: "Phân đường nội môn cao cấp của Thất Huyền môn — nơi nhập thất đệ tử môn chủ được học tuyệt kỹ. Có tổng quản cai quản; bên trong có tàng thư lưu giữ bí tịch tuyệt học, trong đó có Trát Nhãn kiếm phổ (74 quyển, hơn trăm năm không ai để ý).",
+      detail: "Đường cao cấp nhất trong Thất Huyền môn, chỉ nhập thất đệ tử môn chủ mới được học tuyệt kỹ. Có tổng quản Thất Tuyệt đường quản lý chung, có tuần đường hộ pháp canh giữ tàng thư. Vũ Nham nhờ quan hệ gia đình được đặc cách vào. Lệ Phi Vũ được đặc cách vào nhờ thực lực xuất chúng. Tàng thư có 74 quyển 'Trát Nhãn kiếm phổ' bị quăng góc tối không ai dòm ngó vì điều kiện tu luyện kỳ cục.",
+      nguon: ["c0005", "c0033", "c0034", "c0035", "c0036", "c0037", "c0039", "c0040"]
     },
     {
       id: "bach-doan-duong",
@@ -1314,6 +1655,106 @@ window.LIB_DATA["pham-nhan-tu-tien"].cotTruyen = {
       chuong: 20,
       tieuDe: "Trừu Tủy Hoàn",
       tomTat: "Hàn Lập băng rừng tùng, nghe tiếng rên bên suối, phát hiện Lệ sư huynh bệnh cấp tính nguy hiểm tính mạng. Hắn dùng ngân châm điểm huyệt cứu tỉnh. Nhận ra bình ngọc nhỏ trên người Lệ sư huynh, Hàn Lập vạch trần toàn bộ bí mật Trừu Tủy Hoàn: thành phần từ hợp lan và 23 loại vật hiếm, kích phát thân thể tăng vọt võ công, nhưng phải uống định kỳ và dù uống đúng vẫn chết sau khoảng 10 năm. Lệ sư huynh chỉ còn sống 5-6 năm. Hàn Lập tiết lộ mình cũng từng dùng hoàn này nhưng chia mười phần làm dược dẫn — cách an toàn không gây hại. Hắn đề nghị hai lựa chọn cho Lệ sư huynh: nhờ Mặc đại phu phối bí dược (sống thêm 20-30 năm, mất võ công) hay tiếp tục dùng Trừu Tủy Hoàn — để hắn tự quyết."
+    },
+    {
+      chuong: 21,
+      tieuDe: "Chỉ Thống Dược",
+      tomTat: "Lệ Phi Vũ (Lệ sư huynh) tỉnh lại sau khi được Hàn Lập cứu, lập tức rút trường đao kề cổ Hàn Lập đòi lý do không diệt khẩu. Hàn Lập giữ trấn định, lập luận bằng đạo lý 'vừa cứu mạng' và đề nghị phát độc thề giữ bí mật — lén thủ thiết đồng phòng thân trong ống tay áo. Nguy hiểm được hóa giải. Lệ Phi Vũ tự xưng tên thật, hứa trả ơn. Hàn Lập đoán đúng nỗi phiền toái chính trị của Lệ Phi Vũ: đệ tử hộ pháp bình thường nhưng được lòng đường chủ, trưởng lão, môn chủ. Hai người hẹn hôm sau giao chỉ thống dược tại cốc khẩu. Sau biến cố, Hàn Lập rút ra bài học 'không có lợi không làm', từ bỏ phần bản tính thuần phác."
+    },
+    {
+      chuong: 22,
+      tieuDe: "Tâm Ma Sanh",
+      tomTat: "Lệ Phi Vũ hẹn trưa hôm sau lấy thuốc rồi cáo từ đi điều dưỡng; Hàn Lập cố ý không truy hỏi nguyên nhân dùng Trừu Tủy Hoàn — hành động tế nhị khiến Lệ Phi Vũ mang ơn sâu hơn. Hàn Lập phối xong 5 phần chỉ thống dược, cố ý làm đúng 5 phần để năm nào đối phương cũng phải tới lấy. Đêm đó hắn ngồi hoài niệm người thân — hơn bốn năm xa nhà, gửi bạc về nhà khá lên nhưng khẩu khí thư ngày càng xa lạ. Bất ngờ, khí huyết quay cuồng, tâm ma xâm lấn — nguy cơ sống chết trong gang tấc. Mặc đại phu vắng mặt, Hàn Lập phải tự cứu."
+    },
+    {
+      chuong: 23,
+      tieuDe: "Thí Dược Thỏ",
+      tomTat: "Hàn Lập lóe ra, tìm lại bình an phù cha mẹ tặng — chạm vào tay liền cảm giác thanh tâm thấu nhập, mọi dị tượng tức thì tiêu trừ, thoát chết khỏi tâm ma. Hắn mới nhận ra đây không phải tẩu hỏa nhập ma mà là tâm ma xâm lấn người tu đạo. Công lực tăng đạt đỉnh phong tầng thứ ba. Tình cờ tìm lại bình thần bí đã quên — nhận ra đây là kỳ vật thế gian ít có, quyết thí nghiệm giọt lục dịch. Sáng hôm sau mua 2 con thỏ từ quản sự bếp, pha lục dịch vào nước cho thỏ uống — thỏ da nổi vết phồng, thân thể trướng phồng to như dưa hấu, kết cục kinh người."
+    },
+    {
+      chuong: 24,
+      tieuDe: "Kinh Hồn Định",
+      tomTat: "Hai con thỏ nổ banh thân, huyết nhục bay tán loạn. Hàn Lập quyết không đụng vào bình nữa. Đến trưa, giao gói dược phấn giảm đau cho Lệ Phi Vũ tại cốc khẩu; Lệ Phi Vũ mừng rỡ vì từ trước các loại thuốc giảm đau đều vô dụng, lại thiếu thêm một phần đại nhân tình. Trở về, Hàn Lập dọn sạch hiện trường vụ nổ; khổ luyện cả buổi chiều vẫn không phá vỡ ngưỡng tầng tư — nhận ra cần ngoại lực dược vật, mong Mặc đại phu sớm về."
+    },
+    {
+      chuong: 25,
+      tieuDe: "Sáp Liễu Thành",
+      tomTat: "Sáng hôm sau ra dược viên, Hàn Lập phát hiện điều kỳ diệu: mấy cọng dược thảo bị nước pha lục dịch làm ướt qua một đêm đã biến đổi thành dược tài vài chục năm dược tính (hoàng long thảo lá phát tử, khổ liên hoa nở chín cánh, vong ưu quả vỏ đen). Hắn mừng đến mức cười ngửa mặt té ngã. Đặt ra ba nan đề cần giải: kiểm độc, xác nhận bình tái sinh lục dịch, nắm phương pháp. Thỏ ăn thuốc bổ từ thảo thôi sanh không trúng độc, ngược lại kiện tráng hơn. Hàn Lập suy đoán điều kiện kích hoạt: bình chỉ phát dị biến vào đêm trời quang thấy sao trăng. Trời mưa phùn nửa tháng liền, hắn buồn bực cực kỳ."
+    },
+    {
+      chuong: 26,
+      tieuDe: "Thôi Dược Sanh",
+      tomTat: "Trời quang trở lại; bình thần bí tái hiện quang điểm tụ thành quả cầu sáng, rồi 7 ngày sau sinh một giọt lục dịch mới — xác nhận bình tái sử dụng được. Qua hàng loạt thí nghiệm, Hàn Lập nắm phương pháp: nhỏ nguyên chất một giọt lên một gốc cây tăng khoảng 100 năm tuổi, hòa tan thì hiệu quả giảm mạnh. Lục dịch chỉ giữ được một khắc sau khi rời bình. Nuôi tam ô thảo thành ngàn năm qua hai tháng. Nhận thức 'hoài bích kỳ tội': bảo vật vô giá này nếu lộ ra thì chính các môn chủ bổn môn cũng giết người đoạt bảo; quyết tâm thủ khẩu như bình. Tự nhắc tiếp tục tu Trường Xuân công vì cảm nhận biến hóa kỳ lạ trên thân thể."
+    },
+    {
+      chuong: 27,
+      tieuDe: "Phối Linh Dược",
+      tomTat: "Tận dụng thời gian Mặc đại phu vắng mặt (đã nửa năm, còn 6-7 tháng nữa mới về), Hàn Lập bí mật dùng lục dịch nuôi dưỡng dược tài trân quý. Hắn nhớ lại ánh mắt kỳ quái của Mặc đại phu từng nhìn hắn như nhìn đồ vật, quyết tâm giấu kín bí mật bình. Qua nhiều lần thất bại tốn kém, hắn tự tay phối chế thành công các thánh dược: Hoàng Long Đan, Thanh Linh Tán, Kim Tủy Hoàn, Dưỡng Tinh Đan — hơn mười bình thánh dược hiếm có. Từ nay việc tu luyện lên tầng tư, thậm chí tầng năm, sáu cũng không tốn quá nhiều sức lực."
+    },
+    {
+      chuong: 28,
+      tieuDe: "Mặc Lão Hồi Cốc",
+      tomTat: "Hàn Lập trích linh dược phối thêm hai loại thuốc phòng thân: một loại giải độc, một loại chữa thương. Rồi ăn Hoàng Long Đan và Kim Tủy Hoàn — ngay đêm đó đột phá tầng thứ tư Trường Xuân công. Ngũ cảm tăng vọt mang tính chất: thấy rõ sợi tơ nhện trong góc phòng, nghe tiếng giun đào đất cách mấy chục trượng, cảm nhận vạn vật phạm vi mười trượng. Không lâu sau, Mặc đại phu trở về Thần Thủ Cốc sau một năm vắng mặt — sắc mặt hôi bại như đại hạn sắp đến, dẫn theo một người thần bí mặc lục bào che kín mặt. Hàn Lập đưa ra đáp án dự phòng 'không có biến hóa gì lớn', giấu đột phá thật, tự tin che giấu được nhờ điều khiển chân khí."
+    },
+    {
+      chuong: 29,
+      tieuDe: "Xung Đột Khởi",
+      tomTat: "Mặc đại phu thăm dò chân khí Hàn Lập và tỏ ý không hài lòng. Vào phòng kín, hắn lộ chân tướng: thân pháp như u linh, trong nháy mắt điểm huyệt chế trụ Hàn Lập toàn thân tê liệt. Hàn Lập cố giữ trấn định, dùng lời cung kính rồi hỏi ngược thẳng thắn; Mặc đại phu tán dương ba tiếng 'Hảo', tước cục sắt hắn lén thủ phòng thân. Mặc đại phu tự xưng tên thật Mặc Cư Nhân, đặt thẳng: quan hệ hai bên chỉ là lợi dụng lẫn nhau, không có tình thầy trò."
+    },
+    {
+      chuong: 30,
+      tieuDe: "Kiêu Hùng Mạt Lộ",
+      tomTat: "Mặc Cư Nhân phơi bày toàn bộ thân thế: thực chất mới 30 tuổi dù bề ngoài như trên 70; từng là cao thủ võ lâm Lam Châu hiệu 'quỷ thủ', bị thân tín ám toán bằng độc thủ nên lưu lạc. Tại nơi thần bí, tình cờ được kỳ thư: khôi phục được công lực nhưng bị tà khí xâm cốt, lão hóa cực nhanh (một ngày bằng mười ngày người thường), chỉ còn sống thêm khoảng một năm. Cách phá giải: cần người luyện Trường Xuân công tới tầng tư dùng Trường Xuân khí kích thích bí huyệt — sau khi thử mấy trăm đồng tử thất bại, chỉ Hàn Lập (có linh căn) mới có phản ứng. Lý do ra tay khống chế sớm: lần xuống núi vừa rồi bị cừu gia nhận ra, khổ chiến hao hết tinh lực. Hàn Lập ngoài mặt bình thản nhưng nội tâm chấn động dữ dội."
+    },
+    {
+      chuong: 31,
+      tieuDe: "Thi Trùng Hoàn",
+      tomTat: "Mặc đại phu vạch trần việc Hàn Lập cố ý giấu giếm tiến độ tu luyện Trường Xuân công, dồn ép tâm lý cho tới khi hắn thất thủ. Lão lấy ra Thi Trùng Hoàn — trùng noãn bí pháp — ép Hàn Lập nuốt vào, đặt thời hạn một năm: nếu không có giải dược, trùng nở ra ăn sạch nội tạng, chết thống khổ ba ngày ba đêm. Mặc đại phu còn đe dọa cha mẹ thân nhân Hàn Lập. Hàn Lập từng nảy ý đồng quy vu tận nhưng không thể để cha mẹ liên lụy, đành khuất phục."
+    },
+    {
+      chuong: 32,
+      tieuDe: "Hào Khí Sinh",
+      tomTat: "Hàn Lập thử giải độc Thi Trùng Hoàn bằng Thanh Linh Tán nhưng thất bại — xác nhận Mặc đại phu không lừa. Hắn từ bỏ ý nghĩ phó thác mạng vào lòng thương của đối phương, quyết tâm gia tăng thực lực và tự nắm vận mệnh. Trên sân đón gió sớm dưới bình minh đỏ rực, Hàn Lập hào khí đại phát, tuyên bố vận mệnh chỉ do mình nắm giữ."
+    },
+    {
+      chuong: 33,
+      tieuDe: "Tư Hạ Giao Dịch",
+      tomTat: "Hàn Lập và Lệ Phi Vũ duy trì giao dịch dược-đổi-võ định kỳ tại thủy đàm bí mật (bốn phía vách núi, lối vào là tiểu sơn động sau cây hòe cổ) đã hơn nửa năm và dần thành hảo hữu. Hàn Lập than Cuồng Mãnh Kình quá cương mãnh không hợp; Lệ Phi Vũ đề nghị bỏ khẩu quyết theo hắn học chân công phu, Hàn Lập từ chối. Khi hỏi về kiếm pháp không cần chân khí, Lệ Phi Vũ nhắc tới Trát Nhãn kiếm pháp — kiếm pháp kỳ quái chưa ai luyện thành trong hơn trăm năm."
+    },
+    {
+      chuong: 34,
+      tieuDe: "Trát Nhãn Kiếm Pháp",
+      tomTat: "Hàn Lập linh cảm Trát Nhãn kiếm pháp chính là thứ mình cần; thỏa thuận với Lệ Phi Vũ lén đem nguyên cuốn ra ngoài cho hắn chép rồi trả về. Trên đường về Thần Thủ cốc, Hàn Lập quan sát nam tử thần bí đứng bất động ngoài cửa phòng Mặc đại phu — phán đoán đây là sát thủ con rối của Mặc đại phu, bóng lưng có cảm giác quen thuộc nhưng không nhớ ra. Hồi tưởng: hai tháng trước nhờ Hoàng Long Đan và Kim Tủy Hoàn đột phá từ tầng tư lên tầng năm Trường Xuân công, có năng lực ghi nhớ võ học không thể quên."
+    },
+    {
+      chuong: 35,
+      tieuDe: "Thâu Bí Tịch",
+      tomTat: "Lệ Phi Vũ mang tới một túi lớn nặng trịch — hóa ra không phải một quyển mà là cả đống bí tịch trộm từ Thất Tuyệt đường tàng thư. Hàn Lập kinh hãi tức giận vì nguy cơ bị tuần đường hộ pháp phát hiện thì cả hai chết không kịp. Mỗi cuốn đều đóng dấu 'Thất tuyệt đường tàng thư' bằng mực vàng."
+    },
+    {
+      chuong: 36,
+      tieuDe: "Giật Mình",
+      tomTat: "Hàn Lập trấn tĩnh yêu cầu giải thích. Lệ Phi Vũ trao cho hắn một quyển mỏng — bìa ghi 'Trát Nhãn kiếm phổ', rồi lần lượt ném thêm bốn quyển nữa đều cùng tên. Hàn Lập ngây dại khi biết toàn bộ đống bí tịch đó — tổng cộng 74 quyển — đều cùng mang tên 'Trát Nhãn kiếm phổ'. Lệ Phi Vũ hả hê vì hiếm thấy được khuôn mặt 'giật mình' của Hàn Lập. Hàn Lập cẩn thận mở xem các trang sách ố vàng."
+    },
+    {
+      chuong: 37,
+      tieuDe: "Tam Bất Luyện",
+      tomTat: "Hàn Lập đọc trọn đống bí tịch với tốc độ kinh nhân, vận Trường Xuân công diễn luyện lại trong đầu. Hắn giải thích Trát Nhãn kiếm pháp cho Lệ Phi Vũ: kiếm kỹ lợi dụng ánh sáng và sai lầm thị giác, chỉ là một phần nhỏ của tổng thể. Điều kiện 'tam bất luyện' — quan trọng nhất là cấm chân khí có thành tựu — khiến Lệ Phi Vũ lập tức mất hứng và cáo từ về trước. Hàn Lập nhờ Trường Xuân công nhìn rõ ban đêm mới chạy được về Thất Huyền môn trên sơn đạo hiểm yếu tối đen."
+    },
+    {
+      chuong: 38,
+      tieuDe: "Đêm Gặp Gian Tế",
+      tomTat: "Trên đường về đêm, nhờ giác quan nhạy bén từ Trường Xuân công, Hàn Lập kịp ẩn mình sau đại thụ, nghe lén được hai gian tế Dã Lang bang bàn kế hoạch ra tay với Thất Huyền môn — liên quan tới việc trộm một 'danh sách'. Hắn nhận ra một trong hai người chính là đại quản sự phòng bếp (người từng bán thỏ cho hắn) qua giọng nói; nhận xét thân phận quản sự bếp mới dễ lên xuống núi thường xuyên truyền tin không bị chú ý."
+    },
+    {
+      chuong: 39,
+      tieuDe: "Điều Kiện Biến Thái",
+      tomTat: "Hàn Lập quyết định giao toàn bộ công lao bắt gian tế cho Lệ Phi Vũ lập công — vừa báo đáp ân tình kiếm phổ, vừa giúp Lệ Phi Vũ (người có dã tâm tiến vào cao tầng vì Trừu Tủy Hoàn đã ăn) thực hiện khát vọng. Hắn suy ngẫm sâu về bản chất Trát Nhãn kiếm pháp: bí kỹ ám sát kết hợp thiên thời-địa lợi-nhân hòa, lợi dụng ánh sáng-cây cỏ làm sai lệch thị giác địch, cấm có nội lực tinh thuần, chiêu thức phức tạp đến mức cả Thất Huyền môn từ bỏ."
+    },
+    {
+      chuong: 40,
+      tieuDe: "Bí Kỹ Uyên Nguyên",
+      tomTat: "Chương kể lai lịch Trát Nhãn kiếm pháp: người sáng lập là trưởng lão Thất Huyền môn bị phế nội công, giấu kín bí mật, bế quan hơn mười năm tự sáng tạo ra môn kiếm kỹ từ các bí tịch cưỡng đoạt. Khi luyện thành thì Thất Huyền môn đang bị vây diệt — hắn mở đường máu thoát vây, lập đại công, rồi qua đời ở tuổi hoa giáp. Hàn Lập đọc bí tịch suốt đêm tới sáng, quyết ghi tạc toàn bộ vào trí nhớ thay vì sao chép để không lộ trước Mặc đại phu; nhận ra muốn luyện thành cần 2-3 năm, mà thời gian không đợi người."
     }
   ]
 };
