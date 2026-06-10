@@ -16,8 +16,13 @@ window.LIB_CONFIG = {
     {
       slug: "pham-nhan-tu-tien", ten: "Phàm Nhân Tu Tiên", cn: "凡人修仙传", tacGia: "Vong Ngữ",
       blurb: "Hàn Lập — kẻ phàm nhân cẩn trọng, dựa vào bình Tiểu Cực mà từng bước vươn lên giữa muôn vàn hiểm cảnh tu tiên giới.",
-      readerBase: "https://REPLACE-pub-XXXX.r2.dev/pham-nhan-tu-tien/reader",
-      dataBase: "data/pham-nhan-tu-tien"
+      readerBase: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/pham-nhan-tu-tien/reader",
+      dataBase: "data/pham-nhan-tu-tien",
+      // Bộ có NHIỀU PHẦN: mỗi phần 1 thư mục reader riêng (base nối sau readerBase). 1 phần → bỏ qua, reader chạy như cũ.
+      phanList: [
+        { phan: 1, ten: "Phần 1 · Vong Ngữ", base: "" },
+        { phan: 2, ten: "Phần 2 · Tiên Giới Thiên", base: "/phan2" }
+      ]
     }
   ],
   // ===== 4 khối chrome (đầu/cuối trang + bong bóng) — ĐIỀN LINK THẬT =====
