@@ -278,7 +278,24 @@
       return '<div class="ev"><div class="ev-head"><b style="color:#e6c878">' + esc(it.ten || "") + '</b>' + st + old + '</div>' +
         (moTa ? '<div class="ev-text">' + esc(moTa) + neo + '</div>' : (neo ? '<div class="ev-text">' + neo + '</div>' : '')) + '</div>';
     }
-    const bag = [["Pháp bảo", td.phapBao], ["Công pháp", td.congPhap], ["Đan dược", td.danDuoc], ["Linh thú", td.linhThu], ["Nguyên liệu", td.nguyenLieu], ["Linh thảo", td.linhThao], ["Khác", td.khac]]
+    // Tự gộp pháp bảo/công pháp có soHuu chứa nhân vật này vào túi đồ
+    // (chống lỗi túi đồ sót do nhập tay tách rời / key trùng bị đè). Dedup theo tên + alias.
+    function autoMerge(manual, owned) {
+      const arr = (manual || []).slice();
+      const hasName = n => arr.some(x => {
+        const t = (typeof x === "string" ? x : (x.ten || "")).trim().toLowerCase();
+        return t && t === String(n || "").trim().toLowerCase();
+      });
+      (owned || []).forEach(a => {
+        const names = [a.name].concat(a.aliases || []);
+        if (names.some(hasName)) return;
+        arr.push({ ten: a.name, moTa: a.blurb || "", nguon: (a.nguon && a.nguon[0]) || "", trangThai: TDTRANG[a.trangThai] ? a.trangThai : undefined });
+      });
+      return arr;
+    }
+    const ownArts = (DB.artifacts || []).filter(a => (a.soHuu || []).includes(c.id));
+    const ownTechs = (DB.techniques || []).filter(a => (a.soHuu || []).includes(c.id));
+    const bag = [["Pháp bảo", autoMerge(td.phapBao, ownArts)], ["Công pháp", autoMerge(td.congPhap, ownTechs)], ["Đan dược", td.danDuoc], ["Linh thú", td.linhThu], ["Nguyên liệu", td.nguyenLieu], ["Linh thảo", td.linhThao], ["Khác", td.khac]]
       .filter(([, a]) => a && a.length).map(([lbl, a]) => '<div style="margin-bottom:12px"><div class="chip gold">' + lbl + '</div><div class="timeline" style="margin-top:8px">' + a.map(bagItem).join("") + '</div></div>').join("");
     const tabs = [
       ["Tiểu sử", tieuSuPane],
@@ -424,6 +441,20 @@
   }
 
   /* --- 6 & 7. Pháp Bảo / Công Pháp (lưới + lọc) --- */
+  // Chia một đoạn prose dài thành các đoạn nhỏ dễ đọc (áp dụng mọi pháp bảo/công pháp, cả về sau)
+  function fmtProse(text) {
+    if (!text) return '<p class="pp">—</p>';
+    text = String(text).trim();
+    let paras;
+    if (/\n/.test(text)) {
+      paras = text.split(/\n+/).map(s => s.trim()).filter(Boolean);
+    } else {
+      const sents = text.match(/[^.!?…]+[.!?…]+(?:["'”’)\]]+)?\s*|[^.!?…]+$/g) || [text];
+      paras = [];
+      for (let i = 0; i < sents.length; i += 2) paras.push(sents.slice(i, i + 2).join(" ").trim());
+    }
+    return paras.filter(Boolean).map(p => '<p class="pp">' + esc(p) + '</p>').join("");
+  }
   function gridView(opts) {
     const { title, sub, items, getCat, catKey, detail } = opts;
     const cats = [...new Set(items.map(getCat).filter(Boolean))];
@@ -455,7 +486,7 @@
         (it.phamCap ? '<span class="chip">' + esc(it.phamCap) + '</span>' : '') +
         (it.trangThai ? '<span class="chip">' + esc(it.trangThai) + '</span>' : '') + '</div>' +
         (it.soHuu && it.soHuu.length ? '<div class="prose"><b>Sở hữu:</b> ' + it.soHuu.map(esc).join(", ") + '</div>' : '') +
-        '<div class="prose">' + esc(it.detail || it.blurb || "—") + '</div>' + neoChips(it.nguon))
+        '<div class="prose">' + fmtProse(it.detail || it.blurb) + '</div>' + neoChips(it.nguon))
     });
   }
   function viewCongPhap() {
@@ -467,7 +498,7 @@
         (it.phamCap ? '<span class="chip">' + esc(it.phamCap) + '</span>' : '') +
         (it.hePhai ? '<span class="chip">' + esc(it.hePhai) + '</span>' : '') + '</div>' +
         (it.soHuu && it.soHuu.length ? '<div class="prose"><b>Sở hữu:</b> ' + it.soHuu.map(esc).join(", ") + '</div>' : '') +
-        '<div class="prose">' + esc(it.detail || it.blurb || "—") + '</div>' + neoChips(it.nguon))
+        '<div class="prose">' + fmtProse(it.detail || it.blurb) + '</div>' + neoChips(it.nguon))
     });
   }
 
