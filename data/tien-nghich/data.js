@@ -1,3 +1,4 @@
+/* sync-bump 2026-06-10T16:20Z — ép Drive tạo revision mới, phá cache 159B của Apps Script */
 /* DỮ LIỆU THẬT — Tiên Nghịch. Dùng cho CẢ xem local (file://) lẫn deploy.
    Nguồn: Fandom Vũ Trụ Tiên Nghịch (Hệ thống tu luyện + Tiên Di Tộc), Chiến xác nhận.
    Bộ não: web/data/<slug>/data.js là nguồn dữ liệu thực thể của web (thay cho .json + demo). */
