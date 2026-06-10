@@ -262,6 +262,7 @@
       const lv = e.importance || "normal";
       return '<div class="ev ' + lv + '"><div class="ev-head"><span class="lvl ' + lv + '">' +
         ({ major: "Trọng đại", normal: "Quan trọng", minor: "Bình thường" }[lv] || "Quan trọng") + '</span>' +
+        (e.tieuDe ? '<b class="ev-tieude">' + esc(e.tieuDe) + '</b>' : '') +
         (e.chuong ? '<a class="neo" href="#doc" data-goch="' + String(e.chuong).replace(/[^0-9]/g, "") + '">' + esc(e.chuong) + '</a>' : '') +
         '</div><div class="ev-text">' + esc(e.text || "") + '</div></div>';
     }).join("");
@@ -292,12 +293,25 @@
         ib("Tính cách", (c.tinhCach ? fmtBullets(c.tinhCach) : ""), true) +
       '</div>' +
       ((diem && !c.tinhCach) ? '<div style="margin-top:14px"><div class="chip gold">Nét nổi bật</div><div class="timeline" style="margin-top:10px">' + diem + '</div></div>' : '');
-    // Tu vi: timeline theo mốc (như kinh lịch)
-    const tuViMoc = (t.tuViMoc || []).map(m => '<div class="ev ' + (m.importance || "major") + '"><div class="ev-head">' +
-      (m.canhGioi ? '<span class="lvl major">' + esc(m.canhGioi) + '</span>' : '') +
-      (m.chuong ? '<a class="neo" href="#doc" data-goch="' + String(m.chuong).replace(/[^0-9]/g, "") + '">' + esc(m.chuong) + '</a>' : '') +
-      '</div>' + (m.text ? '<div class="ev-text">' + esc(m.text) + '</div>' : '') + '</div>').join("");
-    const tuViPane = tuViMoc ? '<div class="timeline">' + tuViMoc + '</div>' : '<div class="prose">' + esc(t.tuVi || "—") + '</div>';
+    // Tu vi: NHÓM theo ĐẠI cảnh giới (major) bấm-mở; tiểu cảnh giới (minor) = chấm con bên trong; theo thứ tự cốt truyện
+    const _moc = t.tuViMoc || [];
+    const _grp = [];
+    _moc.forEach(m => {
+      const isMajor = (m.importance || "major") === "major";
+      if (isMajor || !_grp.length) _grp.push({ head: m, subs: [] });
+      else _grp[_grp.length - 1].subs.push(m);
+    });
+    const goch = s => String(s).replace(/[^0-9]/g, "");
+    const tuViHtml = _grp.map(g => {
+      const h = g.head;
+      const subs = g.subs.map(s => '<div class="tv-sub"><span class="tv-dot"></span><div class="tv-subbody"><b>' + esc(s.canhGioi || "") + '</b>' +
+        (s.chuong ? ' <a class="neo" href="#doc" data-goch="' + goch(s.chuong) + '">' + esc(s.chuong) + '</a>' : '') +
+        (s.text ? '<div class="tv-subtext">' + esc(s.text) + '</div>' : '') + '</div></div>').join("");
+      return '<details class="tvg"><summary><span class="tv-dot big"></span><b class="tv-canh">' + esc(h.canhGioi || "") + '</b>' +
+        (h.chuong ? '<a class="neo" href="#doc" data-goch="' + goch(h.chuong) + '" onclick="event.stopPropagation()">' + esc(h.chuong) + '</a>' : '') + '</summary>' +
+        '<div class="tvg-body">' + (h.text ? '<div class="ev-text">' + esc(h.text) + '</div>' : '') + (subs ? '<div class="tv-subs">' + subs + '</div>' : '') + '</div></details>';
+    }).join("");
+    const tuViPane = tuViHtml ? '<div class="tvgroups">' + tuViHtml + '</div>' : '<div class="prose">' + esc(t.tuVi || "—") + '</div>';
     const td = t.tuiDo || {};
     const TDTRANG = { "dang-co": "Đang giữ", "da-dung": "Đã dùng", "hong": "Hư hỏng", "mat": "Bị mất", "bi-cuop": "Bị cướp", "doi-ten": "Đổi tên" };
     function bagItem(it) {
