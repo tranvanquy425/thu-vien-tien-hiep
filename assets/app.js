@@ -346,9 +346,8 @@
       $("#mapTree").querySelectorAll(".node").forEach(x => x.classList.remove("sel")); nd.classList.add("sel");
       const n = nodes.find(x => x.id === nd.dataset.id);
       openDrawer(n.name, n.cn, '<div class="kv"><span class="chip gold">' + (CAP_LABEL[n.capDo] || n.capDo || "") + '</span></div>' +
-        '<div class="prose">' + esc(n.detail || n.blurb || "—") + '</div>' +
-        (n.theLucLienQuan && n.theLucLienQuan.length ? '<div style="margin-top:12px"><div class="chip">Thế lực liên quan</div><div class="prose">' + n.theLucLienQuan.map(esc).join(" · ") + '</div></div>' : '') +
-        neoChips(n.nguon));
+        '<div class="prose">' + esc(stripNeo(n.detail || n.blurb || "—")) + '</div>' +
+        (n.theLucLienQuan && n.theLucLienQuan.length ? '<div style="margin-top:12px"><div class="chip">Thế lực liên quan</div><div class="prose">' + n.theLucLienQuan.map(esc).join(" · ") + '</div></div>' : ''));
     });
   }
 
@@ -356,6 +355,9 @@
   function viewCanhGioi() {
     const realms = DB.realms, heThong = DB.heThong || [], doiChieu = DB.doiChieu || [];
     if (!realms.length) { view.innerHTML = '<div class="page-head"><h1>Cảnh Giới</h1></div><div class="empty">Chưa có dữ liệu cảnh giới.</div>'; return; }
+    const heChinh = heThong.find(h => h.chinh) || heThong[0];
+    const cgSub = heChinh ? esc(heChinh.ten) + (doiChieu.length ? " (hệ chính) · có bảng đối chiếu" : "") : "Hệ thống tu luyện";
+    const loTrinhTitle = "Lộ trình " + (heChinh ? esc(heChinh.ten) : "tu luyện");
     const heCards = heThong.length ? '<div class="cards grid-2" style="margin-bottom:14px">' + heThong.map((h, i) =>
       '<div class="card" data-he="' + i + '">' + (h.chinh ? '<span class="chip gold">Hệ chính</span> ' : '') +
       '<h3 style="display:inline">' + esc(h.ten) + '</h3>' +
@@ -396,10 +398,10 @@
     ) : "";
 
     view.innerHTML =
-      '<div class="page-head"><h1>Cảnh Giới</h1><span class="sub">Hệ thống tu luyện — Tu Đạo (chính) · đối chiếu Tu Tiên & Cổ Tộc</span></div>' +
-      (DB.realmsGhiChu ? '<div class="prose" style="font-size:13.5px;color:var(--muted);margin-bottom:14px">' + esc(DB.realmsGhiChu) + '</div>' : "") +
+      '<div class="page-head"><h1>Cảnh Giới</h1><span class="sub">' + cgSub + '</span></div>' +
+      (DB.realmsGhiChu ? '<div class="prose" style="font-size:13.5px;color:var(--muted);margin-bottom:14px">' + esc(stripNeo(DB.realmsGhiChu)) + '</div>' : "") +
       heCards + dcBar +
-      '<h2 class="section-title">Lộ trình Tu Đạo</h2><div class="ladder" id="ladder"></div>' +
+      '<h2 class="section-title">' + loTrinhTitle + '</h2><div class="ladder" id="ladder"></div>' +
       llSection;
     if (doiChieu.length) $("#dcBar").onclick = () => openDrawer("Bảng đối chiếu hệ thống", "Tu Đạo · Tu Tiên · Cổ Tộc", tableInner);
     // thẻ hệ thống bấm được → cửa sổ chi tiết + cấp bậc đối chiếu
@@ -426,23 +428,38 @@
     $("#ladder").querySelectorAll(".rung").forEach(el => el.onclick = () => {
       const r = realms.find(x => x.id === el.dataset.id); const tdg = r.tuongDuong || {};
       openDrawer(r.name, (r.aliases && r.aliases.length ? r.aliases.join(", ") : r.cn), '<div class="kv"><span class="chip gold">' + esc(r.buoc || "") + '</span><span class="chip">Cấp ' + (r.capBac || "?") + '</span></div>' +
-        '<div class="prose">' + esc(r.detail || r.blurb || "—") + '</div>' +
-        (r.dacThu ? '<div style="margin-top:12px"><div class="chip gold">Đặc thù</div><div class="prose">' + esc(r.dacThu) + '</div></div>' : '') +
+        '<div class="prose">' + esc(stripNeo(r.detail || r.blurb || "—")) + '</div>' +
+        (r.dacThu ? '<div style="margin-top:12px"><div class="chip gold">Đặc thù</div><div class="prose">' + esc(stripNeo(r.dacThu)) + '</div></div>' : '') +
         ((tdg.tuTien || tdg.coToc) ? '<div style="margin-top:12px"><div class="chip gold">Tương đương</div><div class="prose">' +
-          (tdg.tuTien ? 'Tu Tiên: ' + esc(tdg.tuTien) + '<br>' : '') + (tdg.coToc ? 'Cổ Tộc: ' + esc(tdg.coToc) : '') + '</div></div>' : '') +
-        neoChips(r.nguon));
+          (tdg.tuTien ? 'Tu Tiên: ' + esc(tdg.tuTien) + '<br>' : '') + (tdg.coToc ? 'Cổ Tộc: ' + esc(tdg.coToc) : '') + '</div></div>' : ''));
     });
     // wiring thẻ cảnh giới linh lực
     if (ll) view.querySelectorAll('.card[data-ll]').forEach(el => el.onclick = () => {
       const c = (ll.capBac || [])[+el.dataset.ll]; if (!c) return;
       openDrawer(c.ten, "Cảnh giới linh lực" + (ll.ten ? " · " + ll.ten : ""),
-        '<div class="prose">' + esc(c.detail || c.blurb || "—") + '</div>' + neoChips(c.nguon));
+        '<div class="prose">' + esc(stripNeo(c.detail || c.blurb || "—")) + '</div>');
     });
   }
 
   /* --- 6 & 7. Pháp Bảo / Công Pháp (lưới + lọc) --- */
-  // Chia một đoạn prose dài thành các đoạn nhỏ dễ đọc (áp dụng mọi pháp bảo/công pháp, cả về sau)
+  // Gỡ neo nguồn (@cXXXX) khỏi nội dung HIỂN THỊ — neo chỉ dùng nội bộ (áp dụng MỌI mục)
+  function stripNeo(text) {
+    if (!text) return text;
+    let t = String(text).replace(/\(([^()]*)\)/g, function (m, inner) {
+      if (!/@c\d{3,4}/i.test(inner)) return m;
+      const cleaned = inner.replace(/@c\d{3,4}/gi, "").replace(/[–\-,;:，、]/g, " ").replace(/\s+/g, " ").trim();
+      return cleaned ? "(" + cleaned + ")" : "";
+    });
+    t = t.replace(/@c\d{3,4}/gi, "");
+    return t.replace(/\s+([.,;:!?…)])/g, "$1").replace(/\s{2,}/g, " ").trim();
+  }
+  // Ô thông tin dạng "sơ yếu lý lịch" (dùng chung CSS .info-grid/.iblock với thẻ nhân vật)
+  function iblk(lbl, val, full) { return val ? '<div class="iblock' + (full ? ' full' : '') + '"><div class="lbl">' + lbl + '</div><div class="val">' + val + '</div></div>' : ''; }
+  function infoGrid(pairs) { const b = pairs.map(p => iblk(p[0], p[1], p[2])).filter(Boolean).join(""); return b ? '<div class="info-grid">' + b + '</div>' : ''; }
+  function ownerName(id) { const c = (DB.chars || []).find(x => x.id === id); return c ? c.name : id; }
+  // Chia một đoạn prose dài thành các đoạn nhỏ dễ đọc; TỰ GỠ NEO hiển thị (áp dụng mọi mục, cả về sau)
   function fmtProse(text) {
+    text = stripNeo(text);
     if (!text) return '<p class="pp">—</p>';
     text = String(text).trim();
     let paras;
@@ -481,24 +498,28 @@
     gridView({
       title: "Pháp Bảo", sub: DB.artifacts.length + " mục", items: DB.artifacts,
       getCat: it => it.categoryLabel || it.category,
-      detail: it => openDrawer(it.name, it.cn, '<div class="kv">' +
-        (it.categoryLabel ? '<span class="chip gold">' + esc(it.categoryLabel) + '</span>' : '') +
-        (it.phamCap ? '<span class="chip">' + esc(it.phamCap) + '</span>' : '') +
-        (it.trangThai ? '<span class="chip">' + esc(it.trangThai) + '</span>' : '') + '</div>' +
-        (it.soHuu && it.soHuu.length ? '<div class="prose"><b>Sở hữu:</b> ' + it.soHuu.map(esc).join(", ") + '</div>' : '') +
-        '<div class="prose">' + fmtProse(it.detail || it.blurb) + '</div>' + neoChips(it.nguon))
+      detail: it => openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn),
+        infoGrid([
+          ["Loại", esc(it.categoryLabel || it.category || "")],
+          ["Phẩm cấp", esc(stripNeo(it.phamCap || ""))],
+          ["Sở hữu", it.soHuu && it.soHuu.length ? esc(it.soHuu.map(ownerName).join(", ")) : ""],
+          ["Trạng thái", esc(stripNeo(it.trangThai || "")), true]
+        ]) +
+        '<div class="prose" style="margin-top:14px">' + fmtProse(it.detail || it.blurb) + '</div>')
     });
   }
   function viewCongPhap() {
     gridView({
       title: "Công Pháp", sub: DB.techniques.length + " mục", items: DB.techniques,
       getCat: it => it.loaiLabel || it.loai,
-      detail: it => openDrawer(it.name, it.cn, '<div class="kv">' +
-        (it.loaiLabel ? '<span class="chip gold">' + esc(it.loaiLabel) + '</span>' : '') +
-        (it.phamCap ? '<span class="chip">' + esc(it.phamCap) + '</span>' : '') +
-        (it.hePhai ? '<span class="chip">' + esc(it.hePhai) + '</span>' : '') + '</div>' +
-        (it.soHuu && it.soHuu.length ? '<div class="prose"><b>Sở hữu:</b> ' + it.soHuu.map(esc).join(", ") + '</div>' : '') +
-        '<div class="prose">' + fmtProse(it.detail || it.blurb) + '</div>' + neoChips(it.nguon))
+      detail: it => openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn),
+        infoGrid([
+          ["Loại", esc(it.loaiLabel || it.loai || "")],
+          ["Phẩm cấp", esc(stripNeo(it.phamCap || ""))],
+          ["Hệ phái", esc(it.hePhai || "")],
+          ["Sở hữu", it.soHuu && it.soHuu.length ? esc(it.soHuu.map(ownerName).join(", ")) : ""]
+        ]) +
+        '<div class="prose" style="margin-top:14px">' + fmtProse(it.detail || it.blurb) + '</div>')
     });
   }
 
