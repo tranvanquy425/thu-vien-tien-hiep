@@ -267,7 +267,7 @@
         '</div><div class="ev-text">' + esc(e.text || "") + '</div></div>';
     }).join("");
     const RTAG = { "cha-me": "Cha/Mẹ", "ban-be": "Bạn bè", "dong-minh": "Đồng minh", "doi-thu": "Đối thủ", "ho-hang": "Họ hàng", "an-nhan": "Ân nhân", "su-mon": "Sư môn", "the-thiep": "Thê thiếp", "khac": "Khác" };
-    const nmArr = _sortPrio(t.nhanMach || []);
+    const nmArr = _sortChrono(t.nhanMach || []);
     const nmCompact = nmArr.length > 6;   // nhiều quan hệ (vd nhân vật chính) -> bấm-mở
     const nm = nmArr.map(n => {
       const hd = '<b class="ix-ten">' + esc(n.ten) + '</b>' +
@@ -322,14 +322,16 @@
     // (chống lỗi túi đồ sót do nhập tay tách rời / key trùng bị đè). Dedup theo tên + alias.
     function autoMerge(manual, owned) {
       const arr = (manual || []).slice();
-      const hasName = n => arr.some(x => {
-        const t = (typeof x === "string" ? x : (x.ten || "")).trim().toLowerCase();
-        return t && t === String(n || "").trim().toLowerCase();
-      });
+      // Chuẩn hóa tên để dedup: bỏ phần trong ngoặc "(...)", lowercase, gộp khoảng trắng.
+      const norm = x => String(typeof x === "string" ? x : ((x && (x.ten || x.name)) || "")).toLowerCase().replace(/\([^)]*\)/g, "").replace(/\s+/g, " ").trim();
+      // Dedup với MỌI danh mục túi đồ tay (không riêng phapBao) → tránh trùng chéo tab (đan dược/nguyên liệu đã liệt kê tay).
+      const allManual = [].concat(td.phapBao || [], td.congPhap || [], td.danDuoc || [], td.nguyenLieu || [], td.linhThu || [], td.linhThao || [], td.khac || []);
+      const manualNorms = allManual.map(norm).filter(n => n.length >= 4);
+      const hasName = a => [a.name].concat(a.aliases || []).map(norm).filter(n => n.length >= 4).some(n => manualNorms.indexOf(n) !== -1);
+      const firstNeo = s => { const m = String(s || "").match(/c(\d{1,4})/i); return m ? "@c" + ("0000" + m[1]).slice(-4) : ""; };
       (owned || []).forEach(a => {
-        const names = [a.name].concat(a.aliases || []);
-        if (names.some(hasName)) return;
-        arr.push({ ten: a.name, moTa: a.blurb || "", nguon: (a.nguon && a.nguon[0]) || "", trangThai: TDTRANG[a.trangThai] ? a.trangThai : undefined });
+        if (hasName(a)) return;
+        arr.push({ ten: a.name, moTa: a.blurb || "", nguon: (a.nguon && a.nguon[0]) || firstNeo(a.trangThai) || firstNeo(a.blurb), trangThai: TDTRANG[a.trangThai] ? a.trangThai : undefined });
       });
       return arr;
     }
@@ -341,7 +343,7 @@
       const arr = p[0] === "phapBao" ? autoMerge(td.phapBao, ownArts) : p[0] === "congPhap" ? autoMerge(td.congPhap, ownTechs) : td[p[0]];
       (arr || []).forEach(it => bagItems.push({ cat: p[1], it: (typeof it === "string" ? { ten: it } : it) }));
     });
-    bagItems = bagItems.map((x, i) => [x, i]).sort((a, b) => (_prio(b[0].it) - _prio(a[0].it)) || (a[1] - b[1])).map(p => p[0]);
+    bagItems = bagItems.map((x, i) => [x, i]).sort((a, b) => (_firstCh(a[0].it) - _firstCh(b[0].it)) || (a[1] - b[1])).map(p => p[0]);
     const bagCompact = bagItems.length > 6;   // túi đồ dài (nhân vật chính) -> bộ lọc + bấm-mở
     let bagHtml;
     if (!bagItems.length) bagHtml = '';
@@ -533,6 +535,13 @@
   function _neoCount(s) { var m = String(s || "").match(/@c\d{3,4}/g); return m ? m.length : 0; }
   function _prio(it) { return (it && typeof it === "object" && typeof it.uuTien === "number") ? it.uuTien : 0; } // ưu tiên cao = nổi lên đầu
   function _sortPrio(arr) { return (arr || []).map(function (x, i) { return [x, i]; }).sort(function (a, b) { return (_prio(b[0]) - _prio(a[0])) || (a[1] - b[1]); }).map(function (p) { return p[0]; }); }
+  // Thứ tự THỜI GIAN: lấy số chương đầu tiên (gap/nguon/ghiChu/moTa) → nhỏ trước. Thiếu neo → về cuối.
+  function _firstCh(it) {
+    if (!it || typeof it !== "object") return 999999;
+    var m = String(it.gap || it.nguon || it.ghiChu || it.moTa || "").match(/c(\d{1,4})/i);
+    return m ? parseInt(m[1], 10) : 999999;
+  }
+  function _sortChrono(arr) { return (arr || []).map(function (x, i) { return [x, i]; }).sort(function (a, b) { return (_firstCh(a[0]) - _firstCh(b[0])) || (a[1] - b[1]); }).map(function (p) { return p[0]; }); }
   function _short(s, n) { s = stripNeo(String(s || "")); return s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "") + "…" : s; }
   // Cảnh giới: mỗi mốc 1 dòng, tên bôi vàng, neo cỡ nhỏ trong ngoặc
   function fmtCanhGioi(s) {
