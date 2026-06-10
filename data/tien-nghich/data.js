@@ -48,7 +48,7 @@ window.LIB_DATA["tien-nghich"].realms = {
   realms: [
     { id: "ngung-khi", name: "Ngưng Khí", aliases: ["Linh Động Kỳ", "Luyện Khí"], he: "tu-dao", buoc: "Bước 1", capBac: 1,
       blurb: "Hấp thu linh khí trời đất vào thân, cải tạo thể chất.", dacThu: "Phân 15 tầng.",
-      detail: "Còn gọi Linh Động Kỳ, phân từ tầng 1 đến tầng 15. Hấp thụ linh khí của trời đất vào thân thể, cải tạo thể chất cho thích hợp việc tu luyện; đã có thể dùng linh khí của bản thân để thi triển một vài thuật pháp.",
+      detail: "Còn gọi Linh Động Kỳ (tên gọi vùng ở các Tu Chân Quốc cấp cao — chỉ là tên khác của Ngưng Khí, không phải cảnh giới riêng), phân từ tầng 1 đến tầng 15. Hấp thụ linh khí của trời đất vào thân thể, cải tạo thể chất cho thích hợp việc tu luyện; đã có thể dùng linh khí của bản thân để thi triển một vài thuật pháp.",
       tuongDuong: { tuTien: "", coToc: "Nhất Tinh (1 sao)" }, nguon: [] },
     { id: "truc-co", name: "Trúc Cơ", he: "tu-dao", buoc: "Bước 1", capBac: 2,
       blurb: "Thanh tẩy toàn thân, cải tạo thể chất lần hai — lột xác thành tu sĩ thật.", dacThu: "Sơ → Trung → Hậu kỳ.",
@@ -153,6 +153,31 @@ window.LIB_DATA["tien-nghich"].realms = {
     { buoc: "Bước 3", tuDao: "Đại Thiên Tôn", tuTien: "", coToc: "Độ qua Tam Tổn Thất Kiếp" },
     { buoc: "Quá Độ", tuDao: "Đạp Thiên Đệ Nhất – Đệ Cửu Kiều", tuTien: "", coToc: "" },
     { buoc: "Bước 4", tuDao: "Đạp Thiên Cảnh", tuTien: "", coToc: "" }
+  ]
+};
+
+window.LIB_DATA["tien-nghich"].linhLuc = {
+  updatedAt: "2026-06-10",
+  ten: "Cảnh Giới Linh Lực",
+  ghiChu: "Ngoài cảnh giới tu vi (Tu Đạo) còn có một hệ riêng gọi là cảnh giới linh lực — phẩm chất đặc biệt của bản thân linh lực, KHÔNG phải cảnh giới tu luyện và không phải ai cũng có. Chỉ do cơ duyên vô ý mà hình thành; một khi đã thành thì cả đời không đổi, trừ khi tán công tu luyện lại từ đầu. Ba cảnh không liên quan đến nhau, mỗi người chỉ đi theo một trong ba. Sau khi thời thượng cổ biến mất, kiến thức về ba cảnh giới linh lực đã thất truyền — tu sĩ ngày nay chỉ chú trọng tu vi mà bỏ quên cảnh giới linh lực. (@c0078)",
+  capBac: [
+    { id: "cuc-canh", ten: "Cực cảnh",
+      blurb: "Linh lực công kích mạnh nhất — cùng đẳng cấp không ai địch nổi; nhưng thuộc tính đơn nhất nên khó đột phá Hóa Thần ('tử').",
+      detail: "Linh lực mang lực công kích cao nhất trong ba cảnh; ở cùng một đẳng cấp tu vi thì không ai chống đỡ nổi. Tu tới Nguyên Anh hậu kỳ đỉnh phong là đệ nhất nhân dưới Hóa Thần kỳ — bản thân linh lực chính là pháp bảo mạnh nhất, không cần dùng tới pháp bảo. Khuyết điểm trí mạng: thuộc tính linh lực chỉ đi theo một con đường cực đoan, không thể dung hợp thuộc tính khác, vì vậy rất khó đột phá Hóa Thần kỳ — nên gọi là 'tử'.",
+      nguon: ["@c0078"] },
+    { id: "dao-canh", ten: "Đạo cảnh",
+      blurb: "Đạt cảnh này thì con đường lên Hóa Thần kỳ ngay trước mắt — giấc mộng lớn nhất của tu sĩ thượng cổ.",
+      detail: "Cảnh giới mà mọi người tu luyện đều mơ tưởng. Truyền thuyết kể rằng một khi thuộc tính linh lực đạt tới Đạo cảnh thì con đường đột phá Hóa Thần kỳ đã ở ngay trước mắt — đây là giấc mộng lớn nhất của người tu luyện thời thượng cổ.",
+      nguon: ["@c0078"] },
+    { id: "thuy-canh", ten: "Thủy cảnh",
+      blurb: "Đối lập Cực cảnh ('Cực là tử thì Thủy là sinh'); cao nhất — ngay cao thủ Hóa Thần cũng khó gặp.",
+      detail: "Nếu Cực cảnh là 'tử' thì Thủy cảnh là 'sinh' — hai cảnh đối lập nhau. Đây là cảnh giới linh lực cao nhất, không phải thứ người tu luyện dưới Hóa Thần kỳ có thể mơ tưởng; ngay cả với cao thủ Hóa Thần kỳ thì Thủy cảnh cũng vô cùng khó gặp.",
+      nguon: ["@c0078"] }
+  ],
+  thucThe: [
+    { ten: "Cực Âm Linh Lực (Vương Lâm)", thuoc: "cuc-canh",
+      detail: "Linh lực của Vương Lâm dị biến theo hướng Cực cảnh — do tu Hoàng Tuyền Thăng Khiếu Quyết tại cực âm chi địa cộng hưởng với Nghịch Thiên Châu. Đan điền cắn nuốt âm hàn lực, ngưng thành tinh vân ở huyệt Khí Hải và linh lực màu lam; điểm vào vật thể khiến đóng băng tới tận kết cấu bên trong. Ban đầu chính Vương Lâm cũng chưa biết mình đã chạm Cực cảnh.",
+      nguon: ["@c0078", "@c0079"] }
   ]
 };
 
@@ -549,7 +574,7 @@ window.LIB_DATA["tien-nghich"].characters = {
           {
             chuong: "@c0092",
             importance: "normal",
-            text: "Đối đầu lão nhân giả đan Vô Phong Cốc cầm Thiên Lôi Phong Hỏa tán. Kích nổ Mễ Lạp từ túi trữ vật — sóng băng lam toả hơn ba trăm thước, đóng băng hóa tượng lão nhân và 17 đệ tử Vô Phong Cốc cùng lúc. Ép nữ đệ tử Hợp Hoan Tông khai thông tin: tổng 7 lệnh bài, cần 5 để có tư cách, 3 danh ngạch vào ngoại vực chiến trường. Tổng VL đang giữ: 4 lệnh bài. (@c0092)"
+            text: "Đối đầu lão nhân giả đan Vô Phong Cốc cầm Thiên Lôi Phong Hỏa tán. Kích nổ Mễ Lạp từ túi trữ vật — sóng băng lam toả hơn ba trăm thước, đóng băng hóa tượng lão nhân và 17 đệ tử Vô Phong Cốc cùng lúc. Ép nữ đệ tử Hợp Hoan Tông khai thông tin: tổng 7 lệnh bài, chỉ 3 danh ngạch vào ngoại vực chiến trường; khi thông đạo mở mà còn quá 3 lệnh bài chưa bị hủy thì Triệu quốc mất tư cách. Tổng VL đang giữ: 4 lệnh bài. (@c0092)"
           },
           {
             chuong: "@c0093",
@@ -620,11 +645,6 @@ window.LIB_DATA["tien-nghich"].characters = {
           { ten: "Dạ Tự Tại", quanHe: "Mục tiêu nhiệm vụ", ghiChu: "Lão tổ tối cao Thi Âm tông (Nguyên Anh); sư đệ của Ngô Vũ; sở hữu Phi Thiên La Sát; xuất hiện cuối @c0080 qua Lam Viêm Ma hỏa, chất vấn VL.", tag: "muc-tieu" }
         ],
         tuiDo: {
-          phapBao: [
-            { ten: "Thạch Châu", moTa: "Viên châu xám khắc hoa văn đám mây trắng, to bằng nắm tay trẻ con, trông rất cổ. Nhặt từ trong xác một con phi điểu chết trong huyệt động (@c0008). Tiết hạt sương khi gặp ánh nắng; sương vị ngọt, trị lành vết thương thể chất. Nước ngâm châu cũng có dược tính, kém hơn sương trực tiếp; hạt sương sáng sớm kết trên châu cho hiệu quả tốt nhất (@c0012). Thạch Châu tự hấp thu hơn phân nửa hạt sương — VL chỉ giữ được chưa đến một phần mười (@c0012). Dị biến đêm mưa Ch.14: châu hút toàn bộ nước mưa cả phòng (kể cả nước trên người Trương Hổ, suýt giết Trương Hổ bằng đông lạnh) (@c0014). Số đám mây khắc trên châu tăng dần khi hấp thu nước: 5 → 6 → 7 (Ch.14) → 9 (Ch.20); VL phán đoán 10 là mức cuối cùng (@c0014, @c0020). Nước ngâm châu biến thành nước chứa linh khí sung túc (xác nhận @c0016). Thảo dược quanh vùng (Lam Tuyến Thảo, Tử Dạ Hoa) héo rũ bất thường sau khi châu ở gần — cài cắm nguyên nhân sâu xa (@c0012–@c0013). Mang trong túi trữ vật từ @c0020.", nguon: "@c0008, @c0011, @c0012, @c0014, @c0016, @c0020" },
-            { ten: "Hồ Lô (đựng nước linh khí)", moTa: "Hồ lô hoang dại VL tìm trong núi, dùng đựng nước suối ngâm Thạch Châu — nước biến thành chứa linh khí sung túc. Bị Tôn Đại Trụ phát hiện và tịch thu khi lục soát phòng (@c0016). VL sau đó lấy lại được ba hồ lô sương sớm (sương bên trong đông đặc) và cất vào túi trữ vật (@c0020). Linh khí trong hồ lô cũ cạn dần sau ~1 tháng (@c0019).", nguon: "@c0012, @c0016, @c0019, @c0020" },
-            { ten: "Thiên Lý Phù", moTa: "Tờ giấy vàng trông như giấy thường, dùng được hai lần, dán ở đùi để tăng tốc độ di chuyển cho phàm nhân; phát bạch quang chói mắt, dã thú thấy tránh xa. Tôn trưởng lão cấp để Vương Lâm về dự thọ cha (@c0012). Lưu sư huynh sau đó tặng thêm một tờ (@c0015).", nguon: "@c0012, @c0015" }
-          ],
           congPhap: [
             { ten: "Ngưng Khí tam thiên", moTa: "Công pháp cơ bản nhất Tôn Đại Trụ truyền cho Vương Lâm khi thành đệ tử nội môn; gồm ba tầng, toàn bộ Ngưng Khí kỳ có mười lăm tầng. Bản chất: thổ nạp thiên địa linh khí, tích lũy vào thân, cải biến thể chất làm cơ sở tu luyện. Dấu hiệu linh khí nhập thể: cảm giác như côn trùng bò (@c0017).", nguon: "@c0017" },
             { ten: "Thuật giấu tu vi", moTa: "Ngọc giản mua 5 khỏa linh đan tại giao dịch hội bí mật; ngụy trang tu vi xuống dưới tầng 1, chỉ Trúc Cơ kỳ mới phá được; Vương Lâm mua vì rất hợp với việc giấu mình (@c0032). Cần Ngưng Khí tầng 2 để tu luyện được (@c0032).", nguon: "@c0032, @c0034" },
@@ -643,6 +663,8 @@ window.LIB_DATA["tien-nghich"].characters = {
             { ten: "Linh Khí Tuyết Thủy", moTa: "Nước băng tuyết ngâm Thạch Châu, do Vương Lâm tự chế; hiệu quả cao hơn tuyền thủy nhưng thấp hơn lộ thủy. Thứ tự: lộ thủy > tuyết thủy > tuyền thủy (@c0031). Đã dùng hết sau 2 năm bế quan hậu sơn (@c0036).", nguon: "@c0031" }
           ],
           phapBao: [
+            { ten: "Hồ Lô (đựng nước linh khí)", moTa: "Hồ lô hoang dại VL tìm trong núi, dùng đựng nước suối ngâm Nghịch Thiên Châu (Thạch Châu) — nước biến thành chứa linh khí sung túc. Bị Tôn Đại Trụ phát hiện và tịch thu khi lục soát phòng (@c0016). VL sau đó lấy lại được ba hồ lô sương sớm (sương bên trong đông đặc) và cất vào túi trữ vật (@c0020). Linh khí trong hồ lô cũ cạn dần sau ~1 tháng (@c0019).", nguon: "@c0012, @c0016, @c0019, @c0020" },
+            { ten: "Thiên Lý Phù", moTa: "Tờ giấy vàng trông như giấy thường, dùng được hai lần, dán ở đùi để tăng tốc độ di chuyển cho phàm nhân; phát bạch quang chói mắt, dã thú thấy tránh xa. Tôn trưởng lão cấp để Vương Lâm về dự thọ cha (@c0012). Lưu sư huynh sau đó tặng thêm một tờ (@c0015).", nguon: "@c0012, @c0015" },
             { ten: "Cự Phú", moTa: "Phi kiếm đệ nhất Tu Chân Giới Triệu quốc; khối kim loại dài ~1m, mạ hoàng kim, chuôi khảm 2 khối kim cương lớn, tua dệt sợi vàng. Di vật sư tổ Hằng Nhạc Phái ngàn năm trước; cấm buôn bán (vi phạm bị trục xuất). VL lấy tại Kiếm Linh Các (@c0039), bộc lộ thực lực khi cưỡng qua cấm chế ba tầng một cách thoải mái.", nguon: "@c0039" },
             { ten: "Ngọc phù (Lưu Văn tặng)", moTa: "Pháp bảo phòng thân chứa một kích của cao thủ Kết Đan kỳ. Lưu Văn Cử tặng khi VL xin ra ngoài thăm cha mẹ (@c0058).", nguon: "@c0058" },
             { ten: "Ngọc giản (phi kiếm Trương Cuồng)", moTa: "Phi kiếm của Trương Cuồng — sau khi Trương Cuồng chết, phi kiếm trở về hình dạng ngọc giản; VL thu lấy (@c0059).", nguon: "@c0059" },
@@ -2931,7 +2953,7 @@ window.LIB_DATA["tien-nghich"].characters = {
       trangThai: "song",
       vaiTro: "Phụ — lão tổ Nguyên Anh kỳ tại cốc khẩu",
       tinhCach: "Chưa mô tả chi tiết.",
-      blurb: "Lão tổ Nguyên Anh kỳ, xuất hiện tại cốc khẩu Quyết Minh Cốc @c0096–97. NGHI VẤN: cần đối chiếu có phải cùng 'Thượng Quan trưởng lão' Hằng Nhạc @c0051 hay không — nếu không chắc, giữ là thực thể riêng, không gộp bừa.",
+      blurb: "Lão tổ Nguyên Anh kỳ, xuất hiện tại cốc khẩu Quyết Minh Cốc @c0096–97, đứng cạnh lão tổ Tân Hải. Là thực thể RIÊNG — khác hẳn 'Thượng Quan trưởng lão' (Trúc Cơ kỳ, Hằng Nhạc Phái @c0051).",
       tabs: {
         diem: [],
         kinhLich: [
@@ -3450,7 +3472,7 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
     {
       chuong: 92,
       tieuDe: "Vô Đề",
-      tomTat: "Lão nhân giả đan Vô Phong Cốc cầm Thiên Lôi Phong Hỏa tán xuất hiện. VL kích nổ Mễ Lạp từ túi trữ vật — sóng băng lam đóng băng hóa tượng toàn bộ lão nhân và 17 đệ tử Vô Phong Cốc. Ép nữ đệ tử Hợp Hoan Tông (Vương Dĩnh) khai thông tin: tổng 7 lệnh bài, cần 5 để có tư cách, mỗi người chỉ được 3 danh ngạch vào Vực Ngoại chiến trường. VL thu được thêm 2 lệnh bài — tổng 4. (@c0092)"
+      tomTat: "Lão nhân giả đan Vô Phong Cốc cầm Thiên Lôi Phong Hỏa tán xuất hiện. VL kích nổ Mễ Lạp từ túi trữ vật — sóng băng lam đóng băng hóa tượng toàn bộ lão nhân và 17 đệ tử Vô Phong Cốc. Ép nữ đệ tử Hợp Hoan Tông (Vương Dĩnh) khai thông tin: tổng 7 lệnh bài, chỉ 3 danh ngạch vào Vực Ngoại chiến trường; khi thông đạo mở mà còn quá 3 lệnh bài chưa bị hủy thì Triệu quốc mất tư cách. VL thu được thêm 2 lệnh bài — tổng 4. (@c0092)"
     },
     {
       chuong: 93,
@@ -3835,7 +3857,7 @@ window.LIB_DATA["tien-nghich"].map = {
     { id: "huyet-dong-thi-am-tong", name: "Địa Âm chi địa (Thi Âm tông)", cn: "", capDo: "khac", parentId: "thi-am-tong-son-mon",
       blurb: "Huyệt động sâu nhất trong sơn môn Thi Âm tông — khí âm hàn cực đỉnh, là môi trường lý tưởng để tu luyện Hoàng Tuyền Thăng Khiếu Quyết. Chứa xác người khổng lồ bên cạnh cây tỏa âm hàn cổ đại.", detail: "Mộc Ngung dẫn VL xuống Địa Âm chi địa @c0084 để tu luyện Hoàng Tuyền Thăng Khiếu Quyết. Bên trong có xác người khổng lồ (cổ đại, không rõ danh tính) và cây tỏa âm hàn cổ đại; linh khí kỳ lạ từ xác người khổng lồ khiến linh lực VL dị biến lam đen @c0084, @c0090. Tư Đồ Nam không giải thích được hiện tượng này.", theLucLienQuan: ["thi-am-tong"], nguon: ["@c0084", "@c0090"] },
     { id: "quyet-minh-coc", name: "Quyết Minh Cốc", cn: "", capDo: "khac", parentId: "trieu-quoc",
-      blurb: "Vùng đất đặc biệt tại Thiên Nam hình hồ lô — bát giác trận pháp bên trong phong ấn Kết Đan kỳ trở lên. Hệ thống 7 lệnh bài, cần 5 để có tư cách vào Vực Ngoại chiến trường. Mở 100 năm/lần; thị trấn thương mại nổi lên ngàn dặm xung quanh. Alias: 'Quang Minh Cốc'.", detail: "Quyết Minh Cốc hình hồ lô, nằm ở Thiên Nam; bát giác trận pháp bảo vệ phong ấn tất cả tu sĩ Kết Đan kỳ trở lên không thể vào @c0091–@c0099. Chỉ Trúc Cơ kỳ trở xuống vào được. Hệ thống lệnh bài: tổng 7 lệnh bài được phân bổ cho tu sĩ, cần sở hữu 5 mới có tư cách vào Vực Ngoại chiến trường @c0092. Đằng Hóa Nguyên và toàn bộ Nguyên Anh kỳ canh bên ngoài @c0087–@c0096, không thể vào. Thông đạo Vực Ngoại mở mỗi 100 năm @c0096. Khi thông đạo mở mà còn >3 lệnh bài chưa hủy thì mất tư cách @c0100. La Sát dùng cốc làm địa điểm nghi thức nâng thi khôi @c0086. Alias 'Quang Minh Cốc' @c0090.", theLucLienQuan: ["thi-am-tong"], nguon: ["@c0086", "@c0087", "@c0088", "@c0089", "@c0090", "@c0091", "@c0092", "@c0093", "@c0096", "@c0099"] },
+      blurb: "Vùng đất đặc biệt tại Thiên Nam hình hồ lô — bát giác trận pháp bên trong phong ấn Kết Đan kỳ trở lên. Hệ thống 7 lệnh bài, chỉ 3 danh ngạch vào Vực Ngoại chiến trường (khi thông đạo mở còn quá 3 lệnh bài chưa hủy thì Triệu quốc mất tư cách). Mở 100 năm/lần; thị trấn thương mại nổi lên ngàn dặm xung quanh. Alias: 'Quang Minh Cốc'.", detail: "Quyết Minh Cốc hình hồ lô, nằm ở Thiên Nam; bát giác trận pháp bảo vệ phong ấn tất cả tu sĩ Kết Đan kỳ trở lên không thể vào @c0091–@c0099. Chỉ Trúc Cơ kỳ trở xuống vào được. Hệ thống lệnh bài: tổng 7 lệnh bài được phân bổ cho tu sĩ; chỉ 3 danh ngạch vào Vực Ngoại chiến trường @c0092. Đằng Hóa Nguyên và toàn bộ Nguyên Anh kỳ canh bên ngoài @c0087–@c0096, không thể vào. Thông đạo Vực Ngoại mở mỗi 100 năm @c0096. Khi thông đạo mở mà còn >3 lệnh bài chưa hủy thì mất tư cách @c0100. La Sát dùng cốc làm địa điểm nghi thức nâng thi khôi @c0086. Alias 'Quang Minh Cốc' @c0090.", theLucLienQuan: ["thi-am-tong"], nguon: ["@c0086", "@c0087", "@c0088", "@c0089", "@c0090", "@c0091", "@c0092", "@c0093", "@c0096", "@c0099"] },
     { id: "thong-thien-thap", name: "Thông Thiên Tháp", cn: "", capDo: "khac", parentId: "trieu-quoc",
       blurb: "Công trình trung tâm Triệu quốc. Nơi Cự Ma tộc lấy Thất Thải pháp khí @c0083.", detail: "Thông Thiên Tháp được nhắc đến như công trình quan trọng tại trung tâm Triệu quốc @c0082. Cự Ma tộc (liên minh sứ giả đầu khổng lồ) lấy Thất Thải pháp khí từ đây @c0083; không rõ tháp do ai xây, mục đích gốc là gì.", theLucLienQuan: [], nguon: ["@c0082", "@c0083"] },
     { id: "vuc-ngoai-chien-truong", name: "Vực Ngoại chiến trường", cn: "", capDo: "khac", parentId: "trieu-quoc",
@@ -3851,9 +3873,9 @@ window.LIB_DATA["tien-nghich"].artifacts = {
   artifacts: [
     {
       id: "thach-chau",
-      name: "Thạch Châu",
+      name: "Nghịch Thiên Châu",
       cn: "",
-      aliases: ["Nghịch Thiên Châu"],
+      aliases: ["Thạch Châu (tên ban đầu)"],
       category: "phap-bao",
       categoryLabel: "Pháp bảo",
       phamCap: "Vượt phàm — thực chất là nơi ẩn náu của cường giả lục cấp Chu Tước Quốc (Tư Đồ Nam) @c0047; điều kiện nhận chủ: ngũ hành + ≥Anh Biến kỳ",
@@ -4301,8 +4323,8 @@ window.LIB_DATA["tien-nghich"].artifacts = {
       phamCap: "Vật phẩm tư cách",
       soHuu: ["vuong-lam"],
       trangThai: "VL từng giữ 1 lệnh bài (bóp nát 4, giữ 1); bị ĐHN hủy @c0100",
-      blurb: "Lệnh bài xác nhận tư cách vào Vực Ngoại chiến trường tại Quyết Minh Cốc. Tổng 7 lệnh bài được phân bổ; cần sở hữu tối thiểu 5 mới có tư cách vào. Khi thông đạo mở mà còn >3 lệnh bài chưa hủy thì mất tư cách.",
-      detail: "Hệ thống lệnh bài Quyết Minh Cốc: tổng 7 lệnh bài, cần đủ 5 để có tư cách vào Vực Ngoại chiến trường @c0092. VL thu được 2 lệnh bài @c0091, thêm 2 @c0092, thêm 1 từ Liễu Mi @c0093 — tổng 5; bóp nát 4, giữ 1 @c0093. Điều kiện duy trì tư cách: khi thông đạo mở không được còn >3 lệnh bài chưa hủy, nếu không mất tư cách @c0100. Đằng Hóa Nguyên hủy lệnh bài cuối cùng của VL trong trận chiến @c0100 — VL mất tư cách chính thức.",
+      blurb: "Lệnh bài xác nhận tư cách vào Vực Ngoại chiến trường tại Quyết Minh Cốc. Tổng 7 lệnh bài được phân bổ; chỉ 3 danh ngạch vào Vực Ngoại. Khi thông đạo mở mà còn >3 lệnh bài chưa hủy thì Triệu quốc mất tư cách.",
+      detail: "Hệ thống lệnh bài Quyết Minh Cốc: tổng 7 lệnh bài, chỉ 3 danh ngạch vào Vực Ngoại chiến trường @c0092. VL thu được 2 lệnh bài @c0091, thêm 2 @c0092, thêm 1 từ Liễu Mi @c0093 — tổng 5; bóp nát 4, giữ 1 @c0093. Điều kiện duy trì tư cách: khi thông đạo mở không được còn >3 lệnh bài chưa hủy, nếu không mất tư cách @c0100. Đằng Hóa Nguyên hủy lệnh bài cuối cùng của VL trong trận chiến @c0100 — VL mất tư cách chính thức.",
       nguon: ["@c0091", "@c0092", "@c0093", "@c0100"]
     }
   ]
@@ -4504,7 +4526,7 @@ window.LIB_DATA["tien-nghich"].factions = {
       lanhDao: "Lão tổ Trần Hoan + Trần Nghiên (Nguyên Anh kỳ)",
       trangThai: "Đang hoạt động tại Triệu quốc @c0092",
       blurb: "Tông môn ma đạo Triệu quốc. Lão tổ Nguyên Anh kỳ Trần Hoan + Trần Nghiên; đệ tử nữ Vương Dĩnh gặp VL tại Quyết Minh Cốc. Bị VL ép khai thông tin hệ thống lệnh bài @c0092.",
-      detail: "Hợp Hoan Tông ma đạo tại Triệu quốc @c0092. Đệ tử nữ Vương Dĩnh có mặt trong Quyết Minh Cốc; bị VL ép sau khi lão nhân Vô Phong Cốc và 17 đệ tử bị đóng băng. Khai thông tin: tổng 7 lệnh bài, cần 5 tư cách, 3 danh ngạch vào ngoại vực chiến trường. Lão tổ Trần Hoan + Trần Nghiên (Nguyên Anh kỳ) được nhắc đến @c0097.",
+      detail: "Hợp Hoan Tông ma đạo tại Triệu quốc @c0092. Đệ tử nữ Vương Dĩnh có mặt trong Quyết Minh Cốc; bị VL ép sau khi lão nhân Vô Phong Cốc và 17 đệ tử bị đóng băng. Khai thông tin: tổng 7 lệnh bài, chỉ 3 danh ngạch vào ngoại vực chiến trường (còn quá 3 lệnh bài chưa hủy khi thông đạo mở thì mất tư cách). Lão tổ Trần Hoan + Trần Nghiên (Nguyên Anh kỳ) được nhắc đến @c0097.",
       thanhVien: ["Vương Dĩnh"],
       nguon: ["@c0092", "@c0097"]
     },
