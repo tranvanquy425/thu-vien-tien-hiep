@@ -66,6 +66,7 @@
     DB.heThong = (realms && realms.heThong) || [];
     DB.doiChieu = (realms && realms.doiChieu) || [];
     DB.realmsGhiChu = (realms && realms.ghiChu) || "";
+    DB.linhLuc = ((window.LIB_DATA || {})[slug] || {}).linhLuc || null;
     DB.artifacts = (arts && arts.artifacts) || [];
     DB.techniques = (techs && techs.techniques) || [];
     DB.mapNodes = (map && map.nodes) || [];
@@ -363,11 +364,26 @@
       '<button class="btn gold" id="dcBar" style="width:100%;text-align:left;display:flex;align-items:center;gap:10px;padding:13px 16px;margin-bottom:18px;font-size:14.5px">' +
       '<span style="font-size:18px">▤</span> Bảng đối chiếu hệ thống · Tu Đạo — Tu Tiên — Cổ Tộc <span style="margin-left:auto;color:var(--gold)">bấm để xem ›</span></button>' : "";
 
+    // Hệ Cảnh Giới Linh Lực (thượng cổ) — KHÁC cảnh giới tu vi; chỉ render khi có dữ liệu
+    const ll = DB.linhLuc;
+    const llSection = ll ? (
+      '<h2 class="section-title" style="margin-top:24px">Cảnh Giới Linh Lực <span style="font-size:12.5px;color:var(--muted);font-weight:400">· hệ thượng cổ thất truyền — KHÁC cảnh giới tu vi</span></h2>' +
+      (ll.ghiChu ? '<div class="prose" style="font-size:13.5px;color:var(--muted);margin-bottom:12px">' + esc(ll.ghiChu) + '</div>' : "") +
+      '<div class="cards grid-3">' + (ll.capBac || []).map((c, i) =>
+        '<div class="card" data-ll="' + i + '"><h3 style="display:inline">' + esc(c.ten) + '</h3>' +
+        '<div class="blurb">' + esc(c.blurb || "") + '</div>' +
+        '<div style="margin-top:8px;color:var(--gold);font-size:12.5px">Xem chi tiết ›</div></div>').join("") + '</div>' +
+      ((ll.thucThe && ll.thucThe.length) ? '<div style="margin-top:14px"><div class="chip gold">Trong truyện</div>' +
+        ll.thucThe.map(t => '<div class="rcard" style="margin-top:8px"><h3 style="font-size:14.5px">' + esc(t.ten) + '</h3>' +
+          '<div class="blurb">' + esc(t.detail || "") + '</div></div>').join("") + '</div>' : "")
+    ) : "";
+
     view.innerHTML =
       '<div class="page-head"><h1>Cảnh Giới</h1><span class="sub">Hệ thống tu luyện — Tu Đạo (chính) · đối chiếu Tu Tiên & Cổ Tộc</span></div>' +
       (DB.realmsGhiChu ? '<div class="prose" style="font-size:13.5px;color:var(--muted);margin-bottom:14px">' + esc(DB.realmsGhiChu) + '</div>' : "") +
       heCards + dcBar +
-      '<h2 class="section-title">Lộ trình Tu Đạo</h2><div class="ladder" id="ladder"></div>';
+      '<h2 class="section-title">Lộ trình Tu Đạo</h2><div class="ladder" id="ladder"></div>' +
+      llSection;
     if (doiChieu.length) $("#dcBar").onclick = () => openDrawer("Bảng đối chiếu hệ thống", "Tu Đạo · Tu Tiên · Cổ Tộc", tableInner);
     // thẻ hệ thống bấm được → cửa sổ chi tiết + cấp bậc đối chiếu
     view.querySelectorAll('.card[data-he]').forEach(el => el.onclick = () => {
@@ -398,6 +414,12 @@
         ((tdg.tuTien || tdg.coToc) ? '<div style="margin-top:12px"><div class="chip gold">Tương đương</div><div class="prose">' +
           (tdg.tuTien ? 'Tu Tiên: ' + esc(tdg.tuTien) + '<br>' : '') + (tdg.coToc ? 'Cổ Tộc: ' + esc(tdg.coToc) : '') + '</div></div>' : '') +
         neoChips(r.nguon));
+    });
+    // wiring thẻ cảnh giới linh lực
+    if (ll) view.querySelectorAll('.card[data-ll]').forEach(el => el.onclick = () => {
+      const c = (ll.capBac || [])[+el.dataset.ll]; if (!c) return;
+      openDrawer(c.ten, "Cảnh giới linh lực" + (ll.ten ? " · " + ll.ten : ""),
+        '<div class="prose">' + esc(c.detail || c.blurb || "—") + '</div>' + neoChips(c.nguon));
     });
   }
 
