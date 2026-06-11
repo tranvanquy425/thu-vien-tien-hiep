@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-11T00:32Z — sort nhân mạch/túi đồ theo thời gian + dedup chéo tab */
+/* sync-bump 2026-06-11T18:10Z — deep-link mở drawer theo param (char/place/realm/artifact/tech) + Map zoom/pan */
 /* ===================== Thư Viện Tiên Hiệp — app trang bộ ===================== */
 (function () {
   "use strict";
@@ -406,7 +406,7 @@
     var BAND_H = 90, ARROW_H = 28, W = 800, PAD = 20;
     var totalH = list.length * BAND_H + (list.length - 1) * ARROW_H + PAD * 2;
     var svgParts = [
-      '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + W + ' ' + totalH + '" width="100%" style="display:block;max-width:100%;overflow:visible" aria-label="Sơ đồ cấp bậc tu chân quốc">',
+      '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + W + ' ' + totalH + '" width="' + W + '" height="' + totalH + '" style="display:block;overflow:visible" aria-label="Sơ đồ cấp bậc tu chân quốc">',
       '<defs>',
       '<marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">',
       '<polygon points="0 0, 8 3, 0 6" fill="var(--line-gold)"/>',
@@ -462,26 +462,75 @@
     return svgParts.join("\n");
   }
 
+  // Khung phóng to/kéo cho sơ đồ cấp bậc: tránh phải zoom cả trang.
+  function wireMapPan() {
+    const pan = $("#mapPan"), vp = $("#mapViewport"), stage = $("#mapStage");
+    if (!pan || !vp || !stage) return;
+    let scale = 1, tx = 0, ty = 0;
+    const MIN = 0.4, MAX = 3;
+    function apply() { stage.style.transform = "translate(" + tx + "px," + ty + "px) scale(" + scale + ")"; }
+    function zoomAt(cx, cy, factor) {
+      const ns = Math.min(MAX, Math.max(MIN, scale * factor));
+      if (ns === scale) return;
+      // giữ điểm dưới con trỏ cố định khi zoom
+      const r = vp.getBoundingClientRect();
+      const px = cx - r.left, py = cy - r.top;
+      tx = px - (px - tx) * (ns / scale);
+      ty = py - (py - ty) * (ns / scale);
+      scale = ns; apply();
+    }
+    // wheel zoom (chỉ khi con trỏ trong khung)
+    vp.addEventListener("wheel", e => { e.preventDefault(); zoomAt(e.clientX, e.clientY, e.deltaY < 0 ? 1.12 : 1 / 1.12); }, { passive: false });
+    // nút +/−/reset
+    pan.querySelectorAll(".mp-btn").forEach(b => b.onclick = () => {
+      const r = vp.getBoundingClientRect(), cx = r.left + r.width / 2, cy = r.top + r.height / 2;
+      if (b.dataset.mz === "in") zoomAt(cx, cy, 1.25);
+      else if (b.dataset.mz === "out") zoomAt(cx, cy, 1 / 1.25);
+      else { scale = 1; tx = 0; ty = 0; apply(); }
+    });
+    // kéo (chuột + cảm ứng)
+    let drag = null;
+    function start(x, y) { drag = { x, y, tx, ty }; vp.classList.add("grabbing"); }
+    function move(x, y) { if (!drag) return; tx = drag.tx + (x - drag.x); ty = drag.ty + (y - drag.y); apply(); }
+    function end() { drag = null; vp.classList.remove("grabbing"); }
+    vp.addEventListener("mousedown", e => { e.preventDefault(); start(e.clientX, e.clientY); });
+    window.addEventListener("mousemove", e => move(e.clientX, e.clientY));
+    window.addEventListener("mouseup", end);
+    vp.addEventListener("touchstart", e => { const t = e.touches[0]; start(t.clientX, t.clientY); }, { passive: true });
+    vp.addEventListener("touchmove", e => { if (!drag) return; const t = e.touches[0]; move(t.clientX, t.clientY); e.preventDefault(); }, { passive: false });
+    vp.addEventListener("touchend", end);
+    apply();
+  }
+
   function viewMap() {
     var cb = DB.capBac;
     var svgBlock = "";
     if (cb && cb.capList && cb.capList.length) {
       svgBlock = '<div class="section-title" style="margin-top:8px">Sơ đồ cấp bậc tu chân quốc</div>' +
-        '<div style="background:var(--panel-bg);border:1px solid var(--line-gold);border-radius:var(--radius);padding:16px 12px;margin-bottom:22px;overflow-x:auto">' +
-        buildCapBacSvg(cb) +
+        '<div class="map-pan" id="mapPan">' +
+          '<div class="map-pan-tools">' +
+            '<button class="mp-btn" data-mz="out" aria-label="Thu nhỏ">−</button>' +
+            '<button class="mp-btn" data-mz="reset" aria-label="Khôi phục">⤢</button>' +
+            '<button class="mp-btn" data-mz="in" aria-label="Phóng to">+</button>' +
+          '</div>' +
+          '<div class="map-pan-hint">Kéo để di chuyển · cuộn/nút để phóng to</div>' +
+          '<div class="map-pan-viewport" id="mapViewport">' +
+            '<div class="map-pan-stage" id="mapStage">' + buildCapBacSvg(cb) + '</div>' +
+          '</div>' +
+        '</div>' +
         '<div style="margin-top:10px;font-size:12px;color:var(--muted);font-family:var(--sans)">' +
         '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--chu);margin-right:5px;vertical-align:middle"></span>Lục cấp&ensp;' +
         '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--gold);margin-right:5px;vertical-align:middle"></span>Ngũ cấp&ensp;' +
         '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--gold-soft);margin-right:5px;vertical-align:middle"></span>Tứ cấp&ensp;' +
         '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--jade);margin-right:5px;vertical-align:middle"></span>Tam cấp&ensp;' +
         '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--muted);margin-right:5px;vertical-align:middle"></span>Nhị/Nhất cấp' +
-        '</div>' +
         '</div>';
     }
     const nodes = DB.mapNodes;
     view.innerHTML = '<div class="page-head"><h1>Map</h1><span class="sub">Khu vực từ lớn tới nhỏ</span></div>' +
       svgBlock +
       (nodes.length ? '<div class="section-title">Cây địa danh</div><div class="tree" id="mapTree"></div>' : '<div class="empty">Chưa có dữ liệu map.</div>');
+    wireMapPan();
     if (!nodes.length) return;
     const byParent = {}; nodes.forEach(n => { (byParent[n.parentId || "root"] = byParent[n.parentId || "root"] || []).push(n); });
     function build(pid) {
@@ -714,7 +763,34 @@
     closeDrawer();
     const fn = ROUTES[id] || viewDoc;
     fn();
+    openDeep(id);   // deep-link: mở thẳng drawer entity nếu URL có ?char=/?place=/?realm=/?artifact=/?tech=
   }
+  // Dẫn thẳng tới 1 thực thể: đọc param trên URL, sau khi mục đã render thì click element tương ứng
+  // để TÁI DÙNG đúng logic drawer hiện có (không nhân bản nội dung). Chỉ chạy 1 lần / lần điều hướng tới.
+  let _deepDone = "";
+  function openDeep(viewId) {
+    const p = new URLSearchParams(location.search);
+    const map = {
+      "nhan-vat":  { key: "char",     sel: id => '#nvGrid .card[data-id="' + cssq(id) + '"]' },
+      "map":       { key: "place",    sel: id => '#mapTree .node[data-id="' + cssq(id) + '"]' },
+      "canh-gioi": { key: "realm",    sel: id => '#ladder .rung[data-id="' + cssq(id) + '"]' },
+      "phap-bao":  { key: "artifact", sel: ix => '#gGrid .card[data-i="' + cssq(ix) + '"]' },
+      "cong-phap": { key: "tech",     sel: ix => '#gGrid .card[data-i="' + cssq(ix) + '"]' }
+    };
+    const m = map[viewId]; if (!m) return;
+    const val = p.get(m.key); if (!val) return;
+    const sig = viewId + ":" + val;
+    if (_deepDone === sig) return;   // tránh mở lại khi đổi tab nội bộ
+    _deepDone = sig;
+    // chờ DOM render xong (viewX đồng bộ, nhưng setTimeout để chắc + đợi expand tree)
+    setTimeout(() => {
+      // Map: mở hết các nhánh cây để node ẩn cũng thấy được
+      if (viewId === "map") $("#mapTree") && $("#mapTree").querySelectorAll("ul").forEach(u => u.style.display = "");
+      const el = document.querySelector(m.sel(val));
+      if (el) { el.click(); if (el.scrollIntoView) el.scrollIntoView({ block: "center" }); }
+    }, 0);
+  }
+  function cssq(s) { return String(s).replace(/["\\]/g, "\\$&"); }
   window.addEventListener("hashchange", route);
   document.addEventListener("keydown", e => {
     if (e.key === "Escape") closeDrawer();
