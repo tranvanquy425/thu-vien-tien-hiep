@@ -92,6 +92,7 @@
     DB.artifacts = (arts && arts.artifacts) || [];
     DB.techniques = (techs && techs.techniques) || [];
     DB.mapNodes = (map && map.nodes) || [];
+    DB.capBac = ((window.LIB_DATA || {})[slug] || {}).capBac || null;
     DB.factions = (facs && facs.factions) || [];
     DB.volumes = (vols && vols.volumes) || [];
     if (usedDemo) $("#demoBanner").style.display = "";
@@ -398,10 +399,89 @@
 
   /* --- 4. Map --- */
   const CAP_LABEL = { "gioi-dien": "Giới diện", "tinh-cau": "Tinh cầu", "vuc": "Vực", "gioi-nho": "Giới nhỏ", "quoc-gia": "Quốc gia", "chau": "Châu", "thanh": "Thành", "khac": "Khác" };
+
+  function buildCapBacSvg(cb) {
+    if (!cb || !cb.capList || !cb.capList.length) return "";
+    var list = cb.capList.slice().sort(function(a, b) { return b.cap - a.cap; });
+    var BAND_H = 90, ARROW_H = 28, W = 800, PAD = 20;
+    var totalH = list.length * BAND_H + (list.length - 1) * ARROW_H + PAD * 2;
+    var svgParts = [
+      '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + W + ' ' + totalH + '" width="100%" style="display:block;max-width:100%;overflow:visible" aria-label="Sơ đồ cấp bậc tu chân quốc">',
+      '<defs>',
+      '<marker id="arrowhead" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">',
+      '<polygon points="0 0, 8 3, 0 6" fill="var(--line-gold)"/>',
+      '</marker>',
+      '</defs>'
+    ];
+    var CAP_COLORS = { 6: "var(--chu)", 5: "var(--gold)", 4: "var(--gold-soft)", 3: "var(--jade)", 2: "var(--muted)", 1: "var(--muted2)" };
+    list.forEach(function(band, idx) {
+      var y = PAD + idx * (BAND_H + ARROW_H);
+      var color = CAP_COLORS[band.cap] || "var(--muted2)";
+      var isEmpty = !band.thucThe || band.thucThe.length === 0;
+      var bandOpacity = isEmpty ? '0.45' : '1';
+      // Band background
+      svgParts.push('<rect x="' + PAD + '" y="' + y + '" width="' + (W - PAD * 2) + '" height="' + BAND_H + '" rx="10" fill="var(--ink3)" stroke="' + color + '" stroke-width="1.5" opacity="' + bandOpacity + '"/>');
+      // Cap label badge
+      svgParts.push('<rect x="' + (PAD + 10) + '" y="' + (y + 10) + '" width="130" height="26" rx="6" fill="' + color + '" opacity="0.18"/>');
+      svgParts.push('<text x="' + (PAD + 75) + '" y="' + (y + 28) + '" text-anchor="middle" font-size="13" font-weight="700" fill="' + color + '" font-family="var(--sans)" opacity="' + bandOpacity + '">' + esc(band.ten) + '</text>');
+      // Entities
+      if (isEmpty) {
+        svgParts.push('<text x="' + (PAD + 155) + '" y="' + (y + 28) + '" font-size="12" fill="var(--muted2)" font-family="var(--sans)" font-style="italic">(chưa rõ trong nguyên tác)</text>');
+      } else {
+        var ex = PAD + 155, ey = y + 22;
+        band.thucThe.forEach(function(te, ti) {
+          var bw = Math.min(140, (W - PAD * 2 - 155 - 10) / Math.max(band.thucThe.length, 1) - 8);
+          var bx = ex + ti * (bw + 8);
+          if (bx + bw > W - PAD * 2 + PAD) return; // overflow guard
+          svgParts.push('<rect x="' + bx + '" y="' + ey + '" width="' + bw + '" height="50" rx="8" fill="var(--panel)" stroke="' + color + '" stroke-width="1" opacity="0.85"/>');
+          // Entity name — wrap at ~16 chars
+          var nameStr = te.ten || "";
+          var line1 = nameStr.length > 16 ? nameStr.slice(0, 16) : nameStr;
+          var line2 = nameStr.length > 16 ? nameStr.slice(16, 30) : "";
+          svgParts.push('<text x="' + (bx + bw / 2) + '" y="' + (ey + (line2 ? 18 : 24)) + '" text-anchor="middle" font-size="11.5" font-weight="600" fill="var(--gold2)" font-family="var(--serif)" style="dominant-baseline:auto">' + esc(line1) + '</text>');
+          if (line2) svgParts.push('<text x="' + (bx + bw / 2) + '" y="' + (ey + 32) + '" text-anchor="middle" font-size="11.5" font-weight="600" fill="var(--gold2)" font-family="var(--serif)">' + esc(line2) + '</text>');
+          // Neo
+          if (te.neo) {
+            var neoStr = te.neo.split(",")[0].trim();
+            svgParts.push('<text x="' + (bx + bw / 2) + '" y="' + (ey + 46) + '" text-anchor="middle" font-size="9.5" fill="var(--muted2)" font-family="var(--sans)">' + esc(neoStr) + '</text>');
+          }
+        });
+      }
+      // Arrow between bands
+      if (idx < list.length - 1) {
+        var arrowX = W / 2;
+        var arrowY1 = y + BAND_H;
+        var arrowY2 = arrowY1 + ARROW_H - 6;
+        svgParts.push('<line x1="' + arrowX + '" y1="' + arrowY1 + '" x2="' + arrowX + '" y2="' + arrowY2 + '" stroke="var(--line-gold)" stroke-width="1.5" marker-end="url(#arrowhead)" opacity="0.6"/>');
+        svgParts.push('<text x="' + (arrowX + 10) + '" y="' + (arrowY1 + ARROW_H / 2 + 4) + '" font-size="10" fill="var(--muted2)" font-family="var(--sans)" opacity="0.8">quản lý</text>');
+      }
+    });
+    // Legend
+    svgParts.push('<text x="' + PAD + '" y="' + (totalH - 4) + '" font-size="10.5" fill="var(--muted2)" font-family="var(--sans)" font-style="italic">Ghi chú: cấp trên quản cấp dưới · dữ liệu từ nguyên tác Ch.1-220 · nguồn: Liên Minh Tu Chân @c0104</text>');
+    svgParts.push('</svg>');
+    return svgParts.join("\n");
+  }
+
   function viewMap() {
+    var cb = DB.capBac;
+    var svgBlock = "";
+    if (cb && cb.capList && cb.capList.length) {
+      svgBlock = '<div class="section-title" style="margin-top:8px">Sơ đồ cấp bậc tu chân quốc</div>' +
+        '<div style="background:var(--panel-bg);border:1px solid var(--line-gold);border-radius:var(--radius);padding:16px 12px;margin-bottom:22px;overflow-x:auto">' +
+        buildCapBacSvg(cb) +
+        '<div style="margin-top:10px;font-size:12px;color:var(--muted);font-family:var(--sans)">' +
+        '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--chu);margin-right:5px;vertical-align:middle"></span>Lục cấp&ensp;' +
+        '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--gold);margin-right:5px;vertical-align:middle"></span>Ngũ cấp&ensp;' +
+        '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--gold-soft);margin-right:5px;vertical-align:middle"></span>Tứ cấp&ensp;' +
+        '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--jade);margin-right:5px;vertical-align:middle"></span>Tam cấp&ensp;' +
+        '<span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--muted);margin-right:5px;vertical-align:middle"></span>Nhị/Nhất cấp' +
+        '</div>' +
+        '</div>';
+    }
     const nodes = DB.mapNodes;
     view.innerHTML = '<div class="page-head"><h1>Map</h1><span class="sub">Khu vực từ lớn tới nhỏ</span></div>' +
-      (nodes.length ? '<div class="tree" id="mapTree"></div>' : '<div class="empty">Chưa có dữ liệu map.</div>');
+      svgBlock +
+      (nodes.length ? '<div class="section-title">Cây địa danh</div><div class="tree" id="mapTree"></div>' : '<div class="empty">Chưa có dữ liệu map.</div>');
     if (!nodes.length) return;
     const byParent = {}; nodes.forEach(n => { (byParent[n.parentId || "root"] = byParent[n.parentId || "root"] || []).push(n); });
     function build(pid) {
