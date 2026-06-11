@@ -5831,12 +5831,76 @@ window.LIB_DATA["tien-nghich"].techniques = {
   ]
 };
 
+// CẤP BẬC TU CHÂN QUỐC — hệ thống phân cấp Liên Minh Tu Chân
+window.LIB_DATA["tien-nghich"].capBac = {
+  updatedAt: "2026-06-11",
+  ghiChu: "Cấp bậc tu chân quốc trong hệ thống Liên Minh Tu Chân (nhất đến lục). Cấp trên quản cấp dưới. Ngưỡng gia nhập Liên Minh: đạt lục cấp + sở hữu tinh cầu (@c0104).",
+  capList: [
+    {
+      cap: 6,
+      ten: "Cấp 6 (Lục cấp)",
+      moTa: "Ngưỡng gia nhập Liên Minh Tu Chân. Sở hữu tinh cầu trực thuộc.",
+      thucThe: [
+        { ten: "Chu Tước Quốc", moTa: "Lục cấp tu chân quốc; sở hữu Chu Tước tinh gồm 4 đại lục/148 quốc gia; trực thuộc 18 ngũ cấp tu chân quốc và 108 chiến trường ngoại vực; vươn từ nhất cấp lên lục cấp trong 100.000 năm.", neo: "@c0047, @c0104" }
+      ]
+    },
+    {
+      cap: 5,
+      ten: "Cấp 5 (Ngũ cấp)",
+      moTa: "Nằm dưới lục cấp, cao hơn tứ cấp; trực thuộc tinh cầu của lục cấp.",
+      thucThe: [
+        { ten: "Cự Ma Tộc", moTa: "Ngũ cấp trong hệ thống Liên Minh Tu Chân; cường giả Anh Biến kỳ; nằm giữa Chu Tước Quốc (lục) và Thanh Long Quốc (tứ).", neo: "@c0101, @c0104" },
+        { ten: "Bì Lô Quốc", moTa: "Ngũ cấp tu chân quốc; nơi Luyện Hồn Tông đặt trụ sở (trấn phái chi bảo Hồn Phiên).", neo: "@c0099" }
+      ]
+    },
+    {
+      cap: 4,
+      ten: "Cấp 4 (Tứ cấp)",
+      moTa: "Nằm dưới ngũ cấp; cao hơn tam cấp.",
+      thucThe: [
+        { ten: "Thanh Long Quốc", moTa: "Tứ cấp tu chân quốc trong hệ thống Liên Minh Tu Chân; 500 năm trước cử Nguyên Anh kỳ cai quản Triệu quốc.", neo: "@c0047, @c0104" },
+        { ten: "Âm Dương Tông", moTa: "Tông môn tứ cấp tu chân quốc; Uông Thanh Việt là sứ giả, tinh thông ngũ hành độn thuật.", neo: "@c0144" },
+        { ten: "Thiên Cương Tông", moTa: "Tông môn tứ cấp tu chân quốc; Hứa Lập Quốc (Nguyên Anh kỳ) xuất thân từ đây.", neo: "@c0111" },
+        { ten: "Kỳ Hoàng Môn", moTa: "Tông môn tứ cấp tu chân quốc, nổi danh đan đạo (Thanh Vân đan); sau di cư ẩn tích về Tu Ma Hải.", neo: "@c0196" }
+      ]
+    },
+    {
+      cap: 3,
+      ten: "Cấp 3 (Tam cấp)",
+      moTa: "Cấp độ điển hình của các quốc gia trong vùng câu chuyện chính; chưa có tu sĩ Hóa Thần.",
+      thucThe: [
+        { ten: "Triệu Quốc", moTa: "Tam cấp tu chân quốc; chưa có Hóa Thần lão tổ nên không thể tự bảo vệ.", neo: "@c0046, @c0089" },
+        { ten: "Hỏa Phần Quốc", moTa: "Tam cấp tu chân quốc; có 4 tông: Chiến Thần Điện, Tà Ma Tông, Lạc Hà Môn, Thi Âm Tông.", neo: "@c0109" },
+        { ten: "Tuyên Vũ Quốc", moTa: "Tam cấp tu chân quốc; mục tiêu xâm lược của liên minh Hỏa Phần Minh.", neo: "@c0120" },
+        { ten: "Thiên Mậu Quốc", moTa: "Tam cấp tu chân quốc; có Thông Thiên Tháp ở trung tâm.", neo: "@c0138" },
+        { ten: "Sở Quốc", moTa: "Tam cấp tu chân quốc; có Vân Thiên Tông (đệ nhất môn phái Sở quốc).", neo: "@c0187" }
+      ]
+    },
+    {
+      cap: 2,
+      ten: "Cấp 2 (Nhị cấp)",
+      moTa: "Cấp độ thấp hơn tam cấp; tu vi tông môn cao nhất chỉ đến Kết Đan kỳ.",
+      thucThe: [
+        { ten: "Tử Vân tông", moTa: "Tông môn trên Khổng Mạnh đại lục (một trong sáu đại lục Chu Tước tinh) — vùng có các tu chân quốc cấp 2/3; tu vi cao nhất trong tông là Kết Đan kỳ. Nơi VL dùng cổ truyền tống trận về Triệu quốc.", neo: "@c0210" }
+      ]
+    },
+    {
+      cap: 1,
+      ten: "Cấp 1 (Nhất cấp)",
+      moTa: "Cấp thấp nhất; chưa có thực thể cụ thể nào được xác nhận danh tính trong nguyên tác tới Ch.220.",
+      thucThe: []
+    }
+  ]
+};
+
 // MAP — địa danh Ch.1-220+ (neo nguyên tác)
 window.LIB_DATA["tien-nghich"].map = {
   updatedAt: "2026-06-11",
-  count: 61,
+  count: 62,
   nodes: [
-    { id: "trieu-quoc", name: "Triệu Quốc", cn: "", capDo: "quoc-gia", parentId: null,
+    { id: "khong-manh-dai-luc", name: "Khổng Mạnh đại lục", cn: "", capDo: "khac", parentId: null,
+      blurb: "Một trong sáu đại lục của Chu Tước tinh (Chu Tước Quốc, lục cấp). Có nhiều tu chân quốc, đủ đô thị cấp 1–3 nhưng ít cấp bốn vì tài nguyên ít ỏi. Triệu quốc nằm ở tận cùng đại lục này.", detail: "Khổng Mạnh đại lục là một trong sáu đại lục của Chu Tước tinh cầu @c0210. Vùng nhiều tu chân quốc cấp 1–3, hiếm cấp bốn do tài nguyên hạn chế. Triệu quốc — quê Vương Lâm — nằm ở rìa tận cùng đại lục này; trên đường về Triệu sau 400 năm, VL đi qua vài tu chân quốc cấp 2/3 và Tử Vân tông trên đại lục này.", theLucLienQuan: [], nguon: ["@c0210"] },
+    { id: "trieu-quoc", name: "Triệu Quốc", cn: "", capDo: "quoc-gia", parentId: "khong-manh-dai-luc",
       blurb: "Quốc gia nơi Vương Lâm sinh ra; vừa có dân phàm vừa có thế lực tu chân.", detail: "Bối cảnh đầu truyện. Trong Triệu quốc có cả vùng phàm tục (thôn, thị trấn, huyện) lẫn môn phái tu chân như Hằng Nhạc Phái.", theLucLienQuan: ["Hằng Nhạc Phái", "Vương thị gia tộc"], nguon: ["@c0002"] },
     { id: "son-phong-hang-nhac", name: "Sơn phong Hằng Nhạc Phái", cn: "", capDo: "khac", parentId: "trieu-quoc",
       blurb: "Sơn môn của Hằng Nhạc Phái — môn phái tu chân nơi Vương Lâm dự tuyển.", detail: "Tiên cảnh trên núi cao: đại điện trên đỉnh, hai sơn phong nối nhau bằng cầu đá; nơi tổ chức trắc thí tuyển đệ tử (linh căn + nghị lực leo thềm đá). Môn phái từng có Nguyên Anh kỳ, nay suy thoái.", theLucLienQuan: ["Hằng Nhạc Phái"], nguon: ["@c0002", "@c0003"] },
