@@ -24,10 +24,10 @@
     anchor.parentNode.insertBefore(t.firstChild, anchor.nextSibling);
   }
 
-  // ---- global search bar: chèn sau sponsor top ----
+  // ---- global search bar + autocomplete live: chèn sau sponsor top ----
   const sponsorTop = document.querySelector(".sponsor:not(.foot)");
   const searchEl = document.createElement("div");
-  searchEl.innerHTML = '<div class="global-search"><div class="gs-inner"><input class="gs-input" type="text" placeholder="Tìm nhân vật, pháp bảo, sự kiện..." aria-label="Tìm kiếm"><button class="gs-btn" aria-label="Tìm">🔍</button></div></div>';
+  searchEl.innerHTML = '<div class="global-search"><div class="gs-inner"><input class="gs-input" type="text" placeholder="Tìm nhân vật, pháp bảo, sự kiện..." aria-label="Tìm kiếm" autocomplete="off"><button class="gs-btn" aria-label="Tìm">🔍</button></div><div class="gs-suggest" id="gsSuggest" role="listbox"></div></div>';
   const searchNode = searchEl.firstChild;
   if (sponsorTop) {
     sponsorTop.parentNode.insertBefore(searchNode, sponsorTop.nextSibling);
@@ -36,12 +36,129 @@
   }
   const gsInput = document.querySelector(".gs-input");
   const gsBtn = document.querySelector(".gs-btn");
+  const gsSug = document.getElementById("gsSuggest");
   function doSearch() {
     const q = gsInput ? gsInput.value.trim() : "";
     if (q) location.href = "search.html?q=" + encodeURIComponent(q);
   }
-  if (gsInput) gsInput.addEventListener("keydown", e => { if (e.key === "Enter") doSearch(); });
   if (gsBtn) gsBtn.addEventListener("click", doSearch);
+
+  /* ===== Autocomplete: nạp data mọi bộ → gợi ý live → dẫn THẲNG tới đích ===== */
+  const norm = s => (s || "").toString().toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d");
+  const boList = (window.LIB_CONFIG && window.LIB_CONFIG.boList) || [];
+  let INDEX = null;      // mảng phẳng các mục tra cứu
+  let loading = null;
+
+  function loadScript(src) {
+    return new Promise(ok => { const s = document.createElement("script"); s.src = src; s.onload = ok; s.onerror = ok; document.head.appendChild(s); });
+  }
+  function ensureData() {
+    if (loading) return loading;
+    loading = (async () => {
+      const ps = [];
+      for (const b of boList) {
+        if (!(window.LIB_DATA && window.LIB_DATA[b.slug])) ps.push(loadScript("data/" + b.slug + "/data.js"));
+      }
+      await Promise.all(ps);
+      buildIndex();
+    })();
+    return loading;
+  }
+  function buildIndex() {
+    INDEX = [];
+    const DATA = window.LIB_DATA || {};
+    for (const b of boList) {
+      const d = DATA[b.slug]; if (!d) continue;
+      const bo = b.slug, boTen = b.ten;
+      const add = (type, name, aliases, link) => INDEX.push({ type, name, aliases: (aliases || []).join(", "), bo, boTen, link, hay: norm([name].concat(aliases || []).join(" ")) });
+      // Nhân vật — dẫn thẳng tới drawer tiểu sử (?char=id)
+      if (d.characters && d.characters.chars) d.characters.chars.forEach(c =>
+        add("Nhân vật", c.name, c.aliases, "bo.html?bo=" + bo + "&char=" + encodeURIComponent(c.id) + "#nhan-vat"));
+      // Pháp bảo (?artifact=index trong mảng)
+      if (d.artifacts && d.artifacts.artifacts) d.artifacts.artifacts.forEach((a, i) =>
+        add("Pháp bảo", a.name, a.aliases, "bo.html?bo=" + bo + "&artifact=" + i + "#phap-bao"));
+      // Công pháp (?tech=index)
+      if (d.techniques && d.techniques.techniques) d.techniques.techniques.forEach((t, i) =>
+        add("Công pháp", t.name, t.aliases, "bo.html?bo=" + bo + "&tech=" + i + "#cong-phap"));
+      // Cảnh giới (?realm=id)
+      if (d.realms && d.realms.realms) d.realms.realms.forEach(r =>
+        add("Cảnh giới", r.name, r.aliases, "bo.html?bo=" + bo + "&realm=" + encodeURIComponent(r.id) + "#canh-gioi"));
+      // Địa điểm (?place=id) — key đúng là map.nodes (app.js render từ nodes)
+      if (d.map && d.map.nodes) d.map.nodes.forEach(p =>
+        add("Địa điểm", p.name, p.aliases, "bo.html?bo=" + bo + "&place=" + encodeURIComponent(p.id) + "#map"));
+      // Thế lực (mở mục Nhân Vật — thế lực hiển thị trong đó)
+      if (d.factions && d.factions.factions) d.factions.factions.forEach(f =>
+        add("Thế lực", f.name, f.aliases, "bo.html?bo=" + bo + "#nhan-vat"));
+    }
+  }
+  function highlight(name, q) {
+    const nn = norm(name), i = nn.indexOf(q);
+    if (i < 0) return esc(name);
+    return esc(name.slice(0, i)) + "<b>" + esc(name.slice(i, i + q.length)) + "</b>" + esc(name.slice(i + q.length));
+  }
+  const MAX_SUG = 12;
+  let curList = [], curSel = -1;
+  function renderSug(q) {
+    if (!gsSug) return;
+    const nq = norm(q);
+    if (!nq || !INDEX) { gsSug.classList.remove("show"); gsSug.innerHTML = ""; curList = []; curSel = -1; return; }
+    // ưu tiên: khớp đầu chuỗi > chứa; ổn định theo loại
+    const hits = INDEX.filter(it => it.hay.includes(nq));
+    // điểm: khớp đầu chuỗi tốt nhất, rồi tên ngắn hơn (sát hơn)
+    hits.sort((a, b) => (b.hay.startsWith(nq) - a.hay.startsWith(nq)) || a.name.length - b.name.length);
+    const top = hits.slice(0, MAX_SUG);
+    // gom theo loại để header không lặp (giữ thứ tự xuất hiện của loại)
+    const order = [], byType = {};
+    top.forEach(it => { if (!byType[it.type]) { byType[it.type] = []; order.push(it.type); } byType[it.type].push(it); });
+    curList = []; order.forEach(ty => byType[ty].forEach(it => curList.push(it)));
+    curSel = -1;
+    if (!curList.length) {
+      gsSug.innerHTML = '<div class="gs-sug-group">Không có gợi ý — nhấn Enter để tìm toàn văn</div>';
+      gsSug.classList.add("show"); return;
+    }
+    let html = "", lastType = "";
+    const totalHits = hits.length;
+    curList.forEach((it, i) => {
+      if (it.type !== lastType) { html += '<div class="gs-sug-group">' + esc(it.type) + '</div>'; lastType = it.type; }
+      html += '<a class="gs-sug" data-i="' + i + '" href="' + esc(it.link) + '">' +
+        '<span class="gs-sug-name">' + highlight(it.name, nq) + '</span>' +
+        (it.aliases ? '<span class="gs-sug-alias">' + esc(it.aliases) + '</span>' : '<span class="gs-sug-alias"></span>') +
+        (boList.length > 1 ? '<span class="gs-sug-bo">' + esc(it.boTen) + '</span>' : '') + '</a>';
+    });
+    if (totalHits > MAX_SUG) html += '<div class="gs-sug-more" data-more="1">Xem tất cả ' + totalHits + ' kết quả ›</div>';
+    gsSug.innerHTML = html;
+    gsSug.classList.add("show");
+    gsSug.querySelectorAll(".gs-sug-more").forEach(el => el.onclick = doSearch);
+  }
+  function setSel(n) {
+    const items = gsSug ? gsSug.querySelectorAll(".gs-sug") : [];
+    if (!items.length) return;
+    curSel = (n + items.length) % items.length;
+    items.forEach((el, i) => el.classList.toggle("active", i === curSel));
+    items[curSel].scrollIntoView({ block: "nearest" });
+  }
+  if (gsInput) {
+    let t = null;
+    gsInput.addEventListener("input", () => {
+      const q = gsInput.value.trim();
+      clearTimeout(t);
+      if (!q) { renderSug(""); return; }
+      ensureData().then(() => { if (gsInput.value.trim() === q) renderSug(q); });
+      if (INDEX) t = setTimeout(() => renderSug(q), 60);
+    });
+    gsInput.addEventListener("focus", () => { ensureData(); if (gsInput.value.trim()) renderSug(gsInput.value.trim()); });
+    gsInput.addEventListener("keydown", e => {
+      if (e.key === "ArrowDown") { e.preventDefault(); setSel(curSel + 1); }
+      else if (e.key === "ArrowUp") { e.preventDefault(); setSel(curSel - 1); }
+      else if (e.key === "Enter") {
+        if (curSel >= 0 && curList[curSel]) { location.href = curList[curSel].link; }
+        else doSearch();
+      } else if (e.key === "Escape") { gsSug && gsSug.classList.remove("show"); }
+    });
+    document.addEventListener("click", e => {
+      if (gsSug && !searchNode.contains(e.target)) gsSug.classList.remove("show");
+    });
+  }
 
   // ---- footer: bottom sponsor + donate + góp ý + copyline ----
   const diRows = (dn.info || []).map(i => '<div class="di"><span>' + esc(i.k) + '</span><b>' + esc(i.v) + '</b></div>').join("");
