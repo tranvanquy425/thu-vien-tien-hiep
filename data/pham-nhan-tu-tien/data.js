@@ -3433,7 +3433,7 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
 
 window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
   updatedAt: "2026-06-11",
-  count: 58,
+  count: 66,
   artifacts: [
     {
       id: "binh-than-bi",
@@ -3801,16 +3801,16 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
     },
     {
       id: "kiem-phu",
-      name: "Kiếm phù / Phù Bảo",
+      name: "Kiếm phù / Kim Quang Chuyên phù bảo",
       cn: null,
       category: "phap-khi",
-      categoryLabel: "Pháp khí — phù lục / pháp bảo",
-      phamCap: "Tu tiên (cấp chưa xác định — nghi Trúc Cơ kỳ trở lên luyện chế)",
-      soHuu: ["Hàn Lập (đoạt từ Chu Nho @c0091–c0092)"],
-      trangThai: "đang giữ",
-      blurb: "Đạo phù lục vẽ một thanh tiểu kiếm màu xám khắc sống động; tự tản lưu quang nhàn nhạt, hàn khí bức người dù không thúc pháp lực. Khi kích phát hóa luồng sáng lờ mờ có sát thương. Tại c143 lần đầu dùng trong chiến đấu thực sự: phát ra mười tám quang cầu đen từ hộp gỗ của đại hán, rồi kiếm quang xẻ toàn bộ, giết cả hai kẻ tập sát.",
-      detail: "Hình dạng khi thu hồi: một đạo phù lục (lá bùa) vẽ thanh tiểu kiếm màu xám, khắc rất sống động. Dù không thúc pháp lực, tiểu kiếm trên bùa vẫn tự tản lưu quang nhàn nhạt và toả hàn khí bức người — cho thấy nội tại linh lực. Khi kích phát bởi Chu Nho trước đó: hóa luồng sáng mờ mờ, lượn trong không trung và bay nhanh như điện đánh người. Hàn Lập xác nhận ba hạn chế sau khi luyện tập: (1) tiêu hao pháp lực khổng lồ, chỉ dùng được khoảng một khắc; (2) hiệu quả tốt nhất trong 20 trượng, từ 20–30 trượng bắt đầu chậm, ngoài 30 trượng không dùng được; (3) số lần sử dụng/tuổi thọ hữu hạn. Tại c143: phá mười tám quang cầu đen trong hộp gỗ của đại hán phát hoàng quang, kiếm quang xẻ tất cả rồi giết cả hai kẻ phục kích.",
-      nguon: ["c0091", "c0092", "c0093", "c0094", "c0095", "c0096", "c0143"]
+      categoryLabel: "Phù bảo tu tiên",
+      phamCap: "Phù bảo — Kết Đan kỳ luyện chế",
+      soHuu: ["Hàn Lập (đoạt từ Chu Nho @c0091–c0092; xác định thêm là Kim Quang Chuyên phù bảo @c0164–c0165)"],
+      trangThai: "hóa tro hoàn toàn @c0170 — hỏng không thể dùng",
+      blurb: "Đạo phù lục vẽ tiểu kiếm xám — ban đầu Hàn Lập đoạt từ Chu Nho, sau đó xác định đây cùng loại với Kim Quang Chuyên phù bảo mua ở Vạn Bảo Lâu (hoặc chính là phù bảo Vạn Bảo Lâu dùng trong trận). Kích hoạt hóa cự kiếm xám 2–3 trượng, uy lực khổng lồ. Dùng thực chiến c143 và c167–c169, chém đôi Lục sư huynh. Hóa tro hoàn toàn sau trận c170 — hết tuổi thọ.",
+      detail: "Hình dạng khi thu hồi: phù lục vẽ thanh tiểu kiếm màu xám, khắc sống động, tự tản lưu quang nhàn nhạt và toả hàn khí. Ba hạn chế: (1) tiêu hao pháp lực khổng lồ, chỉ dùng ~một khắc; (2) hiệu quả tốt nhất trong 20 trượng; (3) số lần/tuổi thọ hữu hạn. Tại c143: xẻ 18 quang cầu đen, giết hai kẻ phục kích. Tại c167–c169: hóa cự kiếm xám dài 2–3 trượng, chặn Thanh giao của Lục sư huynh, cuối cùng chém bửa Lục sư huynh làm đôi. Tại c170: hóa tro hoàn toàn — hỏng hẳn, không còn sử dụng được.",
+      nguon: ["c0091", "c0092", "c0093", "c0094", "c0095", "c0096", "c0143", "c0164", "c0165", "c0167", "c0168", "c0169", "c0170"]
     },
     {
       id: "thang-tien-lenh-bai",
@@ -3871,11 +3871,11 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
       category: "dan-duoc",
       categoryLabel: "Đan dược — tu tiên",
       phamCap: "Tu tiên (cực hiếm) — Hoàng Phong Cốc có trữ lượng giới hạn",
-      soHuu: ["Lão Tam (đã dùng @c106)", "Hoàng Phong Cốc (trữ hữu; phân cho đệ tử có tư cách @c144–c147)", "Hàn Lập (được cấp một viên qua Thăng Tiên Lệnh, tự nguyện nhường cho Diệp Tính @c146–c147)"],
-      trangThai: "lưu thông trong giới tu tiên; Hoàng Phong Cốc cấp theo ưu tiên",
-      blurb: "Đan dược tu tiên cực hiếm, hỗ trợ người tu luyện đột phá qua ngưỡng mười tầng công pháp cơ sở tiến vào Trúc Cơ kỳ. Hoàng Phong Cốc trữ hữu số lượng hạn chế, chỉ cấp cho đệ tử có tư cách (Thăng Tiên Lệnh, dị linh căn, hoặc hậu nhân Hồng Phất). Hàn Lập nhận được một viên nhờ Thăng Tiên Lệnh nhưng tự nguyện nhường lại cho Diệp Tính đổi lấy quyền chọn công tác.",
-      detail: "Được người áo lam (Lão Tam) đề cập tại Gia Nguyên Thành: nhờ uống Trúc Cơ đan mà luyện thành mười tầng (c106). Hoàng Phong Cốc: phân chia theo thứ tự ưu tiên (người cầm Thăng Tiên Lệnh > dị linh căn > hậu nhân Hồng Phất sư thúc tổ; c144). Hàn Lập tư chất ngụy linh căn ~1% thành công, Diệp lão giả thuyết phục nhường đan đổi vật hữu dụng; giao dịch chốt tại c146, chính thức hoàn tất tại c147.",
-      nguon: ["c0106", "c0144", "c0145", "c0146", "c0147"]
+      soHuu: ["Lão Tam (đã dùng @c106)", "Hoàng Phong Cốc (trữ hữu; phân cho đệ tử có tư cách @c144–c147)", "Hàn Lập (được cấp một viên qua Thăng Tiên Lệnh, tự nguyện nhường cho Diệp Tính @c146–c147; thu được 2 viên thật từ Lục sư huynh @c170)"],
+      trangThai: "lưu thông trong giới tu tiên; Hoàng Phong Cốc cấp theo ưu tiên; Hàn Lập hiện giữ 2 viên thật",
+      blurb: "Đan dược tu tiên cực hiếm, hỗ trợ người tu luyện đột phá qua ngưỡng mười tầng công pháp cơ sở tiến vào Trúc Cơ kỳ. Hoàng Phong Cốc trữ hữu số lượng hạn chế, chỉ cấp cho đệ tử có tư cách (Thăng Tiên Lệnh, dị linh căn, hoặc hậu nhân Hồng Phất). Hàn Lập ban đầu nhường viên của mình cho Diệp Tính; về sau thu được 2 viên thật từ túi Lục sư huynh tại c170.",
+      detail: "Được người áo lam (Lão Tam) đề cập tại Gia Nguyên Thành: nhờ uống Trúc Cơ đan mà luyện thành mười tầng (c106). Hoàng Phong Cốc: phân chia theo thứ tự ưu tiên (người cầm Thăng Tiên Lệnh > dị linh căn > hậu nhân Hồng Phất sư thúc tổ; c144). Hàn Lập tư chất ngụy linh căn ~1% thành công, Diệp lão giả thuyết phục nhường đan đổi vật hữu dụng; giao dịch chốt tại c146, chính thức hoàn tất tại c147. Tại c166: Lục sư huynh phát hiện hộp gỗ đỏ trong đồ Trần sư muội chứa bình xanh đựng 2 viên Trúc Cơ đan thật. Tại c170: Hàn Lập thu bình xanh này từ túi Lục sư huynh sau khi hắn chết — lần đầu Hàn Lập thực sự sở hữu Trúc Cơ đan.",
+      nguon: ["c0106", "c0144", "c0145", "c0146", "c0147", "c0166", "c0170"]
     },
     {
       id: "oanh-huong-hoan",
@@ -4188,13 +4188,117 @@ window.LIB_DATA["pham-nhan-tu-tien"].artifacts = {
       blurb: "Đan lô màu bạc nhỏ nhắn, tinh phẩm trong các đan lô của Hứa lão, thượng phẩm pháp khí. Hàn Lập chọn vì nhỏ gọn, tiết kiệm không gian túi trữ vật. Dùng để luyện đan dược tại huyền dương hỏa địa.",
       detail: "Mua từ Hứa lão tại Nhạc Lộc điện giá 32 linh thạch cấp thấp sau khi mặc cả tại c156. Hứa lão giới thiệu là tinh phẩm bảo bối hạng nhất; Hàn Lập chọn cái nhỏ nhất trong số đan lô được giới thiệu vì lo không gian túi trữ vật có hạn. Tổng cộng Hàn Lập tiêu 50 linh thạch trong lần tiếp xúc Hứa lão (2 phí đọc + 20 phí phục chế + 32 đỉnh lô).",
       nguon: ["c0156"]
+    },
+    {
+      id: "huyen-thiet-phi-thien-thuan",
+      name: "Huyền thiết phi thiên thuẫn",
+      cn: null,
+      category: "phap-khi",
+      categoryLabel: "Pháp khí — khiên phi hành",
+      phamCap: "Tu tiên (cấp chưa xác định)",
+      soHuu: ["Hàn Lập (mua tại Vạn Bảo Lâu @c163–c165)"],
+      trangThai: "đang giữ",
+      blurb: "Khiên phi hành pháp khí mua tại Vạn Bảo Lâu phường thị Hoàng Phong Cốc. Vừa phòng thủ vừa có thể tấn công, di chuyển được trong không trung. Hàn Lập dùng làm lớp giữa trong ba lớp phòng thủ khi đối đầu Lục sư huynh.",
+      detail: "Một trong ba pháp khí được Vạn Bảo Lâu giới thiệu cùng Kim phù tử mẫu đao và Thiên lôi tử. Hàn Lập thích nhất trong số ba do tính năng phòng thủ linh hoạt. Mua cùng toàn bộ hộp gấm bằng 2 gốc linh thảo ngàn năm. Thực chiến c167: làm lớp giữa ba lớp phòng thủ (Tinh cương cự hoàn ngoài + Huyền thiết thuẫn giữa + lam hào quang trong) trước Phong tường thuật của Lục sư huynh.",
+      nguon: ["c0163", "c0164", "c0165", "c0167"]
+    },
+    {
+      id: "tinh-cuong-hoan",
+      name: "Tinh cương hoàn / Tinh cương cự hoàn",
+      cn: null,
+      category: "phap-khi",
+      categoryLabel: "Pháp khí — phòng thủ",
+      phamCap: "Tu tiên (cấp chưa xác định)",
+      soHuu: ["Hàn Lập"],
+      trangThai: "vỡ @c168 — bị phá bởi Phong tường thuật",
+      blurb: "Vòng pháp khí phòng thủ của Hàn Lập; khi mở rộng thành Tinh cương cự hoàn bao bọc toàn thân. Hàn Lập dùng làm lớp ngoài cùng trong trận ác đấu với Lục sư huynh, chịu đòn Phong tường thuật nhưng cuối cùng vỡ.",
+      detail: "Dùng thực chiến c167–c168: làm lớp ngoài cùng trong ba lớp phòng thủ (cự hoàn ngoài + Huyền thiết thuẫn giữa + lam hào quang trong). Vỡ tại c168 trước uy lực Phong tường thuật của Lục sư huynh.",
+      nguon: ["c0167", "c0168"]
+    },
+    {
+      id: "kim-quang-chuyen-phu-bao",
+      name: "Kim Quang Chuyên phù bảo",
+      cn: null,
+      category: "phu-bao",
+      categoryLabel: "Phù bảo",
+      phamCap: "Phù bảo — Kết Đan kỳ luyện chế",
+      soHuu: ["Vạn Bảo Lâu (bán) → Hàn Lập (mua @c164–c165)"],
+      trangThai: "hóa tro hoàn toàn @c170 — hỏng không thể dùng",
+      blurb: "Phù bảo dạng hộp nhỏ ngũ sắc phát quang, mua tại Vạn Bảo Lâu. Khi kích hoạt hóa thành cự kiếm xám dài 2–3 trượng, uy lực khổng lồ. Ai cũng dùng được; tiền-Trúc-Cơ phát huy 1–2 thành; hậu Trúc-Cơ phát huy toàn bộ. Dùng thực chiến c167–c169, chém đôi Lục sư huynh; hóa tro sau trận.",
+      detail: "Điền Bặc Ly giải thích nguyên lý phù bảo tại c164: do Kết Đan kỳ luyện chế, ai dùng cũng được; trước Trúc Cơ 1–2 thành uy lực, sau Trúc Cơ toàn bộ; số lần sử dụng/tuổi thọ hữu hạn. Hàn Lập kích hoạt c167: hóa cự kiếm xám 2–3 trượng chặn Thanh giao Lục sư huynh. Sau trận c169: Lục sư huynh chết, phù bảo ánh sáng ảm đạm vì pháp lực gần cạn. Tại c170: hóa tro hoàn toàn.",
+      nguon: ["c0164", "c0165", "c0167", "c0168", "c0169", "c0170"]
+    },
+    {
+      id: "thanh-giao-ky",
+      name: "Thanh giao kỳ",
+      cn: null,
+      category: "phap-khi",
+      categoryLabel: "Pháp khí — kỳ phách phong hệ",
+      phamCap: "Tu tiên (cấp chưa xác định — phong linh căn phù hợp)",
+      soHuu: ["Lục sư huynh → Hàn Lập (thu @c170)"],
+      trangThai: "đang giữ — Hàn Lập thu từ Lục sư huynh @c170",
+      blurb: "Pháp khí phong thuộc tính của Lục sư huynh. Kích hoạt tuyệt chiêu Hóa giao biến thành Thanh giao (hình phách phong hệ) khổng lồ. Bị cự kiếm của Hàn Lập bào mòn dần, cuối trận Lục sư huynh thu hồi pháp lực dồn đao phong thay vào. Hàn Lập thu sau khi Lục sư huynh chết.",
+      detail: "Tuyệt chiêu Hóa giao (c168): Lục sư huynh biến Thanh giao kỳ thành Thanh giao khổng lồ hình phách phong thuộc tính. Bị cự kiếm xám (phù bảo) của Hàn Lập bào mòn từ c168 đến c169, còn khoảng một trượng thì bị thu hồi. Cuối c169: Lục sư huynh thu pháp lực Thanh giao kỳ dồn đao phong lớn, Thanh giao kỳ khôi phục nguyên hình rớt xuống đất. Tại c170: Hàn Lập thu vào túi.",
+      nguon: ["c0166", "c0167", "c0168", "c0169", "c0170"]
+    },
+    {
+      id: "thien-loi-tu",
+      name: "Thiên lôi tử",
+      cn: null,
+      category: "phap-khi",
+      categoryLabel: "Pháp khí — công kích nổ",
+      phamCap: "Tu tiên (cấp chưa xác định)",
+      soHuu: ["Hàn Lập (mua tại Vạn Bảo Lâu @c163–c165)"],
+      trangThai: "đang giữ",
+      blurb: "Pháp khí công kích dạng mìn sét nổ, mua tại Vạn Bảo Lâu. Một trong ba pháp khí Hàn Lập mua cùng Huyền thiết phi thiên thuẫn và Kim phù tử mẫu đao.",
+      detail: "Xuất hiện c163: được Vạn Bảo Lâu giới thiệu cùng Kim phù tử mẫu đao và Huyền thiết phi thiên thuẫn. Hàn Lập mua khi đổi toàn bộ hộp gấm tại c165.",
+      nguon: ["c0163", "c0165"]
+    },
+    {
+      id: "kim-phu-tu-mau-dao",
+      name: "Kim phù tử mẫu đao",
+      cn: null,
+      category: "phap-khi",
+      categoryLabel: "Pháp khí — đao bay liên hoàn",
+      phamCap: "Tu tiên (cấp chưa xác định)",
+      soHuu: ["Hàn Lập (mua tại Vạn Bảo Lâu @c163–c165)"],
+      trangThai: "đang giữ",
+      blurb: "Bộ dao bay liên hoàn pháp khí (tử mẫu kết hợp), mua tại Vạn Bảo Lâu. Một trong ba pháp khí Hàn Lập mua cùng Huyền thiết phi thiên thuẫn và Thiên lôi tử.",
+      detail: "Xuất hiện c163: được Vạn Bảo Lâu giới thiệu. Hàn Lập mua khi đổi toàn bộ hộp gấm tại c165.",
+      nguon: ["c0163", "c0165"]
+    },
+    {
+      id: "hop-hoan-hoan",
+      name: "Hợp Hoan Hoàn",
+      cn: null,
+      category: "dan-duoc",
+      categoryLabel: "Đan dược — khống chế ý thức",
+      phamCap: "Tu tiên (loại đan dược tà đạo)",
+      soHuu: ["Lục sư huynh (dùng @c165)"],
+      trangThai: "đã dùng lên người Trần sư muội @c165",
+      blurb: "Đan dược khống chế ý thức, khiến người dùng mất tự chủ. Lục sư huynh dùng để cưỡng bức Trần sư muội tại c165. Trần sư muội còn trong trạng thái ảnh hưởng của Hợp Hoan đan đến c170 — tấn công Hàn Lập không có chủ ý, phải bị Định thần phù khống chế.",
+      detail: "Xuất hiện c165: Lục sư huynh dùng Hợp Hoan Hoàn lên Trần sư muội. Hiệu ứng kéo dài đến c170 — nàng tấn công Hàn Lập trong trạng thái không kiểm soát ý thức.",
+      nguon: ["c0165", "c0170"]
+    },
+    {
+      id: "hoang-tinh-chi",
+      name: "Hoàng tinh chi",
+      cn: null,
+      category: "nguyen-lieu",
+      categoryLabel: "Linh thảo — ngàn năm",
+      phamCap: "Linh thảo ngàn năm (hiếm)",
+      soHuu: ["Vạn Bảo Lâu (bán) → Hàn Lập (mua @c163–c165; dùng làm vật đổi)"],
+      trangThai: "đã dùng — dùng làm vật trao đổi lấy hộp gấm @c165",
+      blurb: "Linh thảo ngàn năm Hoàng tinh chi, được Đinh lão xác nhận thật và tuổi hơn ngàn năm. Hàn Lập dùng 2 gốc linh thảo ngàn năm (bao gồm loại này) đổi toàn bộ hộp gấm tại Vạn Bảo Lâu.",
+      detail: "Xuất hiện c163: trong một hộp gấm của Vạn Bảo Lâu. Đinh lão giám định tại c164: xác nhận Hoàng tinh chi thật, tuổi hơn ngàn năm. Hàn Lập đổi 2 gốc linh thảo ngàn năm (trong đó có Hoàng tinh chi) để mua toàn bộ hộp gấm tại c165.",
+      nguon: ["c0163", "c0164", "c0165"]
     }
   ]
 };
 
 window.LIB_DATA["pham-nhan-tu-tien"].techniques = {
   updatedAt: "2026-06-11",
-  count: 39,
+  count: 44,
   techniques: [
     {
       id: "vo-danh-khau-quyet",
@@ -4702,13 +4806,78 @@ window.LIB_DATA["pham-nhan-tu-tien"].techniques = {
       blurb: "Pháp thuật hỏa hệ sơ cấp bậc trung, thi triển rắn lửa phun về phía địch. Ngô Phong giảng dạy cho các đệ tử tại Truyền Công Các, trong đó có Hàn Lập.",
       detail: "Xuất hiện c159: Ngô Phong giảng Hỏa Xà Thuật tại Truyền Công Các. Đây là pháp thuật hỏa hệ sơ cấp bậc trung — phân cấp bậc trung trong hệ sơ cấp. Ngô Phong là người dạy, các đệ tử Luyện Khí kỳ Hoàng Phong Cốc là học viên.",
       nguon: ["c0159"]
+    },
+    {
+      id: "liem-khi-thuat",
+      name: "Liễm khí thuật",
+      cn: null,
+      loai: "phap-thuat",
+      loaiLabel: "Pháp thuật — ẩn lực",
+      phamCap: "Sơ cấp phụ trợ",
+      hePhai: "Hoàng Phong Cốc (Ngô Phong truyền)",
+      soHuu: ["Hàn Lập (học từ Ngô Phong @c161)"],
+      blurb: "Thuật thu giấu pháp lực, làm bản thân trông như người phàm hoặc đệ tử pháp lực yếu. Ngô Phong truyền cho Hàn Lập trước khi hắn vào phường thị chuẩn bị Huyết Cấm Thí Luyện — giúp tránh bị cao thủ tiêu diệt trước vì lộ pháp lực.",
+      detail: "Hàn Lập học từ Ngô Phong tại c161. Mục đích thực tế: giảm rủi ro trong môi trường Huyết Cấm Thí Luyện và phường thị đông đảo tu tiên giả.",
+      nguon: ["c0161"]
+    },
+    {
+      id: "phong-tuong-thuat",
+      name: "Phong tường thuật",
+      cn: null,
+      loai: "phap-thuat",
+      loaiLabel: "Pháp thuật — phong hệ tấn công/phòng thủ",
+      phamCap: "Cao cấp (phù vàng cấp cao) — phong linh căn",
+      hePhai: "Không rõ — phong linh căn chuyên dùng",
+      soHuu: ["Lục sư huynh"],
+      blurb: "Pháp thuật phong hệ của Lục sư huynh, dùng từ phù vàng cấp cao. Tạo tường gió lốc xoáy uy lực lớn. Dùng trong ác đấu c167–c168, phá vỡ Tinh cương cự hoàn của Hàn Lập.",
+      detail: "Xuất hiện c167: Lục sư huynh dùng phong phược thuật + Phong tường thuật phản công. Tại c168: Phong tường thuật phá vỡ Tinh cương cự hoàn lớp ngoài của Hàn Lập.",
+      nguon: ["c0167", "c0168"]
+    },
+    {
+      id: "hoa-giao",
+      name: "Hóa giao (tuyệt chiêu Thanh giao kỳ)",
+      cn: null,
+      loai: "phap-thuat",
+      loaiLabel: "Tuyệt chiêu pháp khí — phong hệ",
+      phamCap: "Tuyệt chiêu pháp khí cấp cao — phong linh căn",
+      hePhai: "Không rõ — chuyên phối hợp với Thanh giao kỳ",
+      soHuu: ["Lục sư huynh"],
+      blurb: "Tuyệt chiêu của Lục sư huynh: kích hoạt Thanh giao kỳ biến thành Thanh giao khổng lồ (hình phách phong thuộc tính), uy lực cực mạnh. Bị cự kiếm xám (phù bảo) của Hàn Lập chặn đứng và bào mòn dần đến c169.",
+      detail: "Xuất hiện c168: Lục sư huynh dùng Hóa giao khi thế bất lợi. Thanh giao kỳ biến thành Thanh giao dài khổng lồ ánh sáng xanh. Hai bên giằng co: cự kiếm xám vs Thanh giao. Thanh giao bị bào mòn từ c168 đến c169, còn ~một trượng thì Lục sư huynh thu hồi.",
+      nguon: ["c0168", "c0169"]
+    },
+    {
+      id: "thuy-trao-thuat",
+      name: "Thủy tráo thuật",
+      cn: null,
+      loai: "phap-thuat",
+      loaiLabel: "Pháp thuật — thủy hệ phòng thủ/trói buộc",
+      phamCap: "Sơ cấp thủy hệ",
+      hePhai: null,
+      soHuu: ["Hàn Lập"],
+      blurb: "Pháp thuật thủy hệ Hàn Lập dùng phòng thủ trước cuộc tấn công của Lục sư huynh. Điểm kỳ lạ là dù đã kích hoạt xong, pháp thuật vẫn tiêu hao pháp lực liên tục qua 'linh tuyến' — điểm yếu này Hàn Lập nhận ra và dừng thuật để tiết kiệm pháp lực trong khi địch cũng mất lực tương tự.",
+      detail: "Xuất hiện c166: Hàn Lập triển khai Thủy tráo phù / Thủy tráo thuật phòng thủ. Tại c169–c170: nhớ lại bài học linh tuyến — pháp thuật đã kích hoạt vẫn tiếp tục rút pháp lực; Hàn Lập dừng Thủy tráo thuật để tiết kiệm pháp lực trong khi Lục sư huynh không biết và vẫn bị rút lực. Đây là bí quyết giúp Hàn Lập thắng.",
+      nguon: ["c0166", "c0169", "c0170"]
+    },
+    {
+      id: "dinh-than-thuat",
+      name: "Định Thần thuật",
+      cn: null,
+      loai: "phap-thuat",
+      loaiLabel: "Pháp thuật — khống chế",
+      phamCap: "Sơ cấp (từ bí tịch Trường Xuân công hoặc phù lục tương đương)",
+      hePhai: "Trường Xuân công / Định thần phù",
+      soHuu: ["Hàn Lập"],
+      blurb: "Pháp thuật khống chế thân thể mục tiêu — cùng tác dụng với Định thần phù. Hàn Lập dùng tại c170 để khống chế Trần sư muội đang mất kiểm soát do Hợp Hoan đan, đưa nàng đến nơi an toàn.",
+      detail: "Xuất hiện c170: Hàn Lập dùng Định thần phù / Định Thần thuật khống chế Trần sư muội. Ghi chú: Định thần phù là phù lục biến thể, Định Thần thuật là pháp thuật trực tiếp; cả hai cùng mục đích. Hàn Lập chưa luyện thành Định thần phù từ trước (c75) nhưng đến c170 dùng được thuật.",
+      nguon: ["c0170"]
     }
   ]
 };
 
 window.LIB_DATA["pham-nhan-tu-tien"].map = {
   updatedAt: "2026-06-11",
-  count: 55,
+  count: 57,
   nodes: [
     {
       id: "kinh-chau",
@@ -5289,9 +5458,9 @@ window.LIB_DATA["pham-nhan-tu-tien"].map = {
       capDo: "kien-truc",
       parentId: "vu-quan-son",
       blurb: "Điện kho đan phương lớn của Hoàng Phong Cốc tại Vu Quân sơn. Lầu một có bàn đá dài và lão giả phụ trách (Hứa lão). Lầu hai là tàng thư: y thư, trúc giản đan phương, và 2 ngọc đồng — phí đọc 1 linh thạch/canh giờ. Bên trong có thông đạo không có biển báo dẫn xuống huyền dương hỏa địa.",
-      detail: "Xuất hiện c153–c156: Hàn Lập đến Nhạc Lộc điện qua Truyền tống trận, gặp Hứa lão phụ trách (c154). Lầu hai có y thư, trúc giản và 2 ngọc đồng: ngọc xanh = Trúc Cơ đan (c155), ngọc đỏ = Định nhan đan (c155) — tổng 2 linh thạch phí đọc. Hứa lão tiết lộ địa phế chi hỏa thay tiên thiên chân hỏa (c156). Thông đạo bên trong không có biển báo dẫn xuống huyền dương hỏa địa (c156) — Hàn Lập mua Ngân Ti đỉnh 32 linh thạch, tổng chi 50 linh thạch.",
+      detail: "Xuất hiện c153–c156: Hàn Lập đến Nhạc Lộc điện qua Truyền tống trận, gặp Hứa lão phụ trách (c154). Lầu hai có y thư, trúc giản và 2 ngọc đồng: ngọc xanh = Trúc Cơ đan (c155), ngọc đỏ = Định nhan đan (c155) — tổng 2 linh thạch phí đọc. Hứa lão tiết lộ địa phế chi hỏa thay tiên thiên chân hỏa (c156). Thông đạo bên trong không có biển báo dẫn xuống huyền dương hỏa địa (c156) — Hàn Lập mua Ngân Ti đỉnh 32 linh thạch, tổng chi 50 linh thạch. Đề cập tại c161: Ngô Phong hỏi về kế hoạch Hàn Lập sau khi thăm Nhạc Lộc điện.",
       theLucLienQuan: ["Hoàng Phong Cốc"],
-      nguon: ["c0153", "c0154", "c0155", "c0156"]
+      nguon: ["c0153", "c0154", "c0155", "c0156", "c0161"]
     },
     {
       id: "huyen-duong-hoa-dia",
@@ -5314,13 +5483,35 @@ window.LIB_DATA["pham-nhan-tu-tien"].map = {
       detail: "Tiết lộ tại c160: Ngô Phong giải thích cơ chế Huyết Cấm Thí Luyện cho Hàn Lập. Cấm địa có cổ cấm phong hệ từ thời xa xưa, định kỳ 5 năm một lần mới bị cao nhân Kết Đan kỳ phá mở, và chỉ duy trì 5 ngày trước khi cổ cấm phục hồi. Trong khoảng thời gian đó chỉ tu sĩ Luyện Khí kỳ mới có thể tiến vào — Trúc Cơ kỳ trở lên bị cấm địa cự tuyệt. Tỷ lệ tử vong khoảng 3/4 số người vào. Kỳ Huyết Cấm Thí Luyện tiếp theo sẽ diễn ra khoảng nửa năm sau c160. Hàn Lập tiến thoái lưỡng nan: cần tài nguyên nhưng rủi ro cực cao.",
       theLucLienQuan: ["Hoàng Phong Cốc"],
       nguon: ["c0160"]
+    },
+    {
+      id: "phuong-thi-hoang-phong-coc",
+      name: "Phường thị Hoàng Phong Cốc",
+      cn: null,
+      capDo: "khu-vuc",
+      parentId: "hoang-phong-coc-dia",
+      blurb: "Khu chợ/phường thị của Hoàng Phong Cốc, nơi tu tiên giả mua bán vật phẩm. Hàn Lập ra đây trước khi vào Huyết Cấm Thí Luyện để sắm đồ chuẩn bị. Có nhiều cửa hàng bán vật phẩm tu tiên, trong đó có Vạn Bảo Lâu.",
+      detail: "Xuất hiện c161–c162: Hàn Lập đến phường thị chuẩn bị cho Huyết Cấm Thí Luyện. Vào Vạn Bảo Lâu — lầu thương hội tu tiên — để mua pháp khí và phù bảo.",
+      theLucLienQuan: ["Hoàng Phong Cốc", "Vạn Bảo Lâu"],
+      nguon: ["c0161", "c0162"]
+    },
+    {
+      id: "van-bao-lau",
+      name: "Vạn Bảo Lâu",
+      cn: null,
+      capDo: "kien-truc",
+      parentId: "phuong-thi-hoang-phong-coc",
+      blurb: "Lầu thương hội tu tiên trong phường thị Hoàng Phong Cốc. Chưởng quỹ là Điền Bặc Ly (người thường). Bán pháp khí, phù bảo, linh thảo qua hệ thống hộp gấm có cơ chế phòng thủ pháp lực. Hàn Lập mua toàn bộ hộp gấm bằng 2 gốc linh thảo ngàn năm.",
+      detail: "Xuất hiện c162–c165: cơ chế an toàn hộp gấm — hai luồng pháp lực, an toàn với Trúc Cơ kỳ trở lên. Đinh lão giám định dược được triệu đến xác nhận Hoàng tinh chi. Các vật phẩm bán: Kim phù tử mẫu đao, Huyền thiết phi thiên thuẫn, Thiên lôi tử, Kim Quang Chuyên phù bảo, Hoàng tinh chi — tất cả đổi với 2 gốc linh thảo ngàn năm.",
+      theLucLienQuan: ["Hoàng Phong Cốc"],
+      nguon: ["c0162", "c0163", "c0164", "c0165"]
     }
   ]
 };
 
 window.LIB_DATA["pham-nhan-tu-tien"].factions = {
   updatedAt: "2026-06-11",
-  count: 23,
+  count: 25,
   factions: [
     {
       id: "that-huyen-mon",
@@ -5597,6 +5788,30 @@ window.LIB_DATA["pham-nhan-tu-tien"].factions = {
       blurb: "Gia tộc tu tiên cổ xưa tọa lạc tại Tần Diệp lĩnh, từng được Hoàng Phong Cốc cấp Thăng Tiên Lệnh. Bị Diệp gia thôn tính; nam đinh cuối cùng (người họ Chu) bỏ trốn với Thăng Tiên Lệnh. Sau khi Chu Nho chết c93, Tần gia thực tế đã tuyệt tự.",
       detail: "Được làm rõ tại c141: Chu Nho thực ra không phải Tần gia mà là người họ Chu — nam đinh duy nhất còn sống của Tần gia. Tần gia từng nắm giữ Thăng Tiên Lệnh — lệnh bài bảo chứng Hoàng Phong Cốc sẽ cấp Trúc Cơ đan. Diệp gia chiếm lĩnh Tần Diệp lĩnh và thôn tính Tần gia; Chu Nho bỏ trốn mang theo Thăng Tiên Lệnh. Sau khi Hàn Lập giết Chu Nho và nộp Thăng Tiên Lệnh cho Hoàng Phong Cốc (c144–145), Tần gia chính thức mất hết di sản.",
       nguon: ["c0141", "c0144"]
+    },
+    {
+      id: "van-bao-lau-faction",
+      name: "Vạn Bảo Lâu",
+      cn: null,
+      type: "thuong-lau",
+      typeLabel: "Thương lâu tu tiên",
+      diaBan: "Phường thị Hoàng Phong Cốc",
+      nhanVatChinh: ["Điền Bặc Ly (chưởng quỹ)", "Đinh lão (giám định dược)"],
+      blurb: "Lầu thương hội tu tiên tại phường thị Hoàng Phong Cốc, chuyên bán pháp khí và vật phẩm tu tiên. Cơ chế bán hàng độc đáo: dùng hộp gấm với phòng thủ pháp lực, chỉ Trúc Cơ kỳ trở lên mới an toàn mở được. Hàn Lập giao dịch tại đây trước Huyết Cấm Thí Luyện.",
+      detail: "Xuất hiện c162–c165. Điền Bặc Ly — chưởng quỹ người thường. Đinh lão — giám định dược người thường. Hàn Lập mua: Kim phù tử mẫu đao, Huyền thiết phi thiên thuẫn, Thiên lôi tử, Kim Quang Chuyên phù bảo, Hoàng tinh chi — đổi bằng 2 gốc linh thảo ngàn năm.",
+      nguon: ["c0162", "c0163", "c0164", "c0165"]
+    },
+    {
+      id: "tran-gia",
+      name: "Trần gia",
+      cn: null,
+      type: "gia-toc",
+      typeLabel: "Gia tộc tu tiên",
+      diaBan: "Không rõ — Việt quốc",
+      nhanVatChinh: ["Trần sư muội (con gái gia chủ)"],
+      blurb: "Gia tộc có quan hệ với Hoàng Phong Cốc qua Trần sư muội — đệ tử đang tu luyện trong cốc. Con gái gia chủ Trần gia là Trần sư muội, nạn nhân của Lục sư huynh.",
+      detail: "Đề cập tại c165–c166: Trần sư muội là con gái gia chủ Trần gia. Lục sư huynh dùng Hợp Hoan đan cưỡng bức nàng nhằm lấy 2 viên Trúc Cơ đan thật trong túi nàng. Cái tên Trần gia xuất hiện như bối cảnh thân phận Trần sư muội.",
+      nguon: ["c0165", "c0166"]
     }
   ]
 };
@@ -5627,9 +5842,9 @@ window.LIB_DATA["pham-nhan-tu-tien"].volumes = {
     {
       value: "q02",
       label: "Quyển 2",
-      range: "Ch.100 – 160",
+      range: "Ch.100 – 170",
       title: "Gia Nguyên Thành",
-      summary: "Hàn Lập và Khúc Hồn đặt chân tới Gia Nguyên Thành — cố hương của Mặc đại phu — sau ba tháng đi thuyền. Tới Lam Châu thực hiện di thư Mặc đại phu: giải âm hàn chi độc bằng Noãn dương bảo ngọc đang ở Mặc phủ. Thu phục Tôn nhị cẩu làm tai mắt, đột nhập Mặc phủ ban đêm, ra mặt với Nghiêm thị dưới danh nghĩa đệ tử Mặc đại phu. Đàm phán căng thẳng với các phu nhân — phá mê dược thiên nhân túy, kể lại chân tướng Mặc đại phu, lên kế hoạch thâu tóm Tứ bình bang để tiếp cận Thần tiên đại hội gần Gia Nguyên. Sau khi nhập môn Hoàng Phong Cốc, Hàn Lập nhận nhiệm vụ trông coi Bách Dược Viên — bí mật chôn bình thần bí để tăng tốc trồng linh dược, đột phá Trường Xuân công tầng 11, tìm ra con đường luyện Trúc Cơ đan qua địa phế chi hỏa tại Nhạc Lộc điện, và nhận tin về Huyết Cấm Thí Luyện.",
+      summary: "Hàn Lập và Khúc Hồn đặt chân tới Gia Nguyên Thành — cố hương của Mặc đại phu — sau ba tháng đi thuyền. Tới Lam Châu thực hiện di thư Mặc đại phu: giải âm hàn chi độc bằng Noãn dương bảo ngọc đang ở Mặc phủ. Thu phục Tôn nhị cẩu làm tai mắt, đột nhập Mặc phủ ban đêm, ra mặt với Nghiêm thị dưới danh nghĩa đệ tử Mặc đại phu. Đàm phán căng thẳng với các phu nhân — phá mê dược thiên nhân túy, kể lại chân tướng Mặc đại phu, lên kế hoạch thâu tóm Tứ bình bang để tiếp cận Thần tiên đại hội gần Gia Nguyên. Sau khi nhập môn Hoàng Phong Cốc, Hàn Lập nhận nhiệm vụ trông coi Bách Dược Viên — bí mật chôn bình thần bí để tăng tốc trồng linh dược, đột phá Trường Xuân công tầng 11, tìm ra con đường luyện Trúc Cơ đan qua địa phế chi hỏa tại Nhạc Lộc điện, nhận tin về Huyết Cấm Thí Luyện. Khép lại Quyển 2 bằng trận ác đấu với Lục sư huynh trong phường thị — Hàn Lập thắng nhờ mưu trí, lần đầu sở hữu 2 viên Trúc Cơ đan thật.",
       milestones: [
         "Ch.100: Hàn Lập tới Gia Nguyên Thành, Lam Châu — mở đầu Quyển 2",
         "Ch.103: Giết Hắc Hùng — thu phục Tôn nhị cẩu bằng Hủ tâm hoàn",
@@ -5645,7 +5860,10 @@ window.LIB_DATA["pham-nhan-tu-tien"].volumes = {
         "Ch.151: Nhận Bách Dược Viên — bí mật chôn bình thần bí, dùng Tàn Phiến phủ che",
         "Ch.152: Đột phá Trường Xuân công tầng 11 (tiền-Trúc-Cơ) sau 2 năm khổ tu",
         "Ch.155–156: Phát hiện công thức Trúc Cơ đan tại Nhạc Lộc điện; Hứa lão tiết lộ địa phế chi hỏa thay tiên thiên chân hỏa; mua Ngân Ti đỉnh",
-        "Ch.160: Ngô Phong tiết lộ Huyết Cấm Thí Luyện — cấm địa 5 năm một lần, tỷ lệ chết 3/4"
+        "Ch.160: Ngô Phong tiết lộ Huyết Cấm Thí Luyện — cấm địa 5 năm một lần, tỷ lệ chết 3/4",
+        "Ch.161: Quyết định tham gia Huyết Cấm Thí Luyện; học Liễm khí thuật từ Ngô Phong",
+        "Ch.165–169: Tình cờ chứng kiến Lục sư huynh hại Trần sư muội; bị cưỡng bức đối đầu; ác đấu ba chương hạ Lục sư huynh",
+        "Ch.170: Phù bảo hóa tro; thu 2 viên Trúc Cơ đan thật — mục tiêu dài hạn lần đầu đạt được"
       ]
     }
   ]
@@ -6454,6 +6672,56 @@ window.LIB_DATA["pham-nhan-tu-tien"].cotTruyen = {
       chuong: 160,
       tieuDe: "Huyết Cấm Thí Luyện",
       tomTat: "Ngô Phong giữ lại Hàn Lập sau buổi giảng, tiết lộ về Huyết Cấm Thí Luyện: cấm địa cổ đại sau Hoàng Phong Cốc mang cổ cấm phong hệ, 5 năm một lần bị Kết Đan kỳ phá mở trong 5 ngày. Chỉ tu sĩ Luyện Khí kỳ được vào; tỷ lệ tử vong xấp xỉ 3/4. Bên trong có thứ gì đó rất giá trị — người sống sót thường tiến bộ vượt bậc. Kỳ tiếp theo diễn ra khoảng nửa năm nữa. Ngô Phong gợi ý Hàn Lập tham gia. Hàn Lập tiến thoái lưỡng nan: cần tài nguyên nhưng rủi ro cực cao, không biết bên trong có gì giúp luyện Trúc Cơ đan không."
+    },
+    {
+      chuong: 161,
+      tieuDe: "Phường Thị",
+      tomTat: "Sau mấy đêm suy tính, Hàn Lập quyết tâm tham gia Huyết Cấm Thí Luyện. Xác nhận lần cuối tại Nhạc Lộc điện: không còn đường tìm chủ dược nào khác. Lên kế hoạch chuẩn bị nửa năm: học thêm pháp thuật từ Ngô Phong, mua pháp khí và phù lục cao cấp tại phường thị bên ngoài môn phái. Chọn học Liễm khí thuật — phụ trợ bậc trung thu giấu pháp lực, thực dụng hơn Ẩn nặc thuật khi đối phó tu sĩ Luyện Khí kỳ. Khổ tu Liễm khí thuật ban ngày, dùng lục dịch nuôi linh thảo ban đêm — chuẩn bị dược liệu ngàn năm để mang đi giao dịch."
+    },
+    {
+      chuong: 162,
+      tieuDe: "Vạn Bảo Lâu",
+      tomTat: "Hàn Lập tới phường thị Hoàng Phong Cốc dưới giả danh 'Lệ huynh', đội nón che mặt, vào từ cửa Bắc. Chọn Vạn Bảo Lâu — lầu thương hội tu tiên lớn nhất, đông khách nhất. Gặp Điền Bặc Ly — chưởng quỹ người thường, thanh nhã lão luyện. Yêu cầu xem bảo vật tốt nhất. Khi Điền chưởng quỹ mở hộp gấm, Hàn Lập phát hiện hai luồng pháp lực vô hình áp lên linh hồn — cơ chế phòng thủ của Vạn Bảo Lâu đề phòng cướp bảo vật, chỉ an toàn với tu sĩ Trúc Cơ kỳ trở lên."
+    },
+    {
+      chuong: 163,
+      tieuDe: "Cẩm Hạp Chi Bảo",
+      tomTat: "Điền chưởng quỹ giới thiệu ba pháp khí: Kim phù tử mẫu đao (bộ đao mẹ-con), Huyền thiết phi thiên thuẫn (khiên phi hành), Thiên lôi tử (cầu lôi nổ uy lực đủ giết Trúc Cơ kỳ). Hàn Lập thích nhất Huyền thiết thuẫn — tự động bay che chở, đúng thứ cần cho Huyết Cấm. Điền chưởng quỹ giữ lại một hộp gấm cuối, thử ép Hàn Lập lộ thực lực. Hàn Lập lấy gốc Hoàng tinh chi (linh thảo ngàn năm) ra đặt im lặng. Điền chưởng quỹ kinh ngạc, sai gọi Đinh lão — chuyên gia giám định dược — lên thẩm định."
+    },
+    {
+      chuong: 164,
+      tieuDe: "Phù Bảo Chi Bí",
+      tomTat: "Đinh lão giám định kỹ càng, cam đoan Hoàng tinh chi là thật, tuổi hơn ngàn năm, dược tính còn nguyên. Điền chưởng quỹ đề nghị đổi công bằng: một gốc linh thảo ngàn năm lấy hai kiện pháp khí trong hộp đầu, hoặc một kiện trong hộp cuối. Hàn Lập yêu cầu xem hộp cuối cùng — bên trong là Kim Quang Chuyên phù bảo: tấm phù lục kim quang lập lòe, dạng hộp nhỏ ngũ sắc. Hàn Lập nhận ra giống phù lục tiểu kiếm xám của mình. Điền chưởng quỹ giải thích toàn bộ cơ chế phù bảo: Kết Đan kỳ luyện chế, ai cũng dùng được; tiền-Trúc-Cơ 1–2 thành uy lực; hậu Trúc Cơ toàn bộ; số lần hữu hạn."
+    },
+    {
+      chuong: 165,
+      tieuDe: "Dạ Ngộ",
+      tomTat: "Hàn Lập quyết định mua trọn tất cả hộp gấm: dùng 2 gốc linh thảo ngàn năm đổi lấy toàn bộ — Kim phù tử mẫu đao, Huyền thiết phi thiên thuẫn, Thiên lôi tử, Kim Quang Chuyên phù bảo, Hoàng tinh chi. Sau giao dịch, trốn đi vòng vèo ba bốn ngày phòng bị theo dõi. Chập tối vào thạch động núi nghỉ ngơi. Quá nửa đêm nghe tiếng động ngoài — Lục sư huynh áo trắng đang dùng Hợp Hoan đan cưỡng bức Trần sư muội — chính tình nhân của hắn. Hàn Lập nhìn trộm, thấy Lục sư huynh lục được hộp gỗ đỏ bí ẩn trong đồ Trần sư muội."
+    },
+    {
+      chuong: 166,
+      tieuDe: "Ngoan Độc",
+      tomTat: "Lục sư huynh tiết lộ động cơ tàn ác: cô gái họ Đổng hứa gả nếu hắn đoạn tuyệt Trần sư muội và song tu; nhờ bà cô tổ Hồng Phất sư thúc tổ thu nhận. Hộp gỗ đỏ chứa bình xanh với 2 viên Trúc Cơ đan thật. Hàn Lập động lòng tham, định tập kích. Nhưng phát hiện kịp Lục sư huynh (tầng 12 trung giai, phong linh căn) đã bày bẫy — giả vờ cởi đai lưng, thực ra đã phát hiện Hàn Lập nấp gần. Hàn Lập kịp vỗ phù Thủy tráo, chặn dây thừng xanh (Phong phược thuật) tập kích. Hai người lộ diện, đối mặt."
+    },
+    {
+      chuong: 167,
+      tieuDe: "Ác Đấu (Thượng)",
+      tomTat: "Hàn Lập chủ động ra tay trước: phóng Tinh cương hoàn + cầu đen từ hồ lô + hỏa cầu liên hoàn. Lục sư huynh dùng Phong tường thuật từ phù vàng cấp cao — cơn lốc trắng cao vài chục trượng nuốt tất cả đòn tấn công. Hàn Lập biến sắc; hỏa cầu vòng qua cũng bị tường gió chặn và nuốt. Hàn Lập xây ba lớp phòng thủ đề phòng đợt phản công: Tinh cương cự hoàn lớp ngoài + Huyền thiết phi thiên thuẫn lớp giữa + lam hào quang Kim Cương phù lớp trong. Quyết định chờ thời cơ dùng Kim Quang Chuyên phù bảo."
+    },
+    {
+      chuong: 168,
+      tieuDe: "Ác Đấu (Trung)",
+      tomTat: "Tinh cương cự hoàn vỡ trước Phong tường thuật. Lục sư huynh tung tuyệt chiêu Hóa giao: Thanh giao kỳ biến thành Thanh giao khổng lồ lao vào. Hàn Lập kích hoạt Kim Quang Chuyên phù bảo: hóa cự kiếm xám 2–3 trượng chặn đứng Thanh giao. Xác nhận pháp lực Hàn Lập tương đương tầng 11. Trận biến thành cuộc tiêu hao lâu dài — hai bên đều móc linh thạch bổ sung; Lục sư huynh kinh ngạc khi Hàn Lập dùng linh thạch bậc trung (chuẩn Trúc Cơ kỳ mới có)."
+    },
+    {
+      chuong: 169,
+      tieuDe: "Ác Đấu (Hạ)",
+      tomTat: "Hàn Lập bí mật nhai linh thảo từ túi trữ vật duy trì pháp lực; chủ động triệt tiêu vòng bảo hộ lam dồn lực vào cự kiếm uy hiếp. Lục sư huynh không thể tạo đao phong mà không bị kiếm đe dọa — bất lực, pháp lực dần cạn. Liều chết thu Thanh giao kỳ ngưng đao phong lớn ném Hàn Lập. Hàn Lập điều cự kiếm chém thẳng đỉnh đầu Lục sư huynh, đồng thời thi triển La yên bộ tới cực hạn né đao phong. Đao phong mất khống chế cắt rãnh bùn rồi tan. Lục sư huynh bị chém bửa làm đôi — chết. Hàn Lập sống, pháp lực gần cạn."
+    },
+    {
+      chuong: 170,
+      tieuDe: "Chiến Lợi Phẩm Và Hương Diễm",
+      tomTat: "Cự kiếm (Kim Quang Chuyên phù bảo) hóa tro ngay sau trận. Hàn Lập đau đan điền vì nuốt quá nhiều linh thảo gây phản phệ. Hồi tưởng bí quyết thắng: biết 'linh tuyến' — pháp thuật đã kích hoạt vẫn rút pháp lực liên tục; hắn dừng Thủy tráo thuật tiết kiệm lực, Lục sư huynh không biết nên vẫn duy trì Phong tường và dần kiệt sức. Thu Thanh giao kỳ và bình xanh chứa 2 viên Trúc Cơ đan thật cùng hộp đan dược từ túi Lục sư huynh. Đúng lúc đó Trần sư muội (Hợp Hoan đan phát tác, Phong phược thuật vừa hết) lao ra ôm Hàn Lập cuồng loạn. Hàn Lập dùng Định thần phù / Định Thần thuật khống chế, nhẹ nhàng đặt nàng xuống."
     }
   ]
 };
