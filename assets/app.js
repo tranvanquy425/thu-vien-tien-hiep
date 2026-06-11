@@ -378,7 +378,7 @@
       (c.canhGioiCaoNhat ? '<span class="chip gold">' + esc(c.canhGioiCaoNhat) + '</span>' : '') +
       '<span class="chip">' + esc(trangThaiLabel[c.trangThai] || "") + '</span>' +
       (c.aliases && c.aliases.length ? '<span class="chip">Biệt danh: ' + c.aliases.map(esc).join(", ") + '</span>' : '') + '</div>' +
-      '<div class="prose" style="margin-bottom:10px">' + esc(c.blurb || "") + '</div>';
+      (c.blurb ? '<div class="char-blurb-scroll">' + esc(c.blurb) + '</div>' : '');
     const tabsBar = '<div class="tabs">' + tabs.map((t2, i) => '<button data-t="' + i + '"' + (i === 0 ? ' class="active"' : '') + '>' + t2[0] + '</button>').join("") + '</div>';
     const panes = tabs.map((t2, i) => '<div class="tab-pane' + (i === 0 ? ' active' : '') + '" data-p="' + i + '">' + t2[1] + '</div>').join("");
     openDrawer(c.name, c.cn, head + tabsBar + panes);   // bỏ "Neo nguồn" cuối thẻ — neo đã gắn inline trong từng mục (dữ liệu nội bộ)
