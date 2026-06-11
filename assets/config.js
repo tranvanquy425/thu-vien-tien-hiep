@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-11T14:00Z — thêm ảnh nhân vật trang chủ */
+/* sync-bump 2026-06-11T16:30Z — ảnh local assets/vl.jpg + hl.jpg */
 /* Cấu hình site Thư Viện Tiên Hiệp.
    - readerBase: URL công khai R2 chứa dữ liệu chương (index.json + chapters/).
      Khi chưa có/CORS chưa bật → web tự dùng DỮ LIỆU MẪU để xem bố cục.
@@ -10,14 +10,14 @@ window.LIB_CONFIG = {
   boList: [
     {
       slug: "tien-nghich", ten: "Tiên Nghịch", cn: "仙逆", tacGia: "Nhĩ Căn",
-      anh: "https://cdn.anime-planet.com/anime/primary/renegade-immortal-1.webp?t=1769833354",
+      anh: "assets/Vuong-lam.jpg",
       blurb: "Vương Lâm — phàm nhân tư chất tầm thường, nghịch thiên cải mệnh, bước trên con đường tu tiên đầy máu và cô độc.",
       readerBase: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/tien-nghich/reader",
       dataBase: "data/tien-nghich"
     },
     {
       slug: "pham-nhan-tu-tien", ten: "Phàm Nhân Tu Tiên", cn: "凡人修仙传", tacGia: "Vong Ngữ",
-      anh: "https://cdn.anime-planet.com/anime/primary/fanren-xiu-xian-chuan-1.webp?t=1767422675",
+      anh: "assets/Han-lap.jpg",
       blurb: "Hàn Lập — kẻ phàm nhân cẩn trọng, dựa vào Chưởng Thiên Bình thần bí mà từng bước vươn lên giữa muôn vàn hiểm cảnh tu tiên giới.",
       readerBase: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/pham-nhan-tu-tien/reader",
       dataBase: "data/pham-nhan-tu-tien",
