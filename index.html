@@ -7,6 +7,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="assets/theme.css">
+<!-- áp theme SỚM để tránh nháy (id77) -->
+<script>(function(){var t=localStorage.getItem('tvth-theme');if(t==='light')document.documentElement.setAttribute('data-theme','light');})()</script>
 </head>
 <body>
 <div class="topbar">
@@ -15,6 +17,9 @@
     <span class="brandtext"><b>Thư Viện Tiên Hiệp</b><small>Tra cứu nhân vật · sự kiện · thế lực · pháp bảo · công pháp</small></span>
   </a>
   <span class="spacer"></span>
+  <button class="theme-toggle" id="themeToggle" title="Đổi giao diện sáng/tối" aria-label="Đổi giao diện">
+    <span class="tt-icon" id="themeIcon">🌙</span><span id="themeLabel">Tối</span>
+  </button>
 </div>
 
 <div class="wrap">
@@ -28,6 +33,26 @@
 
 <script src="assets/config.js"></script>
 <script src="assets/chrome.js"></script>
+<!-- theme toggle logic (id77) -->
+<script>
+(function(){
+  function applyTheme(t){
+    if(t==='light'){document.documentElement.setAttribute('data-theme','light');}
+    else{document.documentElement.removeAttribute('data-theme');}
+    var ic=document.getElementById('themeIcon'),lb=document.getElementById('themeLabel');
+    if(ic)ic.textContent=t==='light'?'☀':'🌙';
+    if(lb)lb.textContent=t==='light'?'Sáng':'Tối';
+  }
+  var cur=localStorage.getItem('tvth-theme')||'dark';
+  applyTheme(cur);
+  var btn=document.getElementById('themeToggle');
+  if(btn)btn.addEventListener('click',function(){
+    cur=cur==='light'?'dark':'light';
+    localStorage.setItem('tvth-theme',cur);
+    applyTheme(cur);
+  });
+})();
+</script>
 <script>
   const wrap = document.getElementById("boCards");
   const esc = s => (s==null?"":String(s)).replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
