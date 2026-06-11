@@ -1,3 +1,4 @@
+<!-- sync-bump 2026-06-11T14:00Z — thêm ảnh nhân vật trang chủ -->
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -58,14 +59,20 @@
   const esc = s => (s==null?"":String(s)).replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
   (window.LIB_CONFIG.boList || []).forEach(b => {
     const a = document.createElement("a");
-    a.className = "card"; a.href = "bo.html?bo=" + b.slug;
+    a.className = "card" + (b.anh ? " card-has-img" : ""); a.href = "bo.html?bo=" + b.slug;
+    const imgHtml = b.anh
+      ? '<div class="card-img-wrap"><img class="card-img" src="' + esc(b.anh) + '" alt="' + esc(b.ten) + '" loading="lazy"></div>'
+      : '';
     a.innerHTML =
+      imgHtml +
+      '<div class="card-body">' +
       '<h3>' + esc(b.ten) + ' <span class="cn">' + esc(b.cn||"") + '</span></h3>' +
       '<div class="cn" style="font-family:var(--sans);color:var(--muted2)">Tác giả: ' + esc(b.tacGia||"—") + '</div>' +
       '<div class="blurb">' + esc(b.blurb||"") + '</div>' +
       '<div class="meta-row">' +
         '<span class="chip gold">7 mục tra cứu</span>' +
         '<span class="chip">Đọc truyện</span><span class="chip">Nhân vật</span><span class="chip">Cảnh giới</span>' +
+      '</div>' +
       '</div>';
     wrap.appendChild(a);
   });
