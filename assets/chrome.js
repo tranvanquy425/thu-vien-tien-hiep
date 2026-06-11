@@ -24,6 +24,25 @@
     anchor.parentNode.insertBefore(t.firstChild, anchor.nextSibling);
   }
 
+  // ---- global search bar: chèn sau sponsor top ----
+  const sponsorTop = document.querySelector(".sponsor:not(.foot)");
+  const searchEl = document.createElement("div");
+  searchEl.innerHTML = '<div class="global-search"><div class="gs-inner"><input class="gs-input" type="text" placeholder="Tìm nhân vật, pháp bảo, sự kiện..." aria-label="Tìm kiếm"><button class="gs-btn" aria-label="Tìm">🔍</button></div></div>';
+  const searchNode = searchEl.firstChild;
+  if (sponsorTop) {
+    sponsorTop.parentNode.insertBefore(searchNode, sponsorTop.nextSibling);
+  } else if (anchor) {
+    anchor.parentNode.insertBefore(searchNode, anchor.nextSibling);
+  }
+  const gsInput = document.querySelector(".gs-input");
+  const gsBtn = document.querySelector(".gs-btn");
+  function doSearch() {
+    const q = gsInput ? gsInput.value.trim() : "";
+    if (q) location.href = "search.html?q=" + encodeURIComponent(q);
+  }
+  if (gsInput) gsInput.addEventListener("keydown", e => { if (e.key === "Enter") doSearch(); });
+  if (gsBtn) gsBtn.addEventListener("click", doSearch);
+
   // ---- footer: bottom sponsor + donate + góp ý + copyline ----
   const diRows = (dn.info || []).map(i => '<div class="di"><span>' + esc(i.k) + '</span><b>' + esc(i.v) + '</b></div>').join("");
   const qr = dn.qrImg ? '<img class="qr" src="' + esc(dn.qrImg) + '" alt="QR trợ duyên">'
