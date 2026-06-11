@@ -1,3 +1,4 @@
+/* sync-bump 2026-06-11T14:00Z — card ảnh trang chủ */
 /* ============================================================
    THƯ VIỆN TIÊN HIỆP — theme mực · vàng · chu sa  (v2 immersive)
    Giữ nguyên tên class để app.js/bo.html chạy không đổi.
@@ -187,6 +188,12 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .grid-3{grid-template-columns:repeat(auto-fill,minmax(min(100%,240px),1fr))}
 .card{background:var(--card-bg);border:1px solid var(--line);border-radius:var(--radius);
   padding:16px 17px;transition:.16s;cursor:pointer;position:relative;overflow:hidden;min-width:0}
+/* card có ảnh (trang chủ) — bỏ padding gốc, dùng flex column */
+.card.card-has-img{padding:0;display:flex;flex-direction:column}
+.card-img-wrap{width:100%;aspect-ratio:285/399;overflow:hidden;background:var(--bg2,#111);flex-shrink:0}
+.card-img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}
+.card:hover .card-img{transform:scale(1.04)}
+.card-body{padding:16px 17px;flex:1}
 .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:linear-gradient(180deg,var(--gold),transparent);opacity:0;transition:.16s}
 .card:hover{border-color:var(--gold-soft);transform:translateY(-2px)}
 .card:hover::before{opacity:.8}
