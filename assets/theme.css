@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-11T14:00Z — card ảnh trang chủ */
+/* sync-bump 2026-06-11T18:10Z — autocomplete search + map zoom/pan */
 /* ============================================================
    THƯ VIỆN TIÊN HIỆP — theme mực · vàng · chu sa  (v2 immersive)
    Giữ nguyên tên class để app.js/bo.html chạy không đổi.
@@ -166,12 +166,35 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .sponsor .spcta:hover{text-decoration:none;filter:brightness(1.06)}
 @keyframes pulseCta{0%,100%{box-shadow:0 0 12px rgba(201,162,39,.18)}50%{box-shadow:0 0 22px rgba(231,205,132,.45)}}
 /* ---- global search bar ---- */
-.global-search{max-width:var(--maxw);margin:10px auto 0;padding:0 16px}
+.global-search{max-width:var(--maxw);margin:10px auto 0;padding:0 16px;position:relative}
 .gs-inner{display:flex;gap:0;border:1px solid var(--line-gold);border-radius:var(--radius);overflow:hidden;background:var(--card-bg)}
 .gs-input{flex:1;padding:10px 14px;border:none;background:transparent;color:var(--text);font-size:14px;font-family:var(--sans);outline:none}
 .gs-input::placeholder{color:var(--muted2)}
 .gs-btn{flex:0 0 auto;padding:10px 14px;border:none;background:transparent;color:var(--gold);font-size:16px;cursor:pointer}
 .gs-btn:hover{background:rgba(201,162,39,.1)}
+/* ---- autocomplete gợi ý live ---- */
+.gs-suggest{position:absolute;left:16px;right:16px;top:calc(100% + 4px);z-index:60;background:var(--card-bg);border:1px solid var(--line-gold);border-radius:var(--radius);box-shadow:0 10px 30px rgba(0,0,0,.45);max-height:60vh;overflow-y:auto;display:none}
+.gs-suggest.show{display:block}
+.gs-sug-group{padding:6px 12px 2px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted2);font-family:var(--sans)}
+.gs-sug{display:flex;align-items:baseline;gap:8px;padding:8px 12px;color:var(--text);text-decoration:none;cursor:pointer;border-top:1px solid var(--line)}
+.gs-sug:first-of-type{border-top:none}
+.gs-sug:hover,.gs-sug.active{background:rgba(201,162,39,.12)}
+.gs-sug-name{font-weight:600;color:var(--gold2)}
+.gs-sug-name b{color:var(--text);background:rgba(201,162,39,.28);border-radius:2px;padding:0 1px}
+.gs-sug-alias{font-size:12px;color:var(--muted2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0;flex:1}
+.gs-sug-bo{font-size:11px;color:var(--muted);flex:0 0 auto}
+.gs-sug-more{padding:8px 12px;font-size:12px;color:var(--gold);text-align:center;cursor:pointer;border-top:1px solid var(--line)}
+.gs-sug-more:hover{background:rgba(201,162,39,.1)}
+/* ---- khung phóng to/kéo cho sơ đồ Map ---- */
+.map-pan{position:relative;margin-bottom:22px;border:1px solid var(--line-gold);border-radius:var(--radius);background:var(--panel-bg);overflow:hidden}
+.map-pan-viewport{position:relative;height:420px;max-height:60vh;overflow:hidden;cursor:grab;touch-action:none}
+.map-pan-viewport.grabbing{cursor:grabbing}
+.map-pan-stage{position:absolute;top:14px;left:14px;transform-origin:0 0;will-change:transform}
+.map-pan-tools{position:absolute;top:8px;right:8px;z-index:5;display:flex;gap:4px}
+.mp-btn{width:30px;height:30px;border:1px solid var(--line-gold);border-radius:7px;background:var(--card-bg);color:var(--gold);font-size:16px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;font-family:var(--sans)}
+.mp-btn:hover{background:rgba(201,162,39,.16)}
+.map-pan-hint{position:absolute;bottom:8px;left:10px;z-index:5;font-size:11px;color:var(--muted2);font-family:var(--sans);background:var(--card-bg);padding:2px 8px;border-radius:6px;opacity:.85;pointer-events:none}
+@media(max-width:520px){.map-pan-viewport{height:340px}.map-pan-hint{display:none}}
 .sponsor.foot{margin:28px auto 0}
 
 /* ---------- layout ---------- */
