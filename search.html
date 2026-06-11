@@ -1,4 +1,4 @@
-<!-- sync-bump 2026-06-11T17:00Z -->
+<!-- sync-bump 2026-06-11T18:10Z — live search + link dẫn thẳng tới đích -->
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -106,50 +106,50 @@ function search(query) {
     const boName = b.ten;
     const boSlug = b.slug;
 
-    // Characters
+    // Characters — dẫn thẳng tới drawer tiểu sử
     if (d.characters && d.characters.chars) {
       for (const c of d.characters.chars) {
         const fields = [c.name, ...(c.aliases || []), c.vaiTro || ""];
         if (fields.some(f => normalize(f).includes(q))) {
-          results.push({ type: "Nhân vật", name: c.name, bo: boName, link: "bo.html?bo=" + boSlug + "#nhan-vat", aliases: (c.aliases||[]).join(", ") });
+          results.push({ type: "Nhân vật", name: c.name, bo: boName, link: "bo.html?bo=" + boSlug + "&char=" + encodeURIComponent(c.id) + "#nhan-vat", aliases: (c.aliases||[]).join(", ") });
         }
       }
     }
 
-    // Artifacts
+    // Artifacts — dẫn thẳng tới drawer
     if (d.artifacts && d.artifacts.artifacts) {
-      for (const a of d.artifacts.artifacts) {
+      d.artifacts.artifacts.forEach((a, i) => {
         const fields = [a.name, ...(a.aliases || [])];
         if (fields.some(f => normalize(f).includes(q))) {
-          results.push({ type: "Pháp bảo", name: a.name, bo: boName, link: "bo.html?bo=" + boSlug + "#phap-bao" });
+          results.push({ type: "Pháp bảo", name: a.name, bo: boName, link: "bo.html?bo=" + boSlug + "&artifact=" + i + "#phap-bao", aliases: (a.aliases||[]).join(", ") });
         }
-      }
+      });
     }
 
-    // Techniques
+    // Techniques — dẫn thẳng tới drawer
     if (d.techniques && d.techniques.techniques) {
-      for (const t of d.techniques.techniques) {
+      d.techniques.techniques.forEach((t, i) => {
         const fields = [t.name, ...(t.aliases || [])];
         if (fields.some(f => normalize(f).includes(q))) {
-          results.push({ type: "Công pháp", name: t.name, bo: boName, link: "bo.html?bo=" + boSlug + "#cong-phap" });
+          results.push({ type: "Công pháp", name: t.name, bo: boName, link: "bo.html?bo=" + boSlug + "&tech=" + i + "#cong-phap", aliases: (t.aliases||[]).join(", ") });
         }
-      }
+      });
     }
 
-    // Realms
+    // Realms — dẫn thẳng tới drawer
     if (d.realms && d.realms.realms) {
       for (const r of d.realms.realms) {
-        if (normalize(r.name).includes(q)) {
-          results.push({ type: "Cảnh giới", name: r.name, bo: boName, link: "bo.html?bo=" + boSlug + "#canh-gioi" });
+        if ([r.name, ...(r.aliases || [])].some(f => normalize(f).includes(q))) {
+          results.push({ type: "Cảnh giới", name: r.name, bo: boName, link: "bo.html?bo=" + boSlug + "&realm=" + encodeURIComponent(r.id) + "#canh-gioi" });
         }
       }
     }
 
-    // Map
-    if (d.map && d.map.places) {
-      for (const p of d.map.places) {
-        if (normalize(p.name).includes(q)) {
-          results.push({ type: "Địa điểm", name: p.name, bo: boName, link: "bo.html?bo=" + boSlug + "#map" });
+    // Map (địa danh) — key đúng là map.nodes; dẫn thẳng tới node
+    if (d.map && d.map.nodes) {
+      for (const p of d.map.nodes) {
+        if ([p.name, ...(p.aliases || [])].some(f => normalize(f).includes(q))) {
+          results.push({ type: "Địa điểm", name: p.name, bo: boName, link: "bo.html?bo=" + boSlug + "&place=" + encodeURIComponent(p.id) + "#map" });
         }
       }
     }
@@ -228,9 +228,10 @@ loadAllData().then(() => {
   document.getElementById("searchInput").value = q;
   if (q) doSearch();
 
-  document.getElementById("searchInput").addEventListener("keydown", e => {
-    if (e.key === "Enter") doSearch();
-  });
+  const inp = document.getElementById("searchInput");
+  let tmr = null;
+  inp.addEventListener("input", () => { clearTimeout(tmr); tmr = setTimeout(doSearch, 120); });   // lọc ngay khi gõ
+  inp.addEventListener("keydown", e => { if (e.key === "Enter") { clearTimeout(tmr); doSearch(); } });
   document.getElementById("searchBtn").addEventListener("click", doSearch);
 });
 </script>
