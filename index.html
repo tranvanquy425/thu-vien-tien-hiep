@@ -1,4 +1,4 @@
-<!-- sync-bump 2026-06-11T14:00Z — thêm ảnh nhân vật trang chủ -->
+<!-- sync-bump 2026-06-11T16:30Z — layout ảnh horizontal, dùng ảnh local -->
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -64,7 +64,6 @@
       ? '<div class="card-img-wrap"><img class="card-img" src="' + esc(b.anh) + '" alt="' + esc(b.ten) + '" loading="lazy"></div>'
       : '';
     a.innerHTML =
-      imgHtml +
       '<div class="card-body">' +
       '<h3>' + esc(b.ten) + ' <span class="cn">' + esc(b.cn||"") + '</span></h3>' +
       '<div class="cn" style="font-family:var(--sans);color:var(--muted2)">Tác giả: ' + esc(b.tacGia||"—") + '</div>' +
@@ -73,7 +72,8 @@
         '<span class="chip gold">7 mục tra cứu</span>' +
         '<span class="chip">Đọc truyện</span><span class="chip">Nhân vật</span><span class="chip">Cảnh giới</span>' +
       '</div>' +
-      '</div>';
+      '</div>' +
+      imgHtml;
     wrap.appendChild(a);
   });
 </script>
