@@ -188,12 +188,12 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .grid-3{grid-template-columns:repeat(auto-fill,minmax(min(100%,240px),1fr))}
 .card{background:var(--card-bg);border:1px solid var(--line);border-radius:var(--radius);
   padding:16px 17px;transition:.16s;cursor:pointer;position:relative;overflow:hidden;min-width:0}
-/* card có ảnh (trang chủ) — bỏ padding gốc, dùng flex column */
-.card.card-has-img{padding:0;display:flex;flex-direction:column}
-.card-img-wrap{width:100%;aspect-ratio:285/399;overflow:hidden;background:var(--bg2,#111);flex-shrink:0}
+/* card có ảnh (trang chủ) — horizontal: text trái, ảnh nhỏ bên phải */
+.card.card-has-img{padding:0;display:flex;flex-direction:row}
+.card-img-wrap{width:100px;min-height:120px;overflow:hidden;background:var(--bg2,#111);flex-shrink:0;order:2;border-left:1px solid var(--line)}
 .card-img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}
 .card:hover .card-img{transform:scale(1.04)}
-.card-body{padding:16px 17px;flex:1}
+.card-body{padding:14px 16px;flex:1;order:1;min-width:0}
 .card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:linear-gradient(180deg,var(--gold),transparent);opacity:0;transition:.16s}
 .card:hover{border-color:var(--gold-soft);transform:translateY(-2px)}
 .card:hover::before{opacity:.8}
