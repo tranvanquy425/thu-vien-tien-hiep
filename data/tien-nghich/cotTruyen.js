@@ -954,6 +954,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 210,
       tieuDe: "Trở về Triệu quốc — thề diệt Đằng gia",
       tomTat: "VL từ Tử Vân tông về Triệu quốc sau 400 năm. Đằng Hóa Nguyên nay đã đột phá Nguyên Anh hậu kỳ; Phác Nam Tử đạt Nguyên Anh hậu kỳ năm ngoái; Vương Trác (anh họ VL) Kết Đan hậu kỳ, lấy Đằng Tú Tú (thân quyến Đằng gia). Triệu quốc nay là tu chân quốc cấp hai do Đằng gia thao túng. Tiểu thư Vương gia (phàm nhân, hậu duệ VL) thân yếu sống lay lắt. VL đứng trước linh bài cha mẹ, nước mắt rơi, thề tận diệt Đằng gia. (@c0210)"
+    },
+    {
+      chuong: 211,
+      tieuDe: "Về Chốn Cũ",
+      tomTat: "Vương Lâm trở về cố trạch Vương gia ở Triệu quốc, gặp nữ hậu duệ của Tứ thúc Vương Thiên Thổ (đã thọ 98 tuổi và có hậu). Hắn trị chứng khí chí âm bẩm sinh cho nàng, ban 72 hạt đan dược và một ngọc giản hộ mệnh lưu tia Cực Cảnh thần thức (mở bằng huyết họ Vương, dùng 3 lần, truyền đời) để báo ân Tứ thúc. Sau đó chuyển sát khí: dùng thần thông gọi hồn (học từ ký ức cổ thần Đồ Ti) triệu hồn phách Đằng Lệ định vị toàn bộ huyết thống Đằng gia khắp Triệu quốc; cắm 16 trận kỳ vây Đằng gia thành 'chỉ vào không ra', cố ý chừa lão tổ Đằng Hóa Nguyên để hắn chứng kiến tộc nhân chết dần. Mục tiêu đầu: phá Thiên Đạo Môn, giết 7 người Đằng gia + Nguyên Anh thủy tổ tông. (@c0211)"
+    },
+    {
+      chuong: 212,
+      tieuDe: "Chém Nghìn Người",
+      tomTat: "Trong 4 ngày Vương Lâm quét sạch 961 người Đằng gia rải khắp Triệu quốc: phá hộ sơn đại trận Vô Phong Cốc bằng một nhát kiếm khí từ vỏ kiếm cổ (sụp 2 trong 5 đỉnh Ngũ Tiên Sơn), rồi lần lượt tàn sát tại Đằng gia ngoại trang, Thiên Âm Thành, kinh thành, Nguyên Khuê phái và Tịch Diệt Tông. Toàn bộ thi thể bị thu hồn, trói bằng giao long cân kéo theo sau Văn Thú. Trong Đằng gia thành, Đằng Hóa Nguyên nhận ra kẻ thù qua bức họa đồ, chấn động đến mất kiểm soát linh lực rồi cười rộ 'giỏi, giỏi, giỏi'; phong giới một vạn dặm Vương Lâm dựng khiến lão không thể ra ngoài. Mục tiêu kế: Hợp Hoan Tông nơi còn mấy trăm người Đằng gia. (@c0212)"
+    },
+    {
+      chuong: 213,
+      tieuDe: "Vương... Vương Lâm?",
+      tomTat: "Trên đường tới Hợp Hoan Tông, Vương Lâm diệt Tức Mặc lão nhân (Nguyên Anh trung kỳ đỉnh, chuyên luyện khôi lỗi, có thù cũ vì đệ tử bị VL giết) bằng Cực Cảnh thần thức và thu 4 con rối thây khô Nguyên Anh. Tại Hợp Hoan Tông, hắn nuốt tinh hoa Nguyên Anh, ngưng lôi cầu đỏ giết dần đệ tử hộ trận, ép thủy tổ Âm Dương lão nhân (Nguyên Anh hậu kỳ) mở hộ sơn đại trận rồi vào thanh toán mấy trăm người Đằng gia trong nửa nén hương. Khi sắp rời đi, từ quảng trường vang lên tiếng gọi yếu ớt 'Vương... Vương Lâm?' — một người trung niên hư nhược tóc hoa râm đã nhận ra hắn. (@c0213)"
+    },
+    {
+      chuong: 214,
+      tieuDe: "Hạch Tâm Tộc Nhân",
+      tomTat: "Người trung niên hư nhược chính là Trương sư huynh của Hằng Nhạc phái — bị một nữ tu Hợp Hoan Tông dùng thân thể luyện Hợp Hoan đan, kinh mạch tan nát thành phế nhân. Vương Lâm tâm sự, tặng bình ngọc 7 viên đan để khôi phục tu vi rồi từ biệt. Thần thức hắn định vị 7 hạch tâm tộc nhân Đằng gia còn ở linh huyệt ngoài — nhóm do Đằng Hóa Nguyên đích thân tài bồi, cứ 50 năm tổ chức đại hội khiêu chiến đổi người nắm danh xưng (số 1 đến 9). Hắn đánh sụp mật thất ngầm của hạch tâm số 9 — Đằng Cửu — mở màn truy sát; Đằng Cửu thoát kịp, hiện thân giữa không trung. (@c0214)"
+    },
+    {
+      chuong: 215,
+      tieuDe: "Đại Thụ Sắp Ngã",
+      tomTat: "Trong một ngày, Vương Lâm dùng lưới chớp đỏ Cực Cảnh và thần thức thôn hồn ly thể tiêu diệt 5 trong 7 hạch tâm đệ tử ngoài: từ chối lời đầu hàng của Đằng Cửu rồi kết liễu, thu hồn phách thượng đẳng luyện ma đầu; nuốt thân Đằng Bát (Nguyên Anh trung kỳ) bằng sương đen thôn hồn; giết Đằng Ngũ khi hắn gần tới Đằng gia thành. Đằng Lục dùng bí thuật thiêu linh hồn tăng tốc bỏ chạy, Vương Lâm bủa Cấm Phiên ngàn dặm, tế Thanh Đồng cổ kính, thiền tọa thả thôn hồn ly thể hóa mây đen trùm cả Triệu quốc để săn. Đằng Hóa Nguyên cảm hơi thở tộc nhân tắt dần nhưng không rời thành nửa bước; cố nhân Vương Trác (rể Đằng gia, ôm hận 400 năm) thầm vui khi tộc Đằng gia sụp đổ. (@c0215)"
+    },
+    {
+      chuong: 216,
+      tieuDe: "Điệu Vân",
+      tomTat: "Hạch tâm số 3 — Đằng Tam (tên thật Đằng Hải) — ngừng bế quan đưa con gái Đằng Tú Tú về thành. Khi màn sương đen Vương Lâm ập tới, Đằng Tam tự hy sinh tu vi dùng nguyên anh tinh huyết truyền tống Đằng Tú Tú và rể Vương Trác đi thoát, rồi lau lần cuối phi kiếm Điệu Vân (đặt theo tên vong thê phàm nhân bị lão tổ ép chia lìa, trong kiếm có giọt máu phàm của vợ) và liều chết hóa sao băng lao vào màn sương. Vương Lâm tha hồn phách hắn vì tình nghĩa lúc chết, nhưng vẫn không chừa vì hắn họ Đằng. Tại tổ ốc, Đằng Hóa Nguyên lần đầu sau 400 năm rơi nước mắt khi ngọc giản hạch tâm Đằng Tam vỡ — đã 6 trong 9 mảnh. (@c0216)"
+    },
+    {
+      chuong: 217,
+      tieuDe: "Vương Trác",
+      tomTat: "Thần thức Vương Lâm định vị cặp Vương Trác–Đằng Tú Tú đang chạy về biên cương. Vương Trác nhận ra ngay 'Ngươi là Vương Lâm!' và thổ lộ chỉ hắn mới có thể báo thù cho Vương gia. Vương Lâm xin lỗi vì cha Đằng Tú Tú phải chết và lệnh cả hai rời Triệu quốc, không trực tiếp ra tay với nàng. Vương Trác cuối cùng tự tay kết liễu Đằng Tú Tú để không phản bội huyết hận Vương gia rồi tự sát. Vương Lâm giữ lại sợi hồn hỏa Vương Trác sắp tan, đưa hồn phách hắn vào bụng một nữ tử mang thai ở Vương gia thành — đầu thai luân hồi, thầm dặn đứa bé sau này nhất định bước vào Tu Chân Giới để có ngày tái ngộ. (@c0217)"
+    },
+    {
+      chuong: 218,
+      tieuDe: "Hắc Nê Đàm",
+      tomTat: "Phác Nam Tử — thủy tổ Huyền Đạo Tông, cao thủ số 1 Triệu quốc, chỉ còn một bước chạm Hóa Thần kỳ — lên đỉnh Hằng Nhạc mượn hai pháp luân cấp Hóa Thần (xanh–hồng), tuyên bố đây là lần cuối ra tay giúp Đằng gia và ra tối hậu thư 100 năm phải có Hóa Thần kỳ; lão tiết lộ Đằng tộc vốn không đủ tư chất có 9 Nguyên Anh tu sĩ — tất cả do một sứ giả đại nhân bí ẩn chọn Đằng tộc làm đối tượng thí nghiệm. Cảm biến biến động linh lực, Vương Lâm bay tới Hắc Nê Đàm — đệ nhất hiểm địa Triệu quốc — nơi Đằng Nhất (em ruột Đằng Hóa Nguyên, hạch tâm số 1) tu luyện trong quan tài hắc tinh dưới đáy bùn. Cực Cảnh thần thức và hơn 90 đạo cấm khí từ Cấm Phiên đánh nứt thân Đằng Nhất nhưng không phá vỡ được. (@c0218)"
+    },
+    {
+      chuong: 219,
+      tieuDe: "Thông Thiên Thuật Cự Ma Tộc",
+      tomTat: "Đằng Nhất đã tẩu hỏa nhập ma khi tu thần thông luyện thể cổ xưa do sứ giả Thông Thiên tháp mang đến — thần thức dung vào khắp xương cốt khiến Cực Cảnh thần thức của Vương Lâm vô hiệu, mỗi lần dùng đều hao Nguyên Anh. Vương Lâm cho Thanh Đồng cổ kính nổ tung ép Đằng Nhất phun cục máu vàng chứa tia máu cổ thần, giành được nửa cục; dùng cổ thần lực làm chất dẫn thi triển Thông thiên thuật Cự Ma tộc bằng ngôn ngữ cổ thần: hút 3 trong 5 phần linh mạch Triệu quốc, triệu hư ảnh khổng lồ 'đầu đội trời chân đạp đất' — Đằng Nhất biến mất quỷ dị, điểm sáng thần thức tối sầm. Cả Triệu quốc chấn động; Thông Thiên tháp nhận ra đây là thông thiên thuật của Cự Ma tộc. (@c0219)"
+    },
+    {
+      chuong: 220,
+      tieuDe: "Diệt Đằng",
+      tomTat: "Vương Lâm hồi phục, kiểm kê pháp bảo: Thanh Đồng cổ kính đã nổ mất, chỉ còn Cấm Phiên, phi kiếm yếu, cuốn tranh phong ấn sinh linh chưa dám mở, và hai vỏ kiếm. Vất vả mở túi trữ vật Cổ Đế (khắc chữ 'Lam') — phát hiện Cổ Đế chưa chết (thần thức còn sót), hao gần hết đan dược mới xóa được; thu hai cực phẩm linh thạch và một vỏ kiếm cổ rất giống vỏ cũ nhưng khác ký hiệu. Hai vỏ kiếm kề nhau đồng loạt lóe sáng — ẩn bí mật lớn. Chạm túi trữ vật thây khô Hỏa Phần quốc, hắn bị kéo vào ảo cảnh thấy một thanh niên tà dị tốc độ kinh người ở Tu Ma Hải tuyên bố sẽ truy sát mình. Đằng gia thành bị cấm chế ngàn dặm vây kín; Vương Lâm mắt lạnh nhìn về phía thành: 'Đằng Hóa Nguyên, ta tới đây!' (@c0220)"
     }
   ]
 };
