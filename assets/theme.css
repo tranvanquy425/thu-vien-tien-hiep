@@ -148,23 +148,30 @@ a:hover{color:var(--gold3);text-decoration:underline}
 /* ============ NHÀ TÀI TRỢ — ô ngang gọn (đầu & cuối trang) ============ */
 .sponsor{max-width:var(--maxw);margin:14px auto 0;padding:0 16px}
 .sponsor-inner{
-  display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+  display:flex;align-items:center;gap:10px;flex-wrap:wrap;
   background:var(--sponsor-bg);
-  border:1px solid var(--line-gold);border-radius:var(--radius);padding:11px 16px;position:relative;overflow:hidden}
+  border:1px solid var(--line-gold);border-radius:var(--radius);padding:8px 12px;position:relative;overflow:hidden}
 .sponsor-inner::before{content:"";position:absolute;inset:0;background:radial-gradient(420px 120px at 12% 0,rgba(231,205,132,.12),transparent 70%);pointer-events:none}
-.sponsor .spseal{width:40px;height:40px;border-radius:9px;background:linear-gradient(160deg,#b0411f,#7e2c14);
-  display:grid;place-items:center;font-family:var(--han);font-size:22px;color:#fbe9c8;border:1px solid #d98a5f;flex:0 0 auto}
+.sponsor .spseal{width:32px;height:32px;border-radius:9px;background:linear-gradient(160deg,#b0411f,#7e2c14);
+  display:grid;place-items:center;font-family:var(--han);font-size:18px;color:#fbe9c8;border:1px solid #d98a5f;flex:0 0 auto}
 .sponsor .sptext{min-width:0;flex:1 1 240px}
 .sponsor .sptag{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--gold-soft);font-family:var(--sans)}
-.sponsor .spname{font-family:var(--display);font-weight:700;color:var(--gold2);font-size:18px;line-height:1.2;overflow-wrap:anywhere}
-.sponsor .spappeal{color:var(--gold3);font-size:14px;font-weight:600;overflow-wrap:anywhere}
-.sponsor .spdesc{color:var(--muted);font-size:13px;overflow-wrap:anywhere}
+.sponsor .spname{font-family:var(--display);font-weight:700;color:var(--gold2);font-size:15px;line-height:1.2;overflow-wrap:anywhere}
+.sponsor .spappeal{color:var(--gold3);font-size:12px;font-weight:600;overflow-wrap:anywhere}
+.sponsor .spdesc{color:var(--muted);font-size:12px;overflow-wrap:anywhere}
 .sponsor .spdesc b{color:var(--chu2)}
 .sponsor .spcta{flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;background:linear-gradient(180deg,#e7cd84,#c9a227);
-  color:#2a1c06;font-weight:700;padding:9px 16px;border-radius:999px;font-family:var(--sans);font-size:14px;
+  color:#2a1c06;font-weight:700;padding:7px 13px;border-radius:999px;font-family:var(--sans);font-size:13px;
   border:1px solid #f3e6bf;box-shadow:0 0 18px rgba(201,162,39,.25);white-space:nowrap;animation:pulseCta 2.4s ease-in-out infinite}
 .sponsor .spcta:hover{text-decoration:none;filter:brightness(1.06)}
 @keyframes pulseCta{0%,100%{box-shadow:0 0 12px rgba(201,162,39,.18)}50%{box-shadow:0 0 22px rgba(231,205,132,.45)}}
+/* ---- global search bar ---- */
+.global-search{max-width:var(--maxw);margin:10px auto 0;padding:0 16px}
+.gs-inner{display:flex;gap:0;border:1px solid var(--line-gold);border-radius:var(--radius);overflow:hidden;background:var(--card-bg)}
+.gs-input{flex:1;padding:10px 14px;border:none;background:transparent;color:var(--text);font-size:14px;font-family:var(--sans);outline:none}
+.gs-input::placeholder{color:var(--muted2)}
+.gs-btn{flex:0 0 auto;padding:10px 14px;border:none;background:transparent;color:var(--gold);font-size:16px;cursor:pointer}
+.gs-btn:hover{background:rgba(201,162,39,.1)}
 .sponsor.foot{margin:28px auto 0}
 
 /* ---------- layout ---------- */
@@ -493,9 +500,10 @@ a:hover{color:var(--gold3);text-decoration:underline}
 
 /* ---------- responsive ---------- */
 @media (max-width:820px){
-  .reader-wrap{flex-direction:column;height:auto}
+  .reader-wrap{flex-direction:column;height:auto;border:none;border-radius:0}
   .reader-toc{width:auto;flex:none;max-height:42vh}
-  .paper{padding:24px 18px 36px}
+  .paper{padding:20px 12px 32px;border-radius:0;border:none;box-shadow:none}
+  .reader-main .inner{padding:12px 0 60px}
   .drawer{width:100vw}
   .page-head h1{font-size:25px}
   .sponsor .spcta{flex-basis:100%;justify-content:center}
