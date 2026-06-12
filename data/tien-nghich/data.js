@@ -4887,6 +4887,20 @@ window.LIB_DATA["tien-nghich"].characters = {
   ]
 };
 
+/* Danh sách QUYỂN chính thức (nguyên tác Nhĩ Căn) — dùng cho BỘ LỌC theo quyển ở tab Kinh lịch.
+   Ranh giới theo SỐ CHƯƠNG của dự án (bản sạch v3), neo theo chương MỞ ĐẦU quyển trong nguyên tác:
+   - Q1 平庸少年 (Thiếu Niên Bình Thường): nguyên tác Ch.1(離鄉/Ly Hương)–56(四年). Dự án c0001–c0071.
+   - Q2 修真血影 (Tu Chân Huyết Ảnh): nguyên tác Ch.57(奪基大法/Đoạt Cơ Đại Pháp)–125(修魔海). Dự án c0072(Đoạt Cơ)–c0132.
+   - Q3 揚名修魔海 (Dương Danh Tu Ma Hải): nguyên tác Ch.126(斗邪派/Đấu Tà Phái)–185(有女雲妃). Dự án c0133(lập Đấu Tà phái)–c0177.
+   - Q4 風捲殘雲 (Phong Quyển Tàn Vân): nguyên tác Ch.186(二百年/Hai Trăm Năm)–... Dự án c0178(Hai Trăm Năm = neo XÁC MINH khớp tiêu đề)–c0220 (mốc đọc hiện tại).
+   start = số chương ĐẦU quyển; quyển kết thúc ngay trước start của quyển kế. */
+window.LIB_DATA["tien-nghich"].quyenList = [
+  { value: "q01", so: 1, ten: "Thiếu Niên Bình Thường", han: "平庸少年", start: 1 },
+  { value: "q02", so: 2, ten: "Tu Chân Huyết Ảnh", han: "修真血影", start: 72 },
+  { value: "q03", so: 3, ten: "Dương Danh Tu Ma Hải", han: "揚名修魔海", start: 133 },
+  { value: "q04", so: 4, ten: "Phong Quyển Tàn Vân", han: "風捲殘雲", start: 178 }
+];
+
 window.LIB_DATA["tien-nghich"].volumes = {
   updatedAt: "2026-06-10",
   volumes: [
@@ -6063,7 +6077,7 @@ window.LIB_DATA["tien-nghich"].artifacts = {
       id: "thach-chau",
       name: "Nghịch Thiên Châu",
       cn: "",
-      aliases: ["Thạch Châu (tên ban đầu)"],
+      aliases: ["Thạch Châu (tên ban đầu)", "Thiên Nghịch Châu", "Thiên Nghịch Châu Tử"],
       category: "phap-bao",
       categoryLabel: "Pháp bảo",
       phamCap: "Vượt phàm — thực chất là nơi ẩn náu của cường giả lục cấp Chu Tước Quốc (Tư Đồ Nam) @c0047; điều kiện nhận chủ: ngũ hành + ≥Anh Biến kỳ",
