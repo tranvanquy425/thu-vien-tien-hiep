@@ -95,6 +95,7 @@
     DB.capBac = ((window.LIB_DATA || {})[slug] || {}).capBac || null;
     DB.factions = (facs && facs.factions) || [];
     DB.volumes = (vols && vols.volumes) || [];
+    DB.quyenList = ((window.LIB_DATA || {})[slug] || {}).quyenList || [];
     if (usedDemo) $("#demoBanner").style.display = "";
   }
 
@@ -256,18 +257,40 @@
   function openChar(id) {
     const c = DB.chars.find(x => x.id === id); if (!c) return;
     const t = c.tabs || {};
-    const kl = (t.kinhLich || []).map(e => {
+    // --- Bộ lọc theo QUYỂN cho Kinh lịch ---
+    // Mỗi sự kiện có neo chương (vd "@c0007", "@c0023-c0036"). Lấy số chương ĐẦU để xếp vào quyển.
+    const QL = (DB.quyenList || []).slice().sort((a, b) => (a.start || 0) - (b.start || 0));
+    const evChNum = e => { const m = String(e.chuong || e.khoang || "").match(/c?(\d{1,4})/i); return m ? parseInt(m[1], 10) : null; };
+    const quyenCua = ch => {
+      if (ch == null || !QL.length) return null;
+      let pick = null;
+      for (const q of QL) { if (ch >= (q.start || 0)) pick = q; else break; }
+      return pick;
+    };
+    const klEvents = (t.kinhLich || []);
+    const klQuyens = [];   // các quyển XUẤT HIỆN trong kinh lịch nhân vật này (giữ thứ tự)
+    const kl = klEvents.map(e => {
+      const qv = quyenCua(evChNum(e));
+      const qattr = qv ? ' data-q="' + esc(qv.value) + '"' : '';
+      if (qv && !klQuyens.some(x => x.value === qv.value)) klQuyens.push(qv);
       if (e.bridge) {
-        return '<div class="ev bridge"><div class="ev-bridge">' +
+        return '<div class="ev bridge"' + qattr + '><div class="ev-bridge">' +
           (e.khoang ? '<span class="neo rng">' + esc(e.khoang) + '</span> ' : '') + esc(e.text || "") + '</div></div>';
       }
       const lv = e.importance || "normal";
-      return '<div class="ev ' + lv + '"><div class="ev-head"><span class="lvl ' + lv + '">' +
+      return '<div class="ev ' + lv + '"' + qattr + '><div class="ev-head"><span class="lvl ' + lv + '">' +
         ({ major: "Trọng đại", normal: "Quan trọng", minor: "Bình thường" }[lv] || "Quan trọng") + '</span>' +
         (e.tieuDe ? '<b class="ev-tieude">' + esc(e.tieuDe) + '</b>' : '') +
         (e.chuong ? '<a class="neo" href="#doc" data-goch="' + String(e.chuong).replace(/[^0-9]/g, "") + '">' + esc(e.chuong) + '</a>' : '') +
         '</div><div class="ev-text">' + esc(e.text || "") + '</div></div>';
     }).join("");
+    // Thanh lọc quyển: chỉ hiện khi kinh lịch trải >1 quyển
+    const klFilter = (klQuyens.length > 1)
+      ? '<div class="ql-filter"><button class="qchip active" data-q="">Tất cả</button>' +
+        klQuyens.sort((a, b) => (a.start || 0) - (b.start || 0)).map(q =>
+          '<button class="qchip" data-q="' + esc(q.value) + '" title="' + esc(q.han || "") + '">Quyển ' + esc(String(q.so)) + ': ' + esc(q.ten) + '</button>'
+        ).join("") + '</div>'
+      : '';
     const RTAG = { "cha-me": "Cha/Mẹ", "ban-be": "Bạn bè", "dong-minh": "Đồng minh", "doi-thu": "Đối thủ", "ho-hang": "Họ hàng", "an-nhan": "Ân nhân", "su-mon": "Sư môn", "the-thiep": "Thê thiếp", "khac": "Khác" };
     const nmArr = _sortChrono(t.nhanMach || []);
     const nmCompact = nmArr.length > 6;   // nhiều quan hệ (vd nhân vật chính) -> bấm-mở
@@ -369,7 +392,7 @@
     }
     const tabs = [
       ["Tiểu sử", tieuSuPane],
-      ["Kinh lịch", kl ? '<div class="timeline">' + kl + '</div>' : '<div class="empty">Chưa có sự kiện.</div>'],
+      ["Kinh lịch", kl ? klFilter + '<div class="timeline" id="klTimeline">' + kl + '</div>' : '<div class="empty">Chưa có sự kiện.</div>'],
       ["Tu vi", tuViPane],
       ["Nhân mạch", nm ? '<div class="timeline">' + nm + '</div>' : '<div class="empty">—</div>'],
       ["Túi đồ", bagHtml || '<div class="empty">Trống.</div>']
@@ -394,6 +417,13 @@
       b.classList.add("active");
       const cat = b.dataset.cat;
       $("#dBody").querySelectorAll("#bagList details").forEach(d => { d.style.display = (!cat || d.dataset.cat === cat) ? "" : "none"; });
+    });
+    // bộ lọc Kinh lịch theo QUYỂN
+    $("#dBody").querySelectorAll(".ql-filter .qchip").forEach(b => b.onclick = () => {
+      $("#dBody").querySelectorAll(".ql-filter .qchip").forEach(x => x.classList.remove("active"));
+      b.classList.add("active");
+      const q = b.dataset.q;
+      $("#dBody").querySelectorAll("#klTimeline .ev").forEach(d => { d.style.display = (!q || d.dataset.q === q) ? "" : "none"; });
     });
   }
 
