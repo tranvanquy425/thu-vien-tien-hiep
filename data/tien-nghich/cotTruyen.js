@@ -1155,6 +1155,58 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       tieuDe: "Chưa Gặp Bao Giờ",
       tomTat: "Từ Đào mua tượng giao long mười lạng vàng, phi ngựa về Đông Nam Vương phủ dâng thế tử. Vương Lâm tiếp tục bế tắc: cả năm thử điêu khắc nhân vật Hóa Thần kỳ — Mạnh Đà Tử, Cổ Đế, Lục Dục Ma Quân, thượng phẩm linh thú — tất cả đều hóa tro khi ép hoàn thiện. Hắn tin: khắc được tượng Hóa Thần kỳ thành công thì tu vi sẽ đột phá. Sát khí hồng quanh thân nay co lại chỉ còn bằng bàn tay; hắn chủ động áp súc, không để tiêu tán hoàn toàn. Trong Đông Nam Vương phủ: thế tử (tu sĩ Ngưng Khí tầng 8) nhận tượng, vội đem vào đại điện dâng phụ vương — Đông Nam Vương vốn mê đồ điêu khắc. Trong đại điện có hai tu sĩ bí ẩn mặc đạo bào ngồi dự tiệc; chương khép lại đúng lúc thế tử đặt tượng giao long xuống trước mặt vương gia, phản ứng chưa được tiết lộ. (@c0230)"
     }
+  ],
+  q03: [
+    {
+      chuong: 231,
+      tieuDe: "Đạo Tặc",
+      tomTat: "Năm đầu hóa phàm: hai tu sĩ Bạch Vân Tông (Kim Đan và Trúc Cơ) đang trú tại Vương phủ — họ đã nhận ra linh uy kinh khủng trong tượng gỗ giao long của VL (Trúc Cơ suýt sụp đổ, Kim Đan chấn động). Tối đó hai người lẻn vào cửa hàng VL trộm toàn bộ tượng; một tên còn tìm ra tượng bán thành phẩm Lục Dục Ma Quân (linh uy tương đương Nguyên Anh kỳ) — lập tức hộc máu. VL xuất hiện, cách không thu hồi túi trữ vật, đòi tiền hàng 4500 lạng vàng; hai tên không có tiền, khai là đệ tử Bạch Vân Tông. VL xóa thần thức, trả tượng về giá, đẩy cả hai ra ngoài hơn mười dặm, cài thần thức cảnh cáo. Thở dài 'Một năm chưa giết người' rồi đi ngủ. (@c0231)"
+    },
+    {
+      chuong: 232,
+      tieuDe: "Lạnh Giá!",
+      tomTat: "Năm thứ ba hóa phàm. Đại Ngưu (14 tuổi) học nghề rèn. Cửa hàng VL có tiếng, sáu phần mười khách là tu sĩ. Sương hồng quanh thân ngưng tụ thành 3 hạt châu đỏ, chỉ còn một tầng mỏng. Cuối năm tuyết rơi, VL ngồi một mình trong cửa hàng tối — cảm nhận sâu sắc cô độc của người tu tiên: năm tháng trôi, người thân lần lượt già đi và chết. Lấy tượng cha mẹ và người thân ra, khóc không thành tiếng. Thì thào 'Không buông được' — chấp niệm thân tình này chính là then chốt để hóa phàm. Linh lực bộc phát, tượng gỗ khắp cửa hàng dâng linh khí xoay tròn cùng nhịp. (@c0232)"
+    },
+    {
+      chuong: 233,
+      tieuDe: "Là Ngươi!",
+      tomTat: "Năm thứ 1-6 hóa phàm (tổng hợp hai phần). Phần đầu: sau cơn bộc phát linh lực, hơn nửa tượng gỗ vỡ vụn, số còn lại linh uy mạnh hơn. Cha Đại Ngưu (họ Tằng) ngượng ngùng mượn tiền mở rộng cửa hàng — VL hào phóng tặng thỏi vàng 'tiền mua rượu mười năm'. Phần hai: năm thứ 4-6; cửa hàng Đại Ngưu mở rộng gấp đôi, Đại Ngưu 17 tuổi khỏe mạnh. VL cố ý biến tướng mạo thành trung niên có nếp nhăn; 3 năm không tu luyện, hồng vụ hóa hạt châu máu. Sau 6 năm, cả xương cốt bên trong cũng như phàm nhân — chỉ còn ánh mắt phi phàm. Gặp lại lão nhân bí ẩn (ăn mày lù xù, 6 năm trước đã gặp một lần) tại quán trọ — lão kinh ngạc khi biết VL thật sự hóa phàm chỉ trong 6 năm ('người đầu tiên lão từng gặp'). Lão nói đạt ý cảnh trong 100 năm có thể hóa thần, nhưng giả vờ đói không giải thích khi VL hỏi 'ý cảnh gì'. VL không mắc bẫy, cười từ biệt. (@c0233)"
+    },
+    {
+      chuong: 234,
+      tieuDe: "Thích Tông",
+      tomTat: "Lão nhân tái xuất trước cửa hàng VL, kinh ngạc trước sộ lượng tượng gỗ yêu thú Tu Ma hải; kiểm tra tượng bán thành phẩm, xác nhận chỉ người tự tay giết chúng mới khắc được như vậy. Lão nhân tiết lộ tu vi: vung tay thi triển 'điên cuồng ý cảnh' Anh Biến kỳ — linh lực VL bị cuốn theo, Nguyên Anh suýt bị đồng hóa; lão giải thích ý cảnh Anh Biến kỳ thúc dục mạnh hơn Hóa Thần thông thường. Lão giải thích cơ chế đột phá: lợi dụng hóa phàm cảm thụ ý cảnh người khác → thúc dục Nguyên Anh đột phá Hóa Thần. Đề nghị cho VL cảm thụ ý cảnh Hóa Thần tu sĩ. VL hỏi giá — lão muốn được điêu khắc 100 bức tượng bản thân để tặng mỹ nhân. VL đồng ý. Lão nắm VL thuấn di 10 vạn dặm tới Bạch Vân Tông, nói sẽ 'thích tông'. (@c0234)"
+    },
+    {
+      chuong: 235,
+      tieuDe: "Ý Cảnh",
+      tomTat: "Lão nhân đưa hai mũ rơm (pháp bảo che diện mạo, thần thức địch quét vào bị phản kích) trước khi vào Bạch Vân Tông. VL phát hiện trận pháp bên trong mũ tinh diệu không kém thượng cổ cấm chế. Lão nhân triệu hoán Kim Tử phá vỡ đại trận bảo hộ Bạch Vân Tông (tứ cấp tu chân quốc): lộ ra cung điện lơ lửng trên mây trắng; hơn 30 Nguyên Anh và 5 Hóa Thần bay ra vây. Trung niên văn sĩ (Hóa Thần kỳ) đại diện chất vấn; lão nhân ngồi ghế trúc bàng quan, đẩy hết trách nhiệm cho VL. VL chủ động khiêu chiến, biến phi kiếm thành ngân cầu hóa Chung cổ thú; văn sĩ dùng linh khí tím hóa tử long đối kháng. Lão nhân bảo VL đứng yên không né — lão bóp nát một con tử long, con còn lại đánh vào VL. VL phát hiện lực lượng này thực tế như gió, không có tính công kích — đây là ý cảnh Hóa Thần kỳ để VL cảm ngộ. (@c0235)"
+    },
+    {
+      chuong: 236,
+      tieuDe: "Tổ Linh Bài",
+      tomTat: "Lão nhân xuất Tổ linh bài màu đen (phát ánh sáng bảy màu) — tín vật tổ tiên Bạch Vân Tông, ai giữ thì tông môn phải tuân lệnh. Ba Hóa Thần tu sĩ lần lượt thi triển ý cảnh: (1) Trung niên văn sĩ — ý cảnh tuyệt tình, VL cảm ngộ hoàn toàn; (2) Lão bà — ý cảnh ấm áp/hư vô, linh khí hồng nhạt thơm ngát, khiến VL ấm áp → lười biếng → suýt trầm mê mất ý chí; huyết cầu sát khí trong túi trữ vật tự bay ra cứu VL thanh tỉnh; (3) Lão giả thanh sam — ý cảnh tuế nguyệt, phi kiếm xuất từ mi tâm hóa thiểm điện rút cạn sinh mệnh lực; lão nhân đánh giá nếu đạt Vấn Đỉnh sẽ nghịch thiên. Sau đó lão trả Tổ linh bài lại, đưa VL về kinh đô. Cảnh kết hài hước: lão chờ được khen nhưng VL không biết nịnh. (@c0236)"
+    },
+    {
+      chuong: 237,
+      tieuDe: "Tuổi Già",
+      tomTat: "Lão nhân tiết lộ Tổ linh bài là đồ giả do chính lão tự chế — còn khoe bộ sưu tập lệnh bài giả đủ loại môn phái. VL trở về cửa hàng, cảm ngộ ba ý cảnh: tuyệt tình, an nhàn, tuế nguyệt — nhận ra mỗi loại xuất phát từ nhân sinh quan khác nhau. Bắt đầu điêu khắc: tượng văn sĩ (tuyệt tình) và tượng lão bà (an nhàn) hoàn thành nhưng ý cảnh vẫn 'thiếu một chút' vì tu vi chưa đạt Hóa Thần. Tượng lão giả áo xanh (tuế nguyệt) suốt 9 năm liên tiếp đều thất bại — vô số bức hóa thành tro. 10 năm trôi qua: VL già cả bề ngoài (tóc bạc, lưng còng); Đại Ngưu trưởng thành lấy vợ cô chưởng quầy tiệm may, có con trai 4 tuổi; cha Đại Ngưu bắt đầu bệnh. VL đi dạo phố — gần như toàn bộ cửa hàng trên phố đều nợ bạc của hắn. (@c0237)"
+    },
+    {
+      chuong: 238,
+      tieuDe: "Đồ Chơi Làm Bằng Đường",
+      tomTat: "Năm thứ 9 hóa phàm. VL gần như mua lại toàn bộ khu phố — mọi cửa hàng xung quanh đều là của hắn. Đang đi dạo phố thì Từ Đào (tùy tùng thế tử, hơn mười năm lễ tết vẫn mang vàng tặng) xuất hiện trọng thương phun máu: thế tử đắc tội với một tu sĩ thần thông cao cường, tu sĩ e dè không vào hoàng cung, trút giận lên tùy tùng. Tiểu đạo sĩ mặc đạo bào đỏ (Trúc Cơ, đệ tử tu sĩ kia) truy đuổi tới, phóng đầu lâu xương định giết cả Từ Đào lẫn VL. VL vung tay đuổi muỗi — ma đầu Hứa Lập Quốc hiện hình nuốt gọn đầu lâu, trừng mắt nhìn tiểu đạo sĩ. Tiểu đạo sĩ (bản mạng la sát bị phá, phun tiên huyết) hoảng sợ bỏ chạy. VL không hạ sát thủ — không muốn hỏng tâm tình hóa phàm vì việc nhỏ. Cho Từ Đào uống đan dược, chờ tiếp theo. (@c0238)"
+    },
+    {
+      chuong: 239,
+      tieuDe: "Trăm Năm Hẳn Là Phải Chết",
+      tomTat: "Tu sĩ tai to Chu Võ Thái (bán Nguyên Anh, chuẩn bị Hóa Thần, sư phụ tiểu đạo sĩ, thuộc liên minh bốn phái) dẫn đệ tử Phúc Nhi đến cửa hàng VL hỏi tội. Khi vào cửa hàng nhìn tượng gỗ (nhận ra tượng văn sĩ trung niên và lão bà Bạch Vân Tông), CVT đoán VL cảnh giới ngang mình — đều đang chuẩn bị Hóa Thần. Thay vì giao chiến, hai người ngồi uống rượu đấu trí. CVT liên tục dùng ngôn từ ẩn chứa huyền cơ gieo tâm chướng cho VL: mời thi đua xem ai Hóa Thần trước, chúc 'trăm năm tất Hóa Thần' — mỗi câu là bẫy tâm lý. VL nhìn thấu toàn bộ, phản kích bằng một câu: 'Trong vòng trăm năm đệ tử của ngươi hẳn phải chết' — vạch trần con đường hóa phàm của CVT (phải tự tay giết đệ tử để đau khổ cùng cực mà nhập Hóa Thần), đồng thời gieo mầm nghi ngờ trong tâm Phúc Nhi. CVT thua cuộc, nhượng bộ vụ vũ đỉnh (yêu cầu thế tử đem vũ đỉnh đến đạo quan trong ba ngày). Dù ôn hòa bề ngoài, CVT âm thầm coi VL là đối thủ lớn nhất cuộc đời. (@c0239)"
+    },
+    {
+      chuong: 240,
+      tieuDe: "Thiên Đạo Luân Hồi",
+      tomTat: "7 ngày sau sự kiện CVT: Từ Đào dẫn thế tử điện hạ (tu sĩ Ngưng Khí chưa trúc cơ thành) đến quỳ lạy ba cái tạ ơn, tặng túi trữ vật chứa lượng lớn linh thạch. VL không nói một câu nào, nhận rồi đặt sang một bên. 5 năm tiếp theo (tổng hơn 20 năm hóa phàm). Cha Đại Ngưu qua đời vì già yếu — không thoát khỏi thiên đạo luân hồi (sinh lão bệnh tử). VL suy tư: có thể dùng thuật nghịch thiên kéo dài thọ mệnh nhưng hậu quả là khi nhập lục đạo luân hồi sẽ rơi vào hạ đẳng (khác trường hợp Vương Trác — người tu đạo bản thân đã nghịch thiên). VL lấy đóa hoa đen — tài liệu quý nhất luyện đan — hóa thành điểm sáng nhập vào hồn phách cha Đại Ngưu vừa thoát thể, giúp hồn lực mạnh hơn để đầu thai chỗ tốt hơn. Hồn phách cảm kích quỳ lạy, lưu luyến nhìn vợ con lần cuối rồi bay lên trời. Con trai Đại Ngưu 9 tuổi nhìn thấy hồn phách ông nội. VL cảm ngộ thiên đạo luân hồi qua sinh lão bệnh tử — nhưng vẫn chưa tìm ra ý cảnh cuối cùng của bản thân. (@c0240)"
+    }
   ]
 };
 
