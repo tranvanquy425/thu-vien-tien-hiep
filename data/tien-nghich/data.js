@@ -12446,25 +12446,77 @@ window.LIB_DATA["tien-nghich"]={
     "theLuc": [
      "Liên Minh Tứ Phái"
     ],
-    "canhGioiCaoNhat": "Kém Vương Lâm (Nguyên Anh trở lên; tinh tiến hơn 10 năm trước)",
-    "trangThai": "song",
-    "vaiTro": "Cố nhân của Vương Lâm",
-    "tinhCach": "Kiên định giữ con đường tu riêng, không để Tuế Nguyệt ý cảnh dao động; trọng tình cố nhân.",
-    "blurb": "Cố nhân của Vương Lâm thời hóa phàm. Hơn mười năm sau tái ngộ giữa bão tuyết, thừa nhận tiến bộ của VL vượt mình. Đại biểu Liên Minh Tứ Phái mời VL gia nhập chuẩn bị đại chiến Tuyết Vực, tặng VL ngọc giản ghi thần thông Hóa Thần kỳ.",
+    "canhGioiCaoNhat": "Nguyên Anh hậu kỳ đỉnh (chỉ còn một bước vào Hóa Thần; nắm giữ một chút ý cảnh)",
+    "trangThai": "song (hôn mê trọng thương @c0253; số phận chưa rõ)",
+    "vaiTro": "Cố nhân của Vương Lâm; đại biểu/trọng thần Liên Minh Tứ Phái, mang huyết mạch Thương Long",
+    "tinhCach": "Kiên định giữ con đường hóa phàm riêng, không để Tuế Nguyệt ý cảnh dao động; trọng tình cố nhân, thức thời, biết tiến thoái; ngoài lạnh trong lo.",
+    "blurb": "Cố nhân của Vương Lâm thời hóa phàm, tu sĩ Nguyên Anh hậu kỳ đỉnh chỉ còn một bước vào Hóa Thần, mang huyết mạch Thương Long thủ hộ Liên Minh Tứ Phái. Hơn mười năm sau tái ngộ giữa bão tuyết, thừa nhận tiến bộ của VL vượt mình. Đại biểu Tứ Phái mời VL gia nhập đại chiến Tuyết Vực, tặng ngọc giản thần thông Hóa Thần kỳ. Trong đại chiến, hắn khống chế Thương Long đại trận nhưng bị sứ giả Chu Tước quốc đánh trọng thương, mất huyết mạch và bị VL cướp túi trữ vật chứa Vũ Đỉnh.",
     "tabs": {
-     "diem": [],
+     "diem": [
+      "Nguyên Anh hậu kỳ đỉnh, chỉ còn một bước vào Hóa Thần và đã nắm chút ý cảnh — vượt trội tu sĩ Nguyên Anh thường",
+      "Mang huyết mạch Thương Long, là người duy nhất khống chế được Thương Long đại trận thủ hộ Tứ Phái",
+      "Giữ vững con đường hóa phàm riêng, từ chối để Tuế Nguyệt ý cảnh của VL lay động đạo tâm"
+     ],
      "kinhLich": [
       {
        "chuong": "@c0241",
        "importance": "normal",
        "tieuDe": "Tái ngộ giữa bão tuyết",
-       "text": "Đến cửa hàng Vương Lâm giữa bão tuyết sau hơn chục năm không gặp, mặc áo tơi bám tuyết dày. Tu vi tinh tiến hơn 10 năm trước nhưng kém VL (người đã cảm ngộ thiên đạo)."
+       "text": "Đến cửa hàng Vương Lâm giữa bão tuyết sau hơn chục năm không gặp, mặc áo tơi bám tuyết dày. Tu vi tinh tiến hơn 10 năm trước nhưng kém VL (người đã cảm ngộ thiên đạo). Giữa lông mày thêm nếp nhăn lo lắng."
       },
       {
        "chuong": "@c0242",
        "importance": "normal",
        "tieuDe": "Tặng ngọc giản, mời gia nhập Tứ Phái",
-       "text": "Kinh hoàng nhận ra tượng gỗ lão già áo xanh của VL có Tuế Nguyệt ý cảnh thật; thừa nhận VL vượt mình. Nhận tượng VL tặng rồi trả lại để giữ con đường hóa phàm riêng không bị dao động. Tặng VL ngọc giản ghi thần thông/pháp thuật Hóa Thần kỳ. Đại biểu Liên Minh Tứ Phái mời VL gia nhập chuẩn bị đại chiến Tuyết Vực; giải thích tuyết không tan do truyền tống trận Tuyết Vực."
+       "text": "Kinh hoàng nhận ra tượng gỗ lão già áo xanh của VL có Tuế Nguyệt ý cảnh thật; thừa nhận VL vượt mình, còn mình mười năm vẫn đứng tại chỗ. Nhận tượng VL tặng rồi trả lại để giữ con đường hóa phàm riêng không bị dao động. Tặng VL ngọc giản ghi thần thông/pháp thuật tu sĩ Hóa Thần kỳ. Đại biểu Liên Minh Tứ Phái mời VL gia nhập chuẩn bị đại chiến Tuyết Vực; giải thích tuyết không tan do truyền tống trận Tuyết Vực. Để lại ngọc giản truyền âm; trước khi đi tiết lộ Chu Tước tinh nằm sát Vũ chi Tiên Môn."
+      },
+      {
+       "chuong": "@c0243",
+       "importance": "normal",
+       "tieuDe": "Chặn người áo đen giúp Vương Lâm",
+       "text": "Bốn tu sĩ áo đen (Nguyên Anh hậu kỳ, thi hành lệnh Tứ Phái diệt kẻ đáng nghi) hỏi sao hắn không ra tay giết VL. Hắn cười lạnh, cho rằng năm người cộng lại không đủ vì VL từng khắc tam lão Bạch Vân Tông và Tuế Nguyệt ý cảnh Thanh Tùng sư thúc, gọi bốn người là ngu ngốc rồi dừng bước xem kịch. Sau khi VL giết ba người, người thứ tư chạy về phía hắn thì hắn dùng pháp quyết quỷ dị (luồng sáng tím) chặn lại giúp VL — tuy mặt bình thản nhưng lưng áo tơi ướt đẫm vì sợ VL."
+      },
+      {
+       "chuong": "@c0244",
+       "importance": "normal",
+       "tieuDe": "Diệt khẩu, tỏ rõ lập trường",
+       "text": "Giết tu sĩ Nguyên Anh thứ tư còn sống sót bằng pháp quyết tạo ảo giác (đối phương thấy lại cảnh thời thiếu niên nhập môn, không chống cự nổi), rồi đặt tay lên đỉnh đầu xuất linh lực giết, chộp Nguyên Anh bóp nát ngay trước mặt VL để diệt khẩu chứng minh lập trường. Vung tay áo hóa bốn thi thể thành tro bụi. Tự đánh giá mình với VL: chỉ có thể làm bạn chứ không thể làm địch."
+      },
+      {
+       "chuong": "@c0245",
+       "importance": "normal",
+       "tieuDe": "Báo nghi vấn Tuyết Vực bất thường",
+       "text": "Qua ngọc giản truyền âm lại mời VL gia nhập Tứ Phái, kể hết hành động và bí mật gần đây. Nêu nghi hoặc về Tuyết Vực: theo thông lệ Tuyết Vực chỉ để tuyết rơi mười ngày rồi tấn công (quy định Chu Tước quốc cấm tu sĩ quấy nhiễu phàm nhân), nhưng lần này tuyết rơi liên tục bốn tháng — bất thường."
+      },
+      {
+       "chuong": "@c0246",
+       "importance": "normal",
+       "tieuDe": "Phân tích chiến tranh diệt quốc của Tuyết Vực",
+       "text": "Khẳng định Tuyết Vực đang tiến hành chiến tranh diệt quốc (tuyết bốn tháng không giảm, chỉ bị trận pháp che). Báo kết quả ba nhóm tìm viện binh: nhóm minh hữu thất bại (ngũ cấp quốc cấm tham dự), nhóm ngũ cấp phụ thuộc thất bại, nhóm Chu Tước Quốc chưa về. Truyền tin kinh hoàng về nữ tử Tuyết Vực (Hóa Thần hậu kỳ đỉnh, hơn trăm năm tu không dùng đan dược); điều kiện nàng ra cho Chu Tước Quốc là nâng Tuyết Vực lên ngũ cấp và đổi lãnh thổ bằng đất Tứ Phái — Vũ Đỉnh trong tay thái tử là một âm mưu."
+      },
+      {
+       "chuong": "@c0247",
+       "importance": "normal",
+       "tieuDe": "Lặng lẽ giúp Vương Lâm, không còn dám mời",
+       "text": "Biết VL thu gỗ trên bình nguyên tuyết (tu sĩ lân cận phát hiện báo lên Tứ Phái), hắn dùng chức quyền dìm chuyện và tự dẫn người lặng lẽ giúp dọn (nếu không bảy ngày không đủ dọn sạch bình nguyên). Lần này không mời VL gia nhập Tứ Phái nữa — nhận ra Tứ Phái đã đến bước đường cùng, mời người vào lúc này chẳng khác kéo người vào chỗ chết. Cay đắng ôm quyền xoay người đi, bắt đầu suy nghĩ lại con đường của chính mình."
+      },
+      {
+       "chuong": "@c0251",
+       "importance": "major",
+       "tieuDe": "Khống chế Thương Long đại trận khai chiến",
+       "text": "Đứng trên Thương Long (dãy núi Thiên Vân hóa rồng vạn trượng), khống chế Thương Long đại trận với 108 cột sáng bảy màu — chỉ riêng hắn khống chế được nhờ huyết mạch Thương Long thủ hộ Tứ Phái trong thân. Tiếng gầm Thương Long là tín hiệu lệnh quyết chiến khiến tu sĩ Tứ Phái phấn chấn bay ra gia nhập chiến trường, cho thấy địa vị cao của hắn trong Tứ Phái."
+      },
+      {
+       "chuong": "@c0252",
+       "importance": "minor",
+       "tieuDe": "Ghi chép quái vật người rắn",
+       "text": "Được nhắc tên qua ngọc giản thông tri của hắn có ghi thông tin về quái vật mình người đầu rắn — VL đã đọc trước đó và nhớ lại khi quái vật xuất hiện."
+      },
+      {
+       "chuong": "@c0253",
+       "importance": "major",
+       "tieuDe": "Trọng thương, mất huyết mạch Thương Long",
+       "text": "Đứng trên Thương Long điều khiển xuất chiến hướng vật đầu người mình rắn thì bị sứ giả Chu Tước quốc (trung niên nam tử bệnh hoạn) dùng pháp lực rung bật, phun tiên huyết, lao xuống đất như sao băng. Huyết mạch bị rút ra ngưng thành giọt huyết châu ánh tím rơi vào mi tâm Thương Long, khiến Thương Long mất long hồn hóa đá. Hắn hôn mê trong hắc động trên ngọn núi tuyết (chưa chết), bị VL cướp túi trữ vật chứa Vũ Đỉnh; ngọn núi sau đó bị sương lam hóa băng nên số phận chưa rõ."
       }
      ],
      "tuViMoc": [],
@@ -12472,7 +12524,12 @@ window.LIB_DATA["tien-nghich"]={
       {
        "ten": "Vương Lâm",
        "tag": "ban-be",
-       "quanHe": "Cố nhân thời hóa phàm, tái ngộ @c0241"
+       "quanHe": "Cố nhân thời hóa phàm, tái ngộ @c0241; nhiều lần giúp ngầm, cuối cùng bị VL cướp túi trữ vật @c0253"
+      },
+      {
+       "ten": "Liên Minh Tứ Phái",
+       "tag": "su-mon",
+       "quanHe": "Trọng thần/đại biểu, mang huyết mạch Thương Long thủ hộ; khống chế Thương Long đại trận @c0251"
       }
      ],
      "tuiDo": {}
@@ -12480,7 +12537,14 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0241",
      "@c0242",
-     "@c0243"
+     "@c0243",
+     "@c0244",
+     "@c0245",
+     "@c0246",
+     "@c0247",
+     "@c0251",
+     "@c0252",
+     "@c0253"
     ]
    },
    {
