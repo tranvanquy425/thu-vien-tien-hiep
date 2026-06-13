@@ -1104,6 +1104,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 220,
       tieuDe: "Diệt Đằng",
       tomTat: "Vương Lâm hồi phục, kiểm kê pháp bảo: Thanh Đồng cổ kính đã nổ mất, chỉ còn Cấm Phiên, phi kiếm yếu, cuốn tranh phong ấn sinh linh chưa dám mở, và hai vỏ kiếm. Vất vả mở túi trữ vật Cổ Đế (khắc chữ 'Lam') — phát hiện Cổ Đế chưa chết (thần thức còn sót), hao gần hết đan dược mới xóa được; thu hai cực phẩm linh thạch và một vỏ kiếm cổ rất giống vỏ cũ nhưng khác ký hiệu. Hai vỏ kiếm kề nhau đồng loạt lóe sáng — ẩn bí mật lớn. Chạm túi trữ vật thây khô Hỏa Phần quốc, hắn bị kéo vào ảo cảnh thấy một thanh niên tà dị tốc độ kinh người ở Tu Ma Hải tuyên bố sẽ truy sát mình. Đằng gia thành bị cấm chế ngàn dặm vây kín; Vương Lâm mắt lạnh nhìn về phía thành: 'Đằng Hóa Nguyên, ta tới đây!' (@c0220)"
+    },
+    {
+      chuong: 221,
+      tieuDe: "Tháp Đầu Lâu",
+      tomTat: "Vương Lâm tung hồn kỳ — pháp bảo thu từ Đằng Hóa Nguyên — tàn diệt bốn vị Nguyên Anh tu sĩ cuối cùng của Đằng gia còn cố thủ trong thành. Bên ngoài cổng thành, hắn xếp hơn nghìn thủ cấp tộc nhân Đằng gia thành tháp đầu lâu, chính thức tuyên cáo: Vương Lâm — đệ nhất nhân Triệu quốc, thay thế Phác Nam Tử. Đằng Hóa Nguyên bị giam trong trận cấm, chứng kiến toàn bộ gia tộc sụp đổ, đành dùng cờ vàng triệu binh cốt xương cố chống trả lần cuối; Vương Lâm dùng hồn kỳ đập tan đội quân xương rồi ép ĐHN khai ra danh tính kẻ đã tiết lộ vị trí gia đình mình: Cao Khải Minh — chưởng môn Phiêu Miểu Tông, bậc thầy thuật bói toán. (@c0221)"
+    },
+    {
+      chuong: 222,
+      tieuDe: "Diệt Môn",
+      tomTat: "Vương Lâm thu cấm chế cô lập ngàn dặm lại, ép toàn bộ lãnh thổ Đằng gia co rút dần; các chi nhánh và tộc nhân phân tán xa đều bị áp lực cấm chế tiêu diệt theo. Đằng Hóa Nguyên trong cơn hấp hối còn cố giả ý 'ân oán xóa bỏ, xin tha mạng' — VL nhìn thấu ngay: thật tâm ĐHN chỉ muốn thoát thân, sống đủ để đạt Hóa Thần kỳ trả thù sau này. Đúng lúc đó Phác Nam Tử giáng xuống từ xa. Vương Lâm không ngần ngại phóng mũi nhọn ánh sáng xuyên qua mi tâm Đằng Hóa Nguyên — lão tổ Đằng gia gục chết tại chỗ, kết thúc mối thù ba đời. (@c0222)"
+    },
+    {
+      chuong: 223,
+      tieuDe: "Rời Triệu Quốc",
+      tomTat: "Phác Nam Tử đòi quyết chiến; ngay lúc đó Sứ Giả Đại Nhân — đại diện tứ cấp Tu Chân Quốc Kỳ Tông phái, Hóa Thần sơ kỳ — giáng xuống đòi Nghịch Thiên châu. Vương Lâm thi triển Thông Thiên thuật Cự Ma tộc dùng một giọt huyết Cổ Thần, triệu hư ảnh kim nhân khổng lồ chém đứt cánh tay phải Sứ Giả; Sứ Giả hoảng sợ dùng Phác Nam Tử làm lá chắn hứng đòn, Phác Nam Tử hóa tro trong chớp mắt. Sứ Giả tháo chạy về Kỳ Tông. Cao Khải Minh — chưởng môn Phiêu Miểu Tông, người đã bói ra vị trí gia đình Vương Lâm — tự sát để cứu môn phái khỏi bị vạ lây. Vương Lâm trở về thôn quê, khóc trước tổ từ họ Vương, phá hủy tháp đầu lâu, nhận ra chỉ trả thù là chưa đủ — phải chủ động đạt bất tử. Hắn rời Triệu quốc. Một thanh niên tà dị tên Nạp Đa (Anh Biến sơ kỳ, từ Ngũ Hành tinh) đuổi theo đòi lấy lại túi trữ vật. (@c0223)"
+    },
+    {
+      chuong: 224,
+      tieuDe: "Nạp Đa",
+      tomTat: "Vương Lâm trả lại túi trữ vật; Nạp Đa tức giận muốn trả đũa nhưng bị VL thị uy bằng Cấm Phiên — vật phát sinh Thiên Kiếp — đành lùi bước. Nạp Đa tiết lộ: để đột phá Cực Cảnh phải dùng trấn quốc chi bảo của một tứ cấp Tu Chân Quốc; hắn khoe Cực Cảnh Ngũ Sắc do bạn thân đã mất tặng. Tự giới thiệu tên Nạp Đa, xuất thân Ngũ Hành tinh; dùng la bàn đen mở hắc động rời khỏi tinh cầu. Vương Lâm xác định mục tiêu: đến Liên Minh Ngũ Phái — tứ cấp Tu Chân Quốc gần nhất — để tìm đường Hóa Thần kỳ; hắn đơn thân phá vỡ màng giới quang bình tiến vào lãnh thổ Liên Minh Ngũ Phái. (@c0224)"
+    },
+    {
+      chuong: 225,
+      tieuDe: "Hóa Phàm",
+      tomTat: "Vương Lâm đặt chân vào tứ cấp Tu Chân Quốc Liên Minh Ngũ Phái, đi bộ giữa phàm nhân. Sau nhiều tháng suy nghĩ, hắn nhận ra chân lý: muốn đạt Hóa Thần thì trước tiên phải thật sự 'hóa phàm' — hiểu sâu cuộc sống con người bình thường. Hắn chủ động tán tán toàn bộ tu vi bổn tôn, để bổn tôn ẩn ngủ; phân thân Nguyên Anh sơ kỳ tồn tại như thực thể độc lập bên ngoài. Gia nhập đoàn xe của Lữ Hưng với danh nghĩa thầy thuốc thảo dân; dùng Bách niên thụ diệp chữa bệnh cho quý nhân ẩn danh trong đoàn, được Lữ Hưng tặng ngựa. (@c0225)"
+    },
+    {
+      chuong: 226,
+      tieuDe: "Ngưng Sát",
+      tomTat: "Đồng hành cùng đoàn xe tiến về kinh thành, Vương Lâm lần đầu cảm nhận rõ ràng lớp sương đỏ bao quanh thân — lệ khí tích tụ từ bốn trăm năm giết chóc. Tâm bình thản làm sát khí tự tan; hắn tính ra khoảng một năm sẽ tiêu tán hoàn toàn nếu không can thiệp. Vừa tiếc vừa tò mò, hắn thử ngưng tụ sát khí — chỉ nén được một phần mười rồi bất lực. Đêm nghỉ trên quan đạo, VL ngồi quanh đống lửa cùng đoàn hộ vệ, uống rượu, lần đầu cảm thấy bình thản thật sự sau bốn trăm năm. Lữ Hưng hứa: tới kinh thành có việc gì thì tìm hắn ở cửa hàng Thiên Nam. (@c0226)"
+    },
+    {
+      chuong: 227,
+      tieuDe: "Tiên Mộc",
+      tomTat: "Đoàn xe vào kinh thành Liên Minh Ngũ Phái. Phân thân Vương Lâm đột phá tự nhiên từ Nguyên Anh sơ kỳ lên trung kỳ trong trạng thái tâm bình thản. Hắn phát hiện chín cột đá đen dựng giữa kinh thành — Tiên Mộc — nơi các tu sĩ khắp nơi đến tham ngộ. Một lão nhân thần bí đọc thấu cảnh giới mọi người trên phố nhưng không ai biết danh tính; lão cho VL lời khuyên: muốn Hóa Thần phải đạt 'ý cảnh' — cảnh giới của ý chí. VL bỏ ra tám lạng vàng mua cửa hàng nhỏ ở Thành Tây, bắt đầu cuộc sống ẩn cư giả phàm nhân, hàng ngày ngồi cảm ngộ thiên đạo. (@c0227)"
+    },
+    {
+      chuong: 228,
+      tieuDe: "Pháp Bảo",
+      tomTat: "Vương Lâm nhổ đại thụ về điêu khắc tượng gỗ — nhớ lại cha dạy nghề mộc thuở nhỏ. Khi tập trung khắc, linh lực trong cơ thể tự nhiên dung nhập vào từng nhát dao, thấm vào gỗ. Hắn điêu khắc phụ mẫu, rồi toàn bộ dân thôn và linh thú gặp trong bốn trăm năm. Cuối tháng phát hiện: mỗi bức tượng gỗ mục đều chứa linh lực khổng lồ, uy lực ngang pháp bảo cấp thấp đến trung gia — phương thức luyện pháp bảo chưa từng thấy, sinh ra từ tâm cảnh hóa phàm. Duy thượng phẩm linh thú và hoang thú thì khắc thế nào cũng không thành hình — giới hạn rõ ràng. Thiếu niên hàng xóm kết thân, gia đình mời VL sang ăn uống; VL lần đầu cảm thấy bình thản thật sự qua bữa cơm người thường. (@c0228)"
+    },
+    {
+      chuong: 229,
+      tieuDe: "Tượng Khắc Gỗ Giao Long",
+      tomTat: "Sau một năm sống phàm, cửa hàng điêu khắc của Vương Lâm có chút tiếng tăm. Hắn kết thân với Đại Ngưu — thiếu niên mười hai tuổi con thợ rèn, ngày nào cũng mang rượu trái cây sang xem điêu khắc. VL xác nhận giới hạn: chỉ khắc được tượng trung phẩm linh thú trở xuống; thượng phẩm linh thú tương đương Hóa Thần kỳ luôn vỡ vụn ở nét cuối. Thanh niên Từ Đào — tùy tùng thân tín của thế tử Đông Nam Vương — tình cờ ghé cửa hàng, nhận ra tượng gỗ VL vượt xa mọi thợ mộc danh tiếng ở kinh thành: sự khác biệt nằm ở chữ 'Sinh'. Hắn muốn mua bức tượng giao long; VL định giá mười lạng vàng. (@c0229)"
+    },
+    {
+      chuong: 230,
+      tieuDe: "Chưa Gặp Bao Giờ",
+      tomTat: "Từ Đào mua tượng giao long mười lạng vàng, phi ngựa về Đông Nam Vương phủ dâng thế tử. Vương Lâm tiếp tục bế tắc: cả năm thử điêu khắc nhân vật Hóa Thần kỳ — Mạnh Đà Tử, Cổ Đế, Lục Dục Ma Quân, thượng phẩm linh thú — tất cả đều hóa tro khi ép hoàn thiện. Hắn tin: khắc được tượng Hóa Thần kỳ thành công thì tu vi sẽ đột phá. Sát khí hồng quanh thân nay co lại chỉ còn bằng bàn tay; hắn chủ động áp súc, không để tiêu tán hoàn toàn. Trong Đông Nam Vương phủ: thế tử (tu sĩ Ngưng Khí tầng 8) nhận tượng, vội đem vào đại điện dâng phụ vương — Đông Nam Vương vốn mê đồ điêu khắc. Trong đại điện có hai tu sĩ bí ẩn mặc đạo bào ngồi dự tiệc; chương khép lại đúng lúc thế tử đặt tượng giao long xuống trước mặt vương gia, phản ứng chưa được tiết lộ. (@c0230)"
     }
   ]
 };
