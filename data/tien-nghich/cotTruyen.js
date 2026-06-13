@@ -1206,6 +1206,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 240,
       tieuDe: "Thiên Đạo Luân Hồi",
       tomTat: "7 ngày sau sự kiện CVT: Từ Đào dẫn thế tử điện hạ (tu sĩ Ngưng Khí chưa trúc cơ thành) đến quỳ lạy ba cái tạ ơn, tặng túi trữ vật chứa lượng lớn linh thạch. VL không nói một câu nào, nhận rồi đặt sang một bên. 5 năm tiếp theo (tổng hơn 20 năm hóa phàm). Cha Đại Ngưu qua đời vì già yếu — không thoát khỏi thiên đạo luân hồi (sinh lão bệnh tử). VL suy tư: có thể dùng thuật nghịch thiên kéo dài thọ mệnh nhưng hậu quả là khi nhập lục đạo luân hồi sẽ rơi vào hạ đẳng (khác trường hợp Vương Trác — người tu đạo bản thân đã nghịch thiên). VL lấy đóa hoa đen — tài liệu quý nhất luyện đan — hóa thành điểm sáng nhập vào hồn phách cha Đại Ngưu vừa thoát thể, giúp hồn lực mạnh hơn để đầu thai chỗ tốt hơn. Hồn phách cảm kích quỳ lạy, lưu luyến nhìn vợ con lần cuối rồi bay lên trời. Con trai Đại Ngưu 9 tuổi nhìn thấy hồn phách ông nội. VL cảm ngộ thiên đạo luân hồi qua sinh lão bệnh tử — nhưng vẫn chưa tìm ra ý cảnh cuối cùng của bản thân. (@c0240)"
+    },
+    {
+      chuong: 241,
+      tieuDe: "Thiên Vận Tử",
+      tomTat: "Tổng cộng hơn 30 năm hóa phàm. Tằng Văn Trác (Tiểu Ngưu, con Đại Ngưu) đã gia nhập Bạch Vân Tông được 3 năm nhờ VL bí mật cải biến thể chất từ nhỏ. Đại Ngưu trung niên sang thăm, kể tu sĩ tập trận gây náo loạn bên ngoài thành. VL tiếp tục điêu khắc — trong lúc tạc tượng lão già áo xanh (tuế nguyệt ý cảnh), thần niệm bất ngờ bay ra khỏi tinh cầu vào biển sao, sắp lạc vào luân hồi. Lão đạo Thiên Vận Tử cưỡi tảng đá khổng lồ đi qua, dùng pháp lực ép VL quay về. Nhận xét 'sắp tới Hóa Thần', gọi Chu Tước tinh là 'tu chân tinh vứt đi'. Thu VL làm ký danh đệ tử, lưu tinh đồ Thiên Vận Tinh (tinh cầu lớn hơn vô số lần) vào đầu VL, hẹn đến Thiên Vận Tinh tìm hắn. Tu vi phân thân nhảy từ Nguyên Anh trung kỳ lên hậu kỳ đỉnh sau cảm ngộ thiên đạo luân hồi. Điêu khắc thành công tượng lão già áo xanh — tương đương pháp bảo Nguyên Anh kỳ cao nhất. Phát hiện hơn trăm khe nứt không gian phủ khắp lãnh thổ, nhận ngọc giản triệu tập đại chiến từ Liên Minh Tứ Phái. (@c0241)"
+    },
+    {
+      chuong: 242,
+      tieuDe: "Vũ Chi Tiên Môn",
+      tomTat: "Chu Võ Thái đến gặp VL: tặng ngọc giản chứa thần thông Hóa Thần kỳ (từ chối nhận tượng gỗ để không làm lệch đạo tâm); đại diện Liên Minh Tứ Phái chính thức mời VL gia nhập kháng Tuyết Vực. CVT tiết lộ: Chu Tước tinh nằm sát Vũ chi Tiên Môn — một trong tứ đại tiên môn nối tới mảnh vỡ Cổ Tiên Giới. VL từ chối tham chiến. (@c0242)"
+    },
+    {
+      chuong: 243,
+      tieuDe: "Không Muốn Xưng Hùng",
+      tomTat: "Bốn tu sĩ Nguyên Anh hậu kỳ mặc áo đen của Tứ Phái tấn công VL để bắt buộc ông gia nhập. VL giết ba người bằng Thôn Hồn, Cực Cảnh và cờ đen cấm khí; CVT chặn người thứ tư rồi dùng pháp quyết ý cảnh (gây ảo giác) và bóp nát Nguyên Anh diệt khẩu trước mặt VL — chứng minh lập trường không liên quan. CVT hóa bốn thi thể thành tro, rời đi, âm thầm kết luận 'VL chỉ có thể làm bạn không thể làm địch'. (@c0243)"
+    },
+    {
+      chuong: 244,
+      tieuDe: "Vũ Đỉnh",
+      tomTat: "Lão đầu bỉ ổi xuất hiện mang gà nướng, tiết lộ nguyên nhân chiến tranh: Tứ Phái loạn vì một cậu nhóc có được Vũ Đỉnh của tu sĩ Tuyết Vực. Vũ Đỉnh là vật mở cửa Vũ chi Tiên Môn; cứ sau nhiều năm xuất hiện trên tinh cầu gần tiên môn tương ứng. Lão giải thích bí mật Cổ Tiên Giới: Cổ Tiên chết sạch trong cuộc chiến viễn cổ, Cổ Tiên Giới bị phá tan thành mảnh vỡ; từ Hóa Thần muốn đột phá Anh Biến bắt buộc phải hấp thu khí tiên giới trong mảnh vỡ (hoặc có Anh Biến đan). VL hỏi về 'ngày thiên đạo mở ra'. (@c0244)"
+    },
+    {
+      chuong: 245,
+      tieuDe: "Thiên Đạo Vô Tình",
+      tomTat: "Lão đầu giải thích hạn chế trong Cổ Tiên Giới: mảnh vỡ nhỏ chỉ chịu được pháp lực tối đa Hóa Thần, tu vi cao hơn vào phải tự hạn chế. Yêu cầu VL điêu khắc tượng gỗ cho Tiểu Thúy ở Hồng Phấn Lâu — bức giống thật bị từ chối ('giống con khỉ!'), bức đẹp trai được nhận. Lão rời đi, để lại pháp bảo mũ rơm, hẹn 99 tượng nữa khi VL đạt Hóa Thần. Khắp Liên Minh Tứ Phái cưỡng bức toàn dân dọn tuyết; Đại Ngưu bị bắt đi phương Nam. VL tặng gỗ điêu khắc bảo vệ khỏi đông cứng cho hai vợ chồng. CVT liên lạc qua ngọc giản nêu nghi hoặc: tuyết rơi 4 tháng thay vì 10 ngày thông lệ — hành vi bất thường của Tuyết Vực. (@c0245)"
+    },
+    {
+      chuong: 246,
+      tieuDe: "Thiên Chi Kiều Nữ",
+      tomTat: "CVT gửi ngọc giản: Tuyết Vực đang tiến hành chiến tranh diệt quốc. Ba nhóm tìm viện binh đều thất bại — ngũ cấp quốc truyền lệnh cấm tham chiến. Nguyên nhân: Tuyết Vực xuất hiện nữ tử thiên tài — 100 năm tu luyện không đan dược đạt Hóa Thần hậu kỳ đỉnh phong, tư chất nhất vạn năm trên Chu Tước tinh. Chu Tước Quốc (lục cấp) chiêu mộ nàng với điều kiện: nâng Tuyết Vực lên ngũ cấp + chọn Tứ Phái làm lãnh thổ mới. Vũ Đỉnh trong tay thái tử là âm mưu từ đầu. VL quyết không tham dự chiến tranh, rời đi bay về cực Đông thu gỗ trăm năm tuổi để khắc tượng lần cuối. (@c0246)"
+    },
+    {
+      chuong: 247,
+      tieuDe: "Ý Cảnh Sinh Tử",
+      tomTat: "VL trở về cửa hàng, bắt đầu điêu khắc từng vong hồn bị giết suốt 400 năm tu đạo — từ Tôn Đại Trụ đến Đằng Lệ. Đắm chìm hoàn toàn vào ký ức từ Hằng Nhạc Phái đến 30 năm hóa phàm bình dị. Kết hợp ý nghĩa chữ Tử (400 năm giết chóc) và chữ Sinh (30 năm phàm nhân), cộng với cảm ngộ thiên đạo luân hồi trước kia: đạt ý cảnh Sinh Tử. Tâm cảnh 'Muốn núi là thấy núi, muốn nước là thấy nước' — có thể tự điều khiển cấp độ tu vi. Từ tượng gỗ ngưng tụ một dòng chảy đen. (@c0247)"
+    },
+    {
+      chuong: 248,
+      tieuDe: "Hắc Ấn Chữ Tử",
+      tomTat: "VL ngưng tụ dòng chảy đen từ vô số tượng gỗ + huyết cầu sát khí thành Hắc Ấn hình vuông khắc hình người không mặt mũi (chữ Tử — 400 năm giết chóc), dung nhập vào Nguyên Anh. Kết thúc hóa phàm: thân thể chuyển từ lão già thành hình tu sĩ trẻ tuổi theo từng bước chân. Tu vi sát ngưỡng Hóa Thần — bế quan 10 năm là chắc chắn đột phá. Bên ngoài: Tằng Tiểu Ngưu (Ngưng Khí, đệ tử Bạch Vân Tông) muốn tìm cha mẹ Đại Ngưu bị bắt dọn tuyết nhưng phàm nhân phân tán khắp cả nước — bất lực. Đại Ngưu bỏ trốn đội dọn tuyết, dẫn vợ lén về kinh thành. (@c0248)"
+    },
+    {
+      chuong: 249,
+      tieuDe: "Lần Chia Tay Vĩnh Viễn",
+      tomTat: "VL tìm gặp vợ chồng Đại Ngưu đang lẩn trốn, đưa hai người vượt biên giới sang nước láng giềng an toàn. Đây là lần chia tay vĩnh viễn — VL sắp rời Tứ Phái mãi mãi. Xác nhận mục tiêu tiếp theo: cần Vũ Đỉnh để vào Tiên Môn lấy tiên linh khí (linh khí vẩn đục hiện tại không đủ cho Hóa Thần). Bế quan 1 năm trên đỉnh núi tuyết đợi cơ hội. Chứng kiến đại quân Tuyết Vực giáng lâm: nữ tử áo trắng chỉ huy (Hóa Thần trung kỳ+) một tay phá trận pháp Tứ Phái, xuất 5 phân thân linh khí Ngũ Hành. VL thấy nữ tử quá mạnh, không dám ra tay đoạt linh khí. (@c0249)"
+    },
+    {
+      chuong: 250,
+      tieuDe: "Thiên Nghịch Châu Chấn Động",
+      tomTat: "Đại chiến Tuyết Vực tổng công kích: bốn phía, bốn phái chống đỡ. Tu sĩ Tuyết Vực dùng hàn khí làm vũ khí tấn công, hồi phục linh lực ngay trên băng tuyết. Tứ Phái tung bảo bối trấn phái: Thủy Mặc Môn (đồng cổ lớn), Thanh Mộc Nhai (lão già mặc xích), Hắc Hồn Phái (bút lông đen — mạnh nhất, trời đất biến sắc, cả hai phái kia kinh hãi). VL trên đỉnh núi tuyết nhìn xuống trận chiến toàn cảnh. Thiên Nghịch Châu đột ngột chấn động: cảm ứng Hỏa linh từ pháp bảo nữ tử Tuyết Vực — thứ cần để viên mãn ngũ hành trong châu. Nhưng nữ tử quá mạnh, VL biết rõ không thể đoạt, chỉ nhìn không dám xuất thủ. (@c0250)"
     }
   ]
 };
