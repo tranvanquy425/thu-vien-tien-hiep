@@ -75,6 +75,19 @@
     try { return await loadJson(bo.dataBase + "/cot-truyen/" + quyen + ".json"); }
     catch (e) { usedDemo = true; return (DEMO.cotTruyen && DEMO.cotTruyen[quyen]) || []; }
   }
+  // Gộp MỌI nhóm cotTruyen (q01/q02/…) thành 1 mảng phẳng theo chương — để lọc theo QUYỂN GỐC (quyenList).
+  async function loadAllCotTruyen() {
+    const D = (window.LIB_DATA || {})[slug];
+    let all = [];
+    if (D && D.cotTruyen && typeof D.cotTruyen === "object") {
+      Object.keys(D.cotTruyen).forEach(k => { if (Array.isArray(D.cotTruyen[k])) all = all.concat(D.cotTruyen[k]); });
+    }
+    if (!all.length) {
+      // fallback: thử nạp theo volumes value
+      for (const v of (DB.volumes || [])) { try { all = all.concat(await loadCotTruyen(v.value)); } catch (e) {} }
+    }
+    return all.filter(c => c && c.chuong != null).sort((a, b) => a.chuong - b.chuong);
+  }
 
   const DB = {};
   async function preload() {
@@ -194,7 +207,8 @@
 
   /* --- 2. Cốt Truyện --- */
   async function viewCotTruyen() {
-    const vols = DB.volumes;
+    // Dùng QUYỂN GỐC (quyenList — ranh giới nguyên tác Nhĩ Căn) thay vì volumes cũ (mốc 100/220 sai).
+    const QL = (DB.quyenList || []).slice().sort((a, b) => (a.start || 0) - (b.start || 0));
     view.innerHTML =
       '<div class="page-head"><h1>Cốt Truyện</h1><span class="sub">Tóm tắt theo chương</span></div>' +
       '<div class="toolbar">' +
@@ -203,12 +217,21 @@
         '<span class="count" id="ctCount"></span></div>' +
       '<div id="ctVolInfo"></div><div id="ctList" class="cards" style="gap:10px"></div>';
     const fVol = $("#fVol"), fCh = $("#fCh");
-    if (!vols.length) { $("#ctList").innerHTML = '<div class="empty">Chưa có dữ liệu quyển.</div>'; return; }
-    fVol.innerHTML = vols.map(v => '<option value="' + v.value + '">' + esc(v.label) + " · " + esc(v.range || "") + '</option>').join("");
-    async function renderVol() {
-      const v = vols.find(x => x.value === fVol.value) || vols[0];
-      $("#ctVolInfo").innerHTML = "";   // bỏ ô tóm tắt quyển — vào thẳng danh sách chương
-      const data = await loadCotTruyen(v.value);
+    const all = await loadAllCotTruyen();
+    if (!all.length) { $("#ctList").innerHTML = '<div class="empty">Chưa có dữ liệu cốt truyện.</div>'; return; }
+    const chMax = all.reduce((m, c) => Math.max(m, c.chuong), 0);
+    // Tính dải chương mỗi quyển; quyển cuối lấy tới chương lớn nhất có dữ liệu.
+    QL.forEach((q, i) => { q._end = (i + 1 < QL.length) ? (QL[i + 1].start - 1) : chMax; });
+    // Chỉ hiện các quyển CÓ dữ liệu cốt truyện.
+    const quyens = QL.filter(q => all.some(c => c.chuong >= q.start && c.chuong <= q._end));
+    if (!quyens.length) { $("#ctList").innerHTML = '<div class="empty">Chưa có dữ liệu quyển.</div>'; return; }
+    fVol.innerHTML = '<option value="__all">— Tất cả các quyển —</option>' +
+      quyens.map(q => '<option value="' + q.value + '" title="' + esc(q.han || "") + '">Quyển ' + q.so + ': ' + esc(q.ten) + ' · Ch.' + q.start + '–' + q._end + '</option>').join("");
+    function renderVol() {
+      const isAll = fVol.value === "__all" || !fVol.value;
+      const q = quyens.find(x => x.value === fVol.value);
+      $("#ctVolInfo").innerHTML = "";
+      const data = isAll ? all : all.filter(c => c.chuong >= q.start && c.chuong <= q._end);
       fCh.innerHTML = '<option value="">— Tất cả —</option>' + data.map(c => '<option value="' + c.chuong + '">Ch.' + c.chuong + (c.tieuDe ? " · " + esc(c.tieuDe) : "") + '</option>').join("");
       drawCt(data);
       function drawCt(list) {
@@ -260,6 +283,8 @@
     // --- Bộ lọc theo QUYỂN cho Kinh lịch ---
     // Mỗi sự kiện có neo chương (vd "@c0007", "@c0023-c0036"). Lấy số chương ĐẦU để xếp vào quyển.
     const QL = (DB.quyenList || []).slice().sort((a, b) => (a.start || 0) - (b.start || 0));
+    // Tính dải chương mỗi quyển: end = start quyển kế − 1; quyển CUỐI để mở (mở rộng theo tiến độ đọc).
+    QL.forEach((q, i) => { q._end = (i + 1 < QL.length) ? (QL[i + 1].start - 1) : null; });
     const evChNum = e => { const m = String(e.chuong || e.khoang || "").match(/c?(\d{1,4})/i); return m ? parseInt(m[1], 10) : null; };
     const quyenCua = ch => {
       if (ch == null || !QL.length) return null;
@@ -268,9 +293,12 @@
       return pick;
     };
     const klEvents = (t.kinhLich || []);
-    const klQuyens = [];   // các quyển XUẤT HIỆN trong kinh lịch nhân vật này (giữ thứ tự)
+    const klQuyens = [];   // các quyển XUẤT HIỆN trong kinh lịch nhân vật này
+    let klChMax = 0;       // số chương lớn nhất xuất hiện (để hiện dải quyển cuối)
     const kl = klEvents.map(e => {
-      const qv = quyenCua(evChNum(e));
+      const chn = evChNum(e);
+      if (chn && chn > klChMax) klChMax = chn;
+      const qv = quyenCua(chn);
       const qattr = qv ? ' data-q="' + esc(qv.value) + '"' : '';
       if (qv && !klQuyens.some(x => x.value === qv.value)) klQuyens.push(qv);
       if (e.bridge) {
@@ -284,12 +312,16 @@
         (e.chuong ? '<a class="neo" href="#doc" data-goch="' + String(e.chuong).replace(/[^0-9]/g, "") + '">' + esc(e.chuong) + '</a>' : '') +
         '</div><div class="ev-text">' + esc(e.text || "") + '</div></div>';
     }).join("");
-    // Thanh lọc quyển: chỉ hiện khi kinh lịch trải >1 quyển
+    // Nhãn dải chương: "Ch.X–Y" (quyển cuối lấy tới chương lớn nhất nhân vật xuất hiện).
+    const qRange = q => "Ch." + q.start + "–" + (q._end || (klChMax >= q.start ? klChMax : q.start));
+    // Bộ lọc quyển: DROPDOWN gọn, mặc định "Tất cả"; chỉ hiện khi kinh lịch trải >1 quyển.
+    klQuyens.sort((a, b) => (a.start || 0) - (b.start || 0));
     const klFilter = (klQuyens.length > 1)
-      ? '<div class="ql-filter"><button class="qchip active" data-q="">Tất cả</button>' +
-        klQuyens.sort((a, b) => (a.start || 0) - (b.start || 0)).map(q =>
-          '<button class="qchip" data-q="' + esc(q.value) + '" title="' + esc(q.han || "") + '">Quyển ' + esc(String(q.so)) + ': ' + esc(q.ten) + '</button>'
-        ).join("") + '</div>'
+      ? '<div class="ql-filter"><div class="ql-guide">Đạo hữu chọn theo quyển để tìm dữ liệu nhanh hơn</div>' +
+        '<select class="ql-select" id="klQuyenSel"><option value="">— Tất cả các quyển —</option>' +
+        klQuyens.map(q => '<option value="' + esc(q.value) + '" title="' + esc(q.han || "") +
+          '">Quyển ' + esc(String(q.so)) + ': ' + esc(q.ten) + ' (' + esc(qRange(q)) + ')</option>').join("") +
+        '</select></div>'
       : '';
     const RTAG = { "cha-me": "Cha/Mẹ", "ban-be": "Bạn bè", "dong-minh": "Đồng minh", "doi-thu": "Đối thủ", "ho-hang": "Họ hàng", "an-nhan": "Ân nhân", "su-mon": "Sư môn", "the-thiep": "Thê thiếp", "khac": "Khác" };
     const nmArr = _sortChrono(t.nhanMach || []);
@@ -418,13 +450,12 @@
       const cat = b.dataset.cat;
       $("#dBody").querySelectorAll("#bagList details").forEach(d => { d.style.display = (!cat || d.dataset.cat === cat) ? "" : "none"; });
     });
-    // bộ lọc Kinh lịch theo QUYỂN
-    $("#dBody").querySelectorAll(".ql-filter .qchip").forEach(b => b.onclick = () => {
-      $("#dBody").querySelectorAll(".ql-filter .qchip").forEach(x => x.classList.remove("active"));
-      b.classList.add("active");
-      const q = b.dataset.q;
+    // bộ lọc Kinh lịch theo QUYỂN (dropdown gọn)
+    const klSel = $("#dBody").querySelector("#klQuyenSel");
+    if (klSel) klSel.onchange = () => {
+      const q = klSel.value;
       $("#dBody").querySelectorAll("#klTimeline .ev").forEach(d => { d.style.display = (!q || d.dataset.q === q) ? "" : "none"; });
-    });
+    };
   }
 
   /* --- 4. Map --- */
