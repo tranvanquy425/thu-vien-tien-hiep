@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-13T09:46:00.000Z chu-vu-thai-full */
+/* sync-bump 2026-06-13T10:05:00.000Z cvt-luusuhuynh */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -4009,9 +4009,14 @@ window.LIB_DATA["tien-nghich"]={
      "diem": [],
      "kinhLich": [
       {
+       "chuong": "@c0010",
+       "importance": "minor",
+       "text": "Được nhắc gián tiếp qua lời Trương Hổ — 'con chồn' tạp vụ tâm địa gian xảo, không xem đệ tử ký danh ra gì (chưa xuất hiện trực tiếp)."
+      },
+      {
        "chuong": "@c0026",
        "importance": "major",
-       "text": "Bị Trương Hổ giết vì mâu thuẫn cá nhân. Trương Hổ bỏ trốn ngay sau đó qua Đông môn. Vụ án bỏ ngỏ trong môn phái."
+       "text": "Quản lý khu tạp vụ Hằng Nhạc phái; ép Trương Hổ tăng định mức đốn củi 100→1000 cân/ngày để buộc hắn rời phái; bị Trương Hổ tố nhận tiên phù của Triệu Phú Quý đổi việc nhẹ; rút trủy thủ đâm Trương Hổ rồi bị Vương Lâm dùng Dẫn Lực thuật khống chế; bị Trương Hổ giết bằng búa. Dưới giường có hốc bí mật chứa cuộn tiên phù quý. Trương Hổ bỏ trốn qua Đông môn; vụ án bỏ ngỏ."
       }
      ],
      "tuVi": "Tu vi cụ thể chưa được xác nhận trong nguyên tác tới Ch.30.",
@@ -4026,6 +4031,7 @@ window.LIB_DATA["tien-nghich"]={
      }
     },
     "nguon": [
+     "@c0010",
      "@c0026",
      "@c0030"
     ]
