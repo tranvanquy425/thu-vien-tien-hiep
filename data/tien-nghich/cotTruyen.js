@@ -1608,6 +1608,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 320,
       tieuDe: "Tạp Mạc — Phù Văn Tinh",
       tomTat: "Nhóm VL gặp Tạp Mạc — lục diệp Thuật Chú Sư Tiên Di tộc (tương đương Hóa Thần trung kỳ). Khác với các Dã Nhân thù địch trước, Tạp Mạc giao tiếp hòa bình. Hắn tiết lộ hai bí mật lớn: VL có Phù Hồn thuộc về một thực thể bí ẩn tên Mặc Mặc; và hành tinh này tên thật là Phù Văn tinh — bị Chu Tước quốc chiếm đoạt và đổi tên. Bí mật về nguồn gốc thật của VL và hành tinh bắt đầu hé lộ. (@c0320)"
+    },
+    {
+      chuong: 321,
+      tieuDe: "Tầng 3 — Thế Giới Đỏ",
+      tomTat: "Nhóm VL cứu Hồ lão khỏi bị thôi hóa lần hai. VL cõng Vận Manh bay vào cổng tầng 3 — một thế giới màu đỏ rực với đất đỏ, cây đỏ, núi đỏ; linh lực dày đặc hơn tầng trên rõ rệt. Phía xa xuất hiện ánh kim quang — hướng của Luân Hồi Thụ. Cả nhóm tiến vào với mục tiêu tìm bảo vật. (@c0321)"
+    },
+    {
+      chuong: 322,
+      tieuDe: "Luân Hồi Thụ — Cặp Chuông Đổi Cơ",
+      tomTat: "Nhóm VL tìm thấy Luân Hồi Thụ — cây cổ khô héo ngàn năm phát ánh vàng. Khâu Tứ Bình tặng VL cặp chuông thượng cổ (bảo vật lấy từ bụng yêu thú) để đổi lấy chỗ ngồi dưới gốc cây cầu cơ Hóa Thần. Hồ lão bắt đầu quy trình thôi hóa: hy sinh tuổi thọ Hứa La và Vận Manh (mỗi người 1 giáp = 12 năm) để cây già thêm và cho quả. Luân Hồi Thụ phản ứng — VL vô ý trở thành chủ nhân toàn bộ cây. (@c0322)"
+    },
+    {
+      chuong: 323,
+      tieuDe: "Hy Sinh — Thoát Chạy",
+      tomTat: "Hồ lão tàn nhẫn hy sinh toàn bộ tuổi thọ còn lại của Hứa La và Vận Manh — hai người phun máu ngã xuống, lấy được 3 quả Luân Hồi (Hồ lão 2, VL 1). Lục diệp Thuật Chú Sư bất ngờ xuất hiện thôi hóa Khâu Tứ Bình thành khôi lỗi. Lục diệp Chiến Thú Sĩ bắt Thao Thú của Hồ lão. VL kéo Hồ lão bỏ chạy — lấy túi trữ vật của KTB; nhóm thoát ra khỏi vùng Luân Hồi Thụ. (@c0323)"
+    },
+    {
+      chuong: 324,
+      tieuDe: "Xạ Thần Xa Giết Xỉ Mộc",
+      tomTat: "Xỉ Mộc — lục diệp Chiến Thú Sĩ (ký hiệu dung nhập da, tự phục hồi xương) — đuổi theo VL đòi giao chiến. VL chém 10 tiên kiếm nhưng vô hiệu; du hồn Hứa Lập Quốc trong kiếm cảnh báo không thể dùng thêm. VL kích hoạt Xạ Thần Xa: Hồn Thú xuyên thủng cơ thể Xỉ Mộc, nuốt tàn hồn — lục diệp hóa tro bụi. Chi phí: 1 cực phẩm linh thạch. VL chặt Luân Hồi Thụ thành từng khúc bỏ vào túi. (@c0324)"
+    },
+    {
+      chuong: 325,
+      tieuDe: "Thất Diệp Xuất Hiện — Đường Thoát Bị Bịt",
+      tomTat: "VL ẩn trong không gian thiên nghịch nửa tháng: Hồ lão bị lão già lưng gù (thất diệp) bắt; Hứa La + Vận Manh chết, thi thể bị Tiên Di lấy; Khâu Tứ Bình thành khôi lỗi. VL ra khỏi không gian thì phát hiện cổng tầng 1 bị thất diệp Thuật Chú Sư (Anh Biến kỳ) khóa bằng ký hiệu vàng khổng lồ. Tiên kiếm, Cấm Phiên đều vô hiệu trước thất diệp; Thiên Kiếp không phủ xuống được trong thế giới này. Bức tranh gỗ bí ẩn khiến lão do dự — VL mượn cơ hội rút lui, chạy về phía khe nứt hư không. (@c0325)"
+    },
+    {
+      chuong: 326,
+      tieuDe: "Đấu Trong Hư Vô — Ký Hiệu Thực Vật",
+      tomTat: "VL vào khe nứt không gian — đánh nhau với thất diệp trong hư vô tối tăm. Xạ Thần Xa bắn văng lão già trăm trượng; tiên kiếm chém 3 nhát vào ngực. Lão phản kích: dùng vòng xương thú (ký hiệu lục quang) hóa sao sáu cánh, đẩy lui Hồn Thú, phóng ký hiệu thực vật xâm nhập nguyên thần VL. VL cảm thấy não u ám, ký hiệu hình văn dần lan ra. Cuộc rượt đuổi trong hư vô bắt đầu. (@c0326)"
+    },
+    {
+      chuong: 327,
+      tieuDe: "Truy Kích Một Tháng — Giải Mã Mộc Thuộc Tính",
+      tomTat: "Gần một tháng VL bị thất diệp truy kích trong hư vô — ký hiệu thực vật lan dần, không dừng được. VL suy nghĩ: 5 hệ của Nghịch Thiên Châu là thủy/hỏa/thổ/kim/mộc; bốn hệ đầu đã viên mãn hoặc gần; mộc gần bằng không — ký hiệu thực vật bám vì mộc thiếu. Giải pháp: dùng Nghịch Thiên Châu cưỡng hấp ký hiệu thực vật để bù mộc thuộc tính. Lên kế hoạch thực hiện. (@c0327)"
+    },
+    {
+      chuong: 328,
+      tieuDe: "Nghịch Thiên Châu Hấp Ký Hiệu — Thoát Bẫy",
+      tomTat: "VL kích hoạt Nghịch Thiên Châu hấp thu toàn bộ ký hiệu thực vật từ nguyên thần — thành công sau 8 tháng tổng cộng từ khi vào hư vô. Mộc thuộc tính đạt ~95% (9 lá + lá cuối hơn nửa). VL dùng phi kiếm (8 tháng khổ luyện trong hư vô) chém phá ký hiệu cổng lối ra của thất diệp — nhốt lão già trong hư vô, VL bước ra ngoài. Bản Tôn từ ngoài cảm nhận và tìm đến hố sâu Tiên Di. (@c0328)"
+    },
+    {
+      chuong: 329,
+      tieuDe: "Bản Tôn Gặp Đôi Mồi Nhử",
+      tomTat: "Bản Tôn gặp hai người thoát ra từ Tiên Di: lão già áo xanh (Hóa Thần sơ kỳ) và nữ tử áo lụa trắng. Bản Tôn đấm vỡ hết pháp bảo của họ chỉ bằng thể phách thuần. Phát hiện lão già đã bị Tiên Di tộc luyện thành phù khôi ngũ diệp. Nữ tử thú nhận từ Tiên Di Chi Địa ra (7 người vào, 2 người còn). Bản Tôn bắn 2 giọt máu vào mi tâm hai người làm dấu ấn định vị, ném họ vào hố sâu Tiên Di để tìm VL — vì Bản Tôn không thể tự vào (cần người ngoài mở lối ra cho VL). (@c0329)"
+    },
+    {
+      chuong: 330,
+      tieuDe: "Ly Khai — Quả Luân Hồi Cho Bản Tôn — Chu Như Bị Đoạt",
+      tomTat: "VL dùng dấu ấn máu Bản Tôn để Bản Tôn mở khe nứt từ ngoài — VL thoát ra, bỏ lại đôi nam nữ trong hư vô. VL cho Bản Tôn uống quả Luân Hồi: chất lỏng vàng ngấm vào máu thịt, tất cả kinh mạch thay đổi, tốc độ hấp thu linh lực tăng vô số lần — Bản Tôn chính thức trở thành bộ tộc Cổ Thần. VL bắt đầu chế tác tượng gỗ Tuế Nguyệt từ Luân Hồi Mộc. Tại Chu gia thôn, Chu Như (Lý Mộ Uyển chuyển sinh, 3 tuổi, bách mạch thông/tử quang thấu thể) bị lão đạo sĩ phái nhỏ phụ thuộc Vân Thiên Tông phát hiện và cưỡng đoạt đem đi tu tiên — lần đầu tiên nàng mở miệng: 'Cha! Mẹ!' (@c0330)"
     }
   ]
 };
