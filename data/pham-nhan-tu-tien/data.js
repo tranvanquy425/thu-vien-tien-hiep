@@ -1,3 +1,4 @@
+/* sync-bump 2026-06-13T05:19:07Z */
 /* DỮ LIỆU THẬT — Phàm Nhân Tu Tiên. Dùng cho CẢ xem local (file://) lẫn deploy.
    Cảnh giới: Hạ cảnh giới (nhân giới) → Trung cảnh giới (Linh giới) → Độ Kiếp → Tiên giới (+ Pháp Tắc).
    Nguồn đối chiếu: cabaymau.vn/he-thong-tu-luyen-pham-nhan-tu-tien (Chiến xác nhận chính xác) + đối chiếu canon nguyên tác.
@@ -299,20 +300,25 @@ window.LIB_DATA["pham-nhan-tu-tien"].characters = {
           { chuong: 180, importance: "normal", tieuDe: "Tỉnh dậy trong cấm địa — gần Ô Long đàm", text: "Tỉnh dậy tại vùng đất xám bùn lầy cây cối quái dị. Định vị được: gần Ô Long đàm phía Đông Bắc. Thi triển Ẩn hình thuật, xuất Kim phù tử mẫu nhận cảnh giác đi bộ. Tìm thấy Hàn yên thảo bên bờ hồ nhưng nhường đệ tử Thiên Khuyết bảo. Chứng kiến 2 đệ tử Linh Thú Sơn (Vu sư huynh + đồng bọn) lập mưu dụ-giết đệ tử Thiên Khuyết bảo bằng Khu thú phấn + Băng trùy thuật." }
         ],
         tuViMoc: [
-          { chuong: 1, canhGioi: "Phàm nhân", text: "Chưa tu luyện, không có một điểm chân khí." },
-          { chuong: 6, canhGioi: "Phàm nhân — sơ học Vô danh khẩu quyết", text: "Bắt đầu tu Vô danh khẩu quyết, sinh ra tia lương khí lúc có lúc không." },
-          { chuong: 8, canhGioi: "Vô danh khẩu quyết — tầng 1", text: "Luồng năng lượng nội thể từ bằng sợi tóc tăng lên bằng sợi chỉ; vận hành được một chu thiên qua kỳ kinh bát mạch.", importance: "major" },
-          { chuong: 9, canhGioi: "Vô danh khẩu quyết — tầng 2", text: "Luyện thành tầng 2 nhờ dược vật trợ lực; bị nội thương nhẹ khi trùng quan do kinh mạch phá liệt.", importance: "major" },
-          { chuong: 14, canhGioi: "Trường Xuân công — tầng 3 (đỉnh phong)", text: "Sau 4 năm khổ tu, đột phá tầng 3 Trường Xuân công; cảm quan cực kỳ mẫn duệ. Sau đó đình trệ hơn một năm.", importance: "major" },
-          { chuong: 23, canhGioi: "Trường Xuân công — tầng 3 đỉnh phong (sau biến cố tâm ma)", text: "Sau khi dùng bình an phù trừ tâm ma, công lực tăng đạt đỉnh phong tầng thứ ba; cách tầng bốn không còn xa.", importance: "normal" },
-          { chuong: 28, canhGioi: "Trường Xuân công — tầng 4", text: "Nhờ Hoàng Long Đan và Kim Tủy Hoàn, đột phá thành công tầng thứ tư trong một đêm; ngũ cảm tăng vọt mang tính chất, điều khiển được cỗ chân khí kỳ dị.", importance: "major" },
-          { chuong: 34, canhGioi: "Trường Xuân công — tầng 5", text: "Hai tháng trước chương 34 (tức khoảng c032-c033), nhờ Hoàng Long Đan và Kim Tủy Hoàn đột phá thẳng từ tầng tư lên tầng năm; năng lực ghi nhớ võ công 'gặp qua không thể quên' khởi phát.", importance: "major" },
-          { chuong: 43, canhGioi: "Trường Xuân công — tầng 6", text: "Nhờ hơn mười bình linh dược phụ trợ, đột phá tầng sáu — tầng cao nhất Mặc đại phu từng cấp. Công pháp tầng sáu cho năng lực phục hồi thân thể dị thường vượt xa người bình thường, điều chính Hàn Lập cũng không ngờ tới; vẫn che giấu thực lực, chỉ phô tầng tư trước mặt Mặc đại phu.", importance: "major" },
-          { chuong: 59, canhGioi: "Trường Xuân công — tầng 6", text: "Dư Tử Đồng xác nhận Hàn Lập đã tu tới tầng 6 — chỉ kém Dư Tử Đồng 1 tầng (Dư Tử Đồng tầng 7). Chính nhờ tốc độ/tư chất tu luyện vượt dự tính của Mặc đại phu nên đoạt xá thất bại.", importance: "major" },
-          { chuong: 67, canhGioi: "Trường Xuân công — tầng 6 đỉnh phong; bán tu tiên giả", text: "Hàn Lập tự xác nhận đã đạt đỉnh phong tầng sáu Trường Xuân công. Luyện thành hai pháp thuật từ bí tịch: Hỏa Đạn Thuật và Thiên Nhãn Thuật — xác nhận có pháp lực. Ba pháp thuật còn lại chưa nhập môn được. Là người duy nhất trong Thất Huyền môn được coi là 'bán tu tiên giả'.", importance: "major" },
-          { chuong: 75, canhGioi: "Trường Xuân công — tầng 8", text: "Nhờ ngày ngày ăn linh dược, đột phá lên tầng 8. Pháp lực đã vượt qua nhục thân Dư Tử Đồng lúc còn sống, nhưng kỹ xảo chiến đấu và độ nắm vững pháp thuật thực chiến vẫn kém hơn.", importance: "major" },
-          { chuong: 138, canhGioi: "Trường Xuân công — tầng 9", text: "Sau hơn mười ngày khổ tu kết hợp đan dược tại Thái Nam hội, đột phá lên tầng chín. Pháp lực tăng gấp đôi so với tầng tám; thành thạo Lưu sa thuật và Băng đông thuật ngay sau khi vào tầng mới.", importance: "minor" },
-          { chuong: 152, canhGioi: "Trường Xuân công — tầng 11 (tiền-Trúc-Cơ luyện thể)", text: "Hơn hai năm tiềm tu tại Bách Dược Viên, ăn Hoàng Long đan và Kim Tủy hoàn liên tục — Trường Xuân công liên tiếp đột phá hai tầng lên tầng mười một. Đạt trình độ trung đẳng trong đệ tử cấp thấp Hoàng Phong Cốc. Hoàng Long đan và Kim Tủy hoàn hết hẳn công hiệu; bước tiếp theo cần loại đan dược mới.", importance: "major" }
+          { chuong: 1, canhGioi: "Phàm nhân", text: "Khởi điểm — thiếu niên Sơn Biên thôn, chưa tu luyện, trong người không một điểm chân khí.", tieu: [
+            { chuong: 6, canhGioi: "Phàm nhân — sơ học Vô danh khẩu quyết", text: "Bắt đầu tu Vô danh khẩu quyết do Mặc đại phu truyền; sinh ra tia lương khí lúc có lúc không." }
+          ] },
+          { chuong: 8, canhGioi: "Luyện Khí Kỳ (Vô danh khẩu quyết)", text: "Chính thức nhập môn tu tiên: vận hành được chu thiên đầu tiên qua kỳ kinh bát mạch. Giai đoạn nền móng trước khi đổi sang Trường Xuân công.", tieu: [
+            { chuong: 8, canhGioi: "Vô danh khẩu quyết — tầng 1", text: "Luồng năng lượng nội thể từ bằng sợi tóc tăng lên bằng sợi chỉ; vận hành được một chu thiên qua kỳ kinh bát mạch." },
+            { chuong: 9, canhGioi: "Vô danh khẩu quyết — tầng 2", text: "Luyện thành tầng 2 nhờ dược vật trợ lực; bị nội thương nhẹ khi trùng quan do kinh mạch phá liệt." }
+          ] },
+          { chuong: 14, canhGioi: "Luyện Khí Kỳ (Trường Xuân công)", text: "Đổi tu Trường Xuân công — công pháp theo Hàn Lập suốt chặng Luyện Khí. Tu vi leo từ tầng 3 lên đỉnh phong tầng 11 (cận Trúc Cơ), phần lớn nhờ Hoàng Long Đan và Kim Tủy Hoàn.", tieu: [
+            { chuong: 14, canhGioi: "Trường Xuân công — tầng 3 (đỉnh phong)", text: "Sau 4 năm khổ tu, đột phá tầng 3; cảm quan cực kỳ mẫn duệ. Sau đó đình trệ hơn một năm." },
+            { chuong: 23, canhGioi: "Trường Xuân công — tầng 3 đỉnh phong (sau biến cố tâm ma)", text: "Sau khi dùng bình an phù trừ tâm ma, công lực đạt đỉnh phong tầng ba; cách tầng bốn không còn xa." },
+            { chuong: 28, canhGioi: "Trường Xuân công — tầng 4", text: "Nhờ Hoàng Long Đan và Kim Tủy Hoàn, đột phá tầng tư trong một đêm; ngũ cảm tăng vọt mang tính chất, điều khiển được cỗ chân khí kỳ dị." },
+            { chuong: 34, canhGioi: "Trường Xuân công — tầng 5", text: "Khoảng c032-c033, nhờ Hoàng Long Đan và Kim Tủy Hoàn đột phá thẳng từ tầng tư lên tầng năm; năng lực 'gặp qua không thể quên' khởi phát." },
+            { chuong: 43, canhGioi: "Trường Xuân công — tầng 6", text: "Nhờ hơn mười bình linh dược, đột phá tầng sáu — tầng cao nhất Mặc đại phu từng cấp. Có năng lực phục hồi thân thể dị thường; vẫn giấu thực lực, chỉ phô tầng tư." },
+            { chuong: 59, canhGioi: "Trường Xuân công — tầng 6", text: "Dư Tử Đồng xác nhận Hàn Lập đã tu tới tầng 6 — chỉ kém Dư Tử Đồng một tầng. Chính tốc độ/tư chất vượt dự tính của Mặc đại phu khiến đoạt xá thất bại." },
+            { chuong: 75, canhGioi: "Trường Xuân công — tầng 8", text: "Nhờ ngày ngày ăn linh dược, đột phá lên tầng 8. Pháp lực vượt nhục thân Dư Tử Đồng lúc còn sống, nhưng kỹ xảo thực chiến còn kém." },
+            { chuong: 138, canhGioi: "Trường Xuân công — tầng 9", text: "Sau hơn mười ngày khổ tu kết hợp đan dược tại Thái Nam hội, đột phá tầng chín; pháp lực tăng gấp đôi tầng tám. Thành thạo Lưu sa thuật và Băng đông thuật." },
+            { chuong: 152, canhGioi: "Trường Xuân công — tầng 11 (cận Trúc Cơ)", text: "Hơn hai năm tiềm tu tại Bách Dược Viên, liên tiếp đột phá hai tầng lên tầng mười một — trung đẳng trong đệ tử cấp thấp Hoàng Phong Cốc. Hoàng Long đan và Kim Tủy hoàn hết hẳn công hiệu; bước tiếp theo cần đan dược mới (Trúc Cơ Đan)." }
+          ] },
+          { chuong: 67, canhGioi: "Bán tu tiên giả — khởi phát pháp thuật", buocNgoat: true, text: "Bước ngoặt: đạt đỉnh phong tầng sáu Trường Xuân công và LUYỆN THÀNH pháp thuật từ bí tịch — Hỏa Đạn Thuật và Thiên Nhãn Thuật — xác nhận có pháp lực, là người duy nhất Thất Huyền môn được coi là 'bán tu tiên giả'. (Ba pháp thuật còn lại chưa nhập môn.)" }
         ],
         nhanMach: [
           { ten: "Tam thúc (Lão Hàn béo)", tag: "ho-hang", quanHe: "Chú ruột, đệ tử ngoại môn Thất Huyền môn, người tiến cử Hàn Lập" },
@@ -6370,6 +6376,12 @@ window.LIB_DATA["pham-nhan-tu-tien"].factions = {
     }
   ]
 };
+
+window.LIB_DATA["pham-nhan-tu-tien"].quyenList = [
+  { value: "q01", so: 1, ten: "Thất Huyền Môn", han: "", start: 1 },
+  { value: "q02", so: 2, ten: "Gia Nguyên Thành", han: "", start: 100 },
+  { value: "q04", so: 4, ten: "Huyết Cấm Thí Luyện", han: "", start: 172 }
+];
 
 window.LIB_DATA["pham-nhan-tu-tien"].volumes = {
   updatedAt: "2026-06-11",
