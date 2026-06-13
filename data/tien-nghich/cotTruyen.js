@@ -1356,6 +1356,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 270,
       tieuDe: "Tiên Giới Bị Phá Nát",
       tomTat: "VL tiến vào cánh cửa tiên giới, nhận ngọc đỉnh Vi Hồi (dùng để rời tiên giới). Tiên giới đã bị phá nát thành vô số mảnh vỡ trong suốt, tiên khí gần cạn kiệt. VL khám phá quần thể cung điện linh thạch hoang tàn, phát hiện dấu bàn tay khổng lồ chứa khí tức chết người (liên tưởng dấu tay trên Vũ chi môn). Tìm thấy tấm bia đá ghi cung điện là phần thưởng Vũ chi đệ ngũ tiên vương ban cho Thiên Hoa tiên sĩ. Nghi bia đá đặt sai vị trí — dùng phi kiếm san bằng, kéo phần chân bia lên (cliffhanger). (@c0270)"
+    },
+    {
+      chuong: 271,
+      tieuDe: "Tiên Giới Chi Khí",
+      tomTat: "VL nhấc tấm phong bi che trận nhãn trong mảnh vỡ tiên giới, ngưng luyện tia tiên giới khí thành tinh thể tím nhỏ cỡ hạt gạo — tương đương nửa linh lực Triệu quốc. Thanh sam tu sĩ Đại La kiếm tông (Hóa Thần sơ kỳ, mang 1 trong thất kiếm) tuyên bố chủ quyền từ 3.000 năm trước, đe dọa truy sát. VL bất chấp, thu tiên khí rồi phá hủy trận nhãn — cắt nguồn tiên khí Đại La kiếm tông. Lôi Oa + du hồn + Cấm Phiên phản kích kiếm khí cực mạnh; VL truy đuổi đối phương, kết quả treo. (@c0271)"
+    },
+    {
+      chuong: 272,
+      tieuDe: "Chết Trong Trứng Nước",
+      tomTat: "VL úp chuông đồng (pháp bảo thượng cổ) bắt sống thanh sam tu sĩ, để luyện hóa mười ngày 'chết trong trứng nước' — đề phòng đòn đánh cuối của nguyên thần. Sau một tháng thăm dò toàn bộ mảnh vỡ, VL phát hiện ngọn núi hình khóa với tia cấm chế tiên nhân còn sót trong động phủ — nghiên cứu 3 ngày, hỗ trợ mục tiêu 999 cấm chế. Bụi cây cối tạo chữ 'Cứu ta!' khiến VL quyết không dò xét thêm. Mở chuông thu bảo kiếm (300 tổ cấm chế công kích) + ngọc giản ghi 37 mảnh vỡ tiên giới Đại La phái đã lập truyền tống trận. (@c0272)"
+    },
+    {
+      chuong: 273,
+      tieuDe: "Ảo Ảnh",
+      tomTat: "VL dùng ngọc giản bản đồ truyền tống tới mảnh vỡ sa mạc bị phá hủy hoàn toàn do Huyền Phong kiếm tiên cổ đại. Chứng kiến ảo ảnh tiên giới cổ đại: bàn tay đen khổng lồ một quyền đánh nát cả tiên nhân lẫn cung điện; bảo kiếm lam bị bóp nát nhưng vỏ kiếm không vỡ, bay theo khe không gian. Đắm chìm trong ảo ảnh, bị Hồng Điệp đánh lén bằng ngân quang thật — nhờ thần thức Hóa Thần hậu kỳ mới nhận ra kịp. VL gọi đúng tên Hồng Điệp, nàng kinh ngạc hỏi tung tích hắn, tuyên bố giữ VL lại. (@c0273)"
+    },
+    {
+      chuong: 274,
+      tieuDe: "Chiến Hồng Điệp",
+      tomTat: "VL giao chiến Hồng Điệp (Hóa Thần hậu kỳ) — khiêu khích chuyện cha mẹ để phá đạo tâm Băng Thanh Quyết, gieo thành công hạt giống nghi ngờ khiến nàng không thể Anh Biến chừng nào hạt giống còn tồn tại. Ý cảnh vô tình Hồng Điệp suýt xóa sạch ký ức VL; hắn dựa ý cảnh sinh tử giữ tỉnh táo. Trong tình huống nguy cấp bị đuổi, VL đột nhiên ngộ chưởng ấn cung điện tiên giới — bầu trời tối sầm, chưởng ấn cự đại xuyên thẳng qua thân Hồng Điệp, lần đầu sắc mặt nàng đại biến. (@c0274)"
+    },
+    {
+      chuong: 275,
+      tieuDe: "Tiên Ngọc",
+      tomTat: "VL truyền tống tới mảnh tiên giới lửa — nhỏ nhất trong các mảnh đã gặp, khe không gian xuất hiện bất thường nguy hiểm, thần thức không phát hiện trước được. VL ẩn thân bám theo hai đệ tử Đại La phái (tam sư huynh + lục sư đệ) vào đại động phía đông nam, nghe biết nơi này là 1 trong 16 động phủ tiên thú ở tiên giới. Thủy tổ Đại La phái từng bắt tiên thú tại đây rồi thống nhất Thuẫn tinh. Trong động không thể thuấn di. Tam sư huynh dùng tiểu hồ lô xanh thu tiên giới khí sau khi dời tượng đá. (@c0275)"
+    },
+    {
+      chuong: 276,
+      tieuDe: "Lục Sư Đệ Gật Đầu",
+      tomTat: "Trong Tiên Thú Phủ, hai đệ tử Đại La Kiếm Tông phát hiện tiểu động chứa hài cốt phát ô quang, thiết phiến vàng, kiếm tiên và mấy vạn tế ti (Tiên Thú Chi Lương — sợi tơ chui vào cơ thể nuốt sạch da thịt). VL ẩn thân bằng Cấm Phiên quan sát. Khi tế ti ùa ra, tam sư huynh phản bội ném lục sư đệ làm mồi — nhưng lục sư đệ lộ thực lực Hóa Thần trung kỳ (giấu từ đầu), phản sát: ném sư huynh cho tế ti nuốt thân xác rồi dùng pháp quyết ngăn nguyên thần thoát, để tế ti đen nuốt sạch. (@c0276)"
+    },
+    {
+      chuong: 277,
+      tieuDe: "Tái Tham",
+      tomTat: "VL lao vào tiểu động thử cầm kiếm tiên — bị cấm chế đánh bật, chỉ kịp lấy tiên ngọc. Dùng du hồn đánh lạc hướng tế ti đen; toàn bộ Tiên Thú Phủ sụp đổ dây chuyền. Lục sư đệ lộ tên thật là Tôn Lôi, thừa nhận trà trộn Đại La Kiếm Phái; đề xuất liên thủ chia 3 bảo vật (tiên ngọc, kiếm tiên, thiết phiến). VL nói dối chưa lấy được gì, từ chối toàn bộ — Tôn Lôi tức giận nhưng kiêng dè vì cảm nhận Cấm Phiên ẩn trong vách tường. (@c0277)"
+    },
+    {
+      chuong: 278,
+      tieuDe: "Lòng Mang Tâm Tư",
+      tomTat: "VL và Tôn Lôi đàm phán hợp tác: Tôn Lôi tặng Di Tầm Quyết (thần thông phát hiện khe nứt không gian) + Tẩy Linh chi mộc đổi lấy VL hộ tống tới hang. Hai người phòng bị lẫn nhau. Lôi Oa phun lôi cầu đẩy lùi bầy tế ti, nhưng tế ti đen (thủ lĩnh có đạo hạnh, hấp thu lôi cầu nên có thiên địa uy năng) quá mạnh — VL thu Lôi Oa bỏ chạy. Tế ti đen chọn đuổi Tôn Lôi chứ không đuổi VL. (@c0278)"
+    },
+    {
+      chuong: 279,
+      tieuDe: "Tiên Giới Toái Phiến Sụp Đổ",
+      tomTat: "Tôn Lôi dùng hắc phiến phong ấn VL + tế ti trong hắc băng rồi bỏ chạy, để VL làm mồi nhử — kế thất bại vì VL dùng Tuế Nguyệt Ý Cảnh phá băng thoát nhanh hơn. VL vào hang lấy thiết phiến vàng; Tôn Lôi chộp kiếm tiên hai lần đều bị kim quang đánh thương nặng. Tế ti vây bủa, Tôn Lôi tuyệt vọng tự bạo hắc châu (nguyên thần thứ hai — mất nó tu vi tụt từ Hóa Thần trung kỳ xuống Nguyên Anh kỳ) → uy năng vụ nổ đạt giới hạn tiên giới toái phiến, toàn bộ mảnh vỡ sụp đổ; Tôn Lôi bị nuốt vào hư vô. (@c0279)"
+    },
+    {
+      chuong: 280,
+      tieuDe: "Du Hồn Đãng Uy",
+      tomTat: "VL nuốt tiên khí kết tinh, tốc độ vượt sao băng xông ra ngoài tiên giới toái phiến đang sụp đổ. Đáp xuống bình đài phun máu trọng thương; triệu hơn vạn du hồn (thu từ chiến trường ngoại vực) bảo vệ bản thân. Gã áo xám (Hóa Thần tu sĩ, tham lam) ném hỏa cầu đen → du hồn phản kích, lao vào chui vào người gã, khiến gã phải phun tiên huyết phòng thân. Gã định dùng tiểu đỉnh bỏ chạy — VL mở mắt, cách không một trảo đoạt tiểu đỉnh. Trên bình đài có người Cự Ma tộc nhận ra VL, im lặng quan sát. Hứa Lập Quốc trà trộn trong đám du hồn, tự nhủ đắc ý vì ba đồng bọn đã chết hết, chỉ mình còn bình yên. (@c0280)"
     }
   ]
 };
