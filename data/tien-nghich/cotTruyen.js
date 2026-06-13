@@ -1406,6 +1406,106 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 280,
       tieuDe: "Du Hồn Đãng Uy",
       tomTat: "VL nuốt tiên khí kết tinh, tốc độ vượt sao băng xông ra ngoài tiên giới toái phiến đang sụp đổ. Đáp xuống bình đài phun máu trọng thương; triệu hơn vạn du hồn (thu từ chiến trường ngoại vực) bảo vệ bản thân. Gã áo xám (Hóa Thần tu sĩ, tham lam) ném hỏa cầu đen → du hồn phản kích, lao vào chui vào người gã, khiến gã phải phun tiên huyết phòng thân. Gã định dùng tiểu đỉnh bỏ chạy — VL mở mắt, cách không một trảo đoạt tiểu đỉnh. Trên bình đài có người Cự Ma tộc nhận ra VL, im lặng quan sát. Hứa Lập Quốc trà trộn trong đám du hồn, tự nhủ đắc ý vì ba đồng bọn đã chết hết, chỉ mình còn bình yên. (@c0280)"
+    },
+    {
+      chuong: 281,
+      tieuDe: "Thiết Phiến Vàng Bí Ẩn",
+      tomTat: "VL dùng du hồn bóp nát ngọn lửa phòng thân của gã áo xám (Nguyên Anh kỳ), thu tiểu đỉnh. Người Cự Ma tộc trên bình đài — Sất Hổ, trán dấu búa rìu — tiếp cận VL với lời mời bí ẩn, ám chỉ mảnh nhỏ 'thứ sáu'. VL không từ chối cũng không nhận lời. Tư Mã Vân (Quỳ Thủy phái, Hóa Thần sơ kỳ) xuất hiện trao đổi bản đồ: VL nhận bản đồ mảnh nhỏ phía Tây thứ ba; đổi lại bản đồ truyền tống từ mảnh sụp đổ. VL xem bản đồ phát hiện Thiết Phiến vàng — ký lục của Thiên Bảo thượng nhân ghi vị trí động phủ bí mật. (@c0281)"
+    },
+    {
+      chuong: 282,
+      tieuDe: "Động Phủ Thiên Bảo",
+      tomTat: "VL theo bản đồ Thiết Phiến tìm đến động phủ. Thiết Phiến tan chảy khi chạm cổng → phun ra ảo ảnh dẫn vào gian bí mật thứ mười. VL dùng quang quyển đen thu chiếc Xạ Thần xa ở giữa: chiến xa khổng lồ (~10 trượng), thú hồn dẫn phát, khi thu nhỏ như lòng bàn tay. Thiết Phiến tiêu hủy vĩnh viễn sau khi mở khóa bí mật. (@c0282)"
+    },
+    {
+      chuong: 283,
+      tieuDe: "Thu Trọn Xạ Thần Xa",
+      tomTat: "VL thu nốt hai Xạ Thần xa còn lại (tổng 3 chiếc); nhặt thêm tài liệu luyện khí để lộn xộn trong gian thạch thất. Cảnh phụ: người trung niên cầm hồ lô đỏ (bí ẩn chưa rõ danh tính) âm thầm bám theo VL từ xa; y tiết lộ trong tâm rằng đã chuyển Tiên Ngọc Quan Tài thành bảo tháp. Thi thể 'Đình nhi' từ Chu Tước tinh được lưu trong bảo tháp đó. (@c0283)"
+    },
+    {
+      chuong: 284,
+      tieuDe: "Đấu Hồng Điệp — Dẫn Thiên Kiếp",
+      tomTat: "VL tới truyền tống trận trung tâm tiên giới gặp Sất Hổ và Hồng Điệp (Hóa Thần hậu kỳ). Hồng Điệp tấn công ngay: dùng tượng băng đông cứng Lôi Oa, cấm khí VL. VL phá đạo tâm nàng bằng bốn chữ 'bất hiếu bất nhân bất nghĩa bất trung' — nàng dao động không kháng cự. Hồng Điệp xuất bản mệnh pháp bảo đóa hoa hồng phá trường thương VL; đây là lần đầu nàng buộc phải dùng bản mệnh. VL dùng chân khí dẫn thiên kiếp 98/99 tổ bổ thẳng xuống vùng hai người — Hồng Điệp hứng kiếp lây, nàng bị tổn thương. (@c0284)"
+    },
+    {
+      chuong: 285,
+      tieuDe: "Hòa Giải — Vào Mảnh Nhỏ",
+      tomTat: "Sất Hổ xuất hư ảnh viễn cổ cự nhân áp chế, buộc hai bên dừng tay. VL giơ Cấm Phiên đe dọa; Hồng Điệp thu bản mệnh pháp bảo. Ba người lập thỏa thuận cùng xuống Tiên Giới Toái Phiến (trùng điệp mảnh nhỏ 6 tầng chồng nhau — một tầng vỡ kéo tất cả sụp). Sất Hổ dẫn đường; VL nhận định ý cảnh Hồng Điệp sắp đại thành nhưng chưa tách rời pháp quyết. Hồng Điệp thách đấu lại khi về Chu Tước tinh. (@c0285)"
+    },
+    {
+      chuong: 286,
+      tieuDe: "Vượt Sông Băng Ba Mươi Vạn Dặm",
+      tomTat: "Ba người vượt sông băng 30 vạn dặm dẫn vào cổng Tiên Giới Toái Phiến. Hồng Điệp dùng liên tiếp ba Tuyết Tiên băng điêu (ba chiếc đều bị sương Cực Băng khí + sương tím phá vỡ); dùng tiếp bản mệnh pháp bảo đóa hoa hồng đỡ — mất thêm 2 cánh hoa + 1 nhị hoa. Sất Hổ kích hoạt Ngụy Tinh La Bàn (cần 5 người ngồi đúng vị trí): La Bàn tạo sàn hư vô trong khe không gian mảnh nhỏ. Người trung niên cầm hồ lô tiếp tục âm thầm đi theo. (@c0286)"
+    },
+    {
+      chuong: 287,
+      tieuDe: "Hư Vô — Sinh Vật Hư — Kim Tử Thạch",
+      tomTat: "Trên Tinh La Bàn di chuyển trong hư vô tầng 1: xuất hiện sinh vật Hư — đơn bào khổng lồ, hút linh lực; VL dùng Nghịch Thiên Châu, Hồng Điệp dùng đóa hoa hồng (mất thêm linh lực) chống đỡ. Sất Hổ tiết lộ: tổ tiên Cự Ma tộc di cư từ nơi khác đến Chu Tước tinh, không phải gốc. La Bàn bị hư hỏng sau trận. VL thu khối Kim tử thạch — theo ký ức Đồ Ti, đây là nguyên liệu phục chế Tinh La Bàn chính hãng. Ba người đến đáy động tầng 1; người trung niên tiết lộ bảo tháp chứa 'Đình nhi'. (@c0287)"
+    },
+    {
+      chuong: 288,
+      tieuDe: "Đáy Động Tầng Hai — Chu Dật Xuất Hiện",
+      tomTat: "Ba người xuống đáy động tầng hai (hơn vạn trượng sâu) — rỗng không, bảo vật bị lấy sạch; Hồng Điệp phẫn nộ nghi Sất Hổ lừa gạt. Lão đầu Thi Âm Tông (đại trưởng lão, tóc trắng, Anh Biến kỳ) và Chu Dật (Ngũ Hành Tông, Anh Biến trung kỳ, hồ lô đỏ) xuất hiện — chính là người trung niên bí ẩn. Hồng Điệp nghe tên Chu Dật liền biến sắc — hiềm khích cũ. Sất Hổ xác nhận trước mặt mọi người: hắn là tiểu tộc trưởng Cự Ma tộc. Lão đầu và Chu Dật tạo thế đối kháng. (@c0288)"
+    },
+    {
+      chuong: 289,
+      tieuDe: "Phụ Thể — Ép Truyền Si Ý",
+      tomTat: "Ba người xuống tầng 3 — thế giới thủy tinh trắng phun tiên khí dày đặc. Lão đầu Thi Âm Tông dùng thuật phụ thể xâm nhập thân Hồng Điệp: mặt tím đen, mắt u quang đỏ; cam kết chỉ mượn thân chiến đấu, không giết. Vòng ngọc Nguyên Khai Thái của Hồng Điệp phát sáng — tiêu chí đệ tử Hạch tâm, nổ khi chủ chết — nàng dùng đe dọa ngược; lão đầu buộc chấp nhận điều kiện. Chu Dật dùng thần thông Ngự Linh (lốc xoáy) ép Sất Hổ làm phân thân để tiếp nhận Si Ý — ý cảnh tình si ngàn năm của Chu Dật. VL quan sát từ bên thông đạo; Sất Hổ chấp nhận vì lo cho Cự Ma tộc. (@c0289)"
+    },
+    {
+      chuong: 290,
+      tieuDe: "Đạo Tâm Sất Hổ Vỡ",
+      tomTat: "Si Ý nhập vào Sất Hổ: khí thế Hóa Thần kỳ Trảm Tiên bộc phát, phân thân Si Ý đối đầu lão đầu phụ thể Hồng Điệp (Tứ Linh thiếu Thổ Linh + đóa hoa hồng đen). Trận chiến Anh Biến kỳ tầng 3: rìu Khai Thiên của Sất Hổ vỡ tan → đạo tâm Sất Hổ sụp đổ hoàn toàn. Lão đầu thoát ra khỏi thân Hồng Điệp, nhưng toàn bộ pháp lực tiêu tán. Hồng Điệp khôi phục thần trí, mặt tái nhợt. VL quan sát toàn bộ từ bên thông đạo, không tham chiến. (@c0290)"
+    },
+    {
+      chuong: 291,
+      tieuDe: "Tằng Ngưu, Ngươi Dám Giết Ta!",
+      tomTat: "Lão đầu Thi Âm Tông (Tôn Thái) tiết lộ sở hữu Tam Hồn; dùng Đệ Tam hồn cướp bảo tháp Đình nhi bằng Hắc quỷ trảo, nhốt Nguyên Thần Chu Dật bằng dây xích tím. Chu Dật thiêu đốt Nguyên Thần (hành vi tự sát) — thực lực tiếp cận Anh Biến hậu kỳ, phá Đệ Tam hồn, ép lão trả lại thi thể. VL tấn công Hồng Điệp đang suy yếu: dùng Cấm Khí Trường Thương + Tuế Nguyệt Ý Cảnh + lông chim quạt sư tỷ, Nguyên Thần xuất thể cắt đứt cánh tay phải nàng trước khi nàng kích hoạt Nguyên Khai Thái trốn về Chu Tước quốc (tu vi tụt Hóa Thần trung kỳ). Lối ra sụp đổ — tất cả bị nhốt. (@c0291)"
+    },
+    {
+      chuong: 292,
+      tieuDe: "Người Theo Đạo",
+      tomTat: "VL, Sất Hổ, lão đầu Thi Âm Tông phóng xuống hố sâu thoát tầng 3 sụp đổ, phát hiện tẩm cung Tiên Vương khổng lồ (linh thạch + tiên ngọc) ở tầng 4. Chu Dật ôm thi thể Đình nhi, dần nhớ lại ký ức xa lạ. Hắn nhắm mắt mở ra với ánh mắt 'đen trắng rõ ràng', hóa đạo lưu tinh, tuyên bố: 'Ý Cảnh là si, đạo tâm là Đình nhi. Sáng sinh chiều tử — thì ra nó có nghĩa là như vậy.' Uy áp kinh thiên: VL + Sất Hổ bị nén xuống đất, dãy cung điện sập. (@c0292)"
+    },
+    {
+      chuong: 293,
+      tieuDe: "Hai Lễ Vật",
+      tomTat: "Chu Dật dùng hạt châu đỏ hòa vào ngôi sao đang cháy, đột phá Vấn Đỉnh kỳ — lão đầu Tôn Thái xác nhận. Chu Dật hồi ức: đệ tử tài năng nhất Ngũ Hành Tông, si tình thi thể nữ tiên trong Tiên Giới mà phản sư môn; sư phụ thất bại xung Vấn Đỉnh mà chết. Giao phó VL hai lễ vật: bảo tháp Tiên Ngọc (cần 1000 khối tiên ngọc/1000 năm) + Vấn Đỉnh Chi Tinh (tăng 30% xác suất đột phá Vấn Đỉnh). Đồng thời ép Tôn Thái làm nô bộc VL vạn năm — ấn ký nhập vào trán VL. (@c0293)"
+    },
+    {
+      chuong: 294,
+      tieuDe: "Phản Chủ",
+      tomTat: "Chu Dật lâm chung, nói lời từ biệt; Nữ thi Đình nhi đột nhiên tỉnh dậy, triệu Vũ Chi Nhất Kiếm (kiếm vàng), hút Nguyên Thần Chu Dật vào kiếm, phong 'Kiếm Tiêu Chi Hồn' — vạn năm bồi dưỡng thành Tiên Tôn. Thi thể Đình nhi hóa kim long vạn trượng bay vào hư vô; hai nhân vật bí ẩn (văn sĩ + lão già áo tím Đại La Kiếm Tông) truy theo Vũ Chi Tiên Kiếm. VL thoát bằng Tinh La Bàn; Tôn Thái lập tức phản chủ đòi giải phong ấn — tiết lộ còn Đệ Tứ Hồn trong quan tài. (@c0294)"
+    },
+    {
+      chuong: 295,
+      tieuDe: "La Bàn",
+      tomTat: "VL dùng chiến tranh tâm lý liên hoàn dọa lui Tôn Thái: bảo tháp (Si Tình Ý Cảnh Vấn Đỉnh) khắc chế phong ấn nô bộc trong người lão; VL khẳng định Chu Dật đã tính toán hết, Đệ Tứ Hồn trong quan tài chỉ là Tàn Hồn. Tôn Thái bỏ chạy. VL phân tích: muốn thật sự khống chế Tôn Thái phải diệt Đệ Tứ Hồn. Tinh La Bàn hỏng hoàn toàn trong hư vô; VL đề nghị sửa được, Sất Hổ ngẩn người tin tưởng. (@c0295)"
+    },
+    {
+      chuong: 296,
+      tieuDe: "Kiếm Cuồng",
+      tomTat: "Sất Hổ tặng Tinh La Bàn cho VL; VL tế luyện sửa La Bàn bằng Kim Tử Thạch + ký ức Cổ Thần (Tôn Thái theo dõi nhưng không dám xuất thủ vì phong ấn nô bộc). VL điều khiển La Bàn trong hư vô, tốc độ vượt Anh Biến kỳ. Đột nhiên vạn kiếm tiên trên toàn Tiên Giới đồng loạt vỡ nát — Nữ thi áo trắng phong Chu Dật làm Tân Hồn Vũ Chi Tiên Kiếm, dẫn động vạn kiếm hợp nhất. Tu sĩ chặn Kiếm Tiên đều tử vong; VL + Sất Hổ thu túi trữ vật dọc đường. (@c0296)"
+    },
+    {
+      chuong: 297,
+      tieuDe: "Sư Huynh Tương Lai",
+      tomTat: "VL + Sất Hổ đuổi theo đàn Kiếm Tiên trên La Bàn, cướp túi trữ vật. Trung niên Hóa Thần hậu kỳ (đệ tử Thiên Vận Tử, sở hữu sát chi ý cảnh + huyết tinh sát khí) xin đi nhờ La Bàn; Sất Hổ giao chiến rồi bị huyết tinh sát khí ảnh hưởng, VL kịp kéo rút lui. VL nhận ra đây là đệ tử của sư tôn mình — 'sư huynh tương lai'. VL nội tâm tính: bổn tôn cần lột xác lần thứ 3, tiên ngọc ở Chu Tước tinh có thể đẩy nhanh. Theo kiếm quang vào mảnh nhỏ tiên giới, nhận ra cô gái áo trắng với ba kim long. (@c0297)"
+    },
+    {
+      chuong: 298,
+      tieuDe: "Kiếm Tôn",
+      tomTat: "Lăng Thiên Hậu — Kiếm Tôn Đại La Kiếm Tông, nhân vật số một số hai Thiên Vận tinh, Anh Biến kỳ — cưỡi Kỳ Lân tiên thú xông vào. Bốn kiếm ảnh bản mạng gây thương hàng loạt (kể cả VL + Sất Hổ). Đối đầu cô gái áo trắng: nàng một điểm ngón tay vỡ 2/4 kiếm ảnh + khiến Kỳ Lân phủ phục. Lão bỏ chạy, phân tích nàng 'muốn dọa mình đi chứ không giết', quay lại với hơn trăm kiếm ảnh tái sinh. Kim long thứ tư ngưng kết thành công. (@c0298)"
+    },
+    {
+      chuong: 299,
+      tieuDe: "Pháp Thuật Tiên Ý Không Thể Che Đậy Người Ngàn Năm Si Tình",
+      tomTat: "Cô gái áo trắng rút kiếm hồn từ 2 kim long để biến hồn cho Chu Dật, nhưng tiên khí 2000 năm cạn dần (tử khí tràn ra). Lăng Thiên Hậu bị dấu tay đen Tiên chỉ trước ngực vẫn cướp kiếm tiên hình rắn (mất hồn). Thiên Mặc Tử (văn sĩ bí ẩn) xuất hiện bất ngờ, tốc độ vượt cả Lăng Thiên Hậu, đoạt kiếm tiên cổ kính về Thiên Mặc tinh — Đại La Kiếm Tông tuyên chiến. Thiên Vận Tử xuất hiện (bàn tay to ảo hóa), không ngăn Lăng Thiên Hậu đoạt kiếm, nhưng bắt VL + Sất Hổ đưa vào lốc xoáy biến mất. (@c0299)"
+    },
+    {
+      chuong: 300,
+      tieuDe: "Đột Phá",
+      tomTat: "Cô gái áo trắng (Đình nhi — tàn hồn sinh từ sự si tình Chu Dật) phóng thích hết tiên lực tạo màn sương hộ mệnh, truyền kiếm hồn cuối vào kim long cứu Chu Dật rồi qua đời với nụ cười mỉm lần đầu. Chu Dật tái sinh: bốn kim quang dung hợp thành hư kiếm vàng trầm nhập cơ thể, hóa kiếm ảnh khổng lồ đuổi giết Lăng Thiên Hậu — lão xé khe không gian chạy về Thiên Vận tinh (bị Chu Dật đuổi vào). VL chứng kiến ngộ tầng 2 ý cảnh sinh tử: 'Xem sinh không phải sinh, xem tử không phải tử' — Hóa Thần trung kỳ trong vòng 10 năm. Hai thanh kiếm tiên vọt về phía VL. (@c0300)"
     }
   ]
 };
