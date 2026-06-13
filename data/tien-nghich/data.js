@@ -7902,7 +7902,7 @@ window.LIB_DATA["tien-nghich"].artifacts = {
       phamCap: "Cực cao (khiến trời đất biến sắc, cả hai lão già phái khác hoảng sợ)",
       soHuu: [],
       trangThai: "Đang dùng trong chiến tranh @c0250",
-      blurb: "Bảo bối trấn phái mạnh nhất của Hắc Hồn Phái — chiếc bút lông đen ngưng tụ từ vô số luồng khí đen. Khi xuất hiện, trời đất biến sắc; cả hai lão già Thủy Mặc Môn và Thanh Mộc Nhai đều hoảng sợ.",
+      blurb: "Bảo bối trấn phái mạnh nhất của Hắc Hồn Phái — chiếc bút lông đen ngưng tụ từ vô số luồng khí đen. Khi xuất hiện, trời đất biến sắc; cả hai lão già Thủy Mặc Môn và Bạch Vân Tông đều hoảng sợ.",
       detail: "Nam tử trẻ nhu nhược của Hắc Hồn Phái vung tay gọi bút lông đen trong đại chiến Tuyết Vực @c0250. Sắc mặt tái nhợt trước khi gọi nhưng hồng hào khi cầm bút — gợi ý tiêu hao sinh lực khi dùng. Đây là bảo bối mạnh nhất trong bốn phái; vai trò cụ thể trong trận chiến chưa được triển khai.",
       nguon: ["@c0250"]
     }
