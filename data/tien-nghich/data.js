@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-13",
-  "count": 152,
+  "count": 154,
   "chars": [
    {
     "id": "vuong-lam",
@@ -15874,6 +15874,74 @@ window.LIB_DATA["tien-nghich"]={
      "tuiDo": {}
     },
     "nguon": ["@c0334"]
+   },
+   {
+    "id": "lao-ba-bang-tuyet-than-dien",
+    "name": "Lão Bà Băng Tuyết Thần Điện",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {"ten": "Băng Tuyết Thần Điện", "trangThai": "thuoc-ha"}
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song — thuộc hạ tông chủ Băng Tuyết Thần Điện @c0333",
+    "vaiTro": "Thuộc hạ tông chủ Băng Tuyết Thần Điện",
+    "tinhCach": [
+     {"text": "Phẫn nộ và trung thành — mạnh dạn đòi tông chủ ra tay giết Tằng Ngưu vì chặt tay Hồng Điệp; uống trà quý qua loa khiến tông chủ đau lòng.", "chuong": "@c0333"}
+    ],
+    "blurb": "Thuộc hạ tóc bạc trắng của tông chủ Băng Tuyết Thần Điện. Phẫn nộ đòi giết Tằng Ngưu vì chặt tay Hồng Điệp — nhắc rằng Hồng Điệp là hy vọng Tuyết Vực quốc và nhờ nàng mà tông chủ đạt Anh Biến. Bị tông chủ lạnh mắt dập lời.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0333",
+       "importance": "normal",
+       "tieuDe": "Đòi tông chủ giết Tằng Ngưu",
+       "text": "Đứng phía dưới ghế tông chủ cùng lão già tóc bạc. Uống trà Thiên khuyết vũ ti qua loa. Đòi tông chủ ra tay bắt giết Tằng Ngưu — nhắc Hồng Điệp là hy vọng Tuyết Vực quốc, nhờ nàng mà tông chủ đạt Anh Biến. Bị tông chủ lạnh mắt: 'Ta sẽ không quên, nhưng cũng không cần ngươi nhắc!' (@c0333)"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {"ten": "Tông chủ Băng Tuyết Thần Điện", "gap": "@c0333", "quanHe": "Chủ — thuộc hạ", "ghiChu": "Bị tông chủ dập lời dù quan tâm tới Hồng Điệp.", "tag": "phu-thuoc"}
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0333"]
+   },
+   {
+    "id": "lao-gia-bang-tuyet-than-dien",
+    "name": "Lão Già Băng Tuyết Thần Điện",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {"ten": "Băng Tuyết Thần Điện", "trangThai": "thuoc-ha"}
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song — thuộc hạ tông chủ Băng Tuyết Thần Điện @c0333",
+    "vaiTro": "Thuộc hạ tông chủ Băng Tuyết Thần Điện",
+    "tinhCach": [
+     {"text": "Ít nói, trầm mặc — hồi lâu mới lên tiếng xin tông chủ ra tay; cúi đầu uống trà không tranh lời.", "chuong": "@c0333"}
+    ],
+    "blurb": "Thuộc hạ tóc bạc trắng của tông chủ Băng Tuyết Thần Điện. Ít nói — trầm mặc hồi lâu mới lên tiếng xin tông chủ ra tay giết Tằng Ngưu. Tương phản với lão bà hay lên tiếng.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0333",
+       "importance": "normal",
+       "tieuDe": "Xin tông chủ ra tay — ít nói",
+       "text": "Đứng phía dưới ghế tông chủ cùng lão bà tóc bạc. Cúi đầu uống trà, không nói gì lúc đầu. Trầm mặc hồi lâu mới lên tiếng: 'Còn mời Tông chủ ra tay!' — lời xin ngắn gọn. (@c0333)"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {"ten": "Tông chủ Băng Tuyết Thần Điện", "gap": "@c0333", "quanHe": "Chủ — thuộc hạ", "ghiChu": "Ít nói, chỉ xin tông chủ ra tay.", "tag": "phu-thuoc"}
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0333"]
    }
   ]
  },
@@ -18346,6 +18414,17 @@ window.LIB_DATA["tien-nghich"]={
     "detail": "Chu Tước Sơn có trưởng lão Công Tôn Phá, người làm trọng tài mọi chiến đấu liên quan danh hiệu Chu Tước @c0335. Cấm địa phía sau Chu Tước Sơn: Viêm Đàm (lửa bất diệt ba vạn năm) nơi Kiền Phong tu luyện; Hàn Đàm (nước đá ba vạn năm từ Thiên Sương Tinh) nơi Liễu Mi tu luyện @c0340. Lão tổ hồng quang ẩn trong cấm địa, sai Kiền Phong cướp ý cảnh Hồng Điệp @c0340.",
     "theLucLienQuan": ["chu-tuoc-quoc"],
     "nguon": ["@c0335", "@c0340"]
+   },
+   {
+    "id": "tuyet-vuc-quoc",
+    "name": "Tuyết Vực quốc",
+    "cn": "",
+    "capDo": "quoc",
+    "parentId": "chu-tuoc-tinh",
+    "blurb": "Tu chân quốc trên Chu Tước tinh — nơi Hồng Điệp và Băng Tuyết Thần Điện đặt căn cứ. Hồng Điệp là hy vọng của quốc này trong cuộc tranh danh hiệu Chu Tước.",
+    "detail": "Tuyết Vực quốc là nơi Liêu Phàm xuất thân @c0331 và nơi Băng Tuyết Thần Điện đặt cung điện băng tuyết @c0333. Tông chủ Băng Tuyết Thần Điện (Anh Biến kỳ, đạt được nhờ Hồng Điệp) ở đây; hy vọng của quốc là Hồng Điệp giành danh hiệu Chu Tước @c0333. Liêu Phàm (đệ tử quốc này) đến thung lũng dưới Tiên Ngọc Bảo Tháp đòi Tằng Ngưu nộp Vũ phiến Dư bảo @c0331.",
+    "theLucLienQuan": ["bang-tuyet-than-dien"],
+    "nguon": ["@c0331", "@c0333"]
    },
    {
     "id": "chu-tuoc-quoc",
