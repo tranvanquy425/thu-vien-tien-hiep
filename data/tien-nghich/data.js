@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-13",
-  "count": 125,
+  "count": 126,
   "chars": [
    {
     "id": "vuong-lam",
@@ -18658,8 +18658,8 @@ window.LIB_DATA["tien-nghich"]={
     "aliases": ["nữ áo xanh", "người phòng giữa lầu ba"],
     "gioiTinh": "nu",
     "theLuc": [],
-    "canhGioiCaoNhat": "Chưa rõ (có hộ vệ Hóa Thần sơ kỳ @c0310)",
-    "trangThai": "song — chờ VL tại vách núi 3.000 dặm ngoài thành Ma Nghịch @c0310",
+    "canhGioiCaoNhat": "Chưa rõ",
+    "trangThai": "song",
     "vaiTro": "Nhân vật mới — ẩn ý muốn giao dịch riêng với Vương Lâm về phương thuốc lục phẩm",
     "tinhCach": [
      {"text": "Mưu lược — cố ý nâng giá lên 3 vạn (khi VL mới ra 2 vạn) rồi chờ VL tại vách núi, chủ động tạo cơ hội giao dịch riêng.", "chuong": "@c0310"}
@@ -18671,7 +18671,7 @@ window.LIB_DATA["tien-nghich"]={
       {"text": "Có lão già hộ vệ Hóa Thần sơ kỳ (mới đột phá, chưa vững) theo bảo vệ.", "chuong": "@c0310"}
      ],
      "kinhLich": [
-      {"chuong": "@c0310", "importance": "normal", "tieuDe": "Mua phương thuốc lục phẩm — chờ VL ngoài thành", "text": "Từ phòng giữa lầu ba Luyện Khí Các nâng giá lên 3 vạn khi VL ra 2 vạn, đoạt phương thuốc lục phẩm. Sau đó rời thành Ma Nghịch, chờ VL tại vách núi 3.000 dặm, tự xưng 'vãn bối tham kiến VL'. VL nhận ra ngay mục đích — giao tranh với hộ vệ sắp xảy ra (cliffhanger). (@c0310)"}
+      {"chuong": "@c0310", "importance": "normal", "tieuDe": "Mua phương thuốc lục phẩm — chờ VL ngoài thành", "text": "Từ phòng giữa lầu ba Luyện Khí Các nâng giá lên 3 vạn khi VL ra 2 vạn, đoạt phương thuốc lục phẩm. Sau đó rời thành Ma Nghịch, chờ VL tại vách núi 3.000 dặm, tự xưng 'vãn bối tham kiến VL'. Vương Lâm nhận ra ngay mục đích, đuổi kịp và uy hiếp lão hộ vệ."}
      ],
      "tuViMoc": [],
      "nhanMach": [
@@ -18688,6 +18688,33 @@ window.LIB_DATA["tien-nghich"]={
      }
     },
     "nguon": ["@c0310"]
+   },
+   {
+    "id": "hua-la",
+    "name": "Hứa La",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [{"ten":"Luyện Khí Các","trangThai":"gan-bo"}],
+    "canhGioiCaoNhat": "Chưa rõ",
+    "trangThai": "song",
+    "vaiTro": "Nhân viên cấp cao Luyện Khí Các tại thành Ma Nghịch",
+    "tinhCach": [{"text":"Cung kính, biết nhìn người — nhận ra Vương Lâm là tu sĩ Hóa Thần qua thái độ sợ hãi của Thiết Nham trước VL, từ đó phục vụ VIP đặc biệt.","chuong":"@c0308"}],
+    "blurb": "Trung niên có địa vị cao trong Luyện Khí Các ở Tu Ma nội hải. Nhận ra Vương Lâm là tu sĩ Hóa Thần, cung kính mời lên phòng VIP lầu ba và phục vụ chu đáo.",
+    "tabs": {
+     "diem": [
+      {"text":"Nhận ra Vương Lâm là Hóa Thần nhờ quan sát thái độ sợ hãi của Thiết Nham (Nguyên Anh hậu kỳ) trước VL.","chuong":"@c0308"}
+     ],
+     "kinhLich": [
+      {"bridge":true,"khoang":"@c0308–@c0310","text":"Tiếp đãi Vương Lâm tại Luyện Khí Các — mời lên lầu ba VIP, báo cáo lão tổ, giới thiệu phương thuốc lục phẩm trong buổi đấu giá, bắt tượng gỗ VL ném xuống giao giám định viên."}
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {"ten":"Vương Lâm","tag":"khac","quanHe":"Khách VIP Hóa Thần","ghiChu":"Cung kính phục vụ tại Luyện Khí Các"}
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0308","@c0309","@c0310"]
    }
   ]
  },
