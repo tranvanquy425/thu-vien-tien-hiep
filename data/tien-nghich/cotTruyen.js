@@ -1306,6 +1306,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 260,
       tieuDe: "Bổn Tôn Tán Công",
       tomTat: "VL lĩnh ngộ hoàn toàn ý cảnh Sinh Tử. Suy ngẫm hai con đường Hóa Thần: con đường thông thường và con đường Đạo Cổ thần (tán công, xóa bỏ công pháp cũ để xây lại từ đầu theo đại đạo). VL về Huyền Đạo Tông (sơn môn Hằng Nhạc Phái cũ), tách bổn tôn và phân thân. Bổn tôn chọn con đường Đạo Cổ thần — bắt đầu tán công, máu tươi chảy khắp cơ thể. Giai đoạn quan trọng nhất kể từ khi hóa phàm bắt đầu. (@c0260)"
+    },
+    {
+      chuong: 261,
+      tieuDe: "Xử Hóa",
+      tomTat: "Phân thân tiến hành tán công hoàn toàn bổn tôn (Kết Đan hậu kỳ → mất sạch linh lực), tách Cực Cảnh ra ngoài thành pháp bảo riêng, rồi trả lại linh lực để bổn tôn vận Cổ Thần quyết hấp thu vào xương cốt. Sau 13 ngày hóa kén vàng, bổn tôn đạt Cổ Thần luyện thể lột xác lần thứ hai (da đồng, tóc đỏ máu, mi tâm hai điểm sáng tím thái cực) — xác nhận bổn tôn đi đạo Cổ Thần, phân thân đi đường tiên thiên. Bổn tôn chìm xuống lòng đất bắt đầu khảo nghiệm tinh cầu. (@c0261)"
+    },
+    {
+      chuong: 262,
+      tieuDe: "Bắt Đầu Thay Đổi",
+      tomTat: "Bổn tôn tu luyện Cổ Thần trong lòng Chu Tước tinh, mới xuống được khoảng một phần sáu đường tới tâm — đây là cực hạn của thân thể. Song song, phân thân Vương Lâm tại Huyền Đạo Tông bắt đầu đột phá Hóa Thần: Nguyên Anh bay ra khỏi đỉnh đầu, ý cảnh sinh tử bao phủ toàn Triệu quốc, hắc động mở ra trên bầu trời, linh lực thiên địa đổ xuống như đại hồng thủy. Cả Triệu quốc từ hoàng đế tới dân chúng đều quỳ lạy; phàm nhân gần hắc động có thể sinh ra linh căn hậu thiên. (@c0262)"
+    },
+    {
+      chuong: 263,
+      tieuDe: "Chuyển Thế",
+      tomTat: "Phân thân hoàn tất đột phá Hóa Thần — Nguyên Anh thăng hoa thành Nguyên Thần. VL rời động phủ, gặp tu sĩ Huyền Đạo Tông quỳ lạy, nhận ra một người trung niên bạch y là chuyển thế nhân từ kiếp trước. VL tặng mầm mống linh khí cho 10 tu sĩ (hẹn điểm hóa khi đạt Nguyên Anh hậu kỳ), để lại bức tượng gỗ trên Hằng Sơn bảo vệ Triệu quốc 3 lần khỏi xâm lấn, rồi tới Quyết Minh Cốc thu hồi túi trữ vật cũ chứa hai vỏ kiếm bí ẩn. (@c0263)"
+    },
+    {
+      chuong: 264,
+      tieuDe: "Vỏ Kiếm Đầu Tiên",
+      tomTat: "VL phát hiện vỏ kiếm không còn trong túi mà đang ở bên trong vết nứt không gian tại Quyết Minh cốc, bị bốn bóng đen (chấp niệm của tu sĩ đại thần thông) hút năng lượng. Lần đầu dùng thần thông Hóa Thần kỳ thực chiến: tạo pho tượng Ma thần Tố U Địch Nhân từ ý cảnh Sinh Tử, diệt gọn bốn bóng đen, thu hồi vỏ kiếm. Một tháng sau, VL rời Triệu quốc qua truyền tống trận, xác định kế hoạch: đạt Anh Biến, tìm khí tiên giới, tế luyện Cấm phiên. (@c0264)"
+    },
+    {
+      chuong: 265,
+      tieuDe: "Cổ Thần Tế Bảo",
+      tomTat: "VL cưỡi Văn thú hướng về Tu Ma hải, trên đường tiếp tục ngưng luyện pho tượng gỗ (hơn 30 đường kinh mạch huyết mạch). Sau 1 tháng tới Tu Ma hải, đội mũ cỏ của lão đầu bỉ ổi xuyên ngoại hải vào nội hải. Gặp lại lão nhân cưỡi Huyền Vũ đeo hồ lô đỏ (Tôn Điên — người năm xưa hạ cấm chế bắt VL đi Luyện Khí các); lão dùng thần thức thăm dò nhưng bị mũ cỏ đâm trúng, không dám giao chiến. VL tới được Toái Tinh loạn. (@c0265)"
+    },
+    {
+      chuong: 266,
+      tieuDe: "Vô Danh",
+      tomTat: "Tôn Điên tặng VL 1 sợi Cực Quang Hỏa Tuyến; VL dùng Tử ý cảnh làm suy yếu để Văn thú dung hợp — Văn thú đột phá trung phẩm linh cấp, thân tăng lên ~30 trượng. VL vào Cổ Thần chi địa, tế luyện Cấm Phiên đại thành (99 cấm chế + 18 cấm chế công kích), phát hiện thiên kiếp không thể phủ xuống bên trong Cổ Thần thể. VL bắt đầu tìm kiếm thượng phẩm linh thú (tương đương Hóa Thần kỳ) để chuẩn bị cho tiên giới chi môn. (@c0266)"
+    },
+    {
+      chuong: 267,
+      tieuDe: "Trở Về",
+      tomTat: "VL thám hiểm sâu Cổ Thần chi địa, phát hiện toàn bộ linh thú đã biến mất. Tìm thấy con cóc xanh (Lôi Oa) đang bị giao long đỏ truy đuổi — VL ra tay cứu/bắt. Song song, Tôn Văn (Công Tôn quốc) mở chiến trường ngoại vực tại Võ Văn quốc; VL từ bên trong xé toang hắc động bước ra trước mặt toàn bộ tu sĩ, khiến tất cả kinh hãi. Tôn Văn đoán VL ít nhất Hóa Thần kỳ, cung kính tham kiến, rồi VL lập tức biến mất. (@c0267)"
+    },
+    {
+      chuong: 268,
+      tieuDe: "Thiên Đạo Mở Ra",
+      tomTat: "VL đứng trên núi Phá Thiên (Vũ Văn quốc), kiểm tra toàn bộ trang bị rồi bế quan một năm khắc thêm 8 bức tượng gỗ ý cảnh Tuế Nguyệt (tổng 9 bức). Sau mấy năm chờ đợi, Thiên Đạo mở ra: sáu tu sĩ cầm Vũ Đỉnh từ khắp Chu Tước tinh bay lên, hình thành đồ án lục giác, vượt tầng mây thiên uy. VL lần đầu nhìn thấy bầu trời đầy sao, tới trước Vũ chi tiên môn — cánh cửa khổng lồ khắc chữ "Vũ" với dấu tay và vết nứt hình mạng nhện. Đồ án sụp đổ, VL bị đẩy xuống đài cao bên dưới cánh cửa. (@c0268)"
+    },
+    {
+      chuong: 269,
+      tieuDe: "Khiếp Sợ",
+      tomTat: "Các tu sĩ từ nhiều tinh cầu tụ tập trước cánh cửa tiên giới, chiếm đài cao chờ đợi. Một tu sĩ Hóa Thần Sơ Kỳ lần lượt bị lão già đầu bạc, nam tử Cự Ma tộc và Hồng Điệp đẩy lui, cuối cùng nhắm VL — VL triệu Lôi Oa (ếch sấm tương đương Hóa Thần kỳ) phóng lôi cầu đánh bại, từ đó mọi người kiêng kị. Trung niên uống rượu nhắc đến "Uyển nhi" khi thấy Lôi Oa. Cánh cửa tiên giới phát tiếng than khóc rồi mở ra, tất cả tu sĩ lần lượt bay vào. (@c0269)"
+    },
+    {
+      chuong: 270,
+      tieuDe: "Tiên Giới Bị Phá Nát",
+      tomTat: "VL tiến vào cánh cửa tiên giới, nhận ngọc đỉnh Vi Hồi (dùng để rời tiên giới). Tiên giới đã bị phá nát thành vô số mảnh vỡ trong suốt, tiên khí gần cạn kiệt. VL khám phá quần thể cung điện linh thạch hoang tàn, phát hiện dấu bàn tay khổng lồ chứa khí tức chết người (liên tưởng dấu tay trên Vũ chi môn). Tìm thấy tấm bia đá ghi cung điện là phần thưởng Vũ chi đệ ngũ tiên vương ban cho Thiên Hoa tiên sĩ. Nghi bia đá đặt sai vị trí — dùng phi kiếm san bằng, kéo phần chân bia lên (cliffhanger). (@c0270)"
     }
   ]
 };
