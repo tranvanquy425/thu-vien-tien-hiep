@@ -1507,6 +1507,58 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       tieuDe: "Đột Phá",
       tomTat: "Cô gái áo trắng (Đình nhi — tàn hồn sinh từ sự si tình Chu Dật) phóng thích hết tiên lực tạo màn sương hộ mệnh, truyền kiếm hồn cuối vào kim long cứu Chu Dật rồi qua đời với nụ cười mỉm lần đầu. Chu Dật tái sinh: bốn kim quang dung hợp thành hư kiếm vàng trầm nhập cơ thể, hóa kiếm ảnh khổng lồ đuổi giết Lăng Thiên Hậu — lão xé khe không gian chạy về Thiên Vận tinh (bị Chu Dật đuổi vào). VL chứng kiến ngộ tầng 2 ý cảnh sinh tử: 'Xem sinh không phải sinh, xem tử không phải tử' — Hóa Thần trung kỳ trong vòng 10 năm. Hai thanh kiếm tiên vọt về phía VL. (@c0300)"
     }
+  ],
+  q04: [
+    {
+      chuong: 301,
+      tieuDe: "Ngôi Sao Mới Ở Chu Tước Quốc",
+      tomTat: "Rời tiên giới, VL dùng Sinh Tử ý cảnh tầng 2 giết lão giả tóc xám Hóa Thần trung kỳ (phá ý cảnh Hiếu, điểm mi tâm). Tôn Thái (Thi Âm Tông, Anh Biến trung kỳ) đề xuất giao dịch: hắn tự ý đồ sát toàn bộ hơn trăm tu sĩ đại diện Hỗn Nguyên Tông, Thiên Ma Môn, Thiên Kiếm Phái đổi lấy 1000 năm tự do; ném ngọc giản cho VL tuyên bố 'trong 1000 năm xuất thủ 1 lần' rồi bay đi. Sất Hổ cảm tạ, phát thệ giữ bí mật nhân danh Cự Ma tộc, chia tay bằng Vu Hồi đỉnh riêng. Trên Chu Tước tinh: tên 'Tằng Ngưu' (Hồng Điệp cụt tay nghiến răng nói trước khi hôn mê) nổi danh áp chế cả Hồng Điệp; Hồng Điệp phát thông điệp 'cuộc chiến của chúng ta vẫn chưa kết thúc'; Sất Hổ về minh oan: Hồng Điệp xuất thủ trước. Đại Ngưu (phàm nhân) nhận ra tên Tằng Ngưu giống cha mình. (@c0301)"
+    },
+    {
+      chuong: 302,
+      tieuDe: "Trở Về",
+      tomTat: "VL xuất hiện từ lốc xoáy lôi điện trên Chu Tước tinh. Trên đường về Sở quốc, phát hiện cách dùng thật của cổ truyền tống trận: tiên ngọc (thay vì cực phẩm linh thạch) kích hoạt bản đồ 8 điểm, vượt ngàn vạn dặm trong một lần, trận pháp sụp đổ sau sử dụng. Lôi Oa trong Khu Thú Quyển hấp hối sau trận Hồng Điệp. Cắt cảnh Vân Thiên Tông: Lý Mộ Uyển ngồi đánh đàn, dung nhan tang thương — Kết Đan hậu kỳ, 3 lần Kết Anh thất bại, tuổi thọ còn dưới 10 năm. Sở quốc nguy cấp: tu sĩ ngoại lai trẻ tuổi dùng sâu độc thảm sát liên tục (3 môn phái + Thanh Thiên môn trong 1 tháng); Sứ giả Chu Tước quốc bỏ chạy; Công Tôn trưởng lão VTT mất tích. (@c0302)"
+    },
+    {
+      chuong: 303,
+      tieuDe: "Tâm Động",
+      tomTat: "Lý Mộ Uyển ho ra máu, tóc sắp bạc trắng; kiên quyết không rời Vân Thiên Tông — nơi hứa hẹn với Vương Lâm — dù phải chết ở đó. Trả hồn huyết cho Liễu Phỉ và Tống Thanh để họ tự thoát thân; Tiểu Linh (hồn thú mi tâm) bay ra bên cạnh. Đứng bên Tu Ma Hải cách 80 vạn dặm, VL bỗng tâm linh cảm ứng nhìn về Sở quốc, tự nghĩ 'phải mua gì đó nàng thích'. Vào thành Ma Nghịch mua ngũ phẩm đan phương Quy Nguyên đan (Thiên Nhai Môn), ép giá bằng uy lực; biết Tu Ma Hội đấu giá 10 năm một lần (còn 2 tháng) có lục phẩm đan phương nhưng chưa muốn chờ. (@c0303)"
+    },
+    {
+      chuong: 304,
+      tieuDe: "Ta Chính Là Vương Lâm",
+      tomTat: "VL mua thêm 7 ngũ phẩm đan phương tại Tu Ma Hải (tổng 8 cái), rồi tức tốc về Sở quốc khi cảm nhận nguy hiểm ở Vân Thiên Tông. Triển Bạch — đệ tử phản bội Trĩ Ma Đạo, hơn 100 năm ẩn Cửu U man hoang tự đạt Hóa Thần sơ kỳ, sở hữu vô số sâu độc và thuật phân thân bất tử — phá hộ sơn đại trận VTT, giết trưởng lão, bắt ép Lý Mộ Uyển làm thị nữ. Hồn thú trong mi tâm LMU xuất chiến nuốt huyết trùng. LMU tuyệt vọng thì thầm 'Vương đại ca, kiếp sau hẹn gặp lại'. Đúng lúc đó thanh âm lạnh từ sau Triển Bạch vang lên: 'Bởi vì nàng là nữ nhân của ta! Ta, chính là Vương Lâm!' (@c0304)"
+    },
+    {
+      chuong: 305,
+      tieuDe: "Lỗ Mãng?",
+      tomTat: "VL giải cứu toàn bộ đệ tử VTT bằng du hồn + âm phong — trùng tử gặp thiên địch rút lui. Lý Mộ Uyển nhận ra VL dù diện mạo đã khác, hai hàng lệ không kìm được. Triển Bạch nhận ra VL = Tằng Ngưu. VL đại chiến Triển Bạch: Cấm Phiên (trường thương đen cấm khí), Tuế Nguyệt (9 tượng gỗ), xé không gian chặn thuấn di. Triển Bạch dùng bản mệnh pháp bảo — ngô công kén thịt — nhưng bị phá, phun máu. Cuối chương VL lần đầu toàn lực thi triển Sinh Tử ý cảnh: quyển hoạ trục đen trắng bao phủ 10 dặm, khe không gian cũng bị khép lại. (@c0305)"
+    },
+    {
+      chuong: 306,
+      tieuDe: "Ở Ẩn",
+      tomTat: "VL giết Triển Bạch bằng Thiên Kiếp quyển trục, lốc xoáy nuốt nguyên thần ngô công, thân xác hóa máu thịt thiêu sạch. LMU vui mừng khóc rồi ho sặc sụa ngã quỵ — tử khí đầy thân, tuổi thọ sắp hết. VL điều trị 3 ngày, hứa ở lại giúp nàng Kết Anh. Lệnh phong tỏa thân phận Tằng Ngưu; 2 trưởng lão mới biết bị Lữ Phi diệt khẩu biến con rối. Lữ Phi (143 năm NA hậu kỳ) và Thiết Nham (172 năm) bỏ chức đại trưởng lão theo VL cầu Hóa Thần. Liễu Phỉ + Tống Thanh quản lý VTT, mở rộng thành đứng đầu Sở quốc. VL đưa LMU đến thung lũng âm hàn gần tiên di chi địa, thả bảo tháp Chu Dật (ý niệm Vấn Đỉnh bao phủ 100 dặm), xây nhà đá ở ẩn. VL giảng đạo Hóa Thần cho Lữ Phi và Thiết Nham: ma luyện trong uy áp bảo tháp từ ngoài 100 dặm vào 3 dặm. (@c0306)"
+    },
+    {
+      chuong: 307,
+      tieuDe: "Nhà Mới",
+      tomTat: "Thân thể LMU xấu đi — tần suất điều trị tăng (1 ngày/lần → 2 ngày/3 lần), tử khí càng đậm. VL tặng ngũ phẩm đan phương cho nàng, kể chuyện trăm năm qua. Phân tích: chỉ lục phẩm linh đan mới khôi phục thân thể LMU đủ để Kết Anh; quyết tâm mua bằng được. VL tự tin vài năm nữa Hóa Thần trung kỳ, có 7 phần nắm chắc đối đầu Hồng Điệp. Nâng Cấm Phiên lên 145 cấm chế (từ bảo kiếm Đại La Kiếm Tông, mục tiêu 990). Đoàn người dùng cổ truyền tống trận về Tu Ma Hải, ghé Đấu Tà phái (hoang tàn, Thanh Long đại trận vỡ vụn). Lữ Phi thần thức 100 trượng, Thiết Nham 50 trượng — cả hai quyết tâm ma luyện. (@c0307)"
+    },
+    {
+      chuong: 308,
+      tieuDe: "Bạt Sơn",
+      tomTat: "VL ôm LMU bay tới ngoại Tu Ma Hải thăm động phủ cũ — dãy núi đã biến mất sau mấy trăm năm. VL dùng pháp lực Hóa Thần Bạt Sơn: nâng nguyên cả ngọn núi từ lòng đất, tạo lại động phủ giống hệt năm xưa, LMU vui mừng tử khí phai nhạt. Đến thành Ma Nghịch sau 8 ngày; Thiết Nham lấy thiệp mời đấu giá Luyện Khí Các. Bảy ngày dạo phố — vui nhất của LMU kể từ thời Lạc Hà môn. Phiên đấu giá bắt đầu: VL được Hứa La mời lên lầu 3 VIP. Đám tu sĩ tầng 1 kinh hãi khi thấy 2 tùy tùng Nguyên Anh hậu kỳ (Lữ Phi, Thiết Nham) của một vị khách trông như thường nhân. Lão già đầu bạc (Hóa Thần kỳ, chủ thật Luyện Khí Các — từng gặp VL khi Kết Đan + ngoài Toái Tinh Loạn lần 2) biết tin có Hóa Thần xuất hiện, biến mất. (@c0308)"
+    },
+    {
+      chuong: 309,
+      tieuDe: "Tu Sĩ Hóa Thần Của Luyện Khí Các",
+      tomTat: "Khâu Tứ Bình (bạn cũ VL thời Kết Đan, nay Nguyên Anh hậu kỳ đại viên mãn, áo tía tóc hoa râm) dùng thần thức quét phòng VL, bị phản công; tự bước vào bị VL liếc mắt suýt vỡ nguyên anh, lùi 3 bước mồ hôi ướt đẫm. Lão Hồ (Hóa Thần kỳ, chủ Luyện Khí Các, có thần thông nhận dạng người qua hình thể) lên lầu 3 gặp VL, nhận ra 'người đội mũ rơm bên ngoài Toái Tinh Loạn'. VL gợi nhắc chuyện chia đôi nguyên anh + ngọc giản bản đồ — Khâu Tứ Bình thất thanh 'Vương Lâm! Ngươi lại có thể Hóa Thần!' Lão Hồ nhớ lại năm xưa muốn chiếm 'cực cảnh' trong VL — nay VL Hóa Thần, ý đồ cũ tan thành mây khói. Lữ Phi + Thiết Nham theo VL vì không đồng nhất được linh lực bề bộn, sẽ chết già trong 100 năm nếu không Hóa Thần. (@c0309)"
+    },
+    {
+      chuong: 310,
+      tieuDe: "Phương Thuốc Lục Phẩm",
+      tomTat: "Tại đấu giá Luyện Khí Các, VL xuất tượng gỗ (huyết kinh mạch Tuyết Vực + ý cảnh Hóa Thần mờ nhạt, tương đương khôi lỗi Nguyên Anh hậu kỳ) để định giá. Giám định viên đánh giá thấp 5.000, nhưng Lão Hồ nhận ra xuất xứ Tuyết Vực, mua trực tiếp và tặng ngọc giản 2 vạn thượng phẩm linh thạch. VL ra giá 2 vạn cho phương thuốc lục phẩm nhưng bị Chu Ngạn Hoành (nữ áo xanh, che lụa trắng, phòng giữa lầu 3) nâng lên 3 vạn đoạt mất. VL giao Lữ Phi + Thiết Nham bảo vệ LMU, tự mình rời thành Ma Nghịch truy tìm. Tại vách núi 3.000 dặm ngoài thành, Chu Ngạn Hoành đã chờ sẵn — cố ý tạo cơ hội giao dịch riêng. Hộ vệ Hóa Thần sơ kỳ của nàng rút pháp bảo hình cái ô ra trước uy hiếp của VL. (@c0310)"
+    }
   ]
 };
 
