@@ -317,8 +317,9 @@
     // Bộ lọc quyển: DROPDOWN gọn, mặc định "Tất cả"; chỉ hiện khi kinh lịch trải >1 quyển.
     klQuyens.sort((a, b) => (a.start || 0) - (b.start || 0));
     const klFilter = (klQuyens.length > 1)
-      ? '<div class="ql-filter"><div class="ql-guide">Đạo hữu chọn theo quyển để tìm dữ liệu nhanh hơn</div>' +
-        '<select class="ql-select" id="klQuyenSel"><option value="">— Tất cả các quyển —</option>' +
+      ? '<div class="ql-filter"><select class="ql-select" id="klQuyenSel">' +
+        '<option value="">▾ Đạo hữu chọn theo quyển để tra nhanh hơn…</option>' +
+        '<option value="">— Tất cả các quyển —</option>' +
         klQuyens.map(q => '<option value="' + esc(q.value) + '" title="' + esc(q.han || "") +
           '">Quyển ' + esc(String(q.so)) + ': ' + esc(q.ten) + ' (' + esc(qRange(q)) + ')</option>').join("") +
         '</select></div>'
