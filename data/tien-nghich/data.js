@@ -641,7 +641,40 @@ window.LIB_DATA["tien-nghich"].characters = {
             tieuDe: "Ngưng tụ Hắc Ấn chữ Tử — kết thúc hóa phàm",
             text: "Ngưng tụ dòng chảy đen từ vô số tượng gỗ + huyết cầu sát khí thành Hắc Ấn hình vuông (chữ Tử, ý nghĩa 400 năm giết chóc), dung nhập vào Nguyên Anh. Kết thúc hóa phàm: thân thể chuyển từ lão già thành hình dạng tu sĩ trẻ tuổi theo từng bước chân. Tu vi sát ngưỡng Hóa Thần — chỉ cần bế quan 10 năm là chắc chắn đột phá. Rời kinh thành lần cuối."
           },
-          { bridge: true, khoang: "@c0249–@c0250", text: "Cứu vợ chồng Đại Ngưu, đưa sang biên giới nước láng giềng (lần chia tay vĩnh viễn). Xác nhận mục tiêu: Vũ Đỉnh (vào Tiên Môn lấy tiên linh khí — linh khí hiện tại vẩn đục không đủ Hóa Thần); bế quan 1 năm trên đỉnh núi tuyết đợi thời cơ chiến tranh. Chứng kiến Tuyết Vực đại quân giáng lâm: nữ tử chỉ huy (Hóa Thần trung kỳ+) một tay phá trận pháp Tứ Phái, xuất 5 phân thân linh khí Ngũ Hành. Thiên Nghịch Châu chấn động khi cảm ứng Hỏa linh — thứ cần để viên mãn ngũ hành — nhưng VL biết nữ tử quá mạnh, không dám ra tay." }
+          { bridge: true, khoang: "@c0249–@c0250", text: "Cứu vợ chồng Đại Ngưu, đưa sang biên giới nước láng giềng (lần chia tay vĩnh viễn). Xác nhận mục tiêu: Vũ Đỉnh (vào Tiên Môn lấy tiên linh khí — linh khí hiện tại vẩn đục không đủ Hóa Thần); bế quan 1 năm trên đỉnh núi tuyết đợi thời cơ chiến tranh. Chứng kiến Tuyết Vực đại quân giáng lâm: nữ tử chỉ huy (Hóa Thần trung kỳ+) một tay phá trận pháp Tứ Phái, xuất 5 phân thân linh khí Ngũ Hành. Thiên Nghịch Châu chấn động khi cảm ứng Hỏa linh — thứ cần để viên mãn ngũ hành — nhưng VL biết nữ tử quá mạnh, không dám ra tay." },
+          { bridge: true, khoang: "@c0251–@c0252", text: "Dùng Cửu nhân sát trận giết Thủ Đồ giả mạo Hồng Điệp; CVT khống chế Thương Long tấn công. VL nghi nữ tử giả nên không thu pháp bảo. Tiếp đó đoạt thổ linh (Hóa Thần hậu kỳ tương đương) từ khe nứt không gian — thổ linh bị trọng thương, bức vào Nghịch Thiên Châu; thổ thuộc tính đại viên mãn. Quái vật người rắn xuất hiện từ khe nứt." },
+          {
+            chuong: "@c0253",
+            importance: "major",
+            tieuDe: "Hồng Điệp thật — cướp Vũ Đỉnh",
+            text: "Hồng Điệp thật (Thiên Tiên Ngũ Linh thể, kiếp nạn đã tận) xuất hiện cùng sứ giả Âu Chí (Chu Tước Quốc). Âu Chí rút huyết mạch Thương Long; CVT bị hạ hôn mê. VL nhân cơ hội cướp Vũ Đỉnh từ túi trữ vật của CVT. Bà lão giữ tháp băng phát hiện và truy đuổi."
+          },
+          {
+            chuong: "@c0254",
+            importance: "major",
+            tieuDe: "Tơ thiên kiếp diệt bà lão — trốn vào nghịch thiên",
+            text: "Bị bà lão Hóa Thần trung kỳ đỉnh và tháp băng đồng thời truy đuổi, VL tung sỏi tơ thiên kiếp (tích lũy từ lần bị sợi tơ bám) — sức nổ tương đương Cực Cảnh diệt cả hai. Âu Chí cố hấp thu hồng vân thiên kiếp nhưng thất bại. VL trốn vào không gian Nghịch Thiên Châu thoát khỏi Âu Chí."
+          },
+          {
+            chuong: "@c0255",
+            importance: "major",
+            tieuDe: "Ra khỏi nghịch thiên — thế giới đổi thay",
+            text: "Sau 5 năm ẩn trong Nghịch Thiên Châu: thổ thuộc tính đại viên mãn, linh khí xuất hiện lần đầu trong châu, năm quang đoàn ngũ hành lộ ra. VL ra ngoài: Liên Minh Tứ Phái đã bị diệt hoàn toàn, Tuyết Vực lập tân quốc. VL ước tính 4 năm nữa có thể Hóa Thần."
+          },
+          { bridge: true, khoang: "@c0256", text: "Ngao du 1 năm Tuyết Vực tân quốc, chiếm thân phận tu sĩ Kết Đan hậu kỳ bằng thôn hồn. Biết Hồng Điệp đi Chu Tước Quốc theo Âu Chí, sắp dự Quán Đỉnh đại lễ (nhận Anh Biến sơ kỳ tức thì nhưng phong ấn tu vi, giới hạn thọ mệnh 100 năm)." },
+          { bridge: true, khoang: "@c0257–@c0258", text: "Gặp Trần Hoan và lão nhân Hóa Thần hậu kỳ Thủy Mặc Môn. Nhận cây quạt 2 lông (Bảo Phiến tàn) từ lão nhân. Lão nhân tự bão vào Băng Tuyết Thần Điện — Trần Hoan thề diệt Tuyết Vực. VL nghiên cứu Băng Tuyết quyết (nghịch thiên) rồi sáng tạo huyết kinh mạch (dùng máu + ý cảnh Sinh Tử điều khiển khôi lỗi). Thăm Đại Ngưu lần cuối; bay về Triệu quốc chuẩn bị Hóa Thần." },
+          {
+            chuong: "@c0259",
+            importance: "major",
+            tieuDe: "Mặc Trí — đạo sinh tử",
+            text: "Gặp Mặc Trí (tu sĩ bí ẩn, ý cảnh Vong Cảnh, Súc Địa thành thốn) trong miếu hoang. Hai người luận đạo sinh tử: 'Cơn mưa sinh từ trên trời, rơi xuống đất mà chết — khoảng giữa là nhân sinh.' VL chấn động, vái sâu tạ ân. Bước tiến then chốt trên con đường lĩnh ngộ ý cảnh Sinh Tử."
+          },
+          {
+            chuong: "@c0260",
+            importance: "major",
+            tieuDe: "Bổn tôn tán công — con đường Đạo Cổ thần",
+            text: "Lĩnh ngộ hoàn toàn ý cảnh Sinh Tử. Về Huyền Đạo Tông (sơn môn Hằng Nhạc Phái cũ), tách bổn tôn và phân thân. Bổn tôn chọn con đường Đạo Cổ thần — tán bỏ toàn bộ công pháp để xây lại từ đầu theo đại đạo. Bắt đầu tán công, máu tươi chảy khắp thân thể."
+          }
         ],
         tuVi: "Phàm nhân xuyên suốt Ch.1–20, không thể linh khí nhập thể dù bí mật ngâm Thạch Châu (cuối Ch.20 nguyên tác ghi rõ: \"đến bây giờ vẫn như cũ không thể linh khí nhập thể\"@c0020). Từ Ch.16 trở thành đệ tử nội môn trên danh nghĩa của Tôn Đại Trụ. Đột phá Ngưng Khí tầng 1 @c0025 nhờ Mộng Cảnh thời gian gấp 10 lần; đột phá tầng 2 @c0030, sinh thần thức. Ch.31–40: đạt tầng 3 trong mộng cảnh @c0036; bị chặn ở tầng 4 (cần lĩnh ngộ đại đạo/'chặt đứt phàm trần' @c0037). Đặc dị: tầng 3 không có cực hạn — linh khí vẫn tăng khi người thường bị kẹt. Sau 4 năm hậu sơn, tổng tu luyện thực tế 27 năm (gồm mộng cảnh). Công khai lộ tầng 3 @c0038. Dẫn Lực Thuật luyện hơn 20 năm, đứng đầu Triệu quốc Tu Chân Giới @c0038. Ch.51: đạt tầng 14 Ngưng Khí (thực lực xác nhận; bề ngoài vẫn ngụy trang tầng 3). Bế quan lần 2 trên núi trọc 4 năm (@c0062–@c0064): năm thứ 2 đạt VIÊN MÃN tầng 15 Ngưng Khí; 2 năm tiếp cố đột phá Trúc Cơ nhưng thất bại; tu vi biểu lộ bên ngoài tăng từ tầng 3 → tầng 8 (tích lũy từ nhiều lần đột phá Trúc Cơ trong Mộng Cảnh). Xuất quan @c0064, đạp phi kiếm xuất môn hướng Thiên Thủy thành; đến @c0070 đang ở Đằng Gia thành, bắt đầu tế luyện phi kiếm cổ quái.",
         tuViMoc: [
@@ -698,7 +731,11 @@ window.LIB_DATA["tien-nghich"].characters = {
           { chuong: "@c0225", canhGioi: "Bổn tôn tán công ẩn ngủ — hóa phàm", buocNgoat: true, heKhac: "Hệ phân thân / hóa phàm", text: "VL chủ động tán toàn bộ tu vi bổn tôn, để bổn tôn ẩn ngủ — thực hành 'hóa phàm' để cảm ngộ thiên đạo từ cuộc sống người thường. Phân thân Nguyên Anh sơ kỳ tồn tại độc lập như thực thể bên ngoài. Từ đây bổn tôn là phàm nhân hoàn toàn; tu vi thực chiến = phân thân." },
           { chuong: "@c0227", canhGioi: "Phân thân Nguyên Anh trung kỳ", heKhac: "Hệ phân thân", text: "PHÂN THÂN ĐỘT PHÁ Nguyên Anh sơ kỳ → trung kỳ trong trạng thái tâm bình thản — đột phá tự nhiên, không cần đan dược hay chủ động tu luyện. Đây là dấu hiệu con đường 'hóa phàm — ý cảnh' đang phát huy tác dụng." },
           { chuong: "@c0241", canhGioi: "Nguyên Anh hậu kỳ đỉnh (phân thân)", text: "Sau cảm ngộ thiên đạo luân hồi, phân thân nhảy vọt từ Nguyên Anh trung kỳ lên hậu kỳ đỉnh. Chỉ kém Hóa Thần một chút. Thiên Vận Tử nhận xét 'sắp tới Hóa Thần kỳ'. (@c0241)" },
-          { chuong: "@c0247", canhGioi: "Ý cảnh Sinh Tử — tâm cảnh viên mãn", heKhac: "Hệ ý cảnh", text: "Đạt ý cảnh Sinh Tử sau khi điêu khắc lại 400 năm vong hồn. Kết hợp cảm ngộ thiên đạo trước kia. Tâm cảnh 'Muốn núi là thấy núi, muốn nước là thấy nước' — sẵn sàng đột phá Hóa Thần sau 10 năm bế quan. (@c0247)" }
+          { chuong: "@c0247", canhGioi: "Ý cảnh Sinh Tử — tâm cảnh viên mãn", heKhac: "Hệ ý cảnh", text: "Đạt ý cảnh Sinh Tử sau khi điêu khắc lại 400 năm vong hồn. Kết hợp cảm ngộ thiên đạo trước kia. Tâm cảnh 'Muốn núi là thấy núi, muốn nước là thấy nước' — sẵn sàng đột phá Hóa Thần sau 10 năm bế quan. (@c0247)" },
+          { chuong: "@c0255", canhGioi: "Nghịch Thiên Châu — Thổ đại viên mãn", heKhac: "Hệ linh lực — Nghịch Thiên Châu", text: "Sau 5 năm trong Nghịch Thiên Châu, thổ thuộc tính đại viên mãn: linh khí xuất hiện lần đầu trong châu, năm quang đoàn ngũ hành lộ rõ. Còn lại kim (u ám) và mộc (lập lòe) chưa viên mãn. (@c0255)" },
+          { chuong: "@c0259", canhGioi: "Ý cảnh Sinh Tử — bước tiến đột phá", heKhac: "Hệ ý cảnh", text: "Nghe Mặc Trí giảng đạo ('khoảng giữa sinh tử là nhân sinh'): lời như tia chớp xua tan sương mù. VL chấn động, bước tiến then chốt trên con đường lĩnh ngộ hoàn toàn ý cảnh Sinh Tử. (@c0259)" },
+          { chuong: "@c0260", canhGioi: "Ý cảnh Sinh Tử — lĩnh ngộ hoàn toàn", heKhac: "Hệ ý cảnh", text: "Lĩnh ngộ ý cảnh Sinh Tử hoàn toàn. Nền tảng để bổn tôn bước vào con đường Đạo Cổ thần — tán công, xây lại từ đầu theo đại đạo. (@c0260)" },
+          { chuong: "@c0260", canhGioi: "Bổn tôn tán công — con đường Đạo Cổ thần", buocNgoat: true, heKhac: "Hệ phân thân / bổn tôn", text: "Bổn tôn chọn con đường Đạo Cổ thần thay vì Hóa Thần thông thường: tán bỏ toàn bộ công pháp, xây lại từ đầu theo đại đạo. Máu tươi chảy khắp thân khi tán công bắt đầu. Phân thân giữ tu vi Nguyên Anh hậu kỳ đỉnh độc lập. (@c0260)" }
         ],
         nhanMach: [
           { ten: "Vương Thiên Thủy", gap: "@c0001", quanHe: "Cha", ghiChu: "Thợ mộc, yêu thương con, kỳ vọng cao.", tag: "cha-me", uuTien: 95 },
@@ -831,6 +868,9 @@ window.LIB_DATA["tien-nghich"].characters = {
             { ten: "Mũ rơm (che diện mạo)", moTa: "Mũ rơm pháp bảo có trận pháp tinh diệu che giấu diện mạo; khi thần thức địch quét qua sẽ bị phản kích. VL nhận trước khi xâm nhập Bạch Vân Tông @c0235; lão đầu bí ỏi để lại cho VL dùng thêm một thời gian @c0245.", nguon: "@c0235, @c0245" },
             { ten: "Tinh đồ Thiên Vận Tinh", moTa: "Bản đồ sao trời Thiên Vận Tử lưu lại trong đầu VL; chứa vị trí Thiên Vận Tinh (lớn hơn Chu Tước tinh vô số lần). VL hiện tại chưa có khả năng đến đó.", nguon: "@c0241" },
             { ten: "Hắc Ấn (chữ Tử)", moTa: "Hình vuông cỡ bàn tay, khắc hình người không mặt mũi; ngưng tụ từ vô số tượng gỗ + huyết cầu sát khí, mang ý nghĩa 400 năm giết chóc. Dung nhập vào Nguyên Anh VL.", nguon: "@c0248" },
+            { ten: "Vũ Đỉnh", loai: "phap-bao", trangThai: "hien-co", moTa: "Pháp bảo mở Vũ chi Tiên Môn — xuất hiện định kỳ trên tinh cầu gần tiên môn; điều kiện để vào Cổ Tiên Giới lấy tiên linh khí. Tứ Phái thu được, CVT chiếm rồi VL cướp từ túi trữ vật CVT khi CVT hôn mê.", nguon: "@c0253" },
+            { ten: "Ngũ hành thổ linh", loai: "linh-thu", trangThai: "da-bac-chap", moTa: "Thổ linh tu vi tương đương Hóa Thần hậu kỳ; bị trọng thương khi VL đoạt từ khe nứt không gian. VL bức vào Nghịch Thiên Châu — thổ thuộc tính đại viên mãn, năm quang đoàn ngũ hành lộ ra.", nguon: "@c0252, @c0255" },
+            { ten: "Cây quạt 2 lông (Bảo Phiến tàn)", loai: "phap-bao", trangThai: "hien-co", moTa: "Bảo Phiến còn 2 lông vũ — nguyên là vũ khí bạch y nữ tử (Thủ Đồ) trong Cửu nhân sát trận. Lão nhân Hóa Thần hậu kỳ Thủy Mặc Môn nhặt được rồi tặng VL để đáp đền đan dược.", nguon: "@c0257" },
             { ten: "Đóa hoa đen", trangThai: "da-dung", moTa: "Đóa hoa màu đen — tài liệu quý bậc nhất để luyện chế linh đan; công dụng ngưng tụ hồn phách người phàm mới chết, giúp hồn lực mạnh hơn khi nhập biển luân hồi để đầu thai vào chỗ tốt hơn. VL dùng trợ giúp hồn phách phụ thân Đại Ngưu trước khi đầu thai.", nguon: "@c0240" }
           ],
           khac: [
@@ -848,7 +888,7 @@ window.LIB_DATA["tien-nghich"].characters = {
           ]
         }
       },
-      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007", "@c0008", "@c0009", "@c0010", "@c0011", "@c0012", "@c0013", "@c0014", "@c0015", "@c0016", "@c0017", "@c0018", "@c0019", "@c0020", "@c0031", "@c0032", "@c0033", "@c0034", "@c0035", "@c0036", "@c0037", "@c0038", "@c0039", "@c0040", "@c0041", "@c0042", "@c0043", "@c0044", "@c0045", "@c0046", "@c0047", "@c0048", "@c0049", "@c0050", "@c0051", "@c0052", "@c0055", "@c0056", "@c0057", "@c0058", "@c0059", "@c0060", "@c0061", "@c0062", "@c0063", "@c0064", "@c0065", "@c0066", "@c0067", "@c0068", "@c0069", "@c0070", "@c0071", "@c0072", "@c0073", "@c0074", "@c0075", "@c0076", "@c0077", "@c0078", "@c0079", "@c0080", "@c0081", "@c0082", "@c0083", "@c0084", "@c0085", "@c0086", "@c0087", "@c0088", "@c0089", "@c0090", "@c0091", "@c0092", "@c0093", "@c0094", "@c0096", "@c0098", "@c0099", "@c0100", "@c0102", "@c0103", "@c0104", "@c0105", "@c0106", "@c0107", "@c0108", "@c0109", "@c0110", "@c0111", "@c0112", "@c0113", "@c0114", "@c0115", "@c0116", "@c0117", "@c0118", "@c0119", "@c0120", "@c0121", "@c0122", "@c0123", "@c0124", "@c0125", "@c0126", "@c0127", "@c0128", "@c0129", "@c0130", "@c0131", "@c0132", "@c0133", "@c0134", "@c0135", "@c0136", "@c0137", "@c0138", "@c0139", "@c0140", "@c0141", "@c0142", "@c0143", "@c0144", "@c0145", "@c0146", "@c0147", "@c0148", "@c0149", "@c0150", "@c0151", "@c0152", "@c0153", "@c0154", "@c0155", "@c0156", "@c0157", "@c0158", "@c0159", "@c0160", "@c0181", "@c0182", "@c0183", "@c0184", "@c0185", "@c0186", "@c0187", "@c0188", "@c0189", "@c0190", "@c0201", "@c0202", "@c0203", "@c0204", "@c0205", "@c0206", "@c0207", "@c0208", "@c0209", "@c0210", "@c0221", "@c0222", "@c0223", "@c0224", "@c0225", "@c0226", "@c0227", "@c0228", "@c0229", "@c0230", "@c0231", "@c0232", "@c0233", "@c0234", "@c0235", "@c0236", "@c0237", "@c0238", "@c0239", "@c0240", "@c0241", "@c0242", "@c0243", "@c0244", "@c0245", "@c0246", "@c0247", "@c0248", "@c0249", "@c0250"]
+      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007", "@c0008", "@c0009", "@c0010", "@c0011", "@c0012", "@c0013", "@c0014", "@c0015", "@c0016", "@c0017", "@c0018", "@c0019", "@c0020", "@c0031", "@c0032", "@c0033", "@c0034", "@c0035", "@c0036", "@c0037", "@c0038", "@c0039", "@c0040", "@c0041", "@c0042", "@c0043", "@c0044", "@c0045", "@c0046", "@c0047", "@c0048", "@c0049", "@c0050", "@c0051", "@c0052", "@c0055", "@c0056", "@c0057", "@c0058", "@c0059", "@c0060", "@c0061", "@c0062", "@c0063", "@c0064", "@c0065", "@c0066", "@c0067", "@c0068", "@c0069", "@c0070", "@c0071", "@c0072", "@c0073", "@c0074", "@c0075", "@c0076", "@c0077", "@c0078", "@c0079", "@c0080", "@c0081", "@c0082", "@c0083", "@c0084", "@c0085", "@c0086", "@c0087", "@c0088", "@c0089", "@c0090", "@c0091", "@c0092", "@c0093", "@c0094", "@c0096", "@c0098", "@c0099", "@c0100", "@c0102", "@c0103", "@c0104", "@c0105", "@c0106", "@c0107", "@c0108", "@c0109", "@c0110", "@c0111", "@c0112", "@c0113", "@c0114", "@c0115", "@c0116", "@c0117", "@c0118", "@c0119", "@c0120", "@c0121", "@c0122", "@c0123", "@c0124", "@c0125", "@c0126", "@c0127", "@c0128", "@c0129", "@c0130", "@c0131", "@c0132", "@c0133", "@c0134", "@c0135", "@c0136", "@c0137", "@c0138", "@c0139", "@c0140", "@c0141", "@c0142", "@c0143", "@c0144", "@c0145", "@c0146", "@c0147", "@c0148", "@c0149", "@c0150", "@c0151", "@c0152", "@c0153", "@c0154", "@c0155", "@c0156", "@c0157", "@c0158", "@c0159", "@c0160", "@c0181", "@c0182", "@c0183", "@c0184", "@c0185", "@c0186", "@c0187", "@c0188", "@c0189", "@c0190", "@c0201", "@c0202", "@c0203", "@c0204", "@c0205", "@c0206", "@c0207", "@c0208", "@c0209", "@c0210", "@c0221", "@c0222", "@c0223", "@c0224", "@c0225", "@c0226", "@c0227", "@c0228", "@c0229", "@c0230", "@c0231", "@c0232", "@c0233", "@c0234", "@c0235", "@c0236", "@c0237", "@c0238", "@c0239", "@c0240", "@c0241", "@c0242", "@c0243", "@c0244", "@c0245", "@c0246", "@c0247", "@c0248", "@c0249", "@c0250", "@c0251", "@c0252", "@c0253", "@c0254", "@c0255", "@c0256", "@c0257", "@c0258", "@c0259", "@c0260"]
     },
     {
       id: "vuong-trac",
@@ -5777,7 +5817,9 @@ window.LIB_DATA["tien-nghich"].volumes = {
         kinhLich: [
           { chuong: "@c0238", importance: "normal", tieuDe: "Đến cửa hàng VL hỏi tội vì Phúc Nhi bị đánh", text: "Dẫn đệ tử Phúc Nhi đến cửa hàng tượng gỗ VL để hỏi tội. Nhận ra tượng gỗ VL điêu khắc (tượng văn sĩ trung niên và lão bà Bạch Vân Tông) — đoán VL cảnh giới ngang mình. (@c0238)" },
           { chuong: "@c0239", importance: "normal", tieuDe: "Đấu trí với VL — thua, nhượng bộ vụ vũ đỉnh", text: "Dùng ngôn từ ẩn chứa huyền cơ gieo tâm chướng cho VL liên tục thất bại. VL phản kích vạch trần con đường hóa phàm: cuối cùng phải tự giết đệ tử Phúc Nhi để Hóa Thần — gieo mầm nghi ngờ trong tâm Phúc Nhi. CVT cười khổ nhượng bộ, yêu cầu thế tử đem vũ đỉnh tới đạo quan trong ba ngày. Âm thầm coi VL là đối thủ cạnh tranh lớn nhất. (@c0239)" },
-          { bridge: true, khoang: "@c0241–@c0243", text: "Đến gặp VL sau khi VL đột phá Nguyên Anh hậu kỳ đỉnh, tặng ngọc giản thần thông Hóa Thần kỳ (CVT từ chối nhận tượng gỗ để giữ đạo tâm riêng). Đại diện Tứ Phái mời VL kháng Tuyết Vực, tiết lộ Chu Tước tinh nằm sát Vũ chi Tiên Môn; VL từ chối gia nhập. Chặn tu sĩ áo đen Tứ Phái thứ tư khi hắn tấn công VL; sau đó diệt khẩu bằng pháp quyết ý cảnh, hóa thi thể thành tro. Đánh giá VL: 'chỉ có thể làm bạn không thể làm địch'. (@c0241–@c0243)" }
+          { bridge: true, khoang: "@c0241–@c0243", text: "Đến gặp VL sau khi VL đột phá Nguyên Anh hậu kỳ đỉnh, tặng ngọc giản thần thông Hóa Thần kỳ (CVT từ chối nhận tượng gỗ để giữ đạo tâm riêng). Đại diện Tứ Phái mời VL kháng Tuyết Vực, tiết lộ Chu Tước tinh nằm sát Vũ chi Tiên Môn; VL từ chối gia nhập. Chặn tu sĩ áo đen Tứ Phái thứ tư khi hắn tấn công VL; sau đó diệt khẩu bằng pháp quyết ý cảnh, hóa thi thể thành tro. Đánh giá VL: 'chỉ có thể làm bạn không thể làm địch'. (@c0241–@c0243)" },
+          { chuong: "@c0251", importance: "normal", tieuDe: "Khống chế Thương Long — khai chiến Tuyết Vực", text: "CVT xuất hiện khống chế linh thú Thương Long tấn công VL trong lúc VL đang dùng Cửu nhân sát trận. Hai bên đối đầu trong bối cảnh chiến tranh với Tuyết Vực đang căng thẳng. (@c0251)" },
+          { chuong: "@c0253", importance: "normal", tieuDe: "Bị sứ giả Chu Tước hạ — mất Vũ Đỉnh", text: "Sứ giả Âu Chí (Chu Tước Quốc) xuất hiện, rút huyết mạch Thương Long, CVT bị hạ hôn mê. VL nhân lúc CVT hôn mê cướp Vũ Đỉnh từ túi trữ vật. (@c0253)" }
         ],
         tuViMoc: [],
         nhanMach: [
@@ -5786,7 +5828,7 @@ window.LIB_DATA["tien-nghich"].volumes = {
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0238", "@c0239", "@c0241", "@c0242", "@c0243", "@c0245", "@c0246"]
+      nguon: ["@c0238", "@c0239", "@c0241", "@c0242", "@c0243", "@c0245", "@c0246", "@c0251", "@c0253"]
     },
     {
       id: "phuc-nhi",
@@ -5871,7 +5913,8 @@ window.LIB_DATA["tien-nghich"].volumes = {
           { bridge: true, khoang: "@c0241", text: "Đại Ngưu nay là trung niên — sang thăm VL, kể chuyện tu sĩ tập trận không xa thành làm dân tình hoảng loạn." },
           { bridge: true, khoang: "@c0245", text: "Bị bắt cưỡng bức đi phương Nam dọn tuyết cùng toàn bộ dân thường, kể cả phụ nữ trẻ em. VL tặng 2 tấm gỗ điêu khắc tỏa hơi ấm bảo hộ Đại Ngưu và vợ." },
           { bridge: true, khoang: "@c0248", text: "Bỏ trốn từ đội dọn tuyết, dẫn vợ lén lút chạy về kinh thành." },
-          { chuong: "@c0249", importance: "normal", tieuDe: "VL cứu — chia tay vĩnh viễn tại biên giới", text: "VL tìm gặp vợ chồng Đại Ngưu đang lẩn trốn, đưa hai người vượt biên giới sang nước láng giềng an toàn. Đây là lần chia tay vĩnh viễn — VL sắp rời Tứ Phái, không bao giờ gặp lại. (@c0249)" }
+          { chuong: "@c0249", importance: "normal", tieuDe: "VL cứu — chia tay vĩnh viễn tại biên giới", text: "VL tìm gặp vợ chồng Đại Ngưu đang lẩn trốn, đưa hai người vượt biên giới sang nước láng giềng an toàn. Đây là lần chia tay vĩnh viễn — VL sắp rời Tứ Phái, không bao giờ gặp lại. (@c0249)" },
+          { bridge: true, khoang: "@c0258", text: "Định cư ở nước láng giềng, mở cửa hàng rèn. Vợ có bầu — sinh con gái (VL từ xa bơm linh lực bảo hộ mẹ con). Đại Ngưu suốt đời không bao giờ gặp lại VL; điều tiếc nuối nhất khi chết không phải không gặp Tiểu Ngưu mà là không gặp lại Vương thúc thúc. Hai bức tượng điêu khắc VL tặng được con cháu giữ làm gia bảo truyền đời." }
         ],
         tuViMoc: [],
         nhanMach: [
@@ -5879,7 +5922,7 @@ window.LIB_DATA["tien-nghich"].volumes = {
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0229", "@c0237", "@c0240", "@c0241", "@c0245", "@c0248", "@c0249"]
+      nguon: ["@c0229", "@c0237", "@c0240", "@c0241", "@c0245", "@c0248", "@c0249", "@c0258"]
     },
     { value: "q04", label: "Quyển 4", range: "Ch.178 – 250", title: "Phong Quyển Tàn Vân",
       summary: "Vương Lâm rời Cổ Thần Chi Địa sau 200 năm với thân thể Cổ Thần và Thần Thức Cực Cảnh; diệt tận gốc dòng họ Đằng tại Triệu quốc rồi rời đi. Đến Sở quốc lập phân thân trà trộn Vân Thiên Tông, đột phá Nguyên Anh kỳ. Hóa phàm 30+ năm tại kinh đô Liên Minh Tứ Phái (Chu Tước tinh): điêu khắc tượng gỗ, cảm ngộ ý cảnh, đạt Nguyên Anh hậu kỳ đỉnh. Thiên Vận Tử qua, thu VL làm ký danh đệ tử. Chiến tranh Tuyết Vực diệt quốc bùng phát; VL hoàn tất giai đoạn hóa phàm bằng ý cảnh Sinh Tử + Hắc Ấn chữ Tử, rời đi.",
@@ -5951,6 +5994,127 @@ window.LIB_DATA["tien-nghich"].volumes = {
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
       nguon: ["@c0241", "@c0248"]
+    },
+    {
+      id: "hong-diep",
+      name: "Hồng Điệp",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nu",
+      theLuc: [
+        { ten: "Tuyết Vực Quốc", trangThai: "xuat-than" },
+        { ten: "Chu Tước Quốc", trangThai: "gan-bo" }
+      ],
+      canhGioiCaoNhat: "Thiên Tiên Ngũ Linh thể — tiềm năng Hóa Thần hậu kỳ đỉnh phong trong 100 năm không đan dược; thực tế tu vi chưa rõ @c0253",
+      trangThai: "song — đã rời Tuyết Vực theo Âu Chí đi Chu Tước Quốc @c0253",
+      vaiTro: "Thiên chi kiêu nữ Tuyết Vực — nguyên nhân trực tiếp của cuộc chiến diệt quốc",
+      tinhCach: [],
+      blurb: "Nữ tử thiên tài nghìn vạn năm mới xuất hiện một lần của Tuyết Vực, sở hữu Thiên Tiên Ngũ Linh thể. Kiếp nạn đã tận nhờ Thủ Đồ thế mạng. Chu Tước Quốc chiêu mộ — nàng đặt điều kiện nâng Tuyết Vực lên ngũ cấp và lấy đất Tứ Phái, khởi phát cuộc chiến diệt quốc. Sau khi kiếp nạn qua, theo sứ giả Âu Chí đi Chu Tước Quốc dự Quán Đỉnh đại lễ.",
+      tabs: {
+        diem: [],
+        kinhLich: [
+          { bridge: true, khoang: "@c0246", text: "Nữ tử thiên tài Tuyết Vực — Thiên Tiên Ngũ Linh thể, tiềm năng Hóa Thần hậu kỳ đỉnh phong 100 năm không đan dược. Chu Tước Quốc chiêu mộ; điều kiện của nàng: nâng Tuyết Vực lên ngũ cấp + chọn lãnh thổ Tứ Phái làm nơi mới. Nguyên nhân trực tiếp của chiến tranh diệt quốc." },
+          { chuong: "@c0253", importance: "normal", tieuDe: "Xuất hiện — kiếp nạn đã tận", text: "Hồng Điệp thật xuất hiện sau khi Thủ Đồ thế mạng trong sát trận. Kiếp nạn đã tận. Theo sứ giả Âu Chí rời Tuyết Vực đi Chu Tước Quốc. (@c0253)" },
+          { bridge: true, khoang: "@c0256", text: "Đã đến Chu Tước Quốc. Sắp tham gia Quán Đỉnh đại lễ — nghi lễ một đời, lập tức nhận Anh Biến sơ kỳ nhưng tu vi bị phong ấn, thọ mệnh giới hạn còn 100 năm." }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Âu Chí", gap: "@c0253", quanHe: "Sứ giả bảo hộ", ghiChu: "Sứ giả Chu Tước Quốc đến tiếp đón và bảo hộ Hồng Điệp.", tag: "dong-hanh" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0246", "@c0253", "@c0256"]
+    },
+    {
+      id: "au-chi",
+      name: "Âu Chí",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: [{ ten: "Chu Tước Quốc", trangThai: "su-gia" }],
+      canhGioiCaoNhat: "Hóa Thần kỳ — tu vi cực cao (rút huyết mạch Thương Long, cố hấp thu thiên kiếp @c0253–@c0254); cụ thể chưa rõ",
+      trangThai: "song — rời cùng Hồng Điệp đến Chu Tước Quốc @c0253",
+      vaiTro: "Sứ giả Chu Tước Quốc đến đón Hồng Điệp",
+      tinhCach: [
+        { text: "Giả bệnh tật yếu đuối; thực lực cực cao — xuất thủ rút huyết mạch Thương Long; dũng mãnh đến mức cố hấp thu hồng vân thiên kiếp dù thất bại.", chuong: "@c0253" }
+      ],
+      blurb: "Sứ giả Chu Tước Quốc — ngoài giả bệnh tật yếu ớt nhưng tu vi thuộc hàng Hóa Thần kỳ. Đến Tuyết Vực đón Hồng Điệp: rút huyết mạch Thương Long, hạ CVT hôn mê. Cố hấp thu hồng vân thiên kiếp sau khi VL kích nổ sỏi tơ nhưng thất bại. Bảo hộ Hồng Điệp rời đi Chu Tước Quốc.",
+      tabs: {
+        diem: [
+          { text: "Ngoài giả bệnh tật; thực lực xuất thủ rút huyết mạch Thương Long, hạ CVT hôn mê — tu vi Hóa Thần kỳ hoặc cao hơn.", chuong: "@c0253" }
+        ],
+        kinhLich: [
+          { chuong: "@c0253", importance: "normal", tieuDe: "Rút huyết mạch Thương Long — hạ CVT", text: "Xuất hiện cùng Hồng Điệp, rút huyết mạch Thương Long, hạ CVT hôn mê. Thực lực bộc lộ bất ngờ sau khi giả yếu đuối suốt trước đó. (@c0253)" },
+          { chuong: "@c0254", importance: "normal", tieuDe: "Cố hấp thu thiên kiếp — thất bại", text: "Sau khi VL kích nổ sỏi tơ thiên kiếp, Âu Chí cố hấp thu hồng vân để tăng lực nhưng thất bại. VL thoát vào Nghịch Thiên Châu trước khi Âu Chí có thể chặn. (@c0254)" }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Hồng Điệp", gap: "@c0253", quanHe: "Người được bảo hộ", ghiChu: "Nhiệm vụ đến Tuyết Vực đón Hồng Điệp về Chu Tước Quốc.", tag: "dong-hanh" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0253", "@c0254"]
+    },
+    {
+      id: "mac-tri",
+      name: "Mặc Trí",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: [],
+      canhGioiCaoNhat: "Không rõ — có Vong Cảnh (ý cảnh) + Súc Địa thành thốn + nhận diện được ý cảnh người khác → tu vi rất cao @c0259",
+      trangThai: "song @c0259",
+      vaiTro: "Tu sĩ bí ẩn — người giảng đạo sinh tử cho Vương Lâm",
+      tinhCach: [
+        { text: "Ôn hòa, cười cười liên tục; thẳng thắn không giấu ý cảnh; trí nhớ ngắn hạn kém do Vong Cảnh phát tác — quên cuộc trò chuyện vừa xảy ra.", chuong: "@c0259" }
+      ],
+      blurb: "Tu sĩ bí ẩn mặc bạch y, sở hữu ý cảnh Vong Cảnh (quên lãng) và Súc Địa thành thốn. Gặp Vương Lâm trong miếu hoang dưới mưa đêm; nhận ra VL có ý cảnh tỏa hồn. Giảng đạo sinh tử: 'Cơn mưa sinh từ trên trời, rơi xuống đất mà chết — khoảng giữa là nhân sinh.' VL chấn động, vái sâu tạ ân. Lai lịch tông phái hoàn toàn không rõ.",
+      tabs: {
+        diem: [
+          { text: "Nhận ra VL có ý cảnh tỏa hồn chỉ bằng quan sát — năng lực nhận diện cực cao.", chuong: "@c0259" },
+          { text: "Ý cảnh Vong Cảnh gây mất trí nhớ ngắn hạn liên tục: quên tên VL, quên đang nói gì (ít nhất 3 lần trong cuộc trò chuyện). Tự giải thích: 'Từ sau khi hiểu được thiên đạo, trí nhớ thi thoảng lại có vấn đề.'", chuong: "@c0259" }
+        ],
+        kinhLich: [
+          { chuong: "@c0259", importance: "major", tieuDe: "Giảng đạo sinh tử cho Vương Lâm", text: "Gặp VL trong miếu hoang, nhận ra ý cảnh tỏa hồn. Luận đạo: sinh = lửa, tử = tâm chết; 'Cơn mưa sinh từ trên trời, rơi xuống đất mà chết — khoảng giữa là nhân sinh.' VL chấn động, vái sâu tạ ân rồi rời đi dưới mưa. (@c0259)" }
+        ],
+        tuViMoc: [
+          { chuong: "@c0259", canhGioi: "Vong Cảnh (ý cảnh quên lãng)", text: "Ý cảnh mới lần đầu xuất hiện trong truyện. Hệ quả: mất trí nhớ ngắn hạn sau khi 'hiểu được thiên đạo'. (@c0259)" }
+        ],
+        nhanMach: [
+          { ten: "Vương Lâm", gap: "@c0259", quanHe: "Người được giảng đạo", ghiChu: "Gặp một lần; giảng đạo sinh tử thay đổi nhận thức VL. VL xưng tên giả Đại Ngưu.", tag: "khac" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0259"]
+    },
+    {
+      id: "tran-hoan",
+      name: "Trần Hoan",
+      cn: "",
+      aliases: ["Hoan"],
+      gioiTinh: "nam",
+      theLuc: [{ ten: "Thủy Mặc Môn", trangThai: "thieu-mon-chu" }],
+      canhGioiCaoNhat: "Không rõ (dưới Hóa Thần) @c0257",
+      trangThai: "song — rời khỏi biên giới Tuyết Vực sau khi sư phụ hy sinh @c0258",
+      vaiTro: "Thiếu môn chủ Thủy Mặc Môn — thề diệt Tuyết Vực",
+      tinhCach: [
+        { text: "Cứng cỏi, quyết liệt — nhìn bóng lưng sư phụ khuất dần, dập đầu nhiều cái rồi nắm chặt tay, xoay người đi; thề cả đời phải diệt Tuyết Vực quốc.", chuong: "@c0258" }
+      ],
+      blurb: "Thiếu môn chủ Thủy Mặc Môn — một trong Liên Minh Tứ Phái vừa bị tiêu diệt. Gặp Vương Lâm cùng sư phụ Hóa Thần hậu kỳ. Sư phụ hy sinh tự bão vào Băng Tuyết Thần Điện, thức tỉnh các tu sĩ ẩn dật. Trần Hoan thề cả đời diệt Tuyết Vực, rời đi.",
+      tabs: {
+        diem: [],
+        kinhLich: [
+          { chuong: "@c0257", importance: "normal", tieuDe: "Gặp VL — nhận đan dược từ sư phụ đáp đền", text: "Gặp VL cùng sư phụ Hóa Thần hậu kỳ Thủy Mặc Môn. Sư phụ nhận đan dược VL tặng, đáp đền bằng cây quạt 2 lông. VL dùng Thiên Đạo Luân Hồi chữ Sinh chữa thương. (@c0257)" },
+          { chuong: "@c0258", importance: "normal", tieuDe: "Sư phụ hy sinh — thề diệt Tuyết Vực", text: "Nhìn bóng lưng sư phụ bay thẳng vào Băng Tuyết Thần Điện tự bão. Dập đầu nhiều cái, nắm chặt tay thề: 'Ta. Trần Hoan ở đây thề. Cuộc đời này nhất định phải diệt Tuyết Vực quốc.' Rời đi. (@c0258)" }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Lão nhân Hóa Thần hậu kỳ Thủy Mặc Môn", gap: "@c0257", quanHe: "Sư phụ", ghiChu: "Sư phụ hy sinh tự bão vào Băng Tuyết Thần Điện để thức tỉnh tu sĩ ẩn dật.", tag: "su-mon" },
+          { ten: "Vương Lâm", gap: "@c0257", quanHe: "Quen biết tình cờ", ghiChu: "Gặp khi sư phụ tặng cây quạt cho VL; chứng kiến sư phụ hy sinh cùng VL.", tag: "khac" }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0257", "@c0258"]
     }
   ]
 };
@@ -6523,8 +6687,8 @@ window.LIB_DATA["tien-nghich"].techniques = {
       hePhai: null,
       soHuu: ["vuong-lam"],
       blurb: "Ý cảnh đặc hữu của Vương Lâm: kết hợp 400 năm giết chóc (chữ Tử) với 30 năm hóa phàm bình dị (chữ Sinh), cộng với cảm ngộ thiên đạo luân hồi. Tâm cảnh đạt mức 'Muốn núi là thấy núi, muốn nước là thấy nước' — có thể tự điều khiển cấp độ tu vi.",
-      detail: "Hình thành qua hai giai đoạn: (1) VL điêu khắc từng vong hồn bị giết suốt 400 năm tu đạo, đắm chìm hoàn toàn vào ký ức — kết hợp ý nghĩa chữ Tử (sát ký 400 năm) và chữ Sinh (30 năm phàm nhân); (2) kết hợp cảm ngộ thiên đạo luân hồi từ @c0241 — đạt ý cảnh Sinh Tử @c0247. Đây là nền tảng để ngưng tụ Hắc Ấn chữ Tử @c0248 và là điều kiện đột phá Hóa Thần khi bế quan 10 năm.",
-      nguon: ["@c0247", "@c0248"]
+      detail: "Hình thành qua hai giai đoạn: (1) VL điêu khắc từng vong hồn bị giết suốt 400 năm tu đạo, đắm chìm hoàn toàn vào ký ức — kết hợp ý nghĩa chữ Tử (sát ký 400 năm) và chữ Sinh (30 năm phàm nhân); (2) kết hợp cảm ngộ thiên đạo luân hồi từ @c0241 — đạt ý cảnh Sinh Tử @c0247. Đây là nền tảng để ngưng tụ Hắc Ấn chữ Tử @c0248 và điều kiện đột phá Hóa Thần. Tiếp tục đào sâu: @c0258 VL ngộ thêm thế nào là sinh thế nào là tử (giai đoạn 'nhin núi không phải là núi'). @c0259 Mặc Trí giảng 'cơn mưa sinh từ trời, rơi xuống đất mà chết — khoảng giữa là nhân sinh' → VL chấn động, bước tiến then chốt. @c0260 lĩnh ngộ hoàn toàn, làm nền cho con đường Đạo Cổ thần.",
+      nguon: ["@c0247", "@c0248", "@c0258", "@c0259", "@c0260"]
     },
     {
       id: "hac-an-chu-tu",
@@ -6538,6 +6702,32 @@ window.LIB_DATA["tien-nghich"].techniques = {
       blurb: "Hình vuông cỡ bàn tay, khắc hình người không mặt mũi; ngưng tụ từ vô số tượng gỗ điêu khắc vong hồn + huyết cầu sát khí 400 năm giết chóc. Dung nhập vào Nguyên Anh Vương Lâm, mang toàn bộ ý nghĩa chữ Tử (sát ký).",
       detail: "Hình thành sau khi VL đạt ý cảnh Sinh Tử: dòng chảy đen từ vô số tượng gỗ + huyết cầu sát khí ngưng tụ thành Hắc Ấn hình vuông. Dung nhập vào Nguyên Anh VL, đánh dấu kết thúc giai đoạn hóa phàm. Công năng cụ thể chưa được thi triển trong nguyên tác tính đến c0250.",
       nguon: ["@c0247", "@c0248"]
+    },
+    {
+      id: "bang-tuyet-quyet",
+      name: "Băng Tuyết quyết",
+      loai: "cong-phap",
+      loaiLabel: "Công pháp — tà đạo nghịch thiên",
+      he: "Băng tuyết — hàn hệ",
+      capBac: "Không rõ phẩm cấp",
+      hePhai: "Tuyết Vực Quốc",
+      nguoiDung: ["Tuyết Vực Quốc (tu sĩ)"],
+      blurb: "Công pháp cốt lõi của Tuyết Vực Quốc — luyện tâm bằng băng tuyết: dùng băng thay đổi xương cốt, dùng tuyết ngưng tâm, tạo thành 'băng tuyết chi hồn'. Kết quả: tâm trong như băng, đạt mức 'tùy tâm sở dục' với công pháp; có thể ngưng luyện tinh tinh khí khi nhập trần. VL nhận định: NGHỊCH THIÊN — không phải chính đạo.",
+      detail: "Cơ chế: băng thay đổi xương cốt, tuyết ngưng tâm → băng tuyết chi hồn → tâm trong như băng. Hiệu quả: tu sĩ Tuyết Vực đạt 'tùy tâm sở dục' với công pháp (trình độ tinh thông cao); ngưng luyện tinh tinh khí khi nhập trần (xuống như người bình thường). Cũng giải thích vì sao khôi lỗi Tuyết Vực cần duy trì bằng tuyết kinh mạch (49 tuyết kinh mạch = tương đương Kết Đan trung kỳ; 81 = Nguyên Anh kỳ). VL nghiên cứu @c0258 nhưng không tu luyện — dùng nguyên lý để sáng tạo huyết kinh mạch. So sánh: tương tự Lục Dục Ma Quan (khác cách nhưng cùng kết quả). VL đánh giá: nghịch thiên, không phải chính đạo.",
+      nguon: ["@c0258"]
+    },
+    {
+      id: "huyet-kinh-mach",
+      name: "Huyết kinh mạch",
+      loai: "than-thong",
+      loaiLabel: "Thần thông — tự sáng tạo",
+      he: "Huyết — Sinh Tử ý cảnh",
+      capBac: "Tự sáng tạo",
+      hePhai: null,
+      nguoiDung: ["vuong-lam"],
+      blurb: "Biến thể của tuyết kinh mạch do Vương Lâm tự sáng tạo — thay tuyết bằng huyết (máu tươi), kết hợp ý cảnh Sinh Tử để điều khiển khôi lỗi. Mục đích: đạt được hiệu quả tương đương tuyết kinh mạch nhưng không cần tu luyện Băng Tuyết quyết nghịch thiên.",
+      detail: "VL nghiên cứu Băng Tuyết quyết và cơ chế tuyết kinh mạch @c0258, quyết không tu luyện nghịch thiên nhưng mô phỏng nguyên lý: thay tuyết bằng huyết (máu tươi), kết hợp ý cảnh Sinh Tử để điều khiển (máu = Sinh, sát ký = Tử). Kết quả: có thể điều khiển khôi lỗi theo cách tương tự tuyết kinh mạch. Chi tiết công năng đầy đủ chưa được triển khai trong nguyên tác tính đến c0260.",
+      nguon: ["@c0258"]
     }
   ]
 };
@@ -6756,7 +6946,11 @@ window.LIB_DATA["tien-nghich"].map = {
     { id: "thien-van-tinh", name: "Thiên Vận Tinh", cn: "", capDo: "khac", parentId: null,
       blurb: "Tinh cầu của Thiên Vận Tử — lớn hơn Chu Tước tinh vô số lần. Vị trí được lưu trong tinh đồ Thiên Vận Tinh trong đầu Vương Lâm.",
       detail: "Thiên Vận Tử đến từ Thiên Vận Tinh, tinh cầu vũ trụ lớn hơn Chu Tước tinh vô số lần. Lão gọi Chu Tước tinh là 'tu chân tinh vứt đi'. Khi rời đi, lưu tinh đồ Thiên Vận Tinh vào đầu VL và hẹn đến đó tìm hắn. VL hiện tại không có khả năng đến @c0241.",
-      theLucLienQuan: [], nguon: ["@c0241"] }
+      theLucLienQuan: [], nguon: ["@c0241"] },
+    { id: "bang-tuyet-than-dien", name: "Băng Tuyết Thần Điện", cn: "", capDo: "son-mon", parentId: "tuyet-vuc",
+      blurb: "Trụ sở/thần điện trung tâm của Tuyết Vực Quốc tân lập trên lãnh thổ cũ Tứ Phái. Nơi lão nhân Hóa Thần hậu kỳ Thủy Mặc Môn tự bão — nhuộm đỏ toàn thần điện, thức tỉnh tu sĩ Tứ Phái ẩn dật. Cũng là nơi triệu tập đại lễ khi 1 trong 13 tu sĩ gửi đến Chu Tước Quốc trở về đạt Anh Biến kỳ.",
+      detail: "Băng Tuyết Thần Điện là cơ sở hành chính/tôn giáo trung tâm của Tuyết Vực tân quốc — nằm trên lãnh thổ Liên Minh Tứ Phái cũ. Lão nhân Hóa Thần hậu kỳ Thủy Mặc Môn bay thẳng vào tự bão @c0258 — thần điện nhuộm máu đỏ tươi; cái chết này thức tỉnh tu sĩ ẩn náu của Tứ Phái. Thần điện còn hạ lệnh triệu tập tu sĩ từ Kết Đan kỳ trở lên để tổ chức đại lễ chào mừng 1 trong 13 người gửi sang Chu Tước Quốc trở về đạt Anh Biến kỳ @c0258.",
+      theLucLienQuan: ["tuyet-vuc"], nguon: ["@c0258"] }
   ]
 };
 
@@ -8507,9 +8701,24 @@ window.LIB_DATA["tien-nghich"].factions = {
       lanhDao: "Nữ tử thiên tài (Hóa Thần hậu kỳ đỉnh phong)",
       trangThai: "Đang tiến hành chiến tranh diệt quốc @c0249",
       blurb: "Tuyết Vực Quốc — tứ cấp Tu Chân Quốc nằm ở Cực Bắc Chu Tước tinh. Xuất hiện nữ tử thiên tài vạn năm (Hóa Thần hậu kỳ đỉnh phong trong 100 năm không đan dược); Chu Tước Quốc chiêu mộ, nữ tử đặt điều kiện nâng Tuyết Vực lên ngũ cấp và chọn Tứ Phái làm lãnh thổ mới — khởi xướng chiến tranh diệt quốc.",
-      detail: "Tuyết Vực tấn công Tứ Phái bằng chiến thuật tuyết rơi 4 tháng bất thường (thông lệ chỉ 10 ngày). Các nước láng giềng và ngũ cấp quốc bị lệnh cấm tham chiến — Tứ Phái cô lập hoàn toàn. Đại quân Tuyết Vực giáng lâm @c0249–@c0250; nữ tử chỉ huy (Hóa Thần trung kỳ+) một tay phá trận pháp Tứ Phái, xuất 5 phân thân linh khí Ngũ Hành @c0249–@c0250.",
+      detail: "Tuyết Vực tấn công Tứ Phái bằng chiến thuật tuyết rơi 4 tháng bất thường (thông lệ chỉ 10 ngày). Các nước láng giềng và ngũ cấp quốc bị lệnh cấm tham chiến — Tứ Phái cô lập hoàn toàn. Đại quân Tuyết Vực giáng lâm @c0249–@c0250; nữ tử chỉ huy (Hóa Thần trung kỳ+) một tay phá trận pháp Tứ Phái, xuất 5 phân thân linh khí Ngũ Hành @c0249–@c0250. Sau đó lập tân quốc trên lãnh thổ Tứ Phái @c0255. Công pháp đặc trưng: Băng Tuyết quyết (nghịch thiên); khôi lỗi duy trì bằng tuyết kinh mạch.",
       thanhVien: [],
-      nguon: ["@c0242", "@c0244", "@c0246", "@c0249", "@c0250"]
+      nguon: ["@c0242", "@c0244", "@c0246", "@c0249", "@c0250", "@c0255", "@c0256", "@c0258"]
+    },
+    {
+      id: "thuy-mac-mon",
+      name: "Thủy Mặc Môn",
+      cn: "",
+      loai: "tong-mon",
+      loaiLabel: "Tông môn tu chân",
+      viTri: "Liên Minh Tứ Phái (đã bị diệt)",
+      capDo: "Một trong Tứ Phái — có Hóa Thần hậu kỳ",
+      lanhDao: "Lão nhân Hóa Thần hậu kỳ (sư phụ Trần Hoan; đã hy sinh @c0258)",
+      trangThai: "da-bi-diet — lãnh thổ bị Tuyết Vực chiếm; thiếu môn chủ Trần Hoan lưu vong @c0258",
+      blurb: "Một trong Liên Minh Tứ Phái. Sư phụ môn chủ (Hóa Thần hậu kỳ) gặp VL, tặng cây quạt 2 lông để báo đáp đan dược, rồi một mình tự bão vào Băng Tuyết Thần Điện — nhuộm thần điện màu đỏ, thức tỉnh các tu sĩ ẩn dật. Thiếu môn chủ Trần Hoan thề cả đời diệt Tuyết Vực.",
+      detail: "Thủy Mặc Môn là một trong bốn phái Liên Minh Tứ Phái — cùng bị Tuyết Vực diệt quốc. Sư phụ Trần Hoan là Hóa Thần hậu kỳ — cảm ngộ ý cảnh ấm áp từ câu chuyện VL, tặng Bảo Phiến tàn 2 lông. Sau đó bay một mình vào Băng Tuyết Thần Điện tự bão, nhuộm thần điện màu đỏ; cái chết của ông thức tỉnh các tu sĩ Tứ Phái đang ẩn náu @c0257–@c0258. Trần Hoan (thiếu môn chủ) rời đi với lời thề diệt Tuyết Vực.",
+      thanhVien: ["tran-hoan"],
+      nguon: ["@c0250", "@c0257", "@c0258"]
     }
   ]
 };
