@@ -808,9 +808,9 @@ window.LIB_DATA["tien-nghich"].characters = {
       aliases: [],
       gioiTinh: "nam",
       theLuc: ["Vương Thị Gia Tộc", "Hằng Nhạc Phái", "Huyền Đạo Tông (@c0087)"],
-      canhGioiCaoNhat: "Ngưng Khí kỳ tầng 11 @c0087",
-      trangThai: "song (sống sót sau diệt môn Vương gia @c0087)",
-      vaiTro: "Đối thủ (anh họ)",
+      canhGioiCaoNhat: "Kết Đan hậu kỳ @c0210",
+      trangThai: "da-chet (@c0217 — tự sát sau khi kết liễu vợ Đằng Tú Tú; hồn phách được Vương Lâm đầu thai)",
+      vaiTro: "Cố nhân (anh họ) / bi kịch rể Đằng gia",
       tinhCach: "Kiêu căng ngạo mạn, khinh miệt kẻ yếu hơn; lấy thân thế và linh căn làm ưu thế; không kiềm được miệng lưỡi ngay cả khi bị người có thực lực hơn dọa nạt.",
       blurb: "Anh họ kiêu ngạo của Vương Lâm. Có tu tiên linh căn, được Đạo Hư thượng tiên chính thức thu làm đồ đệ truyền thừa; liên tục châm biếm và sỉ nhục Vương Lâm trong suốt giai đoạn Ch.1–7.",
       tabs: {
@@ -891,24 +891,50 @@ window.LIB_DATA["tien-nghich"].characters = {
             chuong: "@c0087",
             importance: "major",
             text: "Đằng Hóa Nguyên tàn sát toàn bộ Vương gia (100+ người); Vương Trác sống sót — đã là đệ tử Huyền Đạo Tông, Ngưng Khí tầng 11. (@c0087)"
+          },
+          {
+            chuong: "@c0210",
+            importance: "normal",
+            tieuDe: "Tái xuất Triệu quốc, cảnh cáo vợ",
+            text: "Cùng Đằng Tú Tú (đạo lữ song tu) bay về Đằng gia thành thăm muội muội của nàng, ở ba ngày. Bộc lộ thù hận sâu nặng với Đằng gia: cha mẹ và tộc nhân Vương gia từng bị Đằng Hóa Nguyên hại. Cấm Đằng Tú Tú nhắc tên 'Vương Lâm' trước mặt hắn — hé lộ Vương Lâm chính là gốc rễ thảm họa năm xưa. (@c0210)"
+          },
+          {
+            chuong: "@c0215",
+            importance: "normal",
+            tieuDe: "Mừng thầm Đằng gia bị diệt",
+            text: "Chứng kiến Đằng gia bị kẻ bí ẩn thảm sát hàng loạt; trong lòng hả hê mừng rỡ, mong người đó giết sạch cả họ Đằng. Nội tâm xé đôi giữa huyết hận thân nhân và người vợ Đằng gia hắn không yêu nhưng 'không đành'. (@c0215)"
+          },
+          {
+            chuong: "@c0216",
+            importance: "normal",
+            tieuDe: "Được Đằng Tam truyền tống cứu cùng vợ",
+            text: "Cha Đằng Tú Tú là Đằng Tam hy sinh tu vi, dùng nguyên anh tinh huyết kích hoạt trận pháp truyền tống đưa cả hai vợ chồng thoát khỏi màn sương thôn hồn của Vương Lâm trong nháy mắt. Đằng Tam ngầm quyết 'về thành sẽ tìm cơ hội giết Vương Trác' — nhưng đã chết trước khi thực hiện. (@c0216)"
+          },
+          {
+            chuong: "@c0217",
+            importance: "major",
+            tieuDe: "Tái ngộ VL, tự tay kết liễu vợ rồi tự sát",
+            text: "Vương Lâm nhận ra hắn là cố nhân, hai người lần đầu nhận thân: Vương Trác xác nhận chỉ Vương Lâm mới đủ thực lực báo thù Vương gia; Vương Lâm xin lỗi. Cả hai thống nhất kẻ thù chung là Đằng Hóa Nguyên. Sau khi Vương Lâm lệnh hai vợ chồng rời Triệu quốc rồi bay đi, Vương Trác tự tay đặt lên thiên linh cái Đằng Tú Tú kết liễu nàng (lần đầu gọi 'Tú Tú'), rồi tự đập chưởng vào trán tự sát để không phản bội huyết hận Vương gia. Vương Lâm quay lại thu giữ hồn hỏa của hắn, đưa hồn phách vào thai nhi trong bụng nữ tử ở Vương gia thành — đầu thai luân hồi. (@c0217)"
           }
         ],
-        tuVi: "Phàm nhân trong Ch.1–10; chính thức được Đạo Hư thượng tiên thu làm đồ đệ truyền thừa. Đến Ch.20 đã đạt Ngưng Khí kỳ tầng 1 sau ba tháng bế quan. Tầng 11 @c0087.",
+        tuVi: "Phàm nhân trong Ch.1–10; chính thức được Đạo Hư thượng tiên thu làm đồ đệ truyền thừa. Đến Ch.20 đã đạt Ngưng Khí kỳ tầng 1 sau ba tháng bế quan. Tầng 11 @c0087. Kết Đan hậu kỳ @c0210. Tử @c0217.",
         tuViMoc: [
           { chuong: "@c0020", canhGioi: "Ngưng Khí kỳ tầng 1", text: "Bị sư phụ bắt bế quan ba tháng, luyện thành Ngưng Khí kỳ tầng 1 (@c0020)." },
           { chuong: "@c0034", canhGioi: "Ngưng Khí kỳ tầng 1 đỉnh phong", text: "Đỉnh phong tầng 1, sắp đột phá tầng 2 — được Tôn Đại Trụ so sánh khi châm biếm Vương Lâm (@c0034)." },
           { chuong: "@c0036", canhGioi: "Ngưng Khí kỳ tầng 3", text: "Đạt tầng 3 sau 2 năm bế quan hậu sơn (@c0036)." },
           { chuong: "@c0037", canhGioi: "Ngưng Khí kỳ tầng 5 đỉnh phong", text: "Sau 4 năm bế quan hậu sơn đạt tầng 5 đỉnh phong, sắp vào tầng 6 (@c0037)." },
-          { chuong: "@c0087", canhGioi: "Ngưng Khí kỳ tầng 11", text: "Đệ tử Huyền Đạo Tông; sống sót sau vụ Đằng Hóa Nguyên tàn sát Vương gia @c0087." }
+          { chuong: "@c0087", canhGioi: "Ngưng Khí kỳ tầng 11", text: "Đệ tử Huyền Đạo Tông; sống sót sau vụ Đằng Hóa Nguyên tàn sát Vương gia @c0087." },
+          { chuong: "@c0210", canhGioi: "Kết Đan hậu kỳ", text: "Đạo lữ song tu cùng Đằng Tú Tú, gần 400 năm đạt Kết Đan hậu kỳ — tốc độ hiếm thấy ở Triệu quốc." }
         ],
         nhanMach: [
           { ten: "Vương Thiên Sơn", quanHe: "Cha (Đại bá)", ghiChu: "Ngoài mặt quở trách con nhưng trong lòng đắc ý; bênh con khi bị Tứ thúc dọa.", tag: "cha-me" },
-          { ten: "Vương Lâm", quanHe: "Em họ", ghiChu: "Khinh miệt, liên tục sỉ nhục và nhạo báng. Vương gia bị diệt @c0087, Vương Trác sống sót.", tag: "doi-thu" },
-          { ten: "Đạo Hư thượng tiên", quanHe: "Sư phụ", ghiChu: "Nội bộ chỉ định từ trước; chính thức thu làm đồ đệ, hứa mười năm thành nhân tài kiệt xuất.", tag: "su-mon" }
+          { ten: "Vương Lâm", quanHe: "Em họ", ghiChu: "Khinh miệt, liên tục sỉ nhục và nhạo báng. Vương gia bị diệt @c0087, Vương Trác sống sót; tái ngộ @c0217 — hai người nhận nhau là cùng phe thù Đằng Hóa Nguyên.", tag: "ho-hang" },
+          { ten: "Đạo Hư thượng tiên", quanHe: "Sư phụ", ghiChu: "Nội bộ chỉ định từ trước; chính thức thu làm đồ đệ, hứa mười năm thành nhân tài kiệt xuất.", tag: "su-mon" },
+          { ten: "Đằng Tú Tú", quanHe: "Đạo lữ / thê tử", ghiChu: "Kết hôn theo sắp xếp Đằng gia; sống chung trăm năm nhưng Vương Trác không yêu — chỉ cưới để tự bảo vệ trước Đằng Hóa Nguyên. Cuối cùng tự tay kết liễu nàng @c0217.", tag: "gia-dinh" }
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007", "@c0020", "@c0021", "@c0055", "@c0087"]
+      nguon: ["@c0001", "@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0007", "@c0020", "@c0021", "@c0055", "@c0087", "@c0210", "@c0215", "@c0216", "@c0217"]
     },
     {
       id: "tu-thuc",
@@ -943,11 +969,12 @@ window.LIB_DATA["tien-nghich"].characters = {
         nhanMach: [
           { ten: "Vương Lâm", quanHe: "Cháu (con Nhị ca)", ghiChu: "Người hắn nhường suất đề cử, kỳ vọng được tuyển chọn.", tag: "ho-hang" },
           { ten: "Vương Thiên Thủy (Nhị ca)", quanHe: "Anh ruột", ghiChu: "Quan hệ không quá gần do bị bức rời gia tộc, nhưng vẫn có tình.", tag: "ho-hang" },
-          { ten: "Mẹ Vương Lâm (Nhị nương)", quanHe: "Chị dâu", ghiChu: "Người từng chiếu cố ông lúc nhỏ — động lực báo ân.", tag: "an-nhan" }
+          { ten: "Mẹ Vương Lâm (Nhị nương)", quanHe: "Chị dâu", ghiChu: "Người từng chiếu cố ông lúc nhỏ — động lực báo ân.", tag: "an-nhan" },
+          { ten: "Con gái Vương Vân Phi", quanHe: "Cháu chắt (hậu duệ)", ghiChu: "Cháu gái Tứ thúc — mang khí chí âm, được Vương Lâm trị bệnh + ban 72 đan dược + ngọc giản hộ mệnh @c0211.", tag: "ho-hang" }
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0001", "@c0002"]
+      nguon: ["@c0001", "@c0002", "@c0211"]
     },
     {
       id: "vuong-hao",
@@ -957,7 +984,7 @@ window.LIB_DATA["tien-nghich"].characters = {
       gioiTinh: "nam",
       theLuc: ["Vương Thị Gia Tộc", "Hằng Nhạc Phái", "Huyền Đạo Tông (đệ tử Phác Nam Tử @c0101)"],
       canhGioiCaoNhat: "Ngưng Khí kỳ tầng 7 @c0087",
-      trangThai: "song (đệ tử Phác Nam Tử, Huyền Đạo Tông @c0101)",
+      trangThai: "da-chet (Kết Đan không thành → chết, theo lời Vương Trác @c0217)",
       vaiTro: "Bạn đồng hành / đồng tử",
       tinhCach: "Lanh lợi, thực tế, không ngại nịnh nọt để đạt mục đích; có thiện cảm với Vương Lâm.",
       blurb: "Thiếu niên lanh lợi, con của Tam đệ trong Vương gia. Tư chất kém nhưng dâng linh chi 300 năm, được nhận làm dược đồng (đồng tử) Hằng Nhạc Phái. Bị tam sư huynh Lữ Vân Kiệt ép tu Lô Hỏa Khai Đỉnh Đại Pháp, biến thành dược lô luyện Nhân Thọ đan, chỉ còn ~1 năm sống (@c0043). Được Vương Lâm cứu thoát và thăng nội môn đệ tử (@c0050).",
@@ -1022,9 +1049,14 @@ window.LIB_DATA["tien-nghich"].characters = {
             chuong: "@c0101",
             importance: "normal",
             text: "Sau trận Quyết Minh Cốc, Liễu Mi cầu xin Phác Nam Tử thu Vương Hạo làm đệ tử để gián tiếp giúp Vương Lâm. Phác Nam Tử chấp thuận — Vương Hạo chính thức trở thành đệ tử Phác Nam Tử (Huyền Đạo Tông). Cùng Vương Trác lập chí giết Đằng Hóa Nguyên báo thù. (@c0101)"
+          },
+          {
+            chuong: "@c0217",
+            importance: "normal",
+            text: "Vương Trác báo tin cho Vương Lâm: Vương Hạo Kết Đan không thành công và đã chết. (@c0217)"
           }
         ],
-        tuVi: "Phàm nhân (Ch.2–10), đồng tử Hằng Nhạc Phái. Được học tiên pháp cấp thấp với tư cách đồng tử/người hầu, không làm tạp vụ. Chưa đạt Ngưng Khí tầng 1 tính đến @c0030. Sau @c0050: thăng nội môn đệ tử. Ngưng Khí tầng 7 @c0087. Trở thành đệ tử Phác Nam Tử (Huyền Đạo Tông) @c0101.",
+        tuVi: "Phàm nhân (Ch.2–10), đồng tử Hằng Nhạc Phái. Được học tiên pháp cấp thấp với tư cách đồng tử/người hầu, không làm tạp vụ. Chưa đạt Ngưng Khí tầng 1 tính đến @c0030. Sau @c0050: thăng nội môn đệ tử. Ngưng Khí tầng 7 @c0087. Trở thành đệ tử Phác Nam Tử (Huyền Đạo Tông) @c0101. Kết Đan không thành → chết (thời điểm không rõ trước @c0217).",
         tuViMoc: [
           { chuong: "@c0087", canhGioi: "Ngưng Khí kỳ tầng 7", text: "Sống sót sau vụ Đằng Hóa Nguyên tàn sát Vương gia @c0087." }
         ],
@@ -1043,7 +1075,7 @@ window.LIB_DATA["tien-nghich"].characters = {
           ]
         }
       },
-      nguon: ["@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0021", "@c0030", "@c0043", "@c0050", "@c0087", "@c0101"]
+      nguon: ["@c0002", "@c0003", "@c0004", "@c0005", "@c0006", "@c0021", "@c0030", "@c0043", "@c0050", "@c0087", "@c0101", "@c0217"]
     },
     {
       id: "vuong-thien-thuy",
@@ -1241,7 +1273,8 @@ window.LIB_DATA["tien-nghich"].characters = {
             chuong: "@c0070",
             importance: "normal",
             text: "Cùng Vương Lâm vào Đằng Gia thành — Ngưng Khí tầng 3 (ước đoán từ so sánh với 2 đệ tử Đằng Gia tầng 3 tại cổng thành). Bị luồng gió của Trúc Cơ kỳ bên trong thổi bay, ngã lăn đất. (@c0070)"
-          }
+          },
+          { bridge: true, khoang: "@c0071–@c0211", text: "Không xuất hiện trực tiếp trong giai đoạn này. @c0212 nhắc lại: 400 năm trước Vương Lâm và Trương Hổ đang ở Đằng gia thành thì bị truy sát vì liên lụy Đằng Lệ; sự kiện đó là nguồn gốc mối thù Đằng gia–Vương Lâm. Số phận Trương Hổ hiện vẫn chưa rõ." }
         ],
         tuViMoc: [
           { chuong: "@c0010", canhGioi: "Phàm nhân", text: "Phàm nhân — ký danh đệ tử Hằng Nhạc Phái, làm lao dịch; chưa tu tiên. Bỏ trốn khỏi phái sau @c0026 (sau khi giết Lưu sư huynh)." },
@@ -1264,7 +1297,7 @@ window.LIB_DATA["tien-nghich"].characters = {
           ]
         }
       },
-      nguon: ["@c0010", "@c0011", "@c0014", "@c0015", "@c0026", "@c0066", "@c0067", "@c0068", "@c0069", "@c0070"]
+      nguon: ["@c0010", "@c0011", "@c0014", "@c0015", "@c0026", "@c0066", "@c0067", "@c0068", "@c0069", "@c0070", "@c0212"]
     },
     {
       id: "ton-dai-tru",
@@ -2132,9 +2165,9 @@ window.LIB_DATA["tien-nghich"].characters = {
       aliases: [],
       gioiTinh: "nam",
       theLuc: ["Huyền Đạo Tông"],
-      canhGioiCaoNhat: "Nguyên Anh kỳ @c0053",
+      canhGioiCaoNhat: "Sát Hóa Thần kỳ (@c0218, chưa đột phá — tự ví chỉ còn cách 'một lớp giấy')",
       trangThai: "song",
-      vaiTro: "Cường giả Nguyên Anh kỳ Huyền Đạo Tông",
+      vaiTro: "Cường giả đệ nhất Triệu quốc — thủy tổ Huyền Đạo Tông",
       tinhCach: "Lạnh lùng, ngạo mạn; không xem Hằng Nhạc Phái ngang hàng; gọi VL 'không biết điều' khi từ chối.",
       blurb: "Nguyên Anh kỳ cường giả Huyền Đạo Tông. Một tay phá vỡ Hộ sơn đại trận Hằng Nhạc Phái; đoạt Tử Nhạc Tiên Kiếm; tuyên bố 'mượn' Hằng Nhạc sơn mười vạn năm. Âu Dương phục tùng hắn tuyệt đối.",
       tabs: {
@@ -2532,14 +2565,48 @@ window.LIB_DATA["tien-nghich"].characters = {
             text: "Hơn 400 năm sau, đã lên Nguyên Anh hậu kỳ và là lão tổ trấn giữ Đằng Gia thành — gia tộc tu chân đệ nhất Triệu quốc. Khi Vương Lâm trở về quê, trong lúc bế quan ông cảm nhận được huyết quang bất tường, dùng Dự linh thuật bói toán nhưng không dò ra tung tích Vương Lâm; lặng nhìn bài vị Đằng Lệ. (@c0210)"
           },
           {
+            chuong: "@c0211",
+            importance: "normal",
+            tieuDe: "VL vây thành 'chỉ vào không ra', triệu hồn phách Đằng Lệ định vị huyết thống",
+            text: "Vương Lâm cố ý không giết hắn trước — cắm 16 trận kỳ vây Đằng gia thành chu vi ngàn dặm, dựng cấm chế 'chỉ vào không ra' nhốt toàn bộ tộc nhân. Triệu hồn phách Đằng Lệ để định vị chính xác từng người mang huyết thống Đằng gia trên toàn Triệu quốc — mục tiêu: cho ĐHN chứng kiến cả gia tộc bị diệt trước khi xử hắn sau cùng. (@c0211)"
+          },
+          {
             chuong: "@c0212",
             importance: "major",
             text: "Nhận ra Vương Lâm qua bức họa do Đằng Tấn tìm được — người tóc bạc, mi tâm tinh điểm, cưỡi yêu thú kéo hàng trăm thi thể. Chấn động đến mức linh lực tự tiết ra ngoài, tan vỡ bàn ghế và vô tình giết chết vài con cháu đứng quá gần. Thốt lên 'Hóa ra là ngươi!' — ánh mắt Vương Lâm trước khi 'chết' 400 năm trước đã ám ảnh hắn suốt thời gian đó. Đích thân thử phá phong giới vạn dặm vây Đằng gia thành nhưng vô hiệu; mở toàn bộ trận pháp thành, bế quan giữ trạng thái đỉnh chờ quyết chiến. (@c0212)"
           },
           {
+            chuong: "@c0213",
+            importance: "minor",
+            text: "Không ra khỏi Đằng gia thành dù Hợp Hoan tông — nơi chứa hàng trăm tộc nhân Đằng gia — bị Vương Lâm tấn công. Giới tu sĩ Triệu quốc đồn hắn là 'Hóa Thần kỳ' do giết người chỉ bằng ánh nhìn. (@c0213)"
+          },
+          {
+            chuong: "@c0215",
+            importance: "normal",
+            tieuDe: "Cảm hơi thở Đằng Ngũ tắt, đối mặt VL lần đầu sau 400 năm",
+            text: "Khi Đằng Ngũ — hạch tâm tộc nhân mà hắn yêu quý nhất sau Đằng Nhất vì giống Đằng Lệ — bị sương đen thôn hồn giết chỉ còn dưới 1000 dặm Đằng gia thành, ĐHN cảm nhận hơi thở hắn tắt, hóa tia chớp lao tới đối mặt Vương Lâm (màn sương đen tụ thành người) — lần đầu tiên sau 400 năm đứng trước mặt kẻ thù. (@c0215)"
+          },
+          {
             chuong: "@c0216",
             importance: "major",
             text: "Theo dõi 9 ngọc giản hạch tâm tộc nhân ở tòa nhà tổ: chứng kiến 5 miếng đã vỡ trước đó, rồi miếng Đằng Tam (Đằng Hải — người hắn gọi là 'Hải nhi') vỡ thành hai. Lần đầu tiên sau 400 năm rơi nước mắt — hai giọt. Điểm lại từng hạch tâm tộc nhân đã mất, trong đó Đằng Ngũ (gần giống Đằng Lệ nhất sau Đằng Nhất, được hắn yêu quý) cũng đã chết. Mơ hồ mang chút hối hận về việc năm xưa ép Đằng Tam chia lìa vợ phàm. (@c0216)"
+          },
+          {
+            chuong: "@c0217",
+            importance: "minor",
+            text: "Mục tiêu tối hậu Vương Lâm quyết tiêu diệt sau cùng. Vương Lâm tuyên bố với Vương Trác: 'Đằng Hóa Nguyên không chạy được; cả họ Đằng không ai chạy được'. (@c0217)"
+          },
+          {
+            chuong: "@c0218",
+            importance: "normal",
+            tieuDe: "PNT tiết lộ hắn là 'chuột thí nghiệm'; 6/10 đốm sáng hạch tâm đã tắt",
+            text: "Phác Nam Tử dò trên vách động thấy 10 đốm sáng vận mệnh hạch tâm tộc nhân — 6 đốm đã tắt. Tiết lộ: chính 'sứ giả đại nhân' bí ẩn đã chỉ định Đằng tộc làm đối tượng thí nghiệm; nhờ can thiệp đó Đằng gia mới có 9 Nguyên Anh tu sĩ và ĐHN tiến cảnh phi thường. Phác Nam Tử tuyên bố đây là lần cuối bảo hộ Đằng gia; ra tối hậu thư 100 năm phải có Hóa Thần kỳ. (@c0218)"
+          },
+          {
+            chuong: "@c0219",
+            importance: "normal",
+            tieuDe: "Cảm nhận Thông thiên thuật Cự Ma tộc toàn Triệu quốc",
+            text: "Vương Lâm thi triển Thông thiên thuật Cự Ma tộc, hút 3/5 linh mạch Triệu quốc — toàn bộ Nguyên Anh tu sĩ trở lên tại Triệu quốc đều cảm nhận dị thường. ĐHN trong Đằng gia thành cũng không ngoại lệ. (@c0219)"
           },
           {
             chuong: "@c0220",
@@ -2558,7 +2625,7 @@ window.LIB_DATA["tien-nghich"].characters = {
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0072", "@c0077", "@c0078", "@c0087", "@c0088", "@c0089", "@c0096", "@c0097", "@c0098", "@c0099", "@c0100", "@c0101", "@c0210", "@c0212", "@c0216", "@c0220"]
+      nguon: ["@c0072", "@c0077", "@c0078", "@c0087", "@c0088", "@c0089", "@c0096", "@c0097", "@c0098", "@c0099", "@c0100", "@c0101", "@c0210", "@c0211", "@c0212", "@c0213", "@c0215", "@c0216", "@c0217", "@c0218", "@c0219", "@c0220"]
     },
     {
       id: "a-ngoc",
@@ -5255,15 +5322,35 @@ window.LIB_DATA["tien-nghich"].volumes = {
         diem: [
           { text: "Vợ Vương Trác — liên hôn Đằng gia, củng cố quyền lực Đằng Hóa Nguyên ở Triệu quốc.", chuong: "@c0210" }
         ],
-        kinhLich: [],
+        kinhLich: [
+          {
+            chuong: "@c0210",
+            importance: "normal",
+            tieuDe: "Khuyên chồng buông thù, bị cảnh cáo",
+            text: "Cùng Vương Trác bay về Đằng gia thành thăm muội muội. Khuyên Vương Trác buông bỏ thù xưa, nói 'nên hận Vương Lâm chứ không nên hận lão tổ' — bị Vương Trác cảnh cáo gay gắt, bị cấm nhắc tên Vương Lâm. (@c0210)"
+          },
+          {
+            chuong: "@c0216",
+            importance: "normal",
+            tieuDe: "Cha Đằng Tam hy sinh tu vi truyền tống cứu",
+            text: "Cha Đằng Tam hy sinh nguyên anh tinh huyết kích hoạt trận truyền tống, ném nàng và Vương Trác vào quầng sáng thoát khỏi màn sương thôn hồn của Vương Lâm. Cha dặn: nếu ta chết thì rời ngay Triệu quốc, đừng tìm muội muội. (@c0216)"
+          },
+          {
+            chuong: "@c0217",
+            importance: "major",
+            tieuDe: "Lộ thù hận VL; bị chồng kết liễu lần đầu gọi 'Tú Tú'",
+            text: "Khi Vương Lâm xuất hiện truy theo, nàng lộ 'tia thù hận thật sâu lẩn khuất' với hắn — kẻ vừa giết cha nàng. Vương Lâm quyết không giết nàng, lệnh hai vợ chồng rời Triệu quốc. Nhưng Vương Trác chọn tự tay đặt lên thiên linh cái nàng kết liễu — đó là lần đầu tiên hắn gọi tên 'Tú Tú'. Nàng chết trong lòng hắn. (@c0217)"
+          }
+        ],
         tuViMoc: [],
         nhanMach: [
           { ten: "Đằng Hóa Nguyên", gap: "@c0210", quanHe: "Thân quyến Đằng gia", ghiChu: "Liên hôn theo sắp xếp của Đằng gia để tăng quyền lực.", tag: "gia-dinh", uuTien: 60 },
-          { ten: "Vương Trác", gap: "@c0210", quanHe: "Phu quân", ghiChu: "Vương Trác Kết Đan hậu kỳ là rể Đằng gia qua cuộc hôn nhân này.", tag: "gia-dinh", uuTien: 65 }
+          { ten: "Vương Trác", gap: "@c0210", quanHe: "Phu quân", ghiChu: "Vương Trác Kết Đan hậu kỳ là rể Đằng gia qua cuộc hôn nhân này; cuối cùng tự tay kết liễu nàng @c0217.", tag: "gia-dinh", uuTien: 65 },
+          { ten: "Đằng Tam (Đằng Hải)", gap: "@c0216", quanHe: "Phụ thân", ghiChu: "Hy sinh tu vi truyền tống cứu nàng thoát; dặn rời Triệu quốc nếu cha chết.", tag: "gia-dinh", uuTien: 70 }
         ],
         tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
       },
-      nguon: ["@c0210"]
+      nguon: ["@c0210", "@c0216", "@c0217"]
     },
     {
       id: "dang-nhat",
@@ -5279,10 +5366,25 @@ window.LIB_DATA["tien-nghich"].volumes = {
         { text: "Gần như mất hết nhân tính sau khi tẩu hỏa nhập ma; chỉ đánh thuần bằng thân thể, mô phỏng cổ thần.", chuong: "@c0219" }
       ],
       blurb: "Hạch tâm tộc nhân số 1 của Đằng gia, em ruột Đằng Hóa Nguyên — kẻ ngay cả các hạch tâm khác cũng sợ nhất. Tu thần thông luyện thể cổ xưa do sứ giả Thông Thiên tháp truyền cho, thần thức dung vào khắp xương cốt nên miễn nhiễm đòn thần thức (khiến Cực Cảnh thần thức của Vương Lâm vô hiệu). Đã tẩu hỏa nhập ma, tu luyện hàng trăm năm trong quan tài hắc tinh dưới đáy Hắc Nê Đàm. Biến mất quỷ dị sau khi Vương Lâm thi triển Thông thiên thuật Cự Ma tộc @c0219.",
-      tabs: { diem: [], kinhLich: [], tuViMoc: [], nhanMach: [
+      tabs: { diem: [], kinhLich: [
+        {
+          chuong: "@c0218",
+          importance: "major",
+          tieuDe: "Hy sinh cánh tay phải hóa giải Cực Cảnh thần thức",
+          text: "Vương Lâm phóng Cực Cảnh thần thức (vô số tia chớp đỏ) vào bùn Hắc Nê Đàm. Đằng Nhất hy sinh cánh tay phải tiêu diệt sạch toàn bộ tia chớp — thần thức đã dung vào xương cốt khiến đòn thần thức hoàn toàn vô hiệu. Vương Lâm bung hơn 90 đạo cấm khí từ Cấm Phiên oanh tạc; thân Đằng Nhất nứt toác nhưng không vỡ rã, miệng hô bí thuật 'Ngưng!' — kim quang lóe, thân thể khôi phục tức thì. Trận chiến ở Hắc Nê Đàm ngoài kinh nghiệm của Vương Lâm, vẫn đang giằng co. (@c0218)"
+        },
+        {
+          chuong: "@c0219",
+          importance: "major",
+          tieuDe: "Bị ép phun huyết cổ thần vàng; VL Thông thiên thuật Cự Ma; biến mất để lại 1 giọt máu vàng",
+          text: "Vương Lâm nổ Thanh Đồng cổ kính ép Đằng Nhất phun ngụm máu vàng (chứa tia máu cổ thần). Cả hai giành nhau cục máu, máu tách đôi. Vương Lâm dùng nửa cục máu vàng làm chất dẫn cổ thần lực, thi triển Thông thiên thuật Cự Ma tộc — hút 3/5 linh mạch Triệu quốc, triệu hư ảnh khổng lồ vung tay. Đằng Nhất biến mất quỷ dị từ xa, điểm sáng thần thức tối sầm; chỉ còn lại 1 giọt máu vàng trên nền bùn — Vương Lâm thu về. (@c0219)"
+        }
+      ], tuViMoc: [
+        { chuong: "@c0218", canhGioi: "Nguyên Anh kỳ + thần thông luyện thể", text: "Tu pháp thần thông luyện thể cổ xưa do sứ giả Thông Thiên tháp truyền — thần thức dung vào xương cốt toàn thân, miễn nhiễm mọi đòn thần thức. Bế quan trong quan tài hắc tinh dưới đáy Hắc Nê Đàm hàng trăm năm." }
+      ], nhanMach: [
         { ten: "Đằng Hóa Nguyên", gap: "@c0218", quanHe: "Huynh trưởng", ghiChu: "Đằng Nhất là em ruột lão tổ Đằng Hóa Nguyên.", tag: "gia-dinh", uuTien: 70 }
       ], tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] } },
-      nguon: ["@c0218", "@c0219"]
+      nguon: ["@c0215", "@c0218", "@c0219"]
     },
     {
       id: "dang-tam",
@@ -5299,12 +5401,234 @@ window.LIB_DATA["tien-nghich"].volumes = {
         { text: "Xả thân vì con — hy sinh tu vi truyền tống con gái thoát, rồi một mình liều chết cản Vương Lâm.", chuong: "@c0216" }
       ],
       blurb: "Hạch tâm tộc nhân số 3 Đằng gia, tên thật Đằng Hải, cha của Đằng Tú Tú. Bị lão tổ ép chia lìa người vợ phàm nhân (luật Đằng gia cấm kết hôn phàm nhân); tự luyện phi kiếm Điệu Vân đặt theo tên vợ, trong kiếm có giọt máu phàm của nàng. Khi Vương Lâm diệt Đằng gia, hy sinh tu vi truyền tống con gái Đằng Tú Tú và rể Vương Trác thoát, rồi hóa sao băng lao vào màn sương thôn hồn. Vương Lâm tha hồn phách hắn vì tình nghĩa biểu lộ lúc chết @c0216.",
-      tabs: { diem: [], kinhLich: [], tuViMoc: [], nhanMach: [
-        { ten: "Đằng Tú Tú", gap: "@c0216", quanHe: "Con gái", ghiChu: "Hy sinh tu vi truyền tống cứu con thoát khỏi Vương Lâm.", tag: "gia-dinh", uuTien: 70 }
+      tabs: { diem: [], kinhLich: [
+        {
+          chuong: "@c0216",
+          importance: "major",
+          tieuDe: "Hy sinh tu vi truyền tống con; triệu Điệu Vân lau lần cuối; hóa sao băng lao VL; VL tha hồn phách",
+          text: "Vừa ngừng bế quan đưa con gái Đằng Tú Tú về Đằng gia thành thì bị màn sương thôn hồn (Vương Lâm) vây tứ phía. Hy sinh lượng lớn nguyên anh tinh huyết kích hoạt trận truyền tống, ném Đằng Tú Tú và Vương Trác vào quầng sáng cứu thoát. Dặn con: nếu ta chết thì rời Triệu quốc, đừng tìm muội muội. Sau đó triệu phi kiếm Điệu Vân — đặt theo tên vong thê Vận — lau kiếm lần cuối trước khi thân người hòa vào kiếm hóa sao băng cam lao vào màn sương; trong sao băng mơ hồ thấy vong thê vẫy gọi. Thi thể rơi ngoài trăm dặm, mắt mở, không một vết thương; phi kiếm Điệu Vân gãy theo. Vương Lâm tha hồn phách hắn vì cảm tia ý niệm thương nhớ thể hiện lúc chết — nhưng hắn vẫn phải chết vì mang họ Đằng. (@c0216)"
+        }
+      ], tuViMoc: [
+        { chuong: "@c0216", canhGioi: "Nguyên Anh kỳ", text: "Xác nhận khi hy sinh nguyên anh tinh huyết kích hoạt trận truyền tống cứu con gái @c0216." }
+      ], nhanMach: [
+        { ten: "Đằng Tú Tú", gap: "@c0216", quanHe: "Con gái", ghiChu: "Hy sinh tu vi truyền tống cứu con thoát khỏi Vương Lâm.", tag: "gia-dinh", uuTien: 70 },
+        { ten: "Vong thê (chữ 'Vận')", gap: "@c0216", quanHe: "Vợ (đã mất)", ghiChu: "Con gái phàm nhân, bị lão tổ ép chia lìa, hết tuổi thọ mà mất; Đằng Tam đặt tên phi kiếm Điệu Vân theo tên nàng.", tag: "gia-dinh", uuTien: 65 }
       ], tuiDo: { phapBao: [
-        { ten: "Điệu Vân (phi kiếm)", loai: "phap-bao", trangThai: "da-gay (@c0216)", moTa: "Phi kiếm đặt theo tên vong thê phàm nhân, trong kiếm có giọt máu phàm của nàng; gãy khi Đằng Tam tử chiến.", nguon: "@c0216" }
+        { ten: "Điệu Vân (phi kiếm)", loai: "phap-bao", trangThai: "da-gay (@c0216)", moTa: "Phi kiếm tự luyện, đặt theo chữ 'Vận' trong tên vong thê phàm nhân; trong kiếm có giọt máu phàm của nàng. Không bao giờ dùng khi đấu với người khác; gãy khi Đằng Tam tử chiến.", nguon: "@c0216" }
       ], congPhap: [], danDuoc: [], linhThu: [], khac: [] } },
       nguon: ["@c0216"]
+    },
+    {
+      id: "dang-cuu",
+      name: "Đằng Cửu",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: ["Đằng gia"],
+      canhGioiCaoNhat: "Nguyên Anh kỳ @c0215",
+      trangThai: "da-chet (@c0215 — bị Vương Lâm bóp cổ, hồn phách bị thu vào hồn kỳ)",
+      vaiTro: "Hạch tâm tộc nhân số 9 Đằng gia",
+      tinhCach: [
+        { text: "Sát khí cực dày, lạnh như băng; tuổi thơ bị khinh rẻ trong chi thứ — giết ca ca ruột để đoạt quyền tham gia khiêu chiến; tu bí thuật thôn phệ linh lực người khác.", chuong: "@c0214" }
+      ],
+      blurb: "Hạch tâm tộc nhân số 9 Đằng gia, gốc chi thứ; đã đổi chủ 6 lần. Sát khí cực dày, tu bí thuật thôn phệ linh lực người khác giảm thọ nguyên để đoạt danh 'Đằng Cửu'. Bị Vương Lâm bóp gãy cổ @c0215; hồn phách thượng đẳng bị thu vào hồn kỳ để luyện thành ma đầu.",
+      tabs: {
+        diem: [
+          { text: "Sát khí tự nhiên cực dày — Vương Lâm đánh giá có thể luyện thành đại ma đầu uy lực vô cùng trong tương lai.", chuong: "@c0215" }
+        ],
+        kinhLich: [
+          {
+            chuong: "@c0214",
+            importance: "normal",
+            tieuDe: "Lai lịch tàn độc, cố thủ trong mật thất",
+            text: "Hé lộ xuất thân: gốc chi thứ, bị khinh rẻ từ nhỏ; tự tay giết ca ca ruột để đoạt suất tham gia khiêu chiến 50 năm; tu bí thuật thôn phệ giảm thọ nguyên để đủ lực đoạt danh 'Đằng Cửu' (chủ cũ Kết Đan hậu kỳ). Bế quan trong mật thất dưới cồn cát có linh mạch ngầm; bị Vương Lâm đánh sụp mật thất, thoát kịp hiện giữa không trung, sát khí cực hạn đối đầu Vương Lâm. (@c0214)"
+          },
+          {
+            chuong: "@c0215",
+            importance: "major",
+            tieuDe: "Bóp cổ chết, hồn phách thượng đẳng bị VL thu",
+            text: "Bỏ chạy ngàn dặm, ném hạt châu xám nổ bất thành; dùng hàng loạt pháp bảo bị lưới chớp đỏ hủy thần thức. Quỳ xin làm chủ nhân dâng hồn huyết bảo đảm — Vương Lâm từ chối. Bị Vương Lâm nhảy vào lưới tử thần, tay phải bóp gãy cổ; Vương Lâm đánh pháp quyết 'thôn hồn' thu hồn phách hồng quang thượng đẳng — hồn phách ma đầu thứ 4 Vương Lâm thu được (thứ 400 năm chỉ có 3). (@c0215)"
+          }
+        ],
+        tuViMoc: [
+          { chuong: "@c0215", canhGioi: "Nguyên Anh kỳ", text: "Xác nhận khi đối đầu Vương Lâm @c0215 — Đằng Bát (Nguyên Anh trung kỳ) đứng thứ 1 Đằng gia sau ĐHN; Đằng Cửu tu vi đứng thứ 2 (sau ĐHN, hơn Đằng Bát trong bảng xếp)." }
+        ],
+        nhanMach: [
+          { ten: "Đằng Hóa Nguyên", gap: "@c0215", quanHe: "Lão tổ Đằng gia", ghiChu: "Đằng Hóa Nguyên chuẩn bị cực phẩm đan dược cho hắn — vô dụng vì hắn đã chết.", tag: "gia-dinh", uuTien: 60 }
+        ],
+        tuiDo: { phapBao: [], congPhap: [
+          { ten: "Bí thuật thôn phệ", moTa: "Tu công pháp ác độc thôn phệ linh lực người khác, tăng tu vi cực nhanh đổi lấy giảm thọ nguyên nghiêm trọng.", nguon: "@c0214" }
+        ], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0214", "@c0215", "@c0216"]
+    },
+    {
+      id: "dang-bat",
+      name: "Đằng Bát",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: ["Đằng gia"],
+      canhGioiCaoNhat: "Nguyên Anh trung kỳ @c0215",
+      trangThai: "da-chet (@c0215 — thần thức thôn hồn xâm nhập, Nguyên Anh bị nuốt)",
+      vaiTro: "Hạch tâm tộc nhân số 8 Đằng gia",
+      tinhCach: [
+        { text: "Bình tĩnh tự tin; người thứ năm mang danh 'Đằng Bát' — mọi kẻ khiêu chiến hắn đều bị giết.", chuong: "@c0215" }
+      ],
+      blurb: "Hạch tâm tộc nhân số 8 Đằng gia, Nguyên Anh trung kỳ. Người thứ năm mang danh 'Đằng Bát'; chuyên dùng chuỗi phi kiếm đen. Kẻ hắn sợ nhất trong Đằng gia là Đằng Nhất. Bị thần thức thôn hồn (màn sương đen) của Vương Lâm nuốt gọn, Nguyên Anh bị rút, hồn phách bị thu @c0215.",
+      tabs: {
+        diem: [],
+        kinhLich: [
+          {
+            chuong: "@c0215",
+            importance: "major",
+            tieuDe: "Thôn hồn sương đen xâm nhập, Nguyên Anh bị nuốt, hồn phách bị thu",
+            text: "Bình tĩnh dùng chuỗi phi kiếm đen nghênh chiến — bị màn sương đen thôn hồn của Vương Lâm nuốt gọn xâm nhập toàn thân. Cơ thể lưu chuyển sương đen + máu, gào thảm thiết; Nguyên Anh bị nuốt, hồn phách bị rút ra nhập hồn kỳ; thân bị long cân xuyên qua. (@c0215)"
+          }
+        ],
+        tuViMoc: [
+          { chuong: "@c0215", canhGioi: "Nguyên Anh trung kỳ", text: "Xác nhận khi xuất chiến với Vương Lâm @c0215." }
+        ],
+        nhanMach: [
+          { ten: "Đằng Nhất", gap: "@c0215", quanHe: "Huynh đệ hạch tâm", ghiChu: "Người Đằng Bát sợ nhất trong Đằng gia — hơn cả Đằng Hóa Nguyên, 'như cơn ác mộng, nghĩ tới là dâng hàn ý'.", tag: "gia-dinh", uuTien: 60 }
+        ],
+        tuiDo: { phapBao: [
+          { ten: "Chuỗi phi kiếm đen", loai: "phap-bao", trangThai: "mat (@c0215)", moTa: "Pháp bảo chủ lực, số lượng lớn (túi trữ vật như động không đáy); bị màn sương đen thôn hồn dập tắt rơi xuống.", nguon: "@c0215" }
+        ], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0215", "@c0216"]
+    },
+    {
+      id: "dang-ngu",
+      name: "Đằng Ngũ",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: ["Đằng gia"],
+      canhGioiCaoNhat: "Nguyên Anh kỳ @c0215",
+      trangThai: "da-chet (@c0215 — sương đen thôn hồn bao trọn, Nguyên Anh + hồn phách bị rút)",
+      vaiTro: "Hạch tâm tộc nhân số 5 Đằng gia",
+      tinhCach: [
+        { text: "Ngoại hình ~80% giống Đằng Lệ — người Đằng Hóa Nguyên yêu quý nhất trong các hạch tâm tộc nhân sau Đằng Nhất.", chuong: "@c0216" }
+      ],
+      blurb: "Hạch tâm tộc nhân số 5 Đằng gia. Ngoại hình ~80% giống Đằng Lệ nên được Đằng Hóa Nguyên yêu quý đặc biệt. Bị sương đen thôn hồn của Vương Lâm bao trọn khi chỉ còn dưới 1000 dặm Đằng gia thành @c0215; cái chết của hắn khiến ĐHN lần đầu lao ra đối mặt Vương Lâm.",
+      tabs: {
+        diem: [],
+        kinhLich: [
+          {
+            chuong: "@c0215",
+            importance: "major",
+            tieuDe: "Sương đen thôn hồn bao trọn gần về tới thành",
+            text: "Đang trên đường về Đằng gia thành cùng 2 nữ tu, chỉ còn dưới 1000 dặm — bị màn sương đen thôn hồn của Vương Lâm bất ngờ bao trọn; Nguyên Anh và hồn phách bị rút ra. Đằng Hóa Nguyên cảm hơi thở hắn tắt liền lao tới đối mặt Vương Lâm lần đầu tiên. (@c0215)"
+          }
+        ],
+        tuViMoc: [
+          { chuong: "@c0215", canhGioi: "Nguyên Anh kỳ", text: "Xác nhận khi bị giết @c0215." }
+        ],
+        nhanMach: [
+          { ten: "Đằng Hóa Nguyên", gap: "@c0215", quanHe: "Lão tổ Đằng gia", ghiChu: "ĐHN yêu quý Đằng Ngũ vì ngoại hình giống Đằng Lệ ~80%; cái chết của hắn khiến ĐHN lần đầu lao ra đối mặt VL.", tag: "gia-dinh", uuTien: 65 }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0215", "@c0216"]
+    },
+    {
+      id: "dang-luc",
+      name: "Đằng Lục",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: ["Đằng gia"],
+      canhGioiCaoNhat: "Nguyên Anh kỳ @c0215",
+      trangThai: "da-chet (@c0215 — bị thôn hồn giết; ngọc giản hạch tâm vỡ, xác nhận qua @c0216/@c0218)",
+      vaiTro: "Hạch tâm tộc nhân số 6 Đằng gia",
+      tinhCach: [
+        { text: "Linh cảm nguy hiểm nhạy bén, ẩn giấu sát khí giỏi; từng tự tay giết chủ cũ của danh 'Đằng Lục' để cướp lại danh xưng.", chuong: "@c0215" }
+      ],
+      blurb: "Hạch tâm tộc nhân số 6 Đằng gia. Linh cảm nguy hiểm cực nhạy; ~200 năm trước bị đoạt danh, sau bế quan rồi tự tay giết chủ cũ đoạt lại danh 'Đằng Lục' (bị lão tổ nghiêm trị nhưng cho giữ danh). Dùng bí thuật thiêu đốt linh hồn/tế hiến thân thể tăng tốc bỏ chạy @c0215; Vương Lâm bủa Cấm Phiên ngàn dặm và thả thôn hồn ly thể để săn.",
+      tabs: {
+        diem: [],
+        kinhLich: [
+          {
+            chuong: "@c0215",
+            importance: "normal",
+            tieuDe: "Bí thuật thiêu linh hồn tăng tốc bỏ chạy khỏi Cấm Phiên",
+            text: "Linh cảm nguy hiểm kịp thời — dùng bí thuật thiêu đốt linh hồn/tế hiến thân thể (nổ 'bang bang' huyết nhục dưới chân) tăng tốc gấp mấy lần, hóa sao băng đỏ bỏ chạy dù đã trong phạm vi ngàn dặm Cấm Phiên. Vương Lâm không đuổi mà thiền tọa thả thôn hồn ly thể thành mây đen trùm cả Triệu quốc để săn. (@c0215)"
+          }
+        ],
+        tuViMoc: [
+          { chuong: "@c0215", canhGioi: "Nguyên Anh kỳ", text: "Xác nhận khi chiến đấu với Vương Lâm @c0215." }
+        ],
+        nhanMach: [],
+        tuiDo: { phapBao: [], congPhap: [
+          { ten: "Bí thuật thiêu linh hồn / tế hiến thân thể", moTa: "Bí thuật hy sinh linh hồn và huyết nhục dưới chân đổi lấy tốc độ gấp bội; hóa sao băng đỏ bỏ chạy.", nguon: "@c0215" }
+        ], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0215"]
+    },
+    {
+      id: "dang-tu",
+      name: "Đằng Tứ",
+      cn: "",
+      aliases: [],
+      gioiTinh: "nam",
+      theLuc: ["Đằng gia"],
+      canhGioiCaoNhat: "Nguyên Anh sơ kỳ @c0215",
+      trangThai: "da-chet (@c0215 — bị thôn hồn giết; ngọc giản hạch tâm vỡ, xác nhận qua @c0216/@c0218)",
+      vaiTro: "Hạch tâm tộc nhân số 4 Đằng gia",
+      tinhCach: [
+        { text: "Thiên phú cao — đạt tư cách hạch tâm tộc nhân không cần 20 năm; bi phẫn khi đệ đệ và tộc nhân liên tục tử vong, rời bế quan đi báo thù.", chuong: "@c0215" }
+      ],
+      blurb: "Hạch tâm tộc nhân số 4 Đằng gia, Nguyên Anh sơ kỳ. Thiên phú cao, đạt danh hạch tâm nhanh hơn quy định. Rời bế quan vì bi phẫn khi đệ đệ và tộc nhân liên tục chết — đang trên đường tìm hung thủ báo thù thì bị mây đen thôn hồn của Vương Lâm rình phía trên mà không hay @c0215.",
+      tabs: {
+        diem: [],
+        kinhLich: [
+          {
+            chuong: "@c0215",
+            importance: "normal",
+            tieuDe: "Rời bế quan báo thù cho đệ đệ, bị thôn hồn rình",
+            text: "Bi phẫn vì tộc nhân liên tiếp tử vong — bỏ bế quan cưỡi phi kiếm bay đi tìm hung thủ báo thù cho đệ đệ. Không hay đám mây đen (thôn hồn ly thể của Vương Lâm) đang dày đặc rình phía trên; kết cục chưa được hiển thị trong phần text đọc được. (@c0215)"
+          }
+        ],
+        tuViMoc: [
+          { chuong: "@c0215", canhGioi: "Nguyên Anh sơ kỳ", text: "Xác nhận khi xuất hiện @c0215." }
+        ],
+        nhanMach: [],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0215"]
+    },
+    {
+      id: "dang-tan",
+      name: "Đằng Tấn",
+      cn: "",
+      aliases: ["Tấn nhi"],
+      gioiTinh: "nam",
+      theLuc: ["Đằng gia"],
+      canhGioiCaoNhat: "chưa rõ (dưới Nguyên Anh kỳ — không phải hạch tâm tộc nhân)",
+      trangThai: "song (@c0212)",
+      vaiTro: "Con cháu Đằng gia — trợ lý điều tra của Đằng Hóa Nguyên",
+      tinhCach: [
+        { text: "Lạnh lùng âm trầm, mặt trắng như ngọc; được Đằng Hóa Nguyên tin tưởng giao việc điều tra.", chuong: "@c0212" }
+      ],
+      blurb: "Con cháu Đằng gia (không phải hạch tâm tộc nhân), thanh niên mặt trắng lạnh lùng. Được Đằng Hóa Nguyên giao điều tra vụ tàn sát. Báo cáo chính xác lộ trình 4 ngày / 961 nạn nhân và dâng bức họa vẽ kẻ địch — khiến ĐHN nhận ra Vương Lâm.",
+      tabs: {
+        diem: [],
+        kinhLich: [
+          {
+            chuong: "@c0212",
+            importance: "normal",
+            tieuDe: "Báo cáo 961 nạn nhân, dâng bức họa vẽ VL",
+            text: "Được Đằng Hóa Nguyên giao điều tra. Báo cáo đầy đủ lộ trình 4 ngày: Thiên Đạo Môn 7 người → Vô Phong Cốc 93 → Đằng gia ngoại trang 174 → Thiên Âm Thành 104 → kinh thành 211 → Nguyên Khuê phái 27 → Tịch Diệt Tông 345, tổng 961 nhân mạng. Dâng bức họa đơn giản vẽ người tóc bạc, mi tâm tinh điểm, cưỡi yêu thú miệng dài kéo dải thi thể hình quạt — vật khiến ĐHN nhận ra Vương Lâm. (@c0212)"
+          }
+        ],
+        tuViMoc: [],
+        nhanMach: [
+          { ten: "Đằng Hóa Nguyên", gap: "@c0212", quanHe: "Lão tổ Đằng gia", ghiChu: "Được ĐHN tin tưởng giao điều tra vụ tàn sát, gọi là 'Tấn nhi'.", tag: "gia-dinh", uuTien: 65 }
+        ],
+        tuiDo: { phapBao: [], congPhap: [], danDuoc: [], linhThu: [], khac: [] }
+      },
+      nguon: ["@c0212"]
     }
   ]
 };
