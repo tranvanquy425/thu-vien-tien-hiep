@@ -1256,6 +1256,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 250,
       tieuDe: "Thiên Nghịch Châu Chấn Động",
       tomTat: "Đại chiến Tuyết Vực tổng công kích: bốn phía, bốn phái chống đỡ. Tu sĩ Tuyết Vực dùng hàn khí làm vũ khí tấn công, hồi phục linh lực ngay trên băng tuyết. Tứ Phái tung bảo bối trấn phái: Thủy Mặc Môn (đồng cổ lớn), Thanh Mộc Nhai (lão già mặc xích), Hắc Hồn Phái (bút lông đen — mạnh nhất, trời đất biến sắc, cả hai phái kia kinh hãi). VL trên đỉnh núi tuyết nhìn xuống trận chiến toàn cảnh. Thiên Nghịch Châu đột ngột chấn động: cảm ứng Hỏa linh từ pháp bảo nữ tử Tuyết Vực — thứ cần để viên mãn ngũ hành trong châu. Nhưng nữ tử quá mạnh, VL biết rõ không thể đoạt, chỉ nhìn không dám xuất thủ. (@c0250)"
+    },
+    {
+      chuong: 251,
+      tieuDe: "Sát Trận Chín Người",
+      tomTat: "VL dùng Cửu nhân sát trận giăng bẫy giết nữ tử áo trắng (thực ra là người giả mạo Hồng Điệp — Thủ Đồ của Hồng Điệp thật). Trong lúc chiến đấu, Thương Long của Chu Võ Thái xuất hiện; CVT khống chế Thương Long tấn công VL. VL nghi nữ tử vừa giết là giả nên không thu pháp bảo. Bầu không khí căng thẳng — nữ tử giả chết nhưng VL không tin. (@c0251)"
+    },
+    {
+      chuong: 252,
+      tieuDe: "Đoạt Thổ Linh",
+      tomTat: "VL quyết định đoạt thổ linh (tu vi tương đương Hóa Thần hậu kỳ) từ trong khe nứt không gian xuất hiện bất ngờ. Trận chiến ác liệt, thổ linh bị trọng thương khi VL bức vào Nghịch Thiên Châu — thổ thuộc tính đại viên mãn. Đồng thời, quái vật hình người rắn khổng lồ lộ ra từ khe nứt không gian — hiểm nguy mới xuất hiện. (@c0252)"
+    },
+    {
+      chuong: 253,
+      tieuDe: "Hồng Điệp Xuất Hiện",
+      tomTat: "Hồng Điệp thật xuất hiện — nữ tử thiên tài Tuyết Vực với Thiên Tiên Ngũ Linh thể, kiếp nạn đã tận (Thủ Đồ đã thế mạng). Sứ giả Chu Tước Quốc Âu Chí xuất hiện cùng, rút huyết mạch Thương Long. CVT bị hạ và hôn mê. VL nhân cơ hội cướp Vũ Đỉnh từ túi trữ vật của CVT. Bà lão giữ tháp băng phát hiện, truy đuổi VL. (@c0253)"
+    },
+    {
+      chuong: 254,
+      tieuDe: "Sỏi Tơ Thiên Kiếp",
+      tomTat: "VL bị bà lão (Hóa Thần trung kỳ đỉnh) và tháp băng truy đuổi cùng lúc. Đến đường cùng, VL tung sỏi tơ thiên kiếp tích lũy từ lần bị sợi tơ bám vào tay — sức nổ tương đương Cực Cảnh, diệt cả bà lão lẫn tháp băng. Âu Chí cố hấp thu hồng vân thiên kiếp để tăng lực nhưng thất bại. VL kịp trốn vào không gian Nghịch Thiên Châu thoát khỏi Âu Chí. (@c0254)"
+    },
+    {
+      chuong: 255,
+      tieuDe: "Năm Năm Trong Nghịch Thiên",
+      tomTat: "VL ẩn náu 5 năm trong không gian Nghịch Thiên Châu. Thổ thuộc tính đại viên mãn làm linh khí xuất hiện lần đầu bên trong châu — năm quang đoàn ngũ hành lộ ra. VL ra ngoài: Liên Minh Tứ Phái đã bị tiêu diệt hoàn toàn, Tuyết Vực lập tân quốc trên lãnh thổ cũ. VL ước tính cần thêm 4 năm bế quan để đột phá Hóa Thần — bắt đầu giai đoạn chuẩn bị cuối. (@c0255)"
+    },
+    {
+      chuong: 256,
+      tieuDe: "Thân Phận Mới",
+      tomTat: "VL ngao du 1 năm trong Tuyết Vực tân quốc để thu thập thông tin. Chiếm thân phận một tu sĩ Kết Đan hậu kỳ bằng thôn hồn, dùng thân phận đó hoạt động. Biết tin Hồng Điệp đã đi Chu Tước Quốc theo sứ giả Âu Chí và sắp tham gia Quán Đỉnh đại lễ — nghi lễ một đời, lập tức nhận Anh Biến sơ kỳ nhưng phong ấn tu vi và giới hạn thọ mệnh 100 năm. (@c0256)"
+    },
+    {
+      chuong: 257,
+      tieuDe: "Lão Nhân Thủy Mặc Môn",
+      tomTat: "VL gặp Trần Hoan (Hoan) — thiếu môn chủ Thủy Mặc Môn, một trong Tứ Phái vừa bị diệt. Lão nhân Hóa Thần hậu kỳ (sư phụ Hoan) tặng VL cây quạt 2 lông còn lại (Bảo Phiến tàn từ bạch y nữ tử trận c0251) để đáp đền đan dược. VL dùng Thiên Đạo Luân Hồi chữ Sinh cứu thương thế tử. Lão nhân sau đó một mình bay thẳng vào Băng Tuyết Thần Điện tự bão — nhuộm đỏ thần điện, thức tỉnh các tu sĩ ẩn dật của Tứ Phái. (@c0257)"
+    },
+    {
+      chuong: 258,
+      tieuDe: "Huyết Kinh Mạch",
+      tomTat: "Trần Hoan thề cả đời phải diệt Tuyết Vực quốc rồi rời đi. VL nghiên cứu Băng Tuyết quyết — công pháp nghịch thiên của Tuyết Vực (luyện tâm bằng băng/tuyết). VL không tu luyện nó mà dùng nguyên lý sáng tạo ra huyết kinh mạch — biến thể thay tuyet bằng máu tươi, kết hợp ý cảnh Sinh Tử để điều khiển khôi lỗi. Sau 4 năm ở Tuyết Vực, VL rời đi, ghé thăm Đại Ngưu (mở lò rèn, vợ có bầu con gái — VL bơm linh lực bảo hộ), rồi bay về Triệu quốc chuẩn bị Hóa Thần. (@c0258)"
+    },
+    {
+      chuong: 259,
+      tieuDe: "Đạo Sinh Tử",
+      tomTat: "VL gặp Mặc Trí — tu sĩ bí ẩn với ý cảnh Vong Cảnh (quên lãng), trí nhớ ngắn hạn kém trong một ngôi miếu hoang dưới mưa đêm. Hai người luận đạo sinh tử. Mặc Trí giảng: 'Cơn mưa sinh từ trên trời, rơi xuống đất mà chết đi. Khoảng khắc giữa đó chính là nhân sinh.' VL chấn động, vái sâu tạ ân — lời Mặc Trí như tia chớp xua tan sương mù che khuất vấn đề sinh tử trong lòng VL bấy lâu. (@c0259)"
+    },
+    {
+      chuong: 260,
+      tieuDe: "Bổn Tôn Tán Công",
+      tomTat: "VL lĩnh ngộ hoàn toàn ý cảnh Sinh Tử. Suy ngẫm hai con đường Hóa Thần: con đường thông thường và con đường Đạo Cổ thần (tán công, xóa bỏ công pháp cũ để xây lại từ đầu theo đại đạo). VL về Huyền Đạo Tông (sơn môn Hằng Nhạc Phái cũ), tách bổn tôn và phân thân. Bổn tôn chọn con đường Đạo Cổ thần — bắt đầu tán công, máu tươi chảy khắp cơ thể. Giai đoạn quan trọng nhất kể từ khi hóa phàm bắt đầu. (@c0260)"
     }
   ]
 };
