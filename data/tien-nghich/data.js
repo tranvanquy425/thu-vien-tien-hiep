@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-13T12:00:00.000Z cvt-r2-c311-320 */
+/* sync-bump 2026-06-13T18:00:00.000Z cvt-r2-c321-330 */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -61,7 +61,7 @@ window.LIB_DATA["tien-nghich"]={
     "id": "tien-di-toc",
     "ten": "Tiên Di Tộc / Tiên Tuyển Tộc",
     "moTa": "Chủng tộc phụ (nhánh của Phù Văn Tộc) — tu bằng phù văn, đếm cấp theo số lá trên mi tâm.",
-    "detail": "Tiên Di Tộc thực chất là một nhánh của Phù Văn Tộc đến từ giới ngoại, bị phong ấn dưới lòng đất Tiên Di Chi Địa (Chu Tước Tinh) sau đại chiến với Chu Tước Quốc (Diệp Vô Ưu cùng chín lão quái Vấn Đỉnh hy sinh để bày đại trận phong ấn). Họ KHÔNG tu ý cảnh, mà hấp thu sức mạnh yêu thú rồi khắc phù văn lên thân — càng nhiều phù văn càng mạnh, đồng thời nắm một phần năng lực yêu thú. Hai hướng: Thuật Chú Sư (chú thuật, đánh xa) và Chiến Thú Sĩ (luyện thể, cận chiến). Cấp bậc nhận biết qua SỐ LÁ trên mi tâm (1–13 lá), có thể lên tới bước thứ hai (tác giả chưa khai thác rõ). Thánh địa Tiên Di Chi Địa có 19 tầng, vào càng sâu yêu cầu tu vi càng cao.",
+    "detail": "Tiên Di Tộc thực chất là một nhánh của Phù Văn Tộc đến từ giới ngoại, bị phong ấn dưới lòng đất Tiên Di Chi Địa (Chu Tước Tinh) sau đại chiến với Chu Tước Quốc (Diệp Vô Ưu cùng chín lão quái Vấn Đỉnh hy sinh để bày đại trận phong ấn). Họ KHÔNG tu ý cảnh, mà hấp thu sức mạnh yêu thú rồi khắc phù văn lên thân — càng nhiều phù văn càng mạnh, đồng thời nắm một phần năng lực yêu thú. Hai hướng chiến đấu: (1) Thuật Chú Sư — ký hiệu lơ lửng ngoài da, thiên về chú thuật và đánh từ xa; (2) Chiến Thú Sĩ — ký hiệu dung nhập sâu vào da thịt/xương, thiên về thể phách cận chiến, xương có ký hiệu tự phục hồi vết nứt sau đòn đánh. Cấp bậc nhận biết qua SỐ LÁ trên mi tâm (1–13 lá), có thể lên tới bước thứ hai (tác giả chưa khai thác rõ). Thánh địa Tiên Di Chi Địa có 19 tầng, vào càng sâu yêu cầu tu vi càng cao. Thiên Kiếp không phủ xuống được trong Tiên Di (thế giới khác) @c0325.",
     "link": "https://vu-tru-tien-nghich.fandom.com/vi/wiki/Ti%C3%AAn_Di_T%E1%BB%99c",
     "capBac": [
      {
@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-13",
-  "count": 129,
+  "count": 138,
   "chars": [
    {
     "id": "vuong-lam",
@@ -14731,6 +14731,455 @@ window.LIB_DATA["tien-nghich"]={
      "tuiDo": {}
     },
     "nguon": ["@c0320"]
+   },
+   {
+    "id": "ho-lao-tien-di",
+    "name": "Hồ lão",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {"ten": "Luyện Khí Các (Ma Nghịch thành)", "trangThai": "gan-bo"}
+    ],
+    "canhGioiCaoNhat": "Hóa Thần trung kỳ",
+    "trangThai": "mat-tich",
+    "vaiTro": "Chủ Luyện Khí Các Tu Ma hải, người dẫn đường vào Tiên Di Chi Địa",
+    "tinhCach": [
+     {"text": "Thực dụng, coi mạng người như công cụ — hy sinh Hứa La và Vận Manh toàn bộ tuổi thọ để lấy Luân Hồi Quả không do dự.", "chuong": "@c0323"},
+     {"text": "Biết nhìn người, biết sợ — nhận ra VL cực kỳ nguy hiểm; nghĩ 'nổi danh dưới Vô Hư sĩ chắc có nguyên nhân'.", "chuong": "@c0321"}
+    ],
+    "blurb": "Hóa Thần trung kỳ, chủ Luyện Khí Các Tu Ma hải. Dẫn nhóm gồm Hứa La, Vận Manh, Khâu Tứ Bình và Vương Lâm vào Tiên Di Chi Địa tìm Luân Hồi Quả. Tàn nhẫn hy sinh hai người để đạt mục đích; mất tích sau khi bị thất diệp Thuật Chú Sư bắt trên đường thoát.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0309",
+       "importance": "normal",
+       "tieuDe": "VL tái ngộ tại đấu giá Luyện Khí Các",
+       "text": "VL nhận ra Hồ lão (Hóa Thần kỳ) tại đấu giá Luyện Khí Các Ma Nghịch thành — người từng nhận ra 'cực cảnh trong truyền thuyết' trong cơ thể VL từ khi VL còn Kết Đan. (@c0309)"
+      },
+      {
+       "bridge": true,
+       "khoang": "@c0316–@c0320",
+       "text": "Chủ mưu kế hoạch thâm nhập Tiên Di Chi Địa tìm Luân Hồi Quả; dẫn nhóm qua tầng 1 và 2, giết hai ngũ diệp Thuật Chú Sư, bị lục diệp thôi hóa tại cổng tầng 3 — được VL cứu. (@c0316–@c0321)"
+      },
+      {
+       "chuong": "@c0323",
+       "importance": "major",
+       "tieuDe": "Hy sinh Hứa La + Vận Manh — lấy 2 quả Luân Hồi",
+       "text": "Hy sinh toàn bộ tuổi thọ còn lại của Hứa La và Vận Manh để đẩy nhanh quá trình thôi hóa Luân Hồi Thụ. Hai người phun máu ngã xuống; 3 quả Luân Hồi ngưng thực, Hồ lão lấy 2 quả. Mất Thao Thú (Huyền Vũ) khi bị Dã Nhân lục diệp bắt. (@c0323)"
+      },
+      {
+       "chuong": "@c0325",
+       "importance": "normal",
+       "tieuDe": "Bị lão già lưng gù bắt — mất tích",
+       "text": "Sau khi thoát tầng 3, bị trọng thương, dùng thuật bảo toàn sinh mệnh tiêu hao Nguyên Thần chạy trốn. Bị lão già lưng gù (thất diệp, Anh Biến kỳ) bắt được nửa đường. Từ đó mất tích. (@c0325)"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0309",
+       "canhGioi": "Hóa Thần trung kỳ",
+       "text": "Tu vi xác nhận khi tái ngộ VL tại Luyện Khí Các."
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "gap": "@c0309",
+       "quanHe": "Đồng minh tạm thời — Tiên Di Chi Địa",
+       "ghiChu": "Dẫn VL vào Tiên Di tìm Luân Hồi Quả; VL cứu Hồ lão khi bị thôi hóa; sau đó thoát ra một mình.",
+       "tag": "xa-la"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0309", "@c0316", "@c0321", "@c0322", "@c0323", "@c0325"]
+   },
+   {
+    "id": "hua-la-tien-di",
+    "name": "Hứa La (nhóm Tiên Di)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {"ten": "Nhóm Hồ lão", "trangThai": "da-roi"}
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "tu-vong",
+    "vaiTro": "Nhân tố thôi hóa Luân Hồi Thụ",
+    "tinhCach": [],
+    "blurb": "Thành viên nhóm Hồ lão, một trong hai nhân tố cần thiết để thôi hóa Luân Hồi Thụ (tuổi thọ 100 năm, hy sinh 1 giáp = 12 năm mỗi lần). Bị Hồ lão hy sinh toàn bộ tuổi thọ trong trận chiến tầng 3 để đẩy nhanh thôi hóa. Thi thể bị Tiên Di tộc lấy đi.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "bridge": true,
+       "khoang": "@c0319–@c0321",
+       "text": "Vào Tiên Di Chi Địa cùng nhóm; bị thương ở tầng 2 (áo giáp bạc tổn hại, mặt có ba vết cào). Đến tầng 3 bắt đầu thôi hóa Luân Hồi Thụ — già lão dần vì mất tuổi thọ. (@c0321)"
+      },
+      {
+       "chuong": "@c0323",
+       "importance": "normal",
+       "tieuDe": "Bị hy sinh — chết",
+       "text": "Hồ lão dùng pháp quyết hy sinh toàn bộ tuổi thọ còn lại của Hứa La. Hứa La kêu thảm, phun máu, ngã xuống. Thi thể bị Tiên Di tộc lấy đi sau đó. (@c0323)"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hồ lão",
+       "gap": "@c0316",
+       "quanHe": "Người dẫn đường — kẻ hy sinh mình",
+       "ghiChu": "Hồ lão hy sinh toàn bộ tuổi thọ Hứa La để lấy Luân Hồi Quả.",
+       "tag": "khac"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0319", "@c0321", "@c0323", "@c0325"]
+   },
+   {
+    "id": "van-manh",
+    "name": "Vận Mạnh",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {"ten": "Nhóm Hồ lão", "trangThai": "da-roi"}
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "tu-vong",
+    "vaiTro": "Nhân tố thôi hóa Luân Hồi Thụ",
+    "tinhCach": [],
+    "blurb": "Thiếu nữ thiên kiều bá mị trong nhóm Hồ lão. Cùng Hứa La là hai nhân tố không thể thiếu để thôi hóa Luân Hồi Quả — mỗi người hy sinh 1 giáp tuổi thọ. Bị Hồ lão hy sinh toàn bộ tuổi thọ. Thi thể bị Tiên Di tộc lấy đi.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "bridge": true,
+       "khoang": "@c0319–@c0321",
+       "text": "Vào Tiên Di Chi Địa cùng nhóm; VL ôm eo bay vào tầng 3. Bắt đầu thôi hóa Luân Hồi Thụ cùng Hứa La, mất dần vẻ trẻ trung — già lão theo tuổi thọ tiêu hao. (@c0321)"
+      },
+      {
+       "chuong": "@c0323",
+       "importance": "normal",
+       "tieuDe": "Bị hy sinh — chết",
+       "text": "Hồ lão hy sinh nốt tuổi thọ Vận Manh — nàng phun máu, ánh mắt đau xót nhìn Hồ lão rồi nhắm mắt. Thi thể bị Tiên Di tộc lấy đi. (@c0323)"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "gap": "@c0321",
+       "quanHe": "Người ôm bay vào tầng 3",
+       "ghiChu": "VL ôm Vận Manh vào tầng 3; nàng ửng hồng mặt khi bị ôm.",
+       "tag": "xa-la"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0319", "@c0321", "@c0323", "@c0325"]
+   },
+   {
+    "id": "khau-tu-binh",
+    "name": "Khâu Tứ Bình",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {"ten": "Không rõ", "trangThai": "gan-bo"}
+    ],
+    "canhGioiCaoNhat": "Nguyên Anh hậu kỳ đại viên mãn — đang chờ cơ Hóa Thần",
+    "trangThai": "mat — bị thôi hóa thành khôi lỗi (phù rối) trong Tiên Di Chi Địa @c0323",
+    "vaiTro": "Tu sĩ cầu cơ Hóa Thần tại Tiên Di Chi Địa",
+    "tinhCach": [
+     {"text": "Biết thời thế — chủ động cầu xin VL cõng bay đổi bảo vật, không vì tự ái mà mất cơ hội.", "chuong": "@c0322"}
+    ],
+    "blurb": "Nguyên Anh hậu kỳ đại viên mãn quen biết VL từ thời xưa (Tu Ma Hải). Tặng VL cặp chuông thượng cổ để đổi lấy cơ hội ngồi dưới Luân Hồi Thụ cầu Hóa Thần. Bị lục diệp Thuật Chú Sư thôi hóa trong khi tĩnh tọa — trở thành khôi lỗi. Túi trữ vật bị VL lấy đi.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0309",
+       "importance": "normal",
+       "tieuDe": "Tái ngộ VL tại đấu giá Luyện Khí Các",
+       "text": "VL nhìn thẳng vào Khâu Tứ Bình — Nguyên Anh hậu kỳ đại viên mãn — khiến hắn suýt vỡ Nguyên Anh. Quen biết từ thời VL còn Kết Đan. (@c0309)"
+      },
+      {
+       "chuong": "@c0322",
+       "importance": "normal",
+       "tieuDe": "Tặng cặp chuông — ngồi dưới Luân Hồi Thụ",
+       "text": "Tặng VL cặp chuông thượng cổ (bảo vật lấy từ bụng yêu thú) để được VL cho cưỡi Văn Thú bay vào tầng 3 và ngồi dưới Luân Hồi Thụ cầu cơ Hóa Thần. (@c0322)"
+      },
+      {
+       "chuong": "@c0323",
+       "importance": "major",
+       "tieuDe": "Bị thôi hóa — trở thành khôi lỗi",
+       "text": "Trong khi ngồi tĩnh tọa dưới Luân Hồi Thụ cầu cơ, bị lục diệp Thuật Chú Sư thôi hóa: sức mạnh kỳ lạ bao phủ, không cử động được, dấu ấn kỳ dị trên trán không ngừng sinh trưởng. Hoàn toàn trở thành khôi lỗi (phù rối Tiên Di tộc). Túi trữ vật bị VL giật lấy trước khi bỏ chạy. (@c0323–@c0324)"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0309",
+       "canhGioi": "Nguyên Anh hậu kỳ đại viên mãn",
+       "text": "Tu vi xác nhận khi tái ngộ VL tại Luyện Khí Các."
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "gap": "@c0309",
+       "quanHe": "Quen biết cũ — bị VL áp chế",
+       "ghiChu": "VL nhìn khiến suýt vỡ Nguyên Anh; sau đó Khâu Tứ Bình nhờ VL dẫn vào Tiên Di.",
+       "tag": "xa-la"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0309", "@c0322", "@c0323", "@c0324"]
+   },
+   {
+    "id": "xi-moc",
+    "name": "Xỉ Mộc",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {"ten": "Tiên Di Tộc", "trangThai": "da-roi"}
+    ],
+    "canhGioiCaoNhat": "Lục diệp Chiến Thú Sĩ (tương đương Hóa Thần hậu kỳ)",
+    "trangThai": "mat — bị Xạ Thần Xa (Hồn Thú xuyên qua + nuốt tàn hồn) giết @c0324",
+    "vaiTro": "Lục diệp Chiến Thú Sĩ Tiên Di tộc",
+    "tinhCach": [
+     {"text": "Kiêu ngạo, muốn chiến — tự giới thiệu tên tuổi khi đuổi theo VL, đòi đánh một trận.", "chuong": "@c0324"}
+    ],
+    "blurb": "Lục diệp Chiến Thú Sĩ Tiên Di tộc — loại chiến binh ký hiệu dung nhập sâu vào da thịt thay vì lơ lửng ngoài da như Thuật Chú Sư. Xương xám có ký hiệu tự phục hồi vết nứt sau mỗi đòn tiên kiếm. Đuổi theo VL đòi chiến, bị Xạ Thần Xa (Hồn Thú) xuyên qua cơ thể và nuốt tàn hồn — hóa tro bụi.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0324",
+       "importance": "major",
+       "tieuDe": "Đuổi theo VL — bị Xạ Thần Xa giết",
+       "text": "Đuổi theo VL sau khi VL bỏ chạy khỏi tầng 3, tự giới thiệu 'Xỉ Mộc! Lục diệp Chiến Thú Sĩ!' đòi giao chiến. Bị VL chém 10 kiếm tiên — xương nứt tự phục hồi nhờ ký hiệu. VL kích hoạt Xạ Thần Xa: Hồn Thú vọt tới xuyên qua cơ thể, cắn chặt tàn hồn, Xỉ Mộc nứt từ mi tâm hóa tro bụi. (@c0324)"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0324",
+       "canhGioi": "Lục diệp Chiến Thú Sĩ",
+       "text": "Tự giới thiệu cấp bậc khi giao chiến với VL."
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "gap": "@c0324",
+       "quanHe": "Kẻ địch — bị VL giết",
+       "ghiChu": "VL dùng Xạ Thần Xa tiêu diệt Xỉ Mộc.",
+       "tag": "thu-dich"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0323", "@c0324"]
+   },
+   {
+    "id": "lao-gia-lung-gu-tien-di",
+    "name": "Lão già lưng gù (thất diệp)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {"ten": "Tiên Di Tộc", "trangThai": "gan-bo"}
+    ],
+    "canhGioiCaoNhat": "Thất diệp Thuật Chú Sư (tương đương Anh Biến kỳ)",
+    "trangThai": "bi-nhot — bị VL nhốt trong hư vô khe nứt không gian @c0328; liên hệ tộc linh chờ giải cứu",
+    "vaiTro": "Thất diệp Thuật Chú Sư — thủ lĩnh bảo vệ tầng sâu Tiên Di Chi Địa",
+    "tinhCach": [
+     {"text": "Lạnh lùng và thực dụng — muốn biến VL thành phù khôi vì 'đệ tử môn phái lớn, nhiều pháp bảo'. Không giết ngay mà muốn luyện thành công cụ.", "chuong": "@c0325"}
+    ],
+    "blurb": "Thất diệp Thuật Chú Sư Tiên Di tộc, tương đương Anh Biến kỳ — mạnh nhất Tiên Di Chi Địa. 4/5 cơ thể phủ ký hiệu, đeo vòng xương thú chứa ký hiệu nhập môn lục quang. Chặn cổng tầng 1 bịt kín, hạ ký hiệu thực vật thôi hóa VL thành phù khôi. Bị VL nhốt cùng trong hư vô sau 8 tháng truy kích — hóa thành cây khổng lồ chờ tộc linh giải cứu.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0325",
+       "importance": "major",
+       "tieuDe": "Xuất hiện — chặn cổng tầng 1, thôi hóa VL",
+       "text": "Xuất hiện tại cổng tầng 1, dùng ký hiệu vàng khổng lồ khóa kín. Biết VL đã giết Mặc Mặc, Địch Nha, Cổ, Xỉ Mộc qua Phù Oán Chi Linh. Tấn công VL: búng ngón tay phá kiếm mang tiên kiếm, chỉ ra Thiên Kiếp Cấm Phiên không hiệu lực trong Tiên Di (thế giới khác). Muốn biến VL thành phù khôi. (@c0325)"
+      },
+      {
+       "bridge": true,
+       "khoang": "@c0326–@c0328",
+       "text": "Đuổi theo VL trong khe nứt không gian — bị Xạ Thần Xa đánh văng trăm trượng + tiên kiếm chém 3 nhát vào ngực. Phản kích bằng ký hiệu thực vật lục quang (từ vòng xương thú vỡ ra), hóa sao sáu cánh — đẩy lui Hồn Thú, khiến ký hiệu thực vật xâm nhập nguyên thần VL. Sau 8 tháng truy kích, ký hiệu lực cạn — hóa thành cây khổng lồ dùng tộc linh liên lạc bên ngoài. Bị VL chém ký hiệu lối ra, nhốt trong hư vô. (@c0326–@c0328)"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0325",
+       "canhGioi": "Thất diệp Thuật Chú Sư (Anh Biến kỳ)",
+       "text": "Xác nhận là thất diệp — mạnh nhất Tiên Di Chi Địa, tương đương Anh Biến kỳ tu sĩ bên ngoài."
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "gap": "@c0325",
+       "quanHe": "Kẻ địch — đang bị nhốt bởi VL",
+       "ghiChu": "Bị VL nhốt trong hư vô sau 8 tháng truy kích.",
+       "tag": "thu-dich"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0325", "@c0326", "@c0327", "@c0328"]
+   },
+   {
+    "id": "lao-gia-ao-xanh-tien-di",
+    "name": "Lão già áo xanh (hộ vệ Tử Tâm)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {"ten": "Không rõ (hộ vệ nữ tử áo lụa trắng)", "trangThai": "gan-bo"}
+    ],
+    "canhGioiCaoNhat": "Hóa Thần sơ kỳ",
+    "trangThai": "bi-nhot — bị VL bỏ lại trong hư vô @c0330",
+    "vaiTro": "Hộ vệ nữ tử áo lụa trắng (Tử Tâm)",
+    "tinhCach": [
+     {"text": "Có khí tiết — muốn chết để giải thoát khỏi thân phù khôi, nhưng Tiểu thư không cho; tự nhận thân phận thay vì che giấu khi bị ép.", "chuong": "@c0329"}
+    ],
+    "blurb": "Hộ vệ Hóa Thần sơ kỳ của nữ tử áo lụa trắng. Vào Tiên Di Chi Địa cùng Tử Tâm (và nhóm 7 người ban đầu, ra chỉ còn 2). Bị Tiên Di tộc luyện thành phù khôi ngũ diệp trong khi ở trong đó. Bản Tôn đánh bại không khó — phát hiện bị thôi hóa. Bị VL bỏ lại trong hư vô sau khi làm mồi nhử tìm VL.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0329",
+       "importance": "normal",
+       "tieuDe": "Ra khỏi Tiên Di — bị Bản Tôn phát hiện thành phù khôi",
+       "text": "Cùng Tử Tâm thoát khỏi Tiên Di Chi Địa (trong 7 người ban đầu, chỉ còn 2). Gặp Bản Tôn — bị đánh bại: pháp bảo hình núi + phi kiếm + pháp đao đều bị đấm vỡ. Bị phát hiện đã thành phù khôi ngũ diệp (thực vật 5 lá ở mi tâm, khí đen vờn quanh). Bản Tôn bắn máu đánh dấu mi tâm, ném vào hố sâu Tiên Di tìm VL. (@c0329)"
+      },
+      {
+       "chuong": "@c0330",
+       "importance": "normal",
+       "tieuDe": "Bị VL bỏ lại trong hư vô",
+       "text": "VL tìm thấy hai người trong hư vô, lấy 2 giọt máu (dấu ấn Bản Tôn) từ mi tâm, Bản Tôn mở lối ra. VL bước ra còn 2 người bị để lại trong hư vô. (@c0330)"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0329",
+       "canhGioi": "Hóa Thần sơ kỳ (+ thân phù khôi ngũ diệp)",
+       "text": "Ý cảnh Hóa Thần sơ kỳ bị sát khí Cổ Thần Bản Tôn đánh sụp; đồng thời xác nhận là phù khôi ngũ diệp."
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Nữ tử áo lụa trắng (Tử Tâm)",
+       "gap": "@c0329",
+       "quanHe": "Hộ vệ / Tiểu thư",
+       "ghiChu": "Tiểu thư không cho lão tự sát để giải thoát khỏi thân phù khôi.",
+       "tag": "phu-thuoc"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0329", "@c0330"]
+   },
+   {
+    "id": "nu-tu-lua-trang-tu-tam",
+    "name": "Nữ tử áo lụa trắng (Tử Tâm)",
+    "cn": "",
+    "aliases": ["Tử Tâm"],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {"ten": "Không rõ", "trangThai": "gan-bo"}
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "bi-nhot — bị VL bỏ lại trong hư vô @c0330",
+    "vaiTro": "Nhân vật bí ẩn — vào Tiên Di Chi Địa với nhóm riêng",
+    "tinhCach": [
+     {"text": "Có nghĩa khí — không chịu để hộ vệ tự sát để giải thoát khỏi thân phù khôi, chọn cùng nhau vào hư vô.", "chuong": "@c0329"}
+    ],
+    "blurb": "Nữ tử vóc dáng đẹp mặc lụa trắng, gọi hộ vệ là 'Tiểu thư'. Vào Tiên Di Chi Địa với nhóm riêng 7 người, ra chỉ còn 2. Gặp Bản Tôn — nói dối về xuất thân rồi thú thật. Bị VL bỏ lại trong hư vô sau khi dùng làm mồi nhử tìm đường ra.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0329",
+       "importance": "normal",
+       "tieuDe": "Ra khỏi Tiên Di — gặp Bản Tôn",
+       "text": "Cùng lão già áo xanh thoát Tiên Di (7 người vào, 2 người ra). Bị Bản Tôn chặn đường — pháp đao bị đấm vỡ. Ban đầu nói dối xuất thân, bị Bản Tôn dọa mới thú thật từ Tiên Di Chi Địa ra. Bản Tôn bắn máu đánh dấu mi tâm, ném vào hố sâu tìm VL. (@c0329)"
+      },
+      {
+       "chuong": "@c0330",
+       "importance": "normal",
+       "tieuDe": "Bị VL bỏ lại trong hư vô",
+       "text": "VL tìm thấy trong hư vô, lấy dấu ấn máu, Bản Tôn mở lối thoát. VL bước ra còn nữ tử bị để lại cùng lão già. (@c0330)"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Lão già áo xanh",
+       "gap": "@c0329",
+       "quanHe": "Hộ vệ",
+       "ghiChu": "Lão già hộ vệ; bị thôi hóa thành phù khôi trong Tiên Di.",
+       "tag": "phu-thuoc"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0329", "@c0330"]
+   },
+   {
+    "id": "lao-dao-si-van-thien-tong",
+    "name": "Lão đạo sĩ (phái nhỏ phụ thuộc Vân Thiên Tông)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {"ten": "Môn phái nhỏ phụ thuộc Vân Thiên Tông", "trangThai": "gan-bo"}
+    ],
+    "canhGioiCaoNhat": "Trúc Cơ kỳ (đang cố đột phá trung kỳ)",
+    "trangThai": "song",
+    "vaiTro": "Đệ tử môn phái nhỏ — chuyên tìm linh căn",
+    "tinhCach": [
+     {"text": "Kiêu căng và tham lam — coi Chu Như như khối thượng phẩm linh thạch, cưỡng đoạt khỏi cha mẹ không chần chừ.", "chuong": "@c0330"}
+    ],
+    "blurb": "Đệ tử Trúc Cơ kỳ của môn phái nhỏ phụ thuộc Vân Thiên Tông. Cứ 6 năm xuống núi một lần tìm thiếu niên có linh căn — đã tìm 3 đợt trước, lần này phát hiện Chu Như (Lý Mộ Uyển chuyển sinh) có tư chất tuyệt hảo. Cưỡng đoạt Chu Như bất chấp cha mẹ.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0330",
+       "importance": "normal",
+       "tieuDe": "Phát hiện Chu Như — cưỡng đoạt đem đi tu tiên",
+       "text": "Đến Chu gia thôn trong đợt tìm linh căn 6 năm/lần (đã 3 đợt trước). Điểm trán Chu Như (3 tuổi), kinh ngạc: 'Trời sinh có linh lực, bách mạch đều thông, tử quang thấu thể'. Cưỡng đoạt bé gái bất chấp cha mẹ đau lòng — chính chưởng môn sẽ thưởng thượng phẩm linh thạch cho tư chất tốt. (@c0330)"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0330",
+       "canhGioi": "Trúc Cơ kỳ (đang trùng kích trung kỳ)",
+       "text": "Tự nói 'có nó (thưởng thượng phẩm linh thạch) ta trùng kích Trúc Cơ trung kỳ' — xác nhận hiện đang Trúc Cơ sơ/trung kỳ."
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Chu Như",
+       "gap": "@c0330",
+       "quanHe": "Đệ tử đoạt được",
+       "ghiChu": "Phát hiện tư chất Chu Như tuyệt hảo và cưỡng đoạt đem về môn phái.",
+       "tag": "khac"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": ["@c0330"]
    }
   ]
  },
@@ -17103,16 +17552,16 @@ window.LIB_DATA["tien-nghich"]={
     "cn": "",
     "capDo": "dia-diem",
     "parentId": "chu-tuoc-tinh",
-    "blurb": "Thánh địa ngầm của Tiên Di tộc (Dã Nhân) bên dưới lòng đất Phù Văn tinh. Có nhiều tầng, càng vào sâu càng nguy hiểm. Chứa Luân Hồi Thụ và Quả Luân Hồi — bảo vật giúp chuyển sinh giữ ký ức.",
-    "detail": "19 tầng trở lên, vào càng sâu yêu cầu tu vi càng cao. Tầng nông có Thuật Chú Sư và Chiến Thú Sĩ cấp thấp; tầng sâu có Luân Hồi Thụ. VL vào cùng nhóm lão Hồ @c0319. Giết ngũ diệp Thuật Chú Sư @c0319; gặp Tạp Mạc lục diệp @c0320. Chiến xa cổ hồn thú ba đầu được VL thu @c0317.",
+    "blurb": "Thánh địa ngầm của Tiên Di tộc (Dã Nhân) bên dưới lòng đất Phù Văn tinh. Có nhiều tầng, càng vào sâu càng nguy hiểm. Tầng 3 là thế giới đỏ — chứa Luân Hồi Thụ cho quả giúp đột phá Anh Biến. Cổng vào bị thất diệp bịt kín sau đợt VL vào.",
+    "detail": "19 tầng trở lên, vào càng sâu yêu cầu tu vi càng cao. Tầng nông có Thuật Chú Sư và Chiến Thú Sĩ cấp thấp; tầng sâu có Luân Hồi Thụ. Hai loại chiến binh Tiên Di: Thuật Chú Sư (ký hiệu lơ lửng ngoài da, đánh xa) và Chiến Thú Sĩ (ký hiệu dung nhập sâu vào da thịt, cận chiến). Thiên Kiếp không phủ xuống được trong này (thế giới khác). Cổng tầng 1 bị thất diệp Thuật Chú Sư (Anh Biến kỳ) bịt kín bằng ký hiệu vàng khổng lồ @c0325. VL vào cùng nhóm Hồ lão @c0319 — trải qua tầng 1, 2, 3; giết Xỉ Mộc (lục diệp Chiến Thú Sĩ) @c0324; bị nhốt trong khe nứt không gian hư vô 8 tháng @c0325–@c0328; thoát ra @c0330.",
     "theLucLienQuan": ["tien-di-toc"],
-    "nguon": ["@c0316", "@c0317", "@c0319", "@c0320"]
+    "nguon": ["@c0316", "@c0317", "@c0319", "@c0320", "@c0321", "@c0322", "@c0323", "@c0324", "@c0325", "@c0326", "@c0327", "@c0328", "@c0329", "@c0330"]
    }
   ]
  },
  "artifacts": {
   "updatedAt": "2026-06-13",
-  "count": 90,
+  "count": 92,
   "artifacts": [
    {
     "id": "thanh-van-dan",
@@ -19087,9 +19536,9 @@ window.LIB_DATA["tien-nghich"]={
     "soHuu": ["vuong-lam"],
     "uuTien": null,
     "trangThai": "Đang giữ — thu vào Khu Thú Quyển",
-    "blurb": "Chiến xa cổ Tiên Di Chi Địa có hồn thú ba đầu thân trâu đuôi giao long. Khi dùng hút cực phẩm linh thạch — lực hút phá vỡ cả cực phẩm. Vương Lâm thu vào Khu Thú Quyển, đặt tên Xạ Thần Xa.",
-    "detail": "Thu được trong Tiên Di Chi Địa @c0317. Hồn thú ba đầu thân trâu đuôi giao long ngụ bên trong. Cơ chế hoạt động dùng cực phẩm linh thạch làm nhiên liệu — lực hút đủ mạnh để phá vỡ cả khối cực phẩm. VL thu vào Khu Thú Quyển cùng Lôi Oa và đặt tên Xạ Thần Xa.",
-    "nguon": ["@c0317"]
+    "blurb": "Chiến xa cổ Tiên Di Chi Địa có Hồn Thú ngụ bên trong. Uy lực kinh hoàng — Hồn Thú xuyên qua cơ thể địch và nuốt tàn hồn. Chi phí: 1 cực phẩm linh thạch/lần dùng. VL thu vào Khu Thú Quyển, đặt tên Xạ Thần Xa.",
+    "detail": "Thu được trong Tiên Di Chi Địa @c0317. Hồn Thú ngụ bên trong — khi kích hoạt, hấp thu hắc mang từ mũi nhọn chiến xa, thân thể trở nên khổng lồ; vọt tới bằng tốc độ cực nhanh xuyên qua cơ thể địch và cắn chặt nuốt tàn hồn. Địch bị nứt từ mi tâm hóa tro bụi. Sau khi dùng, Hồn Thú hung tính cắn trả — phải đánh ấn quyết lên chiến xa để xích sắt hư ảo trói Hồn Thú kéo về. Chi phí: 1 khối cực phẩm linh thạch/lần dùng. VL dùng lần đầu giết Xỉ Mộc (lục diệp Chiến Thú Sĩ) @c0324. Cảnh báo: dùng nhiều sẽ bị hút thành xương khô.",
+    "nguon": ["@c0317", "@c0324"]
    },
    {
     "id": "luc-pham-quy-nguyen-dan",
@@ -19105,6 +19554,36 @@ window.LIB_DATA["tien-nghich"]={
     "blurb": "Đan dược lục phẩm do Âu Dương Tử luyện chế 6+ năm theo phương thuốc VL thu được. Tăng tốc hấp thu linh lực trời đất, giúp kết anh — nhưng nếu thân thể quá yếu sẽ bị kết tinh. Lý Mộ Uyển dùng và chết.",
     "detail": "Phương thuốc lục phẩm ban đầu bị Chu Ngạn Hoành đoạt tại đấu giá Luyện Khí Các @c0310. VL lấy lại @c0311. Âu Dương Tử luyện thành đan lục phẩm Quy Nguyên đan @c0312. LMU uống vào linh lực điên cuồng tụ nhưng thân xác quá yếu → kết tinh thành tinh thạch → nguyên anh thoát xác @c0312–@c0313. Mỗi trăm năm chỉ được dùng 1 viên với người thể chất bình thường.",
     "nguon": ["@c0311", "@c0312", "@c0313"]
+   },
+   {
+    "id": "luan-hoi-thu",
+    "name": "Luân Hồi Thụ (Luân Hồi Mộc)",
+    "cn": "",
+    "aliases": ["Luân Hồi Mộc", "cây Luân Hồi"],
+    "category": "linh-vat",
+    "categoryLabel": "Linh vật thiên nhiên",
+    "phamCap": "Cổ thực vật Tiên Di Chi Địa",
+    "soHuu": ["vuong-lam"],
+    "uuTien": null,
+    "trangThai": "Đã dùng — VL chế tác tượng gỗ Tuế Nguyệt từ đoạn gỗ Luân Hồi Mộc @c0330",
+    "blurb": "Cây cổ khô héo ngàn năm sâu trong tầng 3 Tiên Di Chi Địa. Cho quả Luân Hồi (tăng 30%+ xác suất bước vào Anh Biến). VL sở hữu toàn bộ cây sau khi thôi hóa đủ 3 quả. Gỗ cây sau đó được dùng chế tác tượng Tuế Nguyệt.",
+    "detail": "Nằm sâu trong tầng 3 Tiên Di Chi Địa — đây là lý do nhóm Hồ lão xâm nhập. Cây già cỗi khô héo, ngàn năm tuổi. Quả Luân Hồi phát sáng vàng chói, chất lỏng sền sệt màu vàng. Để thôi hóa (ép cây cho quả), cần hai nhân tố: hy sinh tuổi thọ của người (cứ 1 giáp = 12 năm thì cây già thêm 1 năm, hy sinh đủ → cho quả). Hồ lão hy sinh tuổi thọ Hứa La + Vận Manh để lấy 2 quả; VL lấy 1 quả từ đó + sở hữu cả cây @c0322–@c0323. VL chặt cây thành từng đoạn nhỏ bỏ vào túi trữ vật (nguyên cây không bỏ vào được) @c0324. Sau khi ra ngoài, VL dùng 1 quả cho Bản Tôn (chính thức trở thành Cổ Thần) @c0330, rồi dùng đoạn Luân Hồi Mộc chế tác tượng gỗ Tuế Nguyệt @c0330.",
+    "nguon": ["@c0319", "@c0322", "@c0323", "@c0324", "@c0330"]
+   },
+   {
+    "id": "luan-hoi-qua",
+    "name": "Quả Luân Hồi",
+    "cn": "",
+    "aliases": ["Luân Hồi Quả"],
+    "category": "linh-vat",
+    "categoryLabel": "Linh vật thiên nhiên",
+    "phamCap": "Quả của Luân Hồi Thụ — cổ thực vật Tiên Di Chi Địa",
+    "soHuu": ["vuong-lam"],
+    "uuTien": null,
+    "trangThai": "Đã dùng hết — VL giữ 1 quả (Hồ lão lấy 2 quả); 1 quả VL dùng cho Bản Tôn @c0330",
+    "blurb": "Quả của Luân Hồi Thụ — phát ánh sáng vàng chói. Khi dùng: chất lỏng sền sệt vàng ngấm vào da thịt, lan khắp toàn thân tạo tấm lưới vàng, hấp thu vào máu thịt — tăng vô số lần tốc độ hấp thu linh lực thiên địa, tăng 30%+ xác suất đột phá Anh Biến. Bản Tôn dùng 1 quả → chính thức trở thành bộ tộc Cổ Thần.",
+    "detail": "Tổng cộng 3 quả thôi hóa được trong trận chiến tầng 3 Tiên Di Chi Địa. Hồ lão lấy 2 quả @c0323; VL lấy 1 quả. VL để dành cho Bản Tôn (vì Bản Tôn là thể Cổ Thần — dùng quả thích hợp hơn VL dùng cho tu vi bình thường). Bản Tôn bóp vỡ quả @c0330: chất lỏng vàng ngấm vào vết rạn trên da → lan khắp toàn thân thành tấm lưới vàng → kim quang dung nhập máu thịt → tất cả kinh mạch bị hấp thu/thay đổi → tốc độ hấp thu linh lực thiên địa tăng vô số lần → chính thức trở thành bộ tộc Cổ Thần.",
+    "nguon": ["@c0319", "@c0322", "@c0323", "@c0330"]
    }
   ]
  },
