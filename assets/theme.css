@@ -564,13 +564,19 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .bchip{font-family:var(--sans);font-size:12.5px;color:var(--muted);background:transparent;border:1px solid var(--line);border-radius:14px;padding:4px 11px;cursor:pointer;transition:.12s}
 .bchip:hover{color:var(--gold2);border-color:var(--line-gold)}
 .bchip.active{color:#1c150d;background:var(--gold);border-color:var(--gold);font-weight:600}
-/* Bộ lọc theo Quyển trong tab Kinh lịch (dropdown gọn) */
+/* Bộ lọc theo Quyển trong tab Kinh lịch (dropdown gọn, có gợi ý ngay trong ô) */
 .ql-filter{margin-bottom:12px;padding-bottom:12px;border-bottom:1px dashed var(--line)}
-.ql-guide{font-family:var(--sans);font-size:12.5px;font-style:italic;color:var(--gold2);margin-bottom:7px}
-.ql-select{font-family:var(--sans);font-size:13px;color:var(--ink);background:var(--card,transparent);border:1px solid var(--line-gold);border-radius:9px;padding:7px 11px;cursor:pointer;width:100%;max-width:100%;box-sizing:border-box;transition:.12s}
-.ql-select:hover,.ql-select:focus{border-color:var(--gold);outline:none}
-[data-theme="light"] .ql-guide{color:var(--gold2)}
-[data-theme="light"] .ql-select{color:var(--ink);border-color:var(--line2)}
+.ql-select{font-family:var(--sans);font-size:13px;font-weight:600;color:var(--gold2);
+  background:linear-gradient(180deg,rgba(214,178,94,.10),rgba(214,178,94,.03));
+  border:1.5px solid var(--line-gold);border-radius:10px;padding:9px 34px 9px 13px;cursor:pointer;
+  width:100%;max-width:100%;box-sizing:border-box;transition:.14s;
+  -webkit-appearance:none;appearance:none;
+  background-image:linear-gradient(180deg,rgba(214,178,94,.10),rgba(214,178,94,.03)),url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%23d6b25e' d='M1 1l5 5 5-5'/%3E%3C/svg%3E");
+  background-repeat:no-repeat,no-repeat;background-position:center,right 13px center}
+.ql-select:hover,.ql-select:focus{border-color:var(--gold);outline:none;box-shadow:0 0 0 3px rgba(214,178,94,.15)}
+.ql-select option{font-weight:500;color:var(--ink);background:var(--bg,#1a140c)}
+[data-theme="light"] .ql-select{color:var(--gold2);border-color:var(--line2)}
+[data-theme="light"] .ql-select option{color:#2a2014;background:#faf7f0}
 .ev.bridge{opacity:.85}
 .ev-bridge{font-size:12.5px;color:var(--muted);font-style:italic;padding:2px 0 2px 14px;border-left:2px dashed var(--line)}
 .neo.rng{font-style:normal;color:var(--muted2)}
