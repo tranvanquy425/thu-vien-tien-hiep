@@ -1558,6 +1558,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 310,
       tieuDe: "Phương Thuốc Lục Phẩm",
       tomTat: "Tại đấu giá Luyện Khí Các, VL xuất tượng gỗ (huyết kinh mạch Tuyết Vực + ý cảnh Hóa Thần mờ nhạt, tương đương khôi lỗi Nguyên Anh hậu kỳ) để định giá. Giám định viên đánh giá thấp 5.000, nhưng Lão Hồ nhận ra xuất xứ Tuyết Vực, mua trực tiếp và tặng ngọc giản 2 vạn thượng phẩm linh thạch. VL ra giá 2 vạn cho phương thuốc lục phẩm nhưng bị Chu Ngạn Hoành (nữ áo xanh, che lụa trắng, phòng giữa lầu 3) nâng lên 3 vạn đoạt mất. VL giao Lữ Phi + Thiết Nham bảo vệ LMU, tự mình rời thành Ma Nghịch truy tìm. Tại vách núi 3.000 dặm ngoài thành, Chu Ngạn Hoành đã chờ sẵn — cố ý tạo cơ hội giao dịch riêng. Hộ vệ Hóa Thần sơ kỳ của nàng rút pháp bảo hình cái ô ra trước uy hiếp của VL. (@c0310)"
+    },
+    {
+      chuong: 311,
+      tieuDe: "Bí Mật Cực Phẩm Linh Thạch",
+      tomTat: "VL lấy được phương thuốc lục phẩm từ Chu Ngạn Hoành. Trong quá trình thu thập dược liệu, VL phát hiện bí mật đáng sợ của linh đan lục phẩm: tu sĩ hấp thu đan dược lục phẩm có thể bị kết tinh thành tinh thạch nếu thân thể quá yếu — giải thích nguồn gốc cực phẩm linh thạch. VL đưa Lý Mộ Uyển về Sở quốc điều trị, dành thêm 2 năm tìm dược liệu thay thế an toàn. (@c0311)"
+    },
+    {
+      chuong: 312,
+      tieuDe: "Lý Mộ Uyển Uống Đan",
+      tomTat: "7 tháng VL sưu tập dược liệu khắp tứ-ngũ cấp tu chân quốc, vượt qua 2 trận hung hiểm — một với Hóa Thần trung kỳ có Vong cảnh, một với Hóa Thần hậu kỳ. Bổn tôn thức tỉnh tại Hằng Nhạc sơn. Cuối cùng Âu Dương Tử luyện thành lục phẩm Quy Nguyên đan. Lý Mộ Uyển lúc này tóc bạc trắng, không thể đi lại, sắp chết. Nàng uống đan — linh lực điên cuồng tụ vào thân thể nhưng thân xác quá yếu bắt đầu kết tinh. (@c0312)"
+    },
+    {
+      chuong: 313,
+      tieuDe: "Sinh Tử Luân Hồi — Tuyên Chiến Thiên Đạo",
+      tomTat: "Thân xác Lý Mộ Uyển hóa xương khô. Kim đan nứt vỡ, nguyên anh xuất hiện lơ lửng trong không khí. VL dùng bức tranh sinh tử luân hồi — bảo vật cực hiếm — dẫn nguyên anh LMU đầu thai vào bào thai một sơn thôn. VL và bổn tôn dung hợp lần đầu: thân cao 1 trượng, mắt trái hình trăng mắt phải hình mặt trời, phát ra uy áp kinh thiên. Hắn tuyên chiến thiên đạo để bảo vệ linh hồn LMU. Đây là bước ngoặt lớn nhất trong mối quan hệ VL-LMU. (@c0312–@c0313)"
+    },
+    {
+      chuong: 314,
+      tieuDe: "Chu Như — LMU Chuyển Sinh",
+      tomTat: "Nguyên anh Lý Mộ Uyển đầu thai thành công vào bào thai tại Hạnh Hoa Thôn, sinh ra bé gái Chu Như với thân thể yếu ớt. Mất toàn bộ ký ức kiếp trước nhưng cảm nhận tình cảm vẫn còn. Bổn tôn của VL bế quan dưới đất, bắt đầu tu luyện để đạt đỉnh nhị tinh Cổ Thần. (@c0314)"
+    },
+    {
+      chuong: 315,
+      tieuDe: "Thiếp Khiêu Chiến Của Hồng Điệp",
+      tomTat: "Bổn tôn VL đạt đỉnh nhị tinh sau thời gian bế quan. Sứ giả Chu Tước quốc — Phùng Ngọc Sơn, áo trắng thêu bốn rồng vàng — tìm đến mang thiếp khiêu chiến của Hồng Điệp tới Tằng Ngưu (VL). VL bình thản hẹn 10 năm sau sẽ nhận đấu. Chu Tước Sơn ba lần phái người bảo hộ Tằng Ngưu. (@c0314–@c0315)"
+    },
+    {
+      chuong: 316,
+      tieuDe: "Chuẩn Bị Vào Tiên Di Chi Địa",
+      tomTat: "VL gặp nhóm lão Hồ (Hóa Thần kỳ), biết về Luân Hồi Thụ và Quả Luân Hồi sâu trong Tiên Di Chi Địa — bảo vật tăng xác suất Anh Biến (đột phá Anh Biến kỳ) hơn 30% cho tu sĩ Hóa Thần hậu kỳ đại viên mãn. VL tế luyện cánh tay đứt lìa của Hồng Điệp tại sơn cốc để hiểu thêm về đối thủ. Quyết định cùng nhóm lão Hồ thâm nhập Tiên Di Chi Địa. (@c0316)"
+    },
+    {
+      chuong: 317,
+      tieuDe: "Xạ Thần Xa — Nhận Ra Cự Phú",
+      tomTat: "VL tế luyện cánh tay Hồng Điệp xong tại sơn cốc; thu chiến xa cổ (hồn thú ba đầu thân trâu đuôi giao long) vào Khu Thú Quyển, đặt tên Xạ Thần Xa — dùng cực phẩm linh thạch làm nhiên liệu. VL nhận ra thanh tiên kiếm trong bảo tháp (bên cạnh nữ thi Đình Nhi) chính là Cự Phú — phi kiếm bổn mệnh hắn từ nhỏ. (@c0317)"
+    },
+    {
+      chuong: 318,
+      tieuDe: "Kiếm Hồn Tạm — Thăm Uyển Nhi",
+      tomTat: "VL ném Hứa Lập Quốc (nguyên thần bị giam từ lâu) vào tiên kiếm Cự Phú làm Kiếm Hồn tạm thời để kiếm có thể sử dụng được. Sau đó đến Hạnh Hoa Thôn thăm Chu Như — bé gái LMU chuyển sinh, không nhớ gì nhưng ánh mắt quen thuộc. VL tặng Thiết Nham một bức tượng gỗ Tuế Nguyệt — trong 9 bức ban đầu, 6 đã vỡ nát trong trận thiên đạo luân hồi, còn 3 thì tặng 1; giữ lại 2 bức cuối. Thác Sâm trong huyết hải (Toái Tinh Loạn / thân thể Cổ Thần Đồ Ti) tuyên bố sắp thoát thể xác Cổ Thần. (@c0318)"
+    },
+    {
+      chuong: 319,
+      tieuDe: "Tiên Di Chi Địa — Tầng 1",
+      tomTat: "VL cùng nhóm lão Hồ bước vào tầng 1 Tiên Di Chi Địa. Bên ngoài cửa gặp Dã Nhân nửa lá (thôi hóa, yếu); bên trong tầng 1 gặp Dã Nhân 1 lá — nhóm tiêu diệt. Lão Hồ bắn linh quyết xuyên ngực Dã Nhân tấn công Hứa La. Nhóm tiến sâu, càng vào càng nguy hiểm. (@c0319)"
+    },
+    {
+      chuong: 320,
+      tieuDe: "Tạp Mạc — Phù Văn Tinh",
+      tomTat: "Nhóm VL gặp Tạp Mạc — lục diệp Thuật Chú Sư Tiên Di tộc (tương đương Hóa Thần trung kỳ). Khác với các Dã Nhân thù địch trước, Tạp Mạc giao tiếp hòa bình. Hắn tiết lộ hai bí mật lớn: VL có Phù Hồn thuộc về một thực thể bí ẩn tên Mặc Mặc; và hành tinh này tên thật là Phù Văn tinh — bị Chu Tước quốc chiếm đoạt và đổi tên. Bí mật về nguồn gốc thật của VL và hành tinh bắt đầu hé lộ. (@c0320)"
     }
   ]
 };
