@@ -1,5 +1,5 @@
 /* cotTruyen TÁCH KHỎI data.js (giảm kích thước) — nạp NGAY SAU data.js. */
-/* sync-bump 2026-06-14T18:05Z — phep thu day=0 (doi sha buoc PUT) + ban du 350 chuong */
+/* sync-bump 2026-06-14T18:20Z — sua loi cu phap: nhay kep thang long trong tomTat c268/c269 → nhay cong */
 window.LIB_DATA = window.LIB_DATA || {};
 window.LIB_DATA["tien-nghich"] = window.LIB_DATA["tien-nghich"] || {};
 window.LIB_DATA["tien-nghich"].cotTruyen = {
@@ -1346,12 +1346,12 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
     {
       chuong: 268,
       tieuDe: "Thiên Đạo Mở Ra",
-      tomTat: "VL đứng trên núi Phá Thiên (Vũ Văn quốc), kiểm tra toàn bộ trang bị rồi bế quan một năm khắc thêm 8 bức tượng gỗ ý cảnh Tuế Nguyệt (tổng 9 bức). Sau mấy năm chờ đợi, Thiên Đạo mở ra: sáu tu sĩ cầm Vũ Đỉnh từ khắp Chu Tước tinh bay lên, hình thành đồ án lục giác, vượt tầng mây thiên uy. VL lần đầu nhìn thấy bầu trời đầy sao, tới trước Vũ chi tiên môn — cánh cửa khổng lồ khắc chữ "Vũ" với dấu tay và vết nứt hình mạng nhện. Đồ án sụp đổ, VL bị đẩy xuống đài cao bên dưới cánh cửa. (@c0268)"
+      tomTat: "VL đứng trên núi Phá Thiên (Vũ Văn quốc), kiểm tra toàn bộ trang bị rồi bế quan một năm khắc thêm 8 bức tượng gỗ ý cảnh Tuế Nguyệt (tổng 9 bức). Sau mấy năm chờ đợi, Thiên Đạo mở ra: sáu tu sĩ cầm Vũ Đỉnh từ khắp Chu Tước tinh bay lên, hình thành đồ án lục giác, vượt tầng mây thiên uy. VL lần đầu nhìn thấy bầu trời đầy sao, tới trước Vũ chi tiên môn — cánh cửa khổng lồ khắc chữ “Vũ” với dấu tay và vết nứt hình mạng nhện. Đồ án sụp đổ, VL bị đẩy xuống đài cao bên dưới cánh cửa. (@c0268)"
     },
     {
       chuong: 269,
       tieuDe: "Khiếp Sợ",
-      tomTat: "Các tu sĩ từ nhiều tinh cầu tụ tập trước cánh cửa tiên giới, chiếm đài cao chờ đợi. Một tu sĩ Hóa Thần Sơ Kỳ lần lượt bị lão già đầu bạc, nam tử Cự Ma tộc và Hồng Điệp đẩy lui, cuối cùng nhắm VL — VL triệu Lôi Oa (ếch sấm tương đương Hóa Thần kỳ) phóng lôi cầu đánh bại, từ đó mọi người kiêng kị. Trung niên uống rượu nhắc đến "Uyển nhi" khi thấy Lôi Oa. Cánh cửa tiên giới phát tiếng than khóc rồi mở ra, tất cả tu sĩ lần lượt bay vào. (@c0269)"
+      tomTat: "Các tu sĩ từ nhiều tinh cầu tụ tập trước cánh cửa tiên giới, chiếm đài cao chờ đợi. Một tu sĩ Hóa Thần Sơ Kỳ lần lượt bị lão già đầu bạc, nam tử Cự Ma tộc và Hồng Điệp đẩy lui, cuối cùng nhắm VL — VL triệu Lôi Oa (ếch sấm tương đương Hóa Thần kỳ) phóng lôi cầu đánh bại, từ đó mọi người kiêng kị. Trung niên uống rượu nhắc đến “Uyển nhi” khi thấy Lôi Oa. Cánh cửa tiên giới phát tiếng than khóc rồi mở ra, tất cả tu sĩ lần lượt bay vào. (@c0269)"
     },
     {
       chuong: 270,
