@@ -1759,6 +1759,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 350,
       tieuDe: "Trúc Cơ Trung Kỳ Đỉnh Phong — Liễu Mi Phát Hiện VL",
       tomTat: "VL (xưng Thanh Mộc) thuê động phủ Luyện Hồn Tông, dùng cực phẩm linh thạch + cấm chế tạo hộp kín thổ nạp — sau 1 tháng đạt Trúc Cơ trung kỳ đỉnh phong. Đổi sang động phủ 803 (tụ linh trận + ngụy linh nhãn). Ngày tất niên nhớ Chu Như và Tiểu Bạch. Liễu Mi dùng ngọc giản Chu Tước lão tổ cho xác nhận VL đang ở trong Luyện Hồn Tông. Phía đông: lão tổ Cự Ma tộc (nguyên thần) thoát ma đồng nhờ cấm chế bắc cực, đoạt xá tộc nhân, bế quan — đoạt được phi kiếm chứa HLQ. HLQ phục tùng giả, trong lòng vẫn trung thành VL. (@c0350)"
+    },
+    {
+      chuong: 351,
+      tieuDe: "Tàn Ảnh Cấm Chế — Trúc Cơ Hậu Kỳ Đại Viên Mãn",
+      tomTat: "VL bế quan 2 tháng đạt Trúc Cơ hậu kỳ nhưng cạn cực phẩm linh thạch. Dùng Tàn ảnh cấm chế (độc môn tự sáng tạo) phá ngụy linh nhãn trong động phủ 803, lấy Khôn Tinh Nham (linh thạch đỏ hấp thu linh lực) và trực tiếp hấp thu linh lực từ linh mạch — vết sẹo phong ấn phai bớt lần đầu. Tiếp tục bế quan đạt Trúc Cơ hậu kỳ đại viên mãn. Song song: Lý Nguyên Phong hồi phục tại Tuyết Vực sau tiên lôi Tôn Thái (thọ nguyên sắp hết, Anh Biến sơ kỳ cưỡng ép); Hồng Điệp bế quan trăm năm mục tiêu đạt Anh Biến. VL ra khỏi động phủ gặp nữ tử bí ẩn lam y (chưa biết là Liễu Mi). (@c0351)"
+    },
+    {
+      chuong: 352,
+      tieuDe: "Nguyên Anh Trung Kỳ Đỉnh — Khôi Phục Tu Vi Điên Cuồng Trong 10 Hơi Thở",
+      tomTat: "VL giết nam tử trung niên quản sự Kết Đan sơ kỳ (Lưu Phúc Lâm) đến ám sát — dùng Cấm Phiên phá phi kiếm, cướp kim đan, diệt xác. Xâm nhập động phủ 743, đào tới linh mạch cả ngọn núi, kích hoạt linh uy bằng 5 khối cực phẩm linh thạch: trong 10 lần hô hấp, nguyên thần thu lại, tu vi khôi phục điên cuồng Trúc Cơ → Kết Đan → Nguyên Anh sơ kỳ. Hút cạn toàn bộ linh mạch ngọn núi biến thành phế mạch, ngàn đệ tử ngoại vi bỏ chạy. Xác nhận Nguyên Anh trung kỳ đỉnh, nguyên thần sơ bộ thu lại (dùng được ý cảnh trở lại). Nội môn Luyện Hồn Tông phái 3 người ra kiểm tra. (@c0352)"
+    },
+    {
+      chuong: 353,
+      tieuDe: "Nguyên Anh Hậu Kỳ Địa Viên Mãn — Cảm Ngộ Sinh Tử Ý Cảnh",
+      tomTat: "Nội môn Luyện Hồn Tông kiểm tra toàn bộ ngoại vi đệ tử bằng đọc ký ức (mi tâm); VL vượt qua nhờ cấm chế trên nguyên thần. Được phân động phủ mới. Nuốt Tiên ngọc (thiếu một góc) — đau đớn cực độ → tu vi đạt Nguyên Anh hậu kỳ địa viên mãn, phong ấn thu còn 8 vết sẹo. Cảm ngộ Sinh tử ý cảnh 3 cấp Hóa Thần + nhận ra Anh Biến ý cảnh hình thành thực thể. Kế hoạch: thắng đại hội → vào nội môn hấp thu chủ mạch → học công pháp luyện hồn phiên. Song song (Sở quốc): Tiểu Chu đã lớn cưỡi Tiểu Bạch chơi đùa; Thiết Nham ngồi thiền dưới bảo tháp giấu tin VL mất tích; Lôi Oa nằm phơi nắng nhớ chỗ cổ thần. Liễu Mi đứng xa nhìn VL, ánh mắt phức tạp bất đắc dĩ. (@c0353)"
+    },
+    {
+      chuong: 354,
+      tieuDe: "Đại Hội Luyện Hồn Tông — Tử Khí Chu Tước Quốc",
+      tomTat: "VL gặp Liễu Mi tại Luyện Hồn Tông, nhận ra nàng là người Chu Tước quốc qua chiếc vòng giống hệt trên tay Hồng Điệp. Liễu Mi nhắc chuyện 500 năm trước ở Hằng Nhạc phái, thở dài 'hắn đã thay đổi rất nhiều, nội tâm cứng như thép'. VL cảm nhận tử khí trong Chu Tước quốc — kết luận quốc này sắp mạt vận. Đại hội khai mạc: hơn 1 vạn ngoại vi đệ tử tranh tài, không kể sinh tử — 5 vạn phần chết sau 7 ngày. VL (giả Kết Đan trung kỳ) lên đài hạ đối thủ Trúc Cơ hậu kỳ bằng một vung tay, không giết. Luyện Hồn Tông để ý 4 người đặc biệt, trong đó có lão giả đầu muối tiêu dùng pháp thuật 'quát tử → đối phương chết'. (@c0354)"
+    },
+    {
+      chuong: 355,
+      tieuDe: "Chung Kết — Tử Chú Thuật Bại Trước Cực Cảnh",
+      tomTat: "Top 4 đại hội: VL, Tư Mã lão giả (Tử Chú thuật), thiếu niên gầy trực giác dã thú, mãng hán bùa chú. VL vs mãng hán: đối phương lập tức nhận thua (sợ cấm chế VL đặt trong cơ thể). Tư Mã vs thiếu niên: thiếu niên suýt chết vì Tử Chú thuật, Luyện Hồn Tông phóng linh quang cứu. Chung kết VL vs Tư Mã: Tư Mã thi triển Tử Chú thuật (quát 'tử', điểm tay) — VL đứng yên cảm thụ dùng một ý niệm cô đọng lại, nhìn thấu căn nguyên. Nhận ra: Tử Chú thuật do thượng cổ tu sĩ bắt chước Cực Cảnh mà sáng tạo (cần tam khí quy nhất: tử khí/âm khí/sát khí; cửu tử nhất sinh 3 năm một lần). So với Cực Cảnh kém rất xa. (@c0355)"
+    },
+    {
+      chuong: 356,
+      tieuDe: "Vào Nội Môn — Nghe Lén Ba Trưởng Lão",
+      tomTat: "VL hoá giải Tử Chú thuật bằng ý niệm, lực cắn trả khiến Tư Mã phun máu hôn mê. Vương Chấn (nội môn đệ tử) dẫn VL vào nội môn: 3 phong (Luyện Hồn/Trừu Phách/Toả Thần), Cửu Kim hoàn (9 Hóa Thần bế quan — nguyên bản 10, Tằng Ngưu giết 1), 2 Huyết hoàn (2 Thuỷ Tổ Anh Biến, trong đó Độn Thiên Thuỷ Tổ). Đại trưởng lão Luyện Hồn Phong kiểm tra mi tâm — bị VL đánh lừa thành công (giả Kết Đan đại viên mãn). VL nghe lén đối thoại 3 trưởng lão: Hoá Thần đều bế quan, chỉ 3 Nguyên Anh thủ hộ. Vào Tàng Kinh Các chọn công pháp, tự tin: 'Nếu tu vi ta khôi phục, Hoá Thần này cũng không phải đối thủ.' (@c0356)"
+    },
+    {
+      chuong: 357,
+      tieuDe: "Hồn Phiên Tam Pháp — Cướp Ngọc Giản Không Sư Phụ Không Quy Tắc",
+      tomTat: "VL tìm phương pháp chế tác Hồn Phiên trong Tàng Kinh Các — bản tầm thường không đủ; lão nhân trông thư viện tiết lộ chỉ có 10 ngọc giản thật, phải tự đi cướp. VL ép lão chỉ đường (đập vào vách đá nhiều lần), phá động phủ tu sĩ Kết Đan hậu kỳ bằng Tàn ảnh cấm chế, cướp Hồn Phiên một kim tuyến + ngọc giản đen (chứa 1/3 phương pháp). Hứa Vân (Kết Đan trung kỳ, áo ngọc bích) giải thích: phương pháp chế tác Hồn Phiên chia 3 phần tương ứng 3 phong. Luyện Hồn Tông không có quy tắc — giết/cướp tự do, thua thì giao hết nhưng người thắng không được giết. Hứa Vân và sư muội Lưu Vi xin theo, VL đuổi nhưng hai nàng ở gần để nhờ oai danh. (@c0357)"
+    },
+    {
+      chuong: 358,
+      tieuDe: "Thượng Cổ Hồn Cấm — Kim Sắc Tiểu Kỳ",
+      tomTat: "VL khoét động phủ dưới chân Luyện Hồn Phong, thuấn di vào linh mạch thổ nạp. Phát hiện sâu trong linh mạch có thượng cổ hồn cấm (sinh vật hồn phách sống, loại cấm chế hiếm nhất) bảo vệ Kim sắc tiểu kỳ (cờ nhỏ vàng kim). Tàn ảnh cấm chế tấn công nhưng bị hồn cấm phản kích công kích linh hồn, nguyên thần đau đớn. Hồn cấm ngưng tụ thành yêu thú hai sừng lao tới. Bên ngoài: Hứa Vân + Lưu Vi giả thị thiếp Thanh Mộc bắt hồn phách thuận tiện; Quách Đông Kiện (Nguyên Anh sơ kỳ) tới bái phỏng, bị từ chối nổi giận phóng thanh long. VL bước ra phá tan bằng bàn tay hư không, thi triển Thiên Hồn Phiên Huyễn Ảnh (đầu lâu khổng lồ sau lưng) — Quách Đông Kiện kinh hãi lùi lại, phóng Hồn Phiên hai kim tuyến (có hồn phách Nguyên Anh kỳ). VL bình thản thốt 'Tuyền!' (@c0358)"
+    },
+    {
+      chuong: 359,
+      tieuDe: "Hồn Tuyền — Liễu Mi Cảnh Báo Rời Chu Tước Tinh",
+      tomTat: "VL thi triển Hồn Tuyền (lốc xoáy hút hồn phách) — là người thứ 3 trong Luyện Hồn Phong luyện ra chỉ sau 3 tháng; Quách Đông Kiện hoàn toàn quy phục, giao sinh hồn Nguyên Anh. Sau 3 tháng bế quan: tu vi đột phá lại Nguyên Anh (thực chất Hóa Thần không ý cảnh), vết sẹo chỉ còn 3 khối. Nghiên cứu Hồn Phiên tam pháp: Luyện hồn/Trừu phách/Toả thần; phân cấp Thập/Bách/Thiên/Vạn — từ Thiên cần chủ hồn. Liễu Mi xuất hiện từ sâu linh mạch, cảnh báo: 'Tai hoạ đến, rời Chu Tước tinh.' Tiết lộ sư phụ là Chu Tước Tử (đệ nhất nhân Chu Tước tinh); Hồng Điệp đã bị sư huynh nàng giết. VL nhìn thấu bản chất Thiên huyễn vô tình đạo của Liễu Mi — vỏ bọc hữu tình che nội tâm vô tình. (@c0359)"
+    },
+    {
+      chuong: 360,
+      tieuDe: "Chủ Hồn Kim Lân — Thu Vạn Hồn Phiên",
+      tomTat: "VL tĩnh tọa trong linh mạch khôi phục nguyên thần, vết sẹo chỉ còn 2 khối. Ngô Đạo Khải (đại trưởng lão Luyện Hồn Phong, thiếu ý cảnh là Hóa Thần) lần 3 cố luyện hóa Kim sắc Hồn Phiên: dùng Vạn Hồn Phiên (chủ hồn Nguyên Anh hậu kỳ + 10 phó hồn) + Vạn hồn phệ + Huyết tế chiến Kỳ Lân phó hồn; mượn Thần Phiên Linh (trọng bảo Toả Thần phong, chuông gỗ hóa yêu thú) trói 2 con; con thứ 3 xuất hiện sắp bỏ cuộc. VL phóng thần thức khổng lồ (mạnh hơn lão tổ Hóa Thần gấp mấy lần) — Ngô Đạo Khải quỳ 'tham kiến lão tổ'. VL đập vỡ Kỳ Lân, điểm Ngô Đạo Khải hôn mê, thu Vạn Hồn Phiên + Thần Phiên Linh. Chủ hồn thật sự xuất hiện từ Kim sắc Hồn Phiên — ngưng tụ thành Kỳ Lân khổng lồ toàn thân kim mang như thật thể — đối mặt VL. (@c0360)"
     }
   ]
 };
