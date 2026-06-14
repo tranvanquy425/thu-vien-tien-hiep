@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-11T18:10Z — autocomplete search + map zoom/pan */
+/* sync-bump 2026-06-14T21:50Z — style bộ lọc tuyến nhân mạch + link thẻ. autocomplete + map zoom/pan giữ. */
 /* ============================================================
    THƯ VIỆN TIÊN HIỆP — theme mực · vàng · chu sa  (v2 immersive)
    Giữ nguyên tên class để app.js/bo.html chạy không đổi.
@@ -326,7 +326,19 @@ a:hover{color:var(--gold3);text-decoration:underline}
 .rtag.an-nhan{background:#33280f;color:#e6c878;border-color:#6b521f}
 .rtag.su-mon{background:#2a2440;color:#b3a6e0;border-color:#4a3c7a}
 .rtag.doi-thu{background:#33180f;color:#e7a98e;border-color:#7e3a26}
-.rtag.khac{background:#241b10;color:#a8966f;border-color:#3a2f1c}
+.rtag.khac,.rtag.the-luc,.rtag.xa-la{background:#241b10;color:#a8966f;border-color:#3a2f1c}
+.rtag.cap-tren,.rtag.giao-pho{background:#2a2440;color:#b3a6e0;border-color:#4a3c7a}
+.rtag.dong-hanh{background:#22303c;color:#7fa6c4;border-color:#365066}
+
+/* ---------- nhân mạch: bộ lọc tuyến + link sang thẻ ---------- */
+.nm-filter{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.nm-filter .nmf{font-size:12px;font-family:var(--sans);padding:4px 12px;border-radius:999px;cursor:pointer;
+  background:#241b10;color:#bda874;border:1px solid #3a2f1c;transition:.15s}
+.nm-filter .nmf:hover{border-color:var(--gold,#c8a44a);color:#e6c878}
+.nm-filter .nmf.active{background:#3a2c10;color:#f0d28a;border-color:var(--gold,#c8a44a)}
+.nm-link{color:#e6c878;text-decoration:none;border-bottom:1px dashed rgba(200,164,74,.5);cursor:pointer}
+.nm-link:hover{color:#f3e0a8;border-bottom-style:solid}
+.nm-item{min-width:0}
 
 /* ---------- realm ladder ---------- */
 .ladder{display:flex;flex-direction:column;gap:0}
