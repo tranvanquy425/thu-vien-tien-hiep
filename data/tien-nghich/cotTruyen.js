@@ -1,5 +1,5 @@
 /* cotTruyen TÁCH KHỎI data.js (giảm kích thước) — nạp NGAY SAU data.js. */
-/* sync-bump 2026-06-14T01:30Z — buộc đẩy lại bản đủ (web từng về demo do bản GitHub lệch) */
+/* sync-bump 2026-06-14T12:00Z — thêm c0341-c0350 */
 window.LIB_DATA = window.LIB_DATA || {};
 window.LIB_DATA["tien-nghich"] = window.LIB_DATA["tien-nghich"] || {};
 window.LIB_DATA["tien-nghich"].cotTruyen = {
@@ -1688,7 +1688,7 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
     {
       chuong: 336,
       tieuDe: "Khai Chiến Hồng Điệp — Kiếm Quang Khai Thiên Phá Vây",
-      tomTat: "VL và Hồng Điệp chính thức khai chiến trong không gian đặc biệt. Hồng Điệp tung Băng Thần (bản mệnh pháp bảo — người băng tuyết khổng lồ 10 trượng); cánh hoa hóa thành 6 nữ tử áo đỏ vây tứ phía. VL dùng Cấm Phiên tấn công và Âm Ba Linh Giáp phòng thủ, kết hợp tiên kiếm chém kiếm quang khai thiên phá vây từng đạo nữ tử. VL rút cánh tay cụt Tư Đồ Nam ra uy hiếp — Hồng Điệp biến sắc, đây là điểm yếu của nàng. Trận chiến leo thang: Hồng Điệp bắt đầu dùng Côn Cực Tiên ẩn trong người khổng lồ đang dần lộ bóng. (@c0336)"
+      tomTat: "VL và Hồng Điệp chính thức khai chiến trong không gian đặc biệt. Hồng Điệp triệu Băng Thần (trọng bảo Tuyết Vực quốc — người băng tuyết khổng lồ hơn 10 trượng, 500 năm chế tác) đồng thời phun ra đóa hoa hồng bằng tuyết (bản mệnh pháp bảo), trích cánh hoa hóa 6 nữ tử áo đỏ vây tứ phía. VL dùng Cấm Phiên tấn công và Âm Ba Linh Giáp phòng thủ, kết hợp tiên kiếm chém kiếm quang phá vây. VL rút cánh tay cụt của Hồng Điệp (đã tế luyện chú pháp) ra uy hiếp — Hồng Điệp biến sắc. Trận chiến leo thang khi Côn Cực Tiên ẩn trong người khổng lồ dần lộ bóng. (@c0336)"
     },
     {
       chuong: 337,
@@ -1702,13 +1702,63 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
     },
     {
       chuong: 339,
-      tieuDe: "Phân Thần Biến — Tuyệt Tình 7 Tầng — Sinh Tử Luân Hồi Ý Cảnh Thắng",
-      tomTat: "Hồng Điệp triệu xuất 7 phân thân (Phân Thần Biến), mỗi phân thân chứa linh thức riêng. Cuộc chiến chuyển sang ý cảnh: Hồng Điệp thi triển Tuyệt Tình Ý Cảnh — 7 bước, mỗi bước tạo một thế giới tuyệt tình riêng chồng lên (7 tầng tuyệt tình bủa vây VL). VL bị vây chặt trong biển tuyệt tình — đỉnh công kích ý cảnh của Hồng Điệp. Khi tưởng hết đường, VL đột phá: Sinh Tử Luân Hồi Ý Cảnh thức tỉnh — xé rách bầu trời, bức tranh đen trắng (Sinh/Tử) xuất hiện bao phủ thế giới tuyệt tình, 7 tầng lần lượt tan rã. Tuyệt tình ý cảnh hoàn toàn tan biến — VL thắng ý chiến. Hồng Điệp ngã quỵ; VL xuất linh lực giúp HLQ hồi phục. (@c0339)"
+      tieuDe: "Phân Thần Biến — Tuyệt Tình Ý Cảnh — Sinh Tử Luân Hồi Ý Cảnh Thắng",
+      tomTat: "Hồng Điệp dùng Phân Thần Biến — nguyên thần phân đôi, một nửa nhập nhị hoa tạo phân thân (chứa tích lũy cảm ngộ thiên đạo + tuyệt tình ý cảnh), hy sinh cơ hội Anh Biến trong thời gian ngắn. Phân thân thi triển Tuyệt Tình Ý Cảnh — lần lượt triển khai dẫn tình, thân tình, tình yêu, hận ý, cảm ngộ, tuệ kiếm, tuyệt tình (nhân ảnh Lý Mộ Uyển, Đằng Hóa Nguyên, Tằng Đại Ngưu lần lượt hiện ra bị chém). VL triển khai Sinh Tử Luân Hồi Ý Cảnh phản chế — xé rách bầu trời, bức tranh sơn thủy đen trắng xuất hiện, bụi khí đen trắng hóa ngón tay khổng lồ chặn phân thân. Phân thân than 'Đáng tiếc' rồi tản ra biến mất. VL thắng ý chiến; xuất linh lực giúp Hứa Lập Quốc hồi phục. (@c0339)"
     },
     {
       chuong: 340,
       tieuDe: "VL Thắng — Rớt Hóa Thần Sơ Kỳ — Hồng Điệp Bị Kiền Phong Hạ Thủ",
-      tomTat: "VL thắng hoàn toàn Hồng Điệp — nhưng kim linh cuối cùng của người khổng lồ tự nổ, VL chịu sức nổ, tu vi tạm rớt Hóa Thần sơ kỳ (bị thương). Công Tôn Phá can thiệp khi tam linh sắp nổ — lực đạo nhu hòa từ trên trời, tuyên bố VL thắng, phong VL thành ngoại triệu đệ tử Chu Tước quốc (1 nguyện vọng). VL yêu cầu Côn Cực Tiên — Công Tôn Phá thu về. VL cắt nửa mộc linh giao Hồng Điệp — Công Tôn Phá hủy nguyện vọng (vi phạm quy tắc đoạt mộc linh). Song song: trong cấm địa phía sau Chu Tước Sơn — lão già hồng quang (lão tổ bí ẩn) ra lệnh Kiền Phong vào mật thất, điểm ngón tay vào mi tâm Hồng Điệp (phòng ngự tan vỡ hoàn toàn), đoạt tuyệt tình ý cảnh + tiên thiên tứ linh. Liễu Mi (sư muội Kiền Phong) ngồi trong Hàn Đàm cấm địa — lão già hỏi nàng về Vương Lâm. Hồng Điệp tính mạng chỉ còn 3 ngày. (@c0340)"
+      tomTat: "VL thắng Hồng Điệp nhưng bị thương nặng. VL dùng 9 tượng gỗ Tuế Nguyệt bắt kim linh + trói mộc linh, nhưng Hồng Điệp cho kim linh tự nổ — VL phun máu, tu vi rớt Hóa Thần sơ kỳ. Hồng Điệp cho tam linh cùng nổ đe dọa cùng chết — Công Tôn Phá giáng xuống can thiệp, tuyên bố VL thắng, phong ngoại triệu đệ tử Chu Tước quốc (1 nguyện vọng). VL cắt nửa mộc linh lấy tinh thể xanh giữa lúc Công Tôn Phá thu linh — bị hủy nguyện vọng. Côn Cực Tiên bị thu lại. VL nhận ngọc giản bản đồ Chu Tước Sơn, cưỡi Văn Thú rời đi. Ba ngày sau — cấm địa Chu Tước Sơn: lão tổ bí ẩn (phát hồng quang) ra lệnh Kiền Phong (nam tử tà dị, cùng sư muội Liễu Mi tu trong viêm đàm/hàn đàm) vào mật thất hạ thủ Hồng Điệp — đoạt ý cảnh + tứ linh. Lão tổ hỏi Liễu Mi về Vương Lâm. Hồng Điệp tính mạng chỉ còn 3 ngày. (@c0340)"
+    },
+    {
+      chuong: 341,
+      tieuDe: "Bị Trận Đồ Dịch Chuyển Đến Tuyết Vực",
+      tomTat: "VL cưỡi Văn Thú rời Chu Tước Sơn, bị trận đồ cực lớn hút vào — do ngoại sự trưởng lão Thiên Ngọc Tông thao túng, dịch chuyển VL đến cực bắc Tuyết Vực quốc (tuyên bố Tuyết Vực quốc nợ ân tình). Cùng lúc tại cấm địa: lão tổ cấm địa Chu Tước ra lệnh Liễu Mi dùng VL làm lò luyện — mục đích đoạt Sinh Tử Luân Hồi Ý Cảnh của VL. Sư đệ lão tổ (lão già gặm chân gà) phẫn nộ: tuyên bố VL là người lão chọn, đe dọa giết Kiền Phong nếu sư huynh giết VL. Liễu Mi rời cấm địa cùng Kiền Phong và Hồng Điệp (mắt trống rỗng — Kiền Phong đặt tên 'Tuyệt Tình'). Kiền Phong đe dọa biến Liễu Mi thành người hầu nếu không giao VL. (@c0341)"
+    },
+    {
+      chuong: 342,
+      tieuDe: "Lý Nguyên Phong Vây VL — Sất Hổ Phản Lại Lão Tổ",
+      tomTat: "Tại Tuyết Vực, lão tổ Cự Ma tộc cùng Lý Nguyên Phong (tông chủ Băng Tuyết Thần Điện, Anh Biến sơ kỳ cưỡng ép) vây bắt VL. Mục đích: đoạt Thiên Nghịch Châu + Tinh La Bàn để dâng tu chân liên minh. Sất Hổ bị lão tổ bắt tham gia vây bắt. Khi VL sắp bị giết, Sất Hổ bí mật phản lại: truyền linh lực cho VL hai lần qua đòn giả, chỉ hướng đông nam là đường sống. Tuyên bố Tinh La Bàn là tặng — VL là bằng hữu cứu mạng. Bị lão tổ Cự Ma phạt bế quan trăm năm luyện thể. VL thoát về phía đông nam. (@c0342)"
+    },
+    {
+      chuong: 343,
+      tieuDe: "Tôn Thái Đột Nhập — Cứu VL Khỏi Phong Ma Khôn Càn Trận",
+      tomTat: "Lão tổ Cự Ma tộc bố Phong Ma Khôn Càn Trận phong tỏa hoàn toàn không gian, VL không thể thuấn di hay xé không gian thoát. Lý Nguyên Phong dùng Ý Cảnh Trà Hương (đại thành Anh Biến kỳ) tiêu hao thân thể + nguyên thần VL. Tôn Thái (nô bộc nô tài, Anh Biến trung kỳ) đột nhập xuyên trận pháp bằng Lôi Chi Ý Cảnh, cứu VL ra ngoài. Giao chiến lão tổ Cự Ma + Lý Nguyên Phong. VL tên thật của tông chủ Băng Tuyết Thần Điện lộ diện: Lý Nguyên Phong. Tôn Thái nhận xét lão tổ Cự Ma 'Anh Biến kỳ cưỡng ép, thiếu ổn định'. (@c0343)"
+    },
+    {
+      chuong: 344,
+      tieuDe: "VL Bị Phong Ấn Kép — Thành Phàm Nhân",
+      tomTat: "Tôn Thái ném VL xuống rừng rậm kèm phong ấn trên trán. VL tỉnh dậy: phong ấn kép (ý cảnh trà hương Lý Nguyên Phong + phong ấn Tôn Thái) không thể phá — linh lực tụt xuống Ngưng Khí tầng 3, nguyên thần sắp tan, thực chất thành phàm nhân. Dùng Đại Thủ Ấn (búa khai thiên khổng lồ) oanh kích phong ấn thất bại. Lý Nguyên Phong sai binh lính tìm VL nhưng không có kết quả. VL lang thang trong rừng tuyết, phải đối mặt sinh tồn phàm nhân. Lần bị thương nghiêm trọng thứ hai sau Đằng Hóa Nguyên. (@c0344)"
+    },
+    {
+      chuong: 345,
+      tieuDe: "Phàm Nhân VL — Liễu Mi Bay Ngang Không Phát Hiện",
+      tomTat: "Lão tổ Cự Ma tộc dùng thiên phú thần thông tống xuất Tôn Thái khỏi Chu Tước tinh — ma đồng Tôn Thái phá hủy thân thể lão tổ (nguyên thần thoát chạy). VL trở thành phàm nhân hoàn toàn, được lang trung sơn thôn cứu sống, ở lại 1,5 tháng. Danh tiếng Tằng Ngưu vang dội Chu Tước tinh. Lão quái Chu Tước dừng bế quan, quét thần thức không tìm được VL (đoán nguyên thần tan nát), coi VL chỉ là 'lô đỉnh', ra lệnh Liễu Mi tìm VL. Liễu Mi bay một mình về phương bắc. Kiền Phong trên vách đá Chu Tước Sơn nói với 'Tuyệt Tình' (Hồng Điệp): biết còn dấu tia nguyên thần, bảo bỏ cuộc. VL rời thôn tìm linh mạch, bị 18 cường đạo bắt, đánh gãy xương. (@c0345)"
+    },
+    {
+      chuong: 346,
+      tieuDe: "Bị Hỏa Vân Trại Bắt — Vào Thủy Lao",
+      tomTat: "VL phàm nhân tiếp tục di chuyển về hướng đông nam theo lời Sất Hổ chỉ. Rơi vào tay 18 cường đạo Hỏa Vân trại — nhóm thảo khấu phàm nhân trong lãnh thổ Bì Lô quốc (ngũ cấp tu chân quốc), dùng Hỏa Vân độc. VL bị bắt nhốt vào thủy lao sâu trong sơn trại. Thủy lao có linh lực nồng đậm bất thường (có lẽ do địa lý đặc biệt) — VL nhận ra ngay đây là cơ hội. Bắt đầu hấp thu linh lực từ thủy lao, âm thầm tu luyện lại từ đầu. (@c0346)"
+    },
+    {
+      chuong: 347,
+      tieuDe: "Đột Phá Từ Thủy Lao — Triệu Văn Thú",
+      tomTat: "VL đột phá từ thủy lao nhờ tích lũy linh lực từ nước, bay ra giết 2 tên canh, triệu Văn Thú từ túi trữ vật. Văn Thú phẫn nộ thấy chủ suy yếu: hút khô 1 cường đạo, đập chết đại hán mặt sẹo (Mã lão tứ). Hơn 200 người sơn trại khiếp sợ bị VL khống chế suốt 2 tháng. Ra lệnh đào thủy lao lên thành hồ. Bế quan bên hồ 2 tháng: thương thế hồi phục hoàn toàn nhưng phong ấn chưa phá, tu vi chỉ Ngưng Khí tầng 2. Lặn xuống đáy hồ phát hiện trận đồ hình tròn + 3 cực phẩm linh thạch + vật bí ẩn trong trận pháp. (@c0347)"
+    },
+    {
+      chuong: 348,
+      tieuDe: "Bức Tranh Hút Hài Cốt — Phá Phong Ấn Bằng Tiên Ngọc",
+      tomTat: "VL phát hiện dưới đáy hồ (thủy lao cũ) hài cốt nữ tử bị trận pháp phong ấn bằng 3 cực phẩm linh thạch + đinh đen. Bức tranh bí ẩn trong túi trữ vật tự bay ra hút quầng sáng tím từ hài cốt — hài cốt vỡ thành bụi, tranh có thêm ấn ký tím. Bế quan 3 tháng dùng cực phẩm linh thạch thổ nạp, tu vi khôi phục Ngưng Khí tầng 6. Nuốt tiên ngọc (dĩ độc công độc) oanh kích phong ấn — phá được 1/10 vết sẹo, phong ấn xuất hiện lỗ thủng. (@c0348)"
+    },
+    {
+      chuong: 349,
+      tieuDe: "Trúc Cơ Sơ Kỳ — Gia Nhập Luyện Hồn Tông",
+      tomTat: "Sau 3 ngày tĩnh tọa giữa tuyết, VL khôi phục Trúc Cơ sơ kỳ — phong ấn lơi lỏng, dùng được pháp bảo + Văn Thú. Cưỡi Văn Thú bay 7 ngày tới Luyện Hồn Tông (Bì Lô quốc, ngũ cấp tu chân quốc). Bị hộ sơn đại trận chặn, gặp Hồng Mao Tử (hồng phát lão giả, Kết Đan sơ kỳ). Dùng kinh nghiệm mấy trăm năm bịa chuyện + hối lộ phi kiếm quý — Hồng Mao Tử phá lệ dẫn vào. Thường Đại Vĩ nhận VL làm ngoại vi đệ tử. (@c0349)"
+    },
+    {
+      chuong: 350,
+      tieuDe: "Trúc Cơ Trung Kỳ Đỉnh Phong — Liễu Mi Phát Hiện VL",
+      tomTat: "VL (xưng Thanh Mộc) thuê động phủ Luyện Hồn Tông, dùng cực phẩm linh thạch + cấm chế tạo hộp kín thổ nạp — sau 1 tháng đạt Trúc Cơ trung kỳ đỉnh phong. Đổi sang động phủ 803 (tụ linh trận + ngụy linh nhãn). Ngày tất niên nhớ Chu Như và Tiểu Bạch. Liễu Mi dùng ngọc giản Chu Tước lão tổ cho xác nhận VL đang ở trong Luyện Hồn Tông. Phía đông: lão tổ Cự Ma tộc (nguyên thần) thoát ma đồng nhờ cấm chế bắc cực, đoạt xá tộc nhân, bế quan — đoạt được phi kiếm chứa HLQ. HLQ phục tùng giả, trong lòng vẫn trung thành VL. (@c0350)"
     }
   ]
 };
