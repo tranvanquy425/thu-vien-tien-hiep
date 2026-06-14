@@ -1,5 +1,5 @@
 /* cotTruyen TÁCH KHỎI data.js (giảm kích thước) — nạp NGAY SAU data.js. */
-/* sync-bump 2026-06-14T18:20Z — sua loi cu phap: nhay kep thang long trong tomTat c268/c269 → nhay cong */
+/* sync-bump 2026-06-14T21:40Z — sua loi cu phap: nhay kep thang long trong tomTat c366 ("Bi1n!"/"chang kem...") → nhay cong; mo khoa C361-370 len web */
 window.LIB_DATA = window.LIB_DATA || {};
 window.LIB_DATA["tien-nghich"] = window.LIB_DATA["tien-nghich"] || {};
 window.LIB_DATA["tien-nghich"].cotTruyen = {
@@ -1809,6 +1809,56 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 360,
       tieuDe: "Chủ Hồn Kim Lân — Thu Vạn Hồn Phiên",
       tomTat: "VL tĩnh tọa trong linh mạch khôi phục nguyên thần, vết sẹo chỉ còn 2 khối. Ngô Đạo Khải (đại trưởng lão Luyện Hồn Phong, thiếu ý cảnh là Hóa Thần) lần 3 cố luyện hóa Kim sắc Hồn Phiên: dùng Vạn Hồn Phiên (chủ hồn Nguyên Anh hậu kỳ + 10 phó hồn) + Vạn hồn phệ + Huyết tế chiến Kỳ Lân phó hồn; mượn Thần Phiên Linh (trọng bảo Toả Thần phong, chuông gỗ hóa yêu thú) trói 2 con; con thứ 3 xuất hiện sắp bỏ cuộc. VL phóng thần thức khổng lồ (mạnh hơn lão tổ Hóa Thần gấp mấy lần) — Ngô Đạo Khải quỳ 'tham kiến lão tổ'. VL đập vỡ Kỳ Lân, điểm Ngô Đạo Khải hôn mê, thu Vạn Hồn Phiên + Thần Phiên Linh. Chủ hồn thật sự xuất hiện từ Kim sắc Hồn Phiên — ngưng tụ thành Kỳ Lân khổng lồ toàn thân kim mang như thật thể — đối mặt VL. (@c0360)"
+    },
+    {
+      chuong: 361,
+      tieuDe: "Thu Kỳ Lân Hồn Phiên",
+      tomTat: "VL đối mặt Kỳ Lân chủ hồn ngưng tụ từ Kim sắc Hồn Phiên — dùng Hồn Tuyền cuốn hút, Khu Thú Quyển đánh tan phòng thủ, cuối cùng thu được hồn phiên màu vàng. Đây là lần đầu VL sở hữu hồn phiên thật sự. Trong lúc giao tranh, một vòng sáng đỏ bí ẩn bảo vệ VL khỏi bị điều tra — thực thể đứng sau vòng sáng đó chính là Độn Thiên (tu vi Anh Biến kỳ) đang theo dõi từ xa. (@c0361)"
+    },
+    {
+      chuong: 362,
+      tieuDe: "Tiểu Hữu!",
+      tomTat: "VL đổi 300 tử hồn lấy ngọc giản Trừu Phách từ Tô Kim Thế (đệ tử tu vi cao nhất Trừu Phách phong) — ngọc giản chứa 3 thần thông: Định Thần, Dẫn Hồn, Tự Cổ. Liễu Mi lặng lẽ quan sát từ xa. VL ra tay trước khi đổi xong: dùng Thập Vạn kim sắc hồn phiên hóa thành mưa hồn tấn công 9 tu sĩ Hóa Thần truy đuổi. Giữa lúc hỗn loạn, Độn Thiên xuất hiện trực tiếp, nói với VL: 'Chờ ngươi đã lâu.' (@c0362)"
+    },
+    {
+      chuong: 363,
+      tieuDe: "Ba Phần Đại Lễ",
+      tomTat: "Độn Thiên (Thủy tổ Luyện Hồn Tông, Anh Biến hậu kỳ) tặng VL ba lễ vật: (1) xua đuổi Liễu Mi ra khỏi khu vực; (2) dùng tiên lực tích tụ 200 năm chữa lành vết thương nguyên thần VL; (3) dùng Thập Ức Hồn Phiên bơm thêm năng lượng, đẩy tu vi VL từ Hóa Thần trung kỳ lên Hóa Thần hậu kỳ. Độn Thiên tiết lộ muốn VL kế thừa hồn phiên và sự nghiệp Luyện Hồn Tông. (@c0363)"
+    },
+    {
+      chuong: 364,
+      tieuDe: "Vân Tước",
+      tomTat: "Phân thân VL (đang bế quan trong kén tại Sở Quốc) nhận được năng lượng từ Thập Ức Hồn Phiên qua liên kết bổn tôn — đột phá lên Hóa Thần hậu kỳ. Độn Thiên tiết lộ: lão đầu bỉ ổi mà VL từng gặp chính là Vân Tước (sư đệ Chu Tước — Đệ nhất nhân Chu Tước tinh); VL là 1 trong 4 người Chu Tước lựa chọn kế thừa. Lịch sử Luyện Hồn Tông và mối liên hệ với Chu Tước được hé lộ. (@c0364)"
+    },
+    {
+      chuong: 365,
+      tieuDe: "Lục Cấp Tu Chân Quốc",
+      tomTat: "Độn Thiên chính thức thu VL làm đệ tử trung tâm duy nhất Luyện Hồn Tông — tiết lộ Luyện Hồn Tông có 36 tu sĩ Anh Biến từ xưa đến nay (hồn phách đều trong hồn phiên); sư huynh lão (người thứ 36, có ý cảnh Dự Tri) vừa mất 2 năm trước — bí mật ngay cả Chu Tước quốc không biết. Lão hứa sẽ giao Thập Ức Hồn Phiên khi tuổi thọ hết (còn 10 năm), trao ngọc giản Tỏa Thần — pháp thuật quan trọng nhất tông. VL về sơn cốc Sở Quốc gặp Chu Như và Thiết Nham (tu vi gần Hóa Thần), chỉ điểm Thiết Nham đi kinh thành cảm ngộ nhân sinh 3 năm. Bổn tôn phá kén, dung hợp phân thân — 3 điểm tím tam tinh Cổ Thần xuất hiện trên mi tâm; VL tuyên chiến Lý Nguyên Phong, lão tổ Cự Ma tộc và Tôn Thái. (@c0365)"
+    },
+    {
+      chuong: 366,
+      tieuDe: "Nhất Tự Ra Oai",
+      tomTat: "VL nạp tinh thể Mộc linh vào Nghịch Thiên châu — Mộc hành viên mãn, chỉ còn thiếu Kim linh. Tới Tuyết Vực quốc (ngũ cấp), đột nhập Băng Tuyết thần điện gọi Lý Nguyên Phong: một quyền đập chết tu sĩ Hóa Thần trung kỳ (cả Nguyên Thần bị đánh nát), đấm vỡ 8 tảng băng phòng hộ của Lý Nguyên Phong. Khi 17 tu sĩ Hóa Thần kéo tới ứng cứu, VL thốt một chữ “Biến!” — Cổ Thần lần đầu toàn lực rống lên, vết nứt không gian xuất hiện, mặt đất xé rách, toàn bộ 17 Hóa Thần phun máu lui lại. Lý Nguyên Phong lần đầu chính thức coi VL là đối thủ, nhận xét: “chẳng kém gì tu sĩ Anh Biến kỳ.” (@c0366)"
+    },
+    {
+      chuong: 367,
+      tieuDe: "Anh Biến Kỳ Và Vương Lâm Chân Chính",
+      tomTat: "VL và Lý Nguyên Phong (Anh Biến sơ kỳ) giao chiến toàn lực: bổn tôn + phân thân hợp lực, tam tinh Cổ Thần + ý cảnh Sinh Tử đối đầu Ý cảnh Trà Ngân của Lý Nguyên Phong. Lý Nguyên Phong xác nhận ý cảnh VL đã đạt cảnh giới Anh Biến — thừa nhận VL không thua kém Anh Biến kỳ thật sự. Sau trận, Độn Thiên gặp VL, cũng xác nhận ý cảnh của VL, rồi trao ngọc giản trận pháp định vị trước khi vào bế quan. (@c0367)"
+    },
+    {
+      chuong: 368,
+      tieuDe: "Người Có Thiên Tư Cao Nhất Chu Tước Tinh",
+      tomTat: "VL dùng thần thông Trừu Phách hạ gục và giết Lý Nguyên Phong; sau đó phong bế toàn bộ Hóa Thần Tuyết Vực quốc — quốc gia bị hạ từ ngũ cấp xuống tam cấp. Tại cấm địa Chu Tước Sơn: Sất Hổ nhận mũ cỏ từ lão đầu bỉ ổi (Vân Tước) rồi lên đường gặp Liễu Mi thử Vô Tình đạo; Kiền Phong bóp vỡ ngọc giản, khinh thường VL (“giết Lý Nguyên Phong chẳng có gì”), thách VL phải giết lão tổ Cự Ma tộc mới đủ tư cách làm đối thủ; Hồng Điệp (nay gọi là Tuyệt Tình) đứng bên Kiền Phong mắt trống rỗng vô thần. Lão đầu bỉ ổi tiết lộ: Kiền Phong là người thiên tư cao nhất Chu Tước tinh và còn 12 năm tự phạt mới xong. (@c0368)"
+    },
+    {
+      chuong: 369,
+      tieuDe: "Thập Ức Tôn Hồn Phiên",
+      tomTat: "VL đưa đôi tay đứt lìa của Tư Đồ Nam vào không gian Nghịch Thiên để bảo quản, hứa sẽ đưa trả. Lên Luyện Hồn Tông: Âu Dương Thiên (Hóa Thần, ở tông 700 năm) đón tiếp VL với tư cách 'Thiếu tông chủ'. VL nhận túi trữ vật Độn Thiên để lại — bên trong có ngọc giản và bản sao Thập Ức Tôn Hồn Phiên (chỉ 1/3 uy lực, dùng được 2 lần). Bắt đầu tế luyện hồn phiên với Tỏa Thần pháp theo ngọc giản đã nhận. (@c0369)"
+    },
+    {
+      chuong: 370,
+      tieuDe: "Cự Ma Tộc",
+      tomTat: "VL hoàn thành tế luyện Thập Ức Hồn Phiên — 12 hồn phách tử kim quy phục; Độn Thiên trong bế quan thở dài khi cảm nhận VL rời đi. VL bố trí trận pháp định vị tại sơn cốc bí ẩn biên giới Cự Ma tộc (mất 3 tháng) để đối phó thiên phú thần thông của Cự Ma tộc. Sất Hổ (cung điện thứ 3, Cự Ma Thiên) mặt tái nhợt, đau khổ phân vân: lão tổ dù sai vẫn là hy vọng cả tộc, nhưng Tằng Ngưu lại là bằng hữu — không tìm ra đáp án. VL dùng danh nghĩa 'Tằng Ngưu' tiến vào Cự Ma tộc; trưởng lão tóc bạc phát lệnh bài huy động toàn tộc; VL triển khai bức tranh Sinh Tử luân hồi + hư ảnh Cổ Thần phong ấn hàng loạt tộc nhân. Sất Hổ từ xa cất tiếng hét 'Tằng Ngưu, dừng tay!' — VL ngẩng đầu nhận ra, vẻ lạnh lẽo trên mặt hơi giảm. (@c0370)"
     }
   ]
 };
