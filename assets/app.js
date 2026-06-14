@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-11T18:10Z — deep-link mở drawer theo param (char/place/realm/artifact/tech) + Map zoom/pan */
+/* sync-bump 2026-06-14T21:50Z — Nhân mạch: bộ lọc tuyến + link tên→thẻ nhân vật kia (2 chiều). Deep-link + Map zoom/pan giữ. */
 /* ===================== Thư Viện Tiên Hiệp — app trang bộ ===================== */
 (function () {
   "use strict";
@@ -324,18 +324,47 @@
           '">Quyển ' + esc(String(q.so)) + ': ' + esc(q.ten) + ' (' + esc(qRange(q)) + ')</option>').join("") +
         '</select></div>'
       : '';
-    const RTAG = { "cha-me": "Cha/Mẹ", "ban-be": "Bạn bè", "dong-minh": "Đồng minh", "doi-thu": "Đối thủ", "ho-hang": "Họ hàng", "an-nhan": "Ân nhân", "su-mon": "Sư môn", "the-thiep": "Thê thiếp", "khac": "Khác" };
+    const RTAG = { "cha-me": "Cha/Mẹ", "ban-be": "Bạn bè", "dong-minh": "Đồng minh", "doi-thu": "Đối thủ", "ho-hang": "Họ hàng", "an-nhan": "Ân nhân", "su-mon": "Sư môn", "the-thiep": "Thê thiếp", "cap-tren": "Cấp trên", "dong-hanh": "Đồng hành", "giao-pho": "Giao phó", "the-luc": "Thế lực", "xa-la": "Xa lạ", "khac": "Khác" };
+    // Gom tag -> TUYẾN lọc (đầu mục Nhân Mạch). Tag lạ rơi vào "khac".
+    const TUYEN = { "cha-me": "than", "ho-hang": "than", "the-thiep": "than", "ban-be": "ban", "dong-minh": "dongminh", "dong-hanh": "dongminh", "doi-thu": "thu", "su-mon": "sumon", "cap-tren": "sumon", "an-nhan": "annhan" };
+    const TUYEN_LBL = { than: "Người thân", ban: "Bạn bè", dongminh: "Đồng minh", thu: "Đối thủ/Kẻ thù", sumon: "Sư môn", annhan: "Ân nhân", khac: "Khác" };
+    const tuyenCua = tag => TUYEN[tag] || "khac";
+    // tra slug thẻ khác từ tên (để link mở thẻ) — dùng DB.chars (name + aliases)
+    const _nmSlug = ten => {
+      if (!ten) return null;
+      for (const x of (DB.chars || [])) {
+        if (x.id === c.id) continue;
+        if (x.name === ten || (x.aliases || []).includes(ten)) return x.id;
+      }
+      return null;
+    };
     const nmArr = _sortChrono(t.nhanMach || []);
     const nmCompact = nmArr.length > 6;   // nhiều quan hệ (vd nhân vật chính) -> bấm-mở
+    // đếm tuyến có mặt -> dựng thanh lọc
+    const tuyenCount = {};
+    nmArr.forEach(n => { const tu = tuyenCua(n.tag); tuyenCount[tu] = (tuyenCount[tu] || 0) + 1; });
+    const tuyenBar = (Object.keys(tuyenCount).length > 1)
+      ? '<div class="nm-filter"><button class="nmf active" data-nmf="">Tất cả (' + nmArr.length + ')</button>' +
+        Object.keys(TUYEN_LBL).filter(tu => tuyenCount[tu]).map(tu =>
+          '<button class="nmf" data-nmf="' + tu + '">' + TUYEN_LBL[tu] + ' (' + tuyenCount[tu] + ')</button>').join("") +
+        '</div>'
+      : '';
     const nm = nmArr.map(n => {
-      const hd = '<b class="ix-ten">' + esc(n.ten) + '</b>' +
+      const tu = tuyenCua(n.tag);
+      const sB = _nmSlug(n.ten);
+      const tenHtml = sB
+        ? '<a class="ix-ten nm-link" href="#nhan-vat" data-gochar="' + esc(sB) + '">' + esc(n.ten) + '</a>'
+        : '<b class="ix-ten">' + esc(n.ten) + '</b>';
+      const hd = tenHtml +
         (n.tag ? '<span class="rtag ' + esc(n.tag) + '">' + esc(RTAG[n.tag] || n.tag) + '</span>' : '') +
         (n.quanHe ? '<span class="chip">' + esc(n.quanHe) + '</span>' : '');
       const bd = '<div class="ev-text">' + esc(stripNeo(n.ghiChu || "")) + '</div>';
-      return nmCompact
+      const inner = nmCompact
         ? '<details class="itx"><summary>' + hd + '</summary>' + bd + '</details>'
         : '<div class="ev"><div class="ev-head">' + hd + '</div>' + bd + '</div>';
+      return '<div class="nm-item" data-tuyen="' + tu + '">' + inner + '</div>';
     }).join("");
+    const nmHtml = tuyenBar + '<div class="nm-list">' + nm + '</div>';
     // Tiểu sử: prose + điểm nổi bật (có neo) — theo khuôn web cũ
     const diem = (t.diem || []).map(d => '<div class="ev minor"><div class="ev-text">' + esc(d.text || "") +
       (d.chuong ? ' <a class="neo" href="#doc" data-goch="' + String(d.chuong).replace(/[^0-9]/g, "") + '">' + esc(d.chuong) + '</a>' : '') + '</div></div>').join("");
@@ -427,7 +456,7 @@
       ["Tiểu sử", tieuSuPane],
       ["Kinh lịch", kl ? klFilter + '<div class="timeline" id="klTimeline">' + kl + '</div>' : '<div class="empty">Chưa có sự kiện.</div>'],
       ["Tu vi", tuViPane],
-      ["Nhân mạch", nm ? '<div class="timeline">' + nm + '</div>' : '<div class="empty">—</div>'],
+      ["Nhân mạch", nm ? '<div class="timeline nm-wrap">' + nmHtml + '</div>' : '<div class="empty">—</div>'],
       ["Túi đồ", bagHtml || '<div class="empty">Trống.</div>']
     ];
     const head = '<div class="kv">' +
@@ -457,6 +486,18 @@
       const q = klSel.value;
       $("#dBody").querySelectorAll("#klTimeline .ev").forEach(d => { d.style.display = (!q || d.dataset.q === q) ? "" : "none"; });
     };
+    // bộ lọc Nhân mạch theo TUYẾN
+    $("#dBody").querySelectorAll(".nm-filter .nmf").forEach(b => b.onclick = () => {
+      $("#dBody").querySelectorAll(".nm-filter .nmf").forEach(x => x.classList.remove("active"));
+      b.classList.add("active");
+      const tu = b.dataset.nmf;
+      $("#dBody").querySelectorAll(".nm-list .nm-item").forEach(it => { it.style.display = (!tu || it.dataset.tuyen === tu) ? "" : "none"; });
+    };
+    // click tên trong Nhân mạch -> mở thẻ nhân vật kia
+    $("#dBody").querySelectorAll(".nm-link[data-gochar]").forEach(a => a.onclick = (ev) => {
+      ev.preventDefault();
+      openChar(a.getAttribute("data-gochar"));
+    });
   }
 
   /* --- 4. Map --- */
