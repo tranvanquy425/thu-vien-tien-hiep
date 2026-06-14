@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-14",
-  "count": 162,
+  "count": 166,
   "chars": [
    {
     "id": "vuong-lam",
@@ -675,11 +675,11 @@ window.LIB_DATA["tien-nghich"]={
       "trangThai": "hien-tai"
      },
      {
-      "ten": "Luyện Hồn Tông (ngoại vi đệ tử, danh Thanh Mộc)",
+      "ten": "Luyện Hồn Tông (đệ tử trung tâm duy nhất, danh Thanh Mộc)",
       "trangThai": "hien-tai"
      }
     ],
-    "canhGioiCaoNhat": "Hóa Thần trung kỳ (đạt @c0334, gặp bình cảnh); tụt về phàm nhân do phong ấn kép (ý cảnh Lý Nguyên Phong + phong ấn Tôn Thái) @c0344-345; khôi phục dần: Ngưng Khí tầng 2 @c0347, tầng 6 @c0348, Trúc Cơ sơ kỳ @c0349, Trúc Cơ trung kỳ đỉnh phong @c0350; gia nhập Luyện Hồn Tông (danh Thanh Mộc) @c0350",
+    "canhGioiCaoNhat": "Hóa Thần trung kỳ (đạt @c0334, gặp bình cảnh); tụt về phàm nhân do phong ấn kép (ý cảnh Lý Nguyên Phong + phong ấn Tôn Thái) @c0344-345; khôi phục dần: Ngưng Khí tầng 2 @c0347, tầng 6 @c0348, Trúc Cơ sơ kỳ @c0349, Trúc Cơ trung kỳ đỉnh phong @c0350, Trúc Cơ hậu kỳ đại viên mãn @c0351, Nguyên Anh trung kỳ đỉnh @c0352, Nguyên Anh hậu kỳ địa viên mãn @c0353; thực chất Hóa Thần kỳ (không ý cảnh) @c0359-360; phong ấn Tôn Thái còn 2 vết sẹo @c0360; nguyên thần khôi phục hoàn toàn, tu vi khôi phục Hóa Thần trung kỳ (tinh tiến hơn trước) @c0363; nâng lên Hóa Thần hậu kỳ nhờ Thập Ức Hồn Phiên @c0364; bổn tôn phá kén dung hợp phân thân @c0365; ý cảnh đạt cấp Anh Biến (Lý Nguyên Phong xác nhận) @c0367",
     "trangThai": "song",
     "vaiTro": "Nhân vật chính",
     "tinhCach": [
@@ -1874,6 +1874,126 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "normal",
        "tieuDe": "Trúc Cơ trung kỳ đỉnh phong — động phủ số 803",
        "text": "Xưng danh Thanh Mộc, thuê động phủ ngoại vi (2 khối trung phẩm linh thạch/năm). Dùng cấm chế + 3 cực phẩm linh thạch tạo hộp kín thổ nạp — sau 1 tháng đạt Trúc Cơ trung kỳ đỉnh phong. Đổi sang động phủ 803 (có tụ linh trận + ngụy linh nhãn). Ngày tất niên nhớ Chu Như và Tiểu Bạch. Liễu Mi xác nhận VL ở trong tông môn qua ngọc giản Chu Tước lão tổ. (@c0350)"
+      },
+      {
+       "chuong": "@c0351",
+       "importance": "major",
+       "tieuDe": "Trúc Cơ hậu kỳ đại viên mãn — phá ngụy linh nhãn, hấp thu khôn tinh nham",
+       "text": "Bế quan 2 tháng trong động phủ 803 đạt Trúc Cơ hậu kỳ. Dùng tàn ảnh cấm chế (phương pháp độc môn tự sáng tạo) phá trận pháp ngụy linh nhãn, lấy khôn tinh nham (linh thạch đỏ hấp thu linh lực cực mạnh). Trực tiếp hấp thu khôn tinh nham — vết sẹo trên mặt phai bớt lần đầu, đạt Trúc Cơ hậu kỳ đại viên mãn. Nhận ra ngụy linh nhãn không đủ — cần linh nhãn chân chính để Kết Đan. Ra khỏi động phủ gặp nữ tử bí ẩn (lam y, lụa trắng). (@c0351)"
+      },
+      {
+       "chuong": "@c0352",
+       "importance": "major",
+       "tieuDe": "Nguyên Anh trung kỳ đỉnh — khôi phục tu vi điên cuồng trong 10 hơi thở",
+       "text": "Giết nam tử trung niên quản sự Kết Đan sơ kỳ (Lưu Phúc Lâm) dùng Cấm Phiên; nuốt kim đan đối phương. Xâm nhập động phủ 743, đào thông đạo 30 trượng tới linh mạch núi. Dùng 5 khối cực phẩm linh thạch kích hoạt linh uy — trong 10 hơi thở nguyên thần sơ bộ thu lại, tu vi khôi phục điên cuồng từ Trúc Cơ hậu kỳ đại viên mãn → Kết Đan → Nguyên Anh sơ kỳ → Nguyên Anh trung kỳ đỉnh. Hút cạn toàn bộ linh mạch ngọn núi Luyện Hồn Tông ngoại vi (biến phế mạch). (@c0352)"
+      },
+      {
+       "chuong": "@c0353",
+       "importance": "major",
+       "tieuDe": "Nguyên Anh hậu kỳ địa viên mãn — nuốt tiên ngọc, phong ấn còn 8 vết sẹo",
+       "text": "Vượt qua kiểm tra mi tâm (đọc ký ức) của tam sư huynh Luyện Hồn Tông nhờ cấm chế trên nguyên thần. Được phân động phủ mới trên ngọn núi bên cạnh. Nuốt tiên ngọc (thiếu một góc) → đau đớn kinh người → tu vi từ Nguyên Anh trung kỳ đạt Nguyên Anh hậu kỳ địa viên mãn; phong ấn Tôn Thái thu lại còn 8 vết sẹo hình lá trà. Cảm ngộ sinh tử ý cảnh: 3 cấp Hóa Thần. Kế hoạch: thắng đại hội vào nội môn → hấp thu chủ mạch khôi phục hoàn toàn tu vi. (@c0353)"
+      },
+      {
+       "chuong": "@c0354",
+       "importance": "major",
+       "tieuDe": "Gặp Liễu Mi — Đại hội Luyện Hồn Tông khai mạc",
+       "text": "Gặp Liễu Mi, nhận ra nàng là người Chu Tước quốc qua chiếc vòng giống hệt trên tay Hồng Điệp. Cảm nhận tử khí trong Chu Tước quốc, nhận định sắp mạt vận. Cố định tu vi bề ngoài ở Kết Đan trung kỳ tham gia đại hội hơn 1 vạn ngoại vi đệ tử — quy tắc không kể sinh tử; chết năm phần số đệ tử. VL hạ đối thủ Trúc Cơ hậu kỳ dễ dàng, không giết. (@c0354)"
+      },
+      {
+       "chuong": "@c0355",
+       "importance": "major",
+       "tieuDe": "Chung kết vs Tư Mã — cảm thụ Tử Chú thuật, thắng vào nội môn",
+       "text": "Lọt top 4 đại hội cùng lão giả Tư Mã (Tử Chú thuật), thiếu niên trực giác dã thú, mãng hán động phủ 743. Mãng hán lập tức nhận thua vì cơ thể có cấm chế VL đặt. Chung kết vs Tư Mã: VL đứng yên cảm thụ Tử Chú thuật bằng một ý niệm cô đọng; nhìn thấu căn nguyên thần thông này so với Cực Cảnh — uy lực yếu hơn rất nhiều. (@c0355–@c0356)"
+      },
+      {
+       "chuong": "@c0356",
+       "importance": "normal",
+       "tieuDe": "Vào nội môn Luyện Hồn Tông — nghe lén cấu trúc 3 phong + Tàng Kinh Các",
+       "text": "Thắng chung kết, Vương Chấn dẫn vào nội môn. Biết cấu trúc: 3 phong (Luyện Hồn/Trừu Phách/Toả Thần), Cửu Kim hoàn (9 Hóa Thần bế quan), 2 Huyết hoàn (2 Thủy Tổ Anh Biến — gồm Độn Thiên Thủy Tổ). Giả tu vi Kết Đan đại viên mãn qua mặt Đại trưởng lão Luyện Hồn Phong. Nghe lén: chỉ 3 Nguyên Anh thủ hộ tông, Hóa Thần đều bế quan. Vào Tàng Kinh Các 3 tầng chọn công pháp. (@c0356)"
+      },
+      {
+       "chuong": "@c0357",
+       "importance": "major",
+       "tieuDe": "Đoạt Hồn Phiên một kim tuyến — ngọc giản chế tác chỉ 1/3",
+       "text": "Dùng tàn ảnh cấm chế phá động phủ kẻ sở hữu Hồn Phiên kim tuyến; trảo cách không đoạt Hồn Phiên một kim tuyến (mấy trăm hồn phách có thể trưởng thành). Lau thần thức đối phương, dung nhập. Phát hiện ngọc giản đen chỉ chứa 1/3 phương pháp chế tác — toàn bộ chia 3 phần tương ứng 3 đại phong: Luyện Hồn, Trừu Phách, Toả Thần. Hứa Vân và Lưu Vi theo sau VL. (@c0357)"
+      },
+      {
+       "chuong": "@c0358",
+       "importance": "normal",
+       "tieuDe": "Phát hiện thượng cổ hồn cấm + kim sắc tiểu kỳ; thi triển Thiên Hồn Phiên Huyễn Ảnh",
+       "text": "Khoét động phủ dưới chân Luyện Hồn Phong, phát hiện thượng cổ hồn cấm (loại cấm chế hiếm nhất — bản thân là hồn phách sống) bảo vệ kim sắc tiểu kỳ sâu trong linh mạch. Tàn ảnh cấm chế tấn công — bị phản kích công kích linh hồn, nguyên thần đau đớn; hồn cấm ngưng tụ thành yêu thú hai sừng. Bước ra ngoài thi triển Thiên Hồn Phiên Huyễn Ảnh (hắc khí ngưng thành đầu lâu khổng lồ sau lưng), buộc Quách Đông Kiện (Nguyên Anh sơ kỳ) giao Hồn Phiên hai kim tuyến. (@c0358)"
+      },
+      {
+       "chuong": "@c0359",
+       "importance": "major",
+       "tieuDe": "Hồn Tuyền + đột phá Nguyên Anh; Liễu Mi cảnh báo rời Chu Tước tinh",
+       "text": "Sau 3 tháng bế quan tu Luyện Hồn Thuật, luyện ra Hồn Tuyền (lốc xoáy hút hồn phách) — người thứ ba trong đệ tử Luyện Hồn Phong đạt được. Tu vi đột phá Nguyên Anh (chờ nguyên thần hồi phục sẽ lại Hóa Thần). Vết sẹo phong ấn chỉ còn 3 khối. Liễu Mi xuất hiện từ linh mạch, cảnh báo: sư phụ nàng là Chu Tước Tử (đệ nhất nhân Chu Tước tinh), Hồng Điệp đã bị sư huynh nàng giết. VL ngộ ra Liễu Mi tu Thiên huyễn vô tình đạo — bề ngoài hữu tình là vỏ bọc. (@c0359)"
+      },
+      {
+       "chuong": "@c0360",
+       "importance": "major",
+       "tieuDe": "Đánh phó hồn Kỳ Lân; thu Vạn Hồn Phiên + Thần Phiên Linh của Ngô Đạo Khải; chủ hồn thật xuất hiện",
+       "text": "Tĩnh tọa nơi linh mạch mượn linh áp khôi phục nguyên thần; vết sẹo còn 2 khối. Phóng thần thức (mạnh hơn Hóa Thần kỳ gấp mấy lần) khiến Đại trưởng lão Ngô Đạo Khải (thiếu ý cảnh = Hóa Thần) quỳ xưng lão tổ. Dùng bàn tay hắc khí + trường thương lôi điện đen đánh tan phó hồn Kỳ Lân; điểm hôn mê Ngô Đạo Khải, thu Vạn Hồn Phiên (chủ hồn Nguyên Anh hậu kỳ + 10 phó hồn) + Thần Phiên Linh (trọng bảo Toả Thần phong). Chủ hồn thật của Kim sắc Hồn Phiên xuất hiện — Kỳ Lân khổng lồ toàn thân kim mang. (@c0360)"
+      },
+      {
+       "chuong": "@c0361",
+       "importance": "major",
+       "tieuDe": "Thu Kỳ Lân tàn hồn — đoạt hồn phiên màu vàng",
+       "text": "Chiến đấu tàn hồn Kỳ Lân thú (thực lực Hóa Thần hậu kỳ đại viên mãn) trong linh mạch Luyện Hồn Phong. Dùng Thần Xa (Khu Thú Quyển) — hồn thú thiên địch Kỳ Lân — bức tàn hồn bỏ chạy. Đoạt hồn phiên màu vàng (bảo vật Kỳ Lân canh giữ), phun tinh huyết nhận chủ. Hồn phiên kích hoạt: cánh tay hắc khí xuyên đỉnh Luyện Hồn Phong gây chấn động toàn tông. Dùng hồn phiên thu Kỳ Lân tàn hồn vào bên trong. (@c0361)"
+      },
+      {
+       "chuong": "@c0362",
+       "importance": "major",
+       "tieuDe": "Đổi tử hồn lấy ngọc giản Trừu Phách — khiêu chiến Anh Biến lão quái",
+       "text": "Đổi 300 tử hồn cho Tô Kim Thế lấy ngọc giản Trừu Phách (3 thần thông: Định Thần, Dẫn Hồn, Tự Cổ). Thu thêm lá hồn phiên từ linh mạch Tỏa Thần phong. Lần đầu sử dụng Thập Vạn kim sắc hồn phiên — triệu xuất Kỳ Lân vàng + hồn phách hóa gió đen, đối đầu 9 Hóa Thần tông. Dùng Cấm Phiên trường thương phá xích sắt lão nhân thanh bào. Lão quái Anh Biến vọng ra: “Tiểu hữu! Lão phu chờ ngươi đã lâu.” (@c0362)"
+      },
+      {
+       "chuong": "@c0363",
+       "importance": "major",
+       "tieuDe": "Ba phần đại lễ — nguyên thần khôi phục, tu vi lên Hóa Thần hậu kỳ đỉnh phong",
+       "text": "Độn Thiên (Thủy tổ Anh Biến hậu kỳ, tự xưng tên) trao ba phần đại lễ: (1) xua đuổi Liễu Mi khỏi ngàn dặm Luyện Hồn Tông; (2) dùng uy áp + tiên lực Anh Biến lần đầu sau 200 năm khôi phục nguyên thần VL hoàn toàn, hai vết sẹo biến mất, phong ấn Tôn Thái tan, tu vi khôi phục Hóa Thần trung kỳ; (3) dùng Thập Ức Hồn Phiên — 10 hồn phách Anh Biến kỳ truyền linh lực nâng tu vi hướng tới Hóa Thần hậu kỳ đỉnh phong. Độn Thiên tiết lộ muốn VL thu hồn phách mình vào hồn phiên khi chết — ám chỉ kế thừa tông. (@c0363)"
+      },
+      {
+       "chuong": "@c0364",
+       "importance": "normal",
+       "tieuDe": "Phân thân đột phá Hóa Thần hậu kỳ — lịch sử Chu Tước tinh, thân phận Vân Tước tử",
+       "text": "Phân thân đột phá Hóa Thần hậu kỳ nhờ hấp thu linh lực đại lễ. Bổn tôn gọi sang cùng hấp thu — Cổ Thần quyết hút mạnh gấp bội. Bổn tôn tạo kén thủy tinh, mi tâm lộ ngôi sao. Độn Thiên tiết lộ lịch sử Chu Tước tinh: 6 tông phái gốc + đại chiến chủng tộc Phù Văn lực + Chu Tước quốc suy yếu ngăn ngũ cấp lên lục cấp. Lão tổ bỉ ổi lộ danh tính: Vân Tước tử — sư đệ Chu Tước; VL là 1 trong 4 người thừa kế Chu Tước do Vân Tước tuyển chọn. (@c0364)"
+      },
+      {
+       "chuong": "@c0365",
+       "importance": "normal",
+       "tieuDe": "Đệ tử trung tâm duy nhất Luyện Hồn Tông — bổn tôn phá kén dung hợp phân thân",
+       "text": "VL đồng ý nối nghiệp Luyện Hồn Tông. Độn Thiên giao ngọc giản Tỏa Thần (điều khiển Thập Ức Hồn Phiên) + hứa giao Hồn Phiên khi hết 10 năm tuổi thọ. VL thành đệ tử trung tâm duy nhất. Chỉ điểm Thiết Nham: đi kinh thành cảm ngộ nhân sinh, 3 năm nữa Hóa Thần. Bổn tôn phá kén xuất hiện — 3 điểm tím tam tinh Cổ Thần trên mi tâm, phân thân + bổn tôn dung hợp thành một, thiên địa biến sắc sấm mưa. Tuyên chiến 3 mục tiêu: Lý Nguyên Phong, lão tổ Cự Ma tộc, Tôn Thái. (@c0365)"
+      },
+      {
+       "chuong": "@c0366",
+       "importance": "major",
+       "tieuDe": "Nhất tự ra oai — một quyền giết Hóa Thần, chấn lui 17 Hóa Thần Tuyết Vực quốc",
+       "text": "Nạp Mộc linh vào Nghịch Thiên châu — Mộc hành viên mãn, chỉ còn thiếu Kim linh. Tới Tuyết Vực quốc tìm Lý Nguyên Phong. Phá sập nửa Băng Tuyết thần điện, một quyền giết một tu sĩ Hóa Thần trung kỳ (cả Nguyên Thần bị đánh nát). Thốt một chữ “Biến!” — Cổ Thần toàn lực rống lên, mây biến mất, mặt đất bị xé rách, 17 tu sĩ Hóa Thần Tuyết Vực phun máu lui lại. Lý Nguyên Phong lần đầu chính thức coi VL là đối thủ. (@c0366)"
+      },
+      {
+       "chuong": "@c0367",
+       "importance": "major",
+       "tieuDe": "Ý cảnh đạt cấp Anh Biến — hư ảnh Cổ Thần + tranh Sinh Tử hủy ý cảnh Lý Nguyên Phong",
+       "text": "Chiến đấu Lý Nguyên Phong: tam tinh Cổ Thần áp đảo cận chiến, phá nát trống nhỏ + người băng khổng lồ đối phương. Phát hiện hư ảnh Cổ Thần có thể kết hợp ý cảnh phân thân — triệu bóng người khổng lồ đầu đội trời + tranh Sinh Tử luân hồi, phóng ảo ảnh xám hủy sạch ý cảnh Trà Ngân Anh Biến kỳ. Lý Nguyên Phong xác nhận: “ý cảnh của ngươi đã đạt tới Anh Biến.” Tiên lực quả cầu băng gây nổ chấn động toàn Tuyết Vực quốc, VL bị đẩy lùi nhưng không bị thương nặng. (@c0367)"
+      },
+      {
+       "chuong": "@c0368",
+       "importance": "major",
+       "tieuDe": "Giết Lý Nguyên Phong — phong bế Tuyết Vực quốc xuống tam cấp",
+       "text": "Phá đôi chuông đồng pháp bảo cuối của Lý Nguyên Phong (từng huyễn hóa thành pháp bảo Tư Đồ Nam), dùng tốc độ Cổ Thần đuổi kịp, đánh 2 quyền. Lý Nguyên Phong định tự bạo nhưng bỏ ý vì sợ hủy Tuyết Vực quốc, đầu hàng. VL thi triển thuật Trừu Phách — rút hồn phách Anh Biến kỳ; Lý Nguyên Phong chết. Dùng bức tranh Sinh Tử luân hồi phong bế tu vi toàn bộ Hóa Thần Tuyết Vực quốc — ngũ cấp bị hạ xuống tam cấp. Danh tiếng Tằng Ngưu vang dội toàn Chu Tước tinh. (@c0368)"
+      },
+      {
+       "chuong": "@c0369",
+       "importance": "major",
+       "tieuDe": "Hai cánh tay dung nhập Nguyên Anh Tư Đồ Nam — nhận Thập Ức Tôn Hồn Phiên",
+       "text": "Mang hai cánh tay cụt vào Nghịch Thiên không gian cho Tư Đồ Nam — Nguyên Anh hồi phục từ trong suốt thành hoàn toàn rõ ràng (vẫn chưa tỉnh). Phân tích kế hoạch tấn công lão tổ Cự Ma tộc. Qua Cổ truyền tống trận tới Bì Lô quốc, tới Luyện Hồn Tông nhận 2 vật Độn Thiên để lại (qua Âu Dương Thiên): ngọc giản + Thập Ức Tôn Hồn Phiên bản sao (1/3 uy lực chủ phiên, dùng 2 lần). Bắt đầu tế luyện bằng Tỏa Thần pháp, thu phục 12 hồn phách vàng tím. (@c0369)"
+      },
+      {
+       "chuong": "@c0370",
+       "importance": "major",
+       "tieuDe": "Hoàn thành tế luyện Thập Ức Hồn Phiên — tới Cự Ma tộc thách đấu",
+       "text": "Hoàn thành tế luyện Thập Ức Hồn Phiên: 12 hồn phách tử kim (Anh Biến) + trăm Hóa Thần + vô số Nguyên Anh → cây hồn phiên hư ảo 3 trượng trong Nguyên Thần. Rời Luyện Hồn Tông tới Cự Ma tộc. Bố trí trận pháp định vị 3 tháng để đối phó thiên phú thần thông truyền tống của lão tổ. Thuấn di vào giữa tộc, tuyên bố tên Tằng Ngưu, cả tộc kinh hãi. Dùng ý cảnh Sinh Tử + hư ảnh Cổ Thần phong ấn hàng loạt; 1 quyền đánh trưởng lão tóc bạc phun máu. Sất Hổ hét dừng tay. (@c0370)"
       }
      ],
      "tuVi": "Phàm nhân xuyên suốt Ch.1–20, không thể linh khí nhập thể dù bí mật ngâm Thạch Châu (cuối Ch.20 nguyên tác ghi rõ: \"đến bây giờ vẫn như cũ không thể linh khí nhập thể\"@c0020). Từ Ch.16 trở thành đệ tử nội môn trên danh nghĩa của Tôn Đại Trụ. Đột phá Ngưng Khí tầng 1 @c0025 nhờ Mộng Cảnh thời gian gấp 10 lần; đột phá tầng 2 @c0030, sinh thần thức. Ch.31–40: đạt tầng 3 trong mộng cảnh @c0036; bị chặn ở tầng 4 (cần lĩnh ngộ đại đạo/'chặt đứt phàm trần' @c0037). Đặc dị: tầng 3 không có cực hạn — linh khí vẫn tăng khi người thường bị kẹt. Sau 4 năm hậu sơn, tổng tu luyện thực tế 27 năm (gồm mộng cảnh). Công khai lộ tầng 3 @c0038. Dẫn Lực Thuật luyện hơn 20 năm, đứng đầu Triệu quốc Tu Chân Giới @c0038. Ch.51: đạt tầng 14 Ngưng Khí (thực lực xác nhận; bề ngoài vẫn ngụy trang tầng 3). Bế quan lần 2 trên núi trọc 4 năm (@c0062–@c0064): năm thứ 2 đạt VIÊN MÃN tầng 15 Ngưng Khí; 2 năm tiếp cố đột phá Trúc Cơ nhưng thất bại; tu vi biểu lộ bên ngoài tăng từ tầng 3 → tầng 8 (tích lũy từ nhiều lần đột phá Trúc Cơ trong Mộng Cảnh). Xuất quan @c0064, đạp phi kiếm xuất môn hướng Thiên Thủy thành; đến @c0070 đang ở Đằng Gia thành, bắt đầu tế luyện phi kiếm cổ quái.",
@@ -2244,6 +2364,55 @@ window.LIB_DATA["tien-nghich"]={
        "canhGioi": "Trúc Cơ trung kỳ đỉnh phong",
        "importance": "normal",
        "text": "Sau 1 tháng thổ nạp điên cuồng tại động phủ Luyện Hồn Tông (3 cực phẩm linh thạch + cấm chế kín), tu vi nhảy từ Trúc Cơ sơ kỳ lên Trúc Cơ trung kỳ đỉnh phong. (@c0350)"
+      },
+      {
+       "chuong": "@c0351",
+       "canhGioi": "Trúc Cơ hậu kỳ đại viên mãn",
+       "importance": "normal",
+       "text": "Bế quan 2 tháng trong động phủ 803 đạt Trúc Cơ hậu kỳ, sau đó hấp thu khôn tinh nham đạt Trúc Cơ hậu kỳ đại viên mãn. (@c0351)"
+      },
+      {
+       "chuong": "@c0352",
+       "canhGioi": "Nguyên Anh trung kỳ đỉnh (khôi phục)",
+       "importance": "major",
+       "text": "Dùng 5 khối cực phẩm linh thạch + linh uy linh mạch núi Luyện Hồn Tông ép nguyên thần thu lại — trong 10 hơi thở khôi phục từ Trúc Cơ hậu kỳ đại viên mãn → Nguyên Anh trung kỳ đỉnh. Nguyên thần sơ bộ thu lại, dùng được ý cảnh. (@c0352)"
+      },
+      {
+       "chuong": "@c0353",
+       "canhGioi": "Nguyên Anh hậu kỳ địa viên mãn (khôi phục)",
+       "importance": "major",
+       "text": "Nuốt tiên ngọc (thiếu một góc) — phong ấn thu lại còn 8 vết sẹo, tu vi khôi phục Nguyên Anh hậu kỳ địa viên mãn. (@c0353)"
+      },
+      {
+       "chuong": "@c0359",
+       "canhGioi": "Đột phá Nguyên Anh (hướng Hóa Thần — không có ý cảnh)",
+       "importance": "major",
+       "text": "Sau 3 tháng bế quan tu Luyện Hồn Thuật nương áp lực linh mạch — đột phá thêm trong Nguyên Anh. Thực chất là Hóa Thần kỳ tu sĩ không có ý cảnh: thần thức mạnh hơn lão tổ Hóa Thần kỳ gấp mấy lần; phong ấn còn 3 vết sẹo. Chờ nguyên thần hoàn toàn hồi phục sẽ trở lại Hóa Thần. (@c0359–@c0360)"
+      },
+      {
+       "chuong": "@c0363",
+       "canhGioi": "Hóa Thần trung kỳ (khôi phục hoàn toàn)",
+       "importance": "major",
+       "text": "Nguyên thần khôi phục hoàn toàn nhờ tiên lực Anh Biến kỳ của Độn Thiên — hai vết sẹo biến mất, phong ấn Tôn Thái tan. Tu vi khôi phục Hóa Thần trung kỳ, tinh tiến hơn trước. (@c0363)"
+      },
+      {
+       "chuong": "@c0364",
+       "canhGioi": "Hóa Thần hậu kỳ (phân thân — đại lễ Độn Thiên)",
+       "importance": "major",
+       "text": "Phân thân đột phá Hóa Thần hậu kỳ nhờ hấp thu linh lực 10 hồn phách Anh Biến kỳ từ Thập Ức Hồn Phiên. Bổn tôn cùng hấp thu (Cổ Thần quyết hút mạnh gấp bội), tạo kén thủy tinh, mi tâm lộ ngôi sao. (@c0364)"
+      },
+      {
+       "chuong": "@c0365",
+       "canhGioi": "Dung hợp bổn tôn + phân thân — tam tinh Cổ Thần",
+       "importance": "major",
+       "buocNgoat": true,
+       "text": "Bổn tôn phá kén, dung hợp phân thân thành một — đây là Vương Lâm thực sự. Bổn tôn tu luyện thân thể (tam tinh Cổ Thần, 3 điểm tím trên mi tâm), phân thân tu luyện bên trong. Hơi thở hồng hoang tỏa ra, thiên địa biến sắc sấm mưa. (@c0365)"
+      },
+      {
+       "chuong": "@c0367",
+       "canhGioi": "Ý cảnh cấp Anh Biến (Hóa Thần hậu kỳ tu vi)",
+       "importance": "major",
+       "text": "Lý Nguyên Phong xác nhận: dù tu vi chỉ Hóa Thần hậu kỳ, ý cảnh VL đã đạt cấp Anh Biến. Hư ảnh Cổ Thần + tranh Sinh Tử luân hồi hủy sạch ý cảnh Trà Ngân Anh Biến kỳ. (@c0367)"
       }
      ],
      "nhanMach": [
@@ -3541,7 +3710,27 @@ window.LIB_DATA["tien-nghich"]={
      "@c0347",
      "@c0348",
      "@c0349",
-     "@c0350"
+     "@c0350",
+     "@c0351",
+     "@c0352",
+     "@c0353",
+     "@c0354",
+     "@c0355",
+     "@c0356",
+     "@c0357",
+     "@c0358",
+     "@c0359",
+     "@c0360",
+     "@c0361",
+     "@c0362",
+     "@c0363",
+     "@c0364",
+     "@c0365",
+     "@c0366",
+     "@c0367",
+     "@c0368",
+     "@c0369",
+     "@c0370"
     ]
    },
    {
@@ -5106,9 +5295,39 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "normal",
        "tieuDe": "Xác nhận VL ở Luyện Hồn Tông qua ngọc giản",
        "text": "Nhận được ngọc giản tín hiệu — xác nhận Vương Lâm đang ở Luyện Hồn Tông với danh 'Thanh Mộc'. Báo lại với Kiền Phong. (@c0350)"
+      },
+      {
+       "chuong": "@c0351",
+       "importance": "minor",
+       "tieuDe": "Bay qua Luyện Hồn Tông",
+       "text": "Bay qua Luyện Hồn Tông — VL thấy nhưng không nhận ra nàng. (@c0351–@c0352)"
+      },
+      {
+       "chuong": "@c0354",
+       "importance": "normal",
+       "tieuDe": "Lần đầu gặp mặt VL tại Luyện Hồn Tông — thừa nhận người Chu Tước quốc",
+       "text": "Chủ động tiếp cận VL, nhắc chuyện 500 năm trước ở Hằng Nhạc phái. Vô tình để lộ chiếc vòng (giống trên tay Hồng Điệp) — VL nhận ra nàng là người Chu Tước quốc và rời đi. Sau đó thì thào: nội tâm VL 'cứng như thép', thắc mắc đạo tâm hắn là gì. (@c0354)"
+      },
+      {
+       "chuong": "@c0359",
+       "importance": "major",
+       "tieuDe": "Cảnh báo VL rời Chu Tước tinh — tiết lộ sư phụ là Chu Tước Tử",
+       "text": "Xuất hiện từ sâu linh mạch Luyện Hồn Phong, cảnh báo: sư phụ nàng là Chu Tước Tử (đệ nhất nhân Chu Tước tinh); Hồng Điệp đã bị sư huynh nàng giết; trận VL–Hồng Điệp chỉ là 'hồi thú đấu'. Khuyên VL rời Chu Tước tinh ngay. Nội tâm: tu Thiên huyễn vô tình đạo — bề ngoài hữu tình là vỏ bọc vô tình. VL sau đó nhìn thấu bản chất nàng. (@c0359)"
+      },
+      {
+       "chuong": "@c0362",
+       "importance": "normal",
+       "tieuDe": "Đứng góc Luyện Hồn Phong nhìn VL — thất bại nhìn thấu đạo tâm",
+       "text": "Đứng ở góc Luyện Hồn Phong chăm chú nhìn VL khi hắn bay đi. Than thở: muốn lưu bóng hình trong đạo tâm VL nhưng sau nhiều ngày tiếp xúc vẫn không thể nhìn thấu đạo tâm hắn. Gọi 'Vương sư huynh'. (@c0362)"
+      },
+      {
+       "chuong": "@c0363",
+       "importance": "major",
+       "tieuDe": "Bị Độn Thiên xua đuổi — sợ Thập Ức Hồn Phiên phải rời đi",
+       "text": "Bị Độn Thiên xua đuổi khỏi phạm vi ngàn dặm Luyện Hồn Tông trong 10 tức — dọa giết bất chấp thân phận đệ tử Chu Tước. Cố nài nỉ (sợ bị sư tôn trách phạt) nhưng thấy Thập Ức Hồn Phiên thì biến sắc, cắn răng rời đi. Nét mặt đau đớn khi bay lên từ Luyện Hồn phong. (@c0363)"
       }
      ],
-     "tuVi": "Phân thân: Trúc Cơ kỳ (@c0093). Bản thể: Thiên đạo tu luyện — tu vi cao chưa rõ.",
+     "tuVi": "Phân thân: Trúc Cơ kỳ (@c0093). Bản thể: Thiên đạo tu luyện — tu vi cao hơn VL (Nguyên Anh hậu kỳ), không nhìn thấu (@c0359).",
      "tuViMoc": [
       {
        "chuong": "@c0093",
@@ -5138,7 +5357,13 @@ window.LIB_DATA["tien-nghich"]={
      "@c0341",
      "@c0345",
      "@c0346",
-     "@c0350"
+     "@c0350",
+     "@c0351",
+     "@c0352",
+     "@c0354",
+     "@c0359",
+     "@c0362",
+     "@c0363"
     ]
    },
    {
@@ -13331,6 +13556,11 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "normal",
        "tieuDe": "Dừng trên Chu Tước Sơn — còn tia nguyên thần",
        "text": "Đứng trên Chu Tước Sơn bên cạnh Kiền Phong và Liễu Mi. Kiền Phong tiết lộ biết rõ trong thân thể 'Tuyệt Tình' vẫn còn tia nguyên thần sót của Hồng Điệp chưa bị diệt, nhưng không vội xử lý. Nàng hoàn toàn không phản ứng. (@c0345)"
+      },
+      {
+       "chuong": "@c0368",
+       "importance": "bridge",
+       "text": "Đứng sau Kiền Phong tại cấm địa Chu Tước Sơn, mắt trống rỗng vô thần. Kiền Phong hỏi nàng (giờ gọi là Tuyệt Tình) có muốn đánh một trận với Tằng Ngưu trước khi Nguyên Thần tịch diệt không. (@c0368)"
       }
      ],
      "tuViMoc": [
@@ -13409,7 +13639,8 @@ window.LIB_DATA["tien-nghich"]={
      "@c0339",
      "@c0340",
      "@c0341",
-     "@c0345"
+     "@c0345",
+     "@c0368"
     ]
    },
    {
@@ -13910,7 +14141,7 @@ window.LIB_DATA["tien-nghich"]={
     "id": "lao-dau-bi-oi",
     "name": "Lão đầu bỉ ổi",
     "cn": "",
-    "aliases": [],
+    "aliases": ["Vân Tước", "Vân Tước Tử"],
     "gioiTinh": "nam",
     "theLuc": [],
     "canhGioiCaoNhat": "Không rõ (cao thâm, tiết lộ bí mật Vũ Đỉnh)",
@@ -14461,6 +14692,17 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "major",
        "tieuDe": "Phản lại lão tổ — cứu VL, bị phạt bế quan trăm năm",
        "text": "Tham gia vây VL cùng lão tổ Cự Ma tộc + Lý Nguyên Phong theo lệnh lão tổ. Khi VL sắp bị giết, bí mật phản lại: truyền linh lực cho VL hai lần qua đòn giả, chỉ hướng đông nam là đường sống. Tuyên bố Tinh La Bàn là tặng chứ không phải bị cướp; VL là bằng hữu cứu mạng nhiều lần ở tiên giới. Bị lão tổ khống chế bằng lực đạo, phạt bế quan trăm năm luyện thể. Không hối hận — tự nhủ 'quang minh lỗi lạc'. (@c0342)"
+      },
+      {
+       "chuong": "@c0368",
+       "importance": "bridge",
+       "text": "Ngồi tại cung điện thứ 3 (Cự Ma Thiên), đọc ngọc giản, mặt tái nhợt. Nhận lệnh từ lão đầu bỉ ổi (sư đệ lão tổ cấm địa Chu Tước), mang mũ cỏ đi gặp Liễu Mi để thử Vô Tình đạo của nàng. Nhìn về Tuyết Vực quốc lộ vẻ buồn bã rồi đi. (@c0368)"
+      },
+      {
+       "chuong": "@c0370",
+       "importance": "major",
+       "tieuDe": "Phân vân giữa tộc và bằng hữu — hét “dừng tay” giữa đám loạn",
+       "text": "Ngồi tại cung điện thứ 3, mặt tái nhợt khi biết VL đã giết Lý Nguyên Phong và sắp tới Cự Ma tộc trả thù lão tổ. Đau khổ phân vân: lão tổ dù sai vẫn là hy vọng cả tộc; Tằng Ngưu lại là bằng hữu — lắc đầu không tìm ra đáp án. Khi VL phát thần niệm vào giữa tộc, thầm than rồi biến mất khỏi cung điện. Cuối chương từ xa hét “Tằng Ngưu dừng tay!” — VL ngẩng đầu nhận ra, sự lạnh lẽo trên mặt hơi giảm. (@c0370)"
       }
      ],
      "tuViMoc": [
@@ -14500,7 +14742,7 @@ window.LIB_DATA["tien-nghich"]={
       "khac": []
      }
     },
-    "nguon": ["@c0281", "@c0284", "@c0285", "@c0286", "@c0287", "@c0288", "@c0289", "@c0290", "@c0291", "@c0292", "@c0293", "@c0294", "@c0295", "@c0296", "@c0297", "@c0298", "@c0299", "@c0301", "@c0342"]
+    "nguon": ["@c0281", "@c0284", "@c0285", "@c0286", "@c0287", "@c0288", "@c0289", "@c0290", "@c0291", "@c0292", "@c0293", "@c0294", "@c0295", "@c0296", "@c0297", "@c0298", "@c0299", "@c0301", "@c0342", "@c0368", "@c0370"]
    },
    {
     "id": "tu-ma-van",
@@ -15458,6 +15700,12 @@ window.LIB_DATA["tien-nghich"]={
        "bridge": true,
        "khoang": "@c0334",
        "text": "10 tuổi: dã tính lớn, cưỡi lão hổ hắc văn (đặt tên Tiểu Bạch) khắp thâm sơn. Khóc khi VL rời đi, hôn lên trán hắn hứa 'Tiểu Như nhi nhớ người'. Ở lại dưới sự chiếu cố của Thiết Nham và Lôi Oa. (@c0334)"
+      },
+      {
+       "chuong": "@c0353",
+       "importance": "minor",
+       "tieuDe": "Chơi đùa trong sơn cốc — nhớ thúc thúc",
+       "text": "Mặc váy thêu hoa mẫu đơn, đầu tết hai bím tóc — đã lớn hơn. Cưỡi Tiểu Bạch chơi đùa trong sơn cốc ngoài vùng tiên di Sở quốc. Bắt Tiểu Bạch học kêu như mèo, phạt cầm đũa ăn cơm. Thở dài nhớ thúc thúc. (@c0353)"
       }
      ],
      "tuViMoc": [],
@@ -15485,7 +15733,7 @@ window.LIB_DATA["tien-nghich"]={
       "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []
      }
     },
-    "nguon": ["@c0314", "@c0318", "@c0330", "@c0331", "@c0334"]
+    "nguon": ["@c0314", "@c0318", "@c0330", "@c0331", "@c0334", "@c0353"]
    },
    {
     "id": "tu-do-nam-canh-tay",
@@ -15613,6 +15861,12 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "normal",
        "tieuDe": "Lén tấn công VL bất lực — bỏ chạy trước Tôn Thái",
        "text": "Lặng lẽ thuấn di tới định giết VL khi hắn bất lực trong rừng. Bị Tôn Thái phóng Thiên Lôi truy kích, bỏ chạy điên cuồng biến mất. Phong ấn ý cảnh Trà Hương kết hợp phong ấn Tôn Thái ghim chặt tu vi VL. (@c0344)"
+      },
+      {
+       "chuong": "@c0351",
+       "importance": "minor",
+       "tieuDe": "Đang hồi phục tại Tuyết Vực quốc",
+       "text": "Hồi phục trong Băng Tuyết Thần Điện sau khi bị tiên lôi Tôn Thái truy kích thương nặng. Tu vi Anh Biến sơ kỳ cưỡng ép — cả đời không đột phá nữa; thần thức chỉ Hóa Thần hậu kỳ đại viên mãn. Thắc mắc vì sao lão tổ Cự Ma tộc muốn thi thể VL. Hồng Điệp tuyên bố bế quan trăm năm muốn đạt Anh Biến kỳ. (@c0351)"
       }
      ],
      "tuViMoc": [
@@ -15626,7 +15880,7 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "tuiDo": {}
     },
-    "nguon": ["@c0333", "@c0341", "@c0342", "@c0343", "@c0344"]
+    "nguon": ["@c0333", "@c0341", "@c0342", "@c0343", "@c0344", "@c0351"]
    },
    {
     "id": "bach-danh-tuyet",
@@ -15783,6 +16037,12 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "normal",
        "tieuDe": "Dừng lại trên Chu Tước Sơn — nói biết nguyên thần VL",
        "text": "Cùng Liễu Mi và Hồng Điệp đứng trên Chu Tước Sơn. Nhìn 'Tuyệt Tình' (tên Kiền Phong đặt cho Hồng Điệp), nói rằng hắn biết trong thân thể Hồng Điệp vẫn còn dấu tia nguyên thần chưa bị diệt, nhưng không cần thiết phải giải quyết vội. Đợi tín tức VL. (@c0345)"
+      },
+      {
+       "chuong": "@c0368",
+       "importance": "normal",
+       "tieuDe": "Khinh miệt chiến tích VL — trêu Tuyệt Tình tại cấm địa",
+       "text": "Tại cấm địa Chu Tước Sơn, bóp nát ngọc giản truyền âm sau khi nghe tin VL giết Lý Nguyên Phong. Khinh miệt: 'giết Lý Nguyên Phong chẳng có gì, hắn chỉ là phế vật'. Thách thức VL phải giết lão tổ Cự Ma tộc mới có tư cách làm đối thủ. Quay nhìn Hồng Điệp (Tuyệt Tình — mắt trống rỗng vô thần), cười tà dị, hỏi: 'Có muốn đánh một trận với Tằng Ngưu không? Đây chính là nguyện vọng lớn nhất của ngươi trước khi Nguyên Thần tịch diệt đó.' (@c0368)"
       }
      ],
      "tuViMoc": [],
@@ -15792,7 +16052,7 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "tuiDo": {}
     },
-    "nguon": ["@c0340", "@c0341", "@c0345"]
+    "nguon": ["@c0340", "@c0341", "@c0345", "@c0368"]
    },
    {
     "id": "lao-to-cam-dia-chu-tuoc",
@@ -16455,7 +16715,8 @@ window.LIB_DATA["tien-nghich"]={
       {"chuong": "@c0306", "importance": "major", "tieuDe": "Bỏ chức đại trưởng lão — theo VL cầu Hóa Thần", "text": "172 năm ở Nguyên Anh hậu kỳ, tuổi thọ không còn nhiều; bỏ chức theo VL là lựa chọn duy nhất. VL chỉ dẫn: đồng nhất linh lực bề bộn, ma luyện trong uy áp bảo tháp. (@c0306)"},
       {"bridge": true, "khoang": "@c0307–@c0310", "text": "Hộ vệ VL và LMU trên đường về Tu Ma Hải; thần thức chỉ 50 trượng trong bài tập. Lấy thẻ VIP mời đấu giá Luyện Khí Các (@c0308). Tham dự đấu giá; nhận lệnh VL bảo vệ LMU khi VL đi tìm Chu Ngạn Hoành. (@c0307–@c0310)"},
       {"bridge": true, "khoang": "@c0331", "text": "1 năm trước c0331 được VL cho về Vân Thiên Tông. (@c0331)"},
-      {"chuong": "@c0334", "importance": "normal", "tieuDe": "Quay lại theo VL — ở lại thủ hộ Chu Như", "text": "Đến thung lũng từ 4 năm trước, dứt khoát buông bỏ Vân Thiên Tông dù đã đến bước cuối trước Hóa Thần. Gọi VL là 'ân công'. VL giao phó Chu Như trước khi đi Chu Tước quốc, Thiết Nham nhận lời. (@c0334)"}
+      {"chuong": "@c0334", "importance": "normal", "tieuDe": "Quay lại theo VL — ở lại thủ hộ Chu Như", "text": "Đến thung lũng từ 4 năm trước, dứt khoát buông bỏ Vân Thiên Tông dù đã đến bước cuối trước Hóa Thần. Gọi VL là 'ân công'. VL giao phó Chu Như trước khi đi Chu Tước quốc, Thiết Nham nhận lời. (@c0334)"},
+      {"chuong": "@c0353", "importance": "minor", "tieuDe": "Thủ hộ sơn cốc — giấu Chu Như tin VL mất tích", "text": "Khoanh chân ngồi dưới bảo tháp trong sơn cốc, nhìn Tiểu Chu cưỡi Tiểu Bạch chơi đùa. Biết tin VL mất tích nhưng giấu không nói với Tiểu Chu, vẫn tin tưởng: “Ân công nói trong vòng chín năm nhất định trở về.” (@c0353)"}
      ],
      "tuViMoc": [
       {"chuong": "@c0306", "canhGioi": "Nguyên Anh hậu kỳ (172 năm bế tắc)", "text": "172 năm mắc kẹt — lâu hơn Lữ Phi 29 năm. VL chỉ dẫn: phải đồng nhất linh lực bề bộn, bài tập ma luyện uy áp bảo tháp."},
@@ -16468,7 +16729,7 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "tuiDo": {"phapBao": [], "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []}
     },
-    "nguon": ["@c0306", "@c0307", "@c0308", "@c0309", "@c0310", "@c0331", "@c0334"]
+    "nguon": ["@c0306", "@c0307", "@c0308", "@c0309", "@c0310", "@c0331", "@c0334", "@c0353"]
    },
    {
     "id": "khau-tu-binh",
@@ -16623,12 +16884,445 @@ window.LIB_DATA["tien-nghich"]={
      "tuiDo": {}
     },
     "nguon": ["@c0308","@c0309","@c0310"]
+   },
+   {
+    "id": "loi-oa",
+    "name": "Lôi Oa",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "Yêu thú — loại lôi điện @c0353",
+    "trangThai": "song — đang ở sơn cốc ngoài vùng tiên di Sở quốc cùng Thiết Nham và Chu Như @c0353",
+    "vaiTro": "Nhân vật phụ — linh thú của Vương Lâm",
+    "tinhCach": [
+     {"text": "Lười biếng nhưng giàu ký ức — nằm phơi nắng hồi tưởng cuộc sống ở chỗ cổ thần, nhớ VL và Văn thú.", "chuong": "@c0353"}
+    ],
+    "blurb": "Yêu thú lôi điện, được Vương Lâm bắt mang ra khỏi chỗ cổ thần — nơi nó lớn lên bằng cách đánh nhau giành thức ăn và học phun lôi cầu. Ở lại sơn cốc Sở quốc cùng Thiết Nham và Chu Như khi VL ra đi.",
+    "tabs": {
+     "diem": [
+      {"text": "Lớn lên ở chỗ cổ thần — chiến đấu với yêu thú, học phun lôi cầu, hoành hành; bị VL bắt mang đi.", "chuong": "@c0353"}
+     ],
+     "kinhLich": [
+      {"chuong": "@c0353", "importance": "minor", "tieuDe": "Phơi nắng sơn cốc — nhớ chỗ cổ thần và VL", "text": "Nằm lười biếng phơi nắng cách Thiết Nham hơn trăm trượng, đôi mắt thật lớn nhìn mặt trời. Hồi tưởng cuộc sống ở chỗ cổ thần — từ nhỏ đánh nhau với yêu thú cướp thức ăn/địa bàn, học phun lôi cầu, dần hoành hành. Nhớ VL (người bắt nó ra) và Văn thú. (@c0353)"}
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0353", "quanHe": "Chủ nhân — người bắt ra khỏi chỗ cổ thần", "ghiChu": "VL bắt Lôi Oa mang ra khỏi chỗ cổ thần; Lôi Oa nhớ VL khi nằm phơi nắng.", "tag": "cap-tren", "uuTien": 100}
+     ],
+     "tuiDo": {"phapBao": [], "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []}
+    },
+    "nguon": ["@c0353"]
+   },
+   {
+    "id": "tu-ma-lao-gia",
+    "name": "Tư Mã (lão giả)",
+    "cn": "",
+    "aliases": ["lão giả Tử Chú thuật"],
+    "gioiTinh": "nam",
+    "theLuc": [{"ten": "Luyện Hồn Tông", "trangThai": "ngoai-vi-de-tu"}],
+    "canhGioiCaoNhat": "Kết Đan hậu kỳ @c0355",
+    "trangThai": "song — bị Luyện Hồn Tông cuốn vào nội môn sau khi thua VL @c0356",
+    "vaiTro": "Nhân vật phụ — đối thủ đại hội Luyện Hồn Tông",
+    "tinhCach": [
+     {"text": "Kiên định, mục tiêu rõ ràng — vào nội môn để kết hợp Tử Chú thuật với hồn phiên thuật, đạt đỉnh cao.", "chuong": "@c0355"}
+    ],
+    "blurb": "Ngoại vi đệ tử Luyện Hồn Tông tu luyện Tử Chú thuật nhiều năm. Lọt top 4 giải đấu, vào chung kết đấu với VL. Thi triển Tử Chú thuật nhưng VL hoá giải bằng ý niệm, lực cắn trả khiến lão phun máu hôn mê. Sư tôn Tư Mã cực kỳ cường đại.",
+    "tabs": {
+     "diem": [
+      {"text": "Ánh mắt âm trầm, tu Tử Chú thuật nhiều năm; sư tôn đánh giá đủ sức khiêu chiến Anh Biến kỳ.", "chuong": "@c0355"},
+      {"text": "Bị VL hoá giải Tử Chú thuật bằng ý niệm — phun máu, mắt vô thần, ngã nhào.", "chuong": "@c0356"}
+     ],
+     "kinhLich": [
+      {"chuong": "@c0355", "importance": "normal", "tieuDe": "Chung kết đại hội — thi triển Tử Chú thuật đấu VL", "text": "Ánh mắt kiên định, nhớ lời sư tôn về Tử Chú thuật. Quát 'tử', ngón tay điểm ra — hư không gợn sóng. VL đứng yên cảm thụ không phản công. Không biết VL đã nhìn thấu toàn bộ căn nguyên Tử Chú thuật ngay lập tức. (@c0355)"},
+      {"chuong": "@c0356", "importance": "normal", "tieuDe": "Bại trận — bị cắn trả phun máu hôn mê", "text": "VL dùng ý niệm hoá giải Tử Chú thuật, lực cắn trả quật ngược. Tư Mã run lên, phun máu, hai mắt vô thần, ngã nhào. Linh quang Luyện Hồn Tông cuốn vào nội môn — kết thúc ở Toả Thần phong. (@c0356)"}
+     ],
+     "tuViMoc": [
+      {"chuong": "@c0355", "canhGioi": "Kết Đan hậu kỳ", "text": "Tu vi khi đấu VL tại chung kết đại hội. Bị VL (Nguyên Anh hậu kỳ) hoá giải dễ dàng.", "importance": "normal"}
+     ],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0355", "quanHe": "Đối thủ thua cuộc", "ghiChu": "Dùng Tử Chú thuật đấu VL trong chung kết — thua hoàn toàn, bị cắn trả phun máu. VL nhìn thấu căn nguyên Tử Chú thuật của lão.", "tag": "ke-thu", "uuTien": 60}
+     ],
+     "tuiDo": {"phapBao": [], "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []}
+    },
+    "nguon": ["@c0355", "@c0356"]
+   },
+   {
+    "id": "vuong-chan",
+    "name": "Vương Chấn",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [{"ten": "Luyện Hồn Tông", "trangThai": "noi-mon-de-tu"}],
+    "canhGioiCaoNhat": "Không rõ (nội môn đệ tử) @c0356",
+    "trangThai": "song @c0356",
+    "vaiTro": "Nhân vật phụ — nội môn đệ tử dẫn đường Vương Lâm",
+    "tinhCach": [
+     {"text": "Sùng kính Hóa Thần tu sĩ, mục tiêu trở thành Kim hoàn thứ mười; coi Tằng Ngưu là thiên hạ đệ nhất nhân dưới Anh Biến kỳ.", "chuong": "@c0356"}
+    ],
+    "blurb": "Nội môn đệ tử Luyện Hồn Tông, chủ trì trận chung kết và dẫn VL vào nội môn. Giới thiệu cấu trúc 3 phong + Cửu Kim hoàn + 2 Huyết hoàn. Hào hứng kể về Tằng Ngưu giết một Hóa Thần lão tổ Luyện Hồn Tông.",
+    "tabs": {
+     "diem": [
+      {"text": "Ôm quyền gọi VL là 'sư đệ', ánh mắt sùng kính cuồng nhiệt khi nhắc Hóa Thần — mục tiêu thành Kim hoàn thứ 10.", "chuong": "@c0356"}
+     ],
+     "kinhLich": [
+      {"chuong": "@c0356", "importance": "normal", "tieuDe": "Dẫn VL vào nội môn — giới thiệu cấu trúc", "text": "Ôm quyền chào, gọi 'sư đệ'. Dẫn VL bay qua nội môn đại trận, giới thiệu 3 phong (Luyện Hồn, Trừu Phách, Toả Thần), Cửu Kim hoàn (9 Hóa Thần bế quan), 2 Huyết hoàn (2 Thuỷ Tổ Anh Biến). Kể về Tằng Ngưu giết 1 lão tổ đi du lịch + vụ Độn Thiên Thuỷ Tổ chuẩn bị truy tìm thì Tằng Ngưu mất tích. (@c0356)"}
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0356", "quanHe": "Sư đệ (theo cách gọi)", "ghiChu": "Dẫn VL vào nội môn, gọi là 'sư đệ Thanh Mộc'. Không biết VL là Tằng Ngưu.", "tag": "dong-hanh", "uuTien": 40}
+     ],
+     "tuiDo": {"phapBao": [], "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []}
+    },
+    "nguon": ["@c0356"]
+   },
+   {
+    "id": "ngo-dao-khai",
+    "name": "Ngô Đạo Khải",
+    "cn": "",
+    "aliases": ["Đại trưởng lão Luyện Hồn Phong"],
+    "gioiTinh": "nam",
+    "theLuc": [{"ten": "Luyện Hồn Tông", "trangThai": "dai-truong-lao"}],
+    "canhGioiCaoNhat": "Nguyên Anh hậu kỳ — thiếu lĩnh ngộ ý cảnh là Hóa Thần @c0360",
+    "trangThai": "song — bị VL điểm hôn mê, mất Vạn Hồn Phiên và Tử Mộc Phiên Linh @c0360",
+    "vaiTro": "Nhân vật phụ — đại trưởng lão Luyện Hồn Phong, Luyện Hồn Tông",
+    "tinhCach": [
+     {"text": "Tham vọng đạt Hóa Thần — 3 lần liều mình thách đấu Kim sắc Hồn Phiên dù nguy hiểm tột độ.", "chuong": "@c0360"},
+     {"text": "Biết thời thế — khi gặp thần thức mạnh hơn nhiều lần lão tổ Hóa Thần, lập tức quỳ xuống xưng 'tham kiến lão tổ'.", "chuong": "@c0360"}
+    ],
+    "blurb": "Đại trưởng lão Luyện Hồn Phong — một trong 3 người Nguyên Anh Hậu kỳ thủ hộ Luyện Hồn Tông khi toàn bộ Hóa Thần bế quan. Chỉ còn thiếu lĩnh ngộ ý cảnh là Hóa Thần, đã 3 lần liều mình chiến đấu Kim sắc Hồn Phiên. Sở hữu Vạn Hồn Phiên và Thần Phiên Linh mượn từ Toả Thần phong. Bị VL điểm hôn mê, mất toàn bộ pháp bảo.",
+    "tabs": {
+     "diem": [
+      {"text": "Sở hữu Vạn Hồn Phiên (chủ hồn Nguyên Anh hậu kỳ + 10 phó hồn). Mượn Thần Phiên Linh trọng bảo của Toả Thần phong.", "chuong": "@c0360"},
+      {"text": "Lần 3 chiến đấu Kim sắc Hồn Phiên: 2 Kỳ Lân trói bằng Thần Phiên Linh, con thứ 3 xuất hiện — sắp bỏ cuộc thì VL ra tay.", "chuong": "@c0360"}
+     ],
+     "kinhLich": [
+      {"chuong": "@c0356", "importance": "normal", "tieuDe": "Kiểm tra VL — Đại trưởng lão Luyện Hồn Phong", "text": "Lão nhân mặc áo xanh, ánh mắt sáng ngời. Dùng uy áp Nguyên Anh hậu kỳ thử VL, ấn ngón tay vào mi tâm phóng hàn khí kiểm tra ký ức. Phát hiện tu vi VL là Kết Đan đại viên mãn (bị VL đánh lừa). An bài VL tự tu luyện không cần sư phụ. (@c0356)"},
+      {"chuong": "@c0360", "importance": "major", "tieuDe": "Lần 3 chiến Kim sắc Hồn Phiên — bị VL điểm hôn mê, mất pháp bảo", "text": "Dùng Vạn Hồn Phiên + Vạn hồn phệ + Huyết tế chiến Kỳ Lân phó hồn lần 3. Khi con thứ 3 xuất hiện sắp bỏ cuộc thì VL phóng thần thức khổng lồ (mạnh hơn lão tổ Hóa Thần gấp mấy lần). Kinh hãi quỳ xuống 'tham kiến lão tổ'. VL đập vỡ Kỳ Lân + điểm 1 cái khiến lão hôn mê. Mất Vạn Hồn Phiên và Tử Mộc Phiên Linh. (@c0360)"}
+     ],
+     "tuViMoc": [
+      {"chuong": "@c0360", "canhGioi": "Nguyên Anh hậu kỳ — cận Hóa Thần", "text": "Chỉ còn thiếu lĩnh ngộ ý cảnh là Hóa Thần. Thần thức mạnh nhưng VL (thực chất Hóa Thần không ý cảnh) vượt xa.", "importance": "normal"}
+     ],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0356", "quanHe": "Bị áp chế — mất pháp bảo", "ghiChu": "Kiểm tra VL khi vào nội môn; sau đó bị VL điểm hôn mê và mất Vạn Hồn Phiên + Tử Mộc Phiên Linh.", "tag": "ke-thu", "uuTien": 70}
+     ],
+     "tuiDo": {"phapBao": [], "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []}
+    },
+    "nguon": ["@c0356", "@c0360"]
+   },
+   {
+    "id": "hua-van",
+    "name": "Hứa Vân",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [{"ten": "Luyện Hồn Tông", "trangThai": "noi-mon-de-tu"}],
+    "canhGioiCaoNhat": "Kết Đan trung kỳ @c0357",
+    "trangThai": "song — đang ở gần động phủ VL tại Luyện Hồn Phong @c0360",
+    "vaiTro": "Nhân vật phụ — đệ tử Luyện Hồn Tông ở gần VL",
+    "tinhCach": [
+     {"text": "Quyết đoán, lanh lợi — chủ động giải thích phương pháp chế tác Hồn Phiên 3 phần để lấy lòng VL.", "chuong": "@c0357"},
+     {"text": "Ngoài cứng trong mềm — biểu tình kiên cường thường ngày nhưng khi hôn mê lộ vẻ nhu nhược, bất lực.", "chuong": "@c0359"}
+    ],
+    "blurb": "Nội môn đệ tử Luyện Hồn Tông, Kết Đan trung kỳ. Trước đây dựa vào tu sĩ trung niên, sau khi tu sĩ đó thua VL liền chủ động theo VL. Giả làm thị thiếp Thanh Mộc để thu hồn phách thuận tiện. Cao hơn Lưu Vi một đầu, tính cách quyết đoán.",
+    "tabs": {
+     "diem": [
+      {"text": "Quần áo màu ngọc bích, thân thể cao hơn Lưu Vi. Chủ động giải thích phương pháp Hồn Phiên chia 3 phần để lấy lòng VL.", "chuong": "@c0357"},
+      {"text": "Giả làm thị thiếp Thanh Mộc — dùng danh tiếng VL bắt hồn phách dễ hơn nhiều.", "chuong": "@c0358"}
+     ],
+     "kinhLich": [
+      {"chuong": "@c0357", "importance": "normal", "tieuDe": "Theo VL sau khi tu sĩ dựa vào thua cuộc", "text": "Sau khi tu sĩ trung niên thua VL, chủ động giới thiệu bản thân, giải thích phương pháp chế tác Hồn Phiên chia 3 phần (Luyện Hồn/Trừu Phách/Toả Thần). Bị VL đuổi nhưng quyết ở gần động phủ VL để được nể mặt. (@c0357)"},
+      {"chuong": "@c0358", "importance": "normal", "tieuDe": "Giả thị thiếp Thanh Mộc — bắt hồn phách thuận lợi", "text": "Cùng Lưu Vi giả làm thị thiếp Thanh Mộc sư huynh. Bàn về lợi ích — bắt hồn phách nhiều hơn nhiều nhờ danh tiếng VL. Khi Quách Đông Kiện tới, tự xưng 'thị thiếp' và quát đuổi. Lo ngại bị phát hiện tuyên truyền. (@c0358)"},
+      {"chuong": "@c0359", "importance": "minor", "tieuDe": "Bị VL điểm hôn mê khi Liễu Mi tới", "text": "Bị VL điểm cách không hôn mê khi Liễu Mi xuất hiện. Biểu tình hôn mê lộ vẻ nhu nhược bất lực — ngược với vẻ kiên cường bên ngoài. VL quan sát và ngộ ra bản chất 'ngoài cứng trong mềm' của nàng. (@c0359)"},
+      {"chuong": "@c0360", "importance": "minor", "tieuDe": "Tỉnh dậy — tạo động phủ tu luyện", "text": "Tỉnh dậy sau khi hôn mê, cùng Lưu Vi tạo động phủ nhỏ tu luyện riêng, không giao tiếp VL. (@c0360)"}
+     ],
+     "tuViMoc": [
+      {"chuong": "@c0357", "canhGioi": "Kết Đan trung kỳ", "text": "Tu vi xác nhận khi được giới thiệu trong nhóm tu sĩ trung niên.", "importance": "normal"}
+     ],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0357", "quanHe": "Dựa vào danh tiếng", "ghiChu": "Ở gần động phủ VL để được nể mặt; giả thị thiếp Thanh Mộc bắt hồn phách. Bị VL điểm hôn mê @c0359.", "tag": "khac", "uuTien": 50},
+      {"ten": "Lưu Vi", "gap": "@c0357", "quanHe": "Sư muội", "ghiChu": "Đi cùng từ khi theo VL; thường xuyên bàn việc cùng nhau.", "tag": "dong-hanh", "uuTien": 60}
+     ],
+     "tuiDo": {"phapBao": [], "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []}
+    },
+    "nguon": ["@c0357", "@c0358", "@c0359", "@c0360"]
+   },
+   {
+    "id": "luu-vi",
+    "name": "Lưu Vi",
+    "cn": "",
+    "aliases": ["sư muội của Hứa Vân"],
+    "gioiTinh": "nu",
+    "theLuc": [{"ten": "Luyện Hồn Tông", "trangThai": "noi-mon-de-tu"}],
+    "canhGioiCaoNhat": "Kết Đan trung kỳ (ước tính — muốn đạt Kết Đan hậu kỳ bằng Bách Hồn phiên) @c0358",
+    "trangThai": "song — đang ở gần động phủ VL tại Luyện Hồn Phong @c0360",
+    "vaiTro": "Nhân vật phụ — đệ tử Luyện Hồn Tông, sư muội Hứa Vân",
+    "tinhCach": [
+     {"text": "Ngoài mềm trong cứng — dáng lả lướt dịu dàng bên ngoài nhưng khi hôn mê lộ vẻ tàn nhẫn kiên định.", "chuong": "@c0359"}
+    ],
+    "blurb": "Nội môn đệ tử Luyện Hồn Tông, sư muội Hứa Vân. Dáng người nhỏ nhắn thấp hơn Hứa Vân một đầu, lả lướt. Mong luyện chế Bách Hồn phiên để đạt Kết Đan hậu kỳ. Cùng Hứa Vân giả làm thị thiếp Thanh Mộc để bắt hồn phách thuận lợi.",
+    "tabs": {
+     "diem": [
+      {"text": "Dáng người nhỏ nhắn, thấp hơn Hứa Vân một đầu, lả lướt; mong luyện Bách Hồn phiên đạt Kết Đan hậu kỳ.", "chuong": "@c0358"}
+     ],
+     "kinhLich": [
+      {"chuong": "@c0357", "importance": "minor", "tieuDe": "Sư muội Hứa Vân — theo dựa vào VL", "text": "Cùng Hứa Vân dựa vào tu sĩ trung niên bị VL đánh bại. Tướng mạo thượng đẳng. Lo lắng hỏi Hứa Vân cách xử lý khi bị VL đuổi. Quyết định cùng sư tỷ ở gần nơi VL lập động phủ. (@c0357)"},
+      {"chuong": "@c0358", "importance": "normal", "tieuDe": "Bàn chuyện bắt hồn phách — mong luyện Bách Hồn phiên", "text": "Bàn với Hứa Vân: số hồn phách bắt nhiều hơn nhiều nhờ danh tiếng Thanh Mộc. Mong luyện chế Bách Hồn phiên để đạt Kết Đan hậu kỳ — cần bắt đủ hồn phách. Lo ngại bị phát hiện tuyên truyền. (@c0358)"},
+      {"chuong": "@c0359", "importance": "minor", "tieuDe": "Bị VL điểm hôn mê khi Liễu Mi tới", "text": "Bị VL điểm cách không hôn mê. Biểu tình hôn mê lộ vẻ tàn nhẫn kiên định — ngược với dáng vẻ lả lướt dịu dàng thường ngày. VL ngộ ra bản chất 'ngoài mềm trong cứng' của nàng. (@c0359)"},
+      {"chuong": "@c0360", "importance": "minor", "tieuDe": "Tỉnh dậy — tạo động phủ tu luyện", "text": "Tỉnh dậy cùng Hứa Vân, tạo động phủ nhỏ tu luyện riêng. (@c0360)"}
+     ],
+     "tuViMoc": [
+      {"chuong": "@c0358", "canhGioi": "Kết Đan trung kỳ hoặc thấp hơn (ước tính)", "text": "Mong đạt Kết Đan hậu kỳ bằng Bách Hồn phiên — hàm ý tu vi hiện tại chưa đến đó.", "importance": "minor"}
+     ],
+     "nhanMach": [
+      {"ten": "Hứa Vân", "gap": "@c0357", "quanHe": "Sư tỷ", "ghiChu": "Luôn đi cùng và bàn việc với sư tỷ.", "tag": "dong-hanh", "uuTien": 60},
+      {"ten": "Vương Lâm", "gap": "@c0357", "quanHe": "Dựa vào danh tiếng", "ghiChu": "Ở gần động phủ VL; bị VL điểm hôn mê @c0359.", "tag": "khac", "uuTien": 40}
+     ],
+     "tuiDo": {"phapBao": [], "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []}
+    },
+    "nguon": ["@c0357", "@c0358", "@c0359", "@c0360"]
+   },
+   {
+    "id": "quach-dong-kien",
+    "name": "Quách Đông Kiện",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [{"ten": "Luyện Hồn Tông", "trangThai": "noi-mon-de-tu"}],
+    "canhGioiCaoNhat": "Nguyên Anh sơ kỳ @c0358",
+    "trangThai": "song — quy phục VL, giao Hồn Phiên hai kim tuyến @c0359",
+    "vaiTro": "Nhân vật phụ — đệ tử Luyện Hồn Tông đấu VL",
+    "tinhCach": [
+     {"text": "Có phong thái thần tiên, tự tin — tới bái phỏng 'Thanh Mộc', bị từ chối thì nổi giận phóng thanh long.", "chuong": "@c0358"},
+     {"text": "Biết thời thế — khi thấy VL thi triển Hồn Tuyền liền hoàn toàn từ bỏ chống cự.", "chuong": "@c0359"}
+    ],
+    "blurb": "Nội môn đệ tử Luyện Hồn Tông, Nguyên Anh sơ kỳ. Nam tử trung niên tướng mạo anh tuấn, tóc dài, áo bào màu tro — vài phần phong thái thần tiên. Sở hữu Hồn Phiên hai kim tuyến (Thiên Hồn Phiên) chứa hồn phách Nguyên Anh kỳ. Đến bái phỏng VL, bị từ chối nổi giận, phóng thanh long bị VL phá — giao Hồn Phiên khi VL thi triển Hồn Tuyền.",
+    "tabs": {
+     "diem": [
+      {"text": "Sở hữu Hồn Phiên hai kim tuyến (Thiên Hồn Phiên) chứa hồn phách Nguyên Anh kỳ có hai sừng.", "chuong": "@c0358"},
+      {"text": "Người thứ hai trong đệ tử Luyện Hồn Phong từng luyện ra Hồn Tuyền (trước VL).", "chuong": "@c0359"}
+     ],
+     "kinhLich": [
+      {"chuong": "@c0358", "importance": "normal", "tieuDe": "Tới bái phỏng Thanh Mộc — giao chiến rồi bị áp chế", "text": "Bay tới xin gặp Thanh Mộc, bị Hứa Vân chặn. Nổi giận quát 'lừa gạt!', phóng thanh long tấn công động phủ. VL bước ra phá tan bằng bàn tay hư không, thi triển Thiên Hồn Phiên Huyễn Ảnh (đầu lâu khổng lồ sau lưng). Kinh hãi lùi lại. Phóng Hồn Phiên hai kim tuyến, kêu gọi hồn phách Trúc Cơ, Kết Đan, Nguyên Anh tấn công. (@c0358)"},
+      {"chuong": "@c0359", "importance": "normal", "tieuDe": "Quy phục VL — giao sinh hồn Nguyên Anh", "text": "Khi thấy VL thi triển Hồn Tuyền hút sạch hồn phách, hoàn toàn từ bỏ chống cự. Chúc mừng VL là người thứ 3 luyện ra Hồn Tuyền (chỉ 3 tháng). Khai: sinh hồn Nguyên Anh (hai sừng) đổi từ Tô Kim Thế ở Trừu Phách phong bằng Bách Hồn Phiên 900 hồn phách. (@c0359)"}
+     ],
+     "tuViMoc": [
+      {"chuong": "@c0358", "canhGioi": "Nguyên Anh sơ kỳ", "text": "Tu vi xác nhận khi VL quét thần thức đánh giá đối thủ.", "importance": "normal"}
+     ],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0358", "quanHe": "Bại trước — giao Hồn Phiên", "ghiChu": "Đến bái phỏng VL rồi xung đột; bị áp chế Thiên Hồn Phiên Huyễn Ảnh và Hồn Tuyền; cuối cùng giao sinh hồn Nguyên Anh.", "tag": "ke-thu", "uuTien": 50}
+     ],
+     "tuiDo": {"phapBao": [], "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []}
+    },
+    "nguon": ["@c0358", "@c0359"]
+   },
+   {
+    "id": "don-thien",
+    "name": "Độn Thiên",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [{"ten": "Luyện Hồn Tông", "trangThai": "thuy-to"}],
+    "canhGioiCaoNhat": "Anh Biến hậu kỳ (@c0363)",
+    "trangThai": "sống — đang bế quan @c0370",
+    "vaiTro": "Thủy tổ Luyện Hồn Tông — người tặng Thập Ức Tôn Hồn Phiên cho VL",
+    "tinhCach": [
+     {"text": "Tính toán xa, hào phóng — đợi VL 2 năm, tặng ba phần đại lễ (khôi phục nguyên thần, nâng tu vi, Thập Ức Hồn Phiên bản sao).", "chuong": "@c0363"},
+     {"text": "Mạnh miệng và cứng rắn — xua Liễu Mi khỏi ngàn dặm, không ngại đắc tội Chu Tước quốc.", "chuong": "@c0363"}
+    ],
+    "blurb": "Thủy tổ Luyện Hồn Tông, Anh Biến hậu kỳ, một trong hai Thủy tổ Huyết hoàn. Mặc trường bào xanh nhạt, sắc mặt xám xịt nhưng mắt rất sáng. Đợi VL 2 năm rồi tặng ba phần đại lễ: xua Liễu Mi, khôi phục nguyên thần VL bằng tiên lực (200 năm chưa dùng), dùng Thập Ức Hồn Phiên nâng tu vi VL lên Hóa Thần hậu kỳ. Chỉ định VL làm người kế thừa, giao bản sao hồn phiên + ngọc giản trận pháp định vị trước khi bế quan. Muốn VL thu hồn phách mình khi lão chết.",
+    "tabs": {
+     "diem": [
+      {"text": "Anh Biến hậu kỳ nhưng dám đối kháng tu sĩ Vấn Đỉnh nhờ Thập Ức Hồn Phiên.", "chuong": "@c0363"},
+      {"text": "200 năm không dùng tiên lực; lần đầu dùng để khôi phục nguyên thần VL trong 5 tức.", "chuong": "@c0363"}
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0362",
+       "importance": "bridge",
+       "text": "Thanh âm già nua từ vòng sáng đỏ vang lên khi VL đang đối đầu 9 Hóa Thần của tông: 'Tiểu hữu! Lão phu chờ ngươi đã lâu.' (@c0362)"
+      },
+      {
+       "chuong": "@c0363",
+       "importance": "major",
+       "tieuDe": "Tặng ba phần đại lễ — nhận VL làm người kế thừa",
+       "text": "Xuất hiện mặc trường bào xanh nhạt, xua chín vị Hóa Thần đi. Tặng VL ba lễ: (1) Đuổi Liễu Mi khỏi ngàn dặm Luyện Hồn Tông trong 10 tức, dọa giết bất chấp thân phận đệ tử Chu Tước; Liễu Mi thấy Thập Ức Hồn Phiên biến sắc, cắn răng rời đi. (2) Dùng uy áp Anh Biến kỳ + tiên lực (200 năm chưa dùng) khôi phục hoàn toàn nguyên thần VL trong 5 tức — phong ấn Tôn Thái tan, tu vi khôi phục Hóa Thần trung kỳ (tinh tiến hơn trước). (3) Dùng Thập Ức Hồn Phiên nâng tu vi VL lên Hóa Thần hậu kỳ đỉnh phong. Tiết lộ muốn VL thu hồn phách mình khi lão chết — ám chỉ VL kế thừa hồn phiên + Luyện Hồn Tông. (@c0363)"
+      },
+      {
+       "chuong": "@c0367",
+       "importance": "normal",
+       "tieuDe": "Gặp VL sau đại lễ — xác nhận ý cảnh Anh Biến",
+       "text": "Gặp VL sau khi VL đột phá ý cảnh Anh Biến. Xác nhận ý cảnh VL đạt cấp Anh Biến (Anh Biến biến cấp). Tiết lộ nguyên nhân giúp đỡ VL — có liên quan mục đích lâu dài của lão với Luyện Hồn Tông. Giao ngọc giản trận pháp định vị + dặn dò trước khi vào bế quan. (@c0367)"
+      },
+      {
+       "chuong": "@c0369",
+       "importance": "bridge",
+       "text": "Đang bế quan trong vòng tròn đỏ như máu tại Luyện Hồn tông. Đoán trước VL sẽ tới, để lại túi trữ vật (ngọc giản + Thập Ức Tôn Hồn Phiên bản sao) nhờ Âu Dương Thiên giao cho VL. Chỉ định VL là người kế thừa Luyện Hồn tông (Thiếu tông chủ). (@c0369)"
+      },
+      {
+       "chuong": "@c0370",
+       "importance": "bridge",
+       "text": "Thở dài khi VL rời Luyện Hồn tông — ngụ ý lão biết diễn biến nhưng không can thiệp. (@c0370)"
+      }
+     ],
+     "tuViMoc": [
+      {"chuong": "@c0363", "canhGioi": "Anh Biến hậu kỳ", "text": "Tự xưng + tiết lộ 200 năm chưa dùng tiên lực khi giúp VL.", "importance": "minor"}
+     ],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0362", "quanHe": "Người kế thừa được chọn", "ghiChu": "Đợi 2 năm, tặng ba lễ + bản sao hồn phiên. Gọi VL 'Tiểu hữu'. Muốn VL thu hồn phách mình khi chết.", "tag": "do-truyen"}
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Thập Ức Hồn Phiên (chủ phiên)",
+        "loai": "phap-bao",
+        "trangThai": "hien-co — đang bế quan bên cạnh",
+        "moTa": "Chí bảo Luyện Hồn Tông — lá cờ lớn cao 3 trượng, chứa vô số hồn phách tổ tiên tự nguyện hiến tế, trong đó có ít nhất 12 hồn phách Anh Biến kỳ màu vàng tím. Có nó tông bất diệt, mất nó tông diệt. Độn Thiên nhờ bảo vật này dám đối kháng tu sĩ Vấn Đỉnh dù chỉ Anh Biến hậu kỳ. Chủ phiên đang bên lão bế quan; bản sao đã trao VL.",
+        "nguon": "@c0363"
+       }
+      ],
+      "congPhap": [],
+      "danDuoc": [],
+      "linhThu": [],
+      "khac": []
+     }
+    },
+    "nguon": ["@c0362", "@c0363", "@c0367", "@c0369", "@c0370"]
+   },
+   {
+    "id": "to-kim-the",
+    "name": "Tô Kim Thế",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [{"ten": "Luyện Hồn Tông — Trừu Phách phong", "trangThai": "de-tu"}],
+    "canhGioiCaoNhat": "Chưa rõ cụ thể — đệ tử tu vi cao nhất Trừu Phách phong (trừ Đại trưởng lão) (@c0362)",
+    "trangThai": "sống — ở Trừu Phách phong @c0362",
+    "vaiTro": "Đệ tử Trừu Phách phong — bán ngọc giản cho VL",
+    "tinhCach": [
+     {"text": "Thẳng thắn — không mặc cả, chủ động đề nghị giao dịch công bằng.", "chuong": "@c0362"}
+    ],
+    "blurb": "Đệ tử tu vi cao nhất Trừu Phách phong (trừ Đại trưởng lão) của Luyện Hồn Tông. Sở hữu ngọc giản Trừu Phách (lấy từ Luyện Hồn phong nhiều năm trước) và Luyện Hồn phiên còn thiếu hơn 300 tử hồn để thành Thiên hồn phiên. Giao dịch thẳng thắn với VL: đổi ngọc giản lấy 300 tử hồn.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0362",
+       "importance": "normal",
+       "tieuDe": "Đổi ngọc giản Trừu Phách lấy 300 tử hồn",
+       "text": "Đệ tử tu vi cao nhất Trừu Phách phong. Sở hữu ngọc giản Trừu Phách ghi chép 3 thần thông (Định Thần, Dẫn Hồn, Tự Cổ) và Luyện Hồn phiên thiếu hơn 300 tử hồn nữa thành Thiên hồn phiên. Chủ động đề nghị giao dịch với VL (xưng danh Thanh Mộc): đổi ngọc giản hồng sắc lấy 300 tử hồn để hoàn thành hồn phiên. VL đồng ý. Tính cách thẳng thắn. (@c0362)"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0362", "quanHe": "Bán hàng — giao dịch", "ghiChu": "Đổi ngọc giản Trừu Phách lấy 300 tử hồn; không biết VL thật ra là ai.", "tag": "giao-dich"}
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Luyện Hồn phiên (gần Thiên hồn phiên)",
+        "loai": "phap-bao",
+        "trangThai": "hoan-chinh-sau-giao-dich",
+        "moTa": "Thiếu hơn 300 tử hồn nữa thành Thiên hồn phiên; nhận 300 tử hồn từ VL để hoàn thành.",
+        "nguon": "@c0362"
+       }
+      ],
+      "congPhap": [],
+      "danDuoc": [],
+      "linhThu": [],
+      "khac": []
+     }
+    },
+    "nguon": ["@c0362"]
+   },
+   {
+    "id": "au-duong-thien",
+    "name": "Âu Dương Thiên",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [{"ten": "Luyện Hồn Tông", "trangThai": "de-tu-hoa-than"}],
+    "canhGioiCaoNhat": "Hóa Thần (@c0369)",
+    "trangThai": "sống — ở Luyện Hồn tông @c0369",
+    "vaiTro": "Đệ tử Luyện Hồn Tông — người trung gian giao túi trữ vật Độn Thiên cho VL",
+    "tinhCach": [
+     {"text": "Trung thành và thẳng thắn — ở tông 700 năm, dù khiếp sợ sức mạnh trong túi trữ vật vẫn không nảy lòng tham.", "chuong": "@c0369"}
+    ],
+    "blurb": "Trung niên nam tử, tu sĩ Hóa Thần, ở Luyện Hồn Tông 700 năm. Canh chín vòng sáng vàng chờ VL theo lệnh Độn Thiên. Gọi VL là 'Thiếu tông chủ'. Giao túi trữ vật (ngọc giản + Thập Ức Tôn Hồn Phiên bản sao) cho VL. Từng dùng thần thức kiểm tra túi trữ vật — khiếp sợ, nhưng không nảy lòng tham vì trung thành với tông.",
+    "tabs": {
+     "diem": [
+      {"text": "Ở Luyện Hồn tông 700 năm — lần đầu thấy Độn Thiên giao vật cho người khác, xác nhận đây là sự kiện chưa từng có.", "chuong": "@c0369"}
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0369",
+       "importance": "normal",
+       "tieuDe": "Giao túi trữ vật Độn Thiên — xác nhận VL là người kế thừa",
+       "text": "Xuất hiện canh chín vòng sáng vàng tại Luyện Hồn tông, cung kính gọi VL là 'Thiếu tông chủ'. Thông báo Độn Thiên đã bế quan và để lại túi trữ vật cho VL. Kể: ở tông 700 năm, lần đầu thấy Độn Thiên giao vật cho người ngoài — VL không phải chủ phiên nhưng là phân thân (người kế thừa). Từng âm thầm dùng thần thức kiểm tra túi trữ vật — khiếp sợ sức mạnh bên trong, nhưng trung thành với tông nên không nảy lòng tham. (@c0369)"
+      }
+     ],
+     "tuViMoc": [
+      {"chuong": "@c0369", "canhGioi": "Hóa Thần", "text": "Xuất hiện canh giữ, tu vi xác nhận qua ngữ cảnh.", "importance": "minor"}
+     ],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0369", "quanHe": "Phục vụ — coi là Thiếu tông chủ", "ghiChu": "Giao túi trữ vật theo lệnh Độn Thiên.", "tag": "the-luc"},
+      {"ten": "Độn Thiên", "gap": "@c0369", "quanHe": "Thủy tổ — cấp trên", "ghiChu": "Ở tông 700 năm, nhận lệnh Độn Thiên canh giữ và giao vật cho VL.", "tag": "the-luc"}
+     ],
+     "tuiDo": {"phapBao": [], "congPhap": [], "danDuoc": [], "linhThu": [], "khac": []}
+    },
+    "nguon": ["@c0369"]
+   },
+   {
+    "id": "truong-lao-toc-bac-cu-ma-toc",
+    "name": "Trưởng lão tóc bạc Cự Ma tộc",
+    "cn": "",
+    "aliases": ["Lão già tóc bạc trắng như cước"],
+    "gioiTinh": "nam",
+    "theLuc": [{"ten": "Cự Ma tộc", "trangThai": "truong-lao"}],
+    "canhGioiCaoNhat": "Chưa rõ — bị VL đánh 1 quyền phun máu dù đã biến khổng lồ 10 trượng (@c0370)",
+    "trangThai": "bị phong ấn tu vi — khí xám chui vào người @c0370",
+    "vaiTro": "Trưởng lão Cự Ma tộc — người đầu tiên đối mặt VL, ra lệnh toàn tộc giết Tằng Ngưu",
+    "tinhCach": [
+     {"text": "Cứng rắn với kẻ địch — khi VL nói 'giết', lão giận quá hóa cười và lập tức ra lệnh toàn tộc.", "chuong": "@c0370"}
+    ],
+    "blurb": "Lão già tóc bạc trắng như cước, trưởng lão Cự Ma tộc. Khi VL thuấn di vào giữa tộc và xưng danh 'Tằng Ngưu', lão từ hư không xuất hiện. Khi VL tuyên bố 'giết', lão giận quá hóa cười, dùng lệnh bài trưởng lão (nổ thành tro bụi, phát sóng vô hình) ra lệnh toàn tộc giết Tằng Ngưu. Biến khổng lồ 10 trượng, cầm cự phủ có tia chớp tím. Bị VL thốt 'Biến!' chấn Nguyên Thần, dùng thần thông ổn định rồi tiếp tục bổ búa — bị 1 quyền của VL phun máu lùi mấy trượng, bị khí xám phong ấn.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0370",
+       "importance": "normal",
+       "tieuDe": "Ra lệnh toàn tộc giết Tằng Ngưu — bị phong ấn",
+       "text": "Từ hư không xuất hiện khi VL thuấn di vào giữa tộc. Hỏi danh tính — VL đáp 'Tằng Ngưu', cả tộc kinh hãi. VL tuyên bố tới giết lão tổ — lão giận quá hóa cười, vỗ túi trữ vật lấy lệnh bài đen (trưởng lão), lệnh toàn tộc dùng mọi biện pháp giết Tằng Ngưu. Lệnh bài nổ thành tro bụi, sóng vô hình phủ khắp tộc. Mấy trăm tộc nhân hét lớn, biến khổng lồ, xuất Khai Thiên phủ. Lão biến khổng lồ 10 trượng, cầm cự phủ lớn có tia chớp tím. Bị VL thốt 'Biến!' — Nguyên Thần chấn động, nghiêng ngả; dùng thần thông ổn định, tiếp tục bổ búa. Bị 1 quyền VL đánh phun máu lùi mấy trượng va vào tộc nhân. Bị 2 luồng khí xám từ bức tranh Sinh Tử luân hồi chui vào cơ thể — tu vi bị phong ấn. (@c0370)"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {"ten": "Vương Lâm", "gap": "@c0370", "quanHe": "Kẻ thù — đã bị đánh bại", "ghiChu": "Lệnh toàn tộc giết VL nhưng bị phong ấn tu vi.", "tag": "doi-thu"}
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Lệnh bài đen (trưởng lão Cự Ma tộc)",
+        "loai": "phap-bao",
+        "trangThai": "da-dung-tan",
+        "moTa": "Dùng 1 lần — nổ thành tro bụi, phát sóng vô hình khuếch tán phủ khắp tộc, truyền lệnh giết Tằng Ngưu tới mọi tộc nhân.",
+        "nguon": "@c0370"
+       }
+      ],
+      "congPhap": [],
+      "danDuoc": [],
+      "linhThu": [],
+      "khac": []
+     }
+    },
+    "nguon": ["@c0370"]
    }
   ]
  },
  "techniques": {
   "updatedAt": "2026-06-14",
-  "count": 53,
+  "count": 63,
   "techniques": [
    {
     "id": "ngung-khi-tam-thien",
@@ -17068,11 +17762,13 @@ window.LIB_DATA["tien-nghich"]={
     "soHuu": [
      "vuong-lam"
     ],
-    "blurb": "Thần thông ma đạo thượng cổ. Luyện thành thì chỉ cần niệm một chữ 'Tử' là đối tượng thất khiếu chảy máu, thần thức phá liệt mà chết. Vương Lâm dùng giết ba tu sĩ Đấu Tà phái @c0124 và Tiễn Khôn @c0129.",
-    "detail": "Tử Chú thuật cần tu luyện hợp nhất tam khí: âm khí (nguyên âm nữ tử qua thuật thái âm), tử khí (khí từ hài cốt) và sát khí (ý chí hình thành sau giết chóc); trải qua cửu tử nhất sinh mới nắm được sơ bộ, mỗi ngày chịu đau đớn khủng khiếp, ba năm một lần cửu tử nhất sinh, tỷ lệ đại thành gần như bằng không nên ngay cả người ma đạo cũng rất ít tu. Uy lực được đánh giá không kém Nguyên Anh kỳ — khiến ngọc phù chống được một kích Nguyên Anh kỳ của Thượng Quan Mặc phải tự vỡ @c0129.",
+    "blurb": "Thần thông ma đạo thượng cổ — do thượng cổ tu sĩ sau khi nghiên cứu Cực Cảnh bất thành mà bắt chước sáng tạo ra. Luyện thành thì chỉ cần niệm một chữ 'Tử' là đối tượng thất khiếu chảy máu, thần thức phá liệt mà chết. Vương Lâm dùng giết ba tu sĩ Đấu Tà phái @c0124 và Tiễn Khôn @c0129. Giao hòa đặc biệt với hồn phiên thuật Luyện Hồn Tông — đồng tu hiệu quả đạt mức khó tin.",
+    "detail": "Cơ chế tu luyện: cần tam khí quy nhất — (1) tử khí (hấp thu thi cốt khí ngưng kết, bản chất là tử ý), (2) âm khí (nguyên âm nữ tử qua Thải Âm thuật, ẩn chứa sinh ý), (3) sát khí. Hai loại đầu dung hợp theo hai đường tu khác nhau hình thành âm mang phối hợp sát khí. Trải qua cửu tử nhất sinh trui luyện mới sơ bộ nắm giữ; mỗi 3 năm lại phải trải cửu tử nhất sinh một lần — càng tu luyện tỷ lệ tử vong càng lớn. Uy lực phụ thuộc chênh lệch tu vi: đối phương yếu hơn → tất sát; ngang giai → tỷ lệ thành công nhất định (không thành cũng chấn động tâm thần); cao hơn → tác dụng gần như bằng không và bị cắn trả. So với Cực Cảnh: uy lực yếu hơn rất nhiều, nguy hiểm tu luyện lại vượt xa. Ngày càng ít người tu. Đồng tu với hồn phiên thuật Luyện Hồn Tông: có chỗ giao hòa, hiệu quả kết hợp đạt mức khó tin ('chỉ kém Cực Cảnh một chút' theo sư tôn Tư Mã) @c0355-@c0356. Uy lực thực chiến xác nhận @c0124, @c0129, @c0355-@c0356: Kết Đan hậu kỳ dùng → bị Nguyên Anh hậu kỳ hoá giải bằng ý niệm, lực cắn trả phun máu hôn mê.",
     "nguon": [
      "@c0124",
-     "@c0129"
+     "@c0129",
+     "@c0355",
+     "@c0356"
     ]
    },
    {
@@ -17582,6 +18278,136 @@ window.LIB_DATA["tien-nghich"]={
     "blurb": "Ý cảnh đỉnh cao Tôn Thái cảm ngộ khi bế quan ở Thiên Lôi Tinh — triệu được Thiên Lôi đen (đen tuyền, uy lực kinh thiên). Lần đầu dùng để xuyên phá Phong Ma Khôn Càn Trận cứu VL @c0343; sau đó phóng hắc lôi đuổi Lý Nguyên Phong rút lui @c0344.",
     "detail": "Cảm ngộ trong thời gian bế quan tại Thiên Lôi Tinh (tinh cầu sấm sét). Thiên Lôi đen: màu đen tuyền, khác Thiên Lôi bình thường (trắng/vàng) — uy lực mạnh hơn đáng kể. Dùng xuyên trận pháp Phong Ma Khôn Càn Trận của Cự Ma tộc; sau đó phóng thẳng tại Lý Nguyên Phong — tông chủ Băng Tuyết Thần Điện phải rút lui về Tuyết Vực @c0344.",
     "nguon": ["@c0343", "@c0344"]
+   },
+   {
+    "id": "tan-anh-cam-che",
+    "name": "Tàn Ảnh Cấm Chế",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông — Độc môn VL",
+    "phamCap": "Cấm chế độc môn, không rõ nguồn gốc",
+    "hePhai": "Không rõ",
+    "soHuu": ["vuong-lam"],
+    "blurb": "Thần thông cấm chế độc môn của Vương Lâm. Khi thi triển, tàn ảnh xuất hiện bay quanh thân; quát 'Phá!' tàn ảnh bay ra bám vào mục tiêu, nối tiếp nhau như bàn tay dài thâm nhập vào bên trong. Dùng phá cấm chế, tảng đá phong động phủ @c0357; tấn công thượng cổ hồn cấm trong linh mạch @c0358.",
+    "detail": "Dùng tay bấm quyết → tàn ảnh xuất hiện bay quanh thân → quát 'Phá!' → tàn ảnh bay ra bám vào mục tiêu, nối tiếp nhau như bàn tay dài thâm nhập vào bên trong. Hiệu quả: phá vỡ cấm chế thông thường (@c0357 — phá sập cấm chế + tảng đá bịt cửa động phủ); tấn công thượng cổ hồn cấm nhưng bị phản kích bằng công kích linh hồn (@c0358 — nguyên thần VL đau đớn, phải rút lui). Tàn ảnh cũng dán được lên thân yêu thú hồn cấm, loé sáng khi bị hút lại (@c0358).",
+    "nguon": ["@c0351", "@c0357", "@c0358"]
+   },
+   {
+    "id": "luyen-hon-thuat-hon-tuyen",
+    "name": "Luyện Hồn Thuật / Hồn Tuyền",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông — Hồn phiên thuật",
+    "phamCap": "Luyện Hồn Tông (tam pháp nhánh 1)",
+    "hePhai": "Luyện Hồn Tông",
+    "soHuu": ["vuong-lam"],
+    "blurb": "Công pháp/thần thông nhánh Luyện Hồn của Luyện Hồn Tông — luyện hóa tử hồn phong ấn trong Hồn Phiên, khiến hồn phách không tiêu tan mà dần lớn mạnh. Thành tựu cao nhất là Hồn Tuyền: lốc xoáy hút toàn bộ hồn phách xung quanh. VL là người thứ 3 trong đệ tử Luyện Hồn Phong luyện ra Hồn Tuyền (chỉ mất 3 tháng) @c0357-@c0359.",
+    "detail": "Luyện hồn (nhánh 1 Hồn Phiên tam pháp): luyện hóa tử hồn, phong ấn trong Hồn Phiên, dùng phương pháp đặc thù khiến không tiêu tan mà dần lớn mạnh. Thành tựu đỉnh cao = Hồn Tuyền: tạo lốc xoáy hút toàn bộ hồn phách xung quanh. Giới hạn: hồn phách mang khí tức Nguyên Anh có thể tự thoát lực hút, cần dùng trảo cách không bắt riêng. VL tu luyện tại linh mạch Luyện Hồn Phong — nương áp lực linh mạch tu vi tăng mạnh, đột phá Nguyên Anh trong 3 tháng. Kết hợp với tàn ảnh cấm chế và Thiên Hồn Phiên Huyễn Ảnh (@c0357-@c0359).",
+    "nguon": ["@c0357", "@c0358", "@c0359"]
+   },
+   {
+    "id": "thien-hon-phien-huyen-anh",
+    "name": "Thiên Hồn Phiên Huyễn Ảnh",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông cấp cao — Hồn phiên",
+    "phamCap": "Thiên cấp (Luyện Hồn Tông)",
+    "hePhai": "Luyện Hồn Tông",
+    "soHuu": ["vuong-lam"],
+    "blurb": "Thần thông cấp cao liên quan hồn phiên — VL thi triển khi đối mặt Quách Đông Kiện: hắc khí từ ánh mặt trời chiếu lên người tản mát ra, ngưng tụ phía sau lưng thành cái đầu lâu thật lớn. Quách Đông Kiện nhận ra tên gọi ngay, đại biến sắc mặt @c0358.",
+    "detail": "Cơ chế: ánh mặt trời chiếu lên người VL tản hắc khí, ngưng tụ phía sau lưng thành một cái đầu lâu khổng lồ trống rỗng. Thị giác uy hiếp lớn — ngay cả tu sĩ Nguyên Anh sơ kỳ (Quách Đông Kiện) nhận ra tên gọi và tái nhợt lùi lại. Là thần thông cấp cao, VL học được trong quá trình tu Luyện Hồn Thuật tại Luyện Hồn Tông.",
+    "nguon": ["@c0358"]
+   },
+   {
+    "id": "thuong-co-hon-cam",
+    "name": "Thượng Cổ Hồn Cấm",
+    "cn": "",
+    "loai": "cam-che",
+    "loaiLabel": "Cấm chế — Thượng cổ",
+    "phamCap": "Loại cấm chế hiếm gặp nhất (thượng cổ)",
+    "hePhai": "Thượng cổ",
+    "soHuu": [],
+    "blurb": "Loại cấm chế ít gặp nhất trong thượng cổ cấm chế. Khác cấm chế bình thường (vật chết, cần chìa khóa/phương pháp mở cố định): hồn cấm là sinh vật sống — toàn bộ cấm chế chính là một đạo hồn phách tồn tại dưới trạng thái cấm chế. Phản kích bằng công kích linh hồn, ngưng tụ thành yêu thú khi bị kích. Xuất hiện trong linh mạch Luyện Hồn Phong bảo vệ Kim sắc Hồn Kỳ @c0358.",
+    "detail": "Đặc điểm: (1) bản thân là hồn phách sống, không phải vật thể chết; (2) có thể cản trở thần thức thâm nhập; (3) khi bị tấn công phản kích bằng tiếng rít gào chứa ý cảnh cáo — công kích linh hồn gây đau nguyên thần; (4) có thể ngưng tụ hồn phách thành yêu thú hữu hình (hai sừng, toàn thân sương mù + tơ đen) để tấn công. Hồn cấm trong linh mạch Luyện Hồn Phong: hấp thu linh lực từ linh mạch dưới dạng tơ để nuôi dưỡng kim sắc tiểu kỳ bên trong. VL dùng Tàn ảnh cấm chế tấn công nhưng bị phản kích đau nguyên thần (@c0358).",
+    "nguon": ["@c0358"]
+   },
+   {
+    "id": "hon-phien-tam-phap",
+    "name": "Hồn Phiên Tam Pháp",
+    "cn": "",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp — Hồn phiên",
+    "phamCap": "Chân pháp Luyện Hồn Tông (3 nhánh)",
+    "hePhai": "Luyện Hồn Tông",
+    "soHuu": ["vuong-lam"],
+    "blurb": "Phương pháp chân chính Luyện Hồn Tông chia làm 3 nhánh tương ứng 3 đại phong: (1) Luyện hồn — luyện hóa tử hồn phong ấn, khiến dần lớn mạnh; (2) Trừu phách — rút sinh hồn từ cơ thể sống rồi phong ấn thao khống; (3) Toả thần — chưa rõ. VL thu thập 1/3 phương pháp từ ngọc giản đen @c0357, nghiên cứu hệ thống phân cấp Hồn Phiên từ Luyện Hồn ngọc giản @c0359.",
+    "detail": "Ba nhánh (tam pháp): (1) Luyện hồn — luyện hóa tử hồn, phong ấn trong Hồn Phiên, dùng phương pháp đặc thù khiến không tiêu tan mà dần lớn mạnh; (2) Trừu phách — từ cơ thể sống rút ra sinh hồn rồi phong ấn thao khống (không thể luyện hóa tử phách); (3) Toả thần — VL không có gì đối chiếu, chưa đoán được. Phân cấp Hồn Phiên theo số hồn phách: Thập / Bách / Thiên / Vạn. Thập và Bách thuộc cực kỳ tầm thường. Từ Thiên Hồn Phiên trở lên mới có thần thông — cần chủ hồn (mạnh hơn tổng tất cả hồn phách cộng lại). Bách Hồn Phiên tối đa 999 hồn phách nhưng thiếu chủ hồn nên không thành Thiên. Phương pháp toàn bộ chỉ có 10 ngọc giản — đệ tử phải tự đi cướp đoạt (@c0357-@c0359).",
+    "nguon": ["@c0357", "@c0359"]
+   },
+   {
+    "id": "thien-huyen-vo-tinh-dao",
+    "name": "Thiên Huyễn Vô Tình Đạo",
+    "cn": "",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp — Đạo tâm",
+    "phamCap": "Cao (dành cho tu sĩ cấp cao)",
+    "hePhai": "Chu Tước Tử (đệ nhất nhân Chu Tước tinh)",
+    "soHuu": ["lieu-mi"],
+    "blurb": "Đạo mà Liễu Mi tu luyện theo chỉ điểm của sư phụ Chu Tước Tử. Bên ngoài có thể biến ảo hết thảy biểu tượng hữu hình (tạo vẻ hữu tình), chỉ có nội tâm là vô tình. Dùng trong nhiệm vụ 'lưu thân ảnh trong đạo tâm' đối phương — VL nhìn thấu bản chất nhờ so sánh biểu tình hôn mê của Hứa Vân và Lưu Vi @c0359.",
+    "detail": "Nguyên lý: bên ngoài biến ảo tất cả biểu hiện hữu hình để che dấu nội tâm vô tình tuyệt đối. Mục đích thực chiến: khiến đối phương nhớ tới mình (lưu thân ảnh trong đạo tâm), từ đó dẫn tới chiến đấu đạo tâm — người trong đạo tâm đối phương có hình ảnh lớn hơn thì thắng. Điểm yếu: VL phát hiện khi so sánh biểu tình hôn mê của hai người khác — nội tâm thật lộ ra khi mất đề phòng. Liễu Mi nhận định: VL không thể thắng cuộc chiến đạo tâm trừ phi đạo tâm nàng cũng có hình bóng hắn (@c0359).",
+    "nguon": ["@c0359"]
+   },
+   {
+    "id": "thuat-truu-phach",
+    "name": "Thuật Trừu Phách",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông — Hồn phách",
+    "phamCap": "Chân pháp Trừu Phách phong (Luyện Hồn Tông)",
+    "hePhai": "Luyện Hồn Tông — Trừu Phách phong",
+    "soHuu": ["vuong-lam"],
+    "blurb": "Phương pháp rút hồn phách từ cơ thể kẻ khác, gồm 3 thần thông: Định Thần (tăng xác suất thành công), Dẫn Hồn (rút sinh hồn từ cơ thể sống), Tự Cổ (biến sinh hồn thành Cổ độc vật). VL học từ ngọc giản hồng sắc đổi với Tô Kim Thế. Thực chiến: điểm ngón tay vào khoảng không, đạo linh quang bay vào mi tâm đối phương, rút hồn phách ra — hồn phách Anh Biến kỳ hiện thành luồng sáng màu vàng, thân thể mục tiêu khô héo.",
+    "detail": "Ba thần thông: (1) Định Thần — thuật căn bản, tăng xác suất Trừu Phách thành công, đặc biệt khi đối phương ở trạng thái bất lợi. (2) Dẫn Hồn — pháp thuật chính thức, rút sinh hồn ra từ cơ thể người sống; uy lực phụ thuộc chênh lệch tu vi và trạng thái đối phương. (3) Tự Cổ — ác độc nhất, biến sinh hồn thành Cổ (độc vật); luyện hóa lâu dài tạo Cổ hồn thú tương đương Kết Đan kỳ. Lịch sử: đệ tử phản phái Trừu Phách phong dùng Tự Cổ biến tướng, luyện hơn mười vạn Lục đan, tu tới Hóa Thần, lập Đan Ma đạo. Ngọc giản hồng sắc ghi chép toàn bộ phương pháp + 3 thần thông. Tô Kim Thế lấy từ Luyện Hồn phong nhiều năm trước; đổi cho VL lấy 300 tử hồn (@c0362). VL thực chiến dùng Dẫn Hồn rút hồn phách Anh Biến kỳ Lý Nguyên Phong (@c0368).",
+    "nguon": ["@c0362", "@c0368"]
+   },
+   {
+    "id": "toa-than-phap",
+    "name": "Tỏa Thần pháp",
+    "cn": "",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp — Hồn phiên",
+    "phamCap": "Bí pháp tế luyện Thập Ức Tôn Hồn Phiên (Luyện Hồn Tông)",
+    "hePhai": "Luyện Hồn Tông",
+    "soHuu": ["vuong-lam"],
+    "blurb": "Phương pháp tế luyện Thập Ức Tôn Hồn Phiên — Độn Thiên ghi trong ngọc giản tặng VL. Trong Luyện Hồn tông toàn bộ tính cả VL chỉ có 2 người biết. Khi vận chuyển: Nguyên Thần lóe vô số tia sáng yêu dị, khiến hồn phách hỗn loạn kêu chói tai tản ra, thu phục 12 hồn phách vàng tím (Anh Biến kỳ) trong hồn hải.",
+    "detail": "Công dụng: tế luyện Thập Ức Tôn Hồn Phiên từng bước — (1) chui Nguyên Thần vào hồn phiên, đối mặt vô số hồn phách tấn công; (2) vận chuyển Tỏa Thần thuật, Nguyên Thần phát tia sáng yêu dị xua tản hồn phách; (3) thu phục hồn phách cốt lõi (12 vàng tím = Anh Biến kỳ) — đây là linh hồn của phiên; (4) khi 12 hồn phách bái VL, toàn bộ linh lực hóa thành luồng khí đen gắn kết tạo cây hồn phiên hư ảo 3 trượng; VL nắm lấy = điều khiển Thập Ức Hồn Phiên. Trong Luyện Hồn tông: chỉ có Độn Thiên + VL (người thứ 2) biết pháp này. Bí pháp nằm trong ngọc giản Độn Thiên tặng kèm hồn phiên bản sao (@c0369). VL hoàn thành tế luyện trong vòng tròn đỏ Luyện Hồn phong, 12 hồn phách tử kim vái rồi quy phục (@c0370).",
+    "nguon": ["@c0369", "@c0370"]
+   },
+   {
+    "id": "tran-phap-dinh-vi",
+    "name": "Trận pháp định vị",
+    "cn": "",
+    "loai": "tran-phap",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "Bí trận đối phó thiên phú thần thông",
+    "hePhai": "Luyện Hồn Tông (gốc Độn Thiên) + cải tiến VL",
+    "soHuu": ["vuong-lam"],
+    "blurb": "Trận pháp chuyên đối phó thiên phú thần thông truyền tống của lão tổ Cự Ma tộc. Nguyên lý: gắn sợi dây vô hình vào người dùng — dù bị truyền tống đi không bị đi quá xa + nhanh chóng xác định phương hướng trở về. Gốc từ ngọc giản Độn Thiên tặng; VL pha trộn thêm thuật cấm chế bản thân → tinh diệu hơn. Mất 3 tháng bố trí, dùng khối tiên ngọc duy trì năng lượng + vô số cấm chế bảo vệ.",
+    "detail": "Nguyên lý kỹ thuật: buộc sợi dây vô hình (cấm chế) quanh người sử dụng; khi bị thiên phú thần thông truyền tống, sợi dây giữ lại — hạn chế khoảng cách bị tống, đồng thời cung cấp phương hướng để trở về. Độn Thiên thiết kế ban đầu dành riêng cho lão tổ Cự Ma tộc — lão đây là người duy nhất mà Độn Thiên biết có thiên phú thần thông loại này. VL nghiên cứu gốc rồi pha trộn cấm chế riêng → tinh vi hơn. Bố trí tại sơn cốc bí ẩn biên giới Cự Ma tộc: mất 3 tháng, đặt khối tiên ngọc duy trì năng lượng + vô số cấm chế bảo vệ xung quanh. (@c0370)",
+    "nguon": ["@c0370"]
+   },
+   {
+    "id": "co-than-rong-nhat-tu",
+    "name": "Cổ Thần rống — nhất tự ra oai",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông — Cổ Thần",
+    "phamCap": "Thần thông Cổ Thần đặc hữu",
+    "hePhai": "Cổ Thần",
+    "soHuu": ["vuong-lam"],
+    "blurb": "Thần thông VL lần đầu toàn lực thi triển sau khi bổn tôn + phân thân dung hợp: thốt một chữ (Biến! / Phong!) — tiếng hét Cổ Thần rống lên, thanh âm long trời lở đất. Uy lực: mây biến mất, mặt đất xé rách, vết nứt không gian xuất hiện, 17 tu sĩ Hóa Thần phun máu lui lại không dám ra tay. Lý Nguyên Phong nhận xét 'chẳng kém tu sĩ Anh Biến kỳ'.",
+    "detail": "Cơ chế: khi VL thốt một chữ (thường là 'Biến!' hoặc 'Phong!'), Cổ Thần bên trong VL toàn lực rống lên — thanh âm kết hợp ý cảnh Sinh Tử + sức mạnh thân thể tam tinh Cổ Thần. Biểu hiện: (1) thanh âm long trời lở đất; (2) mây biến mất khỏi bầu trời; (3) vết nứt không gian xuất hiện; (4) mặt đất xé rách; (5) toàn bộ tu sĩ Hóa Thần trong phạm vi phun máu lui lại, không dám ra tay. Điều kiện sử dụng: VL sau khi dung hợp bổn tôn + phân thân (thân thể tam tinh Cổ Thần). Lần đầu sử dụng toàn lực @c0366 (trước đó chỉ dùng một phần). Lý Nguyên Phong — Anh Biến kỳ — nhận xét uy lực tương đương Anh Biến kỳ. Tại Cự Ma tộc, thốt 'Biến!' khiến trưởng lão biến khổng lồ 10 trượng bị Nguyên Thần chấn động nghiêng ngả (@c0370).",
+    "nguon": ["@c0366", "@c0370"]
    }
   ]
  },
@@ -17699,7 +18525,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "map": {
   "updatedAt": "2026-06-14",
-  "count": 76,
+  "count": 81,
   "nodes": [
    {
     "id": "khong-manh-dai-luc",
@@ -18950,10 +19776,10 @@ window.LIB_DATA["tien-nghich"]={
     "cn": "",
     "capDo": "quoc",
     "parentId": "chu-tuoc-tinh",
-    "blurb": "Tu chân quốc trên Chu Tước tinh — nơi Hồng Điệp và Băng Tuyết Thần Điện đặt căn cứ. Hồng Điệp là hy vọng của quốc này trong cuộc tranh danh hiệu Chu Tước.",
-    "detail": "Tuyết Vực quốc là nơi Liêu Phàm xuất thân @c0331 và nơi Băng Tuyết Thần Điện đặt cung điện băng tuyết @c0333. Tông chủ Băng Tuyết Thần Điện (Anh Biến kỳ, đạt được nhờ Hồng Điệp) ở đây; hy vọng của quốc là Hồng Điệp giành danh hiệu Chu Tước @c0333. Liêu Phàm (đệ tử quốc này) đến thung lũng dưới Tiên Ngọc Bảo Tháp đòi Tằng Ngưu nộp Vũ phiến Dư bảo @c0331.",
+    "blurb": "Tu chân quốc trên Chu Tước tinh — nguyên ngũ cấp (do Hồng Điệp nâng lên từ tứ cấp). Nơi Lý Nguyên Phong (Anh Biến kỳ) cai trị và Băng Tuyết Thần Điện tọa lạc. Bị VL bức từ ngũ cấp xuống tam cấp sau khi Lý Nguyên Phong bị giết và toàn bộ tu sĩ Hóa Thần bị phong ấn @c0368.",
+    "detail": "Lịch sử cấp bậc: tứ cấp → ngũ cấp (sau khi Hồng Điệp điều kiện gia nhập Chu Tước quốc) → tam cấp (sau khi VL giết Lý Nguyên Phong + phong ấn toàn bộ Hóa Thần @c0368). Lý Nguyên Phong (Anh Biến kỳ) là duy nhất — khi lão chết không có Anh Biến mới thì tất yếu bị hạ cấp. Khắp nơi tuyết trắng, ánh sáng mặt trời phản xạ chói mắt (dân bản địa có vật bảo vệ mắt). Tông chủ: Lý Nguyên Phong. Sau @c0368: cấm tu sĩ ngoài Hóa Thần, cấm môn phái tu chân; Tuyết Vực quốc rơi xuống tam cấp. Liêu Phàm (đệ tử quốc này) xuất thân @c0331. Băng Tuyết Thần Điện là thánh địa tu luyện @c0366.",
     "theLucLienQuan": ["bang-tuyet-than-dien"],
-    "nguon": ["@c0331", "@c0333"]
+    "nguon": ["@c0331", "@c0333", "@c0366", "@c0368"]
    },
    {
     "id": "chu-tuoc-quoc",
@@ -18987,12 +19813,67 @@ window.LIB_DATA["tien-nghich"]={
     "detail": "Cơ cấu: 18 cường đạo phàm nhân (Hỏa Vân trại), trang bị vũ khí bình thường + Hỏa Vân độc. Bắt VL lúc phàm nhân đưa vào thủy lao @c0346. Thủy lao có linh lực rất nồng đậm (cao hơn ngoài đời rất nhiều) — VL tận dụng hấp thu, đột phá Ngưng Khí tầng 2 trong 2 tháng @c0347. Văn Thú giết cường đạo truy đuổi sau khi VL thoát @c0347.",
     "theLucLienQuan": [],
     "nguon": ["@c0346", "@c0347"]
+   },
+   {
+    "id": "ngoai-vi-luyen-hon-tong",
+    "name": "Ngọn núi ngoại vi đệ tử Luyện Hồn Tông (Bì Lô quốc)",
+    "cn": "",
+    "capDo": "diem",
+    "parentId": "bi-lo-quoc",
+    "blurb": "Khu vực các ngọn núi nơi ngoại vi đệ tử Luyện Hồn Tông sinh sống và tu luyện. Có linh mạch nhánh (bị VL hấp thu cạn thành phế mạch @c0352). Cạnh ngọn núi chính là ngọn núi bên cạnh — nơi VL được phân động phủ mới sau khi linh mạch cũ bị phế @c0353.",
+    "detail": "Cấu trúc: các ngọn núi rải rác trong khu vực ngoại vi, mỗi ngọn có hệ thống động phủ. Linh mạch nhánh chạy qua — VL hấp thu cạn tạo phế mạch @c0352. Ngoại vi đệ tử gồm hàng vạn người, kiểm tra bằng ngọc giản (phong ấn linh lực) @c0349. Đại hội tháng sáu tuyển 1 người từ hàng vạn vào nội môn @c0353-@c0355.",
+    "theLucLienQuan": ["luyen-hon-tong"],
+    "nguon": ["@c0351", "@c0352", "@c0353"]
+   },
+   {
+    "id": "son-coc-so-quoc",
+    "name": "Sơn cốc ngoài vùng tiên di (Sở quốc)",
+    "cn": "",
+    "capDo": "diem",
+    "parentId": "so-quoc",
+    "blurb": "Thung lũng nằm bên ngoài vùng tiên di ở Sở quốc — nơi Thiết Nham, Chu Như và Lôi Oa sinh sống sau khi VL ra đi. Có bảo tháp (Thiết Nham ngồi thiền dưới), cỏ xanh mơn mởn, không khí xuân. Chu Như cưỡi Tiểu Bạch chơi đùa tại đây @c0353.",
+    "detail": "Tiếp giáp với vùng tiên di Sở quốc nhưng ở bên ngoài — người thường có thể vào. Có bảo tháp (Thiết Nham ngồi thiền khoanh chân dưới bảo tháp). Môi trường: cỏ xanh mơn mởn, không khí mùa xuân. Thiết Nham, Chu Như, Lôi Oa sống tại đây từ khi VL giao phó Chu Như cho Thiết Nham (@c0334-@c0353).",
+    "theLucLienQuan": [],
+    "nguon": ["@c0353"]
+   },
+   {
+    "id": "noi-mon-luyen-hon-tong",
+    "name": "Nội môn Luyện Hồn Tông (3 phong)",
+    "cn": "",
+    "capDo": "diem",
+    "parentId": "bi-lo-quoc",
+    "blurb": "Khu vực nội môn Luyện Hồn Tông — tự hình thành một mảnh thiên địa riêng bên trong nội môn đại trận. Gồm 3 ngọn núi lớn chọc trời (Luyện Hồn/Trừu Phách/Toả Thần phong), phía sau có Cửu Kim hoàn (9 Hóa Thần bế quan) và 2 Huyết hoàn (2 Thuỷ Tổ Anh Biến). VL vào từ @c0356.",
+    "detail": "Cấu trúc: (1) 3 phong = 3 ngọn núi lớn chọc trời — Luyện Hồn Phong (có Tàng Kinh Các 3 tầng, Thiên Các, đại điện Đại trưởng lão), Trừu Phách Phong, Toả Thần Phong; (2) Cửu quyển Kim hoàn = 9 quầng sáng vàng khổng lồ nơi 9 Hóa Thần bế quan (nguyên bản 10, Tằng Ngưu giết 1); (3) 2 Huyết hoàn = nơi 2 Thuỷ Tổ Anh Biến bế quan (trong đó có Độn Thiên Thuỷ tổ). Quy tắc: không sư phụ, tự học, tự mở động phủ tu luyện. Không có quy tắc cấm giết/cướp — thua phải giao hết nhưng người thắng không được giết. Hiện chỉ có 3 Nguyên Anh hậu kỳ thủ hộ (Hóa Thần + Anh Biến đều bế quan) @c0356.",
+    "theLucLienQuan": ["luyen-hon-tong"],
+    "nguon": ["@c0356", "@c0357", "@c0359", "@c0360"]
+   },
+   {
+    "id": "bang-tuyet-than-dien",
+    "name": "Băng Tuyết thần điện",
+    "cn": "",
+    "capDo": "diem",
+    "parentId": "tuyet-vuc-quoc",
+    "blurb": "Thánh địa Tuyết Vực quốc — nơi tu sĩ Anh Biến kỳ bế quan chữa thương. Khắp nơi toàn tuyết trắng, ánh sáng mặt trời phản xạ chói mắt. Lý Nguyên Phong bế quan tại đây 2 năm để hồi phục thương thế do tiên lôi Tôn Thái gây ra. Bị VL phá sập nửa trong trận đánh @c0366.",
+    "detail": "Vị trí: trung tâm Tuyết Vực quốc, bên trong kinh đô. Môi trường: toàn tuyết trắng, ánh sáng mặt trời phản xạ có thể gây mù (dân bản địa có vật bảo vệ mắt). Bên trong điện: 8 tảng băng lớn tỏa tiên khí xếp quanh nơi Lý Nguyên Phong bế quan (dùng chữa thương). Sự kiện: VL đến gọi tên Lý Nguyên Phong — 3 lão nhân (2 nam 1 nữ) chặn giữa, VL đạp tạo vết nứt lan tới đại điện, phá sập nửa số tháp, giết 1 Hóa Thần trung kỳ. VL đấm vỡ 8 tảng băng, phá sập nửa điện trong trận đánh với Lý Nguyên Phong (@c0366). Sau khi Lý Nguyên Phong bị giết, điện còn nửa (@c0368).",
+    "theLucLienQuan": ["tuyet-vuc-quoc"],
+    "nguon": ["@c0333", "@c0366", "@c0368"]
+   },
+   {
+    "id": "12-cu-ma-thien",
+    "name": "12 Cự Ma Thiên",
+    "cn": "",
+    "capDo": "diem",
+    "parentId": "chu-tuoc-tinh",
+    "blurb": "12 tòa cung điện giống nhau cao trăm trượng trong tộc Cự Ma. Đây là trung tâm sinh sống và hội tụ của Cự Ma tộc trên Chu Tước tinh. Sất Hổ ngồi tại cung điện thứ 3. VL thuấn di vào giữa tộc rồi kêu gọi lão tổ Cự Ma tộc ra chiến đấu tại đây.",
+    "detail": "Cự Ma tộc: từ nơi khác di chuyển đến Chu Tước tinh, có hiệp nghị với Chu Tước (được dành chỗ sinh sống). 12 Cự Ma Thiên = 12 cung điện giống hệt nhau, cao trăm trượng. Chiến đấu kiểu tập thể: khi xác định kẻ địch, trưởng lão ra lệnh → toàn tộc cùng xông lên (không đơn đả độc đấu), tiếng hét dung hợp thành sóng xung kích. Sất Hổ ngồi tại cung điện thứ 3 phân vân khi VL tới @c0370. VL thuấn di vào giữa tộc, tuyên bố 'Tằng Ngưu', mấy trăm tộc nhân biến khổng lồ xuất Khai Thiên phủ (@c0370).",
+    "theLucLienQuan": ["cu-ma-toc"],
+    "nguon": ["@c0370"]
    }
   ]
  },
  "artifacts": {
-  "updatedAt": "2026-06-13",
-  "count": 89,
+  "updatedAt": "2026-06-14",
+  "count": 97,
   "artifacts": [
    {
     "id": "thanh-van-dan",
@@ -20801,6 +21682,118 @@ window.LIB_DATA["tien-nghich"]={
     "blurb": "Pháp bảo dạng quạt — Liêu Phàm đến Tằng Ngưu lấy danh nghĩa đòi Vũ phiến Dư bảo này để thăm dò thực lực VL. Không rõ ai là chủ nhân hợp lệ hay chi tiết pháp bảo; đây chỉ là cái cớ Liêu Phàm dùng.",
     "detail": "Liêu Phàm đến sơn cốc Tằng Ngưu xưng muốn lấy lại Vũ phiến Dư bảo @c0331. VL từ chối. Nhưng mục đích thật của Liêu Phàm là vâng lệnh tông chủ Băng Tuyết Thần Điện dò xét thực lực VL bằng Đồng Chung — Vũ phiến chỉ là cái cớ @c0331. Chi tiết thực chất của pháp bảo này không được nguyên tác triển khai thêm.",
     "nguon": ["@c0331"]
+   },
+   {
+    "id": "khon-tinh-nham",
+    "name": "Khôn Tinh Nham",
+    "cn": "",
+    "aliases": ["linh thạch đỏ hấp thu linh lực"],
+    "category": "linh-vat",
+    "categoryLabel": "Linh vật — Linh thạch đặc biệt",
+    "phamCap": "Nguyên liệu đặc biệt (lõi ngụy linh nhãn)",
+    "soHuu": ["vuong-lam"],
+    "trangThai": "VL thu lấy khi ngụy linh nhãn bị phá @c0351",
+    "blurb": "Linh thạch đỏ đặc biệt có khả năng hấp thu linh lực — là lõi cốt của ngụy linh nhãn mà Luyện Hồn Tông dùng để trấn áp linh mạch ngoại vi. VL phát hiện và thu lấy sau khi phá ngụy linh nhãn, chuẩn bị hấp thu cạn linh mạch @c0351.",
+    "detail": "Khôn Tinh Nham là loại linh thạch đỏ có tính năng đặc biệt: hấp thu và chứa trữ linh lực. Luyện Hồn Tông dùng làm lõi cốt của ngụy linh nhãn đặt tại linh mạch ngoại vi để trấn áp/kiểm soát linh mạch. Khi VL phá ngụy linh nhãn, linh thạch lộ ra và VL thu lấy (@c0351). Ứng dụng tiềm năng: nguyên liệu hoặc công cụ liên quan hấp thu linh lực.",
+    "nguon": ["@c0351"]
+   },
+   {
+    "id": "hon-phien-mot-kim-tuyen",
+    "name": "Hồn Phiên một kim tuyến",
+    "cn": "",
+    "aliases": ["cờ tím một kim tuyến"],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo — Hồn Phiên",
+    "phamCap": "Nhất kim tuyến (cấp thấp nhất có kim tuyến)",
+    "soHuu": ["vuong-lam"],
+    "trangThai": "VL cướp từ tu sĩ Kết Đan hậu kỳ trung niên, đã dung nhập thần thức @c0357",
+    "blurb": "Cờ nhỏ màu tím có một đạo kim tuyến — hồn phách bên trong phát hắc khí không bị gió thổi tiêu tan, có thể trưởng thành (thần thông tiếp tục tăng khi bị giam). Mấy trăm hồn phách, một số uy áp ngang Kết Đan kỳ. VL cướp từ tu sĩ trung niên tại nội môn Luyện Hồn Phong @c0357.",
+    "detail": "Đặc điểm nổi bật: hồn phách phát hắc khí — khác hồn phách tầm thường (có thể bị gió thổi tiêu tan), không tan dù bị tấn công. Hồn phách trong Hồn Phiên có thể 'trưởng thành' — thần thông tiếp tục lớn mạnh khi bị giam giữ, không suy yếu đi. Mấy trăm hồn phách, một số phát uy áp ngang tu sĩ Kết Đan kỳ bình thường. VL dùng trảo cách không đoạt từ tay tu sĩ trung niên, điểm lau sạch thần thức đối phương, dung nhập thần thức của mình — cảm giác 'nước mát thấm vào', hồn phách bị hút hết vào (@c0357).",
+    "nguon": ["@c0357"]
+   },
+   {
+    "id": "kim-sac-hon-phien",
+    "name": "Kim Sắc Hồn Phiên (Kim Sắc Tiểu Kỳ)",
+    "cn": "",
+    "aliases": ["Kim sắc tiểu kỳ", "Kim sắc Hồn Kỳ"],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo — Hồn Phiên trấn phái",
+    "phamCap": "Trấn phái chi bảo (Luyện Hồn Tông)",
+    "soHuu": [],
+    "trangThai": "Còn bên trong linh mạch Luyện Hồn Phong, bị thượng cổ hồn cấm bảo vệ; chủ hồn thật sự (Kỳ Lân kim mang) vừa xuất hiện đối mặt VL @c0360",
+    "blurb": "Pháp bảo trấn phái Luyện Hồn Tông — cờ nhỏ màu vàng kim nằm sâu trong linh mạch, bị thượng cổ hồn cấm bảo vệ từ bên ngoài. Bên trong chứa chủ hồn thật sự (hình Kỳ Lân kim mang) + nhiều phó hồn. Thuỷ tổ Luyện Hồn Tông để lệnh 'dành cho người có đức'. Ngô Đạo Khải 3 lần thách đấu đều không lấy được @c0358-@c0360.",
+    "detail": "Cấu trúc: kim sắc tiểu kỳ (cờ nhỏ vàng kim) là ngoại hình, bên trong chứa: (1) nhiều phó hồn hình Kỳ Lân yêu thú canh giữ bên ngoài; (2) chủ hồn thật sự bên trong (khí tức màu vàng, cực cường đại — khi xuất hiện hấp thu toàn bộ hồn phách phó hồn, ngưng tụ thành Kỳ Lân khổng lồ toàn thân kim mang, không còn cảm giác hồn phách mà như thật thể). Màn sương đen tràn ra từ trong tiểu kỳ, hồn cấm thượng cổ bảo vệ bên ngoài hấp thu linh lực từ linh mạch để nuôi dưỡng. Thuỷ tổ tông để lệnh dành cho 'người có đức' — không ai được giành. VL với tu vi Nguyên Anh trung kỳ trước đó không đối phó nổi; sau khi đột phá lại Nguyên Anh (thực chất Hóa Thần không ý cảnh) mới đủ sức đập phó hồn nhưng chủ hồn lập tức xuất hiện thách đấu (@c0358-@c0360).",
+    "nguon": ["@c0358", "@c0359", "@c0360"]
+   },
+   {
+    "id": "hon-phien-hai-kim-tuyen",
+    "name": "Hồn Phiên hai kim tuyến (Thiên Hồn Phiên — Quách Đông Kiện)",
+    "cn": "",
+    "aliases": ["Thiên Hồn Phiên Quách Đông Kiện"],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo — Hồn Phiên",
+    "phamCap": "Nhị kim tuyến (Thiên Hồn Phiên cấp)",
+    "soHuu": ["vuong-lam"],
+    "trangThai": "VL thu lấy sau khi Quách Đông Kiện quy phục @c0359",
+    "blurb": "Hồn Phiên hai kim tuyến của Quách Đông Kiện — rung lên phóng ra hồn phách đa cấp: Trúc Cơ, Kết Đan và một hồn phách Nguyên Anh kỳ hai sừng (cực hiếm). Đây là Thiên Hồn Phiên (từ nhị kim tuyến trở lên có thần thông). VL thu lấy sau khi thi triển Hồn Tuyền khiến Quách Đông Kiện quy phục @c0358-@c0359.",
+    "detail": "Hai đạo kim tuyến = phân cấp Thiên Hồn Phiên. Khi rung phóng ra hồn phách: hóa thành hắc khí hồn mang + gương mặt dữ tợn, chứa hồn phách đa cấp từ Trúc Cơ → Kết Đan → một hồn phách Nguyên Anh kỳ rất lớn (hai sừng trên đầu, tản mát khí tức Nguyên Anh). Hồn phách Nguyên Anh hai sừng: đổi được từ Tô Kim Thế ở Trừu Phách phong (đổi bằng Bách Hồn Phiên 900 hồn phách). Sau khi VL thi triển Hồn Tuyền hút sạch hồn phách và Quách Đông Kiện quy phục, VL thu lấy Hồn Phiên (@c0358-@c0359).",
+    "nguon": ["@c0358", "@c0359"]
+   },
+   {
+    "id": "van-hon-phien-ngo-dao-khai",
+    "name": "Vạn Hồn Phiên (Ngô Đạo Khải)",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo — Hồn Phiên",
+    "phamCap": "Vạn Hồn Phiên cấp (màu vàng nhạt)",
+    "soHuu": ["vuong-lam"],
+    "trangThai": "VL thu lấy khi Ngô Đạo Khải bị điểm hôn mê @c0360",
+    "blurb": "Vạn Hồn Phiên màu vàng nhạt của Ngô Đạo Khải, đại trưởng lão Luyện Hồn Phong. Chủ hồn: tu sĩ Nguyên Anh hậu kỳ. Phó hồn: 10 tu sĩ Nguyên Anh trung/sơ kỳ. Còn lại vô số hồn phách. Dùng chiêu Vạn hồn phệ + Huyết tế trong chiến đấu. VL thu lấy khi Ngô Đạo Khải hôn mê @c0360.",
+    "detail": "Vạn Hồn Phiên = cấp cao nhất Hồn Phiên (vạn hồn phách). Màu vàng nhạt. Cấu trúc của pháp bảo Ngô Đạo Khải: chủ hồn là một tu sĩ Nguyên Anh hậu kỳ + 10 phó hồn Nguyên Anh trung/sơ kỳ + vô số hồn phách cấp thấp. Ngô Đạo Khải dùng chiêu 'Vạn hồn phệ' (phất Hồn Phiên, triệu toàn bộ hồn phách xông vào) kết hợp 'Huyết tế' (quả huyết cầu kích nội công ngoại kích) để chiến đấu Kỳ Lân phó hồn. VL điểm Ngô Đạo Khải hôn mê và thu lấy (@c0360).",
+    "nguon": ["@c0360"]
+   },
+   {
+    "id": "than-phien-linh-tu-moc",
+    "name": "Thần Phiên Linh (Tử Mộc Phiên Linh)",
+    "cn": "",
+    "aliases": ["Tử Mộc Phiên Linh", "chuông gỗ Toả Thần phong"],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo — Trọng bảo",
+    "phamCap": "Trọng bảo Toả Thần phong (Luyện Hồn Tông)",
+    "soHuu": ["vuong-lam"],
+    "trangThai": "VL thu lấy từ Ngô Đạo Khải khi lão hôn mê @c0360",
+    "blurb": "Trọng bảo của Toả Thần phong — một trong tam phong Luyện Hồn Tông. Hình dạng: cái chuông lớn, nắm bằng gỗ có vân gỗ thiên nhiên phức tạp. Khi rung phát tiếng 'đinh đinh đang đang' → hóa thành yêu thú hư ảo hình người, gào rít tấn công mục tiêu. Ngô Đạo Khải mượn từ Toả Thần phong để chiến đấu Kim sắc Hồn Phiên; VL thu lấy sau khi Ngô Đạo Khải hôn mê @c0360.",
+    "detail": "Tên gọi: Thần Phiên Linh = Tử Mộc Phiên Linh (hai tên cho cùng một bảo vật). Đặc điểm: nắm bằng gỗ có vân gỗ thiên nhiên phức tạp (khác pháp bảo thông thường). Khi rung: phát tiếng đinh đinh đang đang → sinh ra các yêu thú hư ảo hình người gào rít, tấn công và kiềm chế mục tiêu. Ngô Đạo Khải dùng để kiềm chế 2 Kỳ Lân phó hồn của Kim sắc Hồn Phiên khi con thứ 3 xuất hiện. Là trọng bảo — loại pháp bảo cao cấp thuộc về cả phong, không phải cá nhân. Ngô Đạo Khải phải mượn từ Toả Thần phong để dùng. VL thu lấy khi Ngô Đạo Khải hôn mê (@c0360).",
+    "nguon": ["@c0360"]
+   },
+   {
+    "id": "hon-phach-anh-bien-ky-ly-nguyen-phong",
+    "name": "Hồn phách Anh Biến kỳ (Lý Nguyên Phong)",
+    "cn": "",
+    "aliases": ["hồn phách vàng Lý Nguyên Phong"],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo — Hồn phách",
+    "phamCap": "Hồn phách Anh Biến kỳ (tối cao)",
+    "soHuu": ["vuong-lam"],
+    "trangThai": "VL phong ấn trong túi trữ vật sau khi Trừu Phách Lý Nguyên Phong @c0368",
+    "blurb": "Hồn phách Anh Biến kỳ của Lý Nguyên Phong — rút ra bằng thuật Dẫn Hồn (nhánh Trừu Phách) sau khi lão đầu hàng. Hiện thành luồng ánh sáng màu vàng, thân thể Lý Nguyên Phong nhanh chóng khô héo chỉ còn da bọc xương. Phong ấn trong túi trữ vật VL, có thể dùng cho các mục đích tu luyện hoặc luyện hồn phiên sau này.",
+    "detail": "Thu được qua thuật Dẫn Hồn: VL điểm ngón tay vào khoảng không, đạo linh quang bay vào mi tâm Lý Nguyên Phong — rút hồn phách Anh Biến kỳ ra ngoài. Hồn phách hiện thành luồng ánh sáng màu vàng đặc trưng của tu sĩ Anh Biến. Thân thể Lý Nguyên Phong khô héo (chỉ còn da bọc xương) sau khi bị rút hồn — 'một đời kiêu hùng cứ thế mà bỏ mình'. Điều kiện: Lý Nguyên Phong trước đó đã đầu hàng VL (bỏ ý định tự bạo để không hủy diệt Tuyết Vực quốc). VL phong ấn cho vào túi trữ vật — tiềm năng dùng cho Thập Ức Tôn Hồn Phiên hoặc mục đích tu luyện sau này (@c0368).",
+    "nguon": ["@c0368"]
+   },
+   {
+    "id": "thap-uc-ton-hon-phien-ban-sao",
+    "name": "Thập Ức Tôn Hồn Phiên (bản sao — VL dùng)",
+    "cn": "",
+    "aliases": ["bản sao Thập Ức Tôn Hồn Phiên", "hồn phiên vàng tím"],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo — Chí bảo Luyện Hồn Tông",
+    "phamCap": "Chí bảo bậc nhất Chu Tước tinh (ngang thần xa, Vũ Chi Kiếm Tiên) — đây là bản sao 1/3 uy lực",
+    "soHuu": ["vuong-lam"],
+    "trangThai": "VL đang tế luyện — hoàn thành @c0370; chỉ dùng được 2 lần rồi tan biến",
+    "blurb": "Bản sao (phân thân) Thập Ức Tôn Hồn Phiên — chí bảo số một Luyện Hồn Tông, ngang hàng thần xa và Vũ Chi Kiếm Tiên trên toàn Chu Tước tinh. Lá cờ lớn cao 3 trượng, tỏa ánh sáng vàng tím, phát tiếng quỷ khóc sói tru. Bản sao có 1/3 uy lực chủ phiên, chỉ dùng 2 lần rồi tan biến. Độn Thiên để lại cho VL trước khi bế quan, nhờ Âu Dương Thiên giao. VL hoàn thành tế luyện bằng Tỏa Thần pháp tại Luyện Hồn phong.",
+    "detail": "Chủ phiên chính thức: đang ở bên Độn Thiên bế quan trong vòng tròn đỏ như máu tại Luyện Hồn tông. Bản sao: 1/3 uy lực chủ phiên, dùng tối đa 2 lần rồi tan biến. Cấu trúc: bên trong là hồn hải chứa vô số hồn phách; cốt lõi là 12 hồn phách tử kim (Anh Biến kỳ tự nguyện hiến tế) + hàng trăm Hóa Thần + vô số Nguyên Anh. 12 hồn phách tử kim là linh hồn phiên — điều khiển chúng = điều khiển toàn bộ hồn phiên. Phương pháp tế luyện: Tỏa Thần pháp (chỉ Độn Thiên + VL biết). VL hoàn thành tế luyện: 12 hồn phách bái rồi quy phục, tạo cây hồn phiên hư ảo cao 3 trượng → VL nắm linh hồn → Nguyên Thần chứa hồn phiên vàng tím. Yêu cầu tu vi: thấp hơn thần xa, VL sau khi dung hợp bổn tôn đủ sức dùng (@c0369-@c0370).",
+    "nguon": ["@c0363", "@c0369", "@c0370"]
    }
   ]
  },
@@ -21107,10 +22100,10 @@ window.LIB_DATA["tien-nghich"]={
     "viTri": "Chu Tước tinh (chi tộc); gốc ở nơi khác (tổ tiên di cư)",
     "capDo": "Ngũ cấp — thành viên hệ thống Liên Minh Tu Chân @c0104; cường giả Anh Biến kỳ được xác nhận @c0101",
     "lanhDao": "Tiểu tộc trưởng: Sất Hổ (chi tộc Chu Tước tinh)",
-    "trangThai": "Đang hoạt động; lão tổ vây VL @c0342–0343; Sất Hổ bị phạt bế quan trăm năm @c0342",
-    "blurb": "Ngũ cấp tu chân quốc trong hệ thống Liên Minh Tu Chân — thế lực có cường giả Anh Biến kỳ. Xuất hiện tại Triệu quốc lấy Thất Thải pháp khí @c0083 và thu hồi hạt châu @c0101. Chi tộc tại Chu Tước tinh do tiểu tộc trưởng Sất Hổ lãnh đạo; lão tổ Anh Biến kỳ (cưỡng ép, tóc xám) vây bắt VL @c0342 bị Tôn Thái cầm chân.",
-    "detail": "Cự Ma tộc xác nhận là ngũ cấp tu chân quốc trong hệ thống Liên Minh Tu Chân — thấp hơn Chu Tước Quốc (lục cấp) và cao hơn Thanh Long Quốc (tứ cấp) @c0104. Cường giả Anh Biến kỳ: thân người khổng lồ xuất hiện tại Triệu quốc để thu hồi hạt châu @c0101; tước đoạt con thoi đỏ của Mã Lương sau 3 ngày Mã Lương truy đuổi không kịp @c0101. Hình thái đặc biệt: người khổng lồ. Tại Vực Ngoại: có xác người khổng lồ Cự Ma tộc cổ đại — trán khắc hình búa đen — mà VL ký thác linh hồn vào tạm thời trong khe nứt để rèn thần thức @c0102. Chi tộc tại Chu Tước tinh: Sất Hổ (tiểu tộc trưởng, trán dấu búa rìu, Cự Ma Huyết nhiều nhất tộc) tiết lộ tổ tiên Cự Ma tộc không phải gốc Chu Tước tinh @c0287. Tặng Tinh La Bàn cho VL @c0296. Lão tổ Anh Biến kỳ (cưỡng ép, tóc xám) ra lệnh vây bắt VL cùng Lý Nguyên Phong tại Chu Tước tinh @c0342, bố Phong Ma Khôn Càn Trận @c0343 — bị Tôn Thái cầm chân, VL thoát. Phạt Sất Hổ bế quan trăm năm vì phản lại.",
-    "thanhVien": ["sat-ho", "lao-to-cu-ma-toc"],
+    "trangThai": "Đang hoạt động; lão tổ đoạt xá 2 năm, đang bế quan vị trí thay đổi 3 lần @c0370; VL tới đòi giết lão tổ @c0370",
+    "blurb": "Ngũ cấp tu chân quốc trong hệ thống Liên Minh Tu Chân — thế lực có cường giả Anh Biến kỳ. Từ nơi khác di chuyển đến, có hiệp nghị với Chu Tước được dành chỗ. Có 12 Cự Ma Thiên (12 cung điện cao trăm trượng). Lão tổ vây bắt VL @c0342, sau đó mất thân thể phải đoạt xá 2 năm. VL tới trả thù @c0370.",
+    "detail": "Cự Ma tộc xác nhận là ngũ cấp tu chân quốc trong hệ thống Liên Minh Tu Chân @c0104. Có hiệp nghị với Chu Tước (được dành chỗ sinh sống). 12 Cự Ma Thiên = 12 cung điện giống nhau cao trăm trượng. Phong tục chiến đấu: xác định kẻ địch thì không đơn đả độc đấu — trưởng lão ra lệnh → toàn tộc cùng xông lên, tiếng hét dung hợp thành sóng xung kích. Vũ khí đặc trưng: Khai Thiên phủ (biến khổng lồ, xoa mi tâm xuất hiện phủ). Cường giả Anh Biến kỳ: thân khổng lồ @c0101; lão tổ (cưỡng ép, tóc xám) vây VL @c0342, bố Phong Ma Khôn Càn Trận @c0343 — bị Tôn Thái cầm chân. Hai năm trước lão tổ mất thân thể phải đoạt xá, vị trí bế quan thay đổi 3 lần, cả tộc không biết @c0370. VL suy đoán: tổ tiên Cự Ma tộc có thể liên quan Cổ Thần (phong cách chiến đấu giống) @c0369. @c0370: VL thuấn di vào giữa tộc thách đấu — trưởng lão tóc bạc dùng lệnh bài ra lệnh toàn tộc giết Tằng Ngưu; bị VL triển khai ý cảnh Sinh Tử + Cổ Thần áp chế hàng loạt; Sất Hổ xuất hiện hét 'dừng tay'.",
+    "thanhVien": ["sat-ho", "lao-to-cu-ma-toc", "truong-lao-toc-bac-cu-ma-toc"],
     "nguon": [
      "@c0082",
      "@c0083",
@@ -21122,7 +22115,10 @@ window.LIB_DATA["tien-nghich"]={
      "@c0287",
      "@c0288",
      "@c0342",
-     "@c0343"
+     "@c0343",
+     "@c0368",
+     "@c0369",
+     "@c0370"
     ]
    },
    {
@@ -21188,20 +22184,41 @@ window.LIB_DATA["tien-nghich"]={
     "loai": "tong-mon",
     "loaiLabel": "Tông môn (ngũ cấp tu chân quốc)",
     "viTri": "Bì Lô quốc (ngũ cấp tu chân quốc), phương bắc Chu Tước đại lục",
-    "capDo": "Tông phái ngũ cấp tu chân quốc",
-    "lanhDao": "Không rõ",
-    "trangThai": "Đang hoạt động tại Bì Lô quốc @c0349–0350",
-    "blurb": "Tông môn tại Bì Lô quốc (ngũ cấp tu chân quốc); trấn phái chi bảo là Hồn Phiên ẩn hơn 10 triệu hồn phách, tạo hàng ngàn năm. Đệ tử hạch tâm vài trăm người, đệ tử ngoại vi vạn người; thi đấu 3 năm một lần để thăng hạch tâm. VL (danh Thanh Mộc) nhập môn làm ngoại vi đệ tử @c0349–0350.",
-    "detail": "Luyện Hồn Tông ở Bì Lô quốc (ngũ cấp tu chân quốc) @c0099. Trấn phái chi bảo là Hồn Phiên ẩn >10 triệu hồn phách, chế tạo hàng ngàn năm. Phiên bản của Đằng Hóa Nguyên chỉ chứa 3 vạn tinh hồn — kém rất xa. Cơ cấu đệ tử: hạch tâm vài trăm người, ngoại vi vạn người; thi đấu 3 năm một lần để thăng cấp lên hạch tâm @c0349. Nhân vật xác nhận: Hồng Mao Tử (đệ tử Kết Đan sơ kỳ), Thường Đại Vĩ (phụ trách tiếp nhận ngoại vi đệ tử). VL dùng tên 'Thanh Mộc' gia nhập ngoại vi, được cấp động phủ 803 @c0349–0350.",
+    "capDo": "Tông phái ngũ cấp tu chân quốc (có Anh Biến tọa trấn)",
+    "lanhDao": "2 Thuỷ Tổ Anh Biến kỳ (bế quan), 9 Hóa Thần kỳ (bế quan); hiện 3 Nguyên Anh hậu kỳ thủ hộ",
+    "trangThai": "Đang hoạt động — VL (Thanh Mộc) được Độn Thiên chỉ định làm Thiếu tông chủ (người kế thừa) @c0369",
+    "blurb": "Tông môn tại Bì Lô quốc, nổi danh về Hồn Phiên thuật — thu hồn luyện phiên, uy lực không kém Cấm Phiên. Nội môn chia 3 phong (Luyện Hồn/Trừu Phách/Toả Thần). Thủy tổ Độn Thiên (Anh Biến hậu kỳ) chỉ định VL làm người kế thừa, giao bản sao Thập Ức Tôn Hồn Phiên @c0369. Không có quy tắc — đệ tử giết/cướp tự do; thua phải giao hết nhưng người thắng không được giết.",
+    "detail": "Luyện Hồn Tông ở Bì Lô quốc (ngũ cấp tu chân quốc) — có tu sĩ Anh Biến kỳ tọa trấn. Trấn phái chi bảo: Thập Ức Tôn Hồn Phiên (chí bảo bậc nhất, ngang thần xa + Vũ Chi Kiếm Tiên) + Kim sắc Hồn Phiên (trấn áp dưới tam phong). Thủy tổ: Độn Thiên (Anh Biến hậu kỳ) + 1 Thủy tổ khác (cùng Huyết hoàn). Cơ cấu đệ tử: nội môn (vài trăm, 3 phong), ngoại vi (vạn người); đại hội 3 năm/1 lần tuyển 1 ngoại vi @c0353-@c0355. Cấu trúc: 3 phong (Luyện Hồn/Trừu Phách/Toả Thần) + Cửu Kim hoàn (9 Hóa Thần, nguyên bản 10) + 2 Huyết hoàn @c0356. Quy tắc: không cấm giết/cướp, thua phải giao hết nhưng không được giết @c0357. Hồn Phiên Tam Pháp: 10 ngọc giản toàn tông @c0357-@c0359. VL (Thanh Mộc) vào nội môn @c0356, sau đó được Độn Thiên chỉ định làm Thiếu tông chủ (người kế thừa) và giao bản sao Thập Ức Tôn Hồn Phiên + ngọc giản trận pháp @c0369. Âu Dương Thiên ở tông 700 năm, canh giữ giao vật @c0369.",
     "thanhVien": [
+     "Độn Thiên (Thủy tổ, Anh Biến hậu kỳ — đang bế quan)",
+     "Âu Dương Thiên (Hóa Thần, ở tông 700 năm)",
      "Hồng Mao Tử",
      "Thường Đại Vĩ",
-     "Vương Lâm (danh Thanh Mộc, ngoại vi đệ tử)"
+     "Ngô Đạo Khải (đại trưởng lão Luyện Hồn Phong)",
+     "Vương Chấn (nội môn đệ tử)",
+     "Hứa Vân (nội môn đệ tử)",
+     "Lưu Vi (nội môn đệ tử)",
+     "Quách Đông Kiện (nội môn đệ tử)",
+     "Tư Mã lão giả (cựu ngoại vi đệ tử, vào nội môn Toả Thần Phong)",
+     "Vương Lâm (danh Thanh Mộc, nội môn đệ tử Luyện Hồn Phong, Thiếu tông chủ được chỉ định)"
     ],
     "nguon": [
      "@c0099",
      "@c0349",
-     "@c0350"
+     "@c0350",
+     "@c0351",
+     "@c0352",
+     "@c0353",
+     "@c0355",
+     "@c0356",
+     "@c0357",
+     "@c0358",
+     "@c0359",
+     "@c0360",
+     "@c0362",
+     "@c0363",
+     "@c0369",
+     "@c0370"
     ]
    },
    {
