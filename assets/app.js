@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-14T21:50Z — Nhân mạch: bộ lọc tuyến + link tên→thẻ nhân vật kia (2 chiều). Deep-link + Map zoom/pan giữ. */
+/* sync-bump 2026-06-14T22:10Z — fix lọc Kinh lịch theo quyển (addEventListener + bỏ option placeholder dư) + Nhân mạch lọc tuyến/link. */
 /* ===================== Thư Viện Tiên Hiệp — app trang bộ ===================== */
 (function () {
   "use strict";
@@ -317,8 +317,7 @@
     // Bộ lọc quyển: DROPDOWN gọn, mặc định "Tất cả"; chỉ hiện khi kinh lịch trải >1 quyển.
     klQuyens.sort((a, b) => (a.start || 0) - (b.start || 0));
     const klFilter = (klQuyens.length > 1)
-      ? '<div class="ql-filter"><select class="ql-select" id="klQuyenSel">' +
-        '<option value="">▾ Đạo hữu chọn theo quyển để tra nhanh hơn…</option>' +
+      ? '<div class="ql-filter"><label class="ql-lbl">Lọc theo quyển:</label><select class="ql-select" id="klQuyenSel">' +
         '<option value="">— Tất cả các quyển —</option>' +
         klQuyens.map(q => '<option value="' + esc(q.value) + '" title="' + esc(q.han || "") +
           '">Quyển ' + esc(String(q.so)) + ': ' + esc(q.ten) + ' (' + esc(qRange(q)) + ')</option>').join("") +
@@ -482,10 +481,15 @@
     });
     // bộ lọc Kinh lịch theo QUYỂN (dropdown gọn)
     const klSel = $("#dBody").querySelector("#klQuyenSel");
-    if (klSel) klSel.onchange = () => {
-      const q = klSel.value;
-      $("#dBody").querySelectorAll("#klTimeline .ev").forEach(d => { d.style.display = (!q || d.dataset.q === q) ? "" : "none"; });
-    };
+    if (klSel) {
+      const applyKl = () => {
+        const q = klSel.value;
+        $("#dBody").querySelectorAll("#klTimeline .ev").forEach(d => {
+          d.style.display = (!q || d.dataset.q === q) ? "" : "none";
+        });
+      };
+      klSel.addEventListener("change", applyKl);
+    }
     // bộ lọc Nhân mạch theo TUYẾN
     $("#dBody").querySelectorAll(".nm-filter .nmf").forEach(b => b.onclick = () => {
       $("#dBody").querySelectorAll(".nm-filter .nmf").forEach(x => x.classList.remove("active"));
