@@ -492,7 +492,7 @@
       b.classList.add("active");
       const tu = b.dataset.nmf;
       $("#dBody").querySelectorAll(".nm-list .nm-item").forEach(it => { it.style.display = (!tu || it.dataset.tuyen === tu) ? "" : "none"; });
-    };
+    });
     // click tên trong Nhân mạch -> mở thẻ nhân vật kia
     $("#dBody").querySelectorAll(".nm-link[data-gochar]").forEach(a => a.onclick = (ev) => {
       ev.preventDefault();
