@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-15T07:33:30.053Z build_datajs */
+/* sync-bump 2026-06-15T08:47:41.132Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-14",
-  "count": 219,
+  "count": 220,
   "chars": [
    {
     "id": "vuong-lam",
@@ -20287,6 +20287,102 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0040"
     ]
+   },
+   {
+    "id": "kien-phong",
+    "name": "Kiền Phong",
+    "cn": "乾峰",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Chu Tước quốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "",
+    "trangThai": "song",
+    "blurb": "Nhị đệ tử của Chu Tước Tử, nam tử tóc dài áo trắng tướng mạo anh tuấn mà toát vẻ tà dị. Chủ mưu dẫn Cự Ma Tộc về Chu Tước quốc, nắm giữ vị trí trận nhãn Chu Tước kỳ trận.",
+    "vaiTro": "Nhị đệ tử Chu Tước Tử; trận nhãn Chu Tước kỳ trận; đối thủ của Vương Lâm tại biên giới Chu Tước đại lục",
+    "tinhCach": [
+     {
+      "text": "Anh tuấn bề ngoài nhưng toát vẻ tà dị, có sức hấp dẫn kỳ lạ khó giải thích",
+      "chuong": "@c0391"
+     },
+     {
+      "text": "Mưu lược, chủ động — tự mình đến Cự Ma Tộc giải phong ấn để phục vụ mục đích lớn hơn",
+      "chuong": "@c0391"
+     },
+     {
+      "text": "Kiêu ngạo, thích khiêu chiến, nhưng biết nhận thực lực đối thủ khi bị ép lui",
+      "chuong": "@c0391"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nhị đệ tử Chu Tước Tử, đảm nhiệm trận nhãn Chu Tước kỳ trận — vị trí then chốt bảo vệ toàn Chu Tước đại lục",
+       "chuong": "@c0391"
+      },
+      {
+       "text": "Chủ mưu giải khai phong ấn toàn bộ người Cự Ma Tộc và dẫn họ về Chu Tước quốc để dung nhập thần thông vào trận pháp",
+       "chuong": "@c0391"
+      },
+      {
+       "text": "Bị tiên kiếm của Vương Lâm ép lui trăm trượng, ngón tay phải rỉ máu chảy dọc cánh tay mà không hay — lần đầu chạm mặt thực lực tiên bảo",
+       "chuong": "@c0391"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0391",
+       "importance": "major",
+       "tieuDe": "Trận Nhãn Ra Mặt, Ngăn Vương Lâm",
+       "text": "Sau khi Độn Thiên ép trận nhãn trong ba nhịp thở, Kiền Phong xuất hiện — tóc dài, áo trắng, anh tuấn nhưng tà dị. Y mở lỗ hổng cho Độn Thiên vào rồi khép trận nhốt Vương Lâm bên ngoài, chủ động khiêu chiến với danh nghĩa muốn cùng Tằng Ngưu đạo hữu bàn luận một trận. Bị Vương Lâm rút tiên kiếm dung nhập tiên lực chém cắt lời, một tiếng nổ lớn ép hắn lui trăm trượng; ngón tay phải rỉ máu chảy dọc cánh tay mà hắn không hay — kinh hãi nhận ra đối thủ cầm tiên bảo."
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "",
+     "nhanMach": [
+      {
+       "ten": "Chu Tước Tử",
+       "tag": "su-mon",
+       "quanHe": "Sư phụ",
+       "ghiChu": "Kiền Phong là nhị đệ tử của Chu Tước Tử"
+      },
+      {
+       "ten": "Hồng Điệp",
+       "tag": "su-mon",
+       "quanHe": "Sư muội (theo cách Kiền Phong gọi)",
+       "ghiChu": "Kiền Phong gọi Hồng Điệp là sư muội nghịch ngợm; Hồng Điệp cũng là người hầu của Kiền Phong"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ",
+       "ghiChu": "Chủ động ngăn Vương Lâm vào Chu Tước đại lục, khiêu chiến và bị ép lui bởi tiên kiếm"
+      },
+      {
+       "ten": "Độn Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Đối lập",
+       "ghiChu": "Độn Thiên ép Kiền Phong mở trận, bước vào Chu Tước đại lục; hai bên căng thẳng nhưng chưa đánh nhau trực tiếp"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "uuTien": 60,
+    "nguon": [
+     "@c0391"
+    ]
    }
   ]
  },
@@ -20483,7 +20579,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "techniques": {
   "updatedAt": "2026-06-14",
-  "count": 111,
+  "count": 113,
   "techniques": [
    {
     "id": "ngung-khi-tam-thien",
@@ -22433,6 +22529,42 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0341"
     ]
+   },
+   {
+    "id": "chu-tuoc-ky-tran",
+    "name": "Chu Tước kỳ trận",
+    "cn": "朱雀奇阵",
+    "loai": "bi-thuat",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "Vấn Đỉnh Hậu Kỳ (uy năng tương đương)",
+    "hePhai": "Chu Tước quốc",
+    "soHuu": [
+     "Chu Tước quốc",
+     "Kiền Phong"
+    ],
+    "blurb": "Trận pháp hùng mạnh nhất Chu Tước Tinh, quầng sáng xanh bao phủ toàn bộ Chu Tước đại lục; có thể phóng to bao cả một tinh cầu hoặc thu nhỏ bảo vệ một người.",
+    "detail": "Chu Tước kỳ trận là trận pháp được xem là hùng mạnh nhất trên Chu Tước Tinh. Khi kích hoạt, một quầng sáng xanh khổng lồ dâng lên bao phủ toàn bộ Chu Tước đại lục. Trận có thể điều chỉnh quy mô: phóng lớn để bao trùm cả Chu Tước Tinh chống lại tu sĩ và yêu thú từ bên ngoài, hoặc thu nhỏ để bảo vệ một cá nhân duy nhất. Mỗi lần khai động đòi hỏi lượng linh thạch khổng lồ cùng tiên ngọc, uy năng khi phát huy đầy đủ được đánh giá ngang với cường giả Vấn Đỉnh Hậu Kỳ. Cứ một vạn dặm có một người hóa trận nhãn, phụ trách điều phối một đoạn trận. Sau khi Kiền Phong dẫn Cự Ma Tộc về Chu Tước quốc, máu tộc này được dung nhập vào trận, bổ sung thêm thiên phú thần thông của Cự Ma Tộc — cụ thể là khả năng hóa thành nắm tay hư ảo bằng ánh sáng xanh để đánh tan đòn công kích của đối thủ.",
+    "nguon": [
+     "@c0391"
+    ]
+   },
+   {
+    "id": "than-thong-cu-ma-toc-trong-tran",
+    "name": "Thần thông Cự Ma Tộc dung nhập trận",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "",
+    "hePhai": "Cự Ma Tộc",
+    "soHuu": [
+     "Cự Ma Tộc",
+     "Chu Tước quốc"
+    ],
+    "blurb": "Thiên phú thần thông của Cự Ma Tộc được dung nhập vào Chu Tước kỳ trận qua máu tộc nhân, hóa thành nắm tay hư ảo bằng ánh sáng xanh để đánh tan mọi công kích từ bên ngoài.",
+    "detail": "Sau khi Kiền Phong giải khai phong ấn toàn bộ người Cự Ma Tộc và đưa họ về Chu Tước quốc, máu của tộc này được dung nhập vào Chu Tước kỳ trận nhằm mục đích tận dụng thiên phú thần thông vốn có của tộc. Khi trận bị công kích từ bên ngoài, thần thông này phát huy hiệu quả bằng cách hóa hiện một nắm tay hư ảo to lớn từ ánh sáng xanh, tung quyền đánh tan đạo tấn công của đối thủ. Độn Thiên, sau khi thử trận bằng một đạo hắc khí và bị nắm tay hư ảo hóa giải, đã nhận ra ngay đây là dấu vết thần thông của Cự Ma Tộc kết hợp vào trận pháp. Đây chính là lý do Chu Tước Tử sai Kiền Phong đích thân đến Cự Ma Tộc thực hiện kế hoạch này.",
+    "nguon": [
+     "@c0391"
+    ]
    }
   ]
  },
@@ -22550,7 +22682,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "map": {
   "updatedAt": "2026-06-14",
-  "count": 92,
+  "count": 93,
   "nodes": [
    {
     "id": "trieu-quoc",
@@ -24037,12 +24169,29 @@ window.LIB_DATA["tien-nghich"]={
      "@c0388",
      "@c0389"
     ]
+   },
+   {
+    "id": "chu-tuoc-dai-luc",
+    "name": "Chu Tước đại lục",
+    "cn": "朱雀大陆",
+    "capDo": "chau",
+    "parentId": "chu-tuoc-tinh",
+    "blurb": "Đại lục chính trên Chu Tước Tinh, bị Chu Tước kỳ trận — quầng sáng xanh khổng lồ — bao phủ toàn bộ nhằm đối phó Tiên Di Tộc.",
+    "detail": "Chu Tước đại lục nằm trên Chu Tước Tinh; biên giới phía bắc là điểm Vương Lâm và Độn Thiên tiếp cận và bị Chu Tước kỳ trận chặn lại. Toàn bộ đại lục bị trận pháp hùng mạnh nhất Chu Tước Tinh che phủ — quầng sáng xanh dâng lên phủ kín, uy năng sánh ngang Vấn Đỉnh Hậu Kỳ, cần lượng linh thạch và tiên ngọc khổng lồ mỗi lần kích hoạt. Kiền Phong — nhị đệ tử Chu Tước Tử — trấn thủ làm trận nhãn tại đây, đồng thời là người chủ mưu dẫn Cự Ma Tộc về để dung nhập thần thông tộc này vào trận.",
+    "theLucLienQuan": [
+     "Chu Tước quốc",
+     "Cự Ma Tộc",
+     "Tiên Di Tộc"
+    ],
+    "nguon": [
+     "@c0391"
+    ]
    }
   ]
  },
  "artifacts": {
   "updatedAt": "2026-06-14",
-  "count": 127,
+  "count": 129,
   "artifacts": [
    {
     "id": "thach-chau",
@@ -26526,6 +26675,40 @@ window.LIB_DATA["tien-nghich"]={
     "detail": "La Lâm đan là viên tứ phẩm màu xanh lam, đóng vai thứ tế trong nghi thức Tế đan luyện ngũ phẩm linh đan; đặt vào vòng đan đỉnh tạo cột sáng màu lam (một trong sáu cột sáng đủ màu) @c0199.",
     "nguon": [
      "@c0199"
+    ]
+   },
+   {
+    "id": "tien-kiem-vuong-lam",
+    "name": "Tiên kiếm Vương Lâm",
+    "cn": "仙剑",
+    "category": "phap-bao",
+    "categoryLabel": "Tiên bảo · Binh khí",
+    "phamCap": "Tiên bảo",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "Đang sử dụng",
+    "blurb": "Tiên kiếm bậc tiên bảo của Vương Lâm, dung nhập tiên lực chém ra uy lực vượt xa pháp bảo thường, một nhát ép Kiền Phong lui trăm trượng.",
+    "detail": "Vương Lâm rút tiên kiếm từ túi trữ vật, dung nhập tiên lực đẩy đến cực hạn rồi chém ra — nhanh như tia chớp, nổ lớn vang trời. Kiền Phong điểm tay vào hư không đỡ nhưng vẫn bị đẩy lui trăm trượng mới gạt hết tiên lực, ngón tay phải rỉ máu chảy dọc cánh tay mà không hay. Kiền Phong kinh hãi nhận ra đây là tiên bảo, uy năng vượt hẳn dự liệu của hắn.",
+    "nguon": [
+     "@c0391"
+    ]
+   },
+   {
+    "id": "chu-tuoc-ky-tran",
+    "name": "Chu Tước kỳ trận",
+    "cn": "朱雀旗阵",
+    "category": "khac",
+    "categoryLabel": "Trận pháp",
+    "phamCap": "Cực phẩm (uy năng ngang Vấn Đỉnh Hậu Kỳ)",
+    "soHuu": [
+     "Chu Tước quốc"
+    ],
+    "trangThai": "Đang vận hành",
+    "blurb": "Trận pháp hùng mạnh nhất Chu Tước Tinh, quầng sáng xanh bao phủ toàn bộ Chu Tước đại lục; có thể mở rộng che cả Chu Tước Tinh hoặc thu nhỏ bảo vệ một người.",
+    "detail": "Chu Tước kỳ trận là trận pháp đỉnh cao của Chu Tước Tinh, hiện thân là quầng sáng xanh khổng lồ bao phủ toàn Chu Tước đại lục. Trận có thể phóng to che chắn cả Chu Tước Tinh chống tu sĩ và yêu thú bên ngoài, hoặc thu nhỏ lại bảo vệ một người duy nhất. Mỗi lần kích hoạt cần lượng linh thạch khổng lồ và tiên ngọc; uy năng tổng thể so được với Vấn Đỉnh Hậu Kỳ. Cứ một vạn dặm có một người hóa trận nhãn. Nhờ máu Cự Ma Tộc dung nhập, trận tích hợp thần thông tộc này — biểu hiện là một nắm tay hư ảo bằng ánh sáng xanh có thể tung quyền đánh tan đòn tấn công từ ngoài. Kiền Phong, nhị đệ tử Chu Tước Tử, là người chủ trì trận nhãn; hắn có thể mở hoặc khép lỗ hổng trận theo ý muốn.",
+    "nguon": [
+     "@c0391"
     ]
    }
   ]
