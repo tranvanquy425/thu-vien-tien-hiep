@@ -299,7 +299,8 @@
       const chn = evChNum(e);
       if (chn && chn > klChMax) klChMax = chn;
       const qv = quyenCua(chn);
-      const qattr = qv ? ' data-q="' + esc(qv.value) + '"' : '';
+      // LUÔN gắn data-q (rỗng nếu không xác định được quyển) để bộ lọc theo quyển nhất quán.
+      const qattr = ' data-q="' + esc(qv ? qv.value : '') + '"';
       if (qv && !klQuyens.some(x => x.value === qv.value)) klQuyens.push(qv);
       if (e.bridge) {
         return '<div class="ev bridge"' + qattr + '><div class="ev-bridge">' +
@@ -483,12 +484,14 @@
     const klSel = $("#dBody").querySelector("#klQuyenSel");
     if (klSel) {
       const applyKl = () => {
-        const q = klSel.value;
+        const q = (klSel.value || "").trim();
         $("#dBody").querySelectorAll("#klTimeline .ev").forEach(d => {
-          d.style.display = (!q || d.dataset.q === q) ? "" : "none";
+          const dq = (d.dataset.q || "").trim();
+          d.style.display = (!q || dq === q) ? "" : "none";
         });
       };
       klSel.addEventListener("change", applyKl);
+      applyKl();   // áp ngay trạng thái ban đầu (mặc định "Tất cả" → hiện hết)
     }
     // bộ lọc Nhân mạch theo TUYẾN
     $("#dBody").querySelectorAll(".nm-filter .nmf").forEach(b => b.onclick = () => {
