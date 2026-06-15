@@ -254,7 +254,7 @@
     const theLucs = [...new Set(chars.flatMap(tlArr))];
     view.innerHTML =
       '<div class="page-head"><h1>Nhân Vật</h1><span class="sub">' + chars.length + ' nhân vật</span></div>' +
-      '<div class="toolbar"><input id="nvSearch" placeholder="Tìm tên / biệt danh…">' +
+      '<div class="toolbar nv-toolbar"><input id="nvSearch" placeholder="Tìm tên / biệt danh…">' +
         '<select id="nvTheLuc"><option value="">— Mọi thế lực —</option>' + theLucs.map(t => '<option>' + esc(t) + '</option>').join("") + '</select>' +
         '<span class="count" id="nvCount"></span></div>' +
       '<div id="nvGrid" class="cards grid-3"></div>';
