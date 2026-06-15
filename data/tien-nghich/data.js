@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-15T03:09:32.338Z build_datajs */
+/* sync-bump 2026-06-15T03:32:02.448Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -1799,22 +1799,22 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Trở thành phàm nhân hoàn toàn — mặt đầy sẹo (hoa văn phong ấn), nguyên thần tan nát. Được lang trung sơn thôn cứu sống. Rời thôn tìm linh mạch — bị Hỏa Vân trại (18 cường đạo phàm nhân) bắt giam vào thủy lao. Phát hiện nước thủy lao chứa linh lực cực nồng đậm từ trận đồ bí ẩn dưới đáy. (@c0345–@c0346)"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0336",
        "text": "Vào không gian quyết chiến Hồng Điệp ở Chu Tước quốc; dùng Cấm Phiên + Âm Ba Linh Giáp phá vây, rút cánh tay cụt đã tế luyện của Hồng Điệp uy hiếp, dựng Cấm Phiên dẫn thiên kiếp. @c0336"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0337",
        "text": "Mất Cấm Phiên (hét 'tán' hóa tro); bị Côn Cực Tiên của Hồng Điệp quật trúng, nguyên thần bị rút ra ngoài cơ thể, bị thương hai lần phải dùng na di bỏ chạy. @c0337"
       },
       {
-       "importance": "major",
+       "importance": "bridge",
        "chuong": "@c0338",
        "text": "Nổ tung cánh tay cụt Hồng Điệp; lần đầu triệu Khu Thú Quyển thành Xạ Thần Xa chiến đấu, thét 'Hứa Lập Quốc' cho tiên kiếm cản đòn cứu thân. @c0338"
       },
       {
-       "importance": "major",
+       "importance": "bridge",
        "chuong": "@c0339",
        "text": "Triển khai Sinh Tử Luân Hồi ý cảnh áp chế Tuyệt Tình ý cảnh của Hồng Điệp — ý cảnh VL thắng thế. @c0339"
       },
@@ -1824,17 +1824,17 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Thắng trận quyết chiến (tu vi rớt Hóa Thần sơ kỳ do kim linh tự nổ); chém cướp được nửa Mộc linh thành tinh thể xanh; được phong ngoại triệu đệ tử Chu Tước quốc. @c0340"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0341",
        "text": "Bị trận đồ Thiên Ngọc Tông dịch chuyển tới cực bắc đại lục Chu Tước, gặp Lý Nguyên Phong (Anh Biến) chặn đường thay Hồng Điệp đòi mạng; mất khả năng thuấn di, phải bỏ chạy. @c0341"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0342",
        "text": "Bị 2 Anh Biến (Lý Nguyên Phong + lão tổ Cự Ma) vây, tiên kiếm bị lão tổ Cự Ma cướp; Sất Hổ phản lão tổ ngầm truyền linh lực + chỉ đường cứu mạng. @c0342"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0343",
        "text": "Bị Phong Ma Càn Khôn trận phong tỏa, ý cảnh trà hương của Lý Nguyên Phong đánh bại Sinh tử luân hồi → suýt chết; Tôn Thái (Thi Âm Tông) xé trận chụp VL đi. @c0343"
       },
@@ -1844,27 +1844,27 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Bị Tôn Thái vỗ phong ấn lên trán: linh lực tụt chỉ ngang Ngưng Khí tầng 3, thực chất thành phàm nhân; lần bị thương nặng thứ hai cả đời. @c0344"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0345",
        "text": "Phàm nhân: được lang trung sơn thôn cứu, sống 1,5 tháng rồi lẻn đi; lang thang tìm linh mạch thất bại; bị 18 cường đạo Hỏa Vân trại bắt làm 'khúc cây cản đường'. @c0345"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0346",
        "text": "Bị ném vào thủy lao Hỏa Vân trại; phát hiện linh lực trong nước nồng đậm khác thường; Liễu Mi bay ngang tìm VL nhưng lỡ; thoát thủy lao. @c0346"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0347",
        "text": "Đột phá nhờ linh lực thủy lao, triệu Văn Thú khống chế Hỏa Vân trại, khôi phục tới Ngưng Khí tầng 2; phát hiện trận đồ tròn + 3 cực phẩm linh thạch dưới đáy hồ. @c0347"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0348",
        "text": "Bức tranh bí ẩn tự thoát túi, hút quầng sáng tím từ hài cốt nữ tử bị phong ấn; bế quan khôi phục Ngưng Khí tầng 6; dùng tiên ngọc oanh phá được 1/10 phong ấn Tôn Thái. @c0348"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0349",
        "text": "Khôi phục Trúc Cơ sơ kỳ; cưỡi Văn thú tới Bì Lô quốc, dùng kinh nghiệm + hối lộ phi kiếm để gia nhập Luyện Hồn Tông làm đệ tử ngoại vi (Thường Đại Vĩ). @c0349"
       },
@@ -1884,12 +1884,12 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Giết quản sự Kết Đan ám sát; khoét thông tới linh mạch, dùng 5 cực phẩm linh thạch khôi phục điên cuồng từ Trúc Cơ lên Nguyên Anh trung kỳ đỉnh + phá trà ý cảnh, hút cạn linh mạch cả ngọn núi. @c0352"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0353",
        "text": "Nuốt tiên ngọc đạt Nguyên Anh hậu kỳ địa viên mãn, chỉ còn 8 vết sẹo phong ấn; cảm ngộ Sinh tử ý cảnh 3 cấp; lập kế thắng đại hội để vào nội môn. @c0353"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0354",
        "text": "Gặp Liễu Mi, nhận ra nàng là người Chu Tước quốc qua chiếc vòng; lên đài đại hội Luyện Hồn Tông lần đầu (cố định tu vi Kết Đan trung kỳ). @c0354"
       },
@@ -1904,12 +1904,12 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Thắng giải, chính thức vào nội môn Luyện Hồn Tông; nói dối tu vi qua mặt đại trưởng lão, nắm được nội tình (chỉ 3 Nguyên Anh thủ hộ, Hóa Thần đều bế quan); vào Tàng Kinh Các. @c0356"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0357",
        "text": "Cướp Hồn Phiên một kim tuyến bằng trảo cách không; phát hiện phương pháp chế Hồn Phiên chia 3 phần Luyện Hồn/Trừu Phách/Tỏa Thần. @c0357"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0358",
        "text": "Phát hiện thượng cổ hồn cấm + kim sắc tiểu kỳ trong linh mạch; đối đầu Quách Đông Kiện, cướp Hồn Phiên hai kim tuyến. @c0358"
       },
@@ -1919,17 +1919,17 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Thi triển Hồn Tuyền; đột phá Nguyên Anh nương áp lực linh mạch (phong ấn chỉ còn 3 vết sẹo); nhìn thấu bản chất Vô Tình đạo của Liễu Mi. @c0359"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0360",
        "text": "Phóng thần thức khổng lồ áp chế đại trưởng lão Luyện Hồn phong; thu Vạn Hồn Phiên + Tử Mộc Phiên Linh; chủ hồn Kim sắc Hồn Phiên hiện thân. @c0360"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0361",
        "text": "Dùng Khu Thú Quyển khắc chế, đoạt được hồn phiên màu vàng (bảo vật), thu Kỳ Lân tàn hồn; lão tổ Anh Biến lộ thiện ý. @c0361"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0362",
        "text": "Đổi ngọc giản Trừu Phách; lần đầu dùng Thập Vạn kim sắc hồn phiên khiêu chiến 9 Hóa Thần; lão tổ Anh Biến lên tiếng 'chờ ngươi đã lâu'. @c0362"
       },
@@ -1944,17 +1944,17 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Phân thân đột phá Hóa Thần hậu kỳ; bổn tôn tạo kén lộ tam tinh Cổ Thần; biết thân phận Vân Tước tử và việc mình là một trong bốn người thừa kế Chu Tước. @c0364"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0365",
        "text": "Thành đệ tử trung tâm Luyện Hồn Tông, nhận ngọc giản Tỏa Thần; bổn tôn phá kén dung hợp phân thân thành VL thật; tuyên chiến Lý Nguyên Phong + lão tổ Cự Ma + Tôn Thái. @c0365"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0366",
        "text": "Nạp Mộc linh (Nghịch Thiên châu Mộc hành viên mãn); một quyền giết tu sĩ Hóa Thần trung kỳ tại Băng Tuyết thần điện, 'nhất tự ra oai' đẩy lùi 17 Hóa Thần. @c0366"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0367",
        "text": "Chủ động tấn công Lý Nguyên Phong; hư ảnh Cổ Thần dung hợp ý cảnh phân thân hủy ý cảnh Trà Ngân — Lý Nguyên Phong xác nhận 'ý cảnh của ngươi đã đạt Anh Biến'. @c0367"
       },
@@ -1964,32 +1964,32 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Đánh bại + Trừu Phách giết Lý Nguyên Phong (rút hồn phách Anh Biến); phong bế tu chân toàn Tuyết Vực quốc; thành danh đệ nhất nhân Anh Biến kỳ Chu Tước tinh. @c0368"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0369",
        "text": "Cánh tay cụt dung nhập Nguyên Anh Tư Đồ Nam; nhận Thập Ức Tôn Hồn Phiên bản sao + ngọc giản từ Độn Thiên; bắt đầu tế luyện hồn phiên (thu 12 hồn phách vàng tím). @c0369"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0370",
        "text": "Hoàn thành tế luyện Thập Ức Hồn Phiên; đơn thân thuấn di vào giữa tộc Cự Ma, dùng ý cảnh Cổ Thần phong ấn hàng loạt tộc nhân áp chế toàn tộc tìm lão tổ. @c0370"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0371",
        "text": "Một mình phá Thông Thiên đại trận 12 cột sáng của tộc Cự Ma bằng thân thể tam tinh Cổ Thần; chính thức phong ấn cấm tộc Cự Ma đột phá Nguyên Anh. Sất Hổ chủ trì trận bị cắn trả trọng thương — đoạn tuyệt ân nợ với VL. @c0371"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0372",
        "text": "Truy tìm, đập sập bình nguyên bắc tộc Cự Ma buộc lão tổ Cự Ma (đoạt xá thân thể Cổ Thần, Anh Biến sơ kỳ) hiện thân; hai bên đối quyền ngang ngửa, lão tổ buộc phải dùng tiên lực. @c0372"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0373",
        "text": "Hứa Lập Quốc (kiếm hồn trong tiên kiếm bị Cự Ma lão tổ chiếm) phản chủ, lái tiên kiếm chém đứt cánh tay trái lão tổ → VL đoạt lại quyền điều khiển tiên kiếm; phá Hắc Viêm thú bằng Cấm Phiên + Thập Vạn hồn phiên. @c0373"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0374",
        "text": "Lão tổ Cự Ma triệu chiến cự phủ tổ tiên (di vật khai thiên) áp đảo; VL triệu Thập Ức Tôn Hồn Phiên thật lần đầu (12 chủ hồn Anh Biến) phản công. (Chu Vũ Thái đầu đội mũ cỏ xuất hiện cản Liễu Mi, giúp VL). @c0374"
       },
@@ -1999,7 +1999,7 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Dùng Thập Ức Tôn Hồn Phiên thôn phệ giết lão tổ Cự Ma tộc; bị thiên phú thần thông (vòng xoáy) hút nhưng kịp đoạt cự phủ + túi trữ vật rồi thoát ra tinh không bằng Tinh La Bàn; bay tới Nguyệt tinh, thu được bình máu Cổ Thần. @c0375"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0376",
        "text": "Mở pháp luân thu phục Mị Cơ — hồn phách có ý cảnh mê hoặc (từng mê hoặc cả Lý Nguyên Phong + Hứa Lập Quốc); VL miễn nhiễm nhờ Tỏa Thần thuật, phong ấn nàng vào hồn phiên. @c0376"
       },
@@ -2019,7 +2019,7 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Tiên Di tộc lão giả thập nhất diệp hy sinh giải phong ấn, mở cuộc chiến lần hai (bối cảnh nền); VL đứng ngoài, một lòng chuẩn bị đối kháng thiên đạo để Lý Mộ Uyển lâm thế, dùng linh lực ép Nguyên Anh nàng trưởng thành. @c0379"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0380",
        "text": "Ngày cuối: sứ giả Thiên Đạo Luân Hồi giáng lâm; VL + bổn tôn liều mạng chống đỡ, bị luân hồi chi lực trói chặt không cử động được khi bàn tay thiên đạo chụp xuống Chu Như. @c0380"
       },
@@ -2029,17 +2029,17 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Lý Mộ Uyển tỉnh dậy tự nguyện ngừng cắn nuốt Chu Như, đẩy hồn phách mình ra; VL thu Nguyên Anh Lý Mộ Uyển vào Nghịch Thiên châu, hồi hồn phách Chu Như. Thắng thiên đạo nhưng thua thiên ý — phát điên. @c0381"
       },
       {
-       "importance": "normal",
+       "importance": "major",
        "chuong": "@c0382",
        "text": "VL xóa ký ức Chu Như, thả Văn Thú âm thầm bảo vệ nàng; một năm điên loạn rồi đốn ngộ Sinh Tử ý cảnh — 'thấy sinh là sinh, thấy tử là tử', đột phá HÓA THẦN, vào Nghịch Thiên không gian thủ hộ Nguyên Anh Lý Mộ Uyển. @c0382"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0383",
        "text": "Đạt Hóa Thần viên mãn; đốt toàn bộ tiên ngọc mang về từ tiên giới để công kích Anh Biến (chọn cách luyện hóa linh lực bằng tiên lực) — chỉ hoàn thành 1% rồi cạn tiên ngọc; quyết về Chu Tước tinh cướp tiên ngọc. @c0383"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0384",
        "text": "Về Triệu quốc, giết 4 tu sĩ Tiên Di tộc cứu Vương Trác (giúp hắn Kết Anh, khôi phục ký ức kiếp trước); nghe Vương Trác kể biến cố Tiên Di tộc xâm lấn Chu Tước tinh. @c0384"
       },
@@ -2049,17 +2049,17 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Bối cảnh: hậu nhân Vương gia (Ngọc nhi) chạy nạn vào tổ trạch, kích hoạt ngọc giản Cực Cảnh VL để lại giết 2 tu sĩ Tiên Di; tu sĩ Triệu quốc tụ tập chờ tượng gỗ thủy tổ (do VL để lại). @c0385"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0386",
        "text": "VL trở về Triệu quốc, được tôn là 'Thủy tổ'; đoạt lại tượng gỗ và giết tu sĩ lục diệp Tiên Di tộc; lộ 5 cỗ khí xám (phù chú chi lực) sinh ra khi Anh Biến. @c0386"
       },
       {
-       "importance": "normal",
+       "importance": "bridge",
        "chuong": "@c0387",
        "text": "Ở Thiên Đạo tông giảng đạo cho tu sĩ Triệu quốc, bố trí hộ sơn đại trận; thăm hậu nhân Vương gia; tìm di vật Hằng Nhạc phái cũ. Chu Vũ Thái để lại ngọc giản ý cảnh Liễu Mi, hé lộ âm mưu 'cắn nuốt đạo tâm Liễu Mi thành tựu Chu Tước chi thế'. Trở lại Luyện Hồn Tông gặp Độn Thiên (thọ nguyên cạn). @c0387"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0388",
        "text": "Độn Thiên dẫn vào cấm địa cho 2 khối tiên ngọc lớn, hoàn thành 1/3 quá trình Anh Biến; theo Độn Thiên cầm Thập Ức Tôn Hồn Phiên đi cướp tiên ngọc khắp Bì Lô quốc (truyền thống Luyện Hồn Tông) — VL dùng tiên kiếm (đã có tiên lực) ra uy. @c0388"
       },
