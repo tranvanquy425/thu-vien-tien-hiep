@@ -1,5 +1,5 @@
 /* cotTruyen TÁCH KHỎI data.js (giảm kích thước) — nạp NGAY SAU data.js. */
-/* sync-bump 2026-06-14T21:40Z — sua loi cu phap: nhay kep thang long trong tomTat c366 ("Bi1n!"/"chang kem...") → nhay cong; mo khoa C361-370 len web */
+/* sync-bump 2026-06-15T04:00Z — them Cot Truyen 371-390 (20 chuong) len web */
 window.LIB_DATA = window.LIB_DATA || {};
 window.LIB_DATA["tien-nghich"] = window.LIB_DATA["tien-nghich"] || {};
 window.LIB_DATA["tien-nghich"].cotTruyen = {
