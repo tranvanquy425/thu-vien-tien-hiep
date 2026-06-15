@@ -1859,6 +1859,106 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
       chuong: 370,
       tieuDe: "Cự Ma Tộc",
       tomTat: "VL hoàn thành tế luyện Thập Ức Hồn Phiên — 12 hồn phách tử kim quy phục; Độn Thiên trong bế quan thở dài khi cảm nhận VL rời đi. VL bố trí trận pháp định vị tại sơn cốc bí ẩn biên giới Cự Ma tộc (mất 3 tháng) để đối phó thiên phú thần thông của Cự Ma tộc. Sất Hổ (cung điện thứ 3, Cự Ma Thiên) mặt tái nhợt, đau khổ phân vân: lão tổ dù sai vẫn là hy vọng cả tộc, nhưng Tằng Ngưu lại là bằng hữu — không tìm ra đáp án. VL dùng danh nghĩa 'Tằng Ngưu' tiến vào Cự Ma tộc; trưởng lão tóc bạc phát lệnh bài huy động toàn tộc; VL triển khai bức tranh Sinh Tử luân hồi + hư ảnh Cổ Thần phong ấn hàng loạt tộc nhân. Sất Hổ từ xa cất tiếng hét 'Tằng Ngưu, dừng tay!' — VL ngẩng đầu nhận ra, vẻ lạnh lẽo trên mặt hơi giảm. (@c0370)"
+    },
+    {
+      chuong: 371,
+      tieuDe: "Sự Lựa Chọn Của Sất Hổ",
+      tomTat: "Sất Hổ ra mặt cản, gọi VL bằng tên cũ Tằng Ngưu và khuyên rời tộc; VL nêu điều kiện đổi vị trí lão tổ lấy việc tha cả tộc. Đại trưởng lão Thiên Mục (Hóa Thần đại viên mãn) khiêu chiến nhưng bị VL một quyền đánh lùi, chê hai lần 'không xứng'. Sất Hổ với thân phận thiếu tông chủ chọn mở Thông Thiên đại trận — mười hai cột sáng đen bao vây VL như thiên lao. VL dùng thân thể tam tinh Cổ Thần phình to hơn mười trượng, đấm vỡ từng luồng sáng, phá trận hoàn toàn, rồi dùng bức tranh Sinh Tử luân hồi phong cấm cả tộc không được vượt Kết Đan kỳ. Sất Hổ bị đại trận phản phệ trọng thương ngã xuống. Liễu Mi đứng ngoài quan sát, hé lộ nàng có sư tôn đã xem thường VL. (@c0371)"
+    },
+    {
+      chuong: 372,
+      tieuDe: "Lão Tổ Xuất Hiện",
+      tomTat: "Lão tổ Cự Ma đang đoạt xá một thân thể trung niên (mới dung hợp tám phần) trong động phủ, coi thường VL, định đoạt xá xong mới ra tay. Kiếm hồn Hứa Lập Quốc trú trong kiếm tiên (vốn là pháp bảo VL bị đoạt) oán VL thấu xương, xin báo thù, nhưng bị pháp hồn Phượng Loan mê hoặc nên cam phận theo lão tổ. VL cảm ứng được kiếm hồn, định vị phương Bắc, ba quyền phá phong ấn động phủ ép lão tổ hiện thân. Đối quyền lần đầu, lão tổ khớp xương nứt, khiếp sợ — thân thể tam tinh Cổ Thần của VL hơn lão tổ một bậc. Bị dồn ép, lão tổ buộc hóa khổng lồ dùng tiên lực Anh Biến sơ kỳ, mạo hiểm phá hủy thân thể đoạt xá. VL cảm giác nguy hiểm, kích hoạt hư ảnh Cổ Thần. (@c0372)"
+    },
+    {
+      chuong: 373,
+      tieuDe: "Hứa Lập Quốc",
+      tomTat: "VL tung đòn hư ảnh Cổ Thần cách không khiến lão tổ phun máu (cả hai cùng bị thương). Khi lão tổ dùng kiếm tiên giết VL, VL điểm tay đoạt quyền khống chế; Hứa Lập Quốc trở mặt, kiếm tiên chém ngược chặt đứt cánh tay trái lão tổ. Hứa Lập Quốc chính thức theo VL — lý do là e ngại VL và bị pháp hồn Phượng Loan quyến rũ; gã xin VL cứu Phượng Loan. Lão tổ cuồng nộ chạy tới cực Đông, triệu Hắc Viêm thú bằng mộc côn đen; VL diệt nó bằng cấm phiên (trường thương tự bạo) và Thập vạn hồn phiên (chủ hồn Lý Nguyên Phong). Cùng đường, lão tổ xưng 'đệ tử đời thứ 67', triệu di vật tổ tiên — cự phủ đỏ từ ngọn núi cao nhất; lịch sử Cự Ma tộc di cư Chu Tước tinh được hé lộ. (@c0373)"
+    },
+    {
+      chuong: 374,
+      tieuDe: "Chu Vũ Thái",
+      tomTat: "Lão tổ cầm cự phủ đỏ, đốt sinh lực (thân khô rút một phần ba) để tăng sức và mọc lại cánh tay; đối quyết khiến cả hai phun máu. VL lần đầu triệu Thập ức hồn phiên thật — mười hai chủ hồn Anh Biến cùng hơn triệu hồn phách — khiến lão tổ kinh sợ nhận ra lai lịch Luyện Hồn tông. Ở biên giới, Liễu Mi hé lộ bị Độn Thiên đuổi khỏi tông để VL kế thừa hồn phiên; nàng bị Chu Vũ Thái (đại hán đội mũ rơm Vân Tước, Hóa Thần trung kỳ) cản lại theo lệnh Vân Tước. Chu Vũ Thái nhận VL là cố giao, thi triển ý cảnh Trảm Tình đạo (tự tay giết đệ tử mình để nhập Thần). VL dùng đòn Thôn nuốt tia chớp cự phủ của lão tổ, ép lão thành da bọc xương, cận kề bị diệt. (@c0374)"
+    },
+    {
+      chuong: 375,
+      tieuDe: "Diệt Lão Tổ",
+      tomTat: "Cùng đường, lão tổ thi triển Thiên phú thần thông tộc Cự Ma, tạo vòng xoáy sinh lực hút khổng lồ định nhốt VL vào tinh không. VL ra lệnh hồn phách thôn phệ, mười hai chủ hồn Anh Biến cắn nuốt khiến Nguyên Thần lão tổ tan thành mây khói — lão tổ bỏ mình, tới chết không kịp giải phong ấn cho tộc nhân. VL kết hoa sen hồn phách cùng trận pháp bố trí sẵn để thoát vòng xoáy, thu túi trữ vật và cự phủ, rời Chu Tước tinh. Hắn rẽ vào tiểu tinh cầu (nơi truyền tống trận năm xưa), phân thân cho bổn tôn dung nhập tâm tinh cầu tu luyện, nuốt cự phủ để tế luyện phủ hồn. Trong chiến lợi phẩm, VL thu được một bình ngọc đỏ chứa máu Cổ Thần — bù được phần lực lượng thiếu của truyền thừa Cổ Thần Đồ Ti. (@c0375)"
+    },
+    {
+      chuong: 376,
+      tieuDe: "Mị Cơ",
+      tomTat: "Vật thứ hai trong túi lão tổ là một pháp luân phong ấn hồn phách mà Hứa Lập Quốc từng cầu khẩn VL thả ra. VL ấn các ký hiệu cổ quái phá vỡ pháp luân; một nữ tử thiên kiều bá mị thoát ra, dùng ý cảnh mê hoặc cực mạnh khiến Hứa Lập Quốc và cả đám hồn phách Lý Nguyên Phong quay sang phục vụ hoặc đánh VL. Nhờ tu luyện Tỏa Thần thuật (vạn tà bất xâm), VL chỉ thất thần một thoáng rồi hồi phục, đánh tỉnh Hứa Lập Quốc và đánh tản đám hồn phách. Hắn trói nữ tử, điểm mi tâm gây đau đớn buộc nàng khai tên Mị Cơ. Hé lộ chính lão tổ năm xưa cũng từng bị Mị Cơ mê hoặc rồi mới phong ấn nàng, dùng nàng làm mồi nhử Hứa Lập Quốc. (@c0376)"
+    },
+    {
+      chuong: 377,
+      tieuDe: "Chu Như",
+      tomTat: "VL phong ấn Mị Cơ vào hồn phiên, đoán ý cảnh của nàng là tàn hồn một tiền bối cao nhân. Hắn thả Chu Như và tiểu Bạch khỏi Bảo tháp tiên ngọc — cả hai gầy yếu vì mấy tháng chỉ ăn quả; VL xấu hổ vì hơn bốn trăm năm quên mất con người cần ăn cơm, hứa bắt cho nàng con cọp to. Chu Như, nay mười ba tuổi, sợ hãi thú nhận hơn một năm trước đã cảm nhận trong cơ thể có một đứa bé — chính là Nguyên Anh Lý Mộ Uyển. VL nhận ra bi kịch cộng sinh: Uyển nhi thức tỉnh hoàn toàn (còn gần sáu năm) cũng là lúc hồn phách Chu Như bị thôn phệ. Chu Như hiểu rõ VL chỉ để ý tỷ tỷ trong thân mình, lặng lẽ cầu hắn đừng bỏ rơi nàng. (@c0377)"
+    },
+    {
+      chuong: 378,
+      tieuDe: "Tiểu Bạch",
+      tomTat: "VL bắt một con cọp tím (sức ngang Trúc Cư hậu kỳ) tặng Chu Như, được nàng đặt tên Tiểu Tử. Hai năm trôi qua, Chu Như lên mười lăm tuổi, chỉ còn bốn năm tới khi Lý Mộ Uyển thức tỉnh; VL ngày đêm tìm biện pháp giữ Uyển nhi mà không hại đứa bé. Chu Như dần buông xuôi, dùng lược gỗ Thiết Nham tặng để chải tóc cho VL, cầu hắn nhìn nhận nàng một cách thực sự một lần, nhưng bị né tránh. Tiểu Bạch lặng lẽ bỏ đi rồi trở về sau hai ba tháng, thân đầy thương tích, ngậm một nhánh cây có quả Toái Anh, lén bảo Chu Như ăn để cứu nàng khỏi bị Nguyên Anh thôn phệ. VL phát hiện, gọi tên quả Toái Anh; Tiểu Bạch cảnh giác chắn trước Chu Như. (@c0378)"
+    },
+    {
+      chuong: 379,
+      tieuDe: "Kinh Biến",
+      tomTat: "VL giải thích quả Toái Anh khiến Nguyên Anh ăn vào tuy không chết nhưng cực suy yếu; Chu Như hiểu ra Tiểu Bạch mạo hiểm tìm quả vì mình, bỏ quả xuống khe núi, xin tha Tiểu Bạch và hứa cho thúc thúc cùng Uyển nhi đoàn tụ. Trên Chu Tước tinh xảy ra đại biến: lão giả tổ tiên Tiên Di tộc hi sinh thân mình thay Tiên Di thụ chịu phong ấn năm kiếm, đưa cả tộc tái hiện đại địa; Chu Tước Tử đời thứ mười bốn xuất quan, hiệu lệnh toàn tinh khởi chiến tranh lần hai. Các thủy tổ ẩn thế như Sở Vân Phi, Độn Thiên cùng lộ diện. Tuyến VL: Lý Mộ Uyển khôi phục thần trí, không muốn cắn nuốt hài tử nên chậm sinh trưởng; VL cưỡng ép Nguyên Anh tiếp tục lớn và hứa sẽ bảo toàn đứa bé. (@c0379)"
+    },
+    {
+      chuong: 380,
+      tieuDe: "Thiên Đạo Lai Lâm",
+      tomTat: "Hé lộ VL đã nói dối Lý Mộ Uyển — không thể vừa giữ Uyển nhi vừa bảo toàn hồn phách Chu Như, vì rút sớm hồn phách Chu Như sẽ khiến thiên đạo phủ xuống và Nguyên Anh có thể tan vỡ. Trên Chu Tước tinh, sát chiêu Tiên Di tộc lộ ra: chín tộc nhân được bí thuật chuyển hóa thành tu sĩ, cài làm thủy tổ nội ứng trong các tông phái, khiến Chu Tước quốc liên tục bại lui. Tháng cuối, Chu Như mười chín tuổi ngủ sâu không dậy, Nguyên Anh Lý Mộ Uyển bắt đầu cắn nuốt. Sứ giả thiên đạo luân hồi buông xuống lần hai; VL cùng bản tôn dùng bức họa sinh tử luân hồi nghênh chiến nhưng bị luân hồi chi lực trói chặt thành thiên lao, bất lực nhìn cánh tay thiên đạo vươn xuống Chu Như. (@c0380)"
+    },
+    {
+      chuong: 381,
+      tieuDe: "Thiên Ý Trêu Người",
+      tomTat: "VL triển khai ý cảnh hóa hư ảnh Cổ Thần, lôi sứ giả thiên đạo ra hư vô — lộ sứ giả chính là một cổ thần mi tâm bảy tinh điểm (ba bị phong ấn), đảo lộn nhận thức của hắn về thiên đạo. Lý Mộ Uyển thức tỉnh, không nỡ hi sinh đứa bé nên tự đình chỉ cắn nuốt, đẩy hồn phách Chu Như ra ngoài, chấp nhận để Nguyên Anh mình tan vỡ. VL dùng hạt châu Thiên Nghịch thu Nguyên Anh nàng để cứu khỏi tan vỡ; thiên đạo sứ giả bỏ đi không mang được nàng. VL triệu hồn phách Chu Như nhập lại thân thể, cứu sống đứa bé, rồi điên loạn rời đi, than 'thiên ý trêu người'. Một năm sau, trong mưa gió trên đỉnh núi, VL ngộ ra sinh tử ý cảnh; hồn phách cha mẹ hắn tiêu tan vào một cảnh giới sinh khác. (@c0381)"
+    },
+    {
+      chuong: 382,
+      tieuDe: "Đạo Tâm",
+      tomTat: "Chu Như cùng tiểu Bạch lang thang tìm thúc thúc, được Văn Thú (con muỗi lớn VL thả ra) âm thầm cứu khỏi con giun đỏ khổng lồ. Hé lộ VL đã xóa ký ức của Chu Như, trả nàng cuộc đời hoàn chỉnh và mỗi ba mươi nhăm ngày lặng lẽ tiếp một đạo linh lực cho nàng. Trên đỉnh núi, sinh tử ý cảnh đại viên mãn đẩy VL đột phá Hóa Thần kỳ; hắn ngưng một vân cầu đủ diệt mọi tu sĩ Hóa Thần, tuyên bố 'Chuẩn bị Anh Biến'. Trong không gian Thiên Nghịch, VL thủ hộ hai Nguyên Anh: Tư Đồ Nam (đã ngưng thật, mạnh hơn Độn Thiên) và Lý Mộ Uyển đang ngủ say. VL hứa thủ hộ Uyển nhi tới khi nàng thức tỉnh, đợi suốt ba trăm năm tới khi hồn phi phách tán. (@c0382)"
+    },
+    {
+      chuong: 383,
+      tieuDe: "Anh Biến",
+      tomTat: "VL đạt Hóa Thần viên mãn, ý cảnh viên mãn, bắt đầu công kích Anh Biến bằng cách hấp thu tiên ngọc. Hắn chọn cách khó là luyện hóa linh lực ngang chất tiên lực (không cần bế quan trăm năm), nhưng sau bốn tháng tiên ngọc cạn mà mới cải tạo được một phần trăm cơ thể — cho thấy tiên ngọc cực khan hiếm là nút thắt của Anh Biến. Sau khi biết sứ giả luân hồi là cổ thần, VL sinh hoài nghi sâu sắc về bản chất thiên đạo. Hắn quyết đi cướp tiên ngọc ở Luyện Hồn Tông và các tông phái; đón Chu Như, hứa đưa nàng về nhà, cho nàng cùng tiểu Bạch vào Tiên Ngọc Bảo Tháp. Cưỡi Văn Thú rồi Tinh La Bàn về Chu Tước tinh, VL phát hiện Tiên Di tộc đã xâm nhập. (@c0383)"
+    },
+    {
+      chuong: 384,
+      tieuDe: "Cố Nhân",
+      tomTat: "Người VL quen trong nhóm bị truy sát chính là Vương Trác — nay là lão giả Kết Đan hậu kỳ. VL thả Văn Thú diệt bốn tên Tiên Di tộc, giải phong ấn ký ức kiếp trước và giúp Vương Trác Kết Anh, tặng ngọc giản hộ thân cho một đồng môn có linh chủng. Vương Trác kể tình hình chiến sự: Tiên Di tộc đã chiếm gần hết tu chân quốc cấp ba và nửa Chu Tước tinh, Thi Âm tông phản bội, chín nội gián Tiên Di tộc (năm đã lộ, bốn còn ẩn ở cấp năm). VL tiết lộ đã rời Chu Tước tinh gần bảy năm, định về Luyện Hồn Tông. Mở tuyến phàm nhân Triệu quốc: một Vương gia mặc mãng bào đưa thê nhi (đứa bé Ngọc nhi có thể có linh căn) chạy tới tổ trạch lánh Tiên Di tộc đang săn trẻ con. (@c0384)"
+    },
+    {
+      chuong: 385,
+      tieuDe: "Dư Bảo",
+      tomTat: "Vương gia kể truyền thuyết tổ tiên: hai trăm năm trước một vị tổ tiên cường đại hơn cả tằng tổ (chính là VL) đã diệt Đằng gia trong một đêm và lưu lại dư bảo trong tổ trạch. Khi hai Tiên Di tộc truy tới săn Ngọc nhi, giết hết gia bộc lão nhân, Vương gia lui vào tổ trạch, cắn lưỡi lấy máu vẽ phù hiệu kích hoạt ngọc giản dư bảo — bên trong chứa một tia Cực Cảnh VL lưu lại, đủ giết tu sĩ Nguyên Anh kỳ, tự động diệt cả hai Tiên Di tộc. Tuyến khác ở Thiên Đạo tông (Hằng Nhạc sơn): một Lục diệp Thuật Chú Sư Tiên Di tộc tấn công, định cướp tượng gỗ truyền thừa mà VL lưu lại từ xưa; tượng gỗ bay ra dùng ý cảnh chống đỡ phù long, làm rung chuyển cả Hằng Nhạc sơn. (@c0385)"
+    },
+    {
+      chuong: 386,
+      tieuDe: "Thuỷ Tổ",
+      tomTat: "Lục diệp Thuật Chú Sư đoạt được tượng gỗ và tuyên bố Triệu quốc thành nước phụ thuộc Tiên Di tộc. VL cùng Vương Trác xuất hiện, được tu sĩ Triệu quốc tôn hô 'Thuỷ tổ'. VL đòi lại tượng gỗ, hóa giải đòn Phù bạo, lưu thần thức mới rồi đưa tượng chìm vào Hằng Nhạc sơn. Tên Tiên Di tộc viện cớ ước định rằng Chu Tước Tử (qua Kiền Phong) đã ký với thiếu tộc trưởng Tiên Di tộc — buông tha tu chân quốc cấp ba đổi lấy hoãn đánh cấp bốn; cái tên Kiền Phong khiến VL nghi ngờ vì từng nghe từ Liễu Mi. VL dùng quang quyển 'Hút' nén tên Tiên Di tộc thành huyết nhục, chặn cả đường trốn bằng cành Luân Hồi thụ; hắn lộ năm phù văn xám sinh ra trong cơ thể khi Anh Biến. VL trầm ngâm về âm mưu Chu Tước Tử và Kiền Phong. (@c0386)"
+    },
+    {
+      chuong: 387,
+      tieuDe: "Cự Phú",
+      tomTat: "Tại Thiên Đạo tông, lão giả Trần Phong Khiếu dẫn toàn bộ tu sĩ Triệu quốc tôn VL làm thủy tổ; Vương Trác lộ thân phận, quyết ở lại Vương gia thủ hộ hậu nhân, thu nhận Ngọc nhi truyền thuật. VL giảng đạo, lưu hư ảnh đạo và bố trí trận pháp cường đại cho Thiên Đạo tông. Hắn tìm tới di tích Hằng Nhạc phái ở Tượng Xà sơn, đọc tự thuật của vị tiền bối đúc kiếm Cự Phú (kiếp trước là kiếm hồn); VL nghi Cự Phú liên quan kiếm tiên bị đánh tan năm xưa nhưng kiếm đã vỡ nát. Chu Vũ Thái để lại ngọc giản chứa ý cảnh Liễu Mi để báo đáp. VL vào Luyện Hồn tông gặp Độn Thiên (thọ nguyên còn mấy năm); Độn Thiên giao ước trao Thập Ức Tôn Hồn Phiên và cả tông, đổi lấy lời hứa xây Thiên thê tháp 999 tầng. (@c0387)"
+    },
+    {
+      chuong: 388,
+      tieuDe: "Truyền Thống",
+      tomTat: "Trong cấm địa Luyện Hồn tông, VL hấp thu hai khối tiên ngọc lớn (có trận bảy tiểu kỳ của Độn Thiên hỗ trợ), hoàn thành Anh Biến được một phần ba. Độn Thiên dẫn VL nối truyền thống cướp tiên ngọc của tông — cầm Thập Ức Tôn Hồn Phiên ép các môn phái nộp. Tới Trĩ Ma Đạo (sơn môn ma đạo ở đầm lầy Bỉ Lô quốc), Độn Thiên cậy chỉ còn hai năm thọ nên không sợ chết, uy hiếp đòi tiên ngọc; VL trổ tiên kiếm vận tiên lực phá xác rùa của lão bà Yến Hồng, lộ là người sở hữu tiên bảo. Chương phân loại pháp bảo: linh bảo, tiên bảo, ngụy tiên bảo (Tôn Hồn Phiên và Cấm Phiên thuộc loại ngụy tiên bảo). Hai bên đạt thỏa thuận chia tiên ngọc; Độn Thiên dẫn VL cướp khắp Bỉ Lô quốc. (@c0388)"
+    },
+    {
+      chuong: 389,
+      tieuDe: "Cuộc Chiến Thứ Hai Của Tiên Di Tộc Bắt Đầu",
+      tomTat: "Trong ba tháng, Độn Thiên dẫn VL cướp tiên ngọc khắp bốn tu chân quốc cấp năm và một cấp bốn, đủ cho VL Anh Biến; VL đội mũ rơm che mặt. Độn Thiên giới thiệu Thiên Vận Tinh cùng Thiên Vận Tử khiến VL chú ý. Cuộc chiến thứ hai của Tiên Di tộc bùng nổ — màn sương đen tràn tới; chương hé lộ bối cảnh cuộc chiến lần một và song kiêu Chu Tước là Liễu Mi (Anh Biến trung kỳ, tâm địa lương thiện) cùng Kiền Phong (hậu nhân Chu Tước Tử, người ký hiệp ước với Tiên Di tộc). VL nhận ra lão già lưng còng Mộc Nghiệp là kẻ thù truyền kiếp nhưng không bị nhận ra. Độn Thiên nghênh chiến một cửu diệp thuật chú sư, trổ Hồn trận thập tam — mười ba chủ hồn hợp nhất thành một hồn phách cảnh giới Vấn Đỉnh. (@c0389)"
+    },
+    {
+      chuong: 390,
+      tieuDe: "Uy Lực Thật Sự Của Thập Ức Tôn Hồn Phiên",
+      tomTat: "Độn Thiên hô 'mười chủ hồn, hiện', khiến cửu diệp thuật chú sư khiếp sợ lui binh và hứa Tiên Di tộc không tiến vào Luyện Hồn tông nửa bước. Độn Thiên giảng uy lực thật của Thập Ức Tôn Hồn Phiên: thần thông gốc là dung hợp, còn vật thật sự uy hiếp được Vấn Đỉnh Hậu Kỳ là đệ tứ chủ hồn (mấy vạn năm chỉ xuất một lần, nay gần khôi phục). Lịch sử Chu Tước Tử được hé lộ: đệ nhất hi sinh, thân thể dùng phong ấn Tiên Di tộc; đệ nhị Chu Tước Tử là cao thủ đệ nhất Chu Tước Tinh, tính kiệt ngạo, mất tích sau khi bị truy sát. VL chấn động liên hệ đệ nhị Chu Tước Tử với Tư Đồ Nam (các chi tiết trùng khớp: bị phá thân, Nguyên Anh nhập Thiên Nghịch châu). Chu Tước Tử hiện là đời thứ tám; tổ linh Tiên Di tộc vẫn là vật bí ẩn. (@c0390)"
     }
   ]
 };
