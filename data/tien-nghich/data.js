@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-15T03:32:02.448Z build_datajs */
+/* sync-bump 2026-06-15T05:44:12.299Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-14",
-  "count": 209,
+  "count": 215,
   "chars": [
    {
     "id": "vuong-lam",
@@ -19594,6 +19594,446 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0370"
     ]
+   },
+   {
+    "id": "dinh-nhi",
+    "name": "Đình Nhi",
+    "cn": "",
+    "aliases": [
+     "cô gái áo trắng",
+     "bản vương"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Kiếm hồn của Chu Dật",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Bề trên của tiên nhân (vượt tiên nhân)",
+    "trangThai": "tu-vong",
+    "blurb": "Tàn hồn sinh ra từ sự si tình của Chu Dật, tự nhận không phải tiên quân thực sự; hơn 2.000 năm thủ hộ kiếm tiên, cuối cùng phóng hết tiên lực hy sinh cứu Chu Dật.",
+    "vaiTro": "Tàn hồn thủ hộ kiếm tiên, người yêu của Chu Dật",
+    "tinhCach": [
+     {
+      "text": "Ánh mắt bình thản không gợn sóng, lạnh lùng khi giao chiến",
+      "chuong": "@c0299"
+     },
+     {
+      "text": "Si tình, cam tâm hy sinh toàn bộ vì Chu Dật",
+      "chuong": "@c0300"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tên Đình Nhi do Chu Dật đặt; nàng tự nhận không phải Đình Nhi nhưng thích cái tên này, từng được Chu Dật sắc phong làm Kiếm Hồn",
+       "chuong": "@c0296"
+      },
+      {
+       "text": "Bản chất là tàn hồn, được sinh ra bởi sự si tình của Chu Dật, không phải tiên quân thực sự (tiên quân thực sự không có tình cảm)",
+       "chuong": "@c0300"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0299",
+       "importance": "major",
+       "tieuDe": "Chiến Lăng Thiên Hậu, hao tiên khí",
+       "text": "Nghênh tiếp Lăng Thiên Hậu xông tới, vung tay phá vỡ hơn trăm kiếm ảnh; mỗi lần ra tay tử khí tràn ra vì tiên khí hơn 2000 năm đang cạn. Giữ lại hơn nửa tiên lực để biến hồn cho Chu Dật, lần lượt rút kiếm hồn ném vào mi tâm kim long. Bị Lăng Thiên Hậu nhận ra là bề trên của tiên nhân nhưng công kích càng yếu."
+      },
+      {
+       "chuong": "@c0300",
+       "importance": "major",
+       "tieuDe": "Hy sinh cứu Chu Dật rồi chết",
+       "text": "Phóng thích toàn bộ tiên lực còn lưu giữ tạo màn sương mười trượng đẩy Lăng Thiên Hậu ra. Để lại lời trăng trối hé lộ bản chất tàn hồn và hơn 2.000 năm thủ hộ, nở nụ cười vui vẻ lần đầu rồi thi thể ngã xuống xuyên qua thân Chu Dật. Hai thanh kiếm tiên hóa bạch quang vọt về phía Vương Lâm."
+      },
+      {
+       "chuong": "@c0306",
+       "importance": "minor",
+       "tieuDe": "Nhắc gián tiếp",
+       "text": "Vương Lâm kể chuyện Chu Dật và Đình Nhi cho Lý Mộ Uyển nghe; thi thể nàng nằm trong bảo tháp Chu Dật, được thả tại thung lũng âm hàn Sở quốc."
+      }
+     ],
+     "tuVi": "Tiên nhân cấp, kiểm soát kiếm tiên (một chỉ phá hai kiếm ảnh Lăng Thiên Hậu @c0298); thực chất là bề trên của tiên nhân, vượt tiên nhân — nếu không giữ tiên lực biến hồn Chu Dật thì một điểm tay đủ giết Lăng Thiên Hậu @c0299.",
+     "nhanMach": [
+      {
+       "ten": "Chu Dật",
+       "tag": "ban-be",
+       "quanHe": "Người yêu — Đình Nhi là tàn hồn sinh ra từ sự si tình của Chu Dật, hy sinh để biến hồn cứu chàng",
+       "ghiChu": "@c0300"
+      },
+      {
+       "ten": "Lăng Thiên Hậu",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ tranh đoạt kiếm tiên, bị nàng đả thương nặng",
+       "ghiChu": "@c0299"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0299",
+     "@c0300",
+     "@c0306"
+    ]
+   },
+   {
+    "id": "au-duong-tu",
+    "name": "Âu Dương Tử",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Vân Thiên Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Nguyên Anh trung kỳ",
+    "trangThai": "song",
+    "blurb": "Luyện đan sư Vân Thiên Tông, một lòng vì luyện đan tới mức quên hết phàm tục; người có khả năng Hóa Thần nhất tông, cuối cùng luyện thành lục phẩm linh đan — giấc mộng cả đời.",
+    "vaiTro": "Luyện đan sư chủ lực của Vương Lâm",
+    "tinhCach": [
+     {
+      "text": "Chuyên tâm luyện đan, sớm cắt đứt ý niệm phàm tục, đắm chìm tới mức quên ăn quên ngủ",
+      "chuong": "@c0306"
+     },
+     {
+      "text": "Khi nghiên cứu đan phương cao cấp thì táo bạo gắt gỏng, không kiên nhẫn trả lời ai",
+      "chuong": "@c0312"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Được mô tả một lòng vì luyện đan, không ai lo hắn tiết lộ thân phận Tằng Ngưu ra ngoài",
+       "chuong": "@c0306"
+      },
+      {
+       "text": "Vương Lâm nhận xét trong Vân Thiên Tông chỉ Âu Dương Tử có khả năng Hóa Thần nhất vì sống vì luyện đan nên có thể cảm ngộ thiên đạo",
+       "chuong": "@c0312"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0303",
+       "importance": "minor",
+       "tieuDe": "Nhắc tên — nghiên cứu Tục Mệnh đan",
+       "text": "Liễu Phỉ nói Âu Dương Tử đã nghiên cứu Tục Mệnh đan nhiều năm sắp thành công, nhưng Lý Mộ Uyển bác bỏ rằng dù luyện thành cũng chỉ kéo thêm chút sức sống."
+      },
+      {
+       "chuong": "@c0311",
+       "importance": "major",
+       "tieuDe": "Tìm xong dược liệu thay thế lục phẩm",
+       "text": "Được gọi đến nghiên cứu phương thuốc lục phẩm Quy Nguyên đan, nhìn đan phương như thấy điều theo đuổi cả đời. Gần như một ngày một đêm nghiên cứu xong 137 loại dược liệu; suốt hai năm mất ăn mất ngủ, cuối cùng tìm được dược liệu thay thế ba loại cuối bằng 34 loại dược liệu phối hợp."
+      },
+      {
+       "chuong": "@c0312",
+       "importance": "major",
+       "tieuDe": "Luyện thành lục phẩm linh đan",
+       "text": "Đắm chìm vào luyện đan hơn sáu năm, vài lần bị dừng ở một khâu rồi mới đột phá; cuối cùng luyện thành lục phẩm linh đan màu lửa đỏ, hưng phấn tuyên bố thành công rồi ngã xuống vì tâm thần hao tổn quá độ (không chết). Hoàn thành giấc mộng cả đời."
+      },
+      {
+       "chuong": "@c0313",
+       "importance": "minor",
+       "tieuDe": "Bất tỉnh, được mang về tông",
+       "text": "Sau khi luyện xong, tâm thần hao tổn bất tỉnh; được Thiết Nham ôm cùng Lữ Phi bay đi Vân Thiên Tông theo lệnh Vương Lâm."
+      }
+     ],
+     "tuVi": "Tu vi dừng ở Nguyên Anh trung kỳ; Vương Lâm đánh giá nếu đạt Nguyên Anh hậu kỳ đại viên mãn thì Hóa Thần trở ngại không lớn vì hắn sống vì luyện đan nên dễ cảm ngộ thiên đạo @c0312.",
+     "nhanMach": [
+      {
+       "ten": "Lý Mộ Uyển",
+       "tag": "dong-minh",
+       "quanHe": "Cùng nghiên cứu đan phương; đan dược hắn luyện vốn chuẩn bị cho nàng",
+       "ghiChu": "@c0307"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "dong-minh",
+       "quanHe": "Giao đan phương lục phẩm cho hắn nghiên cứu và luyện chế",
+       "ghiChu": "@c0311"
+      },
+      {
+       "ten": "Thiên Vân Tử",
+       "tag": "su-mon",
+       "quanHe": "Ngũ cấp luyện đan sư cuối cùng VTT đã chết; nếu còn sống cùng nghiên cứu sẽ nhanh hơn",
+       "ghiChu": "@c0311"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [
+       {
+        "ten": "Lục phẩm linh đan (Quy Nguyên đan)",
+        "loai": "dan-duoc",
+        "trangThai": "da-luyen-thanh",
+        "moTa": "Viên thuốc màu lửa đỏ tươi, do Âu Dương Tử tự tay luyện thành sau hơn sáu năm.",
+        "nguon": "@c0312"
+       }
+      ],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0303",
+     "@c0307",
+     "@c0306",
+     "@c0311",
+     "@c0312",
+     "@c0313"
+    ]
+   },
+   {
+    "id": "cong-ton-truong",
+    "name": "Công Tôn Trường",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Vân Thiên Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Nguyên Anh hậu kỳ",
+    "trangThai": "mat-tich",
+    "blurb": "Một trong các đại trưởng lão Nguyên Anh hậu kỳ của Vân Thiên Tông; đi tìm tu sĩ ngoại lai diệt Thanh Thiên môn rồi mất tích, ngầm hiểu đã chết.",
+    "vaiTro": "Đại trưởng lão Vân Thiên Tông",
+    "tinhCach": [],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Là một trong bốn đại trưởng lão Nguyên Anh hậu kỳ của Vân Thiên Tông; 30 năm trước Lưu trưởng lão Hóa Thần thất bại thân vong nên chỉ còn ba, nay mất thêm một",
+       "chuong": "@c0302"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0302",
+       "importance": "normal",
+       "tieuDe": "Mất tích khi truy tìm tu sĩ ngoại lai",
+       "text": "Bảy ngày trước đi tìm tu sĩ ngoại lai (kẻ diệt Thanh Thiên môn), đến nay chưa quay về. Tống Thanh lộ vẻ bi ai ngầm hiểu đã chết; Lý Mộ Uyển hỏi thăm tin tức."
+      }
+     ],
+     "tuVi": "Nguyên Anh hậu kỳ — một trong các đại trưởng lão mạnh nhất Vân Thiên Tông @c0302.",
+     "nhanMach": [
+      {
+       "ten": "Tống Thanh",
+       "tag": "su-mon",
+       "quanHe": "Đồng môn Vân Thiên Tông, bi ai khi hắn mất tích",
+       "ghiChu": "@c0302"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0302"
+    ]
+   },
+   {
+    "id": "phong-son",
+    "name": "Phong Sơn",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Vân Thiên Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "khong-ro",
+    "blurb": "Đệ tử Vân Thiên Tông, bị Vương Lâm nhắc tên trong lệnh phong tỏa.",
+    "vaiTro": "Đệ tử Vân Thiên Tông",
+    "tinhCach": [],
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0306",
+       "importance": "minor",
+       "tieuDe": "Nhắc tên trong lệnh phong tỏa",
+       "text": "Vương Lâm ra lệnh Liễu Phỉ, Tống Thanh, Phong Sơn cùng bất cứ kẻ nào không được ra ngoài trước khi hắn đi ra; không có hành động hay mô tả thêm."
+      }
+     ],
+     "tuVi": "Chưa rõ tu vi @c0306.",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "su-mon",
+       "quanHe": "Bị Vương Lâm nhắc tên trong lệnh phong tỏa",
+       "ghiChu": "@c0306"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0306"
+    ]
+   },
+   {
+    "id": "thien-van-tu-luyen-dan",
+    "name": "Thiên Vân Tử",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Vân Thiên Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Ngũ cấp luyện đan sư",
+    "trangThai": "tu-vong",
+    "blurb": "Vị ngũ cấp luyện đan sư cuối cùng của Vân Thiên Tông, đã chết nhiều năm trước do Hóa Thần thất bại (khác với Thiên Vận Tử — sư phụ ký danh của Vương Lâm).",
+    "vaiTro": "Ngũ cấp luyện đan sư Vân Thiên Tông (đã mất)",
+    "tinhCach": [],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Lưu ý phân biệt: khác với Thiên Vận Tử (Thiên Vận Tinh, sư phụ ký danh của Vương Lâm)",
+       "chuong": "@c0311"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0311",
+       "importance": "minor",
+       "tieuDe": "Nhắc tên — đã chết",
+       "text": "Được nhắc là vị ngũ cấp luyện đan sư cuối cùng của Vân Thiên Tông, đã chết nhiều năm trước do Hóa Thần thất bại; nếu còn sống cùng Lý Mộ Uyển và Âu Dương Tử nghiên cứu lục phẩm đan phương chắc chắn nhanh hơn không ít."
+      }
+     ],
+     "tuVi": "Ngũ cấp luyện đan sư; chết do Hóa Thần thất bại @c0311.",
+     "nhanMach": [
+      {
+       "ten": "Âu Dương Tử",
+       "tag": "su-mon",
+       "quanHe": "Đồng môn luyện đan Vân Thiên Tông",
+       "ghiChu": "@c0311"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0311"
+    ]
+   },
+   {
+    "id": "dai-truong-lao-luyen-hon-phong",
+    "name": "Đại trưởng lão Luyện Hồn Phong",
+    "cn": "",
+    "aliases": [
+     "lão nhân áo xanh Luyện Hồn Phong"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Luyện Hồn Tông (Luyện Hồn Phong)",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Nguyên Anh hậu kỳ đại viên mãn",
+    "trangThai": "song",
+    "blurb": "Đại trưởng lão nội môn Luyện Hồn Phong của Luyện Hồn Tông, Nguyên Anh hậu kỳ đại viên mãn sắp Hóa Thần; tính lạnh lùng, mang oán khí với hai sư huynh và muốn đóng cửa không thu đệ tử.",
+    "vaiTro": "Đại trưởng lão Luyện Hồn Phong",
+    "tinhCach": [
+     {
+      "text": "Lạnh lùng, ánh mắt sáng ngời; mang oán khí với hai sư huynh (trưởng lão Trừu Phách và Tỏa Thần)",
+      "chuong": "@c0356"
+     },
+     {
+      "text": "Đề cao tự học, tuyên bố Luyện Hồn Tông không có sư phụ hoàn toàn dựa vào tự học",
+      "chuong": "@c0356"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Lão nhân mặc áo xanh, ánh mắt sáng ngời, giọng lạnh lùng; muốn đóng cửa không thu đệ tử",
+       "chuong": "@c0356"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0356",
+       "importance": "normal",
+       "tieuDe": "Thử thách và an bài Vương Lâm",
+       "text": "Ngồi trong đại điện tối trên đỉnh Luyện Hồn Phong, dùng uy áp thử Vương Lâm (danh Thanh Mộc), ấn ngón tay vào mi tâm kiểm tra và phát hiện tu vi thực là Kết Đan đại viên mãn (bị Vương Lâm đánh lừa). An bài hắn đổi phục sức ở Thiên Các, chọn công pháp ở Tàng Kinh Các, tự mở động phủ tu luyện. Sau đó đối thoại bằng thần thức với hai sư huynh, bất mãn và đuổi họ đi, quát đừng xem vào việc Luyện Hồn Phong."
+      }
+     ],
+     "tuVi": "Nguyên Anh hậu kỳ đại viên mãn, sắp Hóa Thần chỉ thiếu lĩnh ngộ thiên đạo @c0356.",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "su-mon",
+       "quanHe": "Tiếp nhận và an bài Vương Lâm (danh Thanh Mộc) vào Luyện Hồn Phong",
+       "ghiChu": "@c0356"
+      },
+      {
+       "ten": "Trưởng lão Trừu Phách",
+       "tag": "su-mon",
+       "quanHe": "Sư huynh, có oán khí",
+       "ghiChu": "@c0356"
+      },
+      {
+       "ten": "Trưởng lão Tỏa Thần",
+       "tag": "su-mon",
+       "quanHe": "Sư huynh, có oán khí",
+       "ghiChu": "@c0356"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0356"
+    ]
    }
   ]
  },
@@ -19790,7 +20230,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "techniques": {
   "updatedAt": "2026-06-14",
-  "count": 107,
+  "count": 111,
   "techniques": [
    {
     "id": "ngung-khi-tam-thien",
@@ -21665,6 +22105,81 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0390"
     ]
+   },
+   {
+    "id": "than-dao-thuat",
+    "name": "Thuật Thần Đạo",
+    "cn": "",
+    "aliases": [
+     "Thần đạo thuật",
+     "Pháp môn phân thân Thần Đạo"
+    ],
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp — pháp môn phân thân thượng thừa",
+    "he": "Phân thân / thần đạo",
+    "capBac": "Pháp môn phân thân hạng nhất",
+    "hePhai": "Chiến Thần Điện (thủy tổ)",
+    "nguoiDung": "Vương Lâm",
+    "blurb": "Pháp môn phân thân thượng thừa Vương Lâm khắc lại từ bố trí của thủy tổ Chiến Thần Điện. Phân thân là một khối chân thân hoàn chỉnh, sinh ra không có tu vi và thọ không quá 30 năm, nhưng giữ trọn pháp thuật + trí nhớ; tu song song giúp tăng tốc, khi Kết Anh hợp nhất hai thân làm tăng xác suất đột phá. Tu luyện không khó, không liên quan tư chất.",
+    "detail": "Vương Lâm năm xưa ở sơn động sau Chiến Thần Điện nhìn ra bố trí thuật Thần Đạo của thủy tổ, dựa trí nhớ khắc lại @c0187. Là pháp môn phân thân hạng nhất có đủ đại thần thông; phân thân hoàn toàn là chân thân, không mang thần thức/tu vi bản thể nhưng giữ trọn pháp thuật và trí nhớ. Kế hoạch dùng thuật này để đột phá Nguyên Anh: nuôi phân thân trong thiên nghịch không gian đạt Nguyên Anh trong 30 năm rồi dung hợp bổn tôn–phân thân, vượt thiên kiếp cực cảnh Kết Đan hậu kỳ mà không phải tán công @c0187. Phân thân Ngưng Khí kỳ được dùng để trà trộn vào lễ thu đồ Vân Thiên tông @c0188; sau khi Kết Anh thì hợp nhất với bổn tôn @c0200.",
+    "nguon": [
+     "@c0187",
+     "@c0188",
+     "@c0200"
+    ]
+   },
+   {
+    "id": "te-dan-luyen-thuat",
+    "name": "Tế đan luyện thuật",
+    "cn": "",
+    "aliases": [
+     "Tế đan"
+    ],
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp — pháp luyện đan độc đáo",
+    "he": "Luyện đan",
+    "capBac": "Không rõ phẩm cấp",
+    "hePhai": "Âu Dương Tử (Vân Thiên tông)",
+    "nguoiDung": "Âu Dương Tử",
+    "blurb": "Pháp luyện đan độc đáo do Âu Dương Tử tự sáng tạo: coi luyện đan là việc nghịch thiên nên cần tế phẩm. Dùng nhiều loại đan tứ phẩm tế luyện để ra một viên đan ngũ phẩm — xác suất tuy không cao nhưng cao hơn luyện thông thường.",
+    "detail": "Quan niệm: luyện đan là việc nghịch thiên giống nghi thức tế bái thiên địa, nhưng tế phẩm là đan dược @c0199. Cụ thể: dùng nhiều loại tứ phẩm linh đan tế luyện để ra một viên ngũ phẩm linh đan; bảy đỉnh kết vòng (sáu vây một), tế các đan vào sáu đỉnh ngoài rồi gom về đỉnh trung tâm. Khi linh lực giảm mạnh giữa chừng, Âu Dương Tử dùng thủ pháp Huyết tế (sáu đan sư tự bạo nội đan) để đẩy linh lực cực độ cứu vãn @c0199.",
+    "nguon": [
+     "@c0199"
+    ]
+   },
+   {
+    "id": "u-minh-nhan",
+    "name": "U Minh nhãn",
+    "cn": "",
+    "aliases": [],
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông — nhãn thuật",
+    "he": "U Minh",
+    "capBac": "Không rõ phẩm cấp",
+    "hePhai": "Âu Dương Tử (Vân Thiên tông)",
+    "nguoiDung": "Âu Dương Tử",
+    "blurb": "Thần thông của Âu Dương Tử hình thành sau khi ăn thành công U Minh đan (mười người ăn chỉ một thành, thất bại thì mù). Cho phép nhìn thấu vào trong đan đỉnh khi luyện đan và có thể đoạt tâm phồn người khác — nguyên nhân trọng yếu giúp hắn tiến xa trên đường luyện đan.",
+    "detail": "U Minh đan là đan dược quỷ dị: mười người ăn chỉ một thành công, thất bại thì mù cả hai mắt; thành công thì hình thành U Minh nhãn @c0199. Âu Dương Tử từng ăn thành công nên hai mắt loé u quang quỷ dị; sáu thuộc hạ không dám nhìn vào mắt hắn vì sợ bị đoạt tâm phồn. Khả năng nhìn thấu đan đỉnh giúp hắn kiểm soát quá trình luyện đan @c0199.",
+    "nguon": [
+     "@c0199"
+    ]
+   },
+   {
+    "id": "lo-luyen-y-canh",
+    "name": "Lò luyện ý cảnh",
+    "cn": "",
+    "aliases": [],
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp — pháp đoạt ý cảnh",
+    "he": "Ý cảnh",
+    "capBac": "Không rõ phẩm cấp",
+    "hePhai": "Cấm địa Chu Tước Sơn",
+    "nguoiDung": "Liễu Mi",
+    "blurb": "Phương pháp lão tổ cấm địa Chu Tước truyền cho Liễu Mi: lưu thân ảnh vào đạo tâm đối tượng, dùng người đó làm lò luyện; khi ý cảnh của mình đại thành thì phá lò, đoạt ý cảnh của đối tượng. Lão tổ định dùng Vương Lâm làm lò luyện để Liễu Mi đoạt sinh tử luân hồi ý cảnh.",
+    "detail": "Lão tổ ra lệnh Liễu Mi xuất quan, tiếp xúc Vương Lâm, bằng mọi thủ đoạn lưu lại thân ảnh trong đạo tâm hắn, lấy VL làm lò luyện — khi ý cảnh Liễu Mi đại thành sẽ phá lò, đoạt sinh tử luân hồi ý cảnh của VL để vượt Kiền Phong trong cuộc tranh danh hiệu Chu Tước @c0341. Phương pháp tương tự cách Kiền Phong thôn phệ ý cảnh Hồng Điệp.",
+    "nguon": [
+     "@c0341"
+    ]
    }
   ]
  },
@@ -23274,7 +23789,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "artifacts": {
   "updatedAt": "2026-06-14",
-  "count": 121,
+  "count": 127,
   "artifacts": [
    {
     "id": "thach-chau",
@@ -25668,12 +26183,103 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0388"
     ]
+   },
+   {
+    "id": "thien-ton-dan",
+    "name": "Thiên Tổn đan",
+    "cn": "",
+    "aliases": [],
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Ngũ phẩm sơ khai",
+    "soHuu": "Vân Thiên tông (Sở quốc)",
+    "blurb": "Đan dược trứ danh do Vân Thiên tông luyện chế, đạt ngũ phẩm sơ khai. Công hiệu đặc biệt với Nguyên Anh đã mất thân thể: lập tức chữa trị/tái sinh thân thể cũ mà không cần đoạt xá. Chính nhờ đan này Vân Thiên tông càng nổi danh; tu chân quốc cấp bốn Cự Ma tộc phải dùng hiệp nghị bí mật hạng nhất mới đổi được.",
+    "detail": "Thiên Tổn đan giúp Nguyên Anh mất thân thể tái sinh thân cũ không cần đoạt xá — vật phẩm cực giá trị @c0188. Năm 134.500 Vân Thiên tông ra Thiên Tổn đan ngũ phẩm → danh tiếng lên đỉnh, Cự Ma tộc đổi đan bằng hiệp nghị bí mật hạng nhất + cài pháp trận trước cửa tông. Đây là một lý do Vương Lâm nhắm Vân Thiên tông (tông luyện đan) để có đan dược cho phân thân @c0188.",
+    "nguon": [
+     "@c0188"
+    ]
+   },
+   {
+    "id": "that-long-dinh",
+    "name": "Thất Long đỉnh",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo — đan đỉnh",
+    "phamCap": "Hiệu quả không kém Đoạt Thiên Thất đỉnh nhiều",
+    "soHuu": "Lý Mộ Uyển",
+    "blurb": "Đan đỉnh do Lý Mộ Uyển lén luyện chế trong mấy năm ở Vân Thiên tông sau khi tìm hiểu Đoạt Thiên Thất đỉnh. Trên đỉnh có bảy con hắc long phun sương mù đen; vốn định làm đòn sát thủ tối hậu để phá Đoạt Thiên Thất đỉnh, sau đổi công năng dẫn linh lực ngàn năm xuống cho bổn tôn Vương Lâm tu luyện.",
+    "detail": "Thất Long đỉnh hiệu quả không kém Đoạt Thiên Thất đỉnh; bảy hắc long khi kích hoạt bay lên hóa hư ảnh đan đỉnh, sáu vây một @c0199. Lý Mộ Uyển dùng nó đồng bộ với Đoạt Thiên Thất đỉnh để trộm linh lực + giải phong ấn đan lô, đồng thời chứa bổn tôn Vương Lâm tu luyện hấp thu linh lực ngàn năm @c0199–@c0200.",
+    "nguon": [
+     "@c0199",
+     "@c0200"
+    ]
+   },
+   {
+    "id": "luc-dao-linh-dan",
+    "name": "Lục Đạo linh đan",
+    "cn": "",
+    "aliases": [],
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Khoảng ngũ phẩm (mốc để Âu Dương Tử thử lục phẩm)",
+    "soHuu": "Âu Dương Tử (Vân Thiên tông)",
+    "blurb": "Đan dược mới Âu Dương Tử luyện thành nhờ sáu du hồn luyện đan sư tương trợ; màu vàng, nổi lên từ đan đỉnh kèm dị tượng (trời tối hóa sáng). Là cột mốc giúp Âu Dương Tử tiến tới thử luyện lục phẩm linh đan.",
+    "detail": "Âu Dương Tử luyện thành Lục Đạo linh đan trên quảng trường Vân Thiên tông (làm bình phong cho Song tu điển lễ), nhờ sáu du hồn luyện đan sư; sau khi đan thành các du hồn lưu luyến rồi tiêu tán, được Âu Dương Tử tế bái. Thành công này khiến hắn tự tin có thể thử luyện lục phẩm linh đan @c0200.",
+    "nguon": [
+     "@c0200"
+    ]
+   },
+   {
+    "id": "tu-tinh-thach",
+    "name": "Tử Tinh thạch",
+    "cn": "",
+    "aliases": [],
+    "category": "vat-pham",
+    "categoryLabel": "Tài liệu luyện khí",
+    "phamCap": "Một viên cỡ nắm tay ≥ 100 khối trung phẩm linh thạch",
+    "soHuu": "Thiếu niên (vật gia truyền) → tranh chấp",
+    "blurb": "Viên ngọc màu tím to chừng nắm tay, sáng long lanh trong suốt; thực ra không phải ngọc mà là một loại tài liệu luyện khí giá trị cao. Là vật tranh chấp giữa thiếu niên và người đàn ông trung niên tại Liên Mặc Thành.",
+    "detail": "Tử Tinh thạch là tài liệu luyện khí, một viên lớn cỡ nắm tay bán được ít nhất trên 100 khối trung phẩm linh thạch @c0206. Người đàn ông trung niên cướp viên Tử Tinh thạch (vật gia truyền) của thiếu niên; sau khi Vương Lâm giết kẻ cướp, thiếu niên nhặt lại viên ngọc rồi chạy @c0206.",
+    "nguon": [
+     "@c0206"
+    ]
+   },
+   {
+    "id": "yeu-huyet-dan",
+    "name": "Yêu Huyết đan",
+    "cn": "",
+    "aliases": [],
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Tứ phẩm",
+    "soHuu": "Âu Dương Tử (dùng làm chủ tế)",
+    "blurb": "Viên đan tứ phẩm đỏ như máu, tỏa mùi tanh huyết, đựng trong bạch ngọc bình niêm sáp. Âu Dương Tử dùng làm chủ tế trong Tế đan luyện thuật — ném vào một đan đỉnh tạo cột sáng đỏ như máu (thông thiên huyết trụ).",
+    "detail": "Yêu Huyết đan là viên tứ phẩm đỏ như máu; luyện đan sư cầm nó run rẩy, mặt tái nhợt, cắn răng ném vào một trong sáu đan đỉnh → bốc cột sáng đỏ như máu @c0199. Đóng vai chủ tế trong nghi thức Tế đan luyện ngũ phẩm linh đan của Âu Dương Tử.",
+    "nguon": [
+     "@c0199"
+    ]
+   },
+   {
+    "id": "la-lam-dan",
+    "name": "La Lâm đan",
+    "cn": "",
+    "aliases": [],
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Tứ phẩm",
+    "soHuu": "Âu Dương Tử (dùng làm thứ tế)",
+    "blurb": "Viên đan tứ phẩm màu xanh lam, Âu Dương Tử dùng làm thứ tế trong Tế đan luyện thuật — đặt vào vòng đan đỉnh tạo cột sáng màu lam.",
+    "detail": "La Lâm đan là viên tứ phẩm màu xanh lam, đóng vai thứ tế trong nghi thức Tế đan luyện ngũ phẩm linh đan; đặt vào vòng đan đỉnh tạo cột sáng màu lam (một trong sáu cột sáng đủ màu) @c0199.",
+    "nguon": [
+     "@c0199"
+    ]
    }
   ]
  },
  "factions": {
   "updatedAt": "2026-06-14",
-  "count": 69,
+  "count": 75,
   "factions": [
    {
     "id": "hang-nhac-phai",
@@ -27112,6 +27718,115 @@ window.LIB_DATA["tien-nghich"]={
     "detail": "Tu chân liên minh được nhắc đến @c0389 — là tổ chức liên kết nhiều tu chân tông phái và quốc gia trên nhiều tu chân tinh. Quy mô đủ lớn để có nhiều tu chân quốc cấp 6 (lục cấp) trở lên làm thành viên. Hàng năm tổ chức cử tu sĩ đến các tu chân tinh khác để thu tiên ngọc — cho thấy tầm ảnh hưởng liên tinh. Thiên Vận Tử (nhân vật xuất hiện trong arc Chu Tước tinh) nắm một vị trí trong Tu chân liên minh @c0389.",
     "nguon": [
      "@c0389"
+    ]
+   },
+   {
+    "id": "kiem-khi-tong",
+    "name": "Kiếm Khí tông",
+    "cn": "",
+    "aliases": [],
+    "loai": "tong-mon",
+    "loaiLabel": "Tông môn kiếm tu",
+    "viTri": "Sở quốc",
+    "capDo": "Tông phái sát phạt — có đệ tử nội môn Trúc Cơ/Kết Đan",
+    "lanhDao": "Không rõ",
+    "trangThai": "Đang hoạt động",
+    "blurb": "Tông phái kiếm tu ở Sở quốc, nổi tiếng sát phạt nặng tay. Cặp huynh muội Vương Lâm gặp trên đường tới Vân Thiên tông thuộc tông này: người anh là đệ tử nội môn (vạt áo thêu phi kiếm tím, Trúc Cơ hậu kỳ), em gái thích Kiếm Khí tông nhưng bị anh ép sang bái sư Vân Thiên tông cho an toàn.",
+    "detail": "Kiếm Khí tông là một trong các tông phái của Sở quốc (tu chân quốc cấp ba) @c0188. Đặc trưng: kiếm tu, phong cách giết chóc nặng — chính người anh bị chê giết chóc quá nặng không hợp với em gái. Đệ tử nội môn mặc áo thêu phi kiếm màu tím. Người anh (Trúc Cơ hậu kỳ) giấu em gái chuyện năm xưa, lộ tia lạnh sắc bén khi nhắc cha mẹ đã mất @c0188.",
+    "thanhVien": [],
+    "nguon": [
+     "@c0188"
+    ]
+   },
+   {
+    "id": "hao-thien-tong",
+    "name": "Hạo Thiên tông",
+    "cn": "",
+    "aliases": [],
+    "loai": "tong-mon",
+    "loaiLabel": "Tông môn tu chân (có luyện đan)",
+    "viTri": "Sở quốc",
+    "capDo": "Có tu sĩ Nguyên Anh kỳ; có vài luyện đan sư",
+    "lanhDao": "Tư Mã Vân Nam (chưởng môn, Nguyên Anh kỳ); Từ Ly (trưởng lão, luyện đan đại sư Kết Đan sơ kỳ)",
+    "trangThai": "Đang hoạt động",
+    "blurb": "Tông môn tu chân ở Sở quốc, cũng có một số người luyện đan (ít, kém Vân Thiên tông không nhiều) và có tu sĩ Nguyên Anh kỳ. Trưởng lão Từ Ly và đệ tử Mạch Quốc Vinh thuộc tông này; từng bị Vương Lâm chặn hỏi đường. Chưởng môn Tư Mã Vân Nam mưu lợi từ việc Vân Thiên tông bị ma tu chú ý.",
+    "detail": "Hạo Thiên tông là tông môn của Từ Ly (trưởng lão, áo xanh, luyện đan đại sư Kết Đan sơ kỳ) và Mạch Quốc Vinh (đệ tử nội môn, Trúc Cơ sơ kỳ) ở Sở quốc @c0187. Cử đệ tử cấp thấp đi dự hội Khai Linh. Chưởng môn Tư Mã Vân Nam (Nguyên Anh kỳ, áo tím) đến dự Song tu điển lễ Vân Thiên tông; Từ Ly nghi người thần bí ẩn trong Vân Thiên tông chính là Vương Lâm gặp năm xưa, Tư Mã Vân Nam suy đoán người đó đến từ Tu Ma hải và mừng thầm vì lợi cho Hạo Thiên tông @c0200. (Một số chương dùng lẫn Hạo Nhiên tông — xem mục Hạo Nhiên tông.)",
+    "thanhVien": [],
+    "nguon": [
+     "@c0187",
+     "@c0200"
+    ]
+   },
+   {
+    "id": "la-nguyet-phai",
+    "name": "La Nguyệt phái",
+    "cn": "",
+    "aliases": [],
+    "loai": "tong-mon",
+    "loaiLabel": "Tông môn tu chân",
+    "viTri": "Sở quốc (vùng lân cận)",
+    "capDo": "Không rõ",
+    "lanhDao": "Thiên Nhất Chân Nhân; trưởng lão Sử Thiên Lại",
+    "trangThai": "Đang hoạt động",
+    "blurb": "Tông phái tu chân, khách mời dự Song tu điển lễ của Vân Thiên tông. Đại diện gồm Thiên Nhất Chân Nhân và trưởng lão Sử Thiên Lại.",
+    "detail": "La Nguyệt phái xuất hiện trong danh sách khách mời Song tu điển lễ Vân Thiên tông @c0200 — đại diện là Thiên Nhất Chân Nhân cùng trưởng lão Sử Thiên Lại (chỉ được xướng danh). Không có thêm thông tin chi tiết về tổ chức.",
+    "thanhVien": [],
+    "nguon": [
+     "@c0200"
+    ]
+   },
+   {
+    "id": "thien-vo-quoc",
+    "name": "Thiên Võ quốc",
+    "cn": "",
+    "aliases": [],
+    "loai": "tu-chan-quoc",
+    "loaiLabel": "Tu chân quốc cấp ba",
+    "viTri": "Lân cận Sở quốc",
+    "capDo": "Tam cấp tu chân quốc",
+    "lanhDao": "Không rõ",
+    "trangThai": "Đang hoạt động",
+    "blurb": "Tu chân quốc cấp ba lân cận Sở quốc. Cử hai sứ giả (tu vi không thấp) đến Vân Thiên tông mua đan dược và cố xin quan khán Âu Dương Tử luyện đan, bị đuổi đi với nét cười lạnh.",
+    "detail": "Thiên Võ quốc là tu chân quốc cấp ba @c0199. Hai sứ giả/khách quý của nước (dáng cao gầy, tỏa khí tức khổng lồ) đến Vân Thiên tông mua đan và xin quan khán Âu Dương Tử luyện đan; bị Âu Dương Tử đuổi, lộ nét cười lạnh khi rời đi @c0199. Không có thêm thông tin chi tiết.",
+    "thanhVien": [],
+    "nguon": [
+     "@c0199"
+    ]
+   },
+   {
+    "id": "lien-mac-thanh-faction",
+    "name": "Liên Mặc Thành",
+    "cn": "",
+    "aliases": [],
+    "loai": "to-chuc",
+    "loaiLabel": "Thành lớn tu sĩ (có hệ thống hộ pháp)",
+    "viTri": "Tu Ma hải",
+    "capDo": "Có bốn hộ pháp Nguyên Anh + Thành Chủ bế quan quanh năm",
+    "lanhDao": "Thành Chủ Liên Mặc Thành (bế quan quanh năm); bốn hộ pháp Nguyên Anh",
+    "trangThai": "Đang hoạt động",
+    "blurb": "Tòa thành lớn ở Tu Ma hải, chủ yếu là tu sĩ, nhiều lầu các và truyền tống trận. Có hệ thống bốn hộ pháp Nguyên Anh (ba lão giả áo đen/đỏ/trắng + một đại hán đầu bóng lưỡng) và Thành Chủ bế quan quanh năm. Bên trong có Bí thị — chợ bí mật hạn chế tu vi (Nguyên Anh kỳ, cần lệnh bài). Vương Lâm giết một hộ pháp đại hán để đoạt lệnh bài Bí thị.",
+    "detail": "Liên Mặc Thành nằm trong Tu Ma hải @c0206. Quy mô lớn, nhiều lầu các và truyền tống trận (do yêu thú nhiều nên tu sĩ tốn linh thạch dùng trận để đi lại an toàn). Hệ thống hộ pháp gồm bốn Nguyên Anh: ba lão giả gần như giống hệt nhau chỉ khác màu áo (đen/đỏ/trắng) canh cổng thành + một đại hán đầu bóng lưỡng (Nguyên Anh sơ kỳ, nuôi phi trùng). Thành Chủ bế quan quanh năm, chỉ ra mặt khi có việc trọng đại. Trong thành có Luyện khí các (lầu ba tầng) và Bí thị (chợ bí mật). Vương Lâm dùng Cấm phiên + Cổ Kính + Văn thú giết đại hán hộ pháp để đoạt lệnh bài Bí; ba hộ pháp còn lại không dám tranh, định cấp báo Thành Chủ @c0206.",
+    "thanhVien": [],
+    "nguon": [
+     "@c0206"
+    ]
+   },
+   {
+    "id": "thien-dao-mon-trieu",
+    "name": "Thiên Đạo môn (Triệu quốc)",
+    "cn": "",
+    "aliases": [],
+    "loai": "tong-mon",
+    "loaiLabel": "Tông môn tu chân",
+    "viTri": "Triệu quốc",
+    "capDo": "Có tu sĩ Nguyên Anh sơ kỳ (Hoàng Đại Sơn)",
+    "lanhDao": "Không rõ",
+    "trangThai": "Đang hoạt động (giai đoạn c0213)",
+    "blurb": "Tông môn tu chân tại Triệu quốc; Hoàng Đại Sơn (Nguyên Anh sơ kỳ) là người của tông này, bị Vương Lâm chỉ nhìn một cái là chết — sự việc trở thành cơ sở để giới tu sĩ đồn Vương Lâm có thể là Hóa Thần kỳ. (Khác với Thiên Đạo Tông ở Hằng Nhạc sơn giai đoạn c0385.)",
+    "detail": "Thiên Đạo môn (Triệu quốc) được nhắc tới khi Âm Dương lão nhân Hợp Hoan tông so sánh thực lực Vương Lâm @c0213 — Hoàng Đại Sơn (Nguyên Anh sơ kỳ) của Thiên Đạo môn chỉ bị Vương Lâm nhìn một cái là chết, làm căn cứ cho lời đồn Vương Lâm vượt Hóa Thần kỳ. Hộ sơn đại trận của tông yếu hơn trận Hợp Hoan tông. Không có thêm thông tin chi tiết. Lưu ý: tông này KHÁC với Thiên Đạo Tông trên Hằng Nhạc sơn (Trần Phong Khiếu, c0385).",
+    "thanhVien": [],
+    "nguon": [
+     "@c0213"
     ]
    }
   ]
