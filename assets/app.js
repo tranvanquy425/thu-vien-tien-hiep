@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-14T22:10Z — fix lọc Kinh lịch theo quyển (addEventListener + bỏ option placeholder dư) + Nhân mạch lọc tuyến/link. */
+/* sync-bump 2026-06-15T04:30Z — render bridge cho importance:"bridge" (format mới) + freeze toolbar Nhân Vật (nv-toolbar) + lọc quyển. */
 /* ===================== Thư Viện Tiên Hiệp — app trang bộ ===================== */
 (function () {
   "use strict";
@@ -302,9 +302,13 @@
       // LUÔN gắn data-q (rỗng nếu không xác định được quyển) để bộ lọc theo quyển nhất quán.
       const qattr = ' data-q="' + esc(qv ? qv.value : '') + '"';
       if (qv && !klQuyens.some(x => x.value === qv.value)) klQuyens.push(qv);
-      if (e.bridge) {
+      if (e.bridge || e.importance === "bridge") {
+        // bridge: hỗ trợ CẢ format cũ {bridge:true, khoang} LẪN format mới {importance:"bridge", chuong, text}
+        var bneo = e.khoang
+          ? '<span class="neo rng">' + esc(e.khoang) + '</span> '
+          : (e.chuong ? '<a class="neo" href="#doc" data-goch="' + String(e.chuong).replace(/[^0-9]/g, "") + '">' + esc(e.chuong) + '</a> ' : '');
         return '<div class="ev bridge"' + qattr + '><div class="ev-bridge">' +
-          (e.khoang ? '<span class="neo rng">' + esc(e.khoang) + '</span> ' : '') + esc(e.text || "") + '</div></div>';
+          bneo + esc(e.text || "") + '</div></div>';
       }
       const lv = e.importance || "normal";
       return '<div class="ev ' + lv + '"' + qattr + '><div class="ev-head"><span class="lvl ' + lv + '">' +
