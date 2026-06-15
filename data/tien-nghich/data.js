@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-15T05:56:53.411Z build_datajs */
+/* sync-bump 2026-06-15T07:33:30.053Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-14",
-  "count": 215,
+  "count": 219,
   "chars": [
    {
     "id": "vuong-lam",
@@ -12462,18 +12462,10 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "nhanMach": [
       {
-       "ten": "Bí thị",
-       "gap": "@c0207",
-       "quanHe": "Thành viên",
-       "ghiChu": "Dùng danh nghĩa Bí thị tiếp cận VL, thực chất bày bẫy.",
-       "tag": "the-luc",
-       "uuTien": 60
-      },
-      {
        "ten": "Vương Lâm",
        "gap": "@c0207",
        "quanHe": "Mục tiêu ám sát (thất bại)",
-       "ghiChu": "VL nhận ra mưu kế và phản giết; thu được bản đồ quan trọng.",
+       "ghiChu": "Mượn danh nghĩa Bí thị (chợ kín ba thành ở Tu Ma hải) tiếp cận VL để bày bẫy; VL nhận ra mưu kế và phản giết, thu được bản đồ quan trọng.",
        "tag": "doi-thu",
        "uuTien": 75
       }
@@ -12754,17 +12746,9 @@ window.LIB_DATA["tien-nghich"]={
        "ten": "Đằng Tú Tú",
        "gap": "@c0216",
        "quanHe": "Con gái",
-       "ghiChu": "Hy sinh tu vi truyền tống cứu con thoát khỏi Vương Lâm.",
+       "ghiChu": "Hy sinh tu vi truyền tống cứu con thoát khỏi Vương Lâm. Mẹ của Đằng Tú Tú là vợ phàm nhân của Đằng Tam (tên có chữ 'Vận'), bị lão tổ ép chia lìa, hết tuổi thọ mà mất; Đằng Tam đặt tên phi kiếm Điệu Vân theo tên nàng.",
        "tag": "gia-dinh",
        "uuTien": 70
-      },
-      {
-       "ten": "Vong thê (chữ 'Vận')",
-       "gap": "@c0216",
-       "quanHe": "Vợ (đã mất)",
-       "ghiChu": "Con gái phàm nhân, bị lão tổ ép chia lìa, hết tuổi thọ mà mất; Đằng Tam đặt tên phi kiếm Điệu Vân theo tên nàng.",
-       "tag": "gia-dinh",
-       "uuTien": 65
       }
      ],
      "tuiDo": {
@@ -13540,7 +13524,8 @@ window.LIB_DATA["tien-nghich"]={
     "name": "Hồng Điệp",
     "cn": "",
     "aliases": [
-     "Tuyệt Tình"
+     "Tuyệt Tình",
+     "Hồng Diệp"
     ],
     "gioiTinh": "nu",
     "theLuc": [
@@ -15129,6 +15114,11 @@ window.LIB_DATA["tien-nghich"]={
      "diem": [],
      "kinhLich": [
       {
+       "chuong": "@c0276",
+       "importance": "minor",
+       "text": "Nhắc gián tiếp qua di hài: Vương Lâm phát hiện hài cốt Thiên Bảo thượng nhân trong Tiên Thú Phủ (huyệt động tiên giới), trên ngực có thiết phiến vàng. Nhân vật đã chết từ trước đại nạn tiên giới, chỉ còn di hài (VL phát hiện @c0276–@c0277)."
+      },
+      {
        "bridge": true,
        "khoang": "@c0281–@c0283",
        "text": "Chết trước đại nạn tiên giới; để lại Thiết Phiến vàng chứa ký lục định vị động phủ (VL thu được @c0281). Thiết Phiến tan chảy tại cổng động phủ → mở ảo ảnh dẫn vào gian bí mật. Trong động phủ có 3 Xạ Thần xa + tài liệu luyện khí để lộn xộn. VL thu trọn @c0282–@c0283. (@c0281–@c0283)"
@@ -15145,6 +15135,8 @@ window.LIB_DATA["tien-nghich"]={
      }
     },
     "nguon": [
+     "@c0276",
+     "@c0277",
      "@c0281",
      "@c0282",
      "@c0283"
@@ -17155,6 +17147,12 @@ window.LIB_DATA["tien-nghich"]={
       }
      ],
      "kinhLich": [
+      {
+       "chuong": "@c0334",
+       "importance": "minor",
+       "tieuDe": "Hấp thu tiên ngọc — đột phá Anh Biến (nhắc gián tiếp)",
+       "text": "Nhắc gián tiếp: một lão tổ Cự Ma tộc hấp thu tiên ngọc do Sất Hổ mang về, đột phá thành tu sĩ Anh Biến kỳ đầu tiên của Cự Ma tộc trên Chu Tước tinh; nhờ đó Cự Ma tộc thăng từ cấp 4 lên cấp 5."
+      },
       {
        "chuong": "@c0342",
        "importance": "major",
@@ -19327,6 +19325,11 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
+       "chuong": "@c0356",
+       "importance": "minor",
+       "text": "Nhắc tên gián tiếp: Vương Chấn giới thiệu cấu trúc Luyện Hồn Tông có 2 Huyết hoàn (2 Thuỷ tổ Anh Biến bế quan), trong đó có Độn Thiên Thuỷ tổ. Kể chuyện Tằng Ngưu từng giết một Hóa Thần lão tổ Luyện Hồn Tông đi du lịch; Độn Thiên chuẩn bị truy tìm thì Tằng Ngưu mất tích."
+      },
+      {
        "chuong": "@c0362",
        "importance": "bridge",
        "text": "Thanh âm già nua từ vòng sáng đỏ vang lên khi VL đang đối đầu 9 Hóa Thần của tông: 'Tiểu hữu! Lão phu chờ ngươi đã lâu.' (@c0362)"
@@ -19408,6 +19411,7 @@ window.LIB_DATA["tien-nghich"]={
      }
     },
     "nguon": [
+     "@c0356",
      "@c0362",
      "@c0363",
      "@c0367",
@@ -19616,6 +19620,7 @@ window.LIB_DATA["tien-nghich"]={
      }
     },
     "nguon": [
+     "@c0334",
      "@c0370"
     ]
    },
@@ -19661,6 +19666,12 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
+       "chuong": "@c0296",
+       "importance": "normal",
+       "tieuDe": "Ra mặt — tự xưng 'bản vương', sắc phong Chu Dật làm Kiếm Hồn",
+       "text": "Xuất hiện dưới dạng cô gái áo trắng, tự xưng 'bản vương'. Tự nhận không phải Đình Nhi (tên do Chu Dật đặt) nhưng thích cái tên ấy. Sắc phong Chu Dật làm Kiếm Hồn — hé lộ mối liên hệ giữa nàng và Chu Dật."
+      },
+      {
        "chuong": "@c0299",
        "importance": "major",
        "tieuDe": "Chiến Lăng Thiên Hậu, hao tiên khí",
@@ -19705,6 +19716,7 @@ window.LIB_DATA["tien-nghich"]={
      }
     },
     "nguon": [
+     "@c0296",
      "@c0299",
      "@c0300",
      "@c0306"
@@ -20030,19 +20042,7 @@ window.LIB_DATA["tien-nghich"]={
        "ten": "Vương Lâm",
        "tag": "su-mon",
        "quanHe": "Tiếp nhận và an bài Vương Lâm (danh Thanh Mộc) vào Luyện Hồn Phong",
-       "ghiChu": "@c0356"
-      },
-      {
-       "ten": "Trưởng lão Trừu Phách",
-       "tag": "su-mon",
-       "quanHe": "Sư huynh, có oán khí",
-       "ghiChu": "@c0356"
-      },
-      {
-       "ten": "Trưởng lão Tỏa Thần",
-       "tag": "su-mon",
-       "quanHe": "Sư huynh, có oán khí",
-       "ghiChu": "@c0356"
+       "ghiChu": "@c0356. Tranh giành VL với hai vị trưởng lão (sư huynh) của hai phong còn lại — Trừu Phách phong và Tỏa Thần phong; hai vị này đối thoại qua thần thức, có oán khí khi VL thuộc về Luyện Hồn Phong."
       }
      ],
      "tuiDo": {
@@ -20057,6 +20057,235 @@ window.LIB_DATA["tien-nghich"]={
     },
     "nguon": [
      "@c0356"
+    ]
+   },
+   {
+    "id": "ly-son",
+    "name": "Lý Sơn",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Huyền Đạo Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "",
+    "trangThai": "khong-ro",
+    "blurb": "Đệ tử Huyền Đạo Tông chuyên buôn bán pháp khí xảo trá tại hội giao lưu phái Hằng Nhạc; nổi tiếng với phích lịch đạn tự chế.",
+    "vaiTro": "",
+    "tinhCach": [],
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0044",
+       "importance": "minor",
+       "text": "Đệ tử Huyền Đạo Tông, bày bán pháp khí xảo trá (phi kiếm giả Tử Ngọ Kim Tiễn, phích lịch đạn tự chế) cho đệ tử phái Hằng Nhạc; mưu kế dụ đối phương dùng đạn thối để lập công. Vương Lâm âm thầm quan sát."
+      },
+      {
+       "chuong": "@c0046",
+       "importance": "minor",
+       "text": "Bán phích lịch đạn cho Vương Lâm. VL phát hiện bên trong đạn có một đạo thần thức của Lý Sơn dùng điều khiển kích nổ, bèn dùng thần thức bao phủ và nuốt đạo thần thức đó vào trong."
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Khách mua phích lịch đạn — bị VL nuốt thần thức trong đạn"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0044",
+     "@c0046",
+     "@c0047"
+    ]
+   },
+   {
+    "id": "chu-lam",
+    "name": "Chu Lâm",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Vân Thiên Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Kết Đan sơ kỳ",
+    "trangThai": "khong-ro",
+    "blurb": "Cửu đại đệ tử Vân Thiên Tông, đệ tử của Lý Mộ Uyển; là sư phụ (qua phân thân) của Vương Lâm trong thân phận tại Vân Thiên Tông.",
+    "vaiTro": "",
+    "tinhCach": [],
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0189",
+       "importance": "minor",
+       "text": "Trung niên nam tử, cửu đại đệ tử Vân Thiên Tông, tu vi Kết Đan sơ kỳ (đệ tử nội tông); là sư phụ (phân thân) của Vương Lâm, đang bế quan nên Lý Mộ Uyển trêu mình là 'sư tổ' của VL."
+      },
+      {
+       "chuong": "@c0198",
+       "importance": "minor",
+       "text": "Theo lệnh Lý Mộ Uyển, đón Vương Lâm tại Bắc Uyển rồi mở trận pháp trên vách dẫn vào phòng bí mật để VL gặp Lý Mộ Uyển. Bị VL thận trọng lén hạ một đạo cấm chế và đòi xem linh phù chứng minh thân phận. Tự biết bị cuốn vào chuyện bí mật của sư phụ nên lo bị liên lụy."
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Kết Đan sơ kỳ",
+     "nhanMach": [
+      {
+       "ten": "Lý Mộ Uyển",
+       "tag": "su-mon",
+       "quanHe": "Sư phụ"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "su-mon",
+       "quanHe": "Đệ tử (danh nghĩa) — đón và dẫn VL gặp Lý Mộ Uyển"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0189",
+     "@c0195",
+     "@c0198"
+    ]
+   },
+   {
+    "id": "tien-con",
+    "name": "Tiền Côn",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Độc Ma Vương Cung",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Kết Đan trung kỳ",
+    "trangThai": "tu-vong",
+    "blurb": "Ngũ đại đệ tử Độc Ma Vương Cung, phụng mệnh truy sát Vân Phi để thu hồi ngọc giản; chạm trán Vương Lâm vừa ra khỏi Loạn Tinh Hải và bị VL giết diệt khẩu.",
+    "vaiTro": "",
+    "tinhCach": [],
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0177",
+       "importance": "minor",
+       "text": "Nam trung niên mặt chữ điền, ngũ đại đệ tử Độc Ma Vương Cung, tu vi Kết Đan trung kỳ; phụng mệnh truy sát Vân Phi gần một tháng để thu hồi ngọc giản phương đan dược. Khi Vương Lâm xé khe không gian bước ra khỏi Toái Tinh Loạn, khí thế như thần ma khiến Tiền Côn sợ hết hồn."
+      },
+      {
+       "chuong": "@c0179",
+       "importance": "normal",
+       "tieuDe": "Bị Vương Lâm giết diệt khẩu",
+       "text": "Đoán ra Vương Lâm là người từ Loạn Tinh Hải đi ra (lão tổ không về mà lại có thanh niên lạ bước ra). Ném cát đen tấn công rồi bỏ chạy, bị VL dùng ma đầu Hứa Quốc Lập thôn phệ thần thức, đoạt kim đan + túi trữ vật; thi thể bị thiêu thành tro. Chết."
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Kết Đan trung kỳ",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ thù — bị VL giết diệt khẩu @c0179"
+      },
+      {
+       "ten": "Vân Phi",
+       "tag": "doi-thu",
+       "quanHe": "Mục tiêu truy sát"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0177",
+     "@c0179"
+    ]
+   },
+   {
+    "id": "tong-su-thuc-hang-nhac",
+    "name": "Tống sư thúc",
+    "cn": "",
+    "aliases": [
+     "Tống sư thúc (Hằng Nhạc Phái)"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Hằng Nhạc Phái",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "",
+    "trangThai": "khong-ro",
+    "blurb": "Trưởng lão Hằng Nhạc Phái, bạn cũ 20 năm của Âu Dương (trưởng lão Huyền Đạo Tông); nổi tiếng ủ rượu mạnh.",
+    "vaiTro": "",
+    "tinhCach": [],
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0040",
+       "importance": "minor",
+       "text": "Trưởng lão Hằng Nhạc Phái, quen biết Âu Dương (trưởng lão Huyền Đạo Tông) từ 20 năm trước; nổi tiếng ủ rượu mạnh. Hàn huyên vui vẻ với Âu Dương sau cuộc tỷ thí."
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "",
+     "nhanMach": [
+      {
+       "ten": "Âu Dương",
+       "tag": "ban-be",
+       "quanHe": "Bạn cũ 20 năm"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0040"
     ]
    }
   ]
