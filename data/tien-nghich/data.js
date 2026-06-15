@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-15T05:44:12.299Z build_datajs */
+/* sync-bump 2026-06-15T05:56:53.411Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -14301,7 +14301,10 @@ window.LIB_DATA["tien-nghich"]={
     "cn": "",
     "aliases": [
      "Vân Tước",
-     "Vân Tước Tử"
+     "Vân Tước Tử",
+     "lão đầu lôi thôi",
+     "lão nhân lôi thôi",
+     "sư đệ Chu Tước"
     ],
     "gioiTinh": "nam",
     "theLuc": [],
@@ -15153,7 +15156,9 @@ window.LIB_DATA["tien-nghich"]={
     "cn": "",
     "aliases": [
      "người trung niên cầm hồ lô",
-     "lão trung niên"
+     "lão trung niên",
+     "người luyến nữ thi",
+     "trung niên cầm hồ lô uống rượu"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -15312,6 +15317,7 @@ window.LIB_DATA["tien-nghich"]={
     "name": "Tôn Thái",
     "cn": "",
     "aliases": [
+     "Tôn Thái",
      "lão đầu Thi Âm Tông",
      "đại trưởng lão Thi Âm Tông",
      "lão giả tóc trắng"
@@ -16030,7 +16036,12 @@ window.LIB_DATA["tien-nghich"]={
     "id": "lao-gia-lung-gu-tien-di",
     "name": "Lão già lưng gù (thất diệp)",
     "cn": "",
-    "aliases": [],
+    "aliases": [
+     "lão già lưng gù",
+     "lão già lưng còng",
+     "lão già gù",
+     "Thất Diệp Thuật Chú Sư"
+    ],
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -16092,7 +16103,13 @@ window.LIB_DATA["tien-nghich"]={
     "id": "lao-gia-ao-xanh-tien-di",
     "name": "Lão già áo xanh (hộ vệ Tử Tâm)",
     "cn": "",
-    "aliases": [],
+    "aliases": [
+     "Công Tôn",
+     "lão già hộ vệ Chu Ngạn Hoành",
+     "lão già áo choàng vải xanh",
+     "lão già áo xanh (phù khôi ngũ diệp)",
+     "lão già thanh sam"
+    ],
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -16154,7 +16171,11 @@ window.LIB_DATA["tien-nghich"]={
     "name": "Nữ tử áo lụa trắng (Tử Tâm)",
     "cn": "",
     "aliases": [
-     "Tử Tâm"
+     "Tử Tâm",
+     "cô gái mặc lụa trắng",
+     "nữ tử áo lụa trắng (Tiên Di)",
+     "Tử Tâm đạo hữu",
+     "Tử"
     ],
     "gioiTinh": "nu",
     "theLuc": [
@@ -16210,7 +16231,9 @@ window.LIB_DATA["tien-nghich"]={
     "id": "lao-dao-si-van-thien-tong",
     "name": "Lão đạo sĩ (phái nhỏ phụ thuộc Vân Thiên Tông)",
     "cn": "",
-    "aliases": [],
+    "aliases": [
+     "lão đạo sĩ tìm linh căn"
+    ],
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -18582,9 +18605,10 @@ window.LIB_DATA["tien-nghich"]={
     "name": "Chu Ngạn Hoành",
     "cn": "",
     "aliases": [
-     "Tử Tâm",
+     "Tử Tâm (Phiêu Miểu tông)",
      "nữ áo xanh",
-     "người phòng giữa lầu ba"
+     "người phòng giữa lầu ba",
+     "Chu Ngạn Hoành"
     ],
     "gioiTinh": "nu",
     "theLuc": [],
