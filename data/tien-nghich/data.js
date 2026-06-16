@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-16T12:03:30.226Z build_datajs */
+/* sync-bump 2026-06-16T12:52:44.193Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-14",
-  "count": 285,
+  "count": 284,
   "chars": [
    {
     "id": "vuong-lam",
@@ -19616,12 +19616,18 @@ window.LIB_DATA["tien-nghich"]={
     "aliases": [
      "Chu Tước",
      "lão quái Chu Tước",
-     "Chu Tước Tử"
+     "Chu Tước Tử",
+     "Chu Tước Tử Đời 14",
+     "Tước Tử hồng bào"
     ],
     "gioiTinh": "nam",
     "theLuc": [
      {
       "ten": "Chu Tước Sơn",
+      "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Tiên Di tộc (phân nhánh danh xưng)",
       "trangThai": "gan-bo"
      }
     ],
@@ -19643,6 +19649,11 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "normal",
        "tieuDe": "Quét thần thức, ra lệnh Liễu Mi tìm VL",
        "text": "Dừng bế quan, quét thần thức toàn quốc, phát hiện trận chiến 2 Anh Biến kỳ ở cực bắc do Tuyết Vực gây ra. Không tìm thấy VL (nguyên thần VL tan nát nên lọt thần thức). Coi VL chỉ là một cái lô đỉnh, ra lệnh Liễu Mi đi phương bắc tìm. Hứa Tuyết Vực nhất định gặp tai kiếp. Tiếp tục bế quan."
+      },
+      {
+       "bridge": true,
+       "khoang": "@c0379",
+       "text": "Ra lệnh tổng tấn công, khởi đầu giai đoạn mới của chiến tranh Tiên Di tộc."
       }
      ],
      "tuViMoc": [],
@@ -19663,7 +19674,8 @@ window.LIB_DATA["tien-nghich"]={
      "tuiDo": {}
     },
     "nguon": [
-     "@c0345"
+     "@c0345",
+     "@c0379"
     ]
    },
    {
@@ -19846,52 +19858,6 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "major"
       }
      ],
-     "nhanMach": [],
-     "tuiDo": {}
-    },
-    "nguon": [
-     "@c0379"
-    ]
-   },
-   {
-    "id": "chu-tuoc-tu-doi-14",
-    "name": "Chu Tước Tử Đời 14",
-    "cn": "",
-    "aliases": [
-     "Tước Tử hồng bào"
-    ],
-    "gioiTinh": "nam",
-    "theLuc": [
-     {
-      "ten": "Tiên Di tộc (phân nhánh danh xưng)",
-      "trangThai": "gan-bo"
-     }
-    ],
-    "canhGioiCaoNhat": "Chưa rõ @c0379",
-    "trangThai": "song",
-    "blurb": "Nhân vật cấp cao Tiên Di tộc mang danh xưng Chu Tước Tử đời thứ 14; mặc hồng bào, ra lệnh tổng tấn công khi lão giả tổ tiên hi sinh.",
-    "vaiTro": "phu",
-    "tinhCach": [
-     {
-      "text": "Quyết đoán, ra lệnh chiến tranh không do dự",
-      "chuong": "@c0379"
-     }
-    ],
-    "tabs": {
-     "diem": [
-      {
-       "text": "Mặc hồng bào, ra lệnh tổng tấn công sau khi tổ tiên Tiên Di tộc hi sinh @c0379",
-       "chuong": "@c0379"
-      }
-     ],
-     "kinhLich": [
-      {
-       "bridge": true,
-       "khoang": "@c0379",
-       "text": "Ra lệnh tổng tấn công, khởi đầu giai đoạn mới của chiến tranh Tiên Di tộc."
-      }
-     ],
-     "tuViMoc": [],
      "nhanMach": [],
      "tuiDo": {}
     },
