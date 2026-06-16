@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-16T08:21:46.766Z build_datajs */
+/* sync-bump 2026-06-16T08:49:23.961Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -23564,10 +23564,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0449",
-       "importance": "normal",
-       "tieuDe": "Được nhắc tới như tiền nhiệm Tử Vân Các",
-       "text": "Đại sư huynh nhắc rằng cách vấn đạo của Vương Lâm giống hệt Tôn Vân năm đó; lòng sư tôn với Tôn Vân nay không còn chút nào, gợi một biến cố chưa rõ."
+       "text": "Đại sư huynh nhắc rằng cách vấn đạo của Vương Lâm giống hệt Tôn Vân năm đó; lòng sư tôn với Tôn Vân nay không còn chút nào, gợi một biến cố chưa rõ.",
+       "bridge": true,
+       "khoang": "@c0449"
       }
      ],
      "tuViMoc": [],
@@ -23631,10 +23630,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0450",
-       "importance": "normal",
-       "tieuDe": "Khảo vấn đạo Vương Lâm",
-       "text": "Trong Nhân Chi Quan, lão hỏi đồng tử Vương Lâm có tiếp tục lần thử thứ tám mươi bốn không; được đáp đó chính là vấn đạo, ý nghĩa thật sự của ải."
+       "text": "Trong Nhân Chi Quan, lão hỏi đồng tử Vương Lâm có tiếp tục lần thử thứ tám mươi bốn không; được đáp đó chính là vấn đạo, ý nghĩa thật sự của ải.",
+       "bridge": true,
+       "khoang": "@c0450"
       }
      ],
      "tuViMoc": [],
@@ -24526,10 +24524,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0445",
-       "importance": "normal",
-       "tieuDe": "Dẫn đường cho Vương Lâm",
-       "text": "Âm thầm đi theo Vương Lâm từ khi vào thành, đến gian hàng thứ bảy thì lộ diện mời chỉ dẫn với giá mười khối thượng phẩm linh thạch. Khi nghe Vương Lâm hỏi mua Khôn Mộc Thạch, hắn khuyên đừng mua vì giá cao mà chỉ tăng tốc độ phi kiếm, rồi dẫn Vương Lâm vào phường thị tự do phía tây."
+       "text": "Âm thầm đi theo Vương Lâm từ khi vào thành, đến gian hàng thứ bảy thì lộ diện mời chỉ dẫn với giá mười khối thượng phẩm linh thạch. Khi nghe Vương Lâm hỏi mua Khôn Mộc Thạch, hắn khuyên đừng mua vì giá cao mà chỉ tăng tốc độ phi kiếm, rồi dẫn Vương Lâm vào phường thị tự do phía tây.",
+       "bridge": true,
+       "khoang": "@c0445"
       }
      ],
      "tuViMoc": [
@@ -24592,10 +24589,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0446",
-       "importance": "normal",
-       "tieuDe": "Bán Khôn Mộc Thạch cho Vương Lâm",
-       "text": "Bán Khôn Mộc Thạch cho Vương Lâm, chứng kiến hắn phá vỡ Khốn Phong Chú trong nháy mắt; sợ năm cực phẩm linh thạch khiến tu sĩ Hóa Thần truy sát nên vội thu quầy rời Minh Hồng thành."
+       "text": "Bán Khôn Mộc Thạch cho Vương Lâm, chứng kiến hắn phá vỡ Khốn Phong Chú trong nháy mắt; sợ năm cực phẩm linh thạch khiến tu sĩ Hóa Thần truy sát nên vội thu quầy rời Minh Hồng thành.",
+       "bridge": true,
+       "khoang": "@c0446"
       }
      ],
      "tuViMoc": [],
@@ -24690,16 +24686,14 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0446",
-       "importance": "normal",
-       "tieuDe": "Ra mặt cứu người hầu",
-       "text": "Khi người hầu áo lam bị Vương Lâm đánh phế tiên cơ, Bạch Vi ném chén trà chứa tiên lực khổng lồ ngăn cản nhưng bị Vương Lâm hóa giải bằng Tinh Chuyển; sau đó nhã nhặn tự giới thiệu và mời Vương Lâm ghé Thiên Vận Tinh."
+       "text": "Khi người hầu áo lam bị Vương Lâm đánh phế tiên cơ, Bạch Vi ném chén trà chứa tiên lực khổng lồ ngăn cản nhưng bị Vương Lâm hóa giải bằng Tinh Chuyển; sau đó nhã nhặn tự giới thiệu và mời Vương Lâm ghé Thiên Vận Tinh.",
+       "bridge": true,
+       "khoang": "@c0446"
       },
       {
-       "chuong": "@c0446",
-       "importance": "normal",
-       "tieuDe": "Ngâm thơ tỏ ý kỳ dị",
-       "text": "Đập quạt ngâm “Sơn hữu mộc hề mộc hữu chi, tâm duyệt quân hề quân bất tri…”, ánh mắt kỳ dị nhìn Vương Lâm; nói sẽ ban tiên cơ mới cho người hầu khi về Thiên Vận Tinh rồi vào cửa hàng thứ ba mua vật mừng thọ sư tôn."
+       "text": "Đập quạt ngâm “Sơn hữu mộc hề mộc hữu chi, tâm duyệt quân hề quân bất tri…”, ánh mắt kỳ dị nhìn Vương Lâm; nói sẽ ban tiên cơ mới cho người hầu khi về Thiên Vận Tinh rồi vào cửa hàng thứ ba mua vật mừng thọ sư tôn.",
+       "bridge": true,
+       "khoang": "@c0446"
       }
      ],
      "tuViMoc": [
@@ -24787,10 +24781,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0446",
-       "importance": "normal",
-       "tieuDe": "Bị phế tiên cơ",
-       "text": "Ngạo nghễ phóng sóng xanh quát Vương Lâm cút khỏi cửa hàng; bị Vương Lâm dùng tốc độ cực nhanh tiến tới một quyền uy lực, tuy quyền rơi vào hư không nhưng tiên cơ bị phế, phun máu nâu, tiên khí bạch sắc bay ra thất khiếu, tu vi tụt từ rìa Anh Biến về Hóa Thần kỳ; xin Bạch Vi giết Vương Lâm nhưng bị gạt."
+       "text": "Ngạo nghễ phóng sóng xanh quát Vương Lâm cút khỏi cửa hàng; bị Vương Lâm dùng tốc độ cực nhanh tiến tới một quyền uy lực, tuy quyền rơi vào hư không nhưng tiên cơ bị phế, phun máu nâu, tiên khí bạch sắc bay ra thất khiếu, tu vi tụt từ rìa Anh Biến về Hóa Thần kỳ; xin Bạch Vi giết Vương Lâm nhưng bị gạt.",
+       "bridge": true,
+       "khoang": "@c0446"
       }
      ],
      "tuViMoc": [],
@@ -24862,10 +24855,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0446",
-       "importance": "normal",
-       "tieuDe": "Tiếp đón Vương Lâm tại Thương Thị",
-       "text": "Trong cung điện linh khí nồng đậm với chín mươi chín tượng nữ tử bằng linh thạch, nàng hoan nghênh Vương Lâm vào cửa hàng; Vương Lâm hỏi thẳng có Mặc Tuyết Dịch không."
+       "text": "Trong cung điện linh khí nồng đậm với chín mươi chín tượng nữ tử bằng linh thạch, nàng hoan nghênh Vương Lâm vào cửa hàng; Vương Lâm hỏi thẳng có Mặc Tuyết Dịch không.",
+       "bridge": true,
+       "khoang": "@c0446"
       }
      ],
      "tuViMoc": [],
@@ -24939,10 +24931,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0448",
-       "importance": "normal",
-       "tieuDe": "Bại trận trước Vương Lâm",
-       "text": "Trong hành trình tinh không, biên duyên tu sĩ đui mù này đánh nhau với Vương Lâm rồi bị trọng thương, phải bỏ chạy. Sau đó Vương Lâm phát sát khí bổn tôn khiến các biên duyên tu sĩ khác đều tránh."
+       "text": "Trong hành trình tinh không, biên duyên tu sĩ đui mù này đánh nhau với Vương Lâm rồi bị trọng thương, phải bỏ chạy. Sau đó Vương Lâm phát sát khí bổn tôn khiến các biên duyên tu sĩ khác đều tránh.",
+       "bridge": true,
+       "khoang": "@c0448"
       }
      ],
      "tuViMoc": [
@@ -25106,10 +25097,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0449",
-       "importance": "normal",
-       "tieuDe": "Chế giễu Vương Lâm vào Tử Vân Các",
-       "text": "Khi Thiên Vận Tử dặn dẫn Vương Lâm tới Tử Vân Các, Chu sư đệ cười lạnh phản đối, cho rằng Tử Hệ Các đâu phải nơi ký danh đệ tử tầm thường được ở, rồi hừ lạnh bỏ đi."
+       "text": "Khi Thiên Vận Tử dặn dẫn Vương Lâm tới Tử Vân Các, Chu sư đệ cười lạnh phản đối, cho rằng Tử Hệ Các đâu phải nơi ký danh đệ tử tầm thường được ở, rồi hừ lạnh bỏ đi.",
+       "bridge": true,
+       "khoang": "@c0449"
       }
      ],
      "tuViMoc": [],
@@ -25189,10 +25179,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0451",
-       "importance": "normal",
-       "tieuDe": "Đón Vương Lâm nhập Thiên Vận Tông",
-       "text": "Tự xưng Triệu Tinh Sát, đại sư huynh hàng chữ Tử, đón Vương Lâm ở Thập Vạn Đại Sơn, dẫn đường vào sâu giới thiệu tỉ mỉ Thiên Vận Tông cùng bảy hệ đệ tử. Sau đó viện cớ có chuyện quan trọng rời đi, vẻ mặt hiền lành nhưng mắt lóe tia kỳ dị."
+       "text": "Tự xưng Triệu Tinh Sát, đại sư huynh hàng chữ Tử, đón Vương Lâm ở Thập Vạn Đại Sơn, dẫn đường vào sâu giới thiệu tỉ mỉ Thiên Vận Tông cùng bảy hệ đệ tử. Sau đó viện cớ có chuyện quan trọng rời đi, vẻ mặt hiền lành nhưng mắt lóe tia kỳ dị.",
+       "bridge": true,
+       "khoang": "@c0451"
       }
      ],
      "tuViMoc": [],
@@ -25248,10 +25237,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0451",
-       "importance": "normal",
-       "tieuDe": "Cấm Vương Lâm tiếp cận Tử Vân Các",
-       "text": "Ngăn Vương Lâm không cho ở Tử Vân Các, còn cấm vào trong vòng trăm dặm. Bị Vương Lâm hiện sát khí nhìn chằm chằm, sau khi hắn rời mới phát hiện lưng đã ướt mồ hôi vì sợ hãi; độc thoại thề giữ vị trí cho Tôn Vân."
+       "text": "Ngăn Vương Lâm không cho ở Tử Vân Các, còn cấm vào trong vòng trăm dặm. Bị Vương Lâm hiện sát khí nhìn chằm chằm, sau khi hắn rời mới phát hiện lưng đã ướt mồ hôi vì sợ hãi; độc thoại thề giữ vị trí cho Tôn Vân.",
+       "bridge": true,
+       "khoang": "@c0451"
       }
      ],
      "tuViMoc": [
@@ -25309,10 +25297,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0451",
-       "importance": "minor",
-       "tieuDe": "Được nhắc tên qua nữ tử canh gác",
-       "text": "Nữ tử áo tím canh Tử Vân Các độc thoại với Tôn Vân sư huynh, thề chỉ cần nàng còn ở đây sẽ không cho ai thay thế vị trí của hắn, gợi mối quan hệ và biến cố cũ chưa rõ."
+       "text": "Nữ tử áo tím canh Tử Vân Các độc thoại với Tôn Vân sư huynh, thề chỉ cần nàng còn ở đây sẽ không cho ai thay thế vị trí của hắn, gợi mối quan hệ và biến cố cũ chưa rõ.",
+       "bridge": true,
+       "khoang": "@c0451"
       }
      ],
      "tuViMoc": [],
@@ -25362,10 +25349,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0452",
-       "importance": "normal",
-       "tieuDe": "Ngày ngày nhìn Tử Vân Các",
-       "text": "Trong nửa tháng Vương Lâm bị cô lập ở Tử Tông, mỗi sáng nữ tử đều đến đứng ngơ ngác nhìn về phía Tử Vân Các rồi rời đi, lặp lại không đổi, gợi mối liên hệ tình cảm hoặc quá khứ với chủ cũ tòa lầu."
+       "text": "Trong nửa tháng Vương Lâm bị cô lập ở Tử Tông, mỗi sáng nữ tử đều đến đứng ngơ ngác nhìn về phía Tử Vân Các rồi rời đi, lặp lại không đổi, gợi mối liên hệ tình cảm hoặc quá khứ với chủ cũ tòa lầu.",
+       "bridge": true,
+       "khoang": "@c0452"
       }
      ],
      "tuViMoc": [],
@@ -25503,16 +25489,14 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0454",
-       "importance": "normal",
-       "tieuDe": "Khiêu chiến Vương Lâm tại Tử Lâm Các",
-       "text": "Sau khi Triệu Tinh Sát buông tay, nam tử trung niên đến cách mười trượng cho Vương Lâm ra ba pháp thuật trước, tố hắn giết ngũ sư muội."
+       "text": "Sau khi Triệu Tinh Sát buông tay, nam tử trung niên đến cách mười trượng cho Vương Lâm ra ba pháp thuật trước, tố hắn giết ngũ sư muội.",
+       "bridge": true,
+       "khoang": "@c0454"
       },
       {
-       "chuong": "@c0454",
-       "importance": "normal",
-       "tieuDe": "Bại trận và tử vong",
-       "text": "Lần lượt thi cấm thuật Quy khư, Thập phương bát la trận, Tiên Ma thể đều bị Vương Lâm phá; cuối cùng bị quất roi đánh nguyên thần bay ra, bị Tôn Hồn Phiên xua chủ hồn đuổi theo."
+       "text": "Lần lượt thi cấm thuật Quy khư, Thập phương bát la trận, Tiên Ma thể đều bị Vương Lâm phá; cuối cùng bị quất roi đánh nguyên thần bay ra, bị Tôn Hồn Phiên xua chủ hồn đuổi theo.",
+       "bridge": true,
+       "khoang": "@c0454"
       }
      ],
      "tuViMoc": [
@@ -25623,10 +25607,9 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0454",
-       "importance": "normal",
-       "tieuDe": "Xuất hiện cùng nhóm Tử tông",
-       "text": "Hiện ra cùng Triệu Tinh Sát, Bạch Vi, nam tử trung niên; đứng đâu hương thơm tràn đó, sắc mặt cổ quái muốn xem trò vui; lui xa khi thú hồn xuất hiện."
+       "text": "Hiện ra cùng Triệu Tinh Sát, Bạch Vi, nam tử trung niên; đứng đâu hương thơm tràn đó, sắc mặt cổ quái muốn xem trò vui; lui xa khi thú hồn xuất hiện.",
+       "bridge": true,
+       "khoang": "@c0454"
       }
      ],
      "tuViMoc": [
@@ -25677,7 +25660,7 @@ window.LIB_DATA["tien-nghich"]={
   {
    "value": "q01",
    "so": 1,
-   "ten": "Thiếu Niên Bình Thường",
+   "ten": "Bình Dung Thiếu Niên",
    "han": "平庸少年",
    "start": 1
   },
@@ -25686,31 +25669,38 @@ window.LIB_DATA["tien-nghich"]={
    "so": 2,
    "ten": "Tu Chân Huyết Ảnh",
    "han": "修真血影",
-   "start": 72
+   "start": 57
   },
   {
    "value": "q03",
    "so": 3,
    "ten": "Dương Danh Tu Ma Hải",
-   "han": "揚名修魔海",
-   "start": 133
+   "han": "扬名修魔海",
+   "start": 126
   },
   {
    "value": "q04",
    "so": 4,
    "ten": "Phong Quyển Tàn Vân",
-   "han": "風捲殘雲",
-   "start": 178
+   "han": "风卷残云",
+   "start": 186
+  },
+  {
+   "value": "q05",
+   "so": 5,
+   "ten": "Tu Tinh Chi Tinh",
+   "han": "修星之晶",
+   "start": 391
   }
  ],
  "volumes": {
-  "updatedAt": "2026-06-13",
+  "updatedAt": "2026-06-16",
   "volumes": [
    {
     "value": "q01",
     "label": "Quyển 1",
-    "range": "Ch.1 – 100",
-    "title": "Phàm nhân khởi đầu",
+    "range": "Ch.1 – 56",
+    "title": "Bình Dung Thiếu Niên",
     "summary": "Khởi đầu hành trình của Vương Lâm — thiếu niên thôn quê tư chất kém, nhờ ý chí phi thường và cơ duyên nhặt được Thạch Châu mà bước vào con đường tu tiên. Bị tiên môn từ chối ba lần, chịu cả họ sỉ nhục, bỏ nhà băng thâm sơn lần thứ hai — rơi vào huyệt động phong nhãn, nhặt được Thạch Châu bí ẩn. Được phá lệ thu làm ký danh đệ tử, phải gánh mười vại nước nặng nhọc. Bí mật dùng Thạch Châu cường hóa thể chất, bị trưởng lão họ Tôn điều tra, rồi được thu làm đệ tử nội môn (danh nghĩa). Thạch Châu dần bộc lộ bản chất: hút nước mạnh bạo, nước ngâm châu biến thành linh khí, số đám mây tăng 5→9. Vương Lâm lần đầu bước vào tu tiên, đột phá Ngưng Khí tầng 1 @c0025 và tầng 2 @c0030, tầng 3 @c0036 nhờ Mộng Cảnh Thạch Châu. Tham gia tỷ thí với Huyền Đạo Tông (Ch.47–49): thắng liên tiếp Chu Bằng (3 lần) + Dương Nghị; lấy dịch độc Thiên Túc Ngô Công về trị bệnh cha. Cứu Vương Hạo thoát lò luyện đan; Lữ Vân Kiệt bị phạt diện bích 20 năm (Ch.50). Thực lực thật = Linh Động Kỳ viên mãn (@c0046–@c0048) — vẫn bí mật che giấu. (Wiki nghiên cứu tới Ch.100 — hết Quyển 1.)",
     "milestones": [
      "Trượt cả ba hạng trắc thí Hằng Nhạc Phái (Ch.4)",
@@ -25756,8 +25746,8 @@ window.LIB_DATA["tien-nghich"]={
    {
     "value": "q02",
     "label": "Quyển 2",
-    "range": "Ch.101 – 220",
-    "title": "Tái sinh nơi Vực Ngoại",
+    "range": "Ch.57 – 125",
+    "title": "Tu Chân Huyết Ảnh",
     "summary": "Vương Lâm tái sinh tại Vực Ngoại chiến trường sau khi tự nổ thân vượt qua thông đạo — linh hồn thoát xác, trôi dạt trong khe nứt không gian dưới dạng linh hồn chi hỏa. Nghịch Thiên Châu dung hợp vĩnh viễn vào hồn phách. VL ký thác vào xác người khổng lồ Cự Ma tộc rồi tiêu diệt sinh vật khói để rèn thần thức. Phát hiện Tư Đồ Nam chưa chết — đang ngủ sâu, giữ hồn phách cha mẹ VL trong Nguyên Anh. VL sau đó đoạt xá thân xác Mã Lương — tu sĩ vừa tử chiến của Chiến Thần Điện từ Hỏa Phần quốc. Tại chiến trường, VL khống chế du hồn bằng thần thức áp đảo, thu nô bộc (Lâm Đào, Dương Hùng cùng một người nữa), đoạt túi trữ vật Hứa Hạo và Cát Dương. Vượt qua sợi tơ đen pháp tắc để trở về thế giới tu chân — thần thức bị nghiền nát và tái tạo hàng vạn lần trong 3 giây, khiến ý Cực cảnh dung hợp vào thần thức, hình thành Thần Thức Cực Cảnh. Trở về Hỏa Phần quốc, từ chối tái gia nhập Chiến Thần Điện, ẩn vào quần thể núi lửa bế quan. Trong bế quan, dùng Nghịch Thiên Châu vào Mộng Cảnh thăm Tư Đồ Nam; 1 năm thực = 7 năm Mộng Cảnh. Sau 6 năm Mộng Cảnh (chưa đầy 1 năm thực) khôi phục Trúc Cơ trung kỳ — toàn bộ Quyển 2 mở màn bằng cuộc tái sinh và vươn lên của VL trong vỏ bọc Mã Lương tại Hỏa Phần quốc.",
     "milestones": [
      "Linh hồn VL tái sinh trong khe nứt không gian — Nghịch Thiên Châu dung hợp vĩnh viễn vào hồn phách (Ch.102)",
@@ -25842,9 +25832,17 @@ window.LIB_DATA["tien-nghich"]={
     ]
    },
    {
+    "value": "q03",
+    "label": "Quyển 3",
+    "range": "Ch.126 – 185",
+    "title": "Dương Danh Tu Ma Hải",
+    "summary": "VL vào Tu Ma Hải; Lý Mộ Uyển giúp VL kết đan thành công, thành đệ nhất cường giả dưới Nguyên Anh trong vùng. Tình cảm VL-Mộ Uyển nảy nở; VL chưa báo được thù họ Đằng nên dằn lòng. (Khung quyển từ volumes.json — chi tiết milestones bổ sung khi R1/R2 viết tới.)",
+    "milestones": []
+   },
+   {
     "value": "q04",
     "label": "Quyển 4",
-    "range": "Ch.178 – 250",
+    "range": "Ch.186 – 390",
     "title": "Phong Quyển Tàn Vân",
     "summary": "Vương Lâm rời Cổ Thần Chi Địa sau 200 năm với thân thể Cổ Thần và Thần Thức Cực Cảnh; diệt tận gốc dòng họ Đằng tại Triệu quốc rồi rời đi. Đến Sở quốc lập phân thân trà trộn Vân Thiên Tông, đột phá Nguyên Anh kỳ. Hóa phàm 30+ năm tại kinh đô Liên Minh Tứ Phái (Chu Tước tinh): điêu khắc tượng gỗ, cảm ngộ ý cảnh, đạt Nguyên Anh hậu kỳ đỉnh. Thiên Vận Tử qua, thu VL làm ký danh đệ tử. Chiến tranh Tuyết Vực diệt quốc bùng phát; VL hoàn tất giai đoạn hóa phàm bằng ý cảnh Sinh Tử + Hắc Ấn chữ Tử, rời đi.",
     "milestones": [
@@ -25861,6 +25859,14 @@ window.LIB_DATA["tien-nghich"]={
      "Cứu vợ chồng Đại Ngưu đưa sang nước láng giềng — lần chia tay vĩnh viễn @c0249",
      "Chứng kiến đại quân Tuyết Vực giáng lâm; nữ tử thiên tài xuất 5 phân thân Ngũ Hành; Thiên Nghịch Châu cảm ứng Hỏa linh @c0250"
     ]
+   },
+   {
+    "value": "q05",
+    "label": "Quyển 5",
+    "range": "Ch.391 – 457",
+    "title": "Tu Tinh Chi Tinh",
+    "summary": "Thiên Đạo lai lâm; mạch Chu Tước Tinh. Khu vực tinh không / tinh tinh. Quyển kết ở ch457 (朱雀星·终). (Khung quyển từ volumes.json — chi tiết milestones bổ sung khi R1/R2 viết tới.)",
+    "milestones": []
    }
   ]
  },
