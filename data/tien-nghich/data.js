@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-16T05:16:13.891Z build_datajs */
+/* sync-bump 2026-06-16T06:04:40.583Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-14",
-  "count": 250,
+  "count": 270,
   "chars": [
    {
     "id": "vuong-lam",
@@ -22859,6 +22859,1504 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0431"
     ]
+   },
+   {
+    "id": "ly-dan-nam",
+    "name": "Lý Đan Nam",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "Nguyên Anh hậu kỳ",
+    "trangThai": "song",
+    "blurb": "Thanh niên nhỏ con sống ở Minh Hồng thành, làm người chỉ đường kiêm môi giới, dẫn Vương Lâm vào phường thị tự do tìm mua Khôn Mộc Thạch.",
+    "vaiTro": "Người dẫn đường địa phương trên Giao Dịch Tinh",
+    "tinhCach": [
+     {
+      "text": "Nhanh nhẹn, rành rẽ thị trường, biết nhìn người để chào mời dịch vụ",
+      "chuong": "@c0445"
+     },
+     {
+      "text": "Thẳng thắn khuyên khách cân nhắc khi món hàng đắt mà ít công dụng",
+      "chuong": "@c0445"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Từ nhỏ sống ở Minh Hồng thành, thông thạo các gian hàng và phường thị tự do",
+       "chuong": "@c0445"
+      },
+      {
+       "text": "Nhận ra ngay Khôn Mộc Thạch là vật thuộc tính mộc sống trên nham thạch, mười năm mọc một tấc",
+       "chuong": "@c0445"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Âm thầm đi theo Vương Lâm từ khi hắn vào Minh Hồng thành, đến gian hàng thứ bảy thì lộ diện, mời chỉ dẫn với giá mười khối thượng phẩm linh thạch. Khi nghe hỏi mua Khôn Mộc Thạch, hắn khuyên đừng mua vì giá cao mà chỉ tăng tốc độ phi kiếm, rồi dẫn Vương Lâm vào phường thị tự do phía tây thành.",
+       "bridge": true,
+       "khoang": "@c0445"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0445",
+       "canhGioi": "Nguyên Anh hậu kỳ",
+       "text": "Tu vi Nguyên Anh hậu kỳ, chưa Hóa Thần.",
+       "importance": "minor"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Khách thuê chỉ đường",
+       "ghiChu": "Dẫn Vương Lâm tìm mua Khôn Mộc Thạch với phí mười khối thượng phẩm linh thạch"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0445"
+    ]
+   },
+   {
+    "id": "bach-vi",
+    "name": "Bạch Vi",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Anh Biến trung kỳ đỉnh phong",
+    "trangThai": "song",
+    "blurb": "Công tử áo bào tím cầm quạt lông trắng đến từ Thiên Vận Tinh, tu vi Anh Biến trung kỳ đỉnh phong, hóa giải xung đột giữa Vương Lâm và người hầu của mình.",
+    "vaiTro": "Công tử Thiên Vận Tông gặp Vương Lâm tại cửa hàng Thương Thị ở thành bắc Minh Tư thành.",
+    "tinhCach": [
+     {
+      "text": "Khí chất công tử, ngang ngược nhưng nhã nhặn với người ngang hàng",
+      "chuong": "@c0446"
+     },
+     {
+      "text": "Tỏ thái độ kỳ dị, thâm thúy với Vương Lâm, ngâm thơ ‘tâm duyệt quân hề quân bất tri’",
+      "chuong": "@c0446"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Mày kiếm mắt sáng, ánh mắt thâm thúy, cầm quạt lông trắng toát khí chất công tử",
+       "chuong": "@c0446"
+      },
+      {
+       "text": "Tu vi Anh Biến trung kỳ đỉnh phong, phóng tiên lực làm dao động không gian",
+       "chuong": "@c0446"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Khi người hầu áo lam của Bạch Vi ngăn cản Vương Lâm và bị một quyền phế tiên cơ, Bạch Vi từ gian hàng thứ ba ném một chén trà chứa tiên lực khổng lồ để cản, nhưng bị Vương Lâm hóa giải bằng pháp thuật Tinh Chuyển. Bạch Vi hiện thân, gạt lời xin giết Vương Lâm của người hầu, tự giới thiệu đến từ Thiên Vận Tinh sư môn Thiên Vận Tông và mời Vương Lâm có dịp ghé thăm.",
+       "bridge": true,
+       "khoang": "@c0446"
+      },
+      {
+       "text": "Bạch Vi nhìn theo Vương Lâm vào cửa hàng với ánh mắt kỳ dị, đập quạt ngâm thơ, hứa sẽ cấp lại tiên cơ cho người hầu khi về Thiên Vận Tinh, rồi vào cửa hàng thứ ba để mua vật tinh xảo cho ngày mừng thọ một vạn năm của sư tôn.",
+       "bridge": true,
+       "khoang": "@c0446"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0446",
+       "canhGioi": "Anh Biến trung kỳ đỉnh phong",
+       "text": "Tu vi Anh Biến trung kỳ đỉnh phong, phóng tiên lực ra ngoài làm dao động không gian.",
+       "importance": "minor"
+      }
+     ],
+     "tuVi": "",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Người vừa gặp tại cửa hàng Thương Thị; Bạch Vi tỏ thái độ kỳ dị, mời ghé Thiên Vận Tinh",
+       "ghiChu": "@c0446"
+      },
+      {
+       "ten": "Người hầu áo lam (của Bạch Vi)",
+       "tag": "khac",
+       "quanHe": "Người hầu đi theo Bạch Vi, bị Vương Lâm phế tiên cơ",
+       "ghiChu": "@c0446"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Quạt lông trắng",
+        "moTa": "Cây quạt lông trắng tăng khí chất công tử",
+        "nguon": "@c0446"
+       },
+       {
+        "ten": "Chén trà",
+        "loai": "pháp bảo công kích",
+        "moTa": "Chén trà ẩn chứa tiên lực khổng lồ, ném tốc độ cực nhanh",
+        "nguon": "@c0446"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "truong-hoa-lam",
+    "name": "Trương Hóa Lâm",
+    "cn": "",
+    "aliases": [
+     "Lão già mặt đỏ (phường thị tự do)"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Phường thị tự do Minh Hồng thành",
+      "trangThai": "danh-nghia"
+     }
+    ],
+    "canhGioiCaoNhat": "",
+    "trangThai": "song",
+    "blurb": "Lão già mặt đỏ chủ một cửa hàng trong phường thị tự do Minh Hồng thành, bán Khôn Mộc Thạch dùm bạn bè cho Vương Lâm.",
+    "vaiTro": "Người bán Khôn Mộc Thạch cho Vương Lâm tại phường thị tự do.",
+    "tinhCach": [
+     {
+      "text": "Cẩn trọng, sợ mang vạ vì giữ nhiều cực phẩm linh thạch",
+      "chuong": "@c0446"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Kinh hãi khi thấy Vương Lâm phá vỡ Khốn Phong Chú trong nháy mắt, đoán tu vi ít nhất Anh Biến kỳ",
+       "chuong": "@c0446"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Trương Hóa Lâm lấy Khôn Mộc Thạch ra với Khốn Phong Chú phủ ngoài, chào giá cố định năm khối cực phẩm linh thạch. Vương Lâm vung tay phá vỡ Khốn Phong Chú dễ dàng khiến lão kinh hãi. Sau khi nhận đủ năm khối cực phẩm linh thạch, lão sợ ‘mang ngọc mắc tội’ bị tu sĩ Hóa Thần truy sát nên vội thu quầy rời Minh Hồng thành.",
+       "bridge": true,
+       "khoang": "@c0446"
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Chưa rõ tu vi cụ thể.",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Khách mua Khôn Mộc Thạch, trả năm khối cực phẩm linh thạch",
+       "ghiChu": "@c0446"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [
+       {
+        "ten": "Khôn Mộc Thạch",
+        "trangThai": "mat",
+        "moTa": "Tảng đá xanh hiếm bán dùm bạn bè, đã bán cho Vương Lâm",
+        "nguon": "@c0446"
+       }
+      ],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "nguoi-hau-ao-lam-bach-vi",
+    "name": "Người hầu áo lam (của Bạch Vi)",
+    "cn": "",
+    "aliases": [
+     "Thanh niên áo lam"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Rìa Anh Biến (đang hấp thụ tiên ngọc)",
+    "trangThai": "song",
+    "blurb": "Người hầu áo lam đi theo Bạch Vi, ngạo nghễ ngăn cản Vương Lâm ở thành bắc và bị một quyền phế tiên cơ tụt về Hóa Thần kỳ.",
+    "vaiTro": "Người hầu của Bạch Vi gây sự với Vương Lâm tại cửa hàng Thương Thị.",
+    "tinhCach": [
+     {
+      "text": "Ngạo nghễ, hống hách theo tác phong của chủ nhân Bạch Vi",
+      "chuong": "@c0446"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Đang dùng phương pháp thứ hai hấp thụ tiên ngọc để tiến lên Anh Biến, tu vi chỉ còn nửa bước vào Anh Biến",
+       "chuong": "@c0446"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Người hầu phóng sóng xanh ngăn cản Vương Lâm vào cửa hàng và quát ‘Cút’. Vương Lâm tiến một bước, một quyền uy lực làm nứt không gian; tuy quyền rơi vào hư không do bị chén trà Bạch Vi cản, người hầu vẫn bị phế tiên cơ, phun máu nâu, tiên khí bạch sắc bay ra thất khiếu, tu vi tụt từ rìa Anh Biến về Hóa Thần kỳ. Hắn xin Bạch Vi giết Vương Lâm nhưng bị gạt.",
+       "bridge": true,
+       "khoang": "@c0446"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0446",
+       "canhGioi": "Hóa Thần kỳ",
+       "text": "Bị Vương Lâm phế tiên cơ, tu vi tụt từ rìa Anh Biến về Hóa Thần kỳ.",
+       "importance": "minor"
+      }
+     ],
+     "tuVi": "",
+     "nhanMach": [
+      {
+       "ten": "Bạch Vi",
+       "tag": "cap-tren",
+       "quanHe": "Chủ nhân, hứa cấp lại tiên cơ khi về Thiên Vận Tinh",
+       "ghiChu": "@c0446"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Người phế tiên cơ của hắn",
+       "ghiChu": "@c0446"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "nu-tu-ao-trang-thuong-thi",
+    "name": "Nữ tử áo trắng (cửa hàng Thương Thị)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Thương Thị",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "",
+    "trangThai": "song",
+    "blurb": "Nữ chủ xinh đẹp tiếp đãi tại cửa hàng Thương Thị, đeo đầy pháp bảo hiếm, hoan nghênh Vương Lâm vào hỏi mua Mặc Tuyết Dịch.",
+    "vaiTro": "Người tiếp đãi/nữ chủ cửa hàng Thương Thị ở thành bắc Minh Tư thành.",
+    "tinhCach": [
+     {
+      "text": "Niềm nở, mời chào khách hàng",
+      "chuong": "@c0446"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Mặc đồ trắng thêu chín đóa hoa cà độc dược, cài ba trâm thủy tinh tím-trắng, dưới mắt trái dán ba miếng tím mỏng như cánh ve — tất cả đều là pháp bảo hiếm",
+       "chuong": "@c0446"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Trong cung điện xa hoa của cửa hàng Thương Thị với chín mươi chín bức tượng nữ tử điêu khắc từ linh thạch, nữ tử áo trắng đứng ra hoan nghênh Vương Lâm. Vương Lâm nhận ra các pháp bảo nàng đeo và hỏi thẳng nơi đây có Mặc Tuyết Dịch không.",
+       "bridge": true,
+       "khoang": "@c0446"
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Chưa rõ tu vi cụ thể.",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Khách hỏi mua Mặc Tuyết Dịch tại cửa hàng Thương Thị",
+       "ghiChu": "@c0446"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Trâm thủy tinh tím-trắng",
+        "moTa": "Ba cái trâm cài tóc, là pháp bảo",
+        "nguon": "@c0446"
+       },
+       {
+        "ten": "Hoa cà độc dược (thêu váy)",
+        "moTa": "Chín đóa hoa cà độc dược thêu trên y phục, là pháp bảo hiếm",
+        "nguon": "@c0446"
+       },
+       {
+        "ten": "Miếng dán tím dưới mắt",
+        "moTa": "Ba miếng tím mỏng như cánh ve dưới mắt trái, là pháp bảo",
+        "nguon": "@c0446"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "bien-duyen-tu-si-dui-mu",
+    "name": "Biên duyên tu sĩ đui mù",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Biên duyên tu sĩ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Anh Biến Sơ Kỳ",
+    "trangThai": "song",
+    "blurb": "Một biên duyên tu sĩ vô danh hai mắt đui mù cảnh Anh Biến Sơ Kỳ, gặp và giao đấu với Vương Lâm trong tinh không rồi trọng thương bỏ chạy.",
+    "vaiTro": "Nhân vật phụ thoáng qua, đại diện cho lớp biên duyên tu sĩ chuyên cướp đoạt rải khắp tinh không.",
+    "tinhCach": [
+     {
+      "text": "Hung hãn, liều lĩnh cướp đoạt người gặp phải nhưng biết lượng sức bỏ chạy khi gặp đối thủ mạnh.",
+      "chuong": "@c0448"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Biên duyên tu sĩ đui mù, dám động thủ với Vương Lâm rồi nhận trọng thương phải bỏ chạy.",
+       "chuong": "@c0448"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Trên đường Vương Lâm tới Thiên Vận Tinh, gã biên duyên tu sĩ đui mù cảnh Anh Biến Sơ Kỳ động thủ với hắn, nhanh chóng bị đánh trọng thương và phải bỏ chạy.",
+       "bridge": true,
+       "khoang": "@c0448"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0448",
+       "canhGioi": "Anh Biến Sơ Kỳ",
+       "text": "Xuất hiện ở cảnh giới Anh Biến Sơ Kỳ.",
+       "importance": "minor"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ thoáng qua",
+       "ghiChu": "Động thủ với Vương Lâm rồi bị trọng thương bỏ chạy."
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0448"
+    ]
+   },
+   {
+    "id": "dai-su-huynh-thien-van-tong",
+    "name": "Đại sư huynh (Thiên Vận Tông)",
+    "cn": "",
+    "aliases": [
+     "Đại sư huynh"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Đệ tử lớn của Thiên Vận Tử, ở Tử Thiên Các; bề ngoài hiền lành tươi cười nhưng ngầm nổi sát ý với Vương Lâm.",
+    "vaiTro": "Đại đệ tử của Thiên Vận Tử, ngụ tại Tử Thiên Các; bên ngoài thuận hòa khâm phục nhưng âm thầm can thiệp Tam Quan để hại Vương Lâm.",
+    "tinhCach": [
+     {
+      "text": "Vẻ mặt tư��i cười hiền lành, lễ độ bề ngoài",
+      "chuong": "@c0449"
+     },
+     {
+      "text": "Thâm hiểm, giấu sát ý dưới lời lẽ thân thiện",
+      "chuong": "@c0449"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Khâm phục bản lãnh vấn đạo của Vương Lâm nhưng lập tức quyết không cho hắn lưu lại",
+       "chuong": "@c0449"
+      },
+      {
+       "text": "Bấm quyết hai tay phóng luồng ánh sáng bảy màu can thiệp cửa khảo nghiệm",
+       "chuong": "@c0449"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Khi Vương Lâm vấn đạo trụ tám mươi ba ngày trong Nhân Chi Quan, đại sư huynh nhận định người này không thể lưu lại, bèn phóng luồng ánh sáng bảy màu bá đạo can thiệp cửa ải, khiến sơn thôn ảo cảnh tan rã.",
+       "bridge": true,
+       "khoang": "@c0449"
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Cảnh giới chưa nêu rõ; là đại đệ tử của Thiên Vận Tử.",
+     "nhanMach": [
+      {
+       "ten": "Thiên Vận Tử",
+       "tag": "su-mon",
+       "quanHe": "Sư tôn",
+       "ghiChu": "Đứng đầu Thiên Vận Tông"
+      },
+      {
+       "ten": "Chu sư đệ",
+       "tag": "su-mon",
+       "quanHe": "Sư đệ đồng môn",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Ngầm muốn hại",
+       "ghiChu": "Can thiệp cửa ải nhập môn của Vương Lâm"
+      },
+      {
+       "ten": "Tôn Vân",
+       "tag": "su-mon",
+       "quanHe": "Nhắc tới như sư đệ cũ",
+       "ghiChu": ""
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0449"
+    ]
+   },
+   {
+    "id": "chu-su-de-thien-van-tong",
+    "name": "Chu sư đệ (Thiên Vận Tông)",
+    "cn": "",
+    "aliases": [
+     "Chu sư đệ"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Đệ tử của Thiên Vận Tử, vẻ mặt nghiêm nghị lạnh lùng, ở Tử Mộng Các; chế giễu việc Vương Lâm được sắp xếp vào Tử Vân Các.",
+    "vaiTro": "Đệ tử Thiên Vận Tử ngụ tại Tử Mộng Các, bất mãn với việc một ký danh đệ tử tầm thường như Vương Lâm được vào Tử Vân Các.",
+    "tinhCach": [
+     {
+      "text": "Lạnh lùng, nghiêm nghị, hay cười lạnh",
+      "chuong": "@c0449"
+     },
+     {
+      "text": "Cao ngạo, coi thường ký danh đệ tử",
+      "chuong": "@c0449"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cười lạnh chế giễu rằng Tử Vân Các sẽ sớm đổi tên thành Tử Lâm Các",
+       "chuong": "@c0449"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Khi Thiên Vận Tử dặn dẫn Vương Lâm tới Tử Vân Các, Chu sư đệ cười lạnh cho rằng nơi đó đâu phải chốn ký danh đệ tử tầm thường được ở, rồi hừ một tiếng bỏ đi.",
+       "bridge": true,
+       "khoang": "@c0449"
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Cảnh giới chưa nêu rõ; là đệ tử chân chính của Thiên Vận Tử.",
+     "nhanMach": [
+      {
+       "ten": "Thiên Vận Tử",
+       "tag": "su-mon",
+       "quanHe": "Sư tôn",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Đại sư huynh (Thiên Vận Tông)",
+       "tag": "su-mon",
+       "quanHe": "Sư huynh đồng môn",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Coi thường, chế giễu",
+       "ghiChu": ""
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0449"
+    ]
+   },
+   {
+    "id": "nguoi-gac-cong-thien-van-tinh",
+    "name": "Người gác cổng (Thiên Vận Tinh)",
+    "cn": "",
+    "aliases": [
+     "Thanh niên áo choàng lụa đen"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Thanh niên áo choàng lụa đen tướng mạo tầm thường nhưng khí tức cuồng ngạo, canh giữ màn sương lối vào Thiên Vận Tinh.",
+    "vaiTro": "Người canh cửa nơi màn sương dẫn vào Thiên Vận Tinh; thử thách Vương Lâm rồi mở thông đạo cho qua.",
+    "tinhCach": [
+     {
+      "text": "Cuồng ngạo, khí tức ăn sâu vào xương tủy",
+      "chuong": "@c0449"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Vung tay tạo xúc tu giao long bằng sương thử Vương Lâm rồi ôm quyền cho qua",
+       "chuong": "@c0449"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Chặn Vương Lâm trước màn sương, hỏi có thông điệp hay lời mời không; nghe nhắc tên Thiên Vận Tử và nguồn Chu Tước Tinh liền thử bằng xúc tu giao long sương. Khi Vương Lâm hóa giải thành trường kiếm xanh bước qua, hắn ôm quyền cho qua và mở thông đạo sương dẫn vào Thiên Vận Tinh.",
+       "bridge": true,
+       "khoang": "@c0449"
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Cảnh giới chưa rõ, đủ sức tạo xúc tu giao long bằng sương.",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Người thử thách rồi cho qua cửa",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Thiên Vận Tử",
+       "tag": "su-mon",
+       "quanHe": "Người mà hắn canh cổng",
+       "ghiChu": ""
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0449"
+    ]
+   },
+   {
+    "id": "ton-van-su-de",
+    "name": "Tôn Vân",
+    "cn": "",
+    "aliases": [
+     "Tôn Vân sư đệ"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "danh-nghia"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "khong-ro",
+    "blurb": "Đệ tử cũ của Thiên Vận Tử từng ở Tử Vân Các; năm xưa cũng chọn vấn đạo và kiên trì sáu mươi bảy ngày.",
+    "vaiTro": "Người tiền nhiệm chỗ Tử Vân Các mà Vương Lâm sắp thay thế; nay lòng sư tôn với hắn được nói là không còn chút nào.",
+    "tinhCach": [
+     {
+      "text": "Có đại trí tuệ, từng vấn đạo thay vì né tránh",
+      "chuong": "@c0449"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Năm xưa cũng vấn đạo trong cửa khảo đạo tâm, kiên trì sáu mươi bảy ngày",
+       "chuong": "@c0449"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0449",
+       "importance": "normal",
+       "tieuDe": "Được nhắc tới như tiền nhiệm Tử Vân Các",
+       "text": "Đại sư huynh nhắc rằng cách vấn đạo của Vương Lâm giống hệt Tôn Vân năm đó; lòng sư tôn với Tôn Vân nay không còn chút nào, gợi một biến cố chưa rõ."
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Cảnh giới chưa nêu rõ.",
+     "nhanMach": [
+      {
+       "ten": "Thiên Vận Tử",
+       "tag": "su-mon",
+       "quanHe": "Sư tôn cũ",
+       "ghiChu": "Lòng sư tôn nay không còn"
+      },
+      {
+       "ten": "Đại sư huynh (Thiên Vận Tông)",
+       "tag": "su-mon",
+       "quanHe": "Sư huynh đồng môn",
+       "ghiChu": ""
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0449"
+    ]
+   },
+   {
+    "id": "lao-gia-nhan-chi-quan",
+    "name": "Lão già Nhân Chi Quan",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "khong-ro",
+    "blurb": "Hộ quan hoặc hóa thân trong Nhân Chi Quan của Thiên Vận Tông, người dẫn dắt khảo nghiệm vấn đạo.",
+    "vaiTro": "Hộ quan ải vấn đạo",
+    "tinhCach": [
+     {
+      "text": "Điềm đạm, dò xét tâm đạo người nhập quan",
+      "chuong": "@c0450"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Đứng ra hỏi Vương Lâm có muốn tiếp tục lần thử thứ tám mươi bốn không, biểu trưng cho cốt lõi vấn đạo của Nhân Chi Quan",
+       "chuong": "@c0450"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0450",
+       "importance": "normal",
+       "tieuDe": "Khảo vấn đạo Vương Lâm",
+       "text": "Trong Nhân Chi Quan, lão hỏi đồng tử Vương Lâm có tiếp tục lần thử thứ tám mươi bốn không; được đáp đó chính là vấn đạo, ý nghĩa thật sự của ải."
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Chưa rõ tu vi; là sinh linh/hóa thân gắn với cơ chế khảo nghiệm Nhân Chi Quan.",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Người nhập quan vấn đạo",
+       "ghiChu": "Khảo vấn đạo Vương Lâm trong Nhân Chi Quan"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0450"
+    ]
+   },
+   {
+    "id": "de-thap-ho-tien-dia-chi-quan",
+    "name": "Đệ thập hộ tiên (Địa Chi Quan)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "khong-ro",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "khong-ro",
+    "blurb": "Sinh linh hóa từ lửa đỏ trong Địa Chi Quan, khảo nghiệm tu vi của người nhập quan.",
+    "vaiTro": "Hộ tiên khảo nghiệm tu vi",
+    "tinhCach": [
+     {
+      "text": "Tự tin thách đấu nhưng biết tiến thoái, bại thì lễ độ rút lui",
+      "chuong": "@c0450"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Hóa từ một ngọn lửa thành thân ảnh đỏ, tự xưng đệ thập hộ tiên, đòi đánh bại mới cho qua ải",
+       "chuong": "@c0450"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Thách đấu Vương Lâm trong Địa Chi Quan, bị một chiêu Thái Cực quy nguyên đánh lui hơn mười trượng, hai tay rỉ máu, rồi khom người chào và hóa khói lửa chui vào khe nứt.",
+       "bridge": true,
+       "khoang": "@c0450"
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Tu vi đủ để làm hộ tiên khảo nghiệm, song bị Vương Lâm chế áp một chiêu.",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Người vượt ải",
+       "ghiChu": "Bị Vương Lâm đánh bại trong Địa Chi Quan"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0450"
+    ]
+   },
+   {
+    "id": "trieu-tinh-sat",
+    "name": "Triệu Tinh Sát",
+    "cn": "",
+    "aliases": [
+     "Triệu Sát Tinh",
+     "Đại sư huynh Tử hệ"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Tử Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Đại sư huynh hàng chữ Tử của Thiên Vận Tông, vẻ mặt hiền lành nhưng ẩn giấu tâm cơ; chính là kẻ phát luồng sáng bảy màu Vương Lâm gặp ở Nhân Chi Quan.",
+    "vaiTro": "Đệ tử nhập môn sớm nhất hàng chữ Tử của sư tôn Thiên Vận Tử, người đón Vương Lâm nhập tông.",
+    "tinhCach": [
+     {
+      "text": "Bề ngoài hiền lành ôn hòa nhưng nội tâm thâm trầm, ánh mắt thỉnh thoảng lóe tia kỳ dị",
+      "chuong": "@c0451"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Đại sư huynh hàng chữ Tử, nhập môn sớm nhất trong hệ của sư tôn",
+       "chuong": "@c0451"
+      },
+      {
+       "text": "Là người phát luồng sáng bảy màu mà Vương Lâm gặp tại Nhân Chi Quan",
+       "chuong": "@c0451"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Mặc áo tím, vẻ mặt hiền lành, tự xưng đại sư huynh Tử hệ, dẫn Vương Lâm vào sâu Thập Vạn Đại Sơn và giới thiệu tỉ mỉ về Thiên Vận Tông cùng bảy hệ đệ tử. Chỉ đường tới Tử Vân Các rồi viện cớ rời đi, mắt lóe tia kỳ dị, lộ tâm cơ ẩn giấu.",
+       "bridge": true,
+       "khoang": "@c0451"
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Tu vi chưa nêu rõ; là đệ tử trọng yếu hàng chữ Tử của Thiên Vận Tông.",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Sư đệ trên danh nghĩa",
+       "ghiChu": "Đón nhập tông nhưng ẩn giấu sát ý; Vương Lâm đã nhận ra hắn là kẻ ở Nhân Chi Quan."
+      },
+      {
+       "ten": "Thiên Vận Tử",
+       "tag": "su-mon",
+       "quanHe": "Sư tôn",
+       "ghiChu": "Đệ tử nhập môn sớm nhất hàng chữ Tử."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0451"
+    ]
+   },
+   {
+    "id": "nu-tu-ao-tim-tu-van-cac",
+    "name": "Nữ tử áo tím canh Tử Vân Các",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Tử Tông",
+      "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Anh Biến Sơ Kỳ",
+    "trangThai": "song",
+    "blurb": "Đệ tử Tử Tông tu vi Anh Biến Sơ Kỳ, mặc đồ tím điểm hoa vàng, khuôn mặt xinh đẹp đầy sát khí, kiên quyết canh giữ Tử Vân Các cho Tôn Vân sư huynh.",
+    "vaiTro": "Người canh gác cấm tiếp cận Tử Vân Các khi Vương Lâm vừa nhập tông.",
+    "tinhCach": [
+     {
+      "text": "Cứng cỏi, trung thành tới mức cố chấp với Tôn Vân sư huynh",
+      "chuong": "@c0451"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Trung thành tuyệt đối với Tôn Vân, thề không cho ai thay thế vị trí của hắn ở Tử Vân Các",
+       "chuong": "@c0451"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Đối đầu sát khí với Vương Lâm, cấm hắn ở lại và cấm vào trong vòng trăm dặm quanh Tử Vân Các. Sau khi Vương Lâm rời đi mới phát hiện lưng đã ướt mồ hôi vì sợ hãi, độc thoại thề giữ vị trí cho Tôn Vân sư huynh.",
+       "bridge": true,
+       "khoang": "@c0451"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0451",
+       "canhGioi": "Anh Biến Sơ Kỳ",
+       "text": "Tu vi Anh Biến Sơ Kỳ, không đủ để Vương Lâm để mắt.",
+       "importance": "minor"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Người bị nàng ngăn cấm tiếp cận Tử Vân Các",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Tôn Vân",
+       "tag": "dong-minh",
+       "quanHe": "Sư huynh nàng trung thành giữ vị trí",
+       "ghiChu": ""
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0451"
+    ]
+   },
+   {
+    "id": "hai-chap-phap-truong-lao-tu-tong",
+    "name": "Hai chấp pháp trưởng lão Tử Tông",
+    "cn": "",
+    "aliases": [
+     "Chấp pháp trưởng lão Tử Tông",
+     "Lão béo và lão gầy"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tử Tông",
+      "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "danh-nghia"
+     }
+    ],
+    "canhGioiCaoNhat": "Anh Biến Sơ Kỳ",
+    "trangThai": "khong-ro",
+    "blurb": "Hai lão già áo bào tím nhạt (một béo một gầy), chấp pháp trưởng lão Tử Tông, tới ép Vương Lâm phá động phủ và định tội; một bị diệt nguyên thần đem luyện, một bị khống chế.",
+    "vaiTro": "Phản diện thoáng qua — đại diện chấp pháp Tử Tông tới gây sự với Vương Lâm theo lời xúi của Triệu Tinh Sát.",
+    "tinhCach": [
+     {
+      "text": "Hống hách, cậy thế môn quy ép người.",
+      "chuong": "@c0452"
+     },
+     {
+      "text": "Khi gặp đối thủ mạnh thì kinh hãi, run sợ bỏ chạy.",
+      "chuong": "@c0452"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Bản lãnh Anh Biến Sơ Kỳ, mặc áo bào tím nhạt, một béo một gầy.",
+       "chuong": "@c0452"
+      },
+      {
+       "text": "Tự xưng chấp pháp trưởng lão Tử Tông, viện môn quy ép Vương Lâm.",
+       "chuong": "@c0452"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Ngày thứ mười bảy, hai lão tới quát Vương Lâm vì tự ý mở động phủ chưa được phép, hạn một nén nhang phá động phủ rồi ép theo về đại điện định tội.",
+       "bridge": true,
+       "khoang": "@c0452"
+      },
+      {
+       "text": "Lão thứ nhất bị Côn Cực Tiên đánh bật nguyên thần, bị Vương Lâm ném vào chuông luyện hóa; lão còn lại dùng chiêu Thất Tinh Toái nhưng bị tiên kiếm và loan đao đánh tan, kinh hãi bỏ chạy rồi bị khống chế cách mười trượng và tra hỏi.",
+       "bridge": true,
+       "khoang": "@c0452"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0452",
+       "canhGioi": "Anh Biến Sơ Kỳ",
+       "text": "Cả hai lão đều ở cảnh giới Anh Biến Sơ Kỳ.",
+       "importance": "minor"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ",
+       "ghiChu": "Tới ép Vương Lâm rồi bị hắn diệt nguyên thần và khống chế."
+      },
+      {
+       "ten": "Triệu Tinh Sát",
+       "tag": "dong-minh",
+       "quanHe": "Kẻ xúi giục",
+       "ghiChu": "Nghe lời Triệu Tinh Sát tới gây sự, sau hối hận."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Trường kiếm màu tím",
+        "loai": "phi-kiem",
+        "moTa": "Vũ khí của lão gầy, dùng cho chiêu Thất Tinh Toái, vỡ thành bảy mảnh rồi bị loan đao đánh tan.",
+        "nguon": "@c0452"
+       }
+      ],
+      "congPhap": [
+       {
+        "ten": "Thất Tinh Toái",
+        "moTa": "Chiêu kiếm khiến trường kiếm vỡ thành bảy mảnh lao về phía địch.",
+        "nguon": "@c0452"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0452"
+    ]
+   },
+   {
+    "id": "nu-tu-bi-an-tu-van-cac",
+    "name": "Nữ tử bí ẩn (Tử Vân Các)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Nữ tử mỗi sáng đến ngơ ngác nhìn Tử Vân Các suốt nửa tháng không gián đoạn, gắn với bí ẩn của tòa lầu và chủ cũ.",
+    "vaiTro": "Nhân vật bí ẩn gắn với bí mật trung tâm của Tử Vân Các.",
+    "tinhCach": [
+     {
+      "text": "Lặng lẽ, đều đặn, dường như mang nỗi niềm với chủ cũ Tử Vân Các.",
+      "chuong": "@c0452"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Mỗi sáng đến ngơ ngác nhìn Tử Vân Các, ngày nào cũng vậy suốt nửa tháng.",
+       "chuong": "@c0452"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Trong nửa tháng Vương Lâm bị cô lập, chỉ có nữ tử này mỗi sáng đến nhìn Tử Vân Các không gián đoạn, gợi mối liên hệ tình cảm/quá khứ với chủ cũ của tòa lầu.",
+       "bridge": true,
+       "khoang": "@c0452"
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Chưa rõ tu vi.",
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0452"
+    ]
+   },
+   {
+    "id": "nhi-su-huynh-tu-tong",
+    "name": "Nhị sư huynh (Tử tông)",
+    "cn": "",
+    "aliases": [
+     "Nam tử trung niên (Tử tông)"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tử Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Anh Biến trung kỳ",
+    "trangThai": "tu-vong",
+    "blurb": "Nhị sư huynh Tử tông, tướng mạo bình thường nhưng lửa giận ngập trời, tự nhận thay sư tôn thanh lý môn hộ; bị Vương Lâm phá hết cấm thuật rồi đánh nguyên thần bay ra.",
+    "vaiTro": "Đệ tử Tử tông khiêu chiến Vương Lâm sau khi hắn giết ngũ sư muội.",
+    "tinhCach": [
+     {
+      "text": "Nóng nảy, đầy thù hận, tự cho mình chính nghĩa khi đòi thanh lý môn hộ.",
+      "chuong": "@c0454"
+     },
+     {
+      "text": "Tự phụ về thực lực, cho đối thủ ra ba pháp thuật trước nhưng vẫn bại.",
+      "chuong": "@c0454"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Gọi Vương Lâm là dân bản xứ một tinh cầu, khinh thường nhưng bị nghiền nát.",
+       "chuong": "@c0454"
+      },
+      {
+       "text": "Thành thạo cấm thuật Quy khư, Tiên Ma thể và Thập phương bát la trận.",
+       "chuong": "@c0454"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Xuất hiện cùng ba người Tử tông, đòi thay sư tôn thanh lý môn hộ vì Vương Lâm giết ngũ sư muội. Hắn cho Vương Lâm ra trước ba pháp thuật, lần lượt thi triển cấm thuật Quy khư, Thập phương bát la trận và Tiên Ma thể nhưng đều bị Côn Cực Tiên, tiên kiếm, loan đao và Hóa Ma chỉ phá tan; cuối cùng bị quất một roi vào ngực, nguyên thần bay ra ngoài rồi bị Tôn Hồn Phiên truy sát.",
+       "bridge": true,
+       "khoang": "@c0454"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0454",
+       "canhGioi": "Anh Biến trung kỳ",
+       "text": "Tu vi Anh Biến trung kỳ, ngang Triệu Tinh Sát và Bạch Vi nhưng kém Vương Lâm về thủ đoạn.",
+       "importance": "normal"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Đồng môn Tử tông trở thành tử địch",
+       "ghiChu": "Khiêu chiến Vương Lâm để báo thù cho ngũ sư muội, bị đánh bại và truy sát nguyên thần."
+      },
+      {
+       "ten": "Triệu Tinh Sát",
+       "tag": "su-mon",
+       "quanHe": "Đại sư huynh đồng môn",
+       "ghiChu": "Bị Triệu Tinh Sát ngăn lại lúc đầu, sau được buông tay cho khiêu chiến."
+      },
+      {
+       "ten": "Bạch Vi",
+       "tag": "su-mon",
+       "quanHe": "Đồng môn Tử tông",
+       "ghiChu": "Bị Bạch Vi cảnh báo về môn quy cấm dùng cấm thuật; ghi hận vì bị động húy kị."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Trường kiếm lớn",
+        "loai": "kiem",
+        "moTa": "Trường kiếm dùng thi triển Thập phương bát la trận, một hóa hai, hai hóa bốn trút xuống vô số kiếm.",
+        "nguon": "@c0454"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [
+       {
+        "ten": "Quy khư",
+        "moTa": "Cấm thuật thần thông, kim quang vàng từ mi tâm bao phủ toàn thân hóa thành ngón tay vàng phản kích.",
+        "nguon": "@c0454"
+       },
+       {
+        "ten": "Tiên Ma thể",
+        "moTa": "Cấm thuật khiến hắc vụ chui vào thất khiếu, thân thể bất hoại, hóa thành hắc vụ di chuyển.",
+        "nguon": "@c0454"
+       }
+      ],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0454"
+    ]
+   },
+   {
+    "id": "nu-tu-anh-bien-hau-ky-tu-tong",
+    "name": "Nữ tử xinh đẹp (Tử tông)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Tử Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Anh Biến hậu kỳ",
+    "trangThai": "song",
+    "blurb": "Nữ tử xinh đẹp Tử tông, đứng đâu hương thơm tràn đó, tu vi Anh Biến hậu kỳ mạnh nhất nhóm; sắc mặt cổ quái như muốn xem trò vui.",
+    "vaiTro": "Một trong bốn người Tử tông xuất hiện đối mặt Vương Lâm; chưa ra tay.",
+    "tinhCach": [
+     {
+      "text": "Lạnh lùng quan sát, thái độ như muốn xem trò vui hơn là can thiệp.",
+      "chuong": "@c0454"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tu vi Anh Biến hậu kỳ, mạnh nhất trong bốn người Tử tông khiến Vương Lâm để ý.",
+       "chuong": "@c0454"
+      },
+      {
+       "text": "Đi đến đâu hương thơm tràn ra đến đó.",
+       "chuong": "@c0454"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Hiện thân cùng Triệu Tinh Sát, Bạch Vi và nhị sư huynh, đứng quan sát Vương Lâm với sắc mặt cổ quái muốn xem trò vui. Khi thú hồn của Xạ Thần Xa giải phong gầm thét, nàng biến sắc lui xa hơn trăm trượng nhưng vẫn chưa ra tay.",
+       "bridge": true,
+       "khoang": "@c0454"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0454",
+       "canhGioi": "Anh Biến hậu kỳ",
+       "text": "Tu vi Anh Biến hậu kỳ, mạnh nhất trong bốn người Tử tông, khiến Vương Lâm phải để tâm.",
+       "importance": "normal"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Đồng môn Tử tông đối mặt",
+       "ghiChu": "Quan sát Vương Lâm với thái độ xem trò vui, lui xa khi thú hồn xuất hiện."
+      },
+      {
+       "ten": "Triệu Tinh Sát",
+       "tag": "su-mon",
+       "quanHe": "Đồng môn Tử tông",
+       "ghiChu": "Cùng nhóm bốn người Tử tông xuất hiện."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0454"
+    ]
+   },
+   {
+    "id": "ngu-su-muoi-tu-y-nu-tu",
+    "name": "Ngũ sư muội (Tử y nữ tử)",
+    "cn": "",
+    "aliases": [
+     "Tử y nữ tử"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Tử Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Anh Biến",
+    "trangThai": "tu-vong",
+    "blurb": "Ngũ sư muội Tử tông, nữ tử mặc tử y mắt đỏ sát khí; bị Vương Lâm dùng Tịch Diệt Chỉ giam nguyên thần vào Tôn Hồn Phiên.",
+    "vaiTro": "Đối thủ Anh Biến bị Vương Lâm dứt điểm mở màn xung đột với Tử tông.",
+    "tinhCach": [
+     {
+      "text": "Hung hãn, mắt đỏ đầy sát khí khi giao chiến.",
+      "chuong": "@c0454"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Thả hỏa phượng từ túi trữ vật và dùng hai phân thân để chống Tịch Diệt Chỉ.",
+       "chuong": "@c0454"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tấn công Vương Lâm bằng hỏa phượng đổ lửa như dung nham, nhưng bị tiên kiếm chém tan. Khi Vương Lâm thi Tịch Diệt Chỉ khóa không gian, nàng thoát hai phân thân để cản — một bị hấp thu làm tăng uy lực ngón chỉ, một tự bạo nới lỏng không gian — nhưng cuối cùng vẫn bị điểm mi tâm, nguyên thần bị giam vào Tôn Hồn Phiên. Được nhị sư huynh gọi là ngũ sư muội.",
+       "bridge": true,
+       "khoang": "@c0454"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0454",
+       "canhGioi": "Anh Biến",
+       "text": "Tu vi Anh Biến, biết phân thân và tự bạo phân thân.",
+       "importance": "normal"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Đồng môn Tử tông bị giết",
+       "ghiChu": "Bị Vương Lâm dùng Tịch Diệt Chỉ giam nguyên thần."
+      },
+      {
+       "ten": "Nhị sư huynh (Tử tông)",
+       "tag": "su-mon",
+       "quanHe": "Sư huynh đồng môn",
+       "ghiChu": "Được nhị sư huynh gọi là ngũ sư muội; cái chết của nàng là cớ để nhị sư huynh khiêu chiến."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Hỏa phượng",
+        "loai": "phap-bao",
+        "moTa": "Hồng quang từ túi trữ vật hóa thành hỏa phượng, đổ lửa đỏ như dung nham.",
+        "nguon": "@c0454"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [
+       {
+        "ten": "Phân thân tự bạo",
+        "moTa": "Thoát phân thân chống Tịch Diệt Chỉ, một bị hấp thu một tự bạo nới lỏng không gian.",
+        "nguon": "@c0454"
+       }
+      ],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0454"
+    ]
+   },
+   {
+    "id": "truong-huong-pham",
+    "name": "Trương Hướng Phàm",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Vận Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Hóa Thần đại viên mãn",
+    "trangThai": "song",
+    "blurb": "Đệ tử trông coi Phẩm Linh Các của Tử Tông, tu vi Hóa Thần đại viên mãn ẩn giấu, sở hữu phi kiếm xanh biếc mang một tia kiếm ý của Chu Dật.",
+    "vaiTro": "Đệ tử Thiên Vận Tông phụ trách Phẩm Linh Các, nơi cấp phát đan dược, linh thạch và tiên ngọc cho đệ tử.",
+    "tinhCach": [
+     {
+      "text": "Tiên phong đạo cốt, điềm tĩnh, ẩn giấu tu vi sâu kín",
+      "chuong": "@c0457"
+     },
+     {
+      "text": "Trọng kiếm đạo, khao khát công pháp công kích mạnh để bước lên Hóa Thần hậu kỳ",
+      "chuong": "@c0457"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tu vi Hóa Thần đại viên mãn nhưng giấu kín, chỉ người cao hơn mới nhận ra",
+       "chuong": "@c0457"
+      },
+      {
+       "text": "Trên thân ẩn một luồng kiếm ý sâu, thực ra phát ra từ chính phi kiếm của hắn",
+       "chuong": "@c0457"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0457",
+       "importance": "normal",
+       "tieuDe": "Ra mắt thất sư tổ Vương Lâm",
+       "text": "Đang ngồi khoanh chân ngoài Phẩm Linh Các, Trương Hướng Phàm thấy Vương Lâm liền đứng dậy ôm quyền xưng đệ tử ra mắt thất tổ sư, thu phi kiếm xanh hóa lục quang nhập thân. Hắn cho Vương Lâm mượn phi kiếm, được Vương Lâm lấy đi một tia kiếm ý cố nhân nhưng đền bù ngọc giản mười tám cấm chế công kích chồng tầng — vật cực hiếm khiến hắn chấn động, hận không thể bế quan khắc lên kiếm ngay. Sau đó hắn chuẩn bị mở truyền tống trận để giao tiên ngọc cho Vương Lâm."
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0457",
+       "canhGioi": "Hóa Thần đại viên mãn",
+       "text": "Tu vi Hóa Thần đại viên mãn được ẩn giấu hoàn toàn; trên thân mang kiếm ý ẩn sâu.",
+       "importance": "major"
+      }
+     ],
+     "tuVi": "",
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "su-mon",
+       "quanHe": "Thất sư tổ (thất tử của Thiên Vận Tông)",
+       "ghiChu": "Ra mắt và cho Vương Lâm mượn phi kiếm, được tặng ngọc giản mười tám cấm chế."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Phi kiếm xanh biếc",
+        "loai": "phi kiếm",
+        "trangThai": "dang-co",
+        "moTa": "Trường kiếm bảy thước thân xanh biếc tỏa u quang, bị nói là vật tầm thường nhưng ẩn một tia kiếm ý của Chu Dật.",
+        "nguon": "@c0457"
+       },
+       {
+        "ten": "Ngọc giản mười tám cấm chế",
+        "loai": "ngọc giản",
+        "trangThai": "dang-co",
+        "moTa": "Vật Vương Lâm tặng để đền tia kiếm ý, khắc mười tám cấm chế công kích chồng tầng lên thượng phẩm phi kiếm sẽ tăng uy lực gấp mấy lần.",
+        "nguon": "@c0457"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0457"
+    ]
    }
   ]
  },
@@ -23055,7 +24553,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "techniques": {
   "updatedAt": "2026-06-14",
-  "count": 174,
+  "count": 189,
   "techniques": [
    {
     "id": "ngung-khi-tam-thien",
@@ -26076,6 +27574,261 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0439"
     ]
+   },
+   {
+    "id": "khon-phong-chu",
+    "name": "Khốn Phong Chú",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật phòng vệ",
+    "phamCap": "",
+    "hePhai": "Phường thị tự do",
+    "soHuu": [
+     "Trương Hóa Lâm"
+    ],
+    "blurb": "Pháp thuật phòng vệ buôn bán, vầng sáng mỏng bao phủ vật phẩm, trừ bỏ cần hơn mười lần hít thở trừ khi tu vi cao hơn nhiều.",
+    "detail": "Pháp thuật bắt buộc học để buôn bán ở phường thị tự do, tạo vầng sáng mỏng bao phủ vật phẩm nhằm chống cướp đoạt. Người muốn trừ bỏ cần hơn mười lần hít thở, đủ thời gian để người bán thu hồi vật, trừ khi tu vi cao hơn người làm phép rất nhiều. Vương Lâm vung tay phá vỡ Khốn Phong Chú trong nháy mắt, khiến lão Trương kinh hãi đoán tu vi hắn ít nhất Anh Biến kỳ.",
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "tinh-chuyen",
+    "name": "Tinh Chuyển",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Pháp thuật thần thông",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [
+     "Tư Đồ Nam",
+     "Vương Lâm"
+    ],
+    "blurb": "Pháp thuật của Tư Đồ Nam: ng��ng tụ tiên lực trên đầu ngón tay vẽ vòng tròn xuyên qua mục tiêu, làm chệch hoặc khựng quỹ đạo đòn tấn công.",
+    "detail": "Pháp thuật do Tư Đồ Nam truyền cho Vương Lâm. Tiên lực ngưng tụ trên đầu ngón tay vẽ thành đường cong rồi xoay chuyển thành vòng tròn hoàn chỉnh xuyên qua mục tiêu, làm chệch hoặc khựng quỹ đạo của vật/đòn tấn công. Vương Lâm dùng Tinh Chuyển hóa giải chén trà chứa tiên lực khổng lồ của Bạch Vi, khiến chén trà khựng lại rồi xoay vòng quanh hắn.",
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "phuong-phap-luyen-khi-co-than",
+    "name": "Phương pháp luyện khí kế thừa từ cổ thần",
+    "cn": "",
+    "loai": "luyen-the",
+    "loaiLabel": "Phương pháp luyện khí",
+    "phamCap": "Cổ thần",
+    "hePhai": "Cổ Thần tộc",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Phương pháp tế luyện bảo vật của cổ thần mà Vương Lâm kế thừa, mỗi lần luyện chế thường kéo dài hàng trăm năm.",
+    "detail": "Phương pháp tế luyện pháp bảo theo lối cổ thần: dung hợp chậm rãi linh vật và linh dịch vào bảo vật, mỗi lần luyện chế thường kéo dài cả trăm năm; với cửu tinh cổ thần thì ngàn năm luyện bảo cũng chỉ như nháy mắt. Vương Lâm dùng cách này tế luyện lại Tinh La Bàn bằng Khôn Mộc Thạch và Mặc Tuyết Dịch, nhưng vì gấp rút nên bỏ qua quá trình dung hợp chậm, cho thêm Mặc Tuyết Dịch tiến hành tế luyện cuối cùng để rút ngắn còn hơn nửa năm.",
+    "nguon": [
+     "@c0448"
+    ]
+   },
+   {
+    "id": "tam-quan-chi-le",
+    "name": "Tam Quan Chi Lễ",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Khảo nghiệm nhập môn",
+    "phamCap": "Không rõ",
+    "hePhai": "Thiên Vận Tông",
+    "soHuu": [
+     "Thiên Vận Tử"
+    ],
+    "blurb": "Nghi lễ ba cửa do Thiên Vận Tử đích thân phá vỡ hư không bố trí, dùng khảo nghiệm người muốn gia nhập Thiên Vận Tông.",
+    "detail": "Gồm ba cửa ải kế tiếp: cửa thứ nhất Nhân Giá Quan (Nhân Chi Quan) khảo nghiệm đạo tâm, cửa thứ hai Địa Chi Quan khảo nghiệm bản lãnh, cửa thứ ba Thiên Chi Quan khảo nghiệm ý cảnh. Ngay cả người chỉ muốn làm đệ tử tầm thường cũng phải qua đủ ba cửa; cả đời mỗi người chỉ trải một lần, quy tắc sắt đá. Người vào bước qua một vòng sáng hình bầu dục do hàng vạn tinh quang ngưng kết.",
+    "nguon": [
+     "@c0449"
+    ]
+   },
+   {
+    "id": "dao-luan-hoi-van-dao-nhan-chi-quan",
+    "name": "Đạo luân hồi (vấn đạo Nhân Chi Quan)",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Đạo / cảm ngộ",
+    "phamCap": "Vấn đạo",
+    "hePhai": "Khảo nghiệm Nhân Chi Quan (Thiên Vận Tông)",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Cách thức vượt Nhân Chi Quan: mỗi ngày luân hồi một lần, cảm ngộ luân hồi tăng dần để vấn đạo.",
+    "detail": "Là con đường vấn đạo trong Nhân Chi Quan của Thiên Vận Tông. Người nhập quan ở dạng đồng tử, mỗi ngày trải qua một lần luân hồi, qua đó cảm ngộ về luân hồi không ngừng tăng. Tâm pháp ngộ ra: không đủ trăm năm luân hồi thì không thể vấn đạo, không đủ ngàn năm tu vi thì không thể hiểu vấn đạo. Vương Lâm kiên trì tám mươi bốn lần, đến lần thứ tám mươi bốn mới điêu khắc thành công tượng gỗ nữ tử, hoàn thành vấn đạo, từ đồng tử hóa thành thanh niên áo trắng với ánh mắt sáng như sao trời.",
+    "nguon": [
+     "@c0450"
+    ]
+   },
+   {
+    "id": "that-tinh-toai",
+    "name": "Thất Tinh Toái",
+    "cn": "",
+    "loai": "kiem-quyet",
+    "loaiLabel": "Kiếm quyết",
+    "phamCap": "không rõ",
+    "hePhai": "Tử Tông",
+    "soHuu": [
+     "Hai chấp pháp trưởng lão Tử Tông"
+    ],
+    "blurb": "Chiêu kiếm của chấp pháp trưởng lão Tử Tông khiến trường kiếm màu tím vỡ thành bảy mảnh kèm sức mạnh cực lớn lao về phía địch.",
+    "detail": "Khi thi triển, trường kiếm màu tím vỡ thành bảy mảnh, mỗi mảnh mang sức mạnh cực lớn cùng lao tới đối thủ. Trong trận với Vương Lâm, bảy mảnh phi kiếm bị loan đao đi tới đi lui bảy lần đánh vỡ tan toàn bộ.",
+    "nguon": [
+     "@c0452"
+    ]
+   },
+   {
+    "id": "thon-phe-nguyen-than-ton-hon-phien",
+    "name": "Thôn phệ nguyên thần (tôn hồn phiên)",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "",
+    "hePhai": "Ma đạo",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Thần thông ma đạo hút và nuốt nguyên thần đối thủ vào tôn hồn phiên trong nguyên thần mình.",
+    "detail": "Vương Lâm dùng tay trái chụp lấy nguyên thần kẻ địch, vuốt tan lớp thanh quang bảo vệ để lộ nguyên thần suy yếu rồi ném vào miệng, hút thẳng vào tôn hồn phiên giam giữ. Thủ đoạn này bị giới tu chân xem là hành vi ma đạo phạm môn quy.",
+    "nguon": [
+     "@c0453"
+    ]
+   },
+   {
+    "id": "quang-cau-trang-vuong-lam",
+    "name": "Quang cầu trắng",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Thần thông công kích ngưng tụ tiên lực thành quang cầu trắng khổng lồ giáng xuống đất.",
+    "detail": "Vương Lâm ngưng tụ một quang cầu trắng to lớn giáng thẳng xuống mặt đất, khiến cả vùng chuyển động như địa long vùng vẫy, ép đối thủ ẩn trong lòng đất phải bay ra lộ diện.",
+    "nguon": [
+     "@c0453"
+    ]
+   },
+   {
+    "id": "tich-diet-chi",
+    "name": "Tịch Diệt Chỉ",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Sát thủ tam thức",
+    "hePhai": "Tam thức sát chiêu (Tư Đồ Nam)",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Một trong tam thức sát chiêu Tư Đồ Nam dạy Vương Lâm; ngón chỉ hút hết ánh sáng thiên địa khiến không gian yếu ớt không thể thuấn di.",
+    "detail": "Khi thi triển, ngón chỉ hút hết ánh sáng thiên địa khiến không gian bốn phía yếu ớt đến mức đối thủ không thể thuấn di (thuấn di sẽ rơi vào hư vô). Ngón chỉ có thể hấp thu phân thân của địch để tăng uy lực, rồi điểm vào mi tâm giam nguyên thần đối phương. Đây là một trong tam thức sát chiêu hung ác mà Tư Đồ Nam tổng kết sau mấy vạn năm, chỉ truyền cho Vương Lâm.",
+    "nguon": [
+     "@c0454"
+    ]
+   },
+   {
+    "id": "hoa-ma-chi",
+    "name": "Hóa Ma chỉ",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Sát thủ tam thức (thức thứ hai)",
+    "hePhai": "Tam thức sát chiêu (Tư Đồ Nam)",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Thức thứ hai trong tam thức sát chiêu Tư Đồ Nam; ngọn lửa tím Ma hỏa từ ngón trỏ, do dùng tiên lực thiêu đốt nghịch hóa mà sinh.",
+    "detail": "Ma hỏa tím chập chờn dễ tắt phun ra từ ngón trỏ tay phải, sinh ra do dùng tiên lực thiêu đốt nghịch hóa. Tư Đồ Nam phải mất một tháng mới dạy được Vương Lâm miễn cưỡng dùng. Theo lời Tư Đồ Nam, Anh Biến tu sĩ bình thường gặp phải nhất định mất mạng; ma hỏa dung vào hắc vụ Tiên Ma thể khiến bên trong vang tiếng nước sôi, đối thủ kêu thét lui chạy.",
+    "nguon": [
+     "@c0454"
+    ]
+   },
+   {
+    "id": "quy-khu",
+    "name": "Quy khư",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Cấm thuật thần thông",
+    "phamCap": "Cấm thuật",
+    "hePhai": "Tử tông",
+    "soHuu": [
+     "Nhị sư huynh (Tử tông)"
+    ],
+    "blurb": "Cấm thuật thần thông của nhị sư huynh Tử tông; kim quang vàng từ mi tâm bao phủ toàn thân, hóa thành ngón tay vàng phản kích.",
+    "detail": "Khi thi triển, kim quang vàng phun ra từ mi tâm bao phủ toàn thân người dùng, hóa thành một ngón tay vàng khổng lồ đánh trả đòn công kích. Nhị sư huynh dùng để chống Tịch Diệt Chỉ của Vương Lâm nhưng bị Côn Cực Tiên quất hai roi đánh tan kim quang.",
+    "nguon": [
+     "@c0454"
+    ]
+   },
+   {
+    "id": "tien-ma-the",
+    "name": "Tiên Ma thể",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Cấm thuật thần thông",
+    "phamCap": "Cấm thuật",
+    "hePhai": "Tử tông",
+    "soHuu": [
+     "Nhị sư huynh (Tử tông)"
+    ],
+    "blurb": "Cấm thuật của nhị sư huynh Tử tông; hắc vụ chui vào thất khiếu khiến thân thể bất hoại, hóa thành hắc vụ di chuyển.",
+    "detail": "Người dùng tụ hắc vụ thoát ra từ thiên linh cái, chui vào thất khiếu khiến thân thể không vết thương, vũ khí chạm vào chỉ truyền chấn động tê tay. Hắn hóa thành hắc vụ di chuyển, đi tới đâu đất nứt cỏ rũ tới đó. Bị Hóa Ma chỉ và Côn Cực Tiên phá tan sau ba khắc, hiện hình tái nhợt.",
+    "nguon": [
+     "@c0454"
+    ]
+   },
+   {
+    "id": "thap-phuong-bat-la-tran",
+    "name": "Thập phương bát la trận",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Kiếm trận",
+    "phamCap": "Cấp Anh Biến",
+    "hePhai": "Tử tông",
+    "soHuu": [
+     "Nhị sư huynh (Tử tông)"
+    ],
+    "blurb": "Kiếm trận của nhị sư huynh Tử tông; ném trường kiếm lên, một hóa hai, hai hóa bốn, vô số kiếm trút xuống.",
+    "detail": "Nhị sư huynh ném trường kiếm lớn lên không, kiếm một hóa hai, hai hóa bốn, sinh sôi thành vô số kiếm quang trút xuống như mưa. Bị Vương Lâm dùng tiên kiếm và loan đao phá tan.",
+    "nguon": [
+     "@c0454"
+    ]
+   },
+   {
+    "id": "tran-phap-pham-linh-cac",
+    "name": "Trận pháp Phẩm Linh Các",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp phòng hộ",
+    "phamCap": "",
+    "hePhai": "Thiên Vận Tông (Tử Tông)",
+    "soHuu": [],
+    "blurb": "Tòa trận khổng lồ bao phủ toàn lầu Phẩm Linh Các, đặt nhà các ở trung tâm.",
+    "detail": "Trận pháp khổng lồ bao trùm toàn bộ Phẩm Linh Các, đặt lầu các ngay trung tâm. Nhìn từ xa, trận tạo hai mặt âm dương thay đổi luân phiên như lực hỗn độn; trong đó tỏa ba luồng khí tức cường đại hóa thành ba đạo bạch ngân cực dài chạy vòng quanh trong trận mà không bao giờ va vào nhau.",
+    "nguon": [
+     "@c0457"
+    ]
+   },
+   {
+    "id": "muoi-tam-cam-che-cong-kich",
+    "name": "Mười tám đạo cấm chế công kích",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Tổ hợp cấm chế",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [
+     "Vương Lâm",
+     "Trương Hướng Phàm"
+    ],
+    "blurb": "Tổ hợp mười tám cấm chế công kích chồng tầng, khắc lên thượng phẩm phi kiếm sẽ tăng uy lực gấp mấy lần.",
+    "detail": "Hai trong số mười chín tổ hợp cấm chế Vương Lâm suy ra sau khi tìm hiểu mũ rơm của Vân Tước Tử. Toàn bộ là cấm chế công kích, hiếm ở chỗ có thể tăng cường hỗ trợ chồng lên nhau; khắc lên một thượng phẩm phi kiếm bất kỳ sẽ tăng uy lực gấp mấy lần. Vương Lâm chép vào ngọc giản tặng Trương Hướng Phàm để đền bù tia kiếm ý cố nhân.",
+    "nguon": [
+     "@c0457"
+    ]
    }
   ]
  },
@@ -26193,7 +27946,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "map": {
   "updatedAt": "2026-06-14",
-  "count": 158,
+  "count": 171,
   "nodes": [
    {
     "id": "trieu-quoc",
@@ -28629,12 +30382,210 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0442"
     ]
+   },
+   {
+    "id": "giao-dich-tinh",
+    "name": "Giao Dịch Tinh",
+    "cn": "",
+    "capDo": "tinh-cau",
+    "parentId": null,
+    "blurb": "Tinh cầu tự do buôn bán tồn tại từ rất lâu, đủ loại pháp bảo và tài liệu, náo nhiệt với tu sĩ khắp các tinh cầu tu chân.",
+    "detail": "Một tinh cầu chuyên trao đổi buôn bán đã tồn tại từ rất lâu trong tinh không, tụ tập tu sĩ khắp các tinh cầu tu chân; tại đây có thể tìm đủ loại pháp bảo và tài liệu. Vương Lâm cùng Tư Đồ Nam định ghé qua: Tư Đồ Nam mua sắm rồi tách ra đến Phượng Loan Tinh, còn Vương Lâm tìm tài liệu để sửa chữa, hoàn thiện Tinh La Bàn. Tư Đồ Nam và Diệp Vô Ưu năm xưa từng đến nơi này.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0444"
+    ]
+   },
+   {
+    "id": "minh-hong-thanh",
+    "name": "Minh Hồng thành",
+    "cn": "",
+    "capDo": "thanh",
+    "parentId": "giao-dich-tinh",
+    "blurb": "Tòa thành khổng lồ như mãnh thú nằm sấp trên Giao Dịch Tinh, toàn người tu chân không có phàm nhân; có chợ tự do phía tây và chín gian hàng xa hoa ở thành Bắc.",
+    "detail": "Minh Hồng thành nằm trên đất liền của Giao Dịch Tinh, nhìn từ xa như một mãnh thú khổng lồ nằm sấp. Trong thành không có phàm nhân, toàn là người tu chân; cửa hàng san sát. Phía tây có quảng trường khổng lồ làm chợ buôn bán tự do, tu sĩ dùng linh thạch và bảo vật trao đổi, người mua kẻ bán dày đặc song khó phân biệt thật giả. Thành Bắc ít tu sĩ hơn nhưng tập trung chín gian hàng xa hoa nhất, đẹp như tiên giới, tiểu nhị tu vi cao; gian hàng thứ chín được coi là đệ nhất Minh Hồng thành. Thành có cửa Đông và cửa Tây — phần lớn người vào từ cửa Tây gần chợ tự do, còn người vào cửa Đông nếu không phải khách lần đầu thì là khách hàng lớn. Vương Lâm vào thành qua cửa Đ��ng để tìm mua vật liệu sửa Tinh La Bàn.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0445"
+    ]
+   },
+   {
+    "id": "minh-tu-thanh",
+    "name": "Minh Tư thành",
+    "cn": "",
+    "capDo": "thanh",
+    "parentId": null,
+    "blurb": "Thành có phường thị tự do ở phía tây và thành bắc đặt cửa hàng Thương Thị lớn nhất.",
+    "detail": "Thành nơi Vương Lâm tìm mua Mặc Tuyết Dịch. Phía tây thành có phường thị tự do bày bán pháp bảo, pháp khí, đan dược, bí tịch, cả thượng cổ pháp khí hình thù quái dị. Thành bắc đặt cửa hàng Thương Thị — cửa hàng lớn nhất gồm chín tòa nhà cao như hoàng cung.",
+    "theLucLienQuan": [
+     "Thương Thị"
+    ],
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "minh-man-thanh",
+    "name": "Minh Mân Thành",
+    "cn": "",
+    "capDo": "thanh",
+    "parentId": "giao-dich-tinh",
+    "blurb": "Một trong chín tòa thành trên Giao Dịch Tinh, nơi có cửa hàng nhà họ Thương bán Mặc Tuyết Dịch.",
+    "detail": "Minh Mân Thành là một trong chín tòa thành trên Giao Dịch Tinh. Tại đây cửa hàng nhà họ Thương bày bán Mặc Tuyết Dịch với giá cực cao. Vương Lâm rời cửa hàng, trả mười viên thượng phẩm linh thạch cho Lý Đan Nam rồi nhanh chóng rời thành, sau đó tìm vách núi ngoài thành tĩnh tọa chờ Tư Đồ Nam. Đêm ngày thứ ba, hắn đội mũ rơm chờ trên vách núi và được Tư Đồ Nam đón mang đi tẩu thoát vào tinh không.",
+    "theLucLienQuan": [
+     "Thương Thị"
+    ],
+    "nguon": [
+     "@c0447"
+    ]
+   },
+   {
+    "id": "tinh-khong-q05-c0448",
+    "name": "Tinh không",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Khoảng không vũ trụ mênh mông giữa các tinh cầu, chứa nhiều tinh vân, tinh cầu và biên duyên tu sĩ.",
+    "detail": "Tinh không là khoảng không vũ trụ rộng lớn ngăn cách các tinh cầu; nếu không có Tinh Đồ rất dễ lạc đường. Trong tinh không tồn tại một loại sức mạnh kỳ dị khiến da Vương Lâm dần ngăm đen sau hành trình dài. Rải rác khắp tinh không là các tinh cầu — nơi có người tu chân, nơi hoang dã, nơi tỏa hung khí ác liệt — cùng lớp biên duyên tu sĩ bị phỉ nhổ chuyên cướp đoạt người gặp phải.",
+    "theLucLienQuan": [
+     "Biên duyên tu sĩ"
+    ],
+    "nguon": [
+     "@c0448"
+    ]
+   },
+   {
+    "id": "thap-van-dai-son",
+    "name": "Thập Vạn Đại Sơn",
+    "cn": "",
+    "capDo": "vuc",
+    "parentId": "thien-van-tinh-q05",
+    "blurb": "Dãy núi nơi đặt sơn môn Thiên Vận Tông, phủ dày mây mưa sương mù.",
+    "detail": "Nằm ở vùng hồng hoang phía đông Thiên Vận Tinh; mây mưa sương mù dày đặc, một tòa cung điện lớn lơ lửng giữa không trung tỏa kim quang, bên dưới có bậc thềm đá lơ lửng dẫn lên. Là nơi tọa lạc của Thiên Vận Tông.",
+    "theLucLienQuan": [
+     "Thiên Vận Tông"
+    ],
+    "nguon": [
+     "@c0449"
+    ]
+   },
+   {
+    "id": "tu-van-cac",
+    "name": "Tử Vân Các",
+    "cn": "",
+    "aliases": [
+     "Tử Hệ Các"
+    ],
+    "capDo": "khac",
+    "parentId": "thap-van-dai-son",
+    "blurb": "Nơi Thiên Vận Tử dặn dẫn Vương Lâm tới nếu qua được ba cửa Tam Quan.",
+    "detail": "Một trong các các phủ dành cho đệ tử chân chính của Thiên Vận Tử, vốn là chỗ ở của Tôn Vân trước kia. Chu sư đệ gọi mỉa là Tử Hệ Các và chế giễu sẽ sớm đổi tên thành Tử Lâm Các khi Vương Lâm tới ở.",
+    "theLucLienQuan": [
+     "Thiên Vận Tông"
+    ],
+    "nguon": [
+     "@c0449"
+    ]
+   },
+   {
+    "id": "nhan-chi-quan",
+    "name": "Nhân Chi Quan",
+    "cn": "",
+    "aliases": [
+     "Nhân Giá Quan"
+    ],
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Cửa thứ nhất của Tam Quan Chi Lễ, khảo nghiệm đạo tâm người nhập môn.",
+    "detail": "Nội cảnh là một màn mông lung như sa mạc che trời, sâu bên trong là sơn thôn bồng lai tiên cảnh với một vòng lặp luân hồi cố định: lão già thưởng trà nhìn đồng tử khắc tượng gỗ đỏ, cha đồng tử lên núi săn cọp không về, bà nội đau khổ qua đời. Người vào phải đối mặt cảnh huyễn lay động đạo tâm; có thể tĩnh tâm né tránh, cưỡng chế giải trừ, hoặc tiến lên vấn đạo. Vương Lâm chọn vấn đạo và trụ tám mươi ba ngày.",
+    "theLucLienQuan": [
+     "Thiên Vận Tông"
+    ],
+    "nguon": [
+     "@c0449"
+    ]
+   },
+   {
+    "id": "dia-chi-quan",
+    "name": "Địa Chi Quan",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "thien-van-tinh-q05",
+    "blurb": "Cửa ải thứ hai trong ba cửa ải Thiên Vận Tông, khảo nghiệm tu vi của người nhập quan.",
+    "detail": "Cửa ải thứ hai trong ba cửa ải khảo nghiệm của Thiên Vận Tông. Bên trong là một thế giới tràn lửa đỏ, lửa phun ra từ các khe nứt mặt đất. Có các hộ tiên hóa từ lửa (như đệ thập hộ tiên) thử thách tu vi người nhập quan, phải đánh bại mới được đi tiếp. Vương Lâm đánh lui đệ thập hộ tiên một chiêu, nhưng nhận ra có người ngoài đang dòm ngó nên chủ động bỏ qua cửa này để không lộ bản lãnh.",
+    "theLucLienQuan": [
+     "Thiên Vận Tông"
+    ],
+    "nguon": [
+     "@c0450"
+    ]
+   },
+   {
+    "id": "thien-chi-quan",
+    "name": "Thiên Chi Quan",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "thien-van-tinh-q05",
+    "blurb": "Cửa ải thứ ba sau Nhân Chi Quan và Địa Chi Quan, khảo nghiệm ý cảnh — thực chất là một cơ duyên ngộ đạo.",
+    "detail": "Cửa ải nơi ý cảnh tu sĩ có thể tiếp cận thiên đạo vô hạn, khoảng cách tới thiên đạo như chỉ bằng một bàn tay. Vương Lâm tĩnh tọa ở đây năm mươi mốt ngày, kết hợp trải nghiệm Nhân Chi Quan và Địa Chi Quan để một chữ đạo dần hiện ra trong nguyên thần, rồi ngộ ra ba cửa ải Nhân–Địa–Thiên không phải khảo nghiệm mà là cơ duyên, tuyên bố bỏ qua khiến cảnh giới ảo tan biến.",
+    "theLucLienQuan": [
+     "Thiên Vận Tông"
+    ],
+    "nguon": [
+     "@c0451"
+    ]
+   },
+   {
+    "id": "son-mon-tu-tong",
+    "name": "Sơn môn Tử Tông",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "thap-van-dai-son",
+    "blurb": "Ngọn núi lớn cao ngất mây mù bao phủ, trên đỉnh có tòa tháp xa hoa tỏa tử quang — đại bản doanh của Tử Tông.",
+    "detail": "Ngọn núi lớn nằm sâu trong Thập Vạn Đại Sơn, mây mù bao phủ, đỉnh có tòa tháp xa hoa tỏa tử quang tạo quầng sáng màu tím, phía sau núi liên miên uốn lượn như rồng lớn nằm. Dưới chân tháp có hơn mười vạn đệ tử Tử Tông ngồi thổ nạp tu luyện. Hướng tây sơn môn là Tử Vân Các.",
+    "theLucLienQuan": [
+     "Tử Tông",
+     "Thiên Vận Tông"
+    ],
+    "nguon": [
+     "@c0451"
+    ]
+   },
+   {
+    "id": "tu-lam-cac",
+    "name": "Tử Lâm Các",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "son-mon-tu-tong",
+    "blurb": "Cứ địa kiến trúc trên một ngọn núi nơi diễn ra trận chiến giữa Vương Lâm và nhóm Tử tông; mặt đất nứt khe lớn, một phần sụp đổ do phân thân tự bạo.",
+    "detail": "Tử Lâm Các nằm trên một ngọn núi thuộc khu vực Tử tông, là nơi diễn ra trận giao chiến giữa Vương Lâm và nhóm sư huynh muội. Trong trận, phân thân tự bạo của ngũ sư muội làm nứt đất khiến Tử Lâm Các sụp một phần, nới lỏng không gian. Âm thanh kiếm quang và Giải phong của thú hồn truyền khắp núi, chấn động mấy vạn dặm.",
+    "theLucLienQuan": [
+     "Tử Tông"
+    ],
+    "nguon": [
+     "@c0454"
+    ]
+   },
+   {
+    "id": "pham-linh-cac",
+    "name": "Phẩm Linh Các",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "son-mon-tu-tong",
+    "blurb": "Lầu chín tầng lưng chừng Tử Tông Sơn làm bằng tử thanh ngọc, nơi đệ tử lĩnh đan dược, linh thạch và tiên ngọc.",
+    "detail": "Lầu chín tầng nằm lưng chừng núi trên một bình đài rộng, làm từ tử thanh ngọc mang vẻ tang thương cổ kính, đá ngoài đã ngả màu xám. Dây leo xanh biếc mọc từ khe hở quấn quanh tầng một, trổ những đóa hoa tím nhỏ yêu dị tỏa hương động lòng người. Linh lực bên ngoài nồng đậm trào ra như sóng; dưới lầu có một tòa trận pháp khổng lồ bao phủ toàn nhà với hai mặt âm dương luân phiên. Đây là nơi đệ tử Tử Tông lĩnh đan dược, linh thạch, tiên ngọc và lệnh bài, có truyền tống trận mở bằng lệnh bài.",
+    "theLucLienQuan": [
+     "Thiên Vận Tông"
+    ],
+    "nguon": [
+     "@c0457"
+    ]
    }
   ]
  },
  "artifacts": {
   "updatedAt": "2026-06-14",
-  "count": 215,
+  "count": 228,
   "artifacts": [
    {
     "id": "thach-chau",
@@ -32621,12 +34572,229 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0440"
     ]
+   },
+   {
+    "id": "tinh-do-tu-do-nam",
+    "name": "Tinh đồ (Tư Đồ Nam)",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Khác",
+    "phamCap": "",
+    "soHuu": [
+     "Tư Đồ Nam"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bản đồ tinh không Tư Đồ Nam dùng để chỉ ra mục tiêu hành trình giữa các tinh cầu.",
+    "detail": "Tấm tinh đồ phác họa các tinh cầu trong vùng tinh không, được Tư Đồ Nam dùng để định vị lộ trình và chỉ ra điểm đến như Giao Dịch Tinh, Phượng Loan Tinh trên đường rời Chu Tước Tinh.",
+    "nguon": [
+     "@c0444"
+    ]
+   },
+   {
+    "id": "khon-moc-thach",
+    "name": "Khôn Mộc Thạch",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Vật liệu tế luyện Tinh La Bàn cổ ghi trong ký ức Cổ Thần Đồ Ti, thuộc tính mộc nhưng sống trên nham thạch, mười năm mới mọc một tấc.",
+    "detail": "Khôn Mộc Thạch là một trong hai loại vật liệu Vương Lâm cần để sửa chữa Tinh La Bàn, lấy theo cổ pháp tế luyện ghi trong ký ức Cổ Thần Đồ Ti. Đây là vật thuộc tính mộc nhưng lại sống bám trên nham thạch, sinh trưởng cực chậm — mười năm mới mọc thêm một tấc nên giá bán rất cao. Theo Lý Đan Nam, công dụng chính của nó là tăng tốc độ phi kiếm, vì vậy ít người chịu bỏ tiền mua. Vương Lâm vẫn quyết mua vì tự có chỗ dùng riêng cho việc tế luyện Tinh La Bàn.",
+    "nguon": [
+     "@c0445"
+    ]
+   },
+   {
+    "id": "thuong-pham-linh-thach",
+    "name": "Thượng phẩm linh thạch",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Khác",
+    "phamCap": "Thượng phẩm",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Linh thạch phẩm cấp cao dùng làm tiền tệ trao đổi ở Minh Hồng thành; Vương Lâm trả mười khối cho Lý Đan Nam làm phí dẫn đường.",
+    "detail": "Linh thạch là tiền tệ trao đổi trong Minh Hồng thành, trong đó thượng phẩm linh thạch thuộc loại có giá trị cao. Vương Lâm dư dả nhờ năm xưa vơ sạch toàn bộ linh thạch của Tiên Di Tộc trước khi đi Chu Tước mộ, nên dễ dàng chi mười khối thượng phẩm linh thạch thuê Lý Đan Nam chỉ đường.",
+    "nguon": [
+     "@c0445"
+    ]
+   },
+   {
+    "id": "mac-tuyet-dich",
+    "name": "Mặc Tuyết Dịch",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm tìm mua",
+    "phamCap": "",
+    "soHuu": [],
+    "trangThai": "",
+    "blurb": "Vật phẩm Vương Lâm tìm mua khắp nơi; ít người biết tới, Lý Đan Nam chưa từng nghe, chưa lộ công dụng.",
+    "detail": "Món vật trọng yếu Vương Lâm đang truy tìm và hỏi mua ở nhiều nơi. Lý Đan Nam chưa từng nghe tên, gợi ý hỏi thử tại cửa hàng Thương Thị — nơi tự xưng có mọi vật. Khi vào cửa hàng, Vương Lâm hỏi thẳng nữ tử áo trắng nơi đây có Mặc Tuyết Dịch không. Công dụng chưa được tiết lộ.",
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "quat-long-trang-bach-vi",
+    "name": "Quạt lông trắng (Bạch Vi)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "",
+    "soHuu": [
+     "Bạch Vi"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Cây quạt lông trắng của Bạch Vi, tăng khí chất công tử.",
+    "detail": "Cây quạt lông trắng xuất hiện trong tay Bạch Vi, làm nổi bật khí chất công tử của hắn. Bạch Vi dùng quạt đập lên tay khi ngâm thơ nhìn theo Vương Lâm.",
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "chen-tra-bach-vi",
+    "name": "Chén trà (Bạch Vi)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo công kích",
+    "phamCap": "",
+    "soHuu": [
+     "Bạch Vi"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chén trà pháp bảo của Bạch Vi ẩn chứa tiên lực khổng lồ, ném ra với tốc độ cực nhanh.",
+    "detail": "Chén trà ẩn chứa tiên lực khổng lồ, được Bạch Vi ném ra với tốc độ cực nhanh để cản đòn của Vương Lâm. Bị pháp thuật Tinh Chuyển làm chệch, chén trà khựng lại rồi xoay vòng quanh Vương Lâm.",
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "tram-thuy-tinh-nu-tu-ao-trang",
+    "name": "Trâm thủy tinh tím-trắng",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "",
+    "soHuu": [
+     "Nữ tử áo trắng (cửa hàng Thương Thị)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Ba cái trâm thủy tinh tím-trắng cài tóc của nữ tử áo trắng, là pháp bảo hiếm.",
+    "detail": "Ba cái trâm thủy tinh màu tím-trắng cài tóc của nữ tử áo trắng cửa hàng Thương Thị. Vương Lâm nhận ra cả ba trâm đều là pháp bảo hiếm.",
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "hoa-ca-doc-duoc-nu-tu",
+    "name": "Hoa cà độc dược (thêu váy)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "",
+    "soHuu": [
+     "Nữ tử áo trắng (cửa hàng Thương Thị)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chín đóa hoa cà độc dược thêu trên y phục nữ tử áo trắng, đều là pháp bảo hiếm.",
+    "detail": "Chín đóa hoa cà độc dược thêu trên váy dài của nữ tử áo trắng cửa hàng Thương Thị; Vương Lâm nhận ra chúng là pháp bảo hiếm.",
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "mieng-dan-tim-nu-tu",
+    "name": "Miếng dán tím dưới mắt",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "",
+    "soHuu": [
+     "Nữ tử áo trắng (cửa hàng Thương Thị)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Ba miếng dán tím mỏng như cánh ve dưới mắt trái nữ tử áo trắng, là pháp bảo.",
+    "detail": "Ba miếng tím mỏng như cánh ve dán dưới mắt trái của nữ tử áo trắng cửa hàng Thương Thị; Vương Lâm nhận ra đều là pháp bảo.",
+    "nguon": [
+     "@c0446"
+    ]
+   },
+   {
+    "id": "chuong-luyen-nguyen-than-vuong-lam",
+    "name": "Chuông luyện nguyên thần",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "không rõ",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Cái chuông Vương Lâm vỗ ra, đón gió biến lớn ba trượng, dùng đè nguyên thần đối thủ xuống đất để luyện hóa.",
+    "detail": "Khi Vương Lâm vỗ ra, chuông đón gió phình lớn tới ba trượng. Hắn túm nguyên thần lão chấp pháp trưởng lão ném vào chuông, đè xuống đất rồi hạ lệnh “Luyện”.",
+    "nguon": [
+     "@c0452"
+    ]
+   },
+   {
+    "id": "truong-kiem-mau-tim-truong-lao-tu-tong",
+    "name": "Trường kiếm màu tím",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "không rõ",
+    "soHuu": [
+     "Hai chấp pháp trưởng lão Tử Tông"
+    ],
+    "trangThai": "hong",
+    "blurb": "Phi kiếm của lão gầy chấp pháp trưởng lão, dùng cho chiêu Thất Tinh Toái, vỡ thành bảy mảnh rồi bị loan đao đánh tan.",
+    "detail": "Vũ khí của lão già gầy thuộc Tử Tông. Khi thi triển Thất Tinh Toái, trường kiếm vỡ thành bảy mảnh lao tới Vương Lâm, nhưng bị loan đao của hắn đánh vỡ tan toàn bộ.",
+    "nguon": [
+     "@c0452"
+    ]
+   },
+   {
+    "id": "phi-kiem-xanh-biec-truong-huong-pham",
+    "name": "Phi kiếm xanh biếc",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phi kiếm",
+    "phamCap": "Thượng phẩm",
+    "soHuu": [
+     "Trương Hướng Phàm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Trường kiếm bảy thước thân xanh biếc tỏa u quang, ẩn một tia kiếm ý của Chu Dật.",
+    "detail": "Phi kiếm của Trương Hướng Phàm, trường kiếm dài bảy thước thân xanh biếc tỏa u quang phủ màu xanh mấy trượng quanh thân, có thể hóa lục quang nhập thân chủ. Hắn nói đây chỉ là vật tầm thường, phường thị dưới chân núi cũng bán nhiều, nhưng Vương Lâm phát hiện trên kiếm ẩn một tia kiếm ý không thuộc về Trương Hướng Phàm — đó là cảm ngộ năm xưa của Chu Dật hóa kiếm hồn tản mát kẹt lại. Vương Lâm tách lấy tia kiếm ý thành điểm sáng xanh rồi trả lại kiếm.",
+    "nguon": [
+     "@c0457"
+    ]
+   },
+   {
+    "id": "ngoc-gian-muoi-tam-cam-che",
+    "name": "Ngọc giản mười tám cấm chế",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Ngọc giản",
+    "phamCap": "",
+    "soHuu": [
+     "Trương Hướng Phàm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Ngọc giản Vương Lâm tặng để đền tia kiếm ý, chứa mười tám cấm chế công kích chồng tầng.",
+    "detail": "Vật Vương Lâm tặng Trương Hướng Phàm để đền bù việc lấy đi tia kiếm ý của Chu Dật. Bên trong khắc mười tám đạo cấm chế công kích, đều có thể tăng cường chồng lên nhau; khắc lên một thượng phẩm phi kiếm bất kỳ sẽ tăng uy lực gấp mấy lần. Thần thức Trương Hướng Phàm đảo qua liền chấn động, hận không thể bế quan khắc lên kiếm ngay.",
+    "nguon": [
+     "@c0457"
+    ]
    }
   ]
  },
  "factions": {
   "updatedAt": "2026-06-14",
-  "count": 95,
+  "count": 101,
   "factions": [
    {
     "id": "hang-nhac-phai",
@@ -34493,255 +36661,112 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0440"
     ]
-   }
-  ]
- },
- "cotTruyen": {
-  "q05": [
-   {
-    "chuong": 391,
-    "tieuDe": "Đệ Nhị Chu Tước?",
-    "tomTat": "Suốt mấy tháng chu du non nửa Chu Tước Tinh cùng Độn Thiên, Vương Lâm nghe kể về Nạp Đa — một trong bốn người ngoại lai năm xưa đến từ Ngũ Hành Tinh, liền tiết lộ từng gặp lão, khiến Độn Thiên đoán Nạp Đa đã đột phá Vấn Đỉnh tới tầng giới hạn kế tiếp. Khi định tiến vào Chu Tước đại lục, cả hai bị Chu Tước kỳ trận — quầng sáng xanh bao phủ cả đại lục, uy năng sánh Vấn Đỉnh Hậu Kỳ — chặn đường. Đòn thử của Độn Thiên bị một nắm tay hư ảo đánh tan, hé lộ trận đã dung nhập máu và thần thông Cự Ma Tộc, do nhị đệ tử Kiền Phong giải phong ấn dẫn tộc này về phục vụ Chu Tước quốc. Bị ép, Kiền Phong xuất hiện mở lỗ hổng cho Độn Thiên vào rồi khép trận nhốt Vương Lâm bên ngoài để khiêu chiến. Trong cuộc đối đầu, Vương Lâm rút tiên kiếm dung nhập tiên lực chém một nhát cắt lời, ép Kiền Phong lui trăm trượng, khiến hắn kinh hãi nhận ra tiên bảo và ngón tay rỉ máu mà không hay @c0391."
    },
    {
-    "chuong": 392,
-    "tieuDe": "Kiền Phong",
-    "tomTat": "Sau khi đánh lui Kiền Phong một kiếm, Vương Lâm lập tức ra tay toàn lực, triệu Thập Ức Tôn Hồn Phiên thả hàng triệu hồn phách cùng mười hai chủ hồn cướp tiên cơ, rồi hô lệnh cho hồn phách tự nổ tạo uy lực kinh người. Kiền Phong vốn coi thường nên trở tay không kịp, buộc phải rút Dùi Chu Tước rồi chuyển Chu Tước trận về hộ thân, dù phun máu chịu thương vẫn giữ được mạng. Vương Lâm đã dùng hết hai phân phiên hư ảo, không thể giết đối thủ trừ phi động dụng đệ tứ chủ hồn, nên thong dong rút về Luyện Hồn Tông. Kiền Phong tức giận gọi sư muội Hồng Điệp như con rối không hồn ra hút sinh mệnh lực chữa thương, thề giết Vương Lâm để nuốt ý cảnh và đoạt Tôn Hồn Phiên mà sư tôn cũng đang nhắm tới. Độn Thiên dẫn Vương Lâm vào cấm địa sau núi bế quan chờ Anh Biến, giao túi trữ vật và hứa hộ pháp. Một mình ngồi canh, Độn Thiên độc thoại cùng chủ hồn sư huynh, hé lộ tuổi thọ sắp hết và quyết tâm bỏ luân hồi thành chủ hồn, mong Vương Lâm sau này lưu lại huyết mạch cho Luyện Hồn Tông giữa cơn nguy khốn do Tiên Di Tộc tấn công. @c0392"
+    "id": "thuong-thi",
+    "name": "Thương Thị",
+    "cn": "",
+    "type": "buon-ban",
+    "typeLabel": "Thế lực buôn bán",
+    "diaBan": "Thành bắc Minh Tư thành; chi nhánh trên Giao Dịch Tinh",
+    "aliases": [
+     "Thương Thức"
+    ],
+    "nhanVatChinh": [
+     "Nữ tử áo trắng (cửa hàng Thương Thị)"
+    ],
+    "blurb": "Cửa hàng lớn nhất Minh Tư thành với chín tòa nhà cao như hoàng cung, được thất cấp Tu Chân Quốc ủng hộ, tự xưng có mọi vật.",
+    "detail": "Thế lực buôn bán đặt cửa hàng lớn nhất ở thành bắc Minh Tư thành gồm chín tòa nhà cao như hoàng cung. Được thất cấp Tu Chân Quốc ủng hộ, có chi nhánh trên Giao Dịch Tinh; tự xưng có mọi vật, bảo vệ khách hàng tới trăm vạn dặm ngoài tinh cầu và đưa khách về tinh cầu sở tại nếu cần. Bên trong cửa hàng là cung điện xa hoa với chín mươi chín bức tượng nữ tử điêu khắc từ linh thạch, mỗi tượng cầm hộp gấm đựng linh đan pháp bảo.",
+    "nguon": [
+     "@c0446"
+    ]
    },
    {
-    "chuong": 393,
-    "tieuDe": "Anh Biến (Chung)",
-    "tomTat": "Vương Lâm ngồi trong động phủ cấm địa, mở túi trữ vật Độn Thiên để lại và sững người vì lượng tiên ngọc cướp đoạt từ các tông phái nhiều gấp trăm lần số hắn tự lấy ở tiên giới, đủ hiểu vì sao Luyện Hồn Tông mấy vạn năm xuất nhiều Anh Biến tu sĩ. Hắn đổ tiên ngọc khắp nơi rồi thổ nạp hấp thụ, ép linh lực ngưng thành linh cầu nơi đan điền, dùng tiên lực xóa từng chút phàm căn thay cho Tẩy Linh Trì đã mất tích cùng tiên giới sụp đổ. Sau khi linh cầu hóa kim rồi nổ tung, nguyên thần bị đánh văng ba thước và bị lực đạo ngăn không cho trở vào, đành lơ lửng quan sát thân thể tự tái tạo kinh mạch bằng tiên lực, trở nên trong suốt như thủy tinh, quần áo hòa tan, cả người như tiên nhân — bước một thân thể ngưng hóa hoàn thành. Thân thể bắt đầu tỏa hương khí mê người có thể dẫn dụ yêu thú và lệ hồn đến đoạt xá, nên Độn Thiên hộ pháp bên ngoài, bố trí lồng khí đen ngăn hương, dựa Tôn Hồn Phiên và hộ sơn đại trận phòng bị. Cuối chương, nguyên thần Vương Lâm tự mở túi trữ vật đổ thêm tiên ngọc, lần này tiên lực không bị thân thể hút mà ngưng kết thấm vào nguyên thần, khởi động bước hai nguyên thần cô đọng @c0393."
+    "id": "tu-tong-thien-van",
+    "name": "T��� Tông",
+    "cn": "",
+    "type": "tong-mon",
+    "typeLabel": "Tông phái nhánh",
+    "diaBan": "Sơn môn Tử Tông trong Thập Vạn Đại Sơn, Thiên Vận Tinh",
+    "nhanVatChinh": [
+     "Vương Lâm",
+     "Triệu Tinh Sát"
+    ],
+    "blurb": "Một trong bảy hệ đệ tử của Thiên Vận Tông, biểu trưng màu tím, được xem là hệ thực lực yếu nhất trong bảy hàng.",
+    "detail": "Tử Tông (Tử hệ) là một trong bảy hệ đệ tử mà sư tôn Thiên Vận Tử thu nhận, phân theo màu: Xích, Chanh, Hoàng, Lục, Thanh, Lam, Tử. Sơn môn nằm trên ngọn núi lớn cao ngất mây mù, đỉnh có tòa tháp xa hoa tỏa tử quang; riêng Tử Tông đã có hơn mười vạn đệ tử ngồi thổ nạp tu luyện dưới chân tháp. Vương Lâm và Triệu Tinh Sát đều thuộc hệ này. Tử hệ được úp mở là hệ yếu nhất trong bảy hàng, ẩn chứa nội tình chưa rõ.",
+    "nguon": [
+     "@c0451"
+    ]
    },
    {
-    "chuong": 394,
-    "tieuDe": "Chu Tước Tử",
-    "tomTat": "Trong động phủ, Vương Lâm cảm nhận nguyên thần dần ngưng thật, tiến gần thành công Anh Biến, trong khi bên ngoài Độn Thiên đang thu hồn phách vào Thập Ức Tôn Hồn Phiên. Hộ sơn đại trận Luyện Hồn Tông bất ngờ nổ tung sụp đổ, Chu Tước Tử — đại thần thông Vấn Đỉnh Hậu Kỳ duy nhất hiện nay, người đứng đầu Chu Tước Tinh — hiện thân đòi 'mượn' Tôn Hồn Phiên theo lời hứa năm xưa giữa hai thế lực, nhưng Độn Thiên phủ nhận và khai chiến. Chu Tước Tử tung Chu Tước thánh hỏa phủ trăm dặm khiến cả Vương Lâm bị cuốn vào 'biến mất', còn Độn Thiên cắn lưỡi phun máu dung hợp ba mươi tư chủ hồn thành hồn phách Vấn Đỉnh Hậu Kỳ hóa người mây, hóa chín phi kiếm tiên lực vây công. Bị ép, Chu Tước Tử buộc dùng Chu Tước huyền ấn phòng thủ chống lại, tuy không bị thương nhưng tái nhợt mất vẻ phiêu dật vì lo giảm thọ trước đại chiến với Tiên Di Tộc. Cuối cùng lộ ra mục đích thật của hắn không phải cây phiên mà là chờ đệ tứ chủ hồn xuất hiện, bởi các đời Chu Tước Tử đã âm thầm nghiên cứu cách trừ khử nó và nay đã chắc tám phần. @c0394"
+    "id": "tu-tong-tu-van-cac",
+    "name": "Tử Tông",
+    "cn": "",
+    "type": "phan-nhanh",
+    "typeLabel": "Phân nhánh tông môn",
+    "diaBan": "Trong Thiên Vận Tông (Tử Vân Các, Tử Tông)",
+    "nhanVatChinh": [
+     "Vương Lâm",
+     "Hai chấp pháp trưởng lão Tử Tông",
+     "Triệu Tinh Sát"
+    ],
+    "blurb": "Một phân nhánh/bộ thuộc Thiên Vận Tông, có hệ thống chấp pháp trưởng lão riêng; là nơi Vương Lâm bị cầm chân.",
+    "detail": "Tử Tông là một bộ thuộc Thiên Vận Tông, có chấp pháp trưởng lão riêng quản môn quy. Tử Vân Các nằm trong địa phận này. Vương Lâm bị cầm chân tại đây nửa tháng, sau ra tay diệt một chấp pháp trưởng lão khi bị ép phá động phủ.",
+    "nguon": [
+     "@c0452"
+    ]
    },
    {
-    "chuong": 395,
-    "tieuDe": "Thông Minh Sao Bằng Bậc Đế Vương",
-    "tomTat": "Bị Chu Tước Tử bức bách muốn tận mắt xem thần thông đệ tứ chủ hồn, Độn Thiên cắn răng rút cạn chút tuổi thọ cuối làm tế, gọi ra một chiếc tử kim châm bằng ngón tay cái — vật cứng nhất thiên hạ xuyên thấu mọi vật và tổn thương nguyên thần. Nhờ điển tịch Chu Tước Sơn lóe lên trong đầu, Chu Tước Tử nhận ra đó chính là 'Tam kim linh hồn', người gốc hiếm đạt ba phần một thuộc tính được Luyện Hồn Tông luyện chế. Tử kim châm đâm thủng cả Chu Tước Kiếm, rồi điên cuồng nuốt hồn phách khiến Tôn Hồn Phiên mất mười chủ hồn cùng một phần ba trong mười triệu hồn phách — tổn thất vạn năm chưa từng có, buộc Độn Thiên đau lòng ra lệnh dừng. Chu Tước Tử thâm hiểm chờ hồn nuốt thêm để mạnh hơn mới thu phục, dùng hỏa hồ tiên bảo tạo biển lửa trăm trượng luyện hóa và lén cài máu mình vào hồn, đó chính là 'thông minh sao bằng đế vương'. Lão tiếp tục hiến chín phần mười tuổi thọ mở tu tinh chi tâm, đoạt 'đình chỉ ý cảnh' khiến mọi sinh linh trăm trượng bất động, tóm gọn đệ tứ hồn vào tay rồi chụp về phía Độn Thiên. Đúng lúc nguy cấp, Vương Lâm từ nơi bế quan vọng ra tiếng cười âm trầm cùng câu mắng 'Cút con bà ngươi đi!', giáng đòn khiến Chu Tước Tử nguyên thần đau đớn, lộ vẻ kinh hãi chưa từng có. @c0395"
+    "id": "tu-he-thien-van-tong",
+    "name": "Tử hệ",
+    "cn": "",
+    "type": "chi-mach",
+    "typeLabel": "Chi mạch tông môn",
+    "diaBan": "Thiên Vận Tông",
+    "nhanVatChinh": [
+     "Vương Lâm",
+     "Tôn Vân"
+    ],
+    "blurb": "Một trong bảy hệ của Thiên Vận Tông, có bảy đệ tử và lấy Tử Vân Các làm chốn truyền thừa.",
+    "detail": "Tử hệ là một trong bảy hệ do Thủy tổ Thiên Vận Tử lập, gồm bảy đệ tử (tính cả Vương Lâm). Ngàn năm trước Tôn Vân là đệ nhất nhân của hệ này, vươn lên hàng Thiên Vận Thất tử. Sáu đệ tử còn lại sinh trưởng tại Thiên Vận Tinh, riêng Vương Lâm tới từ một tinh cầu bị xem là đê tiện nên bị bài xích, âm thầm hãm hại.",
+    "nguon": [
+     "@c0453"
+    ]
    },
    {
-    "chuong": 396,
-    "tieuDe": "Tư Đồ Nam",
-    "tomTat": "Phía đông Chu Tước đại lục, vô số người Tiên Di Tộc khoanh chân đọc chú ngữ, luân phiên thôi thúc phù văn suốt mấy tháng để bày đại trận diệt Chu Tước quốc, với bốn phân nhánh cây tổ linh do hư tổ hi sinh phá ngũ kiếm phong ấn phóng thích vây quanh đại lục. Ngũ tổ Tiên Di Tộc — Chu Tước Tử đời thứ mười bốn mang ấn ký lá cây tím trên má — chủ trì trận pháp, bất đồng với nhị tổ về việc diệt quốc và uy lực Tu tinh chi tâm. Tư Đồ Nam (Tư Mã trưởng lão, Anh Biến Sơ Kỳ) của Thi Âm Tông cưỡi quan tài đến đưa thi thể và báo tin Chu Tước Tử đang đại chiến Độn Thiên lão quỷ ở Luyện Hồn Tông để tranh đoạt Thập Ức Tôn Hồn Phiên. Giữa lúc đó, Vương Lâm bất ngờ hiện ra trong trạng thái cuồng ngạo quỷ dị với quầng sáng lam sẫm âm hàn và mắt đầy tà khí, áp chế khiến Chu Tước Tử khiếp sợ toát mồ hôi lạnh, ngờ rằng không phải Vương Lâm thường ngày. Vương Lâm nể mặt Diệp Vô Ưu — tên thật của đệ nhất Chu Tước Tử và là người từng có đại ân với hắn — nên tha mạng, khiến Chu Tước Tử cung kính gọi 'lão tổ' rồi lui. Cuối cùng, Vương Lâm đồng ý cho Độn Thiên mượn đệ tứ hồn ba năm để đối phó Tiên Di Tộc, hẹn sau ba năm phải trả lại. @c0396"
+    "id": "thien-van-that-tu",
+    "name": "Thiên Vận Thất tử",
+    "cn": "",
+    "type": "nhom",
+    "typeLabel": "Nhóm tinh anh",
+    "diaBan": "Thiên Vận Tông",
+    "nhanVatChinh": [
+     "Tôn Vân",
+     "Thiên Vận Tử"
+    ],
+    "blurb": "Bảy đồ đệ chân chính đứng đầu bảy hệ của Thủy tổ Thiên Vận Tử.",
+    "detail": "Thủy tổ tôn giả thu đồ bảy hệ, mỗi hệ bảy người nhưng chỉ một người là đồ đệ chân chính; bảy người đứng đầu bảy hệ hợp thành Thiên Vận Thất tử. Tôn Vân từng vươn lên thay lão lục để gia nhập. Thủy tổ để lời rằng người được giao kế nhiệm Tử Vân Các sẽ trở thành một trong Thiên Vận Thất tử.",
+    "nguon": [
+     "@c0453"
+    ]
    },
    {
-    "chuong": 397,
-    "tieuDe": "Đồng Tử",
-    "tomTat": "Mượn thân Vương Lâm, một khí tức xa lạ cuồng ngạo ép đệ tam Chu Tước Tử tự cắt ba ngón tay đền tội rồi đuổi đi; Chu Tước Tử dù nghi ngờ đối phương chỉ vừa thức tỉnh và hư trương thanh thế vẫn không đủ dũng khí quay lại, đành ôm ý độc bay về Chu Tước Sơn. Sau đó người ẩn trong Thiên Nghịch Châu lộ diện chính là Tư Đồ Nam — đệ nhị Chu Tước Tử, sư phụ ma đạo năm xưa của Vương Lâm — vừa được lửa Chu Tước đánh thức, khiến Độn Thiên khiếp sợ tham kiến. Cảm kích Độn Thiên hộ pháp, Tư Đồ Nam xuất Thập Ức Tôn Hồn Phiên và hứa khôi phục Luyện Hồn Tông, để rồi vị trưởng lão Hóa Thần hồi tưởng cả đời, từ biệt sư môn và mãn nguyện hủy thần trí thành hồn phách nhập vào phiên. Vương Lâm cầm Tôn Hồn Phiên quỳ lạy ba lạy tiễn Độn Thiên, thề trở về báo thù việc Chu Tước Tử diệt môn. Tư Đồ Nam quyết tìm thân thể đồng tử thượng đẳng ở Viêm Cực cực bắc để đoạt xá khôi phục bản lãnh, dẫn Vương Lâm lên đường. Trên đường, sau khi kể công ơn cũ khiến Vương Lâm đồng ý cho mượn Văn Thú nghiên cứu, Tư Đồ Nam xem một sợi màu trắng tỏa áp lực như Thiên Kiếp thì lập tức biến sắc và vội cất nó trở lại túi trữ vật. @c0397"
-   },
-   {
-    "chuong": 398,
-    "tieuDe": "Tu Tinh Chi Tinh",
-    "tomTat": "Đáp lại nghi vấn của Tư Đồ Nam, Vương Lâm kể lai lịch tia Cực Cảnh tự sinh trong cơ thể năm xưa ở Quyết Minh Cốc và đại thành sau khi rời chiến trường ngoại vực; Tư Đồ Nam cảnh báo đây là vật bá đạo bị tu chân liên minh năm nào cũng truy sát nên tuyệt đối phải giấu, nhất là Chu Tước Tử. Vương Lâm hoài nghi Cực Cảnh liên quan Hoàng Tuyền Thăng Khiếu Quyết, được Tư Đồ Nam thừa nhận khả năng nhưng còn nguyên nhân sâu xa, đồng thời hé lộ Tu Tinh Chi Tinh — vật ác độc nhất do liên minh khống chế, có thể khiến Cực Cảnh tiến hóa và cần đến nếu muốn rời Chu Tước Tinh. Đang kể dở thì Tư Đồ Nam phát hiện Tiên Di Tộc đang hiến tế tổ linh, nhớ tới thuật thần thông của đệ nhất Chu Tước Tử có thể hấp thu sức mạnh kỳ dị từ cây thần, bèn hút một khối tiên ngọc của Vương Lâm rồi biến mất hành động. Cùng lúc, khí tức cuồng ngạo khiến toàn bộ Vấn Đỉnh tu sĩ trên tinh cầu chấn động, Sở Vân Phi, một lão quái phương nam và Chu Tước Tử đều rời đi. Tại phía đông, Tư Mã trưởng lão Thi Âm Tông cùng hai thủ thi chấp sự mở quan tài, phun máu triệu ra thi thể Cự Ma Tộc hơn mười trượng có dấu lưỡi búa tím giữa lông mày để hiến cho cây thần. Đúng lúc đó Sở Vân Phi dẫn lực lượng Thiên Ngọc Tông phá màn sương đen, quyết chiến với ngũ tổ Tiên Di Tộc và bổ một chưởng xuống cỗ quan tài, mở màn đại chiến. @c0398"
-   },
-   {
-    "chuong": 399,
-    "tieuDe": "Tổ Linh Thụ",
-    "tomTat": "Tại bốn hướng Chu Tước Tinh, Tiên Di Tộc khởi động bí thuật nuôi cấy tổ linh: ngũ tổ phía đông tạo màn sương đen, dùng kim mang ấn vào thi thể Cự Ma Tộc để mọc lên Luân Hồi thụ cao trăm trượng, sóng xung lực đẩy lui Sở Vân Phi khiến phe tấn công phía đông thất bại. Theo hiệp ước, ngũ tổ trao một tổ phù cửu diệp cho Tư Mã trưởng lão của Thi Âm Tông, đổi lại Thi Âm Tông chào hàng thân thể tổ tiên Cự Ma Tộc Vấn Đỉnh Trung Kỳ từng giết mấy cửu diệp thuật chú sư. Kết cục bốn hướng: chỉ Chu Tước Tử phía tây phá hủy thành công, đông và nam đều thất bại, còn phía bắc xảy ra biến cố lớn. Tư Đồ Nam lén vào màn sương đen, ký sinh hư ảnh trong Luân Hồi thụ và nuốt sạch dinh dưỡng khiến cả một tổ linh sụp đổ tan biến, khiến tứ tổ đầu bạc phẫn nộ hy sinh phù văn truy kích điên cuồng. Tư Đồ Nam trêu chọc tứ tổ rồi tìm Vương Lâm, ôm hắn vọt khỏi Chu Tước đại lục bay thẳng tới Viêm Cực ở tiểu bắc. Hắn mưu tính nuốt tổ linh kết hợp thân thể rồi quay lại nuốt luôn Vương Lâm để rút ngắn nửa thời gian khôi phục, coi như cũng diệt giúp một thuật chú sư cỡ Vấn Đỉnh Kỳ. @c0399"
-   },
-   {
-    "chuong": 400,
-    "tieuDe": "Tiểu Bắc Viêm Cực",
-    "tomTat": "Tiểu Bắc Viêm Cực nằm phía bắc Chu Tước Tinh là vùng băng đỏ nóng cháy chứa đầy cấm chế tự nhiên: khí Cửu Lê hủy diệt sinh linh, huyết chi quang thiêu đốt kẻ có huyết dịch và băng hấp thụ thần thức. Sâu trong nơi này, ma đồng tuấn tú của đại trưởng lão Tôn Thái (Thi Âm Tông) bị viêm băng vây khốn, vật vã chống lại khí Cửu Lê đang luyện hóa nó — đây vốn là vật đoạt xá xếp thứ 171 trong bảo giám, được tế luyện hơn ngàn năm thành thi thể Anh Biến Trung Kỳ, bị nhốt sau khi Tôn Thái bị thiên phú thần thông của lão tổ Cự Ma Tộc tống khỏi tinh cầu. Vương Lâm cùng Tư Đồ Nam (lão tổ Cự Ma Tộc) phá không tới Viêm Cực, bị tứ tổ Tiên Di Tộc kiên trì đuổi theo để đoạt lại tổ linh chưa bị luyện hóa. Tư Đồ Nam bấm quyết niệm chú kích hoạt cấm chế khiến băng toàn vùng phóng tinh quang, huyết chi quang chiếu tứ tổ làm da dâng hồng quang. Tứ tổ vốn hiểu rõ nơi này liền dùng phù văn đẩy tan bạch quang rồi hóa tơ quấn lấy địch, nhưng Tư Đồ Nam xuyên thẳng vào cơ thể hắn, bị cây cửu diệp ở mi tâm đẩy ra. Cuối cùng Tư Đồ Nam quát \"Sương Cửu Lê\", điều sương đen bao bọc cả hai rồi kéo về phía viêm băng đang vây khốn ma đồng. @c0400"
-   },
-   {
-    "chuong": 401,
-    "tieuDe": "Bí Mật Của Tu Tinh Chi Tinh",
-    "tomTat": "Trong màn sương Cửu Lê làm hộ pháp, Tư Đồ Nam chui ra khỏi khối viêm băng, nhập vào cơ thể đồng tử để đoạt xá, hứa khôi phục bản lãnh rồi sẽ giúp Vương Lâm và dặn hắn cẩn thận Chu Tước Tử. Hắn tiết lộ bí mật Tu Tinh Chi Tinh: do tu chân liên minh dùng thuật tế trời tạo ra, ban cho tu chân quốc cấp sáu, hấp thụ một mệnh hồn của mọi sinh mệnh sinh ra trên tinh cầu, là thủ đoạn khống chế tối thượng mà năm xưa hắn từng phong ấn khiến Chu Tước Tinh nay đại loạn. Hắn cũng nói về Tu Tinh Chi Tâm cho phép Chu Tước Tử hiến tế thọ nguyên để giết người, và cảnh báo một tia mệnh hồn Vương Lâm vẫn còn bị giữ trong Tu Tinh Chi Tinh nên buộc phải rút ra mới yên ổn. Nghe vậy, Vương Lâm vỡ lẽ vì sao các tu chân quốc làm phản và vì sao Tiên Di Tộc chưa bị tiêu diệt, đồng thời thầm cảnh giác không để sinh mệnh mình nằm trong tay kẻ khác. Hắn lập kế hoạch rút mệnh hồn, thu du hồn khôi phục Thập Ức Tôn Hồn Phiên, tìm huyết dịch Cự Ma Tộc ở Thi Âm Tông rồi đi tìm Thiên Vận Tử, đặc biệt gấp rút rời Chu Tước Tinh vì mối đe dọa Thác Sâm thừa hưởng sức mạnh bát tinh của Đồ Ti. Cuối cùng hắn đổi hướng bay về Sở quốc thăm nhà, ẩn tàng thân hình xuyên qua đại chiến lần hai khi Tiên Di Tộc tràn ngập khiến toàn Chu Tước đại lục chìm trong máu tanh. @c0401"
-   },
-   {
-    "chuong": 402,
-    "tieuDe": "Chấp Hành Giả - Kẻ Chấp Hành",
-    "tomTat": "Trên Chu Tước Tinh, Tiên Di Tộc sau mấy vạn năm im lặng lại tổng phản công; ba tu chân quốc cấp năm Thủy Mặc, Mẫu Đơn và Tần đồng loạt làm phản khiến Chu Tước quốc tan tác, buộc co phòng tuyến về Chu Tước đại lục. Vân Tước Tử — sư đệ Chu Tước Tử — bất ngờ lộ thân phận nhị tổ Tiên Di Tộc, đánh lén trọng thương Chu Tước Tử, đồng thời sai hư ảnh nhất tổ đánh đuổi Sở Vân Phi khỏi Chu Tước Tinh; hắn cho Chu Tước Tử ba tháng dưỡng thương để hẹn quyết chiến dưới Chu Tước Sơn, thực chất chờ đối phương hiến tế Tu Tinh Chi Tinh rồi mới ra tay. Vân Tước Tử tiết lộ \"kế hoạch Chu Tước\": bồi dưỡng bốn quân cờ Kiền Phong, Liễu Mi, Chu Võ Thái và Vương Lâm làm Chu Tước Tử kế nhiệm, trong đó coi Vương Lâm là \"chấp hành giả\" then chốt. Bên cổ truyền tống trận, Chu Võ Thái đội Vân Tước mão tìm gặp Vương Lâm cùng uống lại rượu năm xưa, cảnh báo cả bốn đều là quân cờ và Vân Tước Tử có tư tâm với hắn, rồi để lại ngọc giản ý cảnh Thiên Huyễn vô tình đạo của Liễu Mi. Vương Lâm xem xong miết vỡ ngọc giản, trở về Sở quốc nay tan hoang dưới sự khống chế của Tiên Di Tộc, về thôn cũ không một bóng người. Vốn định rời đi thu thập du hồn ở chiến trường ngoại vực, nhưng cuối cùng nội tâm hắn thay đổi quyết định. @c0402"
-   },
-   {
-    "chuong": 403,
-    "tieuDe": "Cưu Chiếm Thước Sào",
-    "tomTat": "Trước khi rời Chu Tước tinh, Vương Lâm nhắm vào kho dự trữ vạn năm của Tiên Di tộc và quyết đột nhập hố sâu, nhưng bị cái cây khổng lồ chọc trời phòng vệ chặn không thể vào. Qua thử nghiệm bằng linh quang và phân thân tượng gỗ đều thất bại, hắn phát hiện cây chỉ ngăn vật mang linh lực còn hồn phách có thể tùy ý xuyên qua. Hắn điều hơn hai ngàn hồn phách trong thiên Hồn Phiên, gồm cả tàn hồn Kỳ Lân thú, tụ thành bộ khải giáp bao quanh nhục thân và xuyên vào bên trong. Nhờ tu vi gần đạt Anh Biến sơ kỳ, hắn thuấn di nhanh chóng qua tầng một, hai, ba vắng lặng rồi ẩn thân ở cửa tầng bốn. Bám theo một Thuật Chú Sư lục diệp dẫn đám tu sĩ vô thần, Vương Lâm lặng lẽ tiến vào trung tâm mà không bị phát hiện. Tại đó hắn chứng kiến mười một lục diệp Thuật Chú Sư niệm chú đẩy phù văn kích Luân Hồi thụ, để rễ cây quấn hơn trăm tu sĩ Kết Đan kỳ hút tinh huyết và linh lực chuyển hóa thành lực chữa thương cho một bát diệp Thuật Chú Sư trọng thương — kẻ duy nhất có tư cách phát hiện ra hắn. @c0403"
-   },
-   {
-    "chuong": 404,
-    "tieuDe": "Tổ Phù Đầu Cốt",
-    "tomTat": "Trên tầng thứ tư của không gian Luân Hồi thụ, Vương Lâm hóa hư ảnh áp sát lão giả bát diệp Thuật Chú Sư đang chữa thương, vỗ một chưởng tiên lực kinh thiên động địa khiến đám lục diệp khiếp sợ nhận ra hắn là tu sĩ Anh Biến rồi bỏ chạy. Hắn phá vỡ Luân Hồi thụ giải cứu hơn trăm tu sĩ bị giam, trong đó một tu sĩ Kết Đan kinh ngạc gọi hắn là 'Thủy tổ', rồi thả Văn thú hút khô những kẻ chạy trốn. Truy sát lão giả — vốn là trưởng lão Tiên Di tộc bên cạnh ngũ tổ đại nhân định chạy lên tầng mười một cầu cứu tam tổ — Vương Lâm rút tiên kiếm chém vỡ Tổ phù, đánh một ấn ký rồi chém đầu lão. Kiểm tra bằng bí thuật Luyện Hồn tông, hắn phát hiện đầu lâu không có hồn phách, lại không tan dưới u hỏa và mang một phù hào đen không trọn vẹn giống hệt Tổ phù, bèn thu vào túi trữ vật. Khi tiến vào tầng thứ năm rộng lớn phủ đầy tảo biển mê hoặc, hắn vừa phát hiện ba gốc Luân Hồi thụ với bát diệp trọng thương thì tảo biển bỗng mọc dày, kết thành vô số sinh vật hình người quỷ dị vây quanh hắn. @c0404"
-   },
-   {
-    "chuong": 405,
-    "tieuDe": "Tam Tổ Là Nàng",
-    "tomTat": "Xâm nhập sào huyệt Tiên Di tộc, Vương Lâm dùng Thập Ức Tôn Hồn Phiên dung hợp khoảng năm triệu hồn phách cùng hơn mười chủ hồn thành một hồn phách tu vi Vấn Đỉnh sơ kỳ để phá vòng phòng thủ. Hắn điều hồn phách này càn quét từ tầng năm xuống tầng mười, hủy các Luân Hồi thụ và giết tổng cộng mười chín bát diệp Thuật Chú Sư đang chữa thương, cướp lượng lớn linh thạch cùng mười chín đầu lâu chứa tinh hoa phù văn thượng cổ. Tới tầng mười, hồn phách Vấn Đỉnh suy yếu tan rã không thể gọi lại, hắn thu hồi Hồn Phiên và xác nhận thuật ngưng tụ này tổn hại lớn nên năm xưa Độn Thiên hạn chế dùng. Cảm thấy có thứ dưới sâu kêu gọi, hắn bày một truyền tống trận ẩn từ ngọc giản Độn Thiên rồi nhảy xuống tầng mười một âm hàn đầy phù văn máu. Tại đó hắn thấy một nữ tử xích lõa lơ lửng, trán lóe phù văn cửu diệp, dung mạo mỹ lệ hiếm có và mang cảm giác quen thuộc, phía trên là bức tranh chín điểm sáng giống y hệt bức tranh không thể điều khiển trong túi trữ vật của hắn. Khi nữ tử mở mắt, kiếm hồn Hứa Quốc Lập biến ảo hiện ra nhận ra nàng là 'Tiên tử tiểu muội muội' và cảm tạ nàng đã mang về tia ý cảnh do tàn hồn năm xưa hắn bị mất. @c0405"
-   },
-   {
-    "chuong": 406,
-    "tieuDe": "Ngươi Đồng Ý, Xuân Phong Nhất Độ",
-    "tomTat": "Tại tầng thứ mười một vùng đất Tiên Di, Vương Lâm đối mặt nữ tử thần bí tự xưng Mị Cơ — tam tổ Tiên Di Tộc; nàng áp chế Hứa Lập Quốc, phong tỏa lối ra và đòi gần gũi hắn mới cho đi. Vương Lâm phán nàng đang trọng thương chưa lành, lấy Thập Ức Tôn Hồn Phiên và tiên kiếm uy hiếp rồi bất ngờ kích hoạt Truyền Tống Trận tự bố trí để thoát thân. Mị Cơ phái Phù Thú Đồ Phổ — bảo vật Tiên Di Tộc — hóa giao long nghìn trượng và hắc hổ trăm trượng truy sát hắn từ tầng mười lên cửa tầng một. Vương Lâm tung ra cuộn Phù Thú Đồ Phổ của mình mà lâu nay không khống chế được, để nữ tổ tiên tự phong ấn bên trong vẫy tay thu cả hai phù thú, khiến Mị Cơ phun máu chịu phản phệ và hiện gốc cây cửu diệp trên trán để cưỡng thu lại. Hắn rời vùng đất Tiên Di trong đêm khuya, giữ lại ý cảnh tàn hồn của tam tổ làm thủ đoạn tối hậu. Đồng thời tại cấm địa sau Chu Tước Sơn, Chu Tước Tử độc thoại lộ thân phận thật, mối hận với Kiền Bình Hải, việc đoạt Tu Tinh Chi Tâm cướp ngôi cùng âm mưu nuôi Kiền Phong báo thù và ván cờ ba tháng với Vân Tước Tử quanh Tu Tinh Chi Tinh. @c0406"
-   },
-   {
-    "chuong": 407,
-    "tieuDe": "Người Khổng Lồ Bên Dưới Thi Âm Tông",
-    "tomTat": "Tại phòng tuyến phía tây Chu Tước đại lục chống Tiên Di Tộc, Kiền Phong ngồi trấn giữ và khống chế Hồng Điệp, ngầm mưu tính nuốt ý cảnh của Tằng Ngưu cùng sư muội rồi rời Chu Tước Tinh, đồng thời nghi ngờ ý đồ của Chu Tước Tử khi lão đưa cho hắn một pháp bảo uy lực. Một tháng sau, Vương Lâm rời vùng Tiên Di, dùng Truyền Tống Trận của Sở quốc ra vực ngoại chiến trường thu du hồn hòng khôi phục Thập Ức Tôn Hồn Phiên, nhưng cả thuật du hồn lẫn thôn hồn đều thất bại vì hai bên trời sinh xung khắc như nước với lửa. Hắn chuyển mục tiêu sang thân thể khổng lồ của tổ tiên Cự Ma Tộc nằm sâu dưới Thi Âm Tông Triệu quốc, định lấy lượng lớn huyết dịch để Bổn Tôn thi triển thần thông cổ thần, chuẩn bị rời Chu Tước Tinh đi Thiên Vận Tinh bái sư tu tới Vấn Đỉnh Kỳ. Vương Lâm phá trận pháp, đạp xuống mắt trận và hiện ra trong mê cung hang động dưới lòng đất, nơi tông chủ Lý Thanh Bình đang bế quan chờ thây ma chiếm thân để lên Hóa Thần. Bất ngờ, hư ảnh màn sương đen sau lưng Lý Thanh Bình — một nguyên thần Hóa Thần Trung Kỳ — nhận ra Vương Lâm, kinh hãi kêu \"Tiền bối\" và khai mình là đệ tử Di Lặc Tông Thiên Vận Tinh phải mua thân từ Thi Âm Tông; Vương Lâm lạnh lùng tra hỏi vì sao người Thiên Vận Tinh lại đến Chu Tước Tinh. @c0407"
-   },
-   {
-    "chuong": 408,
-    "tieuDe": "Tào Nhất Đấu",
-    "tomTat": "Vương Lâm tra hỏi hư ảnh ẩn trong thân Lý Thanh Bình ở Chu Tước Tinh, biết đó là Tào Nhất Đấu — một Hóa Thần tu sĩ vì không đủ tiên ngọc nên chọn nơi rẻ để đoạt xá điều dưỡng, dáng vẻ thành thực khiến hắn nhớ tới Hứa Lập Quốc năm xưa. Khi Lý Thanh Bình tỉnh dậy khiếp sợ đoán ra 'Anh Biến lão quái', Vương Lâm liền cách không bắt nguyên thần Tào Nhất Đấu và ra điều kiện làm nô bộc trăm năm để dẫn đường tới Thiên Vận Tinh, đổi lại một thân thể Anh Biến Kỳ cùng lời hứa 'ta không chết thì ngươi cũng không chết'. Tào Nhất Đấu bái chủ, Vương Lâm đánh Lý Thanh Bình hôn mê để giấu ý định rồi thu hắn vào cây hồn phiên vốn chế ra để thu Lý Nguyên Phong. Sau đó Vương Lâm trở lại nơi bế quan năm xưa, thân vào dễ dàng nơi từng phải dựa sương Thiên Nghịch Châu mới dò xét được. Hắn phá vỡ các tầng phòng ngự khí âm hàn từng chặn mình, mặc kệ tiếng 'Cứu ta' vọng vào linh hồn giống hệt thuở trước, tiến tới cỗ quan tài người khổng lồ. Cuối cùng hắn vào được hang động khổng lồ với đám sương trắng âm hàn nồng đậm và dải dây leo màu tím quay cuồng ẩn hiện trong đó @c0408."
-   },
-   {
-    "chuong": 409,
-    "tieuDe": "Cứu Ta",
-    "tomTat": "Vương Lâm thi triển pháp thuật bậc thấp \"Phong động\" nhưng ẩn chứa tiên lực, cuốn tan đám sương trắng âm hàn, lộ ra một thi thể đàn ông khổng lồ da xanh bị cây ký sinh xanh tím bao phủ và một pháp thuật thần kỳ giam cầm. Qua dấu ấn hình lưỡi búa giữa lông mày, hắn quả quyết đây là tổ tiên Cự Ma Tộc — kẻ năm xưa mang tộc từ tinh không vào Chu Tước Tinh và giết ba cửu diệp thuật chú sư Tiên Di Tộc — đồng thời lĩnh hội cách phân cấp thuật chú sư (bát diệp ≈ Anh Biến, cửu diệp ≈ Vấn Đỉnh Sơ). Khi Vương Lâm bước lên thân, cây ký sinh phun cành mang máu tấn công, hắn dùng lửa tiên lực buộc lui nhưng không dám hủy cây vì sợ phá vỡ sự giam cầm. Tiên kiếm đâm vào thân thể cứng rắn bị phản chấn đẩy lùi ba tấc, nên hắn bẻ cành cây ký sinh có chất lỏng ăn mòn làm vũ khí mới xâm nhập được cơ thể người khổng lồ. Hắn lấy bình ngọc hứng máu tươi, lạnh lùng cự tuyệt lời cầu cứu và lời hứa trọng bảo của tổ tiên Cự Ma Tộc vì biết thả ra sẽ chuốc họa truy sát. Cuối cùng Vương Lâm lấy cấm phiên lâu nay chưa dùng ra, định dùng để xử lý đám cây ký sinh @c0409."
-   },
-   {
-    "chuong": 410,
-    "tieuDe": "Lôi Cát",
-    "tomTat": "Vương Lâm thúc cấm phiên hô 'Phong', hóa cấm khí thành lưới hắc quang phong ấn cái cây xanh tím trên ngực người khổng lồ, rồi dùng cành cây điểm vào cổ tạo ấn chú lấy máu tươi cùng sức sống vào bình ngọc với tốc độ nhanh hơn trước. Người khổng lồ tự xưng là Vạn Phu Hậu Cự Ma Tộc tên Lôi Cát, cầu được cứu, hứa làm vật cưỡi suốt đời và dâng trọng bảo Khai Thiên Chi Thiết cùng dịch thể cốt tủy, lại kể lể bị Thi Âm Tông phong ấn sau khi trọng thương dưới tay hai thập diệp thuật chú sư Tiên Di Tộc. Thấy Lôi Cát trả lời quá tỉ mỉ, giọng cố tỏ bình thường, Vương Lâm nhận ra hắn đang câu giờ nên thúc tiên lực ép máu chảy nhanh, gỡ phong ấn thu về cấm phiên rồi từ chối mọi lời dụ dỗ, quyết giữ Lôi Cát làm nguồn máu lâu dài và hóa khói rời đi. Sau khi hắn đi, Lôi Cát gào rít tiếc nuối vì chỉ thiếu nửa nén hương để máu cạn dưới một phần ba — khi ấy có thể đẩy đám cây ra mà nguyên thần xuất khiếu. Cái cây xanh tím đầy răng sắc chui ra từ xương sống, lan bọc gần một phần ba thân mình thành những đóa hoa tím hút máu sinh trưởng, còn Lôi Cát thề một ngày thoát ra sẽ không tha Thi Âm Tông @c0410."
-   },
-   {
-    "chuong": 411,
-    "tieuDe": "Bất Đồng",
-    "tomTat": "Vương Lâm hiện thân tại Thi Âm Tông, dùng một hồn phách âm khí thả ra từ trước để dò xét hang động chỗ người khổng lồ — nơi có sức mạnh kỳ dị hạn chế thần thức; sau khi điểm vào hồn phách nhận tin, hắn cười lạnh rồi rời đi. Trên bình nguyên phía trên tông môn, Tư Đồ Nam đoạt xá thành công, hiện thân đồng tử áo đỏ độc ác, lại nuốt tứ tổ để đẩy nhanh dung hợp nên bản lãnh đạt Vấn Đỉnh Kỳ, rồi rủ Vương Lâm tới Phong Loan Tinh hưởng lạc nhưng bị từ chối. Tư Đồ Nam kể trọn lịch sử tu tiên hưởng lạc của mình: chu kỳ hưởng thụ rồi bị truy đuổi qua các cảnh giới từ Trúc Cơ, Kết Đan, Nguyên Anh, Hóa Thần đến Anh Biến, cùng quan hệ với Diệp Vô Ưu — người cứu hắn và rủ hắn lập nên Chu Tước quốc từ cấp bốn lên cấp sáu. Trong đại chiến với Tiên Di Tộc, Diệp Vô Ưu cùng vài lão bằng hữu hi sinh phong ấn địch nhân, trước khi chết ép Tư Đồ Nam làm đệ nhị Chu Tước Tử; còn hắn bị phá nát thân thể, trốn trong Thiên Nghịch Châu cho tới khi gặp Vương Lâm. Khi Tư Đồ Nam cho rằng cả hai đều tu tiên để hưởng thụ, Vương Lâm bình thản đáp 'Ta không giống như ngươi', khẳng định mình theo đuổi bản chất và đỉnh điểm tu luyện, muốn hiểu rõ thiên đạo chân tình. Tư Đồ Nam lần đầu nhận ra ở Vương Lâm một vẻ kiêu ngạo xa lạ mà hắn chỉ từng thấy ở đệ nhất Chu Tước Tử Diệp Vô Ưu. @c0411"
-   },
-   {
-    "chuong": 412,
-    "tieuDe": "Trên Vấn Đỉnh",
-    "tomTat": "Chương mở đầu bằng hồi tưởng của Tư Đồ Nam về Diệp Vô Ưu — đệ nhất Chu Tước Tử có ân với hắn, người đã nâng Chu Tước Tinh từ tu chân quốc cấp bốn lên cấp sáu — và việc hắn thấy ở Vương Lâm dáng vẻ giống Diệp Vô Ưu khi xưa. Tư Đồ Nam nói rõ vùng Tu Tinh Chi Tinh chỉ Anh Biến tu sĩ mới vào được nên hắn không thể trợ giúp Vương Lâm rút mệnh hồn, song trấn an nếu thất bại vẫn có cách lấy lại. Hai người tạm biệt rồi cùng hóa cầu vồng bay đi, Tư Đồ Nam hẹn đến Phong Loan Tinh hưởng chức thân vương. Trên đường, hắn giảng giải cho Vương Lâm về cảnh giới sau Vấn Đỉnh: Vấn Đỉnh vừa là đỉnh vừa là ngưỡng khó vượt, đột phá thì tuổi thọ kéo dài gấp bội, còn không thì khó thoát thiên địa luân hồi. Hắn tiết lộ sau Vấn Đỉnh là Toái Niết Tam Cảnh (Khuy Niết, Tịnh Niết, Toái Niết), từ Vấn Đỉnh lên Khuy Niết phải qua hai cửa ải âm dương nhị ý, và giải thích Chu Tước Tử là danh hiệu do tu chân liên minh phong, nắm thần thông Chu Tước Ấn cùng pháp quyết Chu Tước Quyết truyền thừa. Cuối chương, Vương Lâm đưa thanh tiên kiếm cho Tư Đồ Nam kiểm tra; trong tay hắn kiếm phát kiếm quang ngập trời mạnh hơn gấp vô số lần, ngầm xác nhận đó là bảo vật cấp Toái Niết phi thường. @c0412"
-   },
-   {
-    "chuong": 413,
-    "tieuDe": "Sự Điên Cuồng Của Chu Tước Tử",
-    "tomTat": "Tư Đồ Nam tùy hứng vung tiên kiếm xé toạc bầu trời thành khe nứt không gian phun gió lạnh hóa băng, qua đó luận với Vương Lâm rằng đây là tiên bảo bậc trung — một trong bốn thanh, hợp nhất sẽ thành tiên bảo bậc cao cực hiếm; lão còn thẩm định Khu Thú Quyển hóa Xạ Thần Xa là tiên bảo cấp thấp gần trung giai chế từ linh hồn tiên thú, mà Vương Lâm có tới ba cái. Chuyển cảnh, năm Tổ Tiên Di Tộc lần lượt vây Chu Tước Tử, trong khi Tu Tinh Chi Tinh giáng cơn đau đớn linh hồn lên toàn Chu Tước Tinh khiến Chu Tước Tử chợt hiểu ra đây là cạm bẫy hủy diệt của Liên Minh Tu Chân. Hắn cười lớn, vỗ tay mở Chu Tước Sơn nứt làm hai để lộ Chu Tước mộ, ra ván cờ sinh tử buộc Vân Tước Tử phải giành Tu Tinh Chi Tinh trước khi tinh cầu sụp đổ, không thì cùng chết. Kiền Phong, Liễu Mi, Thiếu tộc trưởng cùng tộc nhân Tiên Di Tộc và Chu Vũ Thái, Tử Tâm tranh nhau vào mộ lượt đầu, nhưng số người được vào bị hạn chế. Ngày thứ tư Vương Lâm cùng Tư Đồ Nam tới Chu Tước Sơn thì Chu Tước Tử và Vân Tước Tử đã biến mất, mười sáu tu sĩ Anh Biến giữ cửa chờ chỗ trống; nghe Tư Đồ Nam kể, Vương Lâm nhận ra Chu Tước mộ nguy hiểm hơn tưởng tượng gấp nhiều lần. @c0413"
-   },
-   {
-    "chuong": 414,
-    "tieuDe": "Người Này Là Ai?",
-    "tomTat": "Vương Lâm nhẩm tính điều kiện rời Chu Tước mộ: cần ngọc giản Tư Đồ Nam đưa để rời đi và phải giành được Tu Tinh Chi Tinh mới rút được mệnh hồn, nếu không sẽ phải dùng biện pháp khác khiến linh hồn tàn khuyết. Khi hắn tiến vào Chu Tước Sơn, đám tu sĩ biến sắc nhường đường; tôn giả Man Hoang Nam Minh — lão già áo bào đen đang tôi luyện thân thể để đột phá Anh Biến — nhận ra thực lực hắn liền quát đệ tử kiêu ngạo câm miệng rồi cung kính bái kiến tiền bối. Vương Lâm được công nhận tư cách, gia nhập nhóm mười sáu tu sĩ được vào Chu Tước mộ nhanh nhất, đồng thời hé lộ cảnh giới Vấn Đinh nằm trên Anh Biến hậu kỳ. Một người đàn ông trung niên bí ẩn mang theo tiểu hầu bỗng gọi đích danh 'Tằng Ngưu', nhắc lại chiến tích giết Lý Nguyên Phong và toái diệt Cự Ma Tộc lão tổ, song Vương Lâm lạnh nhạt từ chối trò chuyện. Người này bóp con khỉ nhỏ khiến nó kêu gào mắt hóa đỏ, đúng lúc thông đạo Chu Tước mộ lóe ô quang mở ra, rồi quay đầu cười quỷ dị thầm nghĩ mình biết rõ Vương Lâm dù hắn không nhận ra. Đoàn tu sĩ ùa vào thông đạo, một tu sĩ Anh Biến sơ kỳ bị bắn ngược ra ngoài phẫn nộ quay về ngồi nắm chặt nắm đấm, còn Vương Lâm cũng phóng vào theo @c0414."
-   },
-   {
-    "chuong": 415,
-    "tieuDe": "Linh Hồn Trên Vùng Đất Khô Cằn",
-    "tomTat": "Vương Lâm theo cánh cửa trên Chu Tước Sơn tiến vào Chu Tước Mộ, hiện thân giữa một vùng đất khô cằn mấy vạn dặm bốc khói đen, nhận ra nơi đây lớn hơn nhiều so với lời Tư Đồ Nam từng kể và không tìm thấy tế đàn dẫn vào trong. Khi sờ đất, hắn phát hiện linh lực thuộc tính hỏa sinh ra tự nhiên, vừa rời đi thì một đôi mắt thanh quang kỳ dị nổi lên nhìn theo. Tới biên giới vùng đất, hắn đối đầu một ngọn lửa xanh hút khói đen vạn dặm, chém kiếm mang hình vầng trăng phá khiên và rạch vết trên ngọn lửa. Ngọn lửa hóa thành đứa trẻ tám chín tuổi mắt đen kịt đòi giữ hắn ở lại, mà Vương Lâm nhận ra đây là hỏa linh khó giết, tồn tại vĩnh viễn cùng mảnh đất. Hắn quát đuổi rồi dùng thuật dịch chuyển né bức tường đất trăm trượng, thoát ra ngoài mấy vạn dặm. Đứa trẻ phóng hắc khí như giao long khiến cả vùng đất khô cằn chuyển động lao thẳng truy đuổi với tốc độ kinh người. Vương Lâm quay đầu, hút tiên lực từ tiên ngọc rót vào tiên kiếm cho phát ánh sáng tím chói rồi chém thẳng xuống bên dưới @c0415."
-   },
-   {
-    "chuong": 416,
-    "tieuDe": "Mộ Dung Vân",
-    "tomTat": "Vương Lâm dùng tiên kiếm chứa tiên lực chém vỡ con đường mảnh đất khô cằn dài mấy vạn dặm, làm lộ ra một linh thể đứa bé cùng tiếng cười kỳ dị. Hắn dung thần thức vào tiên lực hóa thành tiên thức, phá cấm cố trên khối đất và tách được một mệnh hồn lửa xanh, nhận ra mỗi viên đất là một mệnh hồn phàm nhân và đứa bé là do nhiều mệnh hồn dung nhập thành. Nhớ lời Tư Đồ Nam về mệnh hồn nằm trong Tu Tinh Chi Tinh, hắn ngờ mệnh hồn của chính mình cũng ẩn trong một sinh vật như vậy. Hắn bay sâu vào Chu Tước mộ ba ngày, nơi linh lực đậm đặc vượt cả Tụ Linh Trận môn phái, nhưng không tìm được giới hạn lẫn một tu sĩ nào. Sau đó hắn gặp Mộ Dung Vân (Hóa Thần trung kỳ) cùng một cô gái mặt rỗ áo trắng, liền giấu tu vi giả làm Hóa Thần sơ kỳ và xưng danh cũ Thanh Mộc. Mộ Dung Vân mời đồng hành để tăng cơ hội thu mệnh hồn, tiết lộ Kiền Phong cùng các bát diệp Thuật Chú Sư Tiên Di Tộc đã vào sâu qua một tế đàn hẻo lánh đầy nguy hiểm. Chú ý tới đồ án tông phái và vệt máu đen trên áo đối phương, Vương Lâm cảnh giác rồi cười châm chọc rằng vận khí của Mộ Dung Vân quả không tồi @c0416."
-   },
-   {
-    "chuong": 417,
-    "tieuDe": "Tế Đàn",
-    "tomTat": "Mộ Dung Vân cảnh báo Vương Lâm rằng nơi sắp tới có một người rất mạnh, cần thận trọng mới tiến vào được. Trên đường, cả nhóm chạm trán Mặc Vân Hải — một tu sĩ Anh Biến sơ kỳ trong nhóm mười sáu người ngoài Chu Tước Sơn — đang bị một tia chớp giao long trắng quỷ dị truy đuổi, và Mộ Dung Vân chỉ bằng một ánh mắt bình thản đã khiến tia chớp run rẩy bỏ chạy. Mặc Vân Hải ngộ nhận Vương Lâm là Tằng đạo hữu, sau đó cùng giao kèo: Mộ Dung Vân dẫn đường tới Tế Đàn để đổi lấy việc được vào trong, Vương Lâm và Mặc Vân Hải liên thủ bảo mệnh hắn. Bay toàn lực ba ngày, cả bọn tới dãy núi sương đen, nơi Vương Lâm âm thầm phun hắc mang và thả một vật để dò xét kín đáo. Trên đỉnh núi phía Tây hiện ra Tế Đàn đen hình tháp cao trăm trượng, nhưng Vương Lâm cảnh giác khi nhận ra vị trí khác hẳn lời Tư Đồ Nam từng kể (lẽ ra ở trong thung lũng). Mặc Vân Hải bất ngờ dùng Sưu hồn thuật moi hồn giết chết Mộ Dung Vân để xác nhận lời hắn không giả, rồi tự lao lên đỉnh Tế Đàn dò đường, nhờ Vương Lâm hộ pháp và cúi nhìn chỗ lõm phun hắc khí với sắc mặt cổ quái. @c0417"
-   },
-   {
-    "chuong": 418,
-    "tieuDe": "Xinh Không Thể Tả Được!",
-    "tomTat": "Vương Lâm cách không đánh một đạo linh quyết vào mi tâm Mộ Dung Vân, vạch trần hắn thực chất là Linh vật do mệnh hồn biến thành giả dạng tu sĩ để cản người đến Tu Tinh Tinh, dựa vào ba dấu hiệu lộ tẩy về túi trữ vật, y phục lỗi thời và đồ án đặc biệt. Dùng Thập Ức Tôn Hồn Phiên khắc chế cùng cấm chế của Cấm Phiên, hắn ngưng kết Mộ Dung Vân thành khối cầu đen rồi phong ấn vĩnh cửu dưới hố hình chữ thập, ép đối phương khai ra bí mật. Mộ Dung Vân thú nhận chỉ \"Vương\" — Linh vật đầu tiên sinh ra trong Mộ địa, ngụ ở thâm cốc chín ngọn núi sương trắng hướng Đông — mới tùy ý rút được mệnh hồn từ Tu Tinh Tinh, qua đó hé lộ mục đích thật của Vương Lâm là thu hồi mệnh hồn của chính mình. Xen vào là tuyến phụ Kiền Phong, người đầu tiên tiến vào Chu Tước Mộ, đang phá hủy từng Linh vật đến cái thứ sáu mươi chín để chờ gặp mệnh hồn của mình và chứng kiến một tu sĩ Anh Biến chết ngay sau khi giết nhầm mệnh hồn liên đới chủ nhân. Rời đi, Vương Lâm đến thung lũng có Tế Đàn giống hệt trên đỉnh núi thì tái ngộ Liễu Mi xinh đẹp tuyệt trần đang ngồi chặn đường. Liễu Mi tiết lộ nàng tu Thiên huyễn vô tình đạo, cho rằng ý cảnh sinh tử luân hồi của Vương Lâm cũng là vô tình chi đạo nên hai người là cùng một loại, muốn mượn ý cảnh của hắn để viên mãn dù sư phụ Chu Tước Tử sắp tử vong ngăn cản. Khi Vương Lâm rút kiếm tiên thi triển Nhất kiếm trùng thiên, Liễu Mi triệu hư ảnh Khổng Tước dùng lông chim đỡ kiếm, còn hắn hóa Cấm Phiên thành trường thương đen lóe chớp tím tràn ngập hồng hoang khí, chuẩn bị toàn lực khai chiến. @c0418"
-   },
-   {
-    "chuong": 420,
-    "tieuDe": "Một Huyễn Cuối Cùng",
-    "tomTat": "Liễu Mi qua Khổng Tước/Hoạ trục sinh tử luân hồi tuyên bố đã tu được chín trăm chín mươi chín \"huyễn\", chỉ thiếu một \"huyễn\" cuối để thành Thiên huyễn, đồng thời vạch ra sơ hở trong ý cảnh sinh tử của Vương Lâm là miệng nói sống chết nhưng lòng chưa thật sự đạt được. Vương Lâm lạnh lùng tung sát chiêu giấu kín: thả đám sương đỏ tia ý cảnh Mị Cơ chí âm chí dâm từ túi trữ vật vào Hoạ trục, dùng dâm dục bài trừ vô tình đạo của Liễu Mi. Mị Cơ ngưng thật thành nữ tử lõa thể yêu dị, hoá bụi phấn chui vào hai mắt Khổng Tước khiến nó sụp đổ, buộc Liễu Mi lộ thân ngồi trên Tế Đàn. Bất kể Mị Cơ có nuốt được Liễu Mi hay không, Vương Lâm tiến lên vào Tế Đàn để truyền tống tới Chu Tước Mộ, tính tìm mộ Chu Tước Tử hoặc Linh vật chi Vương thu lại mệnh hồn rồi rời đi, trong lòng lo Thác Lâm sắp thoát ly trói buộc Cổ Thần. Ở Chu Tước đại lục, Nhất tổ, Tam tổ, Vân Tiên Tử cùng hai mươi Diệp tổ linh Tiên Di Tộc hiến tế đầu lâu Hư tổ chứa thần lực để đưa một người vào Chu Tước Mộ. Đúng lúc bàn ai sẽ đi, Tam tổ biến sắc khi cảm nhận tia ý cảnh năm xưa của chính mình — Mị Cơ — đang đoạt xá nơi Chu Tước Mộ, hừ lạnh quyết không để nó như ý. @c0420"
-   },
-   {
-    "chuong": 422,
-    "tieuDe": "Mệnh Hồn Của Lý Mộ Uyển",
-    "tomTat": "Vương Lâm tiến sâu vào Chu Tước Mộ, nhắm thẳng linh sơn trung tâm nơi lưu giữ Chu Tước Ấn và thi thể một đời Chu Tước Tử, vì biết thời gian tìm phương pháp bảo mệnh của Tư Đồ Nam không còn nhiều. Chương hé lộ cơ chế Tu Tinh Tinh và mệnh hồn: chỉ tu sĩ Vấn Đỉnh kỳ qua Vấn Đỉnh Triêu Văn đạo cùng cảm ngộ Tịch Tử Hĩ mới có cơ may rút mệnh hồn, song Tu Tinh Tinh đã bị Tư Đồ Nam phong ấn khiến cả Tiên Di Tộc trên Chu Tước tinh đều bất lực. Mạch truyện chuyển sang Thiên Vận tinh khổng lồ và Thiên Vận Tông coi trọng vận duyên, nơi Thiên Vận Tử hồi tưởng năm xưa thu một kẻ Hóa Thần cảm ngộ luân hồi sinh tử, đi ngược dòng luân hồi căn nguyên làm trăm năm ký danh đệ tử, nay đoán kẻ đó sắp đến nhưng lo hắn chưa đạt Hóa Thần hậu kỳ. Trở lại Chu Tước Mộ, Vương Lâm thận trọng né các Linh vật mệnh hồn rồi đến khe hai núi cao chọc trời giữa lộ tuyến, nhận ra vách đá ẩm ướt là giả khi khoét lỗ mười thước thấy bên trong khô ráo. Hắn lui kịp khỏi đường nhỏ, lập tức hơn mười vạn giọt nước — mỗi giọt một mệnh hồn — ngưng tụ thành một nữ tử thủy mệnh hồn khí tức quỷ dị, lạnh lùng cảnh cáo cấm vào, buộc Vương Lâm chậm rãi lui ra tìm đường vòng. @c0422"
-   },
-   {
-    "chuong": 423,
-    "tieuDe": "Đoạt Hồn",
-    "tomTat": "Phát hiện trong thung lũng Chu Tước Mộ có thuỷ mệnh hồn lạ khiến tâm thần tương liên, Vương Lâm nhận ra đó chính là tiếng gọi yếu ớt của Lý Mộ Uyển trong Thiên Nghịch Châu nên không do dự xông vào. Hắn ném kiếm tiên phá vòng cản, phân nguyên thần thành vô số phong ấn từng giọt nước, rồi đối đầu Tiên Di Chi — lão già lưng còng năm xưa từng đuổi giết hắn nay căm phẫn quay lại. Vương Lâm xuất Thập Ức Tôn Hồn Phiên, thả Kỳ Lân tím vàng cùng đám Chủ Hồn Anh Biến kỳ đẩy lui lão, rồi dung hợp sáu Chủ Hồn vây giết nữ tử thuỷ mệnh hồn giống Uyển nhi, ép nàng hoá hơi nước để lộ mệnh hồn. Đúng lúc đó toàn bộ Tu Tinh Tinh động đất sụp đổ, vô số khe thứ nguyên nứt mở giết chết khôn xiết tu sĩ — tất cả do Chu Tước Tử cố ý. Giữa đại kiếp, Vương Lâm bắt được giọt nước trong suốt chứa mệnh hồn Lý Mộ Uyển, suýt mất mạng và mất một mảng góc áo, rồi đặt nó dung nhập Thiên Nghịch không gian. Tiên Di Chi mất nửa thân, nguyên thần chạy trốn cũng bị khe thứ nguyên cắn nuốt mà tan biến. Xa nơi ấy ở Toái Tinh Loạn thuộc Tu Ma Hải, một kẻ bí ẩn toàn thân tử khí với hư ảnh rừng xương đang đói khát đánh hơi hương vị thượng cổ tu sĩ, do dự có nên bước vào hay không. @c0423"
-   },
-   {
-    "chuong": 424,
-    "tieuDe": "Sứ Giả Của Thác Lâm",
-    "tomTat": "Phá Quân đạp tảng nước biển khổng lồ tới Chu Tước Tinh, gọi đích danh xua đuổi lão già tử khí Tham Lang, khiến hắn chán ghét nhường nơi này hóa vòng cung đen rời đi; Phá Quân thu tinh thể thâm lam rồi tiến vào Toái Tinh Loạn vì nghi nơi đây giấu dị bảo. Sâu trong Cổ Thần chi địa, trên thạch truỳ giữa biển máu, Thác Lâm — Cổ Thần tộc tóc đỏ mắt đỏ bị phong ấn — độc thoại về kế hoạch thoát khốn: dung hợp tinh thể ký ức truyền thừa cuối cùng, lợi dụng phong ấn rạn kẽ do Tu Chân Tinh trưởng thành mà thi triển Hoán Hồn Thuật để rời đi, đồng thời đòi Vương Lâm giữ ký ức truyền thừa của hắn. Hắn cảm tạ Đồ Ti và Cổ Thần Hiến tế, tự nhận đã âm thầm thúc tiểu bối Tiên Di Tộc từ Thập Nhất Diệp lên Thập Nhị Diệp để toàn tộc thoát phong ấn, mở ra Tu Chân tinh chi địa, rồi cười điên cuồng tuyên bố sẽ nuốt truyền thừa của Vương Lâm thành Bát tinh Cổ Thần. Hai con khỉ nhỏ mắt đỏ của Thác Lâm thao túng lão già Tham Lang trong Chu Tước Mộ, điều khiển hắn đổi hướng về trung tâm, né các khe thứ nguyên. Vương Lâm cau mày truy theo, hai ngày sau lạc vào vùng lòng chảo Kim mệnh hồn với mấy vạn hố trũng cắm trường kiếm, kiếm ý dày đặc. Từ những hiện tượng khác xa lời Tư Đồ Nam, hắn suy đoán Chu Tước Mộ chính là Tu Tinh Tinh và quyết tới trung tâm kiểm chứng bằng việc có hay không có Linh Sơn @c0424."
-   },
-   {
-    "chuong": 425,
-    "tieuDe": "Kỳ Bảo!",
-    "tomTat": "Thần thức Vương Lâm chấn động khi cảm nhận tại hố trũng lớn nhất ở trung tâm có cỗ kiếm khí bá đạo quen thuộc tựa bảo vật Tiên giới, liền triệu hồi kiếm hồn Hứa Lập Quốc để khắc chế đám kiếm hồn canh giữ và mở đường vào trong. Hắn ép Hứa Lập Quốc nhát gan xông vào trung tâm, bức một thanh loan nguyệt đao từ sương thâm lam bay ra, kinh ngạc nhận ra đao hồn này chỉ do MỘT mệnh hồn tạo thành — khác hẳn mọi Linh vật trong Chu Tước Mộ — lại khiến vô số kiếm hồn thần phục. Khi giao chiến, loan đao hoá thành đao khổng lồ mười trượng chém ra đao mang khai thiên tích địa, uy lực ngang một kích toàn lực Anh Biến hậu kỳ, buộc Vương Lâm bung Thập Ức Tôn Hồn Phiên hoá khói đen mà tháo chạy. Giữa đường hắn gặp lại Chu Vũ Thái và một nữ tử che khăn đen quen mặt, cả hai sợ hãi than xui xẻo bỏ chạy. Ra khỏi vùng hố trũng, loan đao thoát khỏi lực kỳ dị giam hãm nên tốc độ tăng vọt mấy chục lần, xẹt qua Chu Vũ Thái lao thẳng tới Vương Lâm. Hắn liên tục thuấn di hướng về Linh Sơn ánh sáng bảy màu mà Tư Đồ Nam từng nhắc, song vẫn bị đao mang làm thương cánh tay trái rồi chân phải, thầm đánh giá loan đao là pháp bảo cực phẩm có thể khiến mình đầu rơi nếu trúng thêm một kích. @c0425"
-   },
-   {
-    "chuong": 426,
-    "tieuDe": "Hồng Điệp",
-    "tomTat": "Vương Lâm tiếp tục giao tranh với thanh loan đao do một mệnh hồn cường đại cấu thành, tốc độ càng lúc càng nhanh khiến hắn hiểu vì sao Chu Tước Tử e dè hồn phách thứ tư; quyết đoạt mệnh hồn, hắn xuất kiếm tiên đánh văng Hứa Lập Quốc ra ngoài và bị loan đao lập tức cuốn đi, song nhờ tâm linh tương thông nên giữ Hứa Lập Quốc làm căn cứ truy tìm sau này. Nhắm tới Linh Sơn, Vương Lâm gặp lại Hồng Điệp — cố đối thủ từng là đại thiên kiêu Tuyết Vực quốc trăm năm Hoá Thần — nay tiều tụy với đôi mắt trống rỗng vì bị Kiền Phong khống chế. Kiền Phong (Anh Biến trung kỳ) xúi Hồng Điệp giết hắn rồi hoá bóng đen lao về Linh Sơn tìm mệnh hồn, hẹn tái kiến. Hồng Điệp khai chiến bằng trường kiếm đỏ bị Cấm Phiên chặn lại, thoáng hé lộ một tia thần trí thốt yếu ớt 'Giết… ta…' rồi lại chỉ còn chiến ý. Vương Lâm do dự nhưng vẫn dùng Cấm Phiên ngưng tụ trường thương ba trượng toả hắc khí đâm một thương gào rít vang xa; Hồng Điệp đâm khối băng đỏ vào mi tâm, hồng quang loé biến thành bộ giáp đỏ toả hàn khí, hiện như một chiến tiên với cây roi đen trong tay. @c0426"
-   },
-   {
-    "chuong": 427,
-    "tieuDe": "Đỏ Bừng",
-    "tomTat": "Bị khống chế, Hồng Điệp dùng cây roi Côn Cực Tiên do Kiền Phong trao để tấn công Vương Lâm; roi hoá giao long đen va với trường thương gây khí lãng kinh thiên, có lúc đẩy Vương Lâm lui trăm trượng khiến hắn quyết chí đoạt bằng được cây roi từng lỡ tay. Áo giáp đỏ của Hồng Điệp phát khí tức cực hàn ngưng kết hư không thành băng điêu, song nàng vẫn lộ vẻ đấu tranh thống khổ, cầu Vương Lâm giết mình. Vì kiếm tiên đã mất kiếm hồn và không muốn dùng Tôn Hồn Phiên, Vương Lâm rút chiến phủ Cự Ma Tộc do Lão tổ triệu hoán trước khi chết, ngưng tụ một cỗ chiến ý chưa từng có. Tia thần thức thật của Hồng Điệp hiện trong đoá hoa hồng, kiêu ngạo gọi 'Tằng Ngưu, ra tay đi… Giết ta', nói sinh mạng mất thần trí lưu lại vô dụng. Cách ngàn dặm, Chu Vũ Thái cung kính theo Vân Tước Tử vào đám mây đỏ lao về Linh Sơn, bỏ mặc Tử Tâm đã rời đi. Vân Tước Tử được Tiên Di Tộc đưa vào Chu Tước Mộ nhờ phù văn đầu lâu Hư Tổ nhưng bị hạn thời gian, nên vội vã tới trung tâm — nơi một lão già mắt huyết quang kèm khỉ nhỏ đã chiếm chỗ, ngồi thổ nạp trước cái cửa khổng lồ có khe nứt như vết sẹo. Vương Lâm than 'Thiên chi kiêu nữ, kết quả cuối cùng lại rơi xuống như thế này, thật đáng buồn', nhìn ra hư ảnh ẩn chứa nỗi thương tâm sâu sắc. @c0427"
-   },
-   {
-    "chuong": 428,
-    "tieuDe": "Như Điệp",
-    "tomTat": "Vương Lâm vung chiến phủ nhảy lên không bổ xuống Hồng Điệp một búa huỷ thiên diệt địa, còn nàng dù đủ thực lực vẫn chọn không chống cự cũng không né tránh, chỉ thu thần thức về mi tâm rồi mỉm cười kiêu hãnh hồi tưởng sư phụ cùng hai thân ảnh nam thuở xưa. Trước khi thân thể nứt vỡ hoá sương máu, nàng để lại lời trối nhờ Vương Lâm giết Kiền Phong, hứa sang năm sẽ có một đoá hoa hồng xanh lam nở ở cực bắc Chu Tước Tinh làm lễ vật, cùng tiếng vọng \"Đỏ bừng như điệp\". Hồng Điệp còn lưu lại ngọc giản ghi chép cảm ngộ ý cảnh vô hạn dục vọng cắn nuốt của Kiền Phong và một chiếc Côn Cực Tiên. Vương Lâm thu chiến phủ vào túi trữ vật, dùng trảo cách không lấy Côn Cực Tiên nhưng trên đó còn thần niệm cao thủ Vấn Đỉnh kỳ, phải ngưng hoá Vấn Đỉnh Chủ hồn của Thập Ức Tôn Hồn Phiên mới đoạt được hẳn, rồi bay về Linh Sơn. Tại đây, Vân Tước Tử cùng Chu Vũ Thái hạ xuống bằng cơn lốc đỏ, phát hiện một lão già đoạt xá với con khỉ trên vai vốn chỉ là rối; sau khi bị truy hỏi, lão xưng danh Mạc Lực Hải rồi nhắm mắt, ánh mắt bắn ra hung mang. @c0428"
-   },
-   {
-    "chuong": 429,
-    "tieuDe": "Tề Tụ",
-    "tomTat": "Trên đỉnh Linh Sơn trong Chu Tước Mộ, Vân Tước Tử với tu vi Vấn Đỉnh nghi lão già mang khỉ nhỏ không phải người Chu Tước Tinh, đồng thời quan sát cánh cửa lớn giữa hư không — thông đạo duy nhất vào Mộ của một đời Chu Tước Tử, cần Tu chân tâm và độ vỡ nhất định mới mở. Các cường giả lục tục tề tụ: Kiền Phong, hai Bát Diệp thuật chú sư Tiên Di Tộc, tu sĩ áo xanh đeo mặt nạ ngăn thần thức. Chu Tước Mộ trải qua lần sụp đổ thứ hai kéo dài ba mươi tức, nuốt chết ba đạo vòng cung phá không và biến thông đạo thành cạm bẫy khe thứ nguyên không ai dám bước vào, khiến Vân Tước Tử thử ấn cửa nhưng thất bại. Tử Tâm che khăn đen dẫn bốn lão Hóa Thần đầy thương tích lên đỉnh nhờ Phù lỗi, chạm mặt Kiền Phong với hận ý cuồn cuộn lẫn thống khổ. Vương Lâm chật vật rách rưới lên đỉnh sau khi suýt táng thân dưới khe thứ nguyên, lần đầu hội ngộ Vân Tước Tử sau biệt ly và được ba người gọi bằng ba danh xưng khác nhau. Hắn ôm quyền tham kiến rồi vỗ túi trữ vật, thả từng đạo ô quang hóa thành đám tượng gỗ điêu khắc dâng cho Vân Tước Tử. @c0429"
-   },
-   {
-    "chuong": 430,
-    "tieuDe": "Người Lòng Dạ Sắt Đá",
-    "tomTat": "Vương Lâm báo với Vân Tước Tử rằng lời tiền bối dặn năm xưa hắn đã hoàn thành trọn vẹn, rồi khoanh chân ngồi xuống trong khi Vân Tước Tử làm đám tượng gỗ biến mất và dõi nhìn cánh cửa lớn trong hư không. Hắn đã từ bỏ ý định đoạt Tu Tinh tinh vì không nỡ hy sinh toàn bộ sinh mệnh Chu Tước Tinh, chỉ muốn thu hồi mệnh hồn, song với kẻ thù thì vẫn tàn nhẫn như từng tuyệt diệt Đằng gia. Trên đỉnh Linh Sơn, hắn đối chọi ánh mắt với Kiền Phong rồi chú ý tới một lão già lưu nụ cười quỷ dị trên lối vào Chu Tước Sơn, kẻ khiến hắn cảm thấy bị uy hiếp và quen thuộc lạ thường. Liễu Mi đáp xuống tiến lại khích đạo tâm bằng cách nhắc tên Lý Mộ Uyển — vảy ngược của hắn — khiến Vương Lâm nổi sát khí doạ giết, suýt xuất Tôn Hồn Phiên, buộc nàng mỉm cười rời đi về phía Kiền Phong. Nhờ cảm ứng huyền diệu của Anh Biến tu sĩ, hắn xác định lão già chính là Thác Lâm, ma niệm sinh từ Cổ Thần Đồ Ti mà năm xưa hắn từng trêu chọc khi mới Kết Đan. Chương cũng hé lộ cơ chế truyền thừa Đồ Ti chia làm ký ức và lực lượng: Vương Lâm nắm ký ức đạt tam tinh Cổ Thần còn Thác Lâm giữ lực lượng bát tinh nhưng chỉ phát huy được tới năm tinh, nên hắn khao khát đoạt ký ức để chân chính thành bát tinh. @c0430"
-   },
-   {
-    "chuong": 431,
-    "tieuDe": "Kim Giáp Đại Hán",
-    "tomTat": "Vương Lâm xác định Thác Lâm thực chất là một tia ma niệm của Đồ Ti sinh ra khi phân thần thất bại nên quyết đoạt lấy, đồng thời nhận ra con khỉ nhỏ trên vai lão già âm trầm mang khí tức huyết tu sĩ biển máu, chua xót nhớ tới Lục Dục Ma quân, Mạnh Đà Tử, Cổ Đế đã chết hoặc hoá huyết tu. Chu Tước Mộ sụp đổ lần thứ ba phạm vi lớn, linh vật mệnh hồn tử vong gây phản ứng dây chuyền khiến Chu Tước Tinh dần thành tử địa, còn Chu Tước Tử ngồi trong Chu Tước Sơn cười điên cuồng chờ 'đệ tử ngoan' dùng bảo bối hắn trao. Để phá cánh cửa lớn giữa không trung trên Linh Sơn, Vân Tước Tử dùng phù văn từ mũ rơm còn lão già âm trầm thi triển Lục Dục Thiên Ma quyết ép hai người Tiên Di Tộc tự bạo, cuối cùng Vân Tước Tử ấn quyết xuyên thủng cửa. Đoàn người lần lượt nhảy vào kim sắc thế giới, Vương Lâm là người thứ tư tiến qua khe cửa. Trong cung điện giữa không trung, Kim Giáp Đại Hán xuất hiện dâng cả biển vàng nuốt đảo và chém trăm đạo kiếm khí đánh lui Vân Tước Tử khiến hắn hoá lưu tinh trốn xuống đáy biển. Khi Đại Hán quay sang chém con khỉ nhỏ, hồng quang trong mắt khỉ tràn hơn ba thước với khí thế độc ác làm thân hắn chấn động kiếm chậm lại, rồi con khỉ lùi về theo lão già âm trầm trầm xuống lòng biển. @c0431"
-   },
-   {
-    "chuong": 432,
-    "tieuDe": "Sát Khí",
-    "tomTat": "Trước cung điện dưới lòng biển, Kim giáp đại hán khổng lồ canh giữ, vung cự kiếm chém kiếm quang trăm trượng làm cửa ải thử tư cách tu sĩ muốn tiến vào; Chu Vũ Thái và Tử Tâm lén đi đáy biển liền bị quét trúng văng ra, Chu Vũ Thái phun tiên huyết tái nhợt. Kiền Phong rủ Vương Lâm (dưới biệt danh \"Tằng Ngưu\") cùng Liễu Mi liên thủ, nhưng Vương Lâm cố ý đòi một mình hứng kiếm quang trước nhằm dụ Kiền Phong vào vòng mười trượng. Vốn thèm muốn Thập Ức Tôn Hồn Phiên, Kiền Phong đổi ý quyết giết Vương Lâm đoạt bảo, còn Liễu Mi vô tình cố ý đứng nhìn không cứu. Vương Lâm sớm đoán được phản trắc: hắn tế bảo tháp mang thần thức Chu Dật làm kiếm quang đình trệ rồi thoát ly, biến Kiền Phong thành kẻ gần kiếm mang nhất nên bị kiếm quang chuyển hướng giáng xuống, buộc phải xuất dùi đỏ chống đỡ. Tiếp đó Vương Lâm tự bạo toàn bộ tượng gỗ Tuế Nguyệt làm chậm Liễu Mi, dồn hai đạo kiếm quang hợp một cùng một đạo cấm khí đánh nàng rồi lao thẳng vào lòng biển không xem kết quả. Bị Kim giáp đại hán chém kiếm quang truy đuổi, Vương Lâm chịu đau đớn thiên linh cái, dùng rìu chiến và bảo tháp câu giờ, cuối cùng vượt năm mươi trượng vào trong cung điện, nuốt đan dược cùng tiên ngọc áp chế nội thương rồi tiến sâu vào trong. @c0432"
-   },
-   {
-    "chuong": 433,
-    "tieuDe": "Diệp Vô Ưu",
-    "tomTat": "Trên mặt biển, Liễu Mi phun sương trắng dùng dải ruy băng phá cấm chế thoát khỏi kiếm quang, còn Kiền Phong cũng chật vật né thoát do cơ chế thủ hộ chỉ cho người chống đỡ được một đạo kiếm quang mới được vào cung điện. Hai người sinh mâu thuẫn: Kiền Phong thề bằm Tằng Ngưu làm vạn đoạn, trách Liễu Mi câu kết với hắn rồi tiết lộ Lão gia hỏa từng cấp cho mình một vật đối kháng Thập Ức Tôn Hồn Phiên, định liều mạng đoạt mệnh hồn khi Vân Tước Tử ra ngoài. Trong thông đạo dưới đáy biển, Vương Lâm cẩn thận tiến sâu và thấy nơi tận cùng là tòa tháp cao đặt xác Diệp Vô Ưu — Chu Tước đời đầu tiên đã chết nhưng khí tức ngập trời vẫn khiến hắn suýt quỳ lễ bái, trước xác là đốm tử quang được cho là Tu Tinh Chi Tinh. Vương Lâm sinh nghi vì thần thức không cảm nhận được mệnh hồn bên trong dù bề ngoài giống lời Tư Đồ Nam mô tả. Vân Tước Tử giả bộ trọng thương như đèn hết dầu, viện cớ đã vây khốn lão già Âm Sâm để dụ Vương Lâm mang bảo vật tới Tiên Di Tộc. Vương Lâm lập tức lùi chạy, ngưng tụ Thập Ức Tôn Hồn Phiên rồi vạch trần đó là vật giả và rằng kẻ còn thuấn di được thì thương thế chẳng nặng như lời nói. @c0433"
-   },
-   {
-    "chuong": 434,
-    "tieuDe": "Cướp Đoạt",
-    "tomTat": "Vân Tước Tử cười tán thưởng tiết lộ vật trên tháp chỉ là 'tinh dẫn' mồi nhử chứ không phải Tu Tinh Chi Tinh thật, hứa đưa Vương Lâm tới tế đàn viễn tổ Tiên Di tộc để tăng một tầng tu vi nếu chịu ra tay thay. Vương Lâm bình tĩnh đòi ngọc giản ghi phương pháp dùng mũ rơm năm xưa làm vật đặt cọc rồi mới hóa cầu vồng bay lên tháp, nhưng khi tới trước Diệp Vô Ưu hắn phát hiện mình đứng cạnh tử quang mà không có bóng nên quyết lật kèo, kích Thập Ức Tôn Hồn Phiên thả hồn phách tấn công cái bóng phía sau ngai vàng thay vì chạm tinh dẫn. Cái bóng sụp đổ, một lão già âm trầm bị Thác Sâm đoạt xá cùng con khỉ nhỏ bước ra; Vân Tước Tử bày phù văn vàng Ảnh cấm vây hãm rồi nhắm vào con khỉ — chỗ giấu 'phân thức' thật. Bảo tháp rung chuyển nứt như rồng phá, ngai vàng tách đôi và thân Diệp Vô Ưu hóa tro, từ đó một kết tinh trắng nửa nắm tay với linh hồn dao động bên trong — Tu Tinh Chi Tinh thật — bay ra khiến mọi người ngừng tranh đấu. Vân Tước Tử cùng lão già và con khỉ lao vào cướp đoạt, riêng Vương Lâm cắn răng từ bỏ, dùng Hồn Phiên bao thân chạy về thông đạo. Lão già âm trầm ôm được tinh thạch liền biến sắc không buông tay được, cả thân hóa bụi khói chui vào trong, rồi một đạo hồng quang bay tới dung hợp với con khỉ nhỏ @c0434."
-   },
-   {
-    "chuong": 435,
-    "tieuDe": "Kế Thừa Chu Tước",
-    "tomTat": "Kết tinh Tu Tinh Chi Tinh có linh tính bỏ qua con khỉ nhỏ lẫn Vân Tước Tử, nhằm thẳng Vương Lâm truy đuổi vào thông đạo dưới lòng biển, kéo theo cuộc rượt bắt của Vân Tước Tử và tiểu hầu. Tinh thạch chui vào người Vương Lâm, tuôn ký ức Diệp Vô Ưu lĩnh Chu Tước Ấn tại Tiên Ấn Phủ, hồng quang bao phủ giúp hắn tăng tốc phi thường; nhưng khi thanh âm uy nghiêm hỏi có nguyện làm Chu Tước phong hào, Vương Lâm dứt khoát đáp \"Không muốn\" nên truyền thừa rút lui. Qua phù văn quỷ dị, hắn hiểu muốn thu hồi mệnh hồn phải lấy một mạng đổi một mạng hoặc chờ linh vật hấp thu rồi giết đoạt, đồng thời xác định vật này vô quan với Cực Cảnh. Vương Lâm ném tinh thạch về phía Kiền Phong và Liễu Mi, buộc Kiền Phong tế Đồng nhân; Đồng nhân hút tiên huyết cùng thọ nguyên Kiền Phong, ngưng hóa thành Chu Tước Tử hình hài hồng nhuận dung nhập tinh thạch rồi tản sương hồng bao vây đại chiến Vân Tước Tử. Bên ngoài lộ ra bí mật Chu Tước Tử nhiều đời mưu đoạt xá Kiền Phong để né luân hồi thiên đạo, song Đồng nhân vẫn còn sơ hở trí mạng. Vương Lâm chộp Thập Ức Tôn Hồn Phiên dung hợp sáu chủ hồn, vung chiến phủ đánh tan Chu Tước Trùy, ép Kiền Phong mở Chu Tước huyền trận quyết chiến. @c0435"
-   },
-   {
-    "chuong": 436,
-    "tieuDe": "Chiến Kiền Phong",
-    "tomTat": "Vương Lâm dùng Thập Ức Tôn Hồn Phiên phóng sáu chủ hồn vây đả Kiền Phong và Liễu Mi; Liễu Mi nhả dải áo tơ tằm thêu kim tuyến phá vây hóa luồng sáng trắng bỏ trốn, bị bốn chủ hồn có cả tàn hồn Kỳ Lân đuổi giết. Kiền Phong lần lượt dùng quạt đỏ khắc chế hồn phách, song bị bốn vỏ kiếm của Vương Lâm chém nát rồi nhờ Chu Tước huyền trận chặn được hai chủ hồn. Hắn tiếp tục thi triển khối gỗ xanh quỷ dị tự khắc thân ảnh, giam cầm và phóng đao ảnh suýt giết Vương Lâm, nhưng Vương Lâm cho một chủ hồn tự bạo phá vây né đòn. Vương Lâm tụ hồn phách thành vòng vây mười dặm, bốn vỏ kiếm hóa đen lao từ bốn hướng, tuyên bố giết Kiền Phong vì đã đáp ứng Hồng Điệp. Đường cùng, Kiền Phong lấy ra thanh thiết kiếm cũ của lão tổ Kiền gia do một đời Chu Tước Tử bí mật lưu lại; Vương Lâm nhận ra trên kiếm có máu Cổ Thần thật sự nên ngưng trọng nhận định vật này tuyệt không tầm thường. @c0436"
-   },
-   {
-    "chuong": 437,
-    "tieuDe": "Sát Khí Của Thác Sâm",
-    "tomTat": "Khi Kiền Phong lấy ra thiết kiếm bí mật của bộ tộc — bảo vật do Chu Tước đời trước giấu ở Kiền Gia để đối kháng Thập Ức Hồn Phiên — một hư ảnh đỏ chứa tiểu Hầu của Thác Sâm (Cửu Tinh tộc) xuyên qua vòng vây linh hồn, đánh Vương Lâm văng nghìn trượng trọng thương, phá Chu Tước Huyền Trận trên người Kiền Phong rồi đoạt lấy thiết kiếm. Thác Sâm rút giọt máu Cửu Tinh tộc dính trên kiếm, nuốt vào rồi biến mất vào đám mây đỏ nơi Chu Tước và Vân Tước giao chiến, định phối hợp Tu Tinh Chi Tinh để thoát vòng vây. Vương Lâm hóa hắc mang quấn linh hồn truy sát Kiền Phong, điểm tay lên mi tâm và dùng Tu Tinh Chi Tinh rút Mệnh Hồn theo cách lấy mạng đổi mạng; Mệnh Hồn Kiền Phong tan vỡ, hắn chết trước khi kịp hoàn thành tự bạo. Vương Lâm chụp được một trong bốn đạo Ngũ Hành Tứ Tinh mà Kiền Phong từng thôn phệ của Hồng Điệp cùng túi trữ vật của hắn. Quan sát từ xa, Tử Tâm tan hết hận ý, kết ấn triệu tu sĩ khôi lỗi hộ pháp và ngưng tụ một cổ khí tức cực giống Kiền Phong, trong khi Chu Vũ Thái độc thoại về bí mật Lô Đỉnh và việc giết Kiền Phong vô tình thành toàn cho Tử Tâm. Cuối chương, cả Vân Tước lẫn Chu Tước đều bị ném khỏi đám mây đỏ, người miệng chảy máu mắt đục ngàu, kẻ sắc mặt âm trầm tử khí nồng đậm trước khi mất sinh cơ @c0437."
-   },
-   {
-    "chuong": 438,
-    "tieuDe": "Sứ Giả Tu Chân Liên Minh",
-    "tomTat": "Phân thức hư ảnh đoạt máu Cổ Thần của Thác Sâm đuổi kịp Vương Lâm, phá vỡ lưỡi Chiến Phủ và định thôn phệ ký ức truyền thừa của hắn. Vương Lâm dung hợp toàn bộ hồn phách trong Thập Ức Tôn Hồn Phiên thành một linh hồn Vấn Đỉnh sơ kỳ để chạy trốn, nhưng bị vòng xoáy hấp lực 'Trở về!' kéo lại; trước cái chết cận kề, hắn kích Pháp quyết toái diệt cho tất cả linh hồn tự bạo, gây trọng thương Thác Sâm và rúng động cả Chu Tước tinh, đổi lấy việc Thập Ức Hồn Phiên bị hủy khiến tu vi rớt xuống Anh Biến sơ kỳ. Đúng lúc đó Sứ Giả Tu Chân Liên Minh đeo mặt nạ từ mặt biển phóng ra, dùng năm xích sắt Phong ấn cắt đứt phân thức Thác Sâm, thu hồi pha lê trắng và thiết kiếm Kiền Phong, rồi tha không truy cứu Chu Tước đã hết tuổi thọ. Sứ Giả tháo mặt nạ lộ thân phận chính là Mặc Trí — người năm xưa cùng Vương Lâm bàn đạo sinh tử ở Cổ Miếu — gọi hắn 'Đại Ngưu huynh', nhưng Vương Lâm từ chối làm Chu Tước với chí hướng 'không dừng ở Chu Tước'. Mặc Trí phân cho Tiên Di tộc một phần ba lãnh thổ đổi lấy xương sọ cửu diệp mỗi nghìn năm, phục hồi Chu Tước mộ và Chu Tước Ấn, rồi xét chọn người kế: Chu Vũ Thái bị loại do tu vi, Tử Tâm — vốn là Lô Đỉnh của Kiền Phong mà Vương Lâm đã giết — được cân nhắc và đe dọa giết hắn, nhưng chùn lại khi Vương Lâm ngụ ý 'nếu ta thành Chu Tước'. Trong khi đó thân thật Thác Sâm ở Huyết Hải Cổ Thần chi địa vẫn còn một giọt máu hồng, thề sẽ thoát ra và không tha Vương Lâm lần sau. @c0438"
-   },
-   {
-    "chuong": 439,
-    "tieuDe": "Bức Màn Chu Tước",
-    "tomTat": "Trong thân phận Tằng Ngưu, Vương Lâm từ chối làm Chu Tước mà nhường lại cho Chu Vũ Thái để báo ơn, khiến Sứ Giả Mặc Trí cho tinh thạch hình trái tim nhập mi tâm hắn, phong làm đệ thập ngũ Chu Tước rồi lệnh bế quan một năm cảm ngộ Chu Tước Ấn. Mặc Trí để lại ấn ký màu đỏ giúp đưa người ra khỏi Chu Tước mộ rồi đạp hư không phục mệnh Liên Minh Tu Chân, còn Vương Lâm thầm tính nhờ Chu Vũ Thái chăm sóc người thân để mình yên tâm rời đi. Hắn thu ba chủ hồn gồm Kỳ Lân tàn hồn vào Thập Ức Hồn Phiên vốn đã tổn thất nặng, quyết khi rời đi phải giết Liễu Mi vì nàng từng cùng Kiền Phong dồn hắn vào chỗ chết, đồng thời lập mục tiêu tìm Hứa Lập Quốc đoạt cây loan đao và hóa khói xanh bay đi. Một năm sau Chu Tước tinh chìm trong điêu tàn yên tĩnh: Tiên Di Tộc lui về tây bắc, các tông phái thu đồ ồ ạt, Chu Vũ Thái xuất quan với tu vi thấp liền bế quan trong Chu Tước Sơn. Liễu Mi nhờ đệ tứ hồn sư tôn ngầm cho mà sống sót, rời đi và thề chuyển từ Thiên Huyễn Vô Tình Đạo sang Vạn Huyễn Thiên Ma đạo để báo thù khiến Vương Lâm không nhận ra; Tử Tâm cũng lặng lẽ rời tinh. Chương khép lại ở căn lầu cũ của Lý Mộ Uyển tại Vân Thiên Tông, nơi một người áo trắng khí chất kỳ dị, mắt trẻ thơ ẩn vẻ sâu sắc đang nhìn ra cửa sổ. @c0439"
-   },
-   {
-    "chuong": 440,
-    "tieuDe": "Một Năm",
-    "tomTat": "Sau khi rời Chu Tước mộ, Vương Lâm về Triệu Quốc bế quan đúng một năm, lành hẳn thương thế và củng cố vững Anh Biến sơ kỳ; hắn khéo léo từ chối thiệp mời dự nghi lễ phong hào của Chu Vũ Thái, người đã phát lời thề bảo vệ tất cả những ai có quan hệ với hắn. Hứa Lập Quốc nương trong tiên kiếm đắc ý khoe đã thuần phục được loan đao 'Lão Tứ' tìm thấy ở Chu Tước mộ, rồi dẫn nó ra ngoài dạo chơi, trong khi Vương Lâm vẫn chưa điều khiển nổi thanh đao hợp từ mệnh hồn mạnh mẽ nào đó trên Chu Tước tinh. Tư Đồ Nam — nay đã nhập hoàng cung phàm nhân làm Tự Tình Kiên Vương — báo tin về manh mối Tang Viên thôn ngoài Phượng Hoàng thành của Sở Quốc và hẹn cùng rời đi. Nhìn Chu Như đã trưởng thành duyên dáng, tu tới Ngưng Khí kỳ tầng hai, Vương Lâm chạnh lòng nhớ tới Lý Mộ Uyển và day dứt vì đã tước đi tuổi thơ của nàng. Hắn quyết đưa Chu Như về nhà cha mẹ, dặn dò đạo hiếu rồi tuyên bố duyên phận hai người đã hết; đám mây tăng tốc bay đi giữa tiếng nức nở của Chu Như, còn Tiểu Bạch quyết dù hộc máu cũng phải đuổi kịp. @c0440"
-   },
-   {
-    "chuong": 442,
-    "tieuDe": "Luyện Bảo",
-    "tomTat": "Khi đóa hồng xanh đi theo Vương Lâm, các đóa hồng trắng trên những tầng băng đồng loạt tàn lụi tiêu tán vì mất ý nghĩa tồn tại. Tại tổ trạch Vương gia dưới chân Hằng Nhạc phái ở Triệu Quốc, Vương Lâm mặc bạch y lặng đứng ba ngày ba đêm trước dãy linh vị, dừng mắt ở hai linh vị cha mẹ, ký ức cuồn cuộn rồi quỳ dập đầu từ biệt. Bên ngoài từ đường, Vương Trác dẫn hơn trăm con cháu Vương gia quỳ tiễn; Vương Lâm dặn dò xong đạp một bước biến mất, Vương Trác hồi tưởng lần đầu gặp thiếu niên Vương Lâm bên Nhị thúc mà rơi l��, nhắc thoáng cái đã qua sáu trăm năm. Vương Lâm cưỡi Văn Thú đến cánh đồng hoang phía đông Chu Tước tinh, triệu Lôi Oa và Văn Thú rồi soát túi trữ vật chọn pháp bảo cần tế luyện. Hắn khoanh chân thổi khí Nguyên Thần bọc bốn vỏ kiếm ba ngày, thiết lập liên hệ chặt với nội tâm; sau đó dùng bảo tháp ẩn thần thức Chu Dật cùng Nguyên thần bảy ngày để xóa tia thần thức cũ trên Côn Cực Tiên và lưu dấu ấn của mình. Vương Lâm nhận ra trong Côn Cực Tiên có nhiều trận pháp giống mũ cỏ, sinh cấm chế và nâng hiệu quả Cấm Phiên một tầng, phục vụ mục tiêu tích đủ 9999 cấm chế. Hắn xác định Côn Cực Tiên là Tiên Bảo ngưng tụ tiên lực nhưng uy lực quỷ dị, không cần linh lực mà tự ẩn một lực lượng kỳ dị khiến nó càng thần bí trong mắt hắn."
+    "id": "thien-van-that-tu-nhom",
+    "name": "Thiên Vận Thất Tử",
+    "cn": "",
+    "type": "khac",
+    "typeLabel": "Nhóm đệ tử đứng đầu",
+    "diaBan": "Chu Tước Tinh",
+    "nhanVatChinh": [
+     "Vương Lâm",
+     "Triệu Tinh Sát",
+     "Tôn Vân"
+    ],
+    "blurb": "Bảy đệ tử đứng đầu Thiên Vận Tông; muốn tranh danh hiệu phải có bản lãnh đạt Anh Biến Trung Kỳ.",
+    "detail": "Nhóm bảy đệ tử đứng đầu Thiên Vận Tông trên Chu Tước Tinh. Muốn tranh được danh hiệu Thất Tử, bản lãnh phải đạt tới Anh Biến Trung Kỳ. Vương Lâm hiện là thất tử (thứ bảy), Triệu Tinh Sát là đại sư huynh, Tôn Vân từng gia nhập nhưng vẫn phải gọi Triệu Tinh Sát là đại sư huynh do thứ tự nhập môn.",
+    "nguon": [
+     "@c0457"
+    ]
    }
   ]
  }
