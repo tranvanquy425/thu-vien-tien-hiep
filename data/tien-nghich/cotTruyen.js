@@ -1,5 +1,5 @@
 /* cotTruyen TÁCH KHỎI data.js (giảm kích thước) — nạp NGAY SAU data.js. */
-/* sync-bump 2026-06-16T08:21:46.766Z build_datajs — tự sinh lại từ quyển */
+/* sync-bump 2026-06-16T08:49:23.961Z build_datajs — tự sinh lại từ quyển */
 window.LIB_DATA = window.LIB_DATA || {};
 window.LIB_DATA["tien-nghich"] = window.LIB_DATA["tien-nghich"] || {};
 window.LIB_DATA["tien-nghich"].cotTruyen = {
@@ -322,7 +322,7 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
   {
    "chuong": 457,
    "tieuDe": "Thiên Vận Thất Tử",
-   "tomTat": "Gần trưa, Vương Lâm mặc áo tím đi trên đỉnh Tử Tông Sơn, được đệ tử Tử Tông cung kính xưng thất sư tổ. Hắn dần hiểu Thiên Vận Tông kế thừa lối tu tiên thượng cổ, phân vai vế nghiêm khắc theo thứ tự nhập môn trước sau — lý giải vì sao Tôn Vân tuy đã thành Thất Tử vẫn phải gọi Triệu Tinh Sát là đại sư huynh. Tới Phẩm Linh Các lĩnh tiên ngọc, Vương Lâm xác lập tâm thế người ương ngạnh, không che giấu khả năng vì biết Thiên Vận Tử ngầm dung túng cạnh tranh, chỉ tránh động đến sư tôn. Tại đây hắn gặp Trương Hướng Phàm, đệ tử trông coi nhà các với tu vi Hóa Thần đại viên mãn ẩn giấu, và mượn phi kiếm xanh biếc của hắn để xem. Vương Lâm nhận ra tia kiếm ý ẩn sâu trên kiếm chính là cảm ngộ năm xưa của cố nhân Chu Dật hóa kiếm hồn tản mát, nhờ giữ bảo tháp ý cảnh vấn đỉnh của Chu Dật nên vừa nhìn đã nhận ra. Hắn tách lấy tia kiếm ý thành điểm sáng xanh, đền bù bằng ngọc giản mười tám cấm chế công kích chồng tầng khiến Trương Hướng Phàm chấn động muốn bế quan luyện ngay. Cuối cùng Vương Lâm đưa lệnh bài, Trương Hướng Phàm chuẩn bị mở truyền tống trận để giao một trăm viên tiên ngọc mỗi tháng."
+   "tomTat": "Gần trưa, Vương Lâm mặc áo tím đi trên đỉnh Tử Tông Sơn, đệ tử Tử Tông gặp đều cung kính xưng ‘thất sư tổ’. Hắn dần hiểu Thiên Vận Tông kế thừa lối tu tiên thượng cổ, phân vai vế theo thứ tự nhập môn trước sau nên không bao giờ thay đổi — lý giải vì sao Tôn Vân tuy là Thất Tử vẫn gọi Triệu Tinh Sát là đại sư huynh. Vương Lâm tới Phẩm Linh Các lĩnh tiên ngọc, tự xác lập tâm thế ‘người ương ngạnh’ không che giấu khả năng, dựa vào việc Thiên Vận Tử ngầm dung túng cạnh tranh. Tại đây hắn gặp Trương Hướng Phàm — đệ tử trông coi, tu vi Hóa Thần đại viên mãn ẩn giấu, mang phi kiếm xanh biếc. Mượn kiếm xem, Vương Lâm chấn động nhận ra trên kiếm có một tia kiếm ý của cố nhân Chu Dật năm xưa hóa kiếm hồn tản mát, nhờ giữ bảo tháp chứa ý cảnh vấn đỉnh nhiều năm mới nhận ra. Hắn tách lấy tia kiếm ý thành điểm sáng xanh, đền bù bằng ngọc giản mười tám cấm chế công kích chồng tầng khiến Trương Hướng Phàm kích động muốn bế quan luyện ngay. Cuối cùng Vương Lâm đưa lệnh bài để Trương Hướng Phàm mở truyền tống trận, lĩnh một trăm viên tiên ngọc mỗi tháng."
   }
  ]
 };
