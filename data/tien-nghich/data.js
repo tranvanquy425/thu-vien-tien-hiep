@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-15T18:18:06.559Z build_datajs */
+/* sync-bump 2026-06-16T02:18:25.555Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -17409,10 +17409,12 @@ window.LIB_DATA["tien-nghich"]={
    },
    {
     "id": "chu-tuoc",
-    "name": "Chu Tước",
+    "name": "Chu Tước Tử Đời Thứ 14",
     "cn": "朱雀",
     "aliases": [
-     "lão quái Chu Tước"
+     "Chu Tước",
+     "lão quái Chu Tước",
+     "Chu Tước Tử"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -17426,7 +17428,7 @@ window.LIB_DATA["tien-nghich"]={
     "vaiTro": "Tồn tại tối cao trên Chu Tước Sơn, thống trị Chu Tước quốc",
     "tinhCach": [
      {
-      "text": "Cao ngạo cực độ, coi tu sĩ Hóa Thần chỉ là công cụ ('lô đỉnh'), mất cũng không tiếc.",
+      "text": "Cao ngạo cực độ, coi tu sĩ Hóa Thần chỉ là công cụ (lô đỉnh), mất cũng không tiếc.",
       "chuong": "@c0345"
      }
     ],
@@ -17438,7 +17440,7 @@ window.LIB_DATA["tien-nghich"]={
        "chuong": "@c0345",
        "importance": "normal",
        "tieuDe": "Quét thần thức, ra lệnh Liễu Mi tìm VL",
-       "text": "Dừng bế quan, quét thần thức toàn quốc, phát hiện trận chiến 2 Anh Biến kỳ ở cực bắc do Tuyết Vực gây ra. Không tìm thấy VL (nguyên thần VL tan nát nên lọt thần thức). Coi VL chỉ là 'một cái lô đỉnh', ra lệnh Liễu Mi đi phương bắc tìm. Hứa Tuyết Vực nhất định gặp tai kiếp. Tiếp tục bế quan."
+       "text": "Dừng bế quan, quét thần thức toàn quốc, phát hiện trận chiến 2 Anh Biến kỳ ở cực bắc do Tuyết Vực gây ra. Không tìm thấy VL (nguyên thần VL tan nát nên lọt thần thức). Coi VL chỉ là một cái lô đỉnh, ra lệnh Liễu Mi đi phương bắc tìm. Hứa Tuyết Vực nhất định gặp tai kiếp. Tiếp tục bế quan."
       }
      ],
      "tuViMoc": [],
@@ -17452,7 +17454,7 @@ window.LIB_DATA["tien-nghich"]={
       {
        "ten": "Vương Lâm",
        "tag": "khac",
-       "quanHe": "Coi như công cụ luyện đan ('lô đỉnh')",
+       "quanHe": "Coi như công cụ luyện đan (lô đỉnh)",
        "ghiChu": ""
       }
      ],
