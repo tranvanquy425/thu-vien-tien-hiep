@@ -1,0 +1,2716 @@
+{
+ "quyen": "q06",
+ "counts": {
+  "major": 85,
+  "normal": 86,
+  "bridge": 204
+ },
+ "events": [
+  {
+   "chuong": "@c0458",
+   "tieuDe": "Lấy toàn bộ tiên ngọc Phẩm Linh Các",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0458",
+   "tieuDe": "Năm người vây kích tại Tử Lâm Các",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0459",
+   "tieuDe": "Bị vây khốn thạch lâm khốn địa",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0459",
+   "tieuDe": "Quyết tu luyện đột phá Anh Biến trung kỳ",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0460",
+   "tieuDe": "Hoàn tất hấp thu tiên lực",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0460",
+   "tieuDe": "Đột phá chấn thiên địa",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0461",
+   "tieuDe": "Phá trận thoát thạch lâm",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0461",
+   "tieuDe": "Trở về Thiên Vận Tông báo thù",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0462",
+   "tieuDe": "Xông vào thọ yến truy sát kẻ thù",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0462",
+   "tieuDe": "Ma hỏa tự bạo phá quyết Triệu Tinh Sát",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0462",
+   "tieuDe": "Đả thương nguyên thần Hứa Lập Quốc",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0463",
+   "tieuDe": "Uy hiếp Triệu Tinh Sát giữa Tử Tông",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0463",
+   "tieuDe": "Đối đầu Cổ Yêu, triệu Hồn Thú",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0464",
+   "tieuDe": "Thay chủ yến hội Tử hệ",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0464",
+   "tieuDe": "Nhận ngọc giản hai cấm pháp",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0464",
+   "tieuDe": "Tu thành thuật đại na di",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0464",
+   "tieuDe": "Khai mở tu luyện tiên thuật",
+   "old": "major",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0464",
+   "tieuDe": "Dự lễ giảng đạo Thiên Vận Tử",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0465",
+   "tieuDe": "Dự thọ yến vạn năm Thiên Vận Tử",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0466",
+   "tieuDe": "Tinh Ngân điêu tìm tới",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0466",
+   "tieuDe": "Vấn đạo trước sư tôn",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0467",
+   "tieuDe": "Gặp lại Lăng Thiên Hầu",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0468",
+   "tieuDe": "Trụ vững khảo nghiệm áp lực Tử hệ",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0468",
+   "tieuDe": "Giấu Tôn Hồn Phiên trước Kỳ Lân thú",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0469",
+   "tieuDe": "Tranh phong hiệu, đấu Triệu Hân Mộng",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0470",
+   "tieuDe": "Phá bẫy hấp thu ma lực",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0470",
+   "tieuDe": "Ngũ chuyển luyện tiên trong vài ngày",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0470",
+   "tieuDe": "Giao chiến Trần Đào",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0471",
+   "tieuDe": "Lần đầu mở phong ấn Xạ Thần xa",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0471",
+   "tieuDe": "Thi triển Hoàng tuyền chỉ",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0472",
+   "tieuDe": "Bại trận trước Trần Đào",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0472",
+   "tieuDe": "Thành đệ tử chân chính Thiên Vận Tử",
+   "old": "major",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0472",
+   "tieuDe": "Vượt kỷ lục Toái Tiên chi địa",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0473",
+   "tieuDe": "Bái sư nhập Thiên Vận Tông",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0474",
+   "tieuDe": "Chọn Cấm pháp thần thông phòng thân",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0474",
+   "tieuDe": "Từ chối Sát Lục Tiên quyết",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0476",
+   "tieuDe": "Rời Thiên Vận Tinh tới Địa Tinh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0476",
+   "tieuDe": "Nhậm chức sứ giả Linh Nhạc quốc",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0477",
+   "tieuDe": "Nhậm Sứ giả Huyền Uyên Phái",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0477",
+   "tieuDe": "Áp chế Xạ Thần xa cắn trả",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0477",
+   "tieuDe": "Thu cấm chế, quyết đi Đông Hải",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0478",
+   "tieuDe": "Chọn Địa Ma Bắc Giới tu Sát Lục Tiên quyết",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0479",
+   "tieuDe": "Nuôi Văn thú bằng yêu thú Hóa Thần",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0479",
+   "tieuDe": "Lần theo Đại La Kiếm Tông tìm Diệu Kim quả",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0480",
+   "tieuDe": "Bám theo đoàn Đại La Kiếm Tông",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0484",
+   "tieuDe": "Luyện thành bốn kim linh căn",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0484",
+   "tieuDe": "Phân chia kim linh căn",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0485",
+   "tieuDe": "Tra Hỏi Bí Mật Đông Hải",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0485",
+   "tieuDe": "Sát Lục Tiên Quyết Ba Phân",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0488",
+   "tieuDe": "Bái kiến sư tôn trước cửa Đông Hải",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0489",
+   "tieuDe": "Chứng kiến thủy triều Đông Hải Yêu Linh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0490",
+   "tieuDe": "Phá hồng quang nhìn thấy lệnh bài",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0491",
+   "tieuDe": "Tiến nhập thế giới Đông Hải yêu linh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0491",
+   "tieuDe": "Lập kế hoạch năm trăm năm",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0492",
+   "tieuDe": "Phát hiện sơn cốc trận pháp thượng cổ",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0493",
+   "tieuDe": "Phá trận sơn cốc bộ tộc xích lõa",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0494",
+   "tieuDe": "Phá trận thượng cổ sơn cốc",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0495",
+   "tieuDe": "Bức tranh Hoàng Long chấn động",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0496",
+   "tieuDe": "Hấp thu yêu lực ngọc yêu linh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0497",
+   "tieuDe": "Đổi yêu lực kết tinh ở Hồ Lô Cốc",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0497",
+   "tieuDe": "Hiện thân cứu Hồ Lô Cốc",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0498",
+   "tieuDe": "Giao chiến La mỗ ngoài thung lũng yêu linh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0500",
+   "tieuDe": "Mở Xạ Thần Xa ép lui Hắc y nam tử",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0501",
+   "tieuDe": "Bắt sống nguyên thần La Vân",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0501",
+   "tieuDe": "Thi triển Sưu Hồn Thuật đoạt ký ức",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0502",
+   "tieuDe": "Thấu hiểu cơ chế vùng đất yêu linh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0503",
+   "tieuDe": "Thu Phục Thiên Quỷ",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0504",
+   "tieuDe": "Truyền Luyện Hồn thuật cho cốc yêu linh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0505",
+   "tieuDe": "Cài sơ hở khống chế hồn thú",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0505",
+   "tieuDe": "Chấn nhiếp sư tử cánh dài phản phệ",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0506",
+   "tieuDe": "Lập kế Tán Hồn Dưỡng Phách",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0507",
+   "tieuDe": "Cứu Thập Tam, nhận Chiến thư",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0507",
+   "tieuDe": "Nhổ đất phá trận Thiên Thủy",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0507",
+   "tieuDe": "Giết lão áo trắng, lập bộ lạc Luyện Hồn",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0508",
+   "tieuDe": "Dựng bộ lạc Luyện Hồn hùng mạnh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0508",
+   "tieuDe": "Cứu và thu phục Thập Tam",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0508",
+   "tieuDe": "Lên đường tới Cổ Yêu thành",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0509",
+   "tieuDe": "Tới Cổ Yêu thành giành chức vị",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0509",
+   "tieuDe": "Đối đầu Tả dực Yêu tương",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0510",
+   "tieuDe": "Đối đầu Thập Băng Quyền Ý",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0510",
+   "tieuDe": "Cảm ngộ “niềm tin”",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0511",
+   "tieuDe": "Ngộ Thần Thông Niềm Tin",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0511",
+   "tieuDe": "Một Chỉ Hóa Ma Chân Chính",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0511",
+   "tieuDe": "Phá Bảy Lần Sụp Đổ Quyền Ý",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0512",
+   "tieuDe": "Thống lĩnh Cổ Yêu thành",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0512",
+   "tieuDe": "Nén ma niệm thành phong ấn",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0513",
+   "tieuDe": "Tâm ma trỗi dậy, ngộ ma niệm",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0514",
+   "tieuDe": "Thoát nhập ma nhờ nuốt yêu lực",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0514",
+   "tieuDe": "Khu trừ sạch ma niệm",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0514",
+   "tieuDe": "Tới quân doanh, đối diện vạn yêu binh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0515",
+   "tieuDe": "Nhậm chức Thống lĩnh Hắc Giáp quân",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0516",
+   "tieuDe": "Ép Phục Quân Doanh Thiên Yêu",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0517",
+   "tieuDe": "Trình ngọc giản thoát truy cứu",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0517",
+   "tieuDe": "Dựng lầu bùn đất lập uy",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0518",
+   "tieuDe": "Diêu Tích Tuyết cầu phá trận",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0519",
+   "tieuDe": "Nhận Huyết Hồn đan, ước hẹn cổ sơn",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0520",
+   "tieuDe": "Luận phá Huyết Hồn đan giả",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0520",
+   "tieuDe": "Luyện thành Tiên tinh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0520",
+   "tieuDe": "Truyền tống tới không gian Tôn Long",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0523",
+   "tieuDe": "Dùng kế tiên tinh phong ấn Diêu Tích Tuyết",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0524",
+   "tieuDe": "Phá Bình Cảnh Thuật Cấm Chế",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0525",
+   "tieuDe": "Đại tiến tu vi, sát ngưỡng Vấn Đỉnh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0526",
+   "tieuDe": "Áp chế quân doanh Hắc Giáp quân",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0529",
+   "tieuDe": "Nhận chức Tả dực đệ nhất phó tướng",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0531",
+   "tieuDe": "Bàn giao bộ lạc Luyện Hồn",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0531",
+   "tieuDe": "Lên đường tới kinh đô Thiên Yêu",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0533",
+   "tieuDe": "Sát Lục Chi Khí bộc phát",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0534",
+   "tieuDe": "Lời hứa bên dòng Thiên Yêu",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0535",
+   "tieuDe": "Tẩy lễ tâm linh ba ngày",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0536",
+   "tieuDe": "Ngộ sát lục chi tâm trong biển máu",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0537",
+   "tieuDe": "Đánh bại một trảo Đế Kiếm",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0538",
+   "tieuDe": "Trấn áp phó soái Huyền Thành",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0541",
+   "tieuDe": "Giả tha rồi âm thầm hạ sát Mạt Dương",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0542",
+   "tieuDe": "Xuất quan trước đại hội Yêu Tướng",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0543",
+   "tieuDe": "Đối mặt Ngao Địch khiêu chiến",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0544",
+   "tieuDe": "Đẩy lui trường thương Kim tổng quản",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0545",
+   "tieuDe": "Thu phục Tiểu Hắc Đao",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0545",
+   "tieuDe": "Ngộ chữ “nghịch” hướng Vấn Đỉnh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0545",
+   "tieuDe": "Đối thoại thanh niên trên thuyền tranh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0546",
+   "tieuDe": "Vào vòng hai gõ Chiến Yêu Cổ",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0546",
+   "tieuDe": "Nhận ra Mặc Phi giống nam tử Hồng Lao",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0547",
+   "tieuDe": "Ngộ đạo Thuận - Nghịch",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0548",
+   "tieuDe": "Trống truyền niệm chấn động toàn trường",
+   "old": "major",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0549",
+   "tieuDe": "Gõ trống tẩy tủy",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0549",
+   "tieuDe": "Do dự cái giá phải quên",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0551",
+   "tieuDe": "Mở đạo nghịch thiên — gọi thiên kiếp",
+   "old": "major",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0552",
+   "tieuDe": "Nghênh hồng lôi bằng Cấm Phiên",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0554",
+   "tieuDe": "Chịu đòn trừng phạt thứ hai thiên kiếp",
+   "old": "major",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0556",
+   "tieuDe": "Tiến lên Vấn Đỉnh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0556",
+   "tieuDe": "Bị tập kích đoạt nguyên khí",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0557",
+   "tieuDe": "Hạ bộ xương cánh tay đen",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0557",
+   "tieuDe": "Diệt hắc ảnh — Hoàng Tuyền Chỉ Vấn Đỉnh",
+   "old": "major",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0558",
+   "tieuDe": "Luyện hóa Thăng Tiên Quả, thi triển Tịch Diệt",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0562",
+   "tieuDe": "Hắc tháp tỏa ma khí",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0564",
+   "tieuDe": "Uy Hiếp Diêu Tích Tuyết Đòi Huyết Hồn Đan",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0567",
+   "tieuDe": "Truyền thuyết đệ nhất Chu Tước Tinh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0570",
+   "tieuDe": "Chấn vỡ kiếm khí Đế kiếm",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0571",
+   "tieuDe": "Sưu hồn lộ Tham Lang, lo Thiên Nghịch Châu",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0573",
+   "tieuDe": "Hy sinh Khu Thú Quyển hàng phục hồn thú",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0576",
+   "tieuDe": "Hồn Tuyền hút sạch chướng khí",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0577",
+   "tieuDe": "Một chỉ Tịch Diệt giết Tiên vệ",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0577",
+   "tieuDe": "Cự tuyệt giảng hoà",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0578",
+   "tieuDe": "Kỳ Lân khắc chế Tiên thú chi lương",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0584",
+   "tieuDe": "Triệu và phân Sát Lục khí trăm vạn đạo",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 2
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0591",
+   "tieuDe": "Phá thần thông kim phù",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0591",
+   "tieuDe": "Chia tay và cảnh báo Mộ Dung Trác",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0591",
+   "tieuDe": "Phá thần thức do thám Từ Phi",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0594",
+   "tieuDe": "Được Chu Dật cứu, lộ tên Thanh Sương",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0596",
+   "tieuDe": "Xuống đáy Triều Tịch vực tìm lễ vật thứ ba",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0601",
+   "tieuDe": "Tham Lang truy bắt vì hơi thở Tư Đồ Nam",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0604",
+   "tieuDe": "Lao vào hố sâu né Thái Cổ Lôi Long",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0606",
+   "tieuDe": "Thành quả và cái giá biến dị",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0608",
+   "tieuDe": "Luyện chế Đỗ Kiến thành Tiên Vệ Đồng cấp",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0608",
+   "tieuDe": "Hoàn thành Tiên Vệ Đồng cấp",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0608",
+   "tieuDe": "Luyện chế Tiên Vệ Đồng cấp",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0609",
+   "tieuDe": "Nghiên cứu kiếm Cự Phú trong tuyệt địa",
+   "old": "minor",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0609",
+   "tieuDe": "Luyện thành khôi lỗi Tiên Vệ thứ nhất",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0609",
+   "tieuDe": "Nghiên cứu kiếm Cự Phú",
+   "old": "minor",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0610",
+   "tieuDe": "Tai họa ngầm Sát Lục Chi Tâm",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0610",
+   "tieuDe": "Thử lực hút, lao tới Truyền Tống Trận",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0610",
+   "tieuDe": "Lĩnh ngộ Trảm La Quyết",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0610",
+   "tieuDe": "Sát Lục Chi Tâm dị biến",
+   "old": "major",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0610",
+   "tieuDe": "Ba năm mắc kẹt khe nứt hố sâu",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0610",
+   "tieuDe": "Tai họa ngầm Sát Lục Chi Tâm dị biến",
+   "old": "major",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0610",
+   "tieuDe": "Lao tới Truyền Tống Trận cổ",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0611",
+   "tieuDe": "Lĩnh ngộ Đệ Tam Thức Hoàng Tuyền Chi Lực",
+   "old": "major",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0612",
+   "tieuDe": "Chống lực hút bằng Thất Tinh Kiếm Trận",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0612",
+   "tieuDe": "Lật kèo phong ấn nữ tử trong tranh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0612",
+   "tieuDe": "Chống lực hút bằng Thất Tinh Kiếm Trận",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0612",
+   "tieuDe": "Nhìn xuyên dòng xoáy thấy La Thiên tinh vực",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0612",
+   "tieuDe": "Lật kèo phong ấn vĩnh viễn nữ tử trong tranh",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0613",
+   "tieuDe": "Thu phục đàn Văn thú",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0613",
+   "tieuDe": "Phong ấn động phủ huyền bí",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0613",
+   "tieuDe": "Giết Thạch Tiêu báo lời hứa",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0613",
+   "tieuDe": "Quyết rời Yêu Linh đi La Thiên",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0613",
+   "tieuDe": "Thu phục Văn thú, từ biệt thuộc hạ",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0614",
+   "tieuDe": "Thoát khỏi đám lão quái qua dòng xoáy",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0615",
+   "tieuDe": "Thiên Lôi cứu nhóm Nhiễm gia",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0615",
+   "tieuDe": "Thiên Lôi giải vây Minh vụ trùng",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0615",
+   "tieuDe": "Giải vây nhóm Nhiễm Vân Tinh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0616",
+   "tieuDe": "Ẩn nấp tại Nhiễm Vân Tinh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0616",
+   "tieuDe": "Thuê động phủ thành bắc Tôn gia",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0617",
+   "tieuDe": "Chế tạo bộ ba Ngụy tiên bảo",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0617",
+   "tieuDe": "Sáng tạo thủ pháp Ngụy kế thừa",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0618",
+   "tieuDe": "Bị Lô Phong chặn ở Bảo Hợp Lâu",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0618",
+   "tieuDe": "Phi kiếm khiến văn sĩ Thanh Trúc Các kinh khiếp",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0618",
+   "tieuDe": "Bị Lô Phong từ chối, dọa lui bằng một ánh mắt",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0619",
+   "tieuDe": "Bán ngụy tiên bảo tại Thanh Trúc Các",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0619",
+   "tieuDe": "Bày thế phòng vệ với gương đồng",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0619",
+   "tieuDe": "Bán ngụy tiên bảo tại Thanh Trúc Các",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0621",
+   "tieuDe": "Nhận tiên ngọc và lệnh bài đấu giá",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0621",
+   "tieuDe": "Định kế khiêm tốn ở Nhiễm Vân Tinh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0621",
+   "tieuDe": "Thổ nạp tiên ngọc, suy tư khan hiếm",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0621",
+   "tieuDe": "Nhận tiên ngọc và lệnh bài đấu giá",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0622",
+   "tieuDe": "Tám bước áp đảo lão tổ Tôn Tích",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0622",
+   "tieuDe": "Từ chối rồi nhận điều kiện Lôi tiên giới",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0622",
+   "tieuDe": "Nhìn thấu bẫy đan dược Tôn Gia",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0622",
+   "tieuDe": "Tám bước áp đảo lão tổ Tôn Tích",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0622",
+   "tieuDe": "Từ chối Tôn Tích, nghe điều kiện Lôi tiên giới",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0623",
+   "tieuDe": "Nhận ra cạm bẫy đan dược Nhiễm Gia",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0623",
+   "tieuDe": "Hóa giải nghi ngờ thân phận",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0623",
+   "tieuDe": "Nhận ra cạm bẫy bát phẩm đan dược",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 2
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0624",
+   "tieuDe": "Nhận ra cố nhân Tôn Thái",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0625",
+   "tieuDe": "Lời hứa nhân quả với Tôn Thái",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0625",
+   "tieuDe": "Đối thoại Tôn Thái luân lạc",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0625",
+   "tieuDe": "Hỏi về Đông Lâm tinh và Hướng gia",
+   "old": "minor",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0626",
+   "tieuDe": "Cảm ngộ nhân quả sinh tử",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0626",
+   "tieuDe": "Tôn Thái buông bỏ tặng quà",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0627",
+   "tieuDe": "Cảm ngộ Sinh Tử Luân Hồi dung hợp nguyên thần",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0627",
+   "tieuDe": "Áp chế lão tổ Nhiễm gia, ép nộp tiên ngọc",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0627",
+   "tieuDe": "Cảm ngộ đạo Sinh Tử Luân Hồi",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0628",
+   "tieuDe": "Lệnh Tôn Tích lấy tinh đồ",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0628",
+   "tieuDe": "Giải mã di vật người Huyễn gia",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0628",
+   "tieuDe": "Phát hiện mỏ Kim Viêm ở Vân Hà tinh",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0629",
+   "tieuDe": "Trọng thương Huyễn Đông bằng Tịch Diệt chỉ",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0629",
+   "tieuDe": "Định rời Nhiễm Vân tinh đi Vân Hà tinh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0629",
+   "tieuDe": "Đánh trọng thương Huyễn Đông",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0630",
+   "tieuDe": "Rời đi tới Vân Hà tinh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0630",
+   "tieuDe": "Sưu hồn phát hiện Liễu Mi",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0630",
+   "tieuDe": "Hướng tới Vân Hà tinh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0631",
+   "tieuDe": "Chạm trán Vọng Nguyệt",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0631",
+   "tieuDe": "Chạm trán Vọng Nguyệt",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0632",
+   "tieuDe": "Kế lấy xương Vọng Nguyệt",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0632",
+   "tieuDe": "Kế lấy xương bằng Thăng Tiên Quả",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0633",
+   "tieuDe": "Đụng độ Liễu Mi, khai chiến",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0634",
+   "tieuDe": "Buông bỏ phá Vạn Huyễn Thiên Ma đạo",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0634",
+   "tieuDe": "Phá Vạn Huyễn Thiên Ma đạo",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0634",
+   "tieuDe": "Đấu khẩu ân oán Chu Tước tinh",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  }
+ ]
+}
