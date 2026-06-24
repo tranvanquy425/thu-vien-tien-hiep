@@ -1,5 +1,5 @@
 /* cotTruyen TÁCH KHỎI data.js (giảm kích thước) — nạp NGAY SAU data.js. */
-/* sync-bump 2026-06-24T00:08:34.815Z build_datajs — tự sinh lại từ quyển */
+/* sync-bump 2026-06-24T07:57:24.306Z build_datajs — tự sinh lại từ quyển */
 window.LIB_DATA = window.LIB_DATA || {};
 window.LIB_DATA["tien-nghich"] = window.LIB_DATA["tien-nghich"] || {};
 window.LIB_DATA["tien-nghich"].cotTruyen = {
@@ -7,502 +7,22 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
   {
    "chuong": 1,
    "tieuDe": "Ly Hương",
-   "tomTat": "Vương Lâm — thiếu niên 15 tuổi ở sơn thôn, được coi là thần đồng — nhận được cơ hội bất ngờ khi Tứ thúc nhường suất đề cử của Vương thị gia tộc để hắn dự tuyển Hằng Nhạc Phái. Buổi tiệc mừng thu hút cả gia tộc họ Vương, trong đó anh họ Vương Trác kiêu ngạo công khai sỉ nhục Vương Lâm và khoe mình đã được tiên sư nội bộ chỉ định. Không cãi lại, Vương Lâm âm thầm hạ quyết tâm 'vô luận thế nào cũng phải được tuyển chọn'. Nửa tháng sau, hắn lần đầu rời thôn theo Tứ thúc, cha mẹ rơi lệ tiễn đưa — khởi đầu hành trình tu tiên. (@c0001)"
+   "tomTat": "Vương Lâm, thiếu niên mười lăm tuổi tên mụ Thiết Trụ, sống trong sơn thôn nhỏ, từ nhỏ thông minh ham đọc sách được cả thôn xem là thần đồng, cha là Vương Thiên Th��y làm nghề thợ mộc vốn là con thứ vợ lẻ từng bị gia tộc họ Vương bức rời đi. Tứ thúc tới thăm, mang hai quyển sách tặng hắn và báo tin Hằng Nhạc Phái năm nay thu đệ tử, gia tộc có ba danh ngạch đề cử; vì con trai mình học hành võ nghệ đều không thành, Tứ thúc quyết nhường suất quý báu cho Vương Lâm đi thử. Cha mẹ cảm động quỳ tạ, Tứ thúc nâng dậy nói báo đáp ân Nhị nương từng chiếu cố lúc nhỏ. Tin lan khắp tám thôn mười dặm, thôn dân thân thích lục tục đến chúc mừng, cha mở mấy trăm bàn tiệc, Tam tổ phụ cùng những người trong Vương thị gia tộc đều tới. Đại bá đến cùng con Vương Trác kiêu ngạo, Vương Trác công khai khinh miệt Vương Lâm và khoe được Đạo Hư thượng tiên nội bộ chỉ định làm đệ tử, khi ra về còn ghé tai nói câu sỉ nhục. Vương Lâm kiềm chế không cãi, chỉ liếc sâu một cái và âm thầm hạ quyết tâm vô luận thế nào cũng phải được tuyển chọn. Nửa tháng sau Tứ thúc quay lại đón, mẹ chuẩn bị bọc quần áo mới và khoai lang nướng, Vương Lâm lần đầu rời thôn trong nước mắt tiễn đưa của cha mẹ."
   },
   {
    "chuong": 2,
    "tieuDe": "Tiên Nhân",
-   "tomTat": "Vương Lâm cùng Vương Trác và thiếu niên lanh lợi Vương Hạo được bạch y thanh niên Hằng Nhạc Phái dùng kiếm quang độn bay lên sơn phong tiên cảnh. Vương Lâm lần đầu thấy tiên nhân, kinh hãi mặt tái nhưng lòng càng khát vọng tu tiên. Tại sơn phong Hằng Nhạc Phái — môn phái tu chân từng huy hoàng với mấy vị Nguyên Anh kỳ nay đã suy thoái — trung niên nhân (Tam sư huynh) chủ trì buổi trắc thí tuyển chọn. Tổng cộng 48 thiếu niên tề tựu; vòng một là kiểm tra linh căn: người đầu tiên bị gọi lập tức bị phán 'Không hợp cách'. (@c0002)"
+   "tomTat": "Vương Lâm, tên tục Thiết Trụ, mười lăm tuổi, ngồi xe ngựa rời sơn thôn nơi sống suốt mười lăm năm, mang theo kỳ vọng cha mẹ và một cái bọc ôm trong ngực, đến nhà tứ thúc ở thị trấn nghỉ qua đêm rồi sáng hôm sau được dẫn tới tòa nhà lớn Vương thị gia tộc dự tuyển đệ tử tiên môn. Tại sân, lão giả đại bá dặn hắn làm theo anh họ Vương Trác, còn thiếu niên lanh lợi Vương Hạo thì trêu chọc và liên tục sờ chỗ nội y căng phồng giấu vật gì. Bỗng kiếm quang phá không hiện ra một bạch y thanh niên — tiên nhân Hằng Nhạc Phái khí chất phiêu dật, băng lãnh — khiến Vương Lâm lần đầu thấy tiên nhân mà kinh hãi tái mặt. Tiên nhân nhìn Vương Trác thật sâu, khen Đạo Hư sư thúc nhìn trúng linh căn của hắn, rồi vung tay áo cuốn ba thiếu niên đằng vân giá vũ bay về phái. Tới nơi hiện ra sơn phong tiên cảnh thế ngoại đào nguyên với đại điện thất thải quang mang trên đỉnh và cầu đá nối hai núi; nguyên gốc Hằng Nhạc Phái là một trong số ít tu chân môn phái Triệu quốc, từng thống lĩnh Tu Chân Giới năm trăm năm trước nhưng nay đã suy thoái. Một trung niên hắc y xưng Tam sư huynh hạ xuống, cho biết được chưởng môn ủy thác chủ trì trắc thí thay Trương sư đệ đang tu luyện đến chỗ then chốt. Chương khép lại khi Vương Hạo ánh mắt cuồng nhiệt kéo áo Vương Lâm, lại đưa tay sờ chỗ nội y căng phồng của mình."
   },
   {
    "chuong": 3,
    "tieuDe": "Trắc Thí",
-   "tomTat": "Vòng trắc thí tư chất tiếp diễn: Vương Trác đạt nhờ linh căn và sự tiến cử của Đạo Hư sư thúc; Vương Hạo tư chất kém nhưng dâng hộp ngọc chứa linh chi 300 năm nên được nhận làm dược đồng luyện đan; Vương Lâm bị phán thẳng 'Không hợp cách', rơi vào tuyệt vọng. Chỉ có 3 trong 48 thiếu niên đạt tư chất. Khi tưởng như hết đường, trung niên nhân mở vòng hai: trắc thí nghị lực — leo thềm đá dốc lên đỉnh núi trong 3 ngày, ai tới đỉnh thì được làm ký danh đệ tử. 39 người bắt đầu leo, tốc độ mỗi người mỗi khác. Vương Lâm thở sâu, ánh mắt kiên định, không do dự bước lên thềm đá bắt đầu leo. (@c0003)"
-  },
-  {
-   "chuong": 4,
-   "tieuDe": "Vô Tình",
-   "tomTat": "Vương Lâm leo thềm đá suốt gần ba ngày — huyết nhục lẫn lộn, hôn mê ngã xuống chỉ còn cách đỉnh chưa đầy mười trượng — trượt trắc thí nghị lực. Hắc y trung niên nhân tuyên hết giờ với vẻ vô tình. Trong nhóm 11 người kiên trì đến cuối, Vương Lâm được thử Kiếm Linh Các: hắn tiến xa nhất — vượt qua mốc năm trượng mà sáu người trước bị chặn, bước tới cách cổng ba trượng, khiến chủ khảo thanh niên áo trắng lộ hứng thú và hứa sẽ được nhận thẳng làm đệ tử chính thức nếu vào được. Nhưng rốt cục lực đạo khổng lồ đẩy bật hắn ra — trượt Kiếm Linh. Mười một người đều trượt. Trên đường về, Vương Trác nhạo báng Vương Lâm bằng biệt danh 'Thiết Trụ'; Vương Lâm nén nhục, chỉ xin được đưa về với cha mẹ. (@c0004)"
+   "tomTat": "Đệ tử Hằng Nhạc Phái dùng kiếm quang trường hồng lần lượt đưa thêm các thiếu niên 15–16 tuổi về tụ tập, tổng cộng 48 người dự trắc thí. Trung niên nhân hắc y chủ trì mở hạng thứ nhất kiểm tra linh căn bằng cách đặt tay lên đỉnh đầu từng người; hơn mười người bị phán “Không hợp cách” dồn về bên trái. Vương Trác đậu nhờ một phần được Đạo Hư sư thúc tiến cử, một cô gái cũng đậu; Vương Hạo tư chất kém bị loại nhưng dâng hộp ngọc chứa linh chi 300 năm nên được thu làm dược đồng luyện đan, được hứa dạy một loại tiên thuật. Vương Lâm bị phán không hợp cách, choáng váng bước qua đội ngũ kẻ trượt và bị Vương Trác mỉa mai. Kết hạng một chỉ ba thiên chi kiêu tử đứng bên phải; trung niên nhân công bố hạng hai thi nghị lực: leo cầu thang đá lên đỉnh trong ba ngày, ai lên tới là đủ tư cách thành ký danh đệ tử, giữa đường hô “bỏ cuộc” sẽ có người đưa đi. Ba thiên chi kiêu tử được dẫn đi gặp chưởng môn và đan phòng, sáu thiếu niên khóc lóc bị đưa về gia tộc. Vương Lâm thở sâu, ánh mắt kiên định bước lên thềm đá; 39 người còn lại lần lượt leo cầu thang với tốc độ mỗi người mỗi khác."
   },
   {
    "chuong": 5,
    "tieuDe": "Đường Về",
-   "tomTat": "Ba thiếu niên được đệ tử Hằng Nhạc Phái đưa về bằng kiếm quang. Tại Vương thị gia tộc, một bữa tiệc chúc mừng lớn đang chờ — toàn bộ thân thích tề tựu, tâng bốc cha Vương Lâm không ngừng vì tưởng con sẽ thành tiên nhân. Khi đoàn xuất hiện, Vương Trác đắc ý khoe được Đạo Hư thượng tiên thu làm đồ đệ; Vương Hạo được nhận làm dược đồng. Vương Lâm im lặng — không được Hằng Nhạc Phái thu nhận. Hắn quỳ dập đầu xin lỗi cha mẹ, cắn môi chảy máu; mẹ ôm con khóc, dặn đừng làm chuyện dại dột. Đệ tử Hằng Nhạc Phái nói lời 'Đại đạo vô tình', hẹn ba ngày sau quay lại đón người được chọn, rồi hóa kiếm quang rời đi. (@c0005)"
-  },
-  {
-   "chuong": 6,
-   "tieuDe": "Lợi Thế",
-   "tomTat": "Ngay sau khi Vương Lâm trượt tuyển bị công khai, toàn bộ thân thích Vương gia trở mặt — sỉ nhục, đòi lại lễ vật, hủy thông gia, chê tên 'Thiết Trụ' nghe ngu ngốc. Vương Lâm trầm tĩnh nhìn từng người, ghi kỹ diện mạo mỗi thân thích; đây là khoảnh khắc tâm tính then chốt. Cha Vương Lâm (Vương Thiên Thủy) bùng nộ tố cáo Vương Thiên Sơn cướp gia sản, suýt hổn chiến; Tứ thúc ngăn lại rồi đe dọa Vương Thiên Sơn bằng thế lực giang hồ. Vương Hạo có thiện cảm, định bênh nhưng bị cha ngăn. Tứ thúc dàn xếp xong, đề nghị đưa Vương Lâm ra phàm nhân môn phái giang hồ lịch lãm nếu không muốn đọc sách. (@c0006)"
-  },
-  {
-   "chuong": 7,
-   "tieuDe": "Lưu Thư",
-   "tomTat": "Vương Lâm tuyên thề trước cả họ sẽ bước vào tiên nhân môn phái; Tứ thúc dọa phế Vương Trác, suýt xung đột với Vương Thiên Sơn. Đêm khuya, Vương Lâm lén để lại lưu thư cho cha mẹ, bỏ nhà lần thứ hai — băng thâm sơn hướng đông quay lại Hằng Nhạc Phái. Sau một tuần đi sâu trong núi, hắn bị hổ trắng dồn nên nhảy vách núi, vĩnh biệt cha mẹ trong lòng. Giữa chừng rơi, một cỗ lực hút khổng lồ từ huyệt động trên vách kéo hắn vào — cứu hắn khỏi cái chết. Huyệt động bí ẩn này đầy hài cốt chim thú, và trên vách có một lỗ đen bằng nắm tay định kỳ phát ra lực hút khổng lồ. Vương Lâm bắt đầu đo chu kỳ: hút khoảng một canh giờ, ngưng nửa canh giờ. (@c0007)"
-  },
-  {
-   "chuong": 8,
-   "tieuDe": "Thạch Châu",
-   "tomTat": "Bị kẹt trong huyệt động với cánh tay phải sưng tê liệt và không thể trốn thoát, Vương Lâm ăn thịt sống phi điểu chết trong động để sống sót. Trong xác chim, hắn moi được một vật tưởng là nội đan đỏ — lau sạch hóa ra là Thạch Châu màu xám khắc năm đóa mây trắng, trông rất cổ. Sáng hôm sau phát hiện thạch châu tiết hạt sương dưới nắng; sương vị ngọt, bôi lên chỗ sưng thì vết thương xẹp hẳn, cánh tay hồi phục. Vương Lâm kết luận đây là bảo bối. Lực hút kỳ quái trong động đến từ hắc động trên vách, không phải thạch châu. (@c0008)"
-  },
-  {
-   "chuong": 9,
-   "tieuDe": "Hạ Nhai",
-   "tomTat": "Vương Lâm tụt vách xuống chân núi (xé quần áo bện dây, dây đứt), đùi phải đâm trúng đá nhọn lộ xương; tự sơ cứu bằng sương thạch châu. Đang kiệt sức thì nghe tiếng gọi của cha — đệ tử Hằng Nhạc Phái họ Trương và cha Vương Lâm đang tìm hắn. Đệ tử họ Trương leo lên xem huyệt động, xác nhận lực hút là 'phong nhãn thiên nhiên hình thành', kết luận đứa nhỏ muốn tự sát nhưng bị phong nhãn cứu. Tại đại điện Hằng Nhạc Phái, các trưởng lão (Mã trưởng lão, cẩm bào lão giả, trung niên nhân) tranh luận số phận Vương Lâm; lão giả mặt đầy nếp nhăn cuối cùng đề xuất phá lệ thu hắn làm ký danh đệ tử để tránh tiếng 'bức tử' — chương kết tại đây. (@c0009)"
-  },
-  {
-   "chuong": 10,
-   "tieuDe": "Nhập Môn",
-   "tomTat": "Vương Lâm chính thức nhập môn Hằng Nhạc Phái với thân phận ký danh đệ tử — thực ra nhờ Tứ thúc dâng khối tinh thiết bất phàm mua từ thợ rèn cho trung niên nhân tiến cử. Tiễn cha mẹ xuống núi, hắn bị hoàng y thanh niên ('con chồn' — đệ tử tạp vụ áo vàng, chưa rõ tên) ra lệnh gánh đầy mười vại nước khổng lồ mỗi ngày; không hoàn thành bảy ngày liên tiếp sẽ bị trục xuất. Nhận áo xám, thẻ bài, phòng ở phía Bắc. Hắn quyết giấu kín Thạch Châu ('hoài bích có tội'). Tối đến gặp bạn cùng phòng Trương Hổ — thiếu niên đói hai ngày; Vương Lâm cho khoai lang, Trương Hổ cảnh báo về 'con chồn' tạp vụ tâm địa gian xảo. (@c0011: Trương Hổ giảng thêm quy chế ba tầng đệ tử và khái niệm linh căn)"
-  },
-  {
-   "chuong": 11,
-   "tieuDe": "Trương Hổ",
-   "tomTat": "Trương Hổ — ký danh đệ tử đốn củi ba năm, nghèo khổ nhưng tốt bụng — giải thích quy chế ba tầng đệ tử Hằng Nhạc Phái (ký danh / đồng tử / nội môn) và khái niệm linh căn quyết định tốc độ tu luyện. Vương Lâm bí mật dùng nước ngâm Thạch Châu hồi phục cơ bắp sau mỗi buổi gánh nước nặng — thể chất cường hóa dần; rút thời gian hoàn thành mười vại từ sáu ngày xuống ba ngày, cố ý giả vờ mệt mỏi để không ai nghi. Đây là lần đầu Thạch Châu bộc lộ công năng cường hóa thể chất khi ngâm nước. (@c0011)"
-  },
-  {
-   "chuong": 12,
-   "tieuDe": "Tiên Phù",
-   "tomTat": "Sau một tháng nhập môn, Vương Lâm bị toàn bộ ký danh đệ tử khinh thường châm chọc; nhẫn nhịn, ghi nhớ diện mạo từng kẻ để sau trả thù. Nghiên cứu Thạch Châu: xác định hạt sương sáng sớm kết ngay trên châu cho hiệu quả tốt nhất; phát hiện châu tự hấp thu hơn phân nửa hạt sương — bí mật ngày càng sâu. Cầu kiến Tôn trưởng lão tại chính viện (nơi có vườn dược cấm chế), được cấp kỳ hạn ba ngày và Thiên Lý Phù về dự thọ cha. Ngay sau khi Vương Lâm rời đi, Tôn trưởng lão phát hiện Lam Tuyến Thảo gần cổng vườn dược héo rũ — khởi đầu mạch điều tra. (@c0012)"
-  },
-  {
-   "chuong": 13,
-   "tieuDe": "Trưởng Lão",
-   "tomTat": "Tôn trưởng lão phát hiện cả Tử Dạ Hoa cũng héo dù bùn đất ẩm ướt — thảo dược mất toàn bộ nước một cách bí ẩn. Hắn mở cuộc điều tra: bay bằng đám mây bảy màu, quát đệ tử họ Lưu như sấm, tới phòng Vương Lâm không gặp (VL đã về quê), hoãn chờ trở về. Vương Lâm phóng tiên phù, một đêm ra khỏi núi, ghé thị trấn mua lễ vật rồi về thôn dự tiệc thọ cha. Thân thích trước khinh bỉ nay nịnh hót vây quanh — Vương Lâm thầm hừ không cảm động; đoàn tụ ấm áp với cha mẹ. (@c0013)"
-  },
-  {
-   "chuong": 14,
-   "tieuDe": "Dị Biến",
-   "tomTat": "Đêm mưa giông lớn tại nhà cha mẹ, Thạch Châu kích hoạt dị biến: hút toàn bộ nước mưa trong phòng lẫn nước trên người Trương Hổ — Trương Hổ toàn thân phủ sương trắng, tím tái, gần như ngừng thở, suýt đông chết. Số đám mây trên châu tăng 5 → 6 → 7 trong một đêm. Vương Lâm hốt hoảng nhưng kịp dừng lại — châu hút hết nước, Trương Hổ hồi phục. Đây là lần đầu sức hút nước của châu bộc lộ mức nguy hiểm. Vương Lâm lần đầu nói dối cha mẹ về cuộc sống môn phái, rồi trở về Hằng Nhạc Phái. (@c0014)"
-  },
-  {
-   "chuong": 15,
-   "tieuDe": "Hoài Nghi",
-   "tomTat": "Sáng sau cơn mưa, Trương Hổ tỉnh dậy nghi 'hạn quỷ' và đồng ý giữ kín. Đệ tử họ Lưu (Lưu sư huynh) đột ngột đảo ngược thái độ: xu nịnh, giảm việc VL xuống một vại/ngày, tặng tiên phù — vì biết Tôn trưởng lão đã đích thân tìm ký danh đệ tử (sự kiện bất khả tư nghị). Vương Lâm vào chính viện báo cáo, được Tôn trưởng lão sốt sắng triệu kiến ngay — lo lắng bí mật hạt châu bị lộ; cuối chương đối diện lần đầu với lão già nhiều nếp nhăn, ánh mắt sáng ngời. (@c0015)"
-  },
-  {
-   "chuong": 16,
-   "tieuDe": "Đệ Tử",
-   "tomTat": "Tôn trưởng lão dùng pháp bảo Thất Thải Tường Vân + thần thức lục soát phòng Vương Lâm, tịch thu hồ lô nước linh khí. Vương Lâm đấu trí xuất sắc: khai man nguồn gốc hồ lô, bảo toàn bí mật Thạch Châu. Tôn trưởng lão muốn thu VL làm thư đồng nhưng bị từ chối, đành nâng lên thu làm đệ tử nội môn để hợp thức hóa việc chiếm hồ lô và moi thêm. VL thầm vui mừng — cơ hội tu luyện chính thức đã đến. Chưởng môn công bố tin tức thu đệ tử; bạch y thanh niên gác cổng mỉa mai 'rác rưởi sư phụ thu rác rưởi đệ tử'. (@c0016)"
-  },
-  {
-   "chuong": 17,
-   "tieuDe": "Tu Tiên",
-   "tomTat": "Tôn Đại Trụ — tên thật của Tôn trưởng lão, lần đầu lộ trong chương này — chính thức tuyên bố thu Vương Lâm làm đệ tử nội môn, tặng túi trữ vật + y phục hồng sắc + công pháp Ngưng Khí tam thiên. Phô thực lực bằng tia tử quang nghiền nát đá để răn đe. Vương Lâm tu luyện cả đêm thất bại trong phòng (lối hô hấp trái thường không cảm nhận linh khí); nhưng sáng ra thổ nạp ở dược viên (linh khí dày đặc), lần đầu cảm nhận được linh khí nhập thể như côn trùng bò — bước đầu vào tu tiên. Tôn Đại Trụ hứa hạ phẩm linh thạch đổi hồ lô; Vương Lâm dắt mũi lão. (@c0017)"
-  },
-  {
-   "chuong": 18,
-   "tieuDe": "Hồ Lô",
-   "tomTat": "Vương Lâm mặc y phục hồng sắc đi qua khu ký danh đệ tử, bị ghen ghét chế giễu — thầm thề trả thù khi đủ mạnh. Thổ nạp ở sơn tuyền cửa Đông, hiểu bản chất Ngưng Khí kỳ (linh khí nhập thể cải biến thể chất, nền cho Trúc Cơ). Tôn Đại Trụ lén giám thị cả ngày nhưng bị qua mặt — VL cố ý chờ 'hồ lô trôi từ thượng du'. Lộ bản chất ngoan độc trong độc thoại: âm mưu bỏ dược vật gây trọc khí vào đồ ăn VL để kìm hãm tu luyện dưới Ngưng Khí tầng 3. Cuối ngày VL dâng hồ lô dại tươi — Tôn Đại Trụ tức nghẹn vì bị chơi khăm. (@c0018)"
-  },
-  {
-   "chuong": 19,
-   "tieuDe": "Trục Môn",
-   "tomTat": "Tôn Đại Trụ thử mọi cách trợ ngưng linh khí cho Vương Lâm (bát thuốc đen, đích thân truyền khí, thêm linh thạch) đều thất bại — trọc khí từ cơ thể VL (do dược vật Tôn từng bỏ vào đồ ăn) hóa giải linh khí ngay trong gang tấc. Tôn Đại Trụ tiết lộ kế hoạch dùng Sưu Hồn thuật khi VL đạt Ngưng Khí tầng 1 (một tiên thuật độc ác khiến 8–9 phần tử vong, hoặc si ngốc cả đời). Cuối cùng Tôn kết luận sai rằng hồ lô tầm thường, từ bỏ, trục xuất VL khỏi chính viện — vô tình để VL thoát khỏi vòng kiểm soát. (@c0019)"
-  },
-  {
-   "chuong": 20,
-   "tieuDe": "Cửu Vân",
-   "tomTat": "Vương Lâm chuyển ra phó viện, lấy lại Thạch Châu + ba hồ lô sương sớm, cất vào túi trữ vật. Phát hiện đám mây trên châu đã tăng từ bảy lên chín; phán đoán mười là mức cuối cùng, dự định dùng ba hồ lô sương sớm để ép đám mây thứ mười. Vương Lâm nắm rõ hệ thống tu tiên năm cấp (Ngưng Khí → Trúc Cơ → Kết Đan → Nguyên Anh → Hóa Thần) và cơ cấu sức mạnh Hằng Nhạc Phái. Chạm mặt Vương Trác tại đan phòng — nay là đệ tử hồng y, mới luyện xong Ngưng Khí tầng 1; bị nhóm đệ tử hồng y mỉa mai lai lịch. Đến hết Ch.20, Vương Lâm vẫn CHƯA thể đưa linh khí nhập thể (chưa vào Ngưng Khí tầng 1) dù bí mật ngâm Thạch Châu; Thạch Châu mới đạt 9/10 đám mây. Tôn Đại Trụ — không phải Vương Lâm — mới là người ở Ngưng Khí kỳ tầng 5. Hai nhân vật nữ mới: Chu sư tỷ (am hiểu thảo dược, bóc mẽ khoác lác của Vương Trác) và Trương sư tỷ (đối tượng Vương Trác theo đuổi). (@c0020)"
-  },
-  {
-   "chuong": 21,
-   "tieuDe": "Linh Đan",
-   "tomTat": "Vương Lâm chuyển sang phó viện; Vương Hạo bất ngờ xuất hiện trong buổi phát linh đan, lén kéo VL ra hàn huyên và nhét 3 viên linh đan vào tay, gọi thân thiết là 'Thiết Trụ ca'. Vương Trác đề nghị tỉ võ công khai để rửa thù gia tộc, đe dọa trước đám đệ tử hồng y; nhóm nữ tử họ Chu và họ Từ chứng kiến. (@c0021)"
-  },
-  {
-   "chuong": 22,
-   "tieuDe": "Tán Công",
-   "tomTat": "Vương Lâm tự ngộ ra phương pháp 'Tán Công': dùng ngược Ngưng Khí tam thiên để ép linh khí hóa Hoá Linh Thảo trở lại dạng tinh nguyên chất hơn, giải quyết vấn đề chất lượng linh khí kém. Bước đột phá quan trọng về tư duy tu luyện. (@c0022)"
-  },
-  {
-   "chuong": 23,
-   "tieuDe": "Thập Vân",
-   "tomTat": "Thạch Châu tích đủ 10 đám mây — mây tan biến, châu lộ ra vài chữ số bí ẩn. Vương Lâm lần đầu khai mở KHÔNG GIAN MỘNG CẢNH bên trong châu: thời gian chạy nhanh gấp 10 lần thực tại, không có linh khí tự nhiên. (@c0023)"
-  },
-  {
-   "chuong": 24,
-   "tieuDe": "Tu Luyện",
-   "tomTat": "Vương Lâm kiên trì luyện thể và luyện khí trong Mộng Cảnh; xác nhận quy luật thời gian x10 và mỗi lần vào cần ≥5 canh giờ. Phát hiện sơn tuyền phía núi sau — địa điểm tu luyện yên tĩnh; thể chất dần mạnh lên, sắp tiến đến ngưỡng đột phá. (@c0024)"
-  },
-  {
-   "chuong": 25,
-   "tieuDe": "Ngưng Khí",
-   "tomTat": "Vương Lâm đột phá NGƯNG KHÍ TẦNG 1 — chính thức bước vào hàng tu tiên. Học thêm ba pháp thuật: Dẫn lực thuật, Hỏa diễm cầu, Địa liệt thuật. Xác nhận Ngưng Khí kỳ có 15 tầng tổng cộng; cố ý giấu tu vi. Vào Tàng kinh các tìm thêm pháp thuật. (@c0025)"
-  },
-  {
-   "chuong": 26,
-   "tieuDe": "Sát Ý",
-   "tomTat": "Trương Hổ giết Lưu sư huynh (biệt danh 'Hoàng Thử lang') vì mâu thuẫn cá nhân rồi bỏ trốn qua Đông môn — vụ án bỏ ngỏ. Vương Lâm tình cờ nhặt được một cuộn giấy vàng bí ẩn tại hiện trường. Học thêm Khu Vật thuật; ghé Kiếm Linh các. (@c0026)"
-  },
-  {
-   "chuong": 27,
-   "tieuDe": "Tới Chơi",
-   "tomTat": "Vương Lâm khổ luyện Dẫn lực thuật trong và ngoài Mộng Cảnh. Một hắc y sư huynh bí ẩn tới thăm phòng VL — danh tính chưa rõ ('tam sư huynh' theo cách xưng hô). Xác nhận lại Ngưng Khí kỳ có 15 tầng, mỗi tầng cần khẩu quyết riêng. (@c0027)"
-  },
-  {
-   "chuong": 28,
-   "tieuDe": "Tạp Vụ",
-   "tomTat": "Hắc y sư huynh — Trương sư huynh, vừa đột phá Ngưng Khí tầng 5 — giao VL chức quản sự khu tạp vụ Hằng Nhạc Phái, phụ trách 100 đệ tử ký danh. Hạn mức nước tăng 500→1000 cân/ngày; VL được phòng riêng trên vách núi. (@c0028)"
-  },
-  {
-   "chuong": 29,
-   "tieuDe": "Dâng Tới Tận Cửa",
-   "tomTat": "Đệ tử ký danh thi nhau đút lót Vương Lâm bằng Tham Thân tiên phù để được ưu tiên ký danh. VL lập danh sách chờ và thu phù; hai tháng quản lý khu tạp vụ trôi qua ổn định. (@c0029)"
-  },
-  {
-   "chuong": 30,
-   "tieuDe": "Vương Hạo",
-   "tomTat": "Vương Lâm đột phá NGƯNG KHÍ TẦNG 2 trong Mộng Cảnh, sinh thần thức — cố ý giấu vì khẩu quyết chỉ được cấp tới tầng 3. Đệ tử gọi VL là 'Hắc Tâm vương' vì quản lý nghiêm. Vương Hạo đến thăm cuối đông, mượn Tham Thân tiên phù — xác nhận bản thân vẫn chưa đạt Ngưng Khí tầng 1. Tiết lộ tỉ võ 10 năm/lần sắp đến. (@c0030)"
-  },
-  {
-   "chuong": 31,
-   "tieuDe": "Tuyết Thủy",
-   "tomTat": "Vương Hạo tiết lộ giao dịch hội bí mật của đệ tử nội môn sắp diễn ra — 'vé' là viên Hóa Hình Hóa Thanh Đan giá 200 tấm tiên phù, ngụy trang thân phận trước mắt người dưới Trúc Cơ. VL đưa 400 tấm tiên phù cho Vương Hạo và quyết định tham gia, nhắm đến khẩu quyết Ngưng Khí phần sau. Đêm tuyết rơi, VL phát hiện hiệu quả Linh Khí Tuyền Thủy giảm sút ở tầng 2; thí nghiệm gom tuyết nấu tan thành Linh Khí Tuyết Thủy — kết luận tuyết thủy mạnh hơn tuyền thủy, kém lộ thủy; đổ đầy nửa số hồ lô. (@c0031)"
-  },
-  {
-   "chuong": 32,
-   "tieuDe": "Giao Dịch",
-   "tomTat": "Đêm tuyết giá, Vương Hạo dẫn VL theo con đường nhỏ vào núi sâu dự giao dịch hội bí mật — mỗi người uống Hóa Hình Hóa Thanh Đan che thân phận. Tại hội hơn mười đệ tử ẩn dáng trao đổi phi kiếm, đan dược, pháp bảo. VL mua thuật giấu tu vi (5 khỏa linh đan) — người khác chê vô dụng nhưng VL thấy rất hợp. Tạo Hóa Đan (dùng 2 tháng tăng tốc hấp thu linh khí gấp mấy lần) được rao bán; cuộc đấu giá sôi nổi chưa ngã ngũ. (@c0032)"
-  },
-  {
-   "chuong": 33,
-   "tieuDe": "Khẩu Quyết",
-   "tomTat": "Giao dịch hội tiếp tục; Tạo Hóa Đan bị đẩy giá lên 2000 viên Đoạt Linh Đan — không ai mua nổi. VL xuất Linh Khí Tuyền Thủy (100 giọt) đổi khẩu quyết Ngưng Khí tầng 4–9; nhị sư huynh Trương Cuồng (~28-29 tuổi, mặc tử y, không che mặt) bước ra đổi ngọc giản khẩu quyết tầng 4–9 lấy toàn bộ chất lỏng còn lại. Nhưng câu 'đến hậu sơn tìm ta' của nhị sư huynh công khai trước cả hội đặt VL vào tầm ngắm; VL tẩu thoát bằng cách chồng mấy chục tấm tiên phù phóng nhanh như kiếm. (@c0033)"
-  },
-  {
-   "chuong": 34,
-   "tieuDe": "Tập Huấn",
-   "tomTat": "Không khí môn phái căng thẳng trước tỷ thí cuối năm — phần thưởng đỉnh là Song Nguyệt Hoàn (pháp bảo vừa công vừa thủ, di vật 300 năm). VL không tham gia, luyện Dẫn Lực Thuật và thuật giấu tu vi. Tôn Đại Trụ cự tuyệt xin rời núi của VL, tiết lộ 4 năm sau có đại hội giao lưu Huyền Đạo Tông — toàn đệ tử nội môn sẽ tập huấn. Vương Trác trở thành 'tân nhân vương' tỷ thí. Tôn Đại Trụ lôi VL vào đại điện bằng vũ lực — nơi chưởng môn và hơn mười lão giả tập kết. (@c0034)"
-  },
-  {
-   "chuong": 35,
-   "tieuDe": "Hậu Sơn",
-   "tomTat": "Chưởng môn Hằng Nhạc Phái dùng pháp thuật dịch chuyển tập thể hơn bốn mươi nội môn đệ tử vào Hậu Sơn — không gian sơn cốc linh khí nồng đậm do thủy tổ Nguyên Anh Kỳ ngàn năm trước mở, có vách đá chi chít động phủ. Nhị sư huynh Trương Cuồng (tử y, tầng 6) quản lý; phát 100 viên Đoạt Linh Đan/người/năm. VL nhận ra đây chính là nhị sư huynh từng giao dịch tuyền thủy — cảnh giác vì đã nói dối; nhờ từng uống Hóa Hình Hóa Thanh Đan che mặt nên không bị nhận ra. Được Trương Cuồng 'tiễn' vào một huyệt động kín đáo — đúng như VL mong muốn. (@c0035)"
-  },
-  {
-   "chuong": 36,
-   "tieuDe": "Thị Phi",
-   "tomTat": "VL bế quan đầu trong động phủ hậu sơn, dùng hạt châu; 2 năm thực = gần 13 năm mộng cảnh. Trong mộng cảnh đột phá tầng 3 thành công; nhưng bị 'một cỗ lực lượng thần kỳ' ngăn cản không đột phá nổi lên tầng 4. Phát hiện đặc dị: tầng 3 không có cực hạn — linh khí vẫn tăng. Linh Khí Tuyết Thủy dùng hết; còn 1 hồ lô lộ thủy cuối không dám dùng (từng suýt chết). Dẫn Lực Thuật luyện tới lô hỏa thuần thanh. Ra khỏi bế quan, VL giả lộ tầng 1; bị Vương Trác (tầng 3) và Tôn Hạo (đỉnh phong tầng 4) chế nhạo — Trương Cuồng bay xuống quát mắng, bênh VL. VL hỏi về lý do không thể đột phá tầng 4. (@c0036)"
-  },
-  {
-   "chuong": 37,
-   "tieuDe": "+4 Năm",
-   "tomTat": "Trương Cuồng giảng hai bình cảnh Ngưng Khí: tam tiến tứ (cần lĩnh ngộ đại đạo/'chặt đứt phàm trần'); ngũ tiến lục (hao linh khí lớn). VL chấn động trong lòng. VL bị Trương Cuồng bắt gặp khi múc nước sông linh khí với nhiều hồ lô; khéo léo viện cớ qua mặt. VL trầm tư: không thể chặt đứt thân tình, bỏ ý niệm đột phá ngắn hạn, an tâm củng cố tầng 3. Hết 4 năm bế quan: Vương Trác tầng 5 đỉnh phong; Trương Cuồng tầng 6; Từ sư tỷ tầng 3; Chu sư tỷ kẹt tầng 3. VL mơ hồ cảm nhận cách tu luyện của mình khác biệt. (@c0037)"
-  },
-  {
-   "chuong": 38,
-   "tieuDe": "Quang Ban",
-   "tomTat": "Chưởng môn kết thúc 4 năm tập huấn tại đại điện — đệ tử tầng 5+ ở lại, còn lại giải tán; Huyền Đạo Tông đến sau 3 ngày. VL đến báo cáo Tôn Đại Trụ — Tôn kinh ngạc thấy VL đạt tầng 3, bỏ ý định sưu hồn cũ, chính thức nhận VL làm đệ tử chân chính duy nhất cả đời, giao VL ở Dược Viên. Tôn khoe Khu Vật Thuật và phi kiếm bảy màu; tiết lộ VL có thể luyện Khu Vật Thuật; ném lệnh bài cho VL đến Kiếm Linh Các chọn phi kiếm. (@c0038)"
-  },
-  {
-   "chuong": 39,
-   "tieuDe": "Cự Phú",
-   "tomTat": "VL đến Kiếm Linh Các bằng lệnh bài Tôn Đại Trụ — lệ thường cần tầng 4 mới vào. Gã bạch y mập trông coi quên gỡ cấm chế; VL cưỡng qua cấm chế ba tầng dễ dàng (gã mập cưỡng theo bị đánh văng, hộc máu — kiếm khí tự chọn người xứng). Trong phòng, VL chọn 'Cự Phú' — phi kiếm đệ nhất Triệu quốc: khối kim loại mạ hoàng kim, khảm 2 kim cương, di vật sư tổ ngàn năm, cấm buôn bán. Gã mập kinh sợ đổi thái độ. Tôn Đại Trụ kinh ngạc, khen có đảm lược. Ba ngày sau, Huyền Đạo Tông đến cưỡi Thiên Túc Ngô Công khổng lồ gây khiếp đảm. (@c0039)"
-  },
-  {
-   "chuong": 40,
-   "tieuDe": "Khách Đến",
-   "tomTat": "Hoàng Long chân nhân thúc Tử Nhạc Tiên Kiếm hóa tử long uy hiếp Thiên Túc Ngô Công — hai bên cân bằng. Trưởng lão Âu Dương (Huyền Đạo Tông) nhắc kỳ hạn 10 năm: Huyền Đạo Tông thắng đòi trả pháp bảo + 100 phi kiếm; thua giao bí pháp khống chế linh thú. Hơn 10 đệ tử Huyền Đạo Tông đều mặc tử y ra oai, tuấn mỹ, có thuật giấu tu vi cao minh. Liễu Mi — nữ tử nổi bật nhất — để ý VL; VL tim đập nhưng lập tức khóa tâm thần, cảnh giác. Liễu Mi đánh giá nhầm VL chỉ tầng 3. Trưởng lão hai phái hàn huyên; VL nghe kể chuyện các tông môn Triệu quốc lần đầu có ấn tượng tổng quan. VL phát hiện một nam tử trung niên bí ẩn được cả đoàn Huyền Đạo Tông kính nể ngầm. (@c0040)"
-  },
-  {
-   "chuong": 41,
-   "tieuDe": "Ngô Công",
-   "tomTat": "Vương Trác công khai phân công Vương Lâm nhiệm vụ nguy hiểm: săn mồi nuôi Thiên Túc Ngô Công (con rết khổng lồ linh thú Huyền Đạo Tông) — nhục nhã trước cả hai phái. VL tách ra, Nữ tử họ Chu (Chu sư tỷ) ngồi bên hàn huyên; VL nói 'Đại đạo vô tình', cô thừa nhận bản thân cũng không dứt được tình thân. Đêm khuya VL lẻn lại chuồng Ngô Công một mình — bị Ngô Công phun hàn khí nhưng VL vận linh lực hóa giải dễ dàng, Ngô Công kinh ngạc. (@c0041)"
-  },
-  {
-   "chuong": 42,
-   "tieuDe": "Dịch Độc",
-   "tomTat": "VL tiếp tục quan sát Ngô Công. Rết phun hàn khí + khạc khí đen độc hại lên một con thú nhỏ — thú tan thành vũng máu. VL suy ra: độc tính Ngô Công tỉ lệ thuận với kích thước đầu. Tôn Hạo chứng kiến VL vào một mình, mỉa mai 'ngu'. Vương Lâm không trả lời, tiếp tục lên kế hoạch lấy dịch độc trị bệnh phong hàn cho phụ thân. (@c0042)"
-  },
-  {
-   "chuong": 43,
-   "tieuDe": "Dược Lô",
-   "tomTat": "VL gặp Vương Hạo sau 4 năm xa cách; thần thức quét thấy linh khí trong người Vương Hạo lưu động quỷ dị — sắp khí tán thân vong. Vương Hạo tiết lộ: bị tam sư huynh (Lữ Vân Kiệt) lừa uống Tạo Hóa Đan, ép tu Lô Hỏa Khai Đỉnh Đại Pháp — bị biến thành dược lô để luyện Nhân Thọ đan; chỉ còn ~1 năm sống. Lữ Vân Kiệt là tầng 6, giỏi luyện đan, được chưởng môn yêu; kẹt tầng 6 suốt 25 năm. VL nghe, nhớ phụ thân bị phong hàn, quyết lấy dịch độc Ngô Công. (@c0043)"
-  },
-  {
-   "chuong": 44,
-   "tieuDe": "Ngộ Đạo",
-   "tomTat": "VL nhận lời cứu Vương Hạo (sẽ giết Lữ Vân Kiệt khi tu vi đủ mạnh). Chứng kiến Lý Sơn (Huyền Đạo Tông) bán Phích Lịch đạn tại chợ; thần thức phát hiện bí mật — đạn không tự nổ, Lý Sơn ngầm kích hoạt bằng linh khí ba động. Sau khi Vương Hạo rời đi, VL bước vào cảnh giới ngộ đạo: lĩnh ngộ quy luật 'cá lớn nuốt cá bé' của Tu Chân Giới — không cần lĩnh ngộ huyền diệu, chỉ cần sức mạnh là đủ. (@c0044)"
-  },
-  {
-   "chuong": 45,
-   "tieuDe": "Phích Lịch Đạn",
-   "tomTat": "VL quyết định tương kế tựu kế: mua 3 viên Phích Lịch đạn từ Lý Sơn bằng linh phù môn phái; biết tỏng đạn do Lý Sơn khống chế nổ nhưng vẫn mua, có kế hoạch riêng. Lý Sơn thoả mãn vì nghĩ VL chỉ là quân cờ tầng 3 dễ dùng. (@c0045)"
-  },
-  {
-   "chuong": 46,
-   "tieuDe": "Mộng Cảnh",
-   "tomTat": "VL bao thần thức vào Phích Lịch đạn, phát hiện đạo thần thức Lý Sơn lưu bên trong; nuốt đạo thần thức đó vào thân — từ đó tự mình kích nổ được. Lập tức bị kéo vào Mộng Cảnh: lão quái vật ẩn trong Thạch Châu (Tư Đồ Nam) lần đầu lên tiếng. Tự xưng là lão quái vật, xác nhận tu vi thật VL = 'Linh Động Kỳ viên mãn'; hệ thống Tu Chân Quốc 5 cấp (Ngưng Khí → Trúc Cơ → Kết Đan → Nguyên Anh; 5 cấp là Liên Minh Tu Chân). (@c0046)"
-  },
-  {
-   "chuong": 47,
-   "tieuDe": "Tỷ Thí Khai Mạc",
-   "tomTat": "Tư Đồ Nam tiết lộ danh tính: cường giả lục cấp Chu Tước Quốc; bị truy sát thân hủy, ẩn vào Thạch Châu; dùng tinh hoa nguyên anh trợ giúp VL gần 30 năm. Điều kiện Thạch Châu nhận chủ: ngũ hành linh căn đủ + ≥ Anh Biến kỳ. Tỷ thí chính thức khai màn tại Thương Tùng Phong: trận 1 — Liễu Phong (Huyền Đạo, Thủy Mạc) thắng Triệu Long (Hằng Nhạc, Liên Hoa kiếm khí); trận 2 — Tôn Hạo (Hằng Nhạc) thua Lý Sơn (Phích Lịch đạn kích hoạt); trận 3 — Hứa Mộc (Hằng Nhạc) vs Lữ Tung (Huyền Đạo) bị gián đoạn vì trung niên nam tử bí ẩn trong đoàn Huyền Đạo bẻ gãy phi kiếm Lữ Tung. (@c0047)"
-  },
-  {
-   "chuong": 48,
-   "tieuDe": "Liên Thắng",
-   "tomTat": "VL được Hoàng Long cử vào trận thay người. Ba lần liên tiếp hạ Chu Bằng (đại đệ tử Huyền Đạo, tầng 13 thật (bề ngoài tầng 10, gỡ phù tầng 12)) bằng Dẫn Lực thuật + Phích Lịch đạn. Tiếp tục hạ Dương Nghị (nhị sư huynh Huyền Đạo, dùng Thất Thải Nhan Sắc + phi kiếm đỏ). Toàn bộ Hằng Nhạc tôn VL 'đại sư huynh'. Âu Dương không thể nhìn xuyên tu vi VL; đặt tên 'Cầm Long thủ' để cứu mặt (tên bịa, không có trong tiên pháp nào). Liễu Mi tiết lộ bí mật Trương Cuồng dùng Linh Tuyền thủy giữ nhan. Lữ Tung quyết định kết giao VL. Tư Đồ Nam bình: thực lực VL = Linh Động Kỳ viên mãn ≈ tầng 14; bác thuyết 'chặt đứt phàm trần'. Nội bộ Huyền Đạo: tam sư huynh Lữ Vân Kiệt âm mưu giết Vương Hạo để bịt đầu mối. (@c0048)"
-  },
-  {
-   "chuong": 49,
-   "tieuDe": "Dịch Độc Thiên Túc",
-   "tomTat": "VL đối đầu trực tiếp Âu Dương lão giả trước đám đông để lấy dịch độc Ngô Công: vận Dẫn Lực thuật hóa hai bàn tay hữu hình, vừa đỡ cự kiếm vừa khống chế Ngô Công ép thổ dịch độc màu đen vào bình ngọc. Thu dịch độc xong, dùng bình ngọc nước sông hậu sơn làm vật đổi hóa giải xung đột; Huyền Đạo Tông chấp nhận, Ngô Công được trả. Âu Dương cảnh báo: lộ thực lực sẽ bị các tông lớn nhòm ngó, Tu Chân Quốc Triệu không có Nguyên Anh lão tổ hậu thuẫn. Hoàng Long nêu tên VL làm gương toàn môn. (@c0049)"
-  },
-  {
-   "chuong": 50,
-   "tieuDe": "Giải Cứu",
-   "tomTat": "VL phát hiện Vương Hạo sắp chết trong lò luyện đan của Lữ Vân Kiệt (màn ngũ thải); phá màn, cứu Vương Hạo thoát quỷ môn quan. Hồng Kiểm lão giả (xuất hiện lần đầu) xác nhận Lô Hỏa Khai Đỉnh Đại Pháp có thật. Lữ Vân Kiệt lần đầu lộ mặt thật xưng danh, cầu xin, nhận tội. Hoàng Long phạt Lữ Vân Kiệt diện bích 20 năm; nâng Vương Hạo thành nội môn đệ tử. Hoàng Long thẩm vấn riêng VL về tiên pháp và tu vi — VL tiếp tục giấu, khăng khăng 'không biết'. (@c0050)"
-  },
-  {
-   "chuong": 51,
-   "tieuDe": "Lần Đầu Giết Người",
-   "tomTat": "Tôn Đại Trụ dùng Tam Thi Tuyến Trùng thảo (thảo dược không màu không mùi, khống chế 100% người dưới Trúc Cơ) âm mưu biến VL thành con rối vĩnh viễn. Thượng Quan trưởng lão — một trong mười trưởng lão Trúc Cơ của Hằng Nhạc Phái — dùng thần thức đánh giá, xác định thực lực thật của VL xấp xỉ tầng 14 Ngưng Khí. VL phản kháng, giết Tôn Đại Trụ (tầng 5 Ngưng Khí) — đây là lần đầu tiên trong đời hắn giết người, cũng là kết thúc mối quan hệ sư đồ trên danh nghĩa. Xác Tôn Đại Trụ bị vứt xuống khe núi. (@c0051)"
-  },
-  {
-   "chuong": 52,
-   "tieuDe": "Cấm Địa Thương Tùng",
-   "tomTat": "VL đạt tầng 14 Ngưng Khí; Tư Đồ Nam khuyên nên đạt tầng 15 trước khi Trúc Cơ, hứa sau khi Trúc Cơ sẽ truyền Hoàng Tuyền thăng khiếu quyết — công pháp đỉnh của hệ thống lục cấp tu chân quốc, cần môi trường chí âm chí hàn. Hạt nghịch châu sau khi hoàn thành thủy nguyên tố nay hiển thị hình lá (mộc nguyên tố). Tổ sư Hằng Nhạc Phái (Kết Đan kỳ, chưa nêu tên) triệu VL lên cấm địa Thương Tùng phong — khu vực có Tàng Kinh Các bí mật và là nơi cư trú của Trúc Cơ trưởng lão lẫn Kết Đan Tổ sư; nhập bằng tử sắc ngọc bội. Tư Đồ Nam mỉa mai Kết Đan Tổ sư (từng danh chấn thiên hạ). (@c0052)"
-  },
-  {
-   "chuong": 53,
-   "tieuDe": "Phác Nam Tử",
-   "tomTat": "Tàng Kinh Các cấm địa có 4 tầng: tầng 1 pháp thuật Ngưng Khí, tầng 2 công pháp Trúc Cơ (gồm Hỏa vân thuật, Địa độn thuật, Phong nhận phá, Cửu thiên hóa lôi thuật, Hoán tiên thuật — Tư Đồ Nam chê là hạ phẩm). Đang xem thì Phác Nam Tử (Nguyên Anh kỳ, Huyền Đạo Tông) đột ngột tấn công Hằng Nhạc Phái: Hộ sơn đại trận kích hoạt; một trưởng lão Trúc Cơ ngã xuống thất khiếu chảy máu khi bạch ngọc vỡ. (@c0053)"
-  },
-  {
-   "chuong": 54,
-   "tieuDe": "Mất Sơn Môn",
-   "tomTat": "Hộ sơn đại trận hoàn toàn sụp đổ — tám bạch ngọc đều vỡ. Lưu Văn Cử (hạc phát đồng nhan, Kết Đan kỳ, trụ cột Hằng Nhạc Phái) và lão phu nhân họ Vương (Kết Đan kỳ, sư tổ Hằng Nhạc) lần đầu xuất hiện chính thức. Phác Nam Tử dùng Hắc sơn (cự phong pháp bảo) áp chế; đoạt Tử Nhạc Tiên Kiếm của Hoàng Long giao cho Âu Dương sử dụng — khi kiếm được tung ra, một cự long tử sắc xuất hiện. Phác Nam Tử tuyên bố 'mượn' Hằng Nhạc sơn mười vạn năm; Hằng Nhạc lão tổ Nguyên Anh đã tử trận 'tại Vực ngoại Tu chân tinh'. VL là nguyên nhân gián tiếp vụ này vì hắn hạ đệ tử Âu Dương. (@c0054)"
-  },
-  {
-   "chuong": 55,
-   "tieuDe": "Phân Chia Đường",
-   "tomTat": "Hằng Nhạc Phái ly tán: 8/10 Trúc Cơ trưởng lão ở lại theo Huyền Đạo Tông; chỉ có Thượng Quan và Tống Dục theo Lưu Văn Cử + lão phu nhân họ Vương dẫn tàn quân rút lui. Hoàng Long, Đạo Hư, Hồng Kiểm chọn đi cùng nhóm Hằng Nhạc tàn quân. VL từ chối đề nghị của Phác Nam Tử nhập Huyền Đạo Tông; Phác Nam Tử gọi hắn 'không biết điều'. Điểm đến mới: Tượng Xà sơn — căn cứ cũ của Lưu Văn Cử, cách mấy nghìn dặm. Vương Trác ở lại (không theo Hằng Nhạc); Vương Hạo chọn ở lại vì cha. (@c0055)"
-  },
-  {
-   "chuong": 56,
-   "tieuDe": "Tang Môn",
-   "tomTat": "Đêm đầu tiên trên núi hoang, tinh thần toàn nhóm tàn quân Hằng Nhạc ở đáy. Hoàng Long ai điếu Tử Nhạc Tiên Kiếm; lão già họ Mã an ủi. VL lần đầu công khai nhận tu vi tầng 14 Ngưng Khí với đồng đạo. Trương Đức Khôn (tầng 6, mặc đồ đen) và Lữ Tung (tầng 8, không thể về Huyền Đạo vì nhiều kẻ thù) tự giới thiệu. Hoàng Đại Sơn (tầng 5, người mập Kiếm Linh các) xin chiếu cố. Nhóm bốn người hình thành: VL (đại sư huynh), Lữ Tung, Trương Đức Khôn, Hoàng Đại Sơn. Tư Đồ Nam lần đầu giới thiệu Khôi Lỗi thuật như phương pháp khống chế kẻ địch. (@c0056)"
-  },
-  {
-   "chuong": 57,
-   "tieuDe": "Trên Đường",
-   "tomTat": "Nhóm tàn quân Hằng Nhạc di chuyển về Tượng Xà sơn bằng ngọc giản đôi (vòng sáng dịch chuyển, nhanh hơn phi kiếm). VL được giao cân bằng bốn phía cùng Thượng Quan và Tống Dục. Âu Dương + Phác Nam Tử truy đuổi bằng đám mây sâu khổng lồ nhưng không kịp. Lão phu nhân họ Vương tuyên bố Hằng Nhạc Phái bế quan 100 năm; mở toàn bộ công pháp cho mọi đệ tử; ra lệnh Hoàng Long nhóm lập tức bế quan hướng Trúc Cơ. Lữ Tung được giao quản lý tu luyện; VL được Lưu Văn chỉ định riêng một chỗ tu luyện. Hạt nghịch châu âm hàn giúp VL ổn định trong chuyến đi. (@c0057)"
-  },
-  {
-   "chuong": 58,
-   "tieuDe": "Âm Mưu",
-   "tomTat": "Sau khi an định tại Tượng Xà sơn, VL xin ra ngoài thăm cha mẹ; lão phu nhân từ chối nhưng Lưu Văn can thiệp, đồng ý và tặng một ngọc phù chứa một kích Kết Đan kỳ để phòng thân, cùng ngọc giản pháp quyết mở cửa. VL dùng Dẫn Lực thuật bao thân hóa cầu vồng bay — một ngày đến vùng Hằng Nhạc cũ. Nhà cha mẹ sau 5 năm đã thành tam hợp viện (dán chữ Phúc). VL ẩn trong cây ngoài thôn rải thần thức canh một tháng. Đúng dự đoán: Chu Bằng (mặc hắc bào che mùi thối, mặt đen) dẫn Trương Cuồng (nay đệ tử Huyền Đạo) tới tìm cha mẹ VL — dựa vào danh sách đệ tử Hằng Nhạc (Vương Trác không khai địa chỉ). Chu Bằng hỏi Trương Cuồng đã tiết lộ chuyện dịch thể cho ai chưa — ngầm lộ ý diệt khẩu. (@c0058)"
-  },
-  {
-   "chuong": 59,
-   "tieuDe": "Trảm Sát",
-   "tomTat": "Chu Bằng ra lệnh Trương Cuồng giết cha mẹ VL để thu hồn phách luyện hồn kỳ — dụ VL ra mặt. VL nghe lén, lần đầu tiên nảy ý định giết người. Trương Cuồng bị VL chặn ở cổng thôn — VL dùng Dẫn Lực thuật nhất tâm nhị dụng vừa khống chế phi kiếm vừa bóp gãy cổ Trương Cuồng; đây là mạng người đầu tiên VL giết. Thu phi kiếm (ngọc giản Trương Cuồng), roi trường tiên gỗ đen, túi trữ vật Trương Cuồng; thiêu xác bằng hỏa cầu. Truy đuổi Chu Bằng: dùng Dẫn Lực thuật hóa trảo — Chu Bằng biết 'Cầm Long thủ' nên né được; Dẫn Lực thuật có phạm vi giới hạn, VL lo không đuổi kịp. Hỏi Tư Đồ Nam, lão đáp 'Có. Nhưng…' (@c0059)"
-  },
-  {
-   "chuong": 60,
-   "tieuDe": "Khôi Lỗi Thuật",
-   "tomTat": "Tư Đồ Nam dùng tinh hoa Nguyên Anh thực hiện thuấn di (dịch chuyển tức thời; chỉ còn dùng được một lần nữa trước Anh Biến kỳ) đưa VL xuất hiện ngay trước mặt Chu Bằng. Tư Đồ Nam mượn thân VL thi triển tuyệt kỹ âm hàn thành danh: quang cầu lam phát nổ, làn sóng băng lan bốn phía, đông cứng cự mãng xanh lẫn Chu Bằng và phi kiếm; Chu Bằng tâm thần trọng thương, gần chết. VL đưa Chu Bằng vào động vắng; hỏi về Khôi Lỗi thuật. Tư Đồ Nam dạy các bước: (1) tìm động yên tĩnh; (2) mổ ngực đối tượng gần chết, lấy ngũ tạng tế luyện; (3) dùng thần thức phủ thi thể, tế luyện 3 ngày 3 đêm. Tác giả tiết lộ: Khôi Lỗi thuật là công pháp MA ĐẠO; Tư Đồ Nam cố ý từng bước tiêm nhiễm tâm tính VL hướng tới Ma môn. VL cắn răng hoàn thành bước một rồi nôn mửa; chuẩn bị vào bước hai. (@c0060)"
-  },
-  {
-   "chuong": 61,
-   "tieuDe": "Khôi Lỗi Hoàn Thành",
-   "tomTat": "Vương Lâm hoàn tất Khôi Lỗi thuật với Chu Bằng sau ba ngày tế luyện ngũ tạng. Ra lệnh cho 'khôi lỗi' Chu Bằng quay về Huyền Đạo Tông: âm thầm tiêu diệt những kẻ bất lợi cho Vương Lâm, đặc biệt bảo vệ cha mẹ hắn ở sơn thôn. Xong việc, Vương Lâm một mình dùng độn thuật bay về sơn thôn quê nhà thăm cha mẹ sau 5 năm xa cách. Gặp lại cha mẹ: quỳ lạy, ôm cha, cùng mẹ khóc. Nói dối Hằng Nhạc Phái đã chuyển địa điểm. Khi mẹ thúc giục chuyện hôn nhân, hắn khất lại, hứa mấy năm nữa dẫn về người vợ tốt. Ở lại nửa tháng, trong lòng ấm nhưng biết sắp phải lên đường — không biết bao giờ mới trở về. (@c0061)"
-  },
-  {
-   "chuong": 62,
-   "tieuDe": "Bế Quan Lần Hai",
-   "tomTat": "Vương Lâm cáo biệt cha mẹ, lòng buồn bã. Tìm núi trọc vô danh cách xa người — bên trong hang động có mạch nước, địa thế ẩn khuất. Dùng Dẫn Lực thuật phá đá phong bế cửa hang, bắt đầu bế quan tu luyện lần thứ hai với mục tiêu đạt Ngưng Khí tầng 15 rồi mới cố Trúc Cơ. Năm đầu vẫn liên lạc gián tiếp với Chu Bằng qua khôi lỗi. Bốn năm sau: Hằng Nhạc phong và người của Hoàng Long chân nhân đều cho rằng Vương Lâm đã chết. Lữ Tung trở thành đệ nhất trong đám ký danh đệ tử. Ba đệ tử Huyền Đạo Tông (Lịch Hải tầng 12, Từ Phi tầng 7, tiểu sư đệ) vô tình đi ngang khu vực núi trọc — Nghịch Thiên Châu cần vật liệu mộc thuộc tính. (@c0062)"
-  },
-  {
-   "chuong": 63,
-   "tieuDe": "Ba Đệ Tử Huyền Đạo Tông",
-   "tomTat": "Ba đệ tử Huyền Đạo Tông tiến vào khu vực núi trọc. Vương Lâm mượn uy lực Nghịch Thiên Châu (Tư Đồ Nam) phóng thần thức ra bao phủ vùng đất rộng — áp lực kinh thiên, toàn bộ dã thú lẫn ba tu sĩ đều quỳ bất động, không dám nhúc nhích. Lịch Hải tầng 12 sắc mặt tái nhợt hoàn toàn bất lực. Tư Đồ Nam đích thân nhìn qua và bất ngờ khi thấy Từ Phi họ 'Từ' — phản ứng hiếm có. Vương Lâm hé lộ danh tính Hằng Nhạc Phái cho họ biết tu vi mình 'viên mãn từ lâu' rồi thả ba người. Chương cũng phân tích ba con đường Trúc Cơ: tu vi viên mãn tự nhiên đột phá, dùng Trúc Cơ đan, và Đoạt Cơ Pháp (VL từ chối con đường ác độc này). (@c0063)"
-  },
-  {
-   "chuong": 64,
-   "tieuDe": "Xuất Quan — Tầng 15 Viên Mãn",
-   "tomTat": "Vương Lâm kết thúc 4 năm bế quan: năm thứ hai đã đạt viên mãn tầng 15 Ngưng Khí, hai năm còn lại dốc sức đột phá Trúc Cơ nhưng thất bại nhiều lần. Tu vi bên ngoài biểu lộ tăng từ tầng 3 lên tầng 8 (tích lũy từ nhiều lần đột phá Trúc Cơ trong Mộng Cảnh). Lấy phi kiếm lớn từ túi trữ vật, đạp kiếm phi hành xuất môn hướng Thiên Thủy thành — thành lớn nhất phía bắc Triệu Quốc, cách Hằng Nhạc phong 1000 dặm. Tư Đồ Nam rẽ vào rừng để tìm thực vật mộc thuộc tính cho Nghịch Thiên Châu, khiến VL bay lạc 10 ngày. Tình cờ gặp đoàn tiêu Uy Vũ tiêu cục do Liễu Tam (đại tiêu đầu, Khai Sơn chưởng lô hỏa thuần thanh) dẫn đầu. VL tự xưng 'Vương Lâm, lần đầu xuất môn'; bị đánh giá là 'tiểu tử không biết võ công' và nghi là gian tế trước khi được nhận vào đoàn. (@c0064)"
-  },
-  {
-   "chuong": 65,
-   "tieuDe": "Vương Tiên Sinh",
-   "tomTat": "Vương Lâm đi cùng đoàn tiêu Uy Vũ tiêu cục tiến về Thiên Thủy thành — nơi sắp có đại hội khảo thí lớn. Hắn bịa cớ 'bị cướp' để giải thích không có hành lý; thần thức bí mật phát hiện hơn mười xe ngựa trống trơn và hai người mai phục trong rừng quan sát đoàn (thả cho đoàn qua mà không tấn công). Được giới thiệu với Vương tiên sinh — thầy xem tướng của tiêu cục. VL thấy qua thần thức tia linh lực chạy qua mắt ông: có thực lực thật, không phải lừa đảo. Khi Vương tiên sinh xem tướng cho VL, vừa nhìn mặt liền phun máu và hét 'Ngươi—' không nói được tiếp — khí vận của Vương Lâm khủng khiếp vượt tầm tưởng tượng của người xem tướng. Chương cũng xác nhận toàn bộ thành viên đoàn đều có vết đen trên trán — điềm họa sắp ập đến. (@c0065)"
-  },
-  {
-   "chuong": 66,
-   "tieuDe": "Đại Đương Gia",
-   "tomTat": "Đêm tối, đoàn tiêu bị phục kích. 'Đại đương gia' — thiếu niên khoảng 20 tuổi, mặt sẹo dữ tợn, Ngưng Khí tầng 2 đỉnh phong — dẫn nhóm hắc y phong tỏa đoàn. Yêu cầu giao nộp hộp gấm đựng nhân sâm 500 năm. Liễu Tam đặt hộp xuống đất để đàm phán; đúng lúc đó Vương Lâm dùng pháp lực hút hộp gấm bay thẳng vào tay mình — đoạt trước tên cướp. Vương Lâm thấy mặt 'Đại đương gia' rất quen. Hắn thử đưa hoàng chỉ ra — 'Đại đương gia' không nhận ra vật đó, khẳng định đây không phải người đang tìm. Vương Lâm trả lại nhân sâm, nói 'nhận lầm người'. (@c0066)"
-  },
-  {
-   "chuong": 67,
-   "tieuDe": "Bạch Y Trung Niên",
-   "tomTat": "Vương Lâm nhận ra 'Đại đương gia' chính là Trương Hổ — bạn cũ từ Hằng Nhạc Phái 10 năm trước. Nhưng chưa kịp đoàn tụ, từ đám mây đen xuất hiện bạch y trung niên — Ngưng Khí tầng 15 đại viên mãn, tu tà đạo hút máu. Hắn lạnh lùng giết các thành viên đoàn tiêu, dùng thuật hút máu đúc huyết châu. Nhận ra Trương Hổ dám che chắn cho người lạ, bạch y trung niên tra tấn Trương Hổ trước mặt VL. Vương Lâm can thiệp: dùng Dẫn Lực thuật + roi rắn Hắc Mộc Điều (tự chế trong 4 năm bế quan). Bất ngờ lớn: vỏ kiếm đen của bạch y trung niên vô hiệu hóa Dẫn Lực Thuật của VL — lần đầu tiên trong lịch sử tu luyện của hắn một pháp bảo làm được điều này. Phi kiếm địch phun hư ảnh đỏ, có khả năng dịch chuyển tức thời. Trận chiến bất phân thắng bại. (@c0067)"
-  },
-  {
-   "chuong": 68,
-   "tieuDe": "Ngọc Phù Đan Bảo",
-   "tomTat": "Trận chiến với bạch y trung niên (đệ tử Tức Mặc lão nhân) tiếp diễn. Ngọc giản tạo tấm chắn lam bị phi kiếm địch chọc thủng. Vương Lâm kích hoạt ngọc phù cổ xưa do Lưu Văn Cử tặng — thực chất là Đan bảo (pháp bảo Kết Đan kỳ), đã cải tạo thành 9 lần dùng trong suốt 4 năm bế quan. Chín phù văn vàng rực bung ra bao vây địch; thân thể và túi trữ vật của bạch y trung niên hóa thành tro bụi. Vương Lâm thu phi kiếm cổ quái. Tư Đồ Nam xác nhận: vỏ kiếm đen mới là bảo bối thật sự, phi kiếm chỉ là thứ yếu. Vương Lâm mồ hôi chảy dài — trận chiến sinh tử tiêu hao lớn nhất kể từ khi tu tiên. (@c0068)"
-  },
-  {
-   "chuong": 69,
-   "tieuDe": "Hóa Thần Thuật",
-   "tomTat": "Vương Lâm dùng Hóa Thần thuật (học từ một ngọc giản từng đổi được tại một hội giao dịch ở Hằng Nhạc Phái — VL chỉ mơ hồ nhớ, @c0069) xóa ký ức về vụ chiến đấu của Vương tiên sinh và 6 người tiêu cục còn sống — chọn tha mạng thay vì diệt khẩu. Trương Hổ nhổ độc tiêu ra, diệt nốt nhóm hắc y sống sót bằng hỏa cầu, hút kim sắc huyết châu vào người. Hai người lên đỉnh núi gần đó, Trương Hổ kể toàn bộ câu chuyện: bỏ trốn khỏi Hằng Nhạc Phái sau khi giết Lưu sư huynh, bị Bạch Triển (đệ tử thứ sáu Tức Mặc lão nhân) bắt và khống chế bằng độc trùng 4 năm. Được biết: Hằng Nhạc phái 'danh tồn thật vong' — Huyền Đạo Tông thực chất đã thâu tóm từ 4 năm trước. Tức Mặc lão nhân là tán tu Kết Đan kỳ, sẽ điều tra cái chết của Bạch Triển. Trương Hổ giới thiệu Đằng Gia thành là nơi ẩn náu tốt. (@c0069)"
-  },
-  {
-   "chuong": 70,
-   "tieuDe": "Đằng Gia Thành",
-   "tomTat": "Trương Hổ giải thích chi tiết về Đằng Gia thành: gia tộc lâu đời ~500 năm ở phía bắc Triệu Quốc, là khách khanh của Vô Phong Cốc, trong thành có tin đồn có bậc Nguyên Anh kỳ. Để vào cổng phải nộp 1 hạ phẩm linh thạch; mỗi tháng nộp 1 trung phẩm linh thạch. Luật nghiêm: cấm đánh nhau và phi hành trong thành (do Đằng Hình Sâm cưỡng chế thực thi). Vương Lâm và Trương Hổ nộp phí, vào thành. Ngay cổng thành, một người Trúc Cơ kỳ (~30 tuổi, mặt âm trầm) thổi gió — Trương Hổ ngã lăn, VL chỉ lùi vài bước, thần sắc bình thản. Thuê phòng tại khách điếm. VL bắt đầu tế luyện phi kiếm cổ quái trong phòng: phi kiếm linh tính mạnh, kháng cự dữ dội; VL dùng ngọc phù phóng kim quang từng bước chế ngự, dần nhận ra cơ chế màu sắc–thuấn di. (@c0070)"
-  },
-  {
-   "chuong": 71,
-   "tieuDe": "Huyết Luyện Pháp",
-   "tomTat": "Vương Lâm dùng thần thức tế luyện phi kiếm cổ quái: phi kiếm mang 'hơi thở yêu dị' khiến người dễ chìm đắm; trải qua nhiều đêm thức tỉnh, VL cuối cùng kết nối được ký hiệu yêu quái trên thân kiếm với ý niệm mình, phi kiếm chính thức trở thành bản mệnh pháp bảo, màu sắc đổi từ vàng ố sang đen nhánh. Tư Đồ Nam dạy VL Huyết Luyện thuật (bi thuật ma đạo): cắn ngón tay nhỏ giọt máu lên pháp bảo, huyết khí dung nhập mang pháp lực mạnh hơn, uy lực lục kiếm tăng vọt. VL còn học cách điều khiển phi kiếm xuất nhập vỏ kiếm đen — mỗi lần xuất kiếm màu sắc biến động từ đen sang các màu khác tùy trạng thái linh lực. (@c0071)"
-  },
-  {
-   "chuong": 72,
-   "tieuDe": "Đoạt Cơ",
-   "tomTat": "VL mua quyển 'Những nghiên cứu tâm đắc về trận pháp' (10 khối trung phẩm linh thạch — hết túi) tại chợ Đằng Gia Thành. Đêm đó bị Đằng Lệ (Trúc Cơ hậu kỳ, cháu lão tổ Đằng Hóa Nguyên) bày bẫy bắt; VL thoát ra cổng thành. Cuộc truy sát hơn 5–6 ngày xuyên rừng: VL bày kế dây mây xanh (Đằng Điều) trọng thương Đằng Lệ, rồi dụ hắn vào tầm Thi Mị/Lục Đan tự bạo. VL liều mạng đánh cuộc — dùng Lục Kiếm xuyên nội giáp + Tư Đồ Nam đóng băng bắt sống Đằng Lệ. Thi triển Đoạt Cơ Đại Pháp: luyện Đằng Lệ thành 3 quả cầu máu/thịt/xương, rút linh hồn, đoạt một phần ba linh căn. Hóa thân lão tổ Đằng Hóa Nguyên (Nguyên Anh kỳ) xuất hiện cảm nhận cháu chết, lập trận lời nguyền định vị hình thoi in lên trán VL thề báo thù. (@c0072)"
-  },
-  {
-   "chuong": 73,
-   "tieuDe": "Đống Hoang Tàn Trong Rừng",
-   "tomTat": "Sau khi đoạt linh căn Đằng Lệ, Vương Lâm tìm vào sâu thâm sơn ẩn náu bế quan. Vùng đống đổ nát thành cổ trong rừng — quanh năm sương mù, khí âm hàn dày đặc. VL bắt đầu bế quan lần 3 luyện Hoàng Tuyền Thăng Khiếu Quyết do Tư Đồ Nam truyền (công pháp âm hàn ma đạo). Sau 2 năm bế quan, đột phá lên Trúc Cơ kỳ nhờ nền tảng Đoạt Cơ Đại Pháp và linh căn bổ sung từ Đằng Lệ. (@c0073)"
-  },
-  {
-   "chuong": 74,
-   "tieuDe": "Hoàng Tuyền Hàn Đan",
-   "tomTat": "Vương Lâm tiếp tục tu luyện Hoàng Tuyền Thăng Khiếu Quyết trong vùng đống đổ nát. Hấp thu khí âm hàn trùng khiếu các huyệt; quá trình tu luyện phức tạp nhiều biến hóa (công pháp biệt danh 'quỷ công'). VL ngưng tụ được Hoàng Tuyền Hàn Đan (tinh thể màu xanh trong đan điền, có xúc tua khuếch tán toàn thân) — mốc quan trọng của công pháp. (@c0074)"
-  },
-  {
-   "chuong": 75,
-   "tieuDe": "Lam Phu Quái Nhân",
-   "tomTat": "Vùng đống đổ nát thành cổ xuất hiện một quái nhân da tay màu lam, khắc đầy ký hiệu cổ quái, mang chín tấm phù vàng. Hai người gặp nhau: quái nhân (sau gọi là a Ngốc) dẫn VL đến nhiều nơi trong thành, qua đó VL biết được khu vực có cụm kiến trúc hình tháp với khí âm hàn phẩm chất cực cao. VL cũng phát hiện vỏ kiếm đen (bản mệnh pháp bảo mới nhặt) có phản ứng đặc biệt khi tiếp xúc khí âm hàn — màu sắc đổi từ lục sang lam rồi đen rồi hồng tùy mức độ linh lực. (@c0075)"
-  },
-  {
-   "chuong": 76,
-   "tieuDe": "Pháp Bảo Kinh Nhân",
-   "tomTat": "Thám hiểm sâu hơn vào đống đổ nát, một hắc động (vùng tối bí ẩn) xuất hiện. A Ngốc tặng Vương Lâm một pháp bảo huyễn thuật dạng hạt châu nhỏ — khi kích hoạt tạo ảo giác đánh lạc hướng thần thức địch thủ. VL nhận ra quái nhân này có thiện chí, bắt đầu tin tưởng hơn. Lục kiếm sau khi dung hợp huyết luyện pháp trở nên linh mẫn hơn, phản ứng với hắc động. (@c0076)"
-  },
-  {
-   "chuong": 77,
-   "tieuDe": "Sơ Lộ Dấu Vết",
-   "tomTat": "VL tu luyện Hoàng Tuyền Thăng Khiếu Quyết tầng 1 thành công; vô tình mở ra lối tu luyện mới — thân thể hóa hắc động cắn nuốt khí âm hàn trong phạm vi ngàn trượng. Ngưng tụ hàn đan (tinh thể xanh có xúc tua) sau tầng 3; cố trùng khiếu tầng 4 (huyệt Khí Hải) thất bại 100 lần. Hấp thu khí âm hàn cả đêm → đạt Trúc Cơ sơ kỳ đỉnh phong. Hai mối nguy hé lộ: (1) Đằng Hóa Nguyên theo trớ chú báo thù lần ra khu vực VL, cắn răng xông vào dù e dè 'thứ rất mạnh' trong đám cây; (2) Bàn tay khô héo từ quan tài hở góc ngưng tụ lôi cầu tím nói 'kỳ hạn trăm năm sắp tới, chủ nhân không chạy thoát'. (@c0077)"
-  },
-  {
-   "chuong": 78,
-   "tieuDe": "Cực Âm Linh Lực",
-   "tomTat": "Đằng Hóa Nguyên tiếp cận VL thì bị nam tử thây khô (Nguyên Anh trung kỳ — thân thể cũ Ngô Vũ) trong hắc vụ đánh đuổi; lão phun máu bỏ chạy. VL đi sâu vào thành đổ nát 4–5 ngày dùng quang cầu dò phẩm chất khí âm hàn; tìm được cái hố lớn (đường kính ~ngàn thước) ở trung tâm — trầm âm ngũ phẩm lúc giữa giờ tý. Trùng khiếu thành công huyệt Khí Hải; tinh vân hình thành, linh lực chuyển màu lam. (Toàn cảnh) Linh lực VL dị biến theo hướng Cực cảnh — một trong ba cảnh giới linh lực thượng cổ thất truyền (Cực/Đạo/Thủy); Nghịch Thiên châu + Hoàng Tuyền Thăng Khiếu Quyết (bản thất bản) là nguyên nhân. (@c0078)"
-  },
-  {
-   "chuong": 79,
-   "tieuDe": "Thi Âm Tông",
-   "tomTat": "VL thử sức với a Ngốc (quyền pháp ẩn lực đạo cổ quái, lùi VL ba thước); đặt tên linh lực biến dị là 'Cực Âm linh lực'. Theo a Ngốc 4 ngày đến trung tâm thành đổ nát; cùng mở 8 viên thạch châu triệu pho tượng nam tử cự long. Tu luyện 5 ngày trên đầu cự long tại Tuyệt âm thập phẩm (cực hạn Hoàng âm chi địa) — Hoàng Tuyền Thăng Khiếu Quyết tầng 5 đại thành, đạt Trúc Cơ trung kỳ. Nam tử thây khô (Nguyên Anh trung kỳ) tới, a Ngốc cứu VL vào trong pho tượng. Gặp Ngô Vũ (lão tổ Thi Âm tông, Nguyên Anh thể suy yếu ẩn trong pho tượng đá) — a Ngốc là thi khôi cũ Ngô Vũ từng đoạt xá thất bại. Ngô Vũ nhờ VL tìm sư huynh Dạ Tự Tại, đổi lại mở truyền tống trận + cho biết Địa Âm chi địa trong Thi Âm tông. VL lao vào truyền tống trận, a Ngốc theo sau. (@c0079)"
-  },
-  {
-   "chuong": 80,
-   "tieuDe": "Tiến Vào Tông",
-   "tomTat": "VL + a Ngốc xuất hiện trong trận tiếp dẫn Thi Âm tông Triệu quốc — trận mở 43 đạo ánh sáng (đại biểu địa vị Nguyên Anh lão tổ), tám đệ tử gác trận quỳ bái. Thanh niên gác trận dẫn VL gặp chấp sự trưởng lão Mộc Ngung (Trúc Cơ trung kỳ). VL mạo nhận thân phận đệ tử Ngô Vũ; Mộc Ngung lập tức cung kính, gọi 'sư thúc về tông'. VL xóa hoài nghi bằng kỹ thuật 'ngưng khói thành thật' (ngưng Lam Viêm Ma hỏa thành tiểu cầu bằng âm hàn linh lực). Mộc Ngung liên lạc Dạ Tự Tại qua ngọc giản; bóng người hư ảo Dạ Tự Tại (Nguyên Anh, lão tổ tối cao) xuất hiện với uy áp khổng lồ, lạnh lùng hỏi 'Ngươi chính là đệ tử của Ngô Vũ sư đệ?' — chương dừng. (@c0080)"
-  },
-  {
-   "chuong": 81,
-   "tieuDe": "Lô Đỉnh",
-   "tomTat": "Dạ Tự Tại (thực chất La Sát ký sinh) chính thức nhận VL làm đại đệ tử thứ hai; trao ngọc giản lam đậm Thi Âm tông. Tiết lộ: thân thể Dạ Tự Tại bị La Sát ký sinh hoàn toàn, thọ mệnh còn <3 tháng. Kế hoạch: dùng VL + 20 người làm vật dẫn nâng thi khôi giả đan lên Kết Đan. Nhận a Ngốc làm lô đỉnh thi khôi giả đan, kế hoạch riêng nâng a Ngốc lên Kết Đan kỳ. Mộc Ngung xác nhận đã đột phá ba năm trước. Bối cảnh Thi Âm tông: cung cấp thân thể cho tu sĩ ngũ cấp đổi xác; Hoàng Tuyền Đạo là công pháp cốt lõi; bốn tông tà đạo. (@c0081)"
-  },
-  {
-   "chuong": 82,
-   "tieuDe": "Đại Biến",
-   "tomTat": "La Sát (qua thân Dạ Tự Tại) giới thiệu VL về Hoàng Tuyền Đạo — công pháp cốt lõi Thi Âm tông, vận lam hỏa. VL bắt đầu làm quen với Thi Âm tông; a Ngốc tiếp tục ở lại dưới giám sát. Đề cập Thông Thiên Tháp — công trình trung tâm Triệu quốc; Cự Ma tộc (liên minh các sứ giả đầu khổng lồ) xuất hiện lấy Thất Thải pháp khí từ Thông Thiên Tháp. (@c0082)"
-  },
-  {
-   "chuong": 83,
-   "tieuDe": "Vực Ngoại Chiến Trường",
-   "tomTat": "Cự Ma tộc (liên minh sứ giả đầu khổng lồ) đang hoạt động ở Triệu quốc — tìm Nghịch Thiên Châu (tức Thạch Châu của VL). Đã lấy Thất Thải pháp khí từ Thông Thiên Tháp; mục tiêu tiếp theo liên quan đến Nghịch Thiên Châu. VL ý thức được mối nguy mới; Vực Ngoại được nhắc đến là khu vực có max 3 người vào, vừa được dọn sạch. (@c0083)"
-  },
-  {
-   "chuong": 84,
-   "tieuDe": "Thạch Châu Biến",
-   "tomTat": "Mộc Ngung dẫn VL xuống huyệt động Địa Âm chi địa — tầng sâu nhất, âm hàn cực đỉnh, môi trường lý tưởng để tu luyện Hoàng Tuyền Thăng Khiếu Quyết. VL phát hiện xác người khổng lồ trong huyệt động, bên cạnh là cây tỏa âm hàn cổ đại (cây chứa linh khí dị thường). Tư Đồ Nam đang ngủ trong Thạch Châu. VL tiếp xúc xác người khổng lồ — hấp thụ linh khí kỳ lạ. (@c0084)"
-  },
-  {
-   "chuong": 85,
-   "tieuDe": "Tế Luyện Vỏ Kiếm",
-   "tomTat": "Nguyên tác xác nhận rõ tu vi VL = Trúc Cơ sơ kỳ đỉnh phong, tùy thời có thể đột phá Trúc Cơ trung kỳ. Nghịch Thiên Châu phát triển lá thứ 3 — Mộc giai. VL bắt đầu tế luyện lại Vỏ Kiếm Đen (đã đắc thủ của Bạch Triển @c0068) bằng hàn hỏa tự chế trong Địa Âm chi địa: làm trận pháp trên vỏ kiếm hiện ra, rót Hàn Đan hóa lỏng vào. (@c0085)"
-  },
-  {
-   "chuong": 86,
-   "tieuDe": "Ngọc Giản Hồn Phách",
-   "tomTat": "La Sát (qua thân Dạ Tự Tại) quyết định cử VL đến Quyết Minh Cốc — vùng đất có trận phong ấn Kết Đan kỳ trở lên, dùng làm nơi nâng thi khôi giả đan. Đổ Trần (Trúc Cơ hậu kỳ, giả đan) dẫn đoàn 20 vật dẫn + VL tiến vào. A Ngốc ở lại Thi Âm tông. VL mang theo Vỏ Kiếm Đen (đang tế luyện 4/10), Nghịch Thiên Châu (3 lá Mộc giai). (@c0086)"
-  },
-  {
-   "chuong": 87,
-   "tieuDe": "Điệu Kiếp",
-   "tomTat": "Đằng Hóa Nguyên thực hiện lời nguyền: tàn sát toàn bộ Vương gia (100+ người) bằng hồn kỳ (pháp bảo Nguyên Anh kỳ). Vương Trác (Ngưng Khí tầng 11) và Vương Hạo (Ngưng Khí tầng 7) sống sót; Vương Trác gia nhập Huyền Đạo Tông. Khải Minh (thầy toán, đồng minh ĐHN) cứu Tứ thúc Vương Lâm thoát con tin. Sau đó Đằng Hóa Nguyên đứng chờ bên ngoài Quyết Minh Cốc — kết đan+ không vào được vì trận phong ấn. (@c0087)"
-  },
-  {
-   "chuong": 88,
-   "tieuDe": "Cực Cảnh Lâm Thế",
-   "tomTat": "Bên trong Quyết Minh Cốc: VL gặp Chu Quyền (bạch y thanh niên chính đạo, đệ tử Viên phái). Nghịch Thiên Châu lần đầu phát hắc quang — dấu hiệu Mộc giai 3 lá hoạt động. VL vào Cực cảnh, đồ sát vô số tu sĩ. Đằng Hóa Nguyên vẫn canh bên ngoài. (@c0088)"
-  },
-  {
-   "chuong": 89,
-   "tieuDe": "Lô Đỉnh",
-   "tomTat": "Tư Đồ Nam tỉnh dậy sau 5 ngày VL ở trong cốc. Giải thích về Hồn Kỳ (pháp bảo Nguyên Anh kỳ, phong ấn hồn phách — chỉ còn 3 thuấn di trước khi hồn phách tiêu tán). Khuyên VL ra Vực Ngoại: vùng ngoài Quyết Minh Cốc vừa dọn sạch, có gia tốc thời gian. Đằng Hóa Nguyên vẫn chờ ngoài cốc với hồn kỳ trong tay. (@c0089)"
-  },
-  {
-   "chuong": 90,
-   "tieuDe": "Mễ Lạp Chi Quang",
-   "tomTat": "VL phát hiện linh lực có biến dị: lam đen theo mảnh — hệ quả từ hấp thụ linh khí xác người khổng lồ @c0084. Tư Đồ Nam không giải thích được hiện tượng. VL chế tạo mê lạp (hạt gạo lam tự chế): 1 hạt đơn tầm 300 thước, 2 hạt kép mạnh hơn, 3 hạt tự bạo ~1 dặm; hiện có 3 hạt (2 kép, 1 đơn). Quyết Minh Cốc còn có alias 'Quang Minh Cốc' @c0090. (@c0090)"
-  },
-  {
-   "chuong": 91,
-   "tieuDe": "Cố Nhân",
-   "tomTat": "VL bước ra cửa động bắt gặp Lý Sơn (Huyền Đạo Tông, Ngưng Khí t14) bị đám đông vây đòi lệnh bài. Dùng Dẫn Lực Thuật + lục sắc phi kiếm + Cực cảnh linh lực ra tay, hạ gục hai tu sĩ Trúc Cơ kỳ tức thì — đám đông kinh sợ tản ra. Nhận ra Lý Sơn là cố nhân từ thời Huyền Đạo Tông. Tự xưng tu vi 'Trúc Cơ' (che giấu Cực cảnh thực lực). Tổng lệnh bài đang giữ: 2. (@c0091)"
-  },
-  {
-   "chuong": 92,
-   "tieuDe": "Vô Đề",
-   "tomTat": "Lão nhân giả đan Vô Phong Cốc cầm Thiên Lôi Phong Hỏa tán xuất hiện. VL kích nổ Mễ Lạp từ túi trữ vật — sóng băng lam đóng băng hóa tượng toàn bộ lão nhân và 17 đệ tử Vô Phong Cốc. Ép nữ đệ tử Hợp Hoan Tông (Vương Dĩnh) khai thông tin: tổng 7 lệnh bài, chỉ 3 danh ngạch vào Vực Ngoại chiến trường; khi thông đạo mở mà còn quá 3 lệnh bài chưa bị hủy thì Triệu quốc mất tư cách. VL thu được thêm 2 lệnh bài — tổng 4. (@c0092)"
-  },
-  {
-   "chuong": 93,
-   "tieuDe": "Liễu Mi",
-   "tomTat": "VL ép Lý Sơn dẫn đến điểm tập kết Huyền Đạo Tông. Liễu Mi (Trúc Cơ kỳ, nhờ Phác Nam Tử) lặng lẽ ném lệnh bài ra không nói một tiếng; thở dài sau khi VL đi. Lão Mã (Trúc Cơ trung kỳ, Huyền Đạo Tông) ra tay tấn công — bị VL giết bằng một chiêu băng hóa. Liễu Phong (Trúc Cơ sơ kỳ, mới đột phá hơn 1 năm) chứng kiến. VL thu đủ 5 lệnh bài; bóp nát 4, giữ 1; trở về bế quan. (@c0093)"
-  },
-  {
-   "chuong": 94,
-   "tieuDe": "Chương 94",
-   "tomTat": "Bế quan tế luyện lại phi kiếm cổ quái: huyết luyện bằng cắt lưỡi + tinh huyết + âm hàn dịch thể từ hồ lô, mất một tháng. Kết quả: phi kiếm thu nhỏ còn một nửa, thêm vân huyết sắc, chuôi từ 1/5 → 1/15 — tốc độ và thuấn di tăng mạnh. Nghiên cứu pháp bảo hạt châu A Ngốc trong tháng còn lại, phát hiện thêm công năng mới. (@c0094)"
-  },
-  {
-   "chuong": 95,
-   "tieuDe": "Chương 95",
-   "tomTat": "Tư Đồ Nam kể lại lai lịch: vốn là đệ nhất cao thủ tinh cầu lục cấp tu chân quốc; bị kẻ địch từ thất cấp tu chân quốc ép bỏ thân, dùng quỷ hồn thuật ghi ký ức vào ngọc giản Thi Âm tông. Giải thích hệ thống tu chân quốc đa cấp và các thế lực vượt tầm Triệu quốc. VL lên kế hoạch dùng Quy Hồn thuật (từ Thi Âm tông ngọc giản) trong trận chiến với Đằng Hóa Nguyên. (@c0095)"
-  },
-  {
-   "chuong": 96,
-   "tieuDe": "Chương 96",
-   "tomTat": "Tư Đồ Nam giải thích Anh Biến kỳ và chỉ vị trí đặc biệt để VL đột phá Trúc Cơ trung kỳ — đây là điều kiện phục hồi thần thức TĐN. Mộng Cảnh tiến hóa khi Thủy thuộc tính viên mãn. VL ĐỘT PHÁ TRÚC CƠ TRUNG KỲ. Thông đạo Vực Ngoại mở; tu sĩ tứ phương kéo đến cốc khẩu Quyết Minh Cốc. Tân Hải (lão tổ Phiêu Miễu tông) ra với chỉ 8 trên 25 đệ tử, thề báo thù. Thượng Quan Vân xuất hiện. Đằng Hóa Nguyên hồi hộp đứng chờ. Tịch Diệt tông không lấy được lệnh bài vì lão tổ tọa hóa. 8 đại tông phái chính-ma lưỡng đạo hội tụ. (@c0096)"
-  },
-  {
-   "chuong": 97,
-   "tieuDe": "Chương 97",
-   "tomTat": "Lâm Dịch (sứ giả Thông Thiên tháp, béo tròn) đến cùng Phác Nam Tử, Hư Mi chân nhân (đệ nhất Phiêu Miễu tông, tóc bạc), lão nhân Thiên Đạo môn — toàn bộ Nguyên Anh kỳ cúi đầu. 5 người Thi Âm tông nhân khôi (mắt đỏ, âm hàn) xuất hiện. Đằng Hóa Nguyên cảm nhận trớ chú tiếp cận; thân phận khách khanh lão tổ Vô Phong Cốc của lão được xác nhận. (@c0097)"
-  },
-  {
-   "chuong": 98,
-   "tieuDe": "Chương 98",
-   "tomTat": "VL ra khỏi trận pháp Quyết Minh Cốc giả làm đệ tử Huyền Đạo Tông. Dùng pháp bảo Thiên Huyễn Biến (từ ngũ cấp tu chân quốc, Huyễn thành) phô diễn tu vi giả leo thang từ Trúc Cơ → Kết Đan → Nguyên Anh trung kỳ trước hàng trăm tu sĩ. Lâm Dịch nhận ra xuất xứ pháp bảo. VL dùng thuấn di né đòn chộp của Đằng Hóa Nguyên; ĐHN nghi ngờ gian lận (trận pháp Quyết Minh Cốc phong ấn Kết Đan kỳ+ nên không ai vào xác minh được). (@c0098)"
-  },
-  {
-   "chuong": 99,
-   "tieuDe": "Khiên Cưỡng",
-   "tomTat": "Thân thật VL ẩn trong thông đạo Quyết Minh Cốc. Điều khiển pháp bảo A Ngốc hóa hình người rồi hóa cự long làm nghi binh giao chiến; nguyên thần A Ngốc hút trớ chú của ĐHN. ĐHN dùng Hồn Phiên (đại kỳ 7 thước, 3 vạn tinh hồn; Luyện Hồn Tông Bì Lô quốc có bản chứa >10 triệu) tấn công A Ngốc; mở Vực Ngoại thông đạo qua người khổng lồ sọ đầu lâu xuất hiện. (@c0099)"
-  },
-  {
-   "chuong": 100,
-   "tieuDe": "Vương Lâm Bỏ Mạng",
-   "tomTat": "Trận đối đầu sinh tử trước toàn Triệu quốc tu chân giới: VL dùng huyễn thuật Thiên Huyễn + Lam Băng Thiểm (Hoàng Tuyền Tông) + thuấn di liên hoàn. Tự chém đứt cánh tay phải bằng phi kiếm, đoạt túi trữ vật ĐHN bằng Dẫn Lực Thuật. ĐHN phóng Nguyên Anh ra ngoài, dùng trớ chú lưới máu giam VL; tra tấn tinh thần bằng hồn phách phụ mẫu; hủy túi trữ vật và lệnh bài VL; cho 3 vạn tinh hồn nuốt dần chân tay. VL tự nổ thân thể, phóng hồn phách phụ mẫu cùng bản thân xuyên vào thông đạo Vực Ngoại chiến trường. Lâm Dịch nói 'Là—' bị ngắt. Kết Quyển 1. (@c0100)"
+   "tomTat": "Trắc thí Hằng Nhạc Phái kết thúc mà trong mười một thiếu niên không một ai thông qua; ngoài Thiết Trụ chỉ có một cô gái cũng từng bước tới vị trí hai trượng nhưng vẫn thất bại. Đám thiếu niên bị trả về chân núi, thanh niên họ Trương dẫn Thiết Trụ cùng Vương Trác, Vương Hạo về Vương thị gia tộc; trên đường Vương Trác ngông cuồng chế nhạo cả Thiết Trụ lẫn Vương Hạo. Về tới nhà, cả tòa nhà lớn mở yến hội linh đình mừng ba thiếu niên dự tuyển, thân thích a dua nịnh hót đặc biệt ca ngợi cha Thiết Trụ, thậm chí ngỏ ý kết thân gia. Một đạo cầu vồng đưa thanh niên họ Trương cùng ba thiếu niên hạ xuống sân; thanh niên cảm khái nhìn sâu vào mắt Thiết Trụ, th��t “Đại đạo vô tình” rồi hóa kiếm quang rời đi, dặn lại ba ngày sau sẽ tới đón. Kết quả được xác nhận: Vương Trác được Đạo Hư thượng tiên thu làm đồ đệ, Vương Hạo vào Hằng Nhạc Phái với tư cách dược đồng, cha hai người mừng rỡ. Riêng cha Thiết Trụ nhìn nét mặt sa sút của con thì dâng cỗ dự cảm chẳng lành, còn mẹ Thiết Trụ đầy kỳ vọng hỏi con kết quả — chương khép lại ngay khoảnh khắc lo âu này, trước khi tin trượt của Thiết Trụ được tuyên ra."
   }
  ],
  "q02": [
@@ -2813,6 +2333,136 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
    "chuong": 606,
    "tieuDe": "Nguyên Thần Biến Dị",
    "tomTat": "Trong khe đá, Vương Lâm nuốt Thái Cổ Lôi Long khiến nguyên thần biến đổi về chất. Lôi Long không khuất phục, giãy giụa dữ dội đẩy nguyên thần tới ranh giới sắp tiêu tan, nhờ ý chí kiên định hắn mới chống đỡ được. Hắn đưa nguyên thần ra khỏi Thiên Linh cái, một bên dùng tay phải cắn nuốt Lôi Long một bên dùng tay trái in cấm chế phong ấn lên thân nó, lặp lại nhiều lần; thân thể dần mất sức sống rơi vào chết giả. Sau nhiều năm tháng, Lôi Long bị cấm chế phủ kín như lớp vảy rồng, nguyên thần thu nhỏ còn ba thước giống một Nguyên Anh, tản điện quang vô tận như vạn ngân xà, biến dị thành dạng Thiên Lôi. Nguyên thần dung nhập lại thân thể qua một lớp màng ngăn cách, thân thể khôi phục nhanh nhưng gầy yếu hơn xưa. Bản lãnh vẫn ở Vấn Đỉnh Sơ Kỳ song có thêm sức mạnh sấm sét, thần thông đều ẩn lôi uy mạnh; Lôi Long mới luyện hóa một phần năm, phần còn lại bị phong ấn. Hắn phát hiện nguyên thần không thể thoát ly thân thể, nghi là cái giá của biến dị, rồi gác lại lấy lệnh bài màu tím ra xem thần thông của nó."
+  },
+  {
+   "chuong": 608,
+   "tieuDe": "Luyện Chế Tiên Vệ",
+   "tomTat": "Vương Lâm dùng nguyên thần hút lôi hỏa, đồng thời hút sạch lửa nguyên khí đang thiêu đốt nguyên thần Đỗ Kiến, cứu hắn khỏi tiêu tán; hơn mười ngày sau Đỗ Kiến dung hợp đạt Vấn Đỉnh Sơ Kỳ, tâm trạng vừa oán hận vừa cảm kích vừa hối hận sợ hãi. Vương Lâm ngỏ ý luyện chế Đỗ Kiến thành Tiên Vệ để có thần thông rời khỏi nơi này, hứa ngàn năm sau nếu chưa tử sẽ trả tự do; Đỗ Kiến biết phản kháng là chết ngay nên đành gật đầu chấp nhận. Vương Lâm in ấn quyết tiên ý lên lông mày Đỗ Kiến rồi bắt đầu bí thuật bốn bước mô phỏng Cổ Thần của Tiên Đế Thanh Lâm. Bước một luyện thân thể thất bại không biết bao nhiêu lần, hắn phải nung chảy hàng loạt pháp bảo cũ trong túi trữ vật thành chất lỏng thay vật liệu, sau hai tháng mới hoàn thành khôi lỗi Tiên Vệ chỉ đạt Đồng cấp. Khi dọn túi, một đóa hoa hồng màu lam khiến hắn thoáng thấy thân ảnh đỏ như lửa, do dự rồi thu hồi không luyện hóa. Trước bước hai mài nhỏ nguyên thần đầy rủi ro và lực hút bên ngoài cái khe ngày càng mạnh, Vương Lâm cắn răng triệu Tôn Hồn Phiên, một cái đầu lâu lớn xanh đen hiện ra trừng nhìn hắn gào thét."
+  },
+  {
+   "chuong": 609,
+   "tieuDe": "Khôi Lỗi Hùng Mạnh",
+   "tomTat": "Vương Lâm phát hiện trong Tôn Hồn Phiên, đa số linh hồn đều tránh xa cái đầu lâu hung ác chính là Thiên Quỷ hắn bắt được năm xưa, chỉ riêng kỳ lân đã nuốt nhiều tiên lương biến hóa kỳ dị mới dám đối đầu. Hắn lôi Thiên Quỷ ra, dùng nó làm hung khí đoạt hư thể cho khôi lỗi, nhấn vào lông mày khôi lỗi và quất roi khắc chế khi nó chống cự, thay vì dùng Tán Ma Chi Hồn vì khó khống chế. Qua mấy tháng, Thiên Quỷ dung hợp với nguyên thần Đỗ Kiến rồi bị xóa mờ mà liên kết chặt chẽ, vượt qua bước luyện hóa thứ hai cực khó nhờ chấp niệm mạnh để đạt ‘thần ở trong ý’. Hơn nửa năm, hắn nhỏ máu kích hoạt và luyện thành khôi lỗi Tiên Vệ thứ nhất có khí tức ngang cảnh giới âm dương hư thực, xấp xỉ Tư Đồ Nam năm đó. Vương Lâm bội phục Tiên Đế Thanh Lâm đã sáng tạo cách luyện chế này, rồi nạp trăm vạn đạo sát lục chi khí và gắn ngọc giản truyền thần thông, ra lệnh ‘Ẩn’ cho Tiên Vệ nấp vào thân ảnh mình. Xác định phải nắm chắc sáu phần thần thông Tiên Vệ mới rời khe, hắn lấy ra đại kiếm Cự Phú lớn như cánh cửa và dung nhập tâm thần dò tìm bí mật của nó. Trong khe tối đầy tiếng gào khóc và lực hút từ hố sâu, hắn cô độc hồi tưởng 800 năm tu đạo, nhớ cha mẹ, được tiểu cầu bạch quang chứa bóng hình Uyển Nhi bầu bạn — thứ hạnh phúc nay đã trở nên quá xa xỉ và gian nan."
+  },
+  {
+   "chuong": 610,
+   "tieuDe": "Tai Họa Ngầm Của Sát Lục Tiên Quyết",
+   "tomTat": "Vương Lâm đã ngồi tu trong khe nứt dưới hố sâu vùng đất Yêu Linh suốt ba năm; lực hút hố sâu bùng nổ hai năm trước kéo cơ hội rời khỏi từ sáu phần xuống còn hai phần, hắn vẫn bình tĩnh chờ lực hút suy yếu. Sau khi đạt Vấn Đỉnh, tu vi hắn chững lại trước ba cửa ải lớn. Hai năm tĩnh tâm cảm thụ ý chí Cự Phú, hắn lĩnh ngộ thức kiếm quyết duy nhất Trảm La Quyết; Cự Phú hoàn thành truyền thừa rồi hoàn toàn tiêu tan. Cuộn tranh nữ tử thần bí lần thứ tư hiện ra gọi ‘Đi xuống’, Vương Lâm chém một kiếm khiến tranh im tiếng; Lôi Oa thức tỉnh ở bên hắn nuốt tia chớp. Hắn phát hiện Sát Lục Chi Tâm dị biến — tai họa ngầm có thể khiến hắn phát điên hoặc hủy toàn bộ Sát Lục Chi Khí — nên quyết trừ bỏ mọi phiền toái trước khi luyện thức đạo niệm thứ ba. Cuối cùng hắn bước qua ranh giới khe, chống cự lực hút xé thân, rồi nhảy ra lao về Truyền Tống Trận cổ cách hai mươi trượng, vài sợi tơ hồng bị hút khỏi da hóa khí đỏ tan thành mây khói."
+  },
+  {
+   "chuong": 611,
+   "tieuDe": "Đệ Tam Thức",
+   "tomTat": "Bị nhốt trong tuyệt địa hố sâu khí âm hàn cực nồng với lực hút khủng khiếp kéo xuống, Vương Lâm vận Thất Tinh Kiếm Trận tạo lốc xoáy nhưng không chống nổi, phải triệu con rối Tiên Vệ hóa cơn lốc đen mới tới được tảng đá lớn. Trên tảng đá, hắn lợi dụng chính lực hút để bức từng sợi tơ đỏ có linh tính của Sát Lục Tiên Quyết khỏi thân thể; đến năm thứ tư sợi cuối cùng tiêu tan, da hắn lộ lại màu bình thường. Tiếp đó hắn buông lỏng tâm thần để lực hút xuyên thấu qua người, sau khoảng sáu năm lực hút xuyên thẳng qua thân nhưng nguyên thần vẫn chưa hòa. Mãi tới năm thứ mười bảy, Vương Lâm ngộ ra muốn dung hợp thì chính mình phải trở thành một bộ phận của lực hút, đúng lúc thanh âm nữ tử trong nguyên thần thúc giục hắn “Đi xuống…”. Hắn đứng dậy bước một bước rơi xuống hố sâu, buông toàn bộ tâm thần với ý niệm tự hóa thành lực hút; nguyên thần bùng nổ sấm, lực hút dung nhập cả thân thể lẫn nguyên thần khiến thân hình đang rơi đột ngột dừng lại. Cúi nhìn vực sâu vô tận tựa hoàng tuyền, Vương Lâm lĩnh ngộ thành công Đệ Tam Thức trong thần thông đạo niệm — Hoàng Tuyền Chi Lực và tuyên bố đã đến lúc rời đi."
+  },
+  {
+   "chuong": 612,
+   "tieuDe": "Gỡ Bỏ Bí Mật Của Bức Tranh",
+   "tomTat": "Âm thanh nữ tử trong bức tranh — im lặng suốt mười ba năm — nay lần đầu mang cảm xúc, van xin Vương Lâm mang nàng xuống đáy hố. Khi hắn định bay lên, nữ tử đánh trúng điểm yếu bằng lời tiết lộ lai lịch thật của Thiên Nghịch châu và cách cứu sống tàn hồn nữ tử trong hạt châu, khiến Vương Lâm tạm mất tỉnh táo của tám trăm năm tu đạo, cầm tranh lao thẳng xuống. Sau thời gian dài bay xuống, hắn tới một hành lang có dòng xoáy cực lớn phát ra l���c hút; lực từ tranh ngưng tụ ở mắt cho hắn nhìn xuyên dòng xoáy thấy La Thiên tinh vực — quê hương nữ tử. Hắn ngồi thích ứng bảy ngày rồi triển khai Thất Tinh Kiếm Trận chống lực hút, sát lục chi ý hóa thành tơ đỏ trăm vạn dưới da, bằng đúng số Sinh Mệnh Lạc Ấn. Nữ tử kể truyền thuyết Tứ đại tiên giới Phong-Vũ-Lôi-Điện, cho biết La Thiên tinh vực là Lôi tiên giới, rồi đề nghị đưa nàng về Hướng gia ở Đông Lâm tinh đổi lấy lời hứa tổ tiên cứu tàn hồn. Vương Lâm nhận ra nàng giấu nhiều bí mật, lật kèo: không qua dòng xoáy mà phá tảng đá truyền tống trận, ném tranh cắm sâu vào vách đá, đánh vô số cấm chế phong ấn suốt mấy tháng. Sau đó hắn còn ẩn chờ, dùng con rối Tiên Vệ đánh thêm phong ấn mỗi khi nữ tử cố thoát, đến khi nàng bị giam triệt để mới rời đi."
+  },
+  {
+   "chuong": 613,
+   "tieuDe": "Lão Quái Hàng Lâm",
+   "tomTat": "Vương Lâm bay lên khỏi vực sâu, cân nhắc về nữ tử trong tranh — kẻ tu vi cực mạnh từng bị phong ấn, dò biết nhiều bí mật của hắn — mà hắn nghi là tai họa ngầm dụ hắn tới La Thiên tinh vực, song vẫn quyết rời vùng đất Yêu Linh để đề cao tu vi và ghé Hướng gia ở Đông Lâm tinh dò thân phận nàng, vì lão tổ tộc nàng được cho là cứu sống được Uyển nhi. Nhờ Thất Tinh kiếm trận, con rối Tiên Vệ và con Văn thú màu tím cũ lao xuống đón, hắn thoát khỏi hố sâu; qua thần thức Văn thú, hắn thấy lại biến cố hai tu sĩ Hỏa Yêu quận bắt Tham Lang, Chu Dật và phần lớn đàn Văn thú. Hắn dẫn Văn thú sang Thủy Yêu quận thu phục, nhưng chỉ ấu thú chịu vào túi, hơn hai phần ba Văn thú trưởng thành tự đoạn tâm mạch tự vẫn. Vương Lâm truyền tống về động phủ, phong ấn và phá truyền tống trận để không ai vào được, rồi tới bộ lạc Luyện Hồn từ biệt Thập Tam và Âu Dương Hoa, để lại công pháp gồm cả công pháp Cự Ma tộc. Tại yêu tướng phủ, hắn dùng thần thông bóng Âm dương hư thật giết Thạch Tiêu báo lời hứa năm xưa và dặn Trần Đào “Cẩn thận, sư tôn”. Cùng lúc, ngoài Đông Hải, Thiên Vận Tử, Lăng Thiên Hậu và Huyết Tổ cùng bảy tám lão giả mở cánh cửa Yêu Linh tiến vào sớm mười năm — do lạc ấn trên Vương Lâm bị khu trừ, Diêu Tích Huyết mất tích và bổn mạng thần đăng Kiếm Tiếu Thập Nhị Tử bị dập chín ngọn; Lăng Thiên Hậu quát gọi Tham Lang còn Huyết Tổ quét thần thức không thấy nữ nhi, sắc mặt càng âm trầm."
+  },
+  {
+   "chuong": 614,
+   "tieuDe": "Rời Đi",
+   "tomTat": "Khi đám lão quái vừa bước vào vùng đất Yêu Linh, Vương Lâm lập tức lao xuống vực sâu triều tịch ở Thủy Yêu quận, hòa hợp với lực hút và dùng Thất Tinh kiếm trận tăng tốc tiến tới dòng xoáy dưới đáy hố. Vân Tiên đạo lữ Vương Tạ và Hồ Quyên xuất hiện trên mây lành hư ảo, va chạm thần thức làm Lăng Thiên Hậu đau, rồi thả Thần Long và Tham Lang ra; Lăng Thiên Hậu (Kiếm Tôn) đòi lệnh bài nhưng cố kỵ Vân Tiên đạo lữ nên không dám ra tay. Tham Lang chối việc giết đệ tử Đại La kiếm tông, thề không đoạt lệnh bài và khai Vương Lâm của Thiên Vận Tông mới là kẻ giữ lệnh bài cũng là người giết người, có Thần Long làm chứng. Thiên Vận Tử vào vùng Yêu Linh nên bấm độn dò ra Vương Lâm, ánh mắt xuyên vực sâu tới hố sâu nhưng không kịp ngăn vì lực lượng dòng xoáy quá mạnh, đồng thời thấy trên người Vương Lâm không có lạc ấn Sát Lục Tiên Quyết. Vương Lâm bước lên dòng xoáy thông tới La Thiên tinh vực, dung nhập rời đi. Khoảnh khắc cuối, Huyết Tổ cảm nhận khí tức nữ nhi Diêu Tích Huyết trên người Vương Lâm, suy ra con gái mất tích liên quan tới hắn; Vương Lâm để lại câu hư phủ thứ tư khiến các lão quái nghi kỵ Huyết Tổ. Huyết Tổ thừa nhận có hư phủ thứ tư đã bị Vương Lâm chiếm cứ, đề nghị liên thủ đưa Tham Lang (kèm cấm chế khống chế) vào La Thiên tinh vực bắt Vương Lâm về, còn Thiên Vận Tử lặng nhìn dòng xoáy với ánh mắt kỳ dị khó dò."
+  },
+  {
+   "chuong": 615,
+   "tieuDe": "Sơ Nhập La Vân",
+   "tomTat": "Chương mở ra bức tranh La Thiên Tinh Vực — tinh vực rộng lớn rực rỡ, không có môn phái mà chỉ có các tu chân gia tộc huyết thống, nơi tu sĩ đa phần biết tứ đại tiên giới phong-vũ-lôi-điện đều có tinh vực riêng, khác với Liên Minh Tinh Vực bị Tu Chân Liên Minh giấu diếm sự thật ấy. Bốn tu sĩ Nhiễm Vân Tinh là Nhiễm Nguyệt, Nhiễm Thần, Nhiễm Phong và Tôn Tuyết Sơn vì chiếm được Xích diệu thạch khi thí luyện nên bị vô số Minh vụ trùng truy kích, cuối cùng bị vây trong sương độc có thể thương nguyên thần và tiêu diệt thần thông. Nhiễm Nguyệt dùng vòng ngọc toả lôi điện che chở cả nhóm, cầm cự đến khi tiên lực và đan dược cạn dần, cầu cứu gia tộc và hy vọng tiền bối hiểu Lôi hệ tới cứu. Đúng lúc đó, Vương Lâm — sau khi qua trận lốc xoáy tựa truyền tống trận — hiện ra tại tinh không xa lạ thuộc Lôi chi tiên giới, cưỡi ngân quang hình rồng và xuất tinh la bàn dạo quanh trong bỡ ngỡ. Chỉ một ánh mắt như thực chất của hắn đã khiến Minh vụ trùng run rẩy lùi lại, khiến bốn người kinh hãi cầu cứu. Vương Lâm thử thu hồi ánh mắt để sương vây lại, truyền âm hỏi đường tới Hợp vân thánh và được Tôn Tuyết Sơn đáp cách bảy ngày đường về hướng bắc. Cuối cùng hắn nâng tay thi triển Thiên Lôi chân chính sinh từ nguyên thần dung hợp Thái Cổ Lôi Long, sấm chớp như rồng tiêu tan toàn bộ sương độc khiến đám trùng cảm nhận lôi uy chân chính mà lùi ra rất nhanh."
+  },
+  {
+   "chuong": 616,
+   "tieuDe": "Mi Nhi",
+   "tomTat": "Sau khi thoát Minh vụ trùng và sấm sét, Nhiễm Nguyệt cùng Tôn Tuyết Sơn, Tôn Vân Sơn hóa cầu vồng bay tới bên Vương Lâm, kinh hãi vì trong sấm sét có một tia lôi uy chân chính; Nhiễm Nguyệt cung kính hỏi hắn có phải Lôi Tiên sứ giả, hắn không thừa nhận cũng không phủ nhận. Tôn Tuyết Sơn nguyện dẫn đường đi Nhiễm Vân Tinh và cung cấp thông tin về Thiên Huyễn Tinh — cái tên khiến Vương Lâm nhớ tới Liễu Mi từng tu luyện Thiên Huyễn Vô Tình Đạo. Vương Lâm xưng tên giả Hứa Mộc; khi nghe họ Hứa, Nhiễm Nguyệt nghi hắn người Hứa gia danh giá, lại giải thích về Đông Lâm Sát Tinh khiến bốn người tái nhợt. Cùng lúc ở Liên Minh Tinh Vực, lão già đại trưởng lão Huyễn gia đưa đệ tử Mi nhi — nữ tử tuyệt thế tu luyện Thiên Huyễn Vô Tình Đạo — rời La Thiên Tinh Vực, vì nàng mà bỏ việc tìm Thiên Nghịch Châu. Tới Nhiễm Vân Tinh, Vương Lâm né được ba cỗ thần thức, quyết ẩn nấp tránh đám Thiên Vận Tinh, che tu vi Vấn Đỉnh xuống Kết Đan hậu kỳ, đổi tướng mạo nhờ tiên vệ thần thông, vào thành Tôn gia thuê một động phủ cấp dưới ở thành bắc với trăm khối linh thạch."
+  },
+  {
+   "chuong": 617,
+   "tieuDe": "Mưu Ngọc",
+   "tomTat": "Vương Lâm dùng lệnh bài vào một phòng xá nhỏ linh khí dày đặc ở Nhiễm Vân Tinh, có lò luyện đan và phòng bế quan riêng; hắn gia cố cấm chế gian ngoài rồi thổ nạp, nhưng cách thông thường không thể nâng cao tu vi nữa. Kiểm điểm túi trữ vật, hắn thấy tiên ngọc đã hao hụt gần hết sau Vấn Đỉnh, tiên dịch chỉ còn năm giọt, nên xác định thu hoạch tiên ngọc hằng ngày là cực kỳ quan trọng. Quan sát hạt châu xanh trên nóc nhà ẩn ba trận pháp hấp khói nến hóa quang và tỏa hương, hắn nhận xét pháp thuật nhỏ ở La Thiên Tinh Vực mạnh hơn Tu Chân Liên Minh. Hắn dấy lên rồi gạt bỏ ý cướp đoạt tiên ngọc vì coi đó là tầm thường và sẽ buộc phải rời Nhiễm Vân Tinh. Vương Lâm luyện chế ba Ngụy tiên bảo gồm phi kiếm (na di ấn quyết), gương đồng (Tuế Nguyệt Ý Cảnh) và trâm cài tóc (Thiên Huyễn Vô Tình Đạo của Liễu Mi năm xưa), dùng được tiên lực dù chất lượng dưới hạ phẩm Tiên Bảo. Hắn sáng tạo thủ pháp “ngụy kế thừa” bằng phong ấn đặc thù cộng bí quyết mở trong ngọc giản và áp dụng thành công cho gương đồng. Trời sáng, hắn ra ngoài đi qua chỗ núi đá, nơi một gã thanh niên đợi hắn đi xa mới mở mắt lộ vẻ khinh miệt."
+  },
+  {
+   "chuong": 618,
+   "tieuDe": "Tôn Lão",
+   "tomTat": "Vương Lâm đang ẩn thân giả dạng tu sĩ bình thường ở một thành tu sĩ, hấp thụ linh khí ở núi đá ngoài thành bắc, bị gã thanh niên tu vi thấp khinh thường nhưng vẫn được chỉ tới Bảo Hợp Lâu ở thành đông. Hắn dạo thành đông nơi cửa hàng lớn phô trương khối linh thạch trước cửa, để ý Thanh Trúc Các nhưng chưa vào. Tới Bảo Hợp Lâu, hắn bị Lô Phong chặn theo lệ ‘hai không tiến, một không ra’ vì không đủ mười vạn linh thạch (chủ yếu dùng tiên ngọc); Lô Phong còn chê thanh phi kiếm tự luyện của hắn thấp kém và từ chối thu. Trước khi đi, Vương Lâm liếc mắt nhìn thẳng khiến Nguyên Anh của Lô Phong gần sụp đổ, mặt tái nhợt. Tôn lão lưng còng chống gậy đi ra, vốn từng đạt Anh Biến trung kỳ rồi bị thương nặng tụt xuống Hóa Thần sơ kỳ; lão nhìn theo bóng Vương Lâm thoáng thấy quen quen, lộ tia nghi hoặc rồi mệt mỏi trở vào trầm ngâm. Vương Lâm sang Thanh Trúc Các, văn sĩ trẻ niềm nở nhận phi kiếm, dùng thần thức xem rồi đột nhiên kinh khiếp."
+  },
+  {
+   "chuong": 619,
+   "tieuDe": "Bỏ Qua",
+   "tomTat": "Tại Thanh Trúc Các trên Nhiễm Vân Tinh thuộc La Thiên Tinh Vực, thanh niên Tôn Mặc dùng thần thức thử thanh phi kiếm Vương Lâm đem bán, phát hiện bên trong có lạc ấn thuấn di hiếm thấy cùng tính chất dung hợp đạt linh bảo bậc trung và linh hoạt sắc bén đạt linh bảo bậc cao. Tôn Mặc trả từ mười vạn lên mười lăm vạn linh thạch thượng phẩm, nhưng vì tu vi chỉ Kết Đan nên chỉ phát huy một phần mười uy lực, Vương Lâm bèn hỏi nơi này có tu sĩ Anh Biến không. Tôn Mặc dùng ngọc giản mời trưởng lão Anh Biến — một lão già áo xanh — tới kiểm định. Lão thử phi kiếm thấy nó thuấn di ra ngoài ngàn dặm rồi trở lại tức khắc, tuôn kiếm khí và có đạo lôi điện kì dị, chạm vào thì bị chấn lùi mấy bước nhưng trong lòng vui mừng. Lão định danh đây là ngụy tiên bảo có thuật Đại Na Di, mua với ba nghìn tiên ngọc. Khi Vương Lâm đưa ra mặt gương đồng, lão khiếp sợ hơn cả lúc nhìn phi kiếm, gọi đó là kế thừa ngụy tiên bảo và lộ rõ lòng tham; Vương Lâm thong dong ra giá năm vạn tiên ngọc, ngầm tính nếu lão ra tay cướp thì hắn giết người đoạt bảo cũng coi là phòng vệ hợp tình hợp lí để đứng vững chân tại Nhiễm Vân Tinh."
+  },
+  {
+   "chuong": 620,
+   "tieuDe": "Cảnh Báo",
+   "tomTat": "Tại Thanh Trúc Các, một lão già tu sĩ Anh Biến cực kỳ động tâm trước gương đồng ngụy tiên bảo kế thừa của Vương Lâm; vì thấy Vương Lâm (lốt thanh niên dòng trưởng gia tộc tu chân) bình tĩnh, xuất được hai pháp bảo, lão không dám đoạt mà xuất hơn một vạn tiên ngọc cùng số dư túi trữ vật mua ngọc giản kế thừa, rồi rời đi sau khi không hứng thú với cây trâm. Rời cửa hàng, Vương Lâm phát hiện một đạo thần thức bám theo nên cố tình ra ngoài thành, giữ tốc độ trình độ Kết Đan để dụ; kẻ tập kích — một người trung niên Nguyên Anh trung kỳ — giáng sương mù quỷ dị hóa bàn tay chộp tới. Vương Lâm phất tay quét tan đòn, làm kẻ địch phun tiên huyết, hoảng sợ nhận ra hắn không phải Kết Đan rồi bỏ chạy về trung tâm thành Tôn gia kêu cứu và ngã gục. Vương Lâm thong thả đuổi tới, vung lốc xoáy cuốn văng tu sĩ Tôn gia và giáng uy áp khổng lồ lên tòa nhà lớn buộc cả gia tộc chống đỡ; lão già mặt đỏ và Tôn trưởng lão dọa nạt đòi chờ trưởng bối gia tộc. Một lão hắc y Anh Biến hậu kỳ đại viên mãn mang đạo khí Vấn Đỉnh ra dàn xếp, đồng ý bồi thường hai mươi vạn tiên ngọc (xin ba ngày), bởi Lão tổ Tôn gia tầng Vấn Đỉnh đã giáng lâm trên thân lão dặn đáp ứng toàn bộ và giữ kín việc. Vương Lâm liếc mắt thâm ý vào thần thức Vấn Đỉnh trên người lão rồi rời đi; ở đáy biển đông bộ Nhiễm Vân Tinh, một nam tử tóc dài ẩn tu cảm nhận tu sĩ Vấn Đỉnh, run rẩy hiểu ra cái liếc là cảnh cáo nên rời đi không dám quấy rầy."
+  },
+  {
+   "chuong": 621,
+   "tieuDe": "Nữ Giả Nam",
+   "tomTat": "Vương Lâm xác định cách hành sự ở Nhiễm Vân Tinh là khiêm tốn — không nuốt giận như tu sĩ cấp thấp mà hờ hững nhìn ngoài, không tham dự bất kỳ tình thế nào, tạo một luồng lực vô hình khiến các tồn tại đỉnh cao không dám xúc phạm, nhằm yên tâm tu luyện rồi sớm quay về Liên Minh Tinh Vực. Khi trở về chỗ ở nơi thành Bắc, một người thanh niên gầy gò tĩnh tọa thổ nạp gọi hắn lại, lên giọng giáo huấn về tu chân: phải chăm chỉ, bế quan vài chục năm mới kết anh, tâm vững thân vững mới nghịch thiên tu hành; Vương Lâm cười khổ vâng dạ vì chưa từng có ai dám nói với hắn như vậy. Đi vào cửa, một làn gió thổi tung búi tóc khiến người này vô thức vuốt tóc dịu dàng, xác nhận đó là một phụ nữ giả nam dùng pháp thuật che mặt — điều hắn đã phát hiện từ mấy ngày trước, dù tướng mạo thật vẫn chưa lộ. Về phòng, Vương Lâm dùng nghìn khối tiên ngọc bắt pháp quyết ép tiên khí co rút để thổ nạp ba ngày liền cho đến khi tiên ngọc hóa bụi, nhận ra tu vi Vấn Đỉnh ngốn tiên ngọc khổng lồ hơn Anh Biến nhiều, và suy tư rằng tiên giới đã không còn thì tu sĩ bước thứ hai như Thiên Vận Tử có lẽ không cần tiên ngọc hoặc có cách thay thế. Tôn Khải Minh — lão già hắc y của Tôn Gia phụ trách tòa thành, tự hạ tu vi xuống Kết Đan kỳ — cung kính gặp hắn, hỏi tên và được đáp là Hứa Mộc, rồi giao túi trữ vật chứa hai mươi vạn tiên ngọc. Được tộc giao nhiệm vụ thăm dò tu vi, lão buộc phải nhắc cuộc đấu giá bảy ngày sau ở Bảo Hợp Lâu của Nhiễm Gia có một viên bát phẩm thứ thần đan; Vương Lâm phóng áp lực vô hình khiến lão run rẩy, cuối cùng bảo mang đến và nhận khối lệnh bài đấu giá hồng sắc."
+  },
+  {
+   "chuong": 622,
+   "tieuDe": "Pháp Bảo Đặc Biệt Nhằm Vào Vương Lâm",
+   "tomTat": "Lão già hắc y dùng bát phẩm thần đan thăm dò Vương Lâm theo lệnh người trong tộc, bị hắn cảnh cáo “Không còn lần thứ hai” rồi kinh hãi tan biến. Nhờ ký ức Lý Mộ Uyển, Vương Lâm luận rõ phẩm cấp đan dược và nhận ra đây là bẫy của Tôn Gia có tu sĩ Vấn Đỉnh chống lưng, không động tâm chứng tỏ tu vi đã tới bước thứ hai. Ở La Thiên Tinh Vực, sư phụ Huyễn Gia đưa Liễu Mi về Thiên Huyễn Tinh, định thi triển Hoán Huyết đưa huyết mạch gia tộc vào nàng, nhận làm nghĩa nữ và đổi tên thành Huyễn Mi; Liễu Mi tiếc pháp bảo đặc biệt từng chuẩn bị cho Vương Lâm nay không còn chỗ dùng. Trên Nhiễm Vân Tinh, Vương Lâm hoàn thành bảy ngày hấp thụ hai mươi vạn tiên ngọc, xuất quan thì gặp người áo tím Tôn Tích chờ trước thành Bắc. Cảm động trước Tôn Lăng kiên quyết bảo vệ dù sợ hãi, Vương Lâm bước ra, đi liên tục tám bước áp bức khiến Tôn Tích trắng bệch lui bước phải cầu hòa. Tôn Tích tự xưng lão tổ Vấn Đỉnh sơ kỳ của Tôn Gia, sau khi bị bác lời cầu cạnh ban đầu liền đề nghị tặng suất đi Lôi tiên giới trăm năm sau, đồng thời hé lộ nghi ngờ về lai lịch Vương Lâm."
+  },
+  {
+   "chuong": 623,
+   "tieuDe": "Người Bốn Năm Trước",
+   "tomTat": "Vương Lâm dưới thân phận cải trang “Hứa huynh” dùng mối quan hệ cứu mạng vãn bối Tôn Tuyết Sơn để đáp lời Tôn Tích, khiến lão tổ Tôn Gia chỉ có thể hoài nghi mà không truy đến cùng, càng thêm kiêng dè và muốn kết giao. Tôn Tích dẫn Vương Lâm tới Bảo Hợp Lâu ở thành Đông đúng kỳ bán đấu giá; Tôn Khải Minh — tộc nhân đời thứ ba Tôn Gia phụ trách tòa thành — cung kính nghênh đón và dẫn lên lầu bốn dù Bảo Hợp Lâu vốn là sản nghiệp Nhiễm Gia. Vào phòng, Vương Lâm chợt thấy tâm thần khẽ động, dùng thần thức phát hiện một hình bóng già nua ở lầu ba với dấu vết đã tiêu tán hơn phân nửa, thầm thốt “Là hắn!” và cảm thấy ắt có vấn đề. Tôn Tích kể chuyện bốn năm trước: ông cùng lão tổ Nhiễm Gia và Tiêu Diêu Cư Sĩ cướp năm viên bát phẩm đan dược từ một tu sĩ ngoại lai bị trọng thương, kẻ này chết trong tay Nhiễm Gia lão tổ; trong túi trữ vật của hắn có lệnh bài Chủ Tinh Thiên Huyễn của Huyễn Gia, khiến mọi kẻ dính vào đều vướng nguy cơ bị diệt tộc. Vương Lâm nhận ra cạm bẫy: đan dược chỉ tu sĩ Vấn Đỉnh nuốt được, được bày bán ở thành Tôn Gia chính là để lão tổ Vấn Đỉnh Nhiễm Gia dụ hắn mua mà kéo hắn vào ân oán với Huyễn Gia. Cuộc đấu giá bắt đầu với bát phẩm đan dược khởi điểm một vạn tiên ngọc, còn Vương Lâm thầm cảnh giác trước tâm cơ thâm độc đó."
+  },
+  {
+   "chuong": 625,
+   "tieuDe": "Trên Sinh Tử Chính Là Nhân Quả",
+   "tomTat": "Tại Thành bảo hợp lâu trên Nhiễm Vân tinh, Tôn Thái — Đại trưởng lão Thi Âm Tông năm xưa ở Chu Tước tinh, nay tu vi tụt xuống Hóa Thần kỳ — kinh ngạc nhận ra Vương Lâm từ một quân cờ bậc thấp đã biến thành cao thủ khí tức sâu không lường, từng giết tu sĩ Vấn Đỉnh. Vương Lâm bình thản tự xưng tu vi Vấn Đỉnh khiến Tôn Thái cười khổ không tin, từ đó hiểu vì sao Lão tổ Nhiễm gia chịu đưa bát phẩm đan dược cho hắn. Tôn Thái kể quá trình luân lạc: bị truyền tống vào La Thiên tinh vực gần Đông Lâm tinh, làm tạp dịch cho Lữ gia gần trăm năm, lạc ấn được người Lữ gia gỡ nhưng vẫn còn. Hắn tiết lộ Đông Lâm tinh có ba gia tộc Hứa-Lữ-Lưu cực mạnh, là địa ngục hỗn loạn; xác nhận không biết nơi đó có Hướng gia mà Vương Lâm hỏi tới. Tôn Thái còn vạch ra cấu trúc Thi Âm Tông và Tứ Thánh tông — hai tông phái lớn nhất Liên minh tinh vực, trong đó Chu Tước tinh là chi nhánh tách từ Tứ Thánh tông, nên Vương Lâm có thể tính là đệ tử bên ngoài. Tôn Thái cảnh báo bát phẩm đan dược là âm mưu của Lão tổ Nhiễm gia. Khi hoàng hôn buông, Vương Lâm dùng ý cảnh sinh tử luân hồi nhìn ra tử khí, biết Tôn Thái chỉ còn hai mươi năm thọ; chàng hứa sẽ tiễn hắn và mang tro cốt về Ám Nguyệt tinh quê cũ. Tôn Thái cảm tạ, tặng Vương Lâm túi trữ vật chứa tiên ngọc cùng tâm đắc luyện đan luyện khí."
+  },
+  {
+   "chuong": 626,
+   "tieuDe": "Tiên Phong Khinh Phất, Thụ Dục Bất Tĩnh",
+   "tomTat": "Tôn Thái tặng Vương Lâm túi trữ vật chứa hơn năm vạn tiên ngọc rồi tập tễnh rời đi dưới ánh chiều tà, buông bỏ việc khôi phục tu vi cùng oán hận mấy trăm năm, chỉ xin được đưa về quê nhà dưới chân Thiên Sơn. Vương Lâm nhắm mắt cảm ngộ nhân quả sinh tử luân hồi, hiểu nhân quả là căn nguyên của sinh và tử nhưng vẫn còn mơ hồ. Tại Thiên Huyễn tinh, Liễu Mi ngồi trong lầu các Huyễn gia, dùng giọt máu trấn một vật dao động trong túi trữ vật rồi than pháp bảo “chuẩn bị cho hắn” nay đã vô dụng; tin truyền một tổ tiên Huyễn gia trở về với đệ tử tư chất kinh người, ba tháng sau sẽ thi triển Hoán Huyết đại pháp. Vương Lâm dịch chuyển tới cánh đồng hoang cách thành Tôn gia hơn mười vạn dặm, rải gần ba mươi vạn tiên ngọc lập trận pháp từ thức thứ ba Đạo Hóa Hoàng Tuyền, thả Thất Tinh kiếm trận và Tiên Vệ phòng vệ. Hắn hô “Vỡ!” rồi “Hút!”, nuốt trọn cơn lốc tiên lực khổng lồ, nguyên thần cắn nuốt mà đột phá lên Vấn Đỉnh trung kỳ. Toàn Nhiễm Vân tinh chỉ ba người cảm nhận được cơn lốc — Tôn Tích kinh sợ, người đàn ông trung niên trong sông băng bỏ qua, còn lão già đầu tóc xanh đen của Nhiễm gia âm trầm rồi Na Di ra ngoài vạn dặm phóng một tia sét đánh về phía hư không trong khi Vương Lâm đã thu trận và rời đi."
+  },
+  {
+   "chuong": 627,
+   "tieuDe": "Nhân Quả Tuần Hoàn, Tầm Sinh Tầm Tử",
+   "tomTat": "Lão tổ Nhiễm gia phóng Chưởng Tâm Lôi vào hư không, nhưng Vương Lâm (dưới danh Hứa mỗ) bước ra cho con rối Tiên vệ đánh tan đòn sét rồi huých trọng thương lão khiến lão phun máu, kinh hãi đoán tu vi hắn có thể là Vấn Đỉnh hậu kỳ đại viên mãn. Vương Lâm trách lão dám lôi hắn vào chuyện bốn năm trước, đòi Nhiễm gia chín phần tiên ngọc, ép Tôn Tích nộp bảy phần, ép Tiêu Dao tán nhân (Triệu mỗ) nộp chín phần cùng đan dược, túi trữ vật và di vật người Huyễn gia chết bốn năm trước. Lo nguy cơ diệt tộc nếu bị Huyễn gia tra ra, cả ba chấp nhận; Vương Lâm thu vật phẩm rồi biến mất, để lại lời nếu người Huyễn gia tới sẽ tự ra tay. Tại Thiên Huyễn tinh, lão tổ Huyễn gia tra hỏi gia chủ Huyễn Phong Thần về việc tộc nhân mất tích, cho thêm ba tháng và lệnh phái tộc vệ cho Huyễn Mi (Liễu Mi) nhổ tận gốc người liên quan. Ba ngày sau Liễu Mi nhận việc, phái thuộc hạ Huyễn Đông si mê nàng đi Nhiễm Vân tinh xử lý. Vương Lâm dùng Na Di về Tôn gia thành, ngẫm rằng ý cảnh Sinh Tử Luân Hồi đã dung hợp với nguyên thần, hắn đã nắm “tử” qua Đạo Hóa Hoàng Tuyền nhưng đạo của “sinh” thì còn chưa rõ ở đâu."
+  },
+  {
+   "chuong": 628,
+   "tieuDe": "Vân Hà Hữu Kim, Ngũ Hành Khuyết Nhất",
+   "tomTat": "Vương Lâm vào phía bắc thành Nhiễm Vân tinh, gặp lại người tu sĩ trẻ lòng dạ thiện lương từng biết hắn bị bắt đi; hắn mỉm cười khích lệ y giữ nguyên tâm cảnh hiện giờ thì có thể đạt tới Hóa Thần. Về phòng, hắn nhận ra ý cảnh không tăng thì nuốt bao nhiêu tiên khí cũng vô dụng, bèn lấy di vật người Huyễn gia do ba lão tổ Nhiễm gia đưa: bát phẩm đan dược, cây lược đen mười chín răng, đôi đá lửa tử kim, lệnh bài và ngọc giản. Nhờ trí nhớ Cổ Thần Đồ Ti, hắn hiểu đôi đá lửa là pháp bảo thiên nhiên hình thành — tài liệu luyện khí sinh kim hỏa, song tạp chất nhiều khó luyện hóa. Hắn triệu Tiên Vệ phủ lên lệnh bài, nhận ra trong đó có thần thông nhỏ liên quan mệnh hồn báo Huyễn gia biết chủ nhân đã chết. Cho thần thức dung nhập ngọc giản, đánh nát sóng đưa tin, hắn đọc được công pháp Thiên Huyễn Vô Tình đạo cùng tin tức mỏ quáng Kim Viêm ở Vân Hà tinh. Vương Lâm quyết đoạt mỏ để lấp đầy tính kim loại còn thiếu của hạt châu Thiên Nghịch giúp nó nhận chủ, nổi sát khí với kẻ tranh đoạt, rồi truyền âm lệnh Tôn Tích khắc tinh đồ La Thiên tinh vực vào ngọc giản đưa tới."
+  },
+  {
+   "chuong": 629,
+   "tieuDe": "Thính Vũ, Hồi Ức Tri Mi",
+   "tomTat": "Sau mười ngày nghiên cứu kỹ ngọc giản tinh đồ của Tôn Tích, Vương Lâm (dưới giả danh Hứa Mộc) xác định Vân Hà tinh — một tinh cầu bỏ đi không có tu sĩ, tràn ngập khói độc và chướng khí giết được tu sĩ — làm đích đến, sửa sang pháp bảo rồi chuẩn bị rời Nhiễm Vân tinh. Khi rời phòng lên tầng cương phong, hắn bị lão tổ Nhiễm gia, Tiêu Dao tán nhân và Tôn Tích chặn đường tra hỏi vì ngờ hắn ôm toàn bộ của cải đã dâng tặng mà bỏ trốn; hắn lạnh lùng khẳng định việc đã đồng ý sẽ không đổi. Đúng lúc đó Huyễn Đông — nhị phẩm tộc vệ của Huyễn gia trên Thiên Huyễn chủ tinh — đạp tinh la bàn gào thét lao đến, tự xưng danh tính và đòi diệt toàn bộ người tham dự; tiếng quát như sấm khiến tu sĩ tu vi thấp phun máu, danh “Huyễn gia” làm ba người tái nhợt tuyệt vọng. Vương Lâm “cầm tiền của người, thay người trừ tai họa” liền ra tay: thần thức hóa sấm kết thành chữ Cút, rồi phóng Tịch Diệt chỉ nhuốm điện quang đậm đặc tựa sấm sét Thiên kiếp, phá vỡ kim kiếm mà Huyễn Đông dùng Tâm Ý Ngũ Hành quyết kích phát, đánh hắn phun máu, điện quang quỷ dị hành hạ nguyên thần. Huyễn Đông kinh hãi nhận ra đối phương tu vi đáng sợ không phải người bản tinh, vỗ đùi tăng tốc dung nhập hư không Na Di bỏ chạy về bẩm báo tiểu thư. Lúc này tu vi Vương Lâm vẫn ở Vấn Đỉnh sơ kỳ nhưng tiên lực đã cực gần Vấn Đỉnh trung kỳ, chỉ cần cảm ngộ ý cảnh là đột phá."
+  },
+  {
+   "chuong": 630,
+   "tieuDe": "Tư Đồ Nam Lại Bế Quan",
+   "tomTat": "Dưới thân phận Hứa Mộc, Vương Lâm dùng Thất Tinh kiếm trận cùng tà hồn Thất Sanh Tiếu kéo Huyễn Đông ra khỏi hư vô và áp sát khống chế nguyên thần chỉ trong vài hơi thở. Ba lão tổ Nhiễm gia — Nhiễm Học Phong, Tôn Tích, Triệu Truyền Văn — lộ tia lạnh khi Huyễn Đông phơi bày việc họ giết người Huyễn gia bốn năm trước, đồng thời tiết lộ Lão tổ Huyễn gia đã trở về với tu vi Âm Dương Hư Thực và có Tiên Vệ, mang về một cô gái từ Liên Minh Tinh Vực làm con gái nuôi tên Huyễn Mi, sắp được Hoán huyết đại pháp. Vương Lâm giao Huyễn Đông cho Nhiễm gia rồi đột ngột dùng Sưu hồn thuật moi trí nhớ, phát hiện Huyễn Mi chính là Liễu Mi — kẻ có cừu hận với hắn từ Chu Tước tinh. Hắn bóp chết Huyễn Đông, thu nguyên thần vào Tôn hồn phiên. Tự lượng không liều chết với Lão tổ Huyễn gia, Vương Lâm dùng Tinh la bàn hóa rồng bạc đi tới Vân Hà tinh lấy mỏ quặng Kim Viêm cho hạt châu Thiên Nghịch toàn vẹn, một tháng sau tới gần Vân Hà tinh. Huyễn gia hay tin tộc vệ chết liền bố trí Tỏa tinh đại trận phong tỏa Nhiễm Vân tinh, ưu tiên hoàn thành Hoán huyết rồi giao việc trả thù cho Huyễn Mi tự xử lập uy; Liễu Mi lạnh nhạt coi cái chết của Huyễn Đông như con kiến."
+  },
+  {
+   "chuong": 631,
+   "tieuDe": "Huyễn Mi Tới Gần",
+   "tomTat": "Liễu Mi đứng bên cửa sổ lầu các Huyễn gia, nghĩ về trận chiến lập uy sắp tới ở Nhiễm Vân tinh và khinh thường “người đó” trên Chu Tước tinh cùng Huyễn Đông như nhau. Túi trữ vật của nàng phát dao động và oán khí đậm đặc; Lão tổ Huyễn gia cảnh báo vật quá độc ác giục giết bỏ kẻo hỏng đạo tâm, nhưng nàng từ chối, nói đã có tính toán. Bên Vân Hà tinh, Vương Lâm cưỡi rồng bạc dùng Thất Tinh kiếm trận xuyên sương mù xâm nhập tu chân tinh cầu hoang phế đầy tử khí và xúc tu để tìm mỏ Kim Viêm. Hắn chạm trán Vọng Nguyệt — mãnh thú nghìn trượng ký sinh Cổ Thần — nhờ trí nhớ Cổ Thần Đồ Ti nhận ra liền tránh né và nghi nơi đây có xác Cổ Thần. Ở Liên minh tinh vực, Tư Đồ Nam bị tông chủ Loan Phượng tinh ra lệnh truy nã, bị hai cô gái dùng quả cầu đỏ ép trời đất truy sát, thoát mà phun máu rồi quyết bế quan tới Khuy Niết kỳ. Tại Huyễn gia, Lão tổ chủ trì Hoán huyết đại pháp, dung hợp máu mấy vạn tộc nhân thành ngàn huyết phù truyền huyết mạch và đả Vạn Huyễn Vô Tướng đạo, tự tổn hại tu vi nâng Liễu Mi lên Vấn Đỉnh hậu kỳ đại viên mãn trong nửa nén hương. Liễu Mi trở thành người Huyễn gia, một mình bay tới Nhiễm Vân tinh không mang tùy tùng; Vương Lâm tiếp tục dùng thổ độn tìm mỏ Kim Viêm dưới lòng đất."
+  },
+  {
+   "chuong": 632,
+   "tieuDe": "Lang Yên Khởi",
+   "tomTat": "Vương Lâm di chuyển trong lòng đất Vân Hà tinh, thả thần thức lan toàn tầng ngầm và phát hiện một mỏ quáng Kim Viêm kéo dài vô số dặm ở chỗ sâu nhất — chính nơi năm xưa Huyễn gia từng khai thác. Thấy mỏ lộ rõ mà không ai dám lấy, hắn áp chế ham muốn, men theo quan sát và nhận ra mỏ chỉnh tề bất thường giống một bộ xương dài. Khi cả tinh cầu run lên với những xúc tu trồi lên mặt đất, hắn vỡ lẽ Vân Hà tinh chính là một con Vọng Nguyệt khổng lồ đang ngủ say, mỏ Kim Viêm là xương cốt của nó; thu mỏ trực tiếp sẽ kích thích nó thức tỉnh giết người. Dựa trí nhớ Cổ Thần Đồ Ti và ấn quyết Cổ Thần độc nhất, Vương Lâm lập kế tinh luyện dược vật từ Thăng Tiên Quả khiến Vọng Nguyệt hôn mê để lấy xương, rồi điều khiển tinh la bàn rời Vân Hà tinh hướng tới Nhiễm Vân tinh, hoãn việc làm viên mãn hạt châu Thiên Nghịch. Trên Nhiễm Vân tinh, ba người Lão tổ Nhiễm gia, Tiêu Dao tán nhân và Tôn Tích nhận ra Huyễn gia đã bố trí Tỏa Tinh Đại Trận sắp giáng lâm; Tôn Tích lạnh lùng kết luận Huyễn gia muốn diệt tộc cả ba nhà và đề phòng họ chạy thoát, lập uy cho Huyễn Mi."
+  },
+  {
+   "chuong": 633,
+   "tieuDe": "Tới Rồi",
+   "tomTat": "Ba lão tổ Nhiễm Vân tinh — Nhiễm Học Phong (Nhiễm gia), Tiêu Dao tán nhân Triệu Truyền Văn (Triệu gia) và Tôn Tích (Tôn gia) — chờ chết, đã đưa dòng chính ba tộc đi giữ hương khói và oán Hứa Mộc vì hứa che chở rồi rời đi lúc nguy cơ. Liễu Mi áo trắng thừa lệnh sư tôn Lão tổ Huyễn gia, xuyên Tỏa tinh đại trận giáng lâm để diệt ba tộc. Nàng thi triển Thiên Huyễn Vô tình đạo mê hoặc Triệu Truyền Văn và Tôn Tích khiến họ si mê quay sang đánh Nhiễm Học Phong; cả hai thiêu thân thể lẫn nguyên thần rồi tự bạo, còn Nhiễm Học Phong thiêu nguyên thần lên Ngụy hậu kỳ, mắng nguyền Liễu Mi cùng Hứa Mộc và tiết lộ chính Hứa Mộc giết Huyễn Đông trước khi tự vỗ trán hóa bụi để bảo vệ tinh cầu. Nhiễm Vân tinh tan hoang, linh mạch nứt vỡ, biển dâng trăm trượng. Liễu Mi dò ra phân thân Kết Đan của Tôn Tích ẩn ở cực nam. Đúng lúc đó Vương Lâm cưỡi tinh la bàn trở về vì đã thu tiên ngọc ba lão tổ; hắn đổi dung mạo, kinh hãi tu vi Liễu Mi đã đạt Vấn Đỉnh hậu kỳ đại viên mãn nhờ Hoán huyết. Liễu Mi nhận ra hắn qua ánh mắt lạnh lùng không đổi, gọi đúng tên và nhắc chuyện cũ ở Chu Tước tinh; nàng quyết không cho hắn đi. Vương Lâm phóng Tịch Diệt chỉ phong, Liễu Mi bấm pháp quyết tạo quầng sáng đỡ, quầng sáng nứt vô số vết, hai bên khai chiến."
+  },
+  {
+   "chuong": 634,
+   "tieuDe": "Vạn Huyễn Thiên Ma Đạo",
+   "tomTat": "Liễu Mi đoán đúng tu vi Vương Lâm chỉ là Vấn Đỉnh sơ kỳ, nghi sư tôn hắn cưỡng ép đề cao tu vi có mục đích khác, rồi tuyên bố sẽ chấm dứt ân oán cũ trên Chu Tước tinh. Vương Lâm tức giận triệu Thất Tinh kiếm trận khai chiến; Liễu Mi biến hóa thành Hồng Điệp dùng đóa hoa hồng và phù văn trăm trượng công kích, bị Vương Lâm phản kích bằng Đạo hóa Hoàng Tuyền có đạo niệm và điện quang. Liễu Mi thi triển Vạn Huyễn Thiên Ma đạo, lần lượt hóa thành Chu Như, mẹ Vương Lâm, cha hắn, Vương Trác, Độn Thiên và Lý Mộ Uyển để công tâm, khiến Đạo hóa Hoàng Tuyền của hắn dừng lại rồi sụp đổ. Vương Lâm nhận thấu pháp môn này gợi nguyên thần chi hỏa đốt cháy thể xác tinh thần, bèn nhắm mắt buông bỏ; đám huyễn hóa khói tụ thành sương mù trong lòng bàn tay. Nhờ nguyên thần ẩn chứa thượng cổ Lôi Long mang lôi uy thiên địa, hắn miễn nhiễm huyễn thuật và bóp nát đoàn sương, khiến Liễu Mi bị thương hiện thân tái nhợt. Hai người đấu khẩu ân oán cũ về việc Vương Lâm từng dùng tàn hồn ý cảnh ô uế phá thân xử nữ của nàng, mà Vương Lâm đáp là do nàng ra tay trước nên chỉ ngoài ý muốn. Liễu Mi cười độc ác mở túi trữ vật thả ra một đạo sương đen oán khí kinh thiên phủ mười dặm như quỷ cảnh, hắc mang lướt qua Tiên vệ xông tới; Vương Lâm thổi tan sương lộ một đôi mắt đen đục ngầu chứa oán diễm khiến hắn sững lại."
   }
  ]
 };
