@@ -1,0 +1,1778 @@
+{
+ "quyen": "q01",
+ "counts": {
+  "major": 82,
+  "normal": 83,
+  "bridge": 84
+ },
+ "events": [
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0001",
+   "tieuDe": "Rời thôn theo Tứ thúc nhập Hằng Nhạc Phái",
+   "old": "major",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0002",
+   "tieuDe": "Lần đầu gặp tiên nhân",
+   "old": "major",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0002",
+   "tieuDe": "Đằng vân tới Hằng Nhạc Phái",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0003",
+   "tieuDe": "Quyết bước vào trắc thí nghị lực",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0005",
+   "tieuDe": "Bị Vương Trác chế nhạo",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0005",
+   "tieuDe": "Yến hội Vương gia chờ kết quả",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0007",
+   "tieuDe": "Bỏ nhà — rơi vào huyệt động",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0008",
+   "tieuDe": "Nhặt Nghịch Thiên Châu",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0033",
+   "tieuDe": "Đoạt khẩu quyết Ngưng Khí tầng 4–9",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 2
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0046",
+   "tieuDe": "Gặp Tư Đồ Nam trong Thạch Châu",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0051",
+   "tieuDe": "Giết sư phụ Tôn Đại Trụ",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0068",
+   "tieuDe": "Đoạt phi kiếm cổ quái + vỏ kiếm đen",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0072",
+   "tieuDe": "Đoạt Cơ Đại Pháp — bị ĐHN in lời nguyền",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0073",
+   "tieuDe": "Đột phá Trúc Cơ kỳ",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0078",
+   "tieuDe": "Hình thành Cực Âm linh lực",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0081",
+   "tieuDe": "Bái nhập Thi Âm tông (đệ tử Ngô Vũ)",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0087",
+   "tieuDe": "Mất cha mẹ — Vương gia bị diệt tộc",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0100",
+   "tieuDe": "Tự nổ thân — xuyên vào Vực Ngoại",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0103",
+   "tieuDe": "Đoạt xá thân Mã Lương",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0108",
+   "tieuDe": "Ngộ Thần Thức Cực Cảnh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 3,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0117",
+   "tieuDe": "Chấp nhận con đường ma đạo",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0122",
+   "tieuDe": "Đột phá Trúc Cơ hậu kỳ đại viên mãn — đoạt Kim Đan",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0127",
+   "tieuDe": "Đột phá Kết Đan kỳ",
+   "old": "major",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0129",
+   "tieuDe": "Giết Tiễn Khôn — chữ Diệt truy sát toàn Tu Ma Hải",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 4,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0140",
+   "tieuDe": "Hiệp nghị Bát Cực Ma Quân — xem Thần Đạo thuật",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0141",
+   "tieuDe": "Lĩnh hội Thần Đạo thuật",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0147",
+   "tieuDe": "Đoạt dịch tủy — thoát ly đội ngũ",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0153",
+   "tieuDe": "Đoạt túi trữ vật Mạnh Đà Tử",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0156",
+   "tieuDe": "Vượt Bất Quy lộ — ảo giác phụ mẫu",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0160",
+   "tieuDe": "Người lĩnh ngộ thứ tư — vào Tịch Diệt giới",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0167",
+   "tieuDe": "Nhận truyền thừa Cổ Thần Đồ Ti",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0168",
+   "tieuDe": "Kết Đan hậu kỳ đỉnh phong — Kết Anh thất bại",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0170",
+   "tieuDe": "Ngưng kết Hồn Thạch — thôn hồn chính thức",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0171",
+   "tieuDe": "Bị ép phá phong ấn Huyết Hải",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0172",
+   "tieuDe": "Vào tử hải — nghi điểm truyền thừa",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0173",
+   "tieuDe": "Lật lọng, đổi mục tiêu sang sinh vật vạn trượng",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0174",
+   "tieuDe": "Né pháp bảo dị biến, chạm lân phiến",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0175",
+   "tieuDe": "Trọng tổ thân thể — 94 băng tinh ký ức Đồ Ti",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0176",
+   "tieuDe": "Tái sinh thân Cổ Thần — rời Cổ Thần chi địa",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0177",
+   "tieuDe": "Bước ra Toái Tinh Loạn — diệt phân thân",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0178",
+   "tieuDe": "Xông khỏi Toái Tinh Loạn — nghiệm chứng thực lực",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0179",
+   "tieuDe": "Giết Tiền Côn diệt khẩu — khống chế Vân Phi",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0180",
+   "tieuDe": "Tới Kỳ Lân thành — lập danh sách kẻ thù",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0183",
+   "tieuDe": "Hoàn tất Cấm Phiên — Thiên Kiếp hiện",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0184",
+   "tieuDe": "Thiên kiếp hủy Kỳ Lân thành — đại khai sát giới",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0185",
+   "tieuDe": "Kết Anh thất bại — ngộ điểm cuối Cực Cảnh",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0186",
+   "tieuDe": "Rời Tu Ma Hải — phương pháp không tán công",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0189",
+   "tieuDe": "Long tử đỉnh xuất hiện — Chu Lâm thu đồ đệ",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0190",
+   "tieuDe": "Gia nhập Vân Thiên tông — bái Chu Lâm, học luyện đan",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 3
+  },
+  {
+   "chuong": "@c0191",
+   "tieuDe": "Tái ngộ cố nhân — Lý trưởng lão chính là Lý Mộ Uyển",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0194",
+   "tieuDe": "Cứu Trình Hiền, diệt Công Tôn Đồng báo thù",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0195",
+   "tieuDe": "Lộ thân phận với Lý Mộ Uyển, lập kế hoạch lên Nguyên Anh",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 3,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0200",
+   "tieuDe": "Đột phá Nguyên Anh (Kết Anh) — ra mặt phá song tu điển lễ",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0201",
+   "tieuDe": "Chiếm Vân Thiên Tông — báo thù Lý Mộ Uyển",
+   "old": "major",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0202",
+   "tieuDe": "Khuất phục Vân Thiên Tông — rời Sở quốc",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0206",
+   "tieuDe": "Vào Liên Mặc thành — đoạt lệnh bài Bí",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0207",
+   "tieuDe": "Bí thị — nhận ra cạm bẫy Chu Vũ Đức",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0210",
+   "tieuDe": "Trở về Triệu quốc sau bốn trăm năm",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0211",
+   "tieuDe": "Khởi sự diệt Đằng gia",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0212",
+   "tieuDe": "Chém nghìn người — Đằng Hóa Nguyên nhận ra cố nhân",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0215",
+   "tieuDe": "Tận diệt hạch tâm đệ tử Đằng gia",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0217",
+   "tieuDe": "Tái ngộ Vương Trác — luân hồi cố nhân",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0220",
+   "tieuDe": "Mở túi Cổ Đế — quyết tiến Đằng gia thành",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0221",
+   "tieuDe": "Tháp đầu lâu — đệ nhất nhân Triệu quốc",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0222",
+   "tieuDe": "Giết Đằng Hóa Nguyên — mối thù ba đời kết thúc",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0223",
+   "tieuDe": "Chém tay Sứ Giả, Phác Nam Tử hóa tro, rời Triệu quốc",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0224",
+   "tieuDe": "Gặp Nạp Đa — đặt mục tiêu Liên Minh Ngũ Phái",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0225",
+   "tieuDe": "Hóa phàm — tán tu vi bổn tôn, giả thầy thuốc",
+   "old": "major",
+   "new": "major",
+   "mj": 3,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0227",
+   "tieuDe": "Phân thân đột phá Nguyên Anh trung kỳ — ẩn cư Thành Tây",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 3
+  },
+  {
+   "chuong": "@c0228",
+   "tieuDe": "Điêu khắc gỗ — phát hiện pháp bảo từ gỗ mục",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 2
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0230",
+   "tieuDe": "Bế tắc Hóa Thần kỳ — tượng giao long lọt vào Vương phủ",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0234",
+   "tieuDe": "Lão nhân Anh Biến kỳ giải thích ý cảnh — đổi 100 pho tượng",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0235-@c0236",
+   "tieuDe": "Ba ý cảnh Bạch Vân Tông — suýt trầm mê",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0238-@c0239",
+   "tieuDe": "Chu Võ Thái đến hỏi tội — đấu trí bằng lời",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0241",
+   "tieuDe": "Cảm ngộ thiên đạo — nhảy vọt Nguyên Anh hậu kỳ đỉnh",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 2
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0247",
+   "tieuDe": "Điêu khắc 400 năm vong hồn — ngộ ý cảnh Sinh Tử",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0248",
+   "tieuDe": "Ngưng tụ Hắc Ấn chữ Tử — kết thúc hóa phàm",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0253",
+   "tieuDe": "Hồng Điệp thật — cướp Vũ Đỉnh",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0254",
+   "tieuDe": "Tơ thiên kiếp diệt bà lão — trốn vào nghịch thiên",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0255",
+   "tieuDe": "Ra khỏi nghịch thiên — thế giới đổi thay",
+   "old": "major",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0259",
+   "tieuDe": "Mặc Trí — đạo sinh tử",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0260",
+   "tieuDe": "Bổn tôn tán công — con đường Đạo Cổ thần",
+   "old": "major",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0261",
+   "tieuDe": "Bổn tôn Cổ Thần lột xác lần 2 — chìm vào lòng tinh cầu",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0263",
+   "tieuDe": "Hóa Thần thành công — quay về Triệu quốc, thu hồi vỏ kiếm",
+   "old": "major",
+   "new": "major",
+   "mj": 4,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0268",
+   "tieuDe": "Thiên Đạo mở — tiến vào Vũ chi tiên môn",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "tieuDe": "Thu tiên khí — giết đệ tử Đại La kiếm tông",
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0273",
+   "tieuDe": "Ảo ảnh tiên giới — gặp Hồng Điệp",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0274",
+   "tieuDe": "Chiến Hồng Điệp — gieo mầm phá Anh Biến + chưởng ấn tiên giới",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0277",
+   "tieuDe": "Lấy tiên ngọc — đàm phán Tôn Lôi",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 5,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0280",
+   "tieuDe": "Thoát toái phiến — du hồn đãng uy",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0281",
+   "tieuDe": "Giết áo xám — gặp Sất Hổ",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0284",
+   "tieuDe": "Đấu Hồng Điệp — dẫn thiên kiếp",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0285",
+   "tieuDe": "Hòa giải — vào trùng điệp mảnh nhỏ",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0288",
+   "tieuDe": "Đáy động trống rỗng — Chu Dật xuất hiện",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0291",
+   "tieuDe": "Hạ thủ Hồng Điệp — cắt cánh tay phải",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0300",
+   "tieuDe": "Ngộ ý cảnh sinh tử tầng 2 — Hóa Thần trung kỳ trong tầm tay",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0301",
+   "tieuDe": "Dùng Sinh Tử ý cảnh tầng 2 giết lão Hóa Thần trung kỳ — Tôn Thái đồ sát trăm tu sĩ",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0302",
+   "tieuDe": "Phát hiện cách dùng thật cổ truyền tống trận bằng tiên ngọc",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 2
+  },
+  {
+   "chuong": "@c0304",
+   "tieuDe": "Xuất hiện cứu Vân Thiên Tông — tuyên bố thân phận",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0305",
+   "tieuDe": "Đại chiến Triển Bạch — lần đầu toàn lực thi triển sinh tử ý cảnh",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0306",
+   "tieuDe": "Giết Triển Bạch — ở ẩn, giúp Lý Mộ Uyển kết anh",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0309",
+   "tieuDe": "Tái ngộ Khâu Tứ Bình và lão Hồ tại đấu giá Luyện Khí Các",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0310",
+   "tieuDe": "Mất phương thuốc lục phẩm — quyết tìm Chu Ngạn Hoành",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0313",
+   "tieuDe": "Cứu Lý Mộ Uyển — tuyên chiến thiên đạo",
+   "old": "major",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0316",
+   "tieuDe": "Chuẩn bị vào Tiên Di Chi Địa",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0318",
+   "tieuDe": "Lắp Kiếm Hồn — thăm Uyển nhi",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0319",
+   "tieuDe": "Tiên Di Chi Địa — tầng 1 rồi giết ngũ diệp",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0324",
+   "tieuDe": "Xạ Thần Xa giết Xỉ Mộc — thoát tầng 3",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0329",
+   "tieuDe": "Bản Tôn cứu thoát — cho Bản Tôn quả Luân Hồi",
+   "old": "normal",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0332",
+   "tieuDe": "Đại chiến Liêu Phàm — sáng tạo Âm Ba Linh Giáp",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0336",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0337",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0338",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0339",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0340",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0341",
+   "old": "bridge",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0342",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0343",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0344",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "old": "",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0345",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0346",
+   "old": "bridge",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0347",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0348",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0349",
+   "old": "bridge",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0350",
+   "old": "bridge",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0351",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0352",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0353",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0354",
+   "old": "bridge",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0355",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0356",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0357",
+   "old": "bridge",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0358",
+   "old": "bridge",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0359",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0360",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0361",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0362",
+   "old": "bridge",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0363",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0364",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0365",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0366",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0367",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0368",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0369",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0370",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0371",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0372",
+   "old": "bridge",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0373",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0374",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0375",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0376",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0377",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0378",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0379",
+   "old": "bridge",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0380",
+   "old": "normal",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0381",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0382",
+   "old": "normal",
+   "new": "major",
+   "mj": 3,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0383",
+   "old": "normal",
+   "new": "major",
+   "mj": 2,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0384",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0385",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0386",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0387",
+   "old": "bridge",
+   "new": "normal",
+   "mj": 0,
+   "nm": 1
+  },
+  {
+   "chuong": "@c0388",
+   "old": "normal",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0389",
+   "old": "bridge",
+   "new": "major",
+   "mj": 1,
+   "nm": 0
+  },
+  {
+   "chuong": "@c0390",
+   "old": "bridge",
+   "new": "bridge",
+   "mj": 0,
+   "nm": 0
+  }
+ ]
+}
