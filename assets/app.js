@@ -109,6 +109,25 @@
     DB.factions = (facs && facs.factions) || [];
     DB.volumes = (vols && vols.volumes) || [];
     DB.quyenList = ((window.LIB_DATA || {})[slug] || {}).quyenList || [];
+    // ƯU TIÊN HIỂN THỊ: thẻ quan trọng A→B→C→D lên trên (rank do build_datajs tự chấm). Ổn định trong cùng hạng.
+    //   Lọc/tìm kiếm giữ thứ tự → A+B luôn ở trên, C+D ở dưới. KHÔNG ẩn thẻ nào.
+    (function uuTienRank() {
+      var thuTu = { A: 0, B: 1, C: 2, D: 3 };
+      function sapRank(arr) {
+        if (!Array.isArray(arr)) return arr || [];
+        return arr.map(function (x, i) { return { x: x, i: i }; })
+          .sort(function (a, b) {
+            var ra = thuTu[(a.x && a.x.rank)]; if (ra == null) ra = 2;
+            var rb = thuTu[(b.x && b.x.rank)]; if (rb == null) rb = 2;
+            return ra !== rb ? ra - rb : a.i - b.i;
+          }).map(function (o) { return o.x; });
+      }
+      DB.chars = sapRank(DB.chars);
+      DB.artifacts = sapRank(DB.artifacts);
+      DB.techniques = sapRank(DB.techniques);
+      DB.mapNodes = sapRank(DB.mapNodes);
+      DB.factions = sapRank(DB.factions);
+    })();
     if (usedDemo) $("#demoBanner").style.display = "";
   }
 
