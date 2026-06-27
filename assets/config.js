@@ -26,6 +26,13 @@ window.LIB_CONFIG = {
         { phan: 1, ten: "Phần 1 · Vong Ngữ", base: "" },
         { phan: 2, ten: "Phần 2 · Tiên Giới Thiên", base: "/phan2" }
       ]
+    },
+    {
+      slug: "the-gioi-hoan-my", ten: "Thế Giới Hoàn Mỹ", cn: "完美世界", tacGia: "Thần Đông",
+      anh: "assets/Thach-hao.jpg",
+      blurb: "Thạch Hạo — từ Thạch Thôn trong Đại Hoang vùng vẫy lớn lên, mang theo nghịch thiên cốt cách, bước qua vô số tinh không và thời đại để truy tầm con đường chân tiên bất diệt.",
+      readerBase: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/the-gioi-hoan-my/reader",
+      dataBase: "data/the-gioi-hoan-my"
     }
   ],
   // ===== 4 khối chrome (đầu/cuối trang + bong bóng) — ĐIỀN LINK THẬT =====
