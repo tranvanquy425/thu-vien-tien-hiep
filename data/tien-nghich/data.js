@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-28T17:15:06.340Z build_datajs */
+/* sync-bump 2026-06-28T18:52:10.609Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-28",
-  "count": 459,
+  "count": 460,
   "chars": [
    {
     "id": "vuong-lam",
@@ -5829,22 +5829,39 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "bridge"
       },
       {
-       "text": "Bị nhốt cùng bốn đệ tử Đại La kiếm tông trong làn Tử khí (sương tím) đang co lại, Vương Lâm mượn kiếm thức của Chu Dật để ‘nhìn’ xuyên sương. Hắn lần lượt giết kẻ tu vi yếu nhất (Anh Biến trung kỳ), rút sức sống Tị Xà thành thây khô, rồi giả giọng Tuất Cẩu lừa Ngọ Mã thu hồi kiếm khí mà điểm mi tâm giết chết. Đúng mười lần h�� hấp, Chu Dật cưỡng chế mang hắn hóa kiếm quang bay ra, thu được ba thanh bảo kiếm và hai đạo kiếm khí, chỉ sót Tuất Cẩu.",
-       "bridge": true,
-       "khoang": "@c0601",
-       "importance": "major"
+       "importance": "normal",
+       "chuong": "@c0600",
+       "tieuDe": "Nhận ra Văn thú Cổ thần",
+       "text": "Khi tới gần bờ sương tím, thần thức Vương Lâm tản ra phát hiện vô số Văn thú bên ngoài, hắn chấn động như quay lại thế giới truyền thừa của Cổ thần. Không những nhận biết mà còn rất tinh tường về chúng — điều cả Tham Lang lẫn nhóm Thần Long đều không ngờ.",
+       "anchor": "Bản thân như quay lại thế giới truyền thừa của Cổ thần"
       },
       {
+       "importance": "normal",
+       "chuong": "@c0600",
+       "tieuDe": "Từ chối ra tay, tự thoát thân",
+       "text": "Trước lời đe dọa của Tham Lang và lời giục của Thần Long, Vương Lâm từ chối ra tay cứu, viện cớ tự bảo vệ còn không xong. Hắn nhanh chóng biến mất trong sương tím cùng kiếm tiên Chu Dật lượn quanh người, tự thoát khỏi bẫy.",
+       "anchor": "nhanh chóng biến mất trong làn sương tím. Thanh kiếm tiên có Chu Dật lượn quanh người hắn"
+      },
+      {
+       "importance": "normal",
        "chuong": "@c0601",
-       "importance": "major",
-       "tieuDe": "Tham Lang truy bắt vì hơi thở Tư Đồ Nam",
-       "text": "Thoát khỏi sương tím, Vương Lâm rơi vào bầy Văn thú hơn vạn con do Tham Lang điều khiển. Tham Lang không định giết mà muốn bắt nguyên thần hắn để tra hỏi nơi ở Tư Đồ Nam, do tại Đông Hải Yêu Linh đã nhận ra hơi thở Tư Đồ Nam trên người hắn. Giữa lúc nguy cấp, một bóng tím tách khỏi đàn bay thẳng về phía Vương Lâm — chính là Văn thú của hắn."
+       "tieuDe": "Giết ba đệ tử Đại La trong sương mù",
+       "text": "Lợi dụng sương tím khiến thần thức vô dụng, Vương Lâm nhờ Chu Dật định vị bốn đệ tử Đại La kiếm tông rồi lần lượt chém đầu kẻ Anh Biến trung kỳ yếu nhất, điểm chết Tị Xà, giả giọng Tuất Cẩu lừa Ngọ Mã thu kiếm khí rồi điểm mi tâm giết. Hắn đoạt được ba thanh bảo kiếm và hai đạo kiếm khí.",
+       "anchor": "Cả bốn gã đệ tử Đại La kiếm tông, Vương Lâm lấy được ba thanh kiếm và hai đạo kiếm khí."
       },
       {
-       "text": "Cùng Thần Long không hẹn mà hợp công Tham Lang giữa đàn Văn thú: điều khiển con Văn thú của mình nuốt đồng loại để áp chế cả đàn lao vào Tham Lang, rồi dùng Tịch Diệt Chỉ và Sát Lục Tiên Quyết tấn công. Khi sát lục khí ‘Tán’ hóa trăm vạn bị tiên lực trong sơn hồn phá tan, hắn nhận ra ngọn núi tiên giới của Tham Lang vốn ẩn chứa tiên lực có sẵn; may nhờ một tia sát lục khí lưu trong nguyên thần có thể sinh sôi khôi phục nên không tổn hao vĩnh viễn.",
-       "bridge": true,
-       "khoang": "@c0602",
-       "importance": "major"
+       "importance": "normal",
+       "chuong": "@c0601",
+       "tieuDe": "Đối mặt Tham Lang và bầy Văn thú",
+       "text": "Chu Dật cưỡng chế đưa Vương Lâm hóa kiếm quang bay ra khỏi sương tím. Ra ngoài, hắn đạp kiếm tiên tỏa kiếm khí dày đặc, đối mặt Tham Lang xua đàn Văn thú hơn vạn con vây bắt; đúng lúc đó Văn thú của chính hắn bay tới.",
+       "anchor": "Cái bóng đó đúng là Văn thú của Vương Lâm."
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0602",
+       "tieuDe": "Đoạt đầu đàn Văn thú vây Tham Lang",
+       "text": "Vương Lâm điều khiển Văn thú của mình thôn phệ con đầu đàn bị Tham Lang khống chế, đoạt quyền chỉ huy cả đàn quay sang vây đánh Tham Lang. Sau đó hắn cùng Thần Long hợp lực dùng Tịch Diệt Chỉ và Sát Lục Tiên Quyết vây công, song sát lục khí bị tiên lực sơn hồn hóa giải, may còn lưu một tia trong thần thức để khôi phục.",
+       "anchor": "hình thể Văn thú của Vương Lâm dần dần lớn lên"
       },
       {
        "text": "Vương Lâm điều khiển đàn Văn thú vây Tham Lang, mượn thân Thần Long và tiên kiếm Chu Dật dung thân để di chuyển. Hắn hai lần thi triển tiên thuật ‘Định’ khống chế Thần Long rồi Tham Lang đúng tích tắc để chụp lấy lệnh bài cổ kính. Tuy nhiên ngay khi gần tới cửa ra Hỏa Yêu quận, hắn bị đại đỉnh Càn Khôn nghịch chuyển của Tham Lang đảo vị, rơi vào chỗ Thần Long đang bị sương mù vây khốn.",
@@ -9513,6 +9530,66 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "doi-thu",
        "quanHe": "Cự long sấm sét truy kích Vương Lâm vì hận; cuối cùng nửa linh hồn của nó bị Vương Lâm nuốt và hấp thu sức mạnh.",
        "ghiChu": "@c0605"
+      },
+      {
+       "ten": "Tham Lang",
+       "tag": "doi-thu",
+       "quanHe": "Tiền bối đồng lứa sư tôn, giăng bẫy đợi trăm năm muốn dùng Vương Lâm; bị thần thức Vương Lâm âm thầm đe dọa khiến do dự không dám ra tay bắt.",
+       "ghiChu": "Gặp trong sương tím @c0600"
+      },
+      {
+       "ten": "Thần Long",
+       "tag": "doi-thu",
+       "quanHe": "Đệ tử Đại La kiếm tông tâm cơ thâm trầm, đề nghị hợp lực phá vây nhưng đề phòng Vương Lâm đánh lén; cuối chương hối hận đã không sớm phản bội Tham Lang.",
+       "ghiChu": "@c0600"
+      },
+      {
+       "ten": "Ngọ Mã",
+       "tag": "doi-thu",
+       "quanHe": "Đệ tử Đại La kiếm tông bị Vương Lâm điểm mi tâm giết chết",
+       "ghiChu": "Bị giết @c0601"
+      },
+      {
+       "ten": "Tị Xà",
+       "tag": "doi-thu",
+       "quanHe": "Đệ tử Đại La kiếm tông bị Vương Lâm áp tay hóa thây khô",
+       "ghiChu": "Bị giết @c0601"
+      },
+      {
+       "ten": "Tuất Cẩu",
+       "tag": "doi-thu",
+       "quanHe": "Đệ tử Đại La kiếm tông; tiếng gọi của hắn vô tình giúp Vương Lâm giết Ngọ Mã",
+       "ghiChu": "@c0601"
+      },
+      {
+       "ten": "Tham Lang",
+       "tag": "doi-thu",
+       "quanHe": "Khống chế bầy Văn thú vây Vương Lâm, muốn bắt nguyên thần để tra hỏi Tư Đồ Nam",
+       "ghiChu": "@c0601"
+      },
+      {
+       "ten": "Thần Long",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm thời liên thủ vây công Tham Lang",
+       "ghiChu": "Cùng dốc sức giết Tham Lang dù không thỏa thuận (@c0602)"
+      },
+      {
+       "ten": "Tham Lang",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ cường giả bị Vương Lâm và Thần Long vây công",
+       "ghiChu": "Sát lục khí của Vương Lâm bị sơn hồn Tham Lang đánh tan (@c0602)"
+      },
+      {
+       "ten": "Thần Long",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm thời",
+       "ghiChu": "Hợp lực vây công Tham Lang, tuy không hẹn nhưng cùng chớp thời cơ."
+      },
+      {
+       "ten": "Tham Lang",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ",
+       "ghiChu": "Cùng Thần Long vây công nhưng bị Tham Lang dùng sơn hồn hóa giải thần thông."
       }
      ],
      "tuiDo": {
@@ -10638,7 +10715,8 @@ window.LIB_DATA["tien-nghich"]={
      "@c0632",
      "@c0633",
      "@c0634",
-     "@c0624"
+     "@c0624",
+     "@c0600"
     ],
     "rank": "A"
    },
@@ -24244,6 +24322,13 @@ window.LIB_DATA["tien-nghich"]={
        "nguonNblm": true
       },
       {
+       "importance": "normal",
+       "chuong": "@c0601",
+       "tieuDe": "Định vị và cưỡng chế đưa Vương Lâm ra",
+       "text": "Trong sương mù khiến thần thức vô dụng, Chu Dật dùng kiếm thức bám lấy định vị bốn đệ tử Đại La cho Vương Lâm, hẹn mười lần hô hấp. Đúng hạn, hắn cưỡng chế mang Vương Lâm hóa kiếm quang bay ra, bội phục sự lớn mật của Vương Lâm.",
+       "anchor": "Chu Dật cưỡng chế mang Vương Lâm, hóa thành kiếm quang bay ra khỏi làn sương tím."
+      },
+      {
        "chuong": "@c0603",
        "importance": "normal",
        "tieuDe": "Dung thân tiên kiếm trợ chiến",
@@ -24392,7 +24477,8 @@ window.LIB_DATA["tien-nghich"]={
      "@c0596",
      "@c0603",
      "@c0613",
-     "@c0604"
+     "@c0604",
+     "@c0601"
     ],
     "detail": "Đệ tử Ngũ Hành Tông tư chất xuất chúng, vì si tình thi thể nữ tiên (Đình Nhi, thực là Thanh Sương con gái tiên đế Thanh Lâm) mà phản sư môn, lấy Si làm Ý cảnh, đột phá tới Vấn Đỉnh kỳ. Sau khi đốt Nguyên Thần được nữ thi phong làm Kiếm Hồn của Vũ Chi Tiên Kiếm. Là ân nhân/đồng minh then chốt của VL.",
     "rank": "A"
@@ -38119,7 +38205,8 @@ window.LIB_DATA["tien-nghich"]={
     "name": "Tham Lang",
     "aliases": [
      "#tham-lang-dai-la-kiem-tong",
-     "lão phu"
+     "lão phu",
+     "Tham Lang lão tặc"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -38184,14 +38271,24 @@ window.LIB_DATA["tien-nghich"]={
        "khoang": "@c0594"
       },
       {
-       "text": "Tham Lang điều khiển gián tiếp bầy Văn thú hơn vạn con (qua Vương thú) nhưng không dám tới gần vì chúng tàn bạo khó thuần. Khi Vương Lâm thoát khỏi sương tím, hắn lùa Văn thú lao tới, định bắt nguyên thần Vương Lâm để tra hỏi nơi ở Tư Đồ Nam — do tại Đông Hải Yêu Linh đã nhận ra hơi thở Tư Đồ Nam trên người hắn.",
+       "text": "Tham Lang là tiền bối đồng lứa sư tôn của Thần Long và Vương Lâm, bị thương nên tu vi chỉ còn Vấn Đỉnh kỳ đại viên mãn. Tới bờ sương, hắn lấy tiểu đỉnh phun khói tím bao phủ thân rồi bước vào, kích động đàn Văn thú đồng loạt rít lên khiến sương tím co lại cực nhanh, tuyên bố đợi trăm năm cuối cùng đã tới ngày sương tím thu về.",
+       "anchor": "Lão phu đợi trăm năm cuối cùng cũng tới được ngày sương tím thu về",
        "bridge": true,
-       "khoang": "@c0601"
+       "khoang": "@c0600"
       },
       {
-       "text": "Bị Vương Lâm và Thần Long hợp công giữa đàn Văn thú. Hắn dùng Thất Ma Châm khống chế Văn thú lớn, thi triển Phệ Tử Nhất Thức rút lục khí từ vách đá thôn phệ Tịch Diệt Chỉ và đánh tan Long hồn của Thần Long, rồi dùng Phệ Tử nhị thức rút sơn hồn từ một ngọn núi tiên giới hắn từng đoạt và phong ấn mấy vạn năm trước. Sơn hồn đè trọng thương Thần Long, phá tan sát lục khí và giúp hắn thoát vòng vây Văn thú; hắn gọi đúng tên hai thần thông của đối thủ và chê chúng chưa hoàn chỉnh, rồi tham lam tiến về quả cầu sương mù để đoạt lệnh bài bên trong.",
-       "bridge": true,
-       "khoang": "@c0602"
+       "importance": "normal",
+       "chuong": "@c0601",
+       "tieuDe": "Khống chế Vương thú vây bắt Vương Lâm",
+       "text": "Tham Lang khống chế Vương thú để gián tiếp điều khiển bầy Văn thú hơn vạn con (tính tàn bạo, không thuần phục được). Hắn muốn bắt sống nguyên thần Vương Lâm để tra hỏi tung tích Tư Đồ Nam, vì đã nhận ra hơi thở Tư Đồ Nam trên người Vương Lâm khi ở ngoài Đông Hải Yêu Linh, rồi xua đàn Văn thú lao tới.",
+       "anchor": "chuẩn bị bắt lấy nguyên thần của đối phương để tra hỏi Tư Đồ Nam ở đâu"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0602",
+       "tieuDe": "Phệ Tử nhị thức rút sơn hồn thoát vây",
+       "text": "Tham Lang dùng Thất Ma Châm khống chế Văn thú đầu đàn, thi triển Phệ Tử Nhất Thức rút lục khí thác nước xanh thôn phệ Tịch Diệt Chỉ và phá long hồn Thần Long. Khi bị vây hắn lấy tòa núi tiên giới phong ấn, thi triển Phệ Tử nhị thức rút sơn hồn đè trọng thương Thần Long, hóa giải sát lục khí của Vương Lâm và thoát khỏi vòng vây Văn thú, tiết lộ núi là của tiên giới hắn đoạt phong ấn mấy vạn năm trước.",
+       "anchor": "đây chính là núi của tiên giới bị lão phu mấy vạn năm trước đoạt lấy đem phong ấn"
       },
       {
        "text": "Bị đàn Văn thú của Vương Lâm vây khốn, Tham Lang dùng Phệ Tử Tam Thức thả đệ nhị nguyên thần phóng thần lôi đen đuổi đánh Thần Long, rồi đau lòng xuất chí bảo tiên giới Thiên Mê Hương để thoát vòng vây. Hai lần bị Vương Lâm dùng ‘Định’ cản đoạt lệnh bài, hắn phẫn nộ vỗ túi trữ vật lấy ra đại đỉnh Càn Khôn nghịch chuyển, niệm ‘Càn Khôn nghịch chuyển, thiên địa phiên thân’ phóng hắc quang đảo ngược trời đất và vị trí ba người.",
@@ -38354,6 +38451,65 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "khac",
        "quanHe": "Chủ nhân gốc của cái đỉnh",
        "ghiChu": "Cái đỉnh nghịch Càn Khôn do cổ thần Đồ Ti luyện nay nằm trong tay Tham Lang."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Muốn lợi dụng/uy hiếp Vương Lâm nhưng ba lần định ra tay đều bị một đạo thần thức ẩn trong sương cảnh cáo phải do dự bỏ qua.",
+       "ghiChu": "@c0600"
+      },
+      {
+       "ten": "Thần Long",
+       "tag": "dong-minh",
+       "quanHe": "Cùng nhóm bị kẹt trong sương tím; Thần Long giới thiệu thân phận hắn nhưng cuối chương toan phản bội hắn.",
+       "ghiChu": "@c0600"
+      },
+      {
+       "ten": "Tư Đồ Nam",
+       "tag": "khac",
+       "quanHe": "Truy tìm tung tích, nhận ra hơi thở Tư Đồ Nam trên người Vương Lâm",
+       "ghiChu": "@c0601"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ bị Tham Lang vây công rồi đè bại bằng sơn hồn",
+       "ghiChu": "@c0602"
+      },
+      {
+       "ten": "Thần Long",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ bị sơn hồn của Tham Lang đè đánh phun máu",
+       "ghiChu": "@c0602"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ truy bắt",
+       "ghiChu": "Xua bầy Văn thú vây bắt để tra hỏi tung tích Tư Đồ Nam."
+      },
+      {
+       "ten": "Thần Long",
+       "tag": "doi-thu",
+       "quanHe": "Đối đầu",
+       "ghiChu": "Bị Thần Long đe về sư tôn của mình."
+      },
+      {
+       "ten": "Tư Đồ Nam",
+       "tag": "khac",
+       "quanHe": "Đối tượng truy lùng",
+       "ghiChu": "Nhận ra hơi thở Tư Đồ Nam trên Vương Lâm, truy tìm tung tích."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ"
+      },
+      {
+       "ten": "Thần Long",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ",
+       "ghiChu": "Đè trọng thương Thần Long bằng sơn hồn."
       }
      ],
      "tuiDo": {
@@ -38377,9 +38533,10 @@ window.LIB_DATA["tien-nghich"]={
      "@c0601",
      "@c0602",
      "@c0603",
-     "@c0604"
+     "@c0604",
+     "@c0600"
     ],
-    "rank": "B"
+    "rank": "A"
    },
    {
     "id": "nguoi-xich-loa-tho-san-son-coc",
@@ -45742,16 +45899,6 @@ window.LIB_DATA["tien-nghich"]={
        "khoang": "@c0589"
       },
       {
-       "text": "Sau trăm năm do dự, đại sư huynh Đại La kiếm tông cuối cùng quyết đoán: xin lỗi các sư đệ rồi điểm mi tâm bật ra đạo kiếm khí bản mệnh Lăng Thiên Hậu (mạnh hơn của Tử Thử mấy lần), một mình phá Tử khí thoát ra, không mang theo ai vì cho rằng thêm người sẽ giảm tỉ lệ thành công. Ngoài sương mù, hắn cầm kiếm khí chém giết giữa bầy Văn thú và mỉa mai Tham Lang về sư tôn.",
-       "bridge": true,
-       "khoang": "@c0601"
-      },
-      {
-       "text": "Hợp công Tham Lang cùng Vương Lâm: bắt quyết hóa đại kiếm thành hắc long mang kiếm khí lao tới, khi Long hồn bị Phệ Tử Nhất Thức đánh tan thì phun nguyên thần tinh huyết niệm chú khiến kiếm lột da, tái hóa hắc long lần hai mạnh hơn. Nhưng bị sơn hồn của Tham Lang đè giữa thắt lưng, hắn tái nhợt phun máu, khiếp sợ kêu lên không rõ đó là thứ thần thông gì.",
-       "bridge": true,
-       "khoang": "@c0602"
-      },
-      {
        "text": "Thần Long ngưng kết kiếm khí bổn mạng của sư t��n Lăng Thiên Hậu ở ngón tay tỏa lực chấn nhiếp, liều mạng phóng kiếm khí đánh tan thần lôi đen rồi chụp lệnh bài bỏ chạy, nhúng một tia ý thức điều khiển kiếm khí ngăn đệ nhị nguyên thần Tham Lang. Sắp tới cửa ra thì bị Vương Lâm thi triển ‘Định’ làm rơi lệnh bài, sau cùng bị sương mù của Tham Lang vây khốn.",
        "bridge": true,
        "khoang": "@c0603"
@@ -45903,9 +46050,17 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "text": "Trong làn sương tím cô lập âm thanh, Ngọ Mã hô hào giết Vương Lâm. Vương Lâm giả giọng sư đệ Tuất Cẩu lừa hắn thu hồi kiếm khí, rồi nhân sơ hở điểm vào mi tâm giết chết, đoạt kiếm khí Lăng Thiên Hậu.",
+       "text": "Trong nhóm đệ tử Đại La kiếm tông cùng tiến vào sương tím, Ngọ Mã nhìn Vương Lâm với ánh mắt âm độc.",
+       "anchor": "Mấy tên đệ tử còn lại của Đại La kiếm tông nhất là Ngọ Mã, ánh mắt nhìn",
        "bridge": true,
-       "khoang": "@c0601"
+       "khoang": "@c0600"
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0601",
+       "tieuDe": "Bị lừa thu kiếm khí và giết chết",
+       "text": "Tuyệt vọng trong sương tím, Ngọ Mã kêu gọi ba sư đệ giết Vương Lâm trước khi chết, giữ sẵn kiếm khí Lăng Thiên Hậu. Vương Lâm giả giọng sư đệ Tuất Cẩu khiến Ngọ Mã thu hồi kiếm khí, rồi điểm mi tâm giết chết hắn.",
+       "anchor": "Cả bốn gã đệ tử Đại La kiếm tông, Vương Lâm lấy được ba thanh kiếm và hai đạo kiếm khí."
       }
      ],
      "tuViMoc": [
@@ -45927,14 +46082,39 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "su-mon",
        "quanHe": "Sư đệ đồng môn",
        "ghiChu": "Giọng của Tuất Cẩu bị Vương Lâm giả để lừa Ngọ Mã."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Nhìn Vương Lâm với ánh mắt âm độc khi cùng tiến vào sương tím.",
+       "ghiChu": "@c0600"
+      },
+      {
+       "ten": "Thần Long",
+       "tag": "su-mon",
+       "quanHe": "Cùng là đệ tử Đại La Kiếm Tông trong nhóm.",
+       "ghiChu": "@c0600"
+      },
+      {
+       "ten": "Tuất Cẩu",
+       "tag": "su-mon",
+       "quanHe": "Sư đệ Đại La kiếm tông; tiếng gọi của hắn vô tình khiến Ngọ Mã sơ hở",
+       "ghiChu": "@c0601"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Bị Vương Lâm điểm mi tâm giết chết",
+       "ghiChu": "@c0601"
       }
      ],
      "tuiDo": {}
     },
     "nguon": [
-     "@c0601"
+     "@c0601",
+     "@c0600"
     ],
-    "rank": "D"
+    "rank": "B"
    },
    {
     "id": "ti-xa-dai-la",
@@ -45964,9 +46144,11 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "text": "Bị Vương Lâm áp tay rút cạn sức sống hóa thành thây khô; đạo kiếm khí Lăng Thiên Hậu của hắn nổ tung khiến thân thể biến mất.",
-       "bridge": true,
-       "khoang": "@c0601"
+       "importance": "major",
+       "chuong": "@c0601",
+       "tieuDe": "Bị điểm chết, kiếm khí nổ tung",
+       "text": "Trong sương mù, Vương Lâm tới gần điểm chết Tị Xà hóa thây khô; đạo kiếm khí bản mệnh Lăng Thiên Hậu của hắn nổ tung khiến thân thể biến mất.",
+       "anchor": "Cả bốn gã đệ tử Đại La kiếm tông, Vương Lâm lấy được ba thanh kiếm và hai đạo kiếm khí."
       }
      ],
      "tuViMoc": [],
@@ -45975,6 +46157,12 @@ window.LIB_DATA["tien-nghich"]={
        "ten": "Vương Lâm",
        "tag": "doi-thu",
        "quanHe": "Kẻ giết mình"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Bị Vương Lâm áp tay hóa thây khô",
+       "ghiChu": "@c0601"
       }
      ],
      "tuiDo": {}
@@ -45982,7 +46170,7 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0601"
     ],
-    "rank": "D"
+    "rank": "B"
    },
    {
     "id": "tuat-cau-dai-la",
@@ -46012,9 +46200,11 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "text": "Vương Lâm giả giọng hắn để lừa Ngọ Mã thu hồi kiếm khí rồi giết Ngọ Mã. Đúng mười lần hô hấp, Chu Dật cưỡng chế đưa Vương Lâm bay ra nên Tuất Cẩu thoát chết, là kẻ duy nhất sống sót.",
-       "bridge": true,
-       "khoang": "@c0601"
+       "importance": "normal",
+       "chuong": "@c0601",
+       "tieuDe": "Giọng bị Vương Lâm giả mạo",
+       "text": "Tuất Cẩu là sư đệ Đại La kiếm tông bị nhốt trong sương tím; Vương Lâm giả giọng hắn để lừa Ngọ Mã thu hồi kiếm khí rồi giết Ngọ Mã.",
+       "anchor": "Cả bốn gã đệ tử Đại La kiếm tông, Vương Lâm lấy được ba thanh kiếm và hai đạo kiếm khí."
       }
      ],
      "tuViMoc": [],
@@ -46028,6 +46218,12 @@ window.LIB_DATA["tien-nghich"]={
        "ten": "Ngọ Mã",
        "tag": "su-mon",
        "quanHe": "Sư huynh đồng môn"
+      },
+      {
+       "ten": "Ngọ Mã",
+       "tag": "su-mon",
+       "quanHe": "Sư huynh Đại La kiếm tông; tiếng gọi của Tuất Cẩu khiến Ngọ Mã sơ hở",
+       "ghiChu": "@c0601"
       }
      ],
      "tuiDo": {}
@@ -49837,6 +50033,160 @@ window.LIB_DATA["tien-nghich"]={
      "@c0605"
     ],
     "rank": "D"
+   },
+   {
+    "id": "than-long",
+    "name": "Thần Long",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Đại La Kiếm Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0600)",
+    "trangThai": "song",
+    "blurb": "Đệ tử Đại La Kiếm Tông tâm cơ thâm trầm, bị kẹt cùng Tham Lang trong sương tím mấy trăm năm.",
+    "vaiTro": "Nhân vật phụ — đệ tử Đại La Kiếm Tông, người dẫn dắt nhóm hợp lực phá vây.",
+    "tinhCach": [
+     {
+      "text": "Tâm cơ thâm trầm, một câu nói hé lộ nhiều ẩn ý.",
+      "chuong": "@c0600"
+     },
+     {
+      "text": "Hay do dự, dễ hối hận vì không quyết đoán.",
+      "chuong": "@c0600"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Giới thiệu thân phận Tham Lang chỉ bằng một câu nhưng để lộ hết điều quan trọng.",
+       "chuong": "@c0600"
+      },
+      {
+       "text": "Cuối chương hối hận đã do dự không sớm phản bội Tham Lang.",
+       "chuong": "@c0600"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Thần Long giới thiệu Tham Lang là tiền bối đồng lứa sư tôn của cả hai, bị thương nên tu vi chỉ còn Vấn Đỉnh kỳ đại viên mãn, khiến nhóm kẹt mấy trăm năm. Hắn đề nghị cùng nhóm Vương Lâm hợp lực xông qua đàn yêu thú vây lối ra duy nhất, lại riêng nhắc Vương Lâm rằng sương mù chỉ vào được không ra được.",
+       "anchor": "tu vi chỉ đạt tới Vấn Đỉnh kỳ đại viên mãn",
+       "bridge": true,
+       "khoang": "@c0600"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0600",
+       "tieuDe": "Hối hận không sớm phản bội",
+       "text": "Khi bẫy của Tham Lang lộ ra và đệ tử Đại La kiếm tông bị Tử khí kẹt lại, Thần Long thừa nhận Thiên Vận tông và Đại La kiếm tông vốn đối đầu nên Vương Lâm không cứu là bình thường. Hắn hối hận đã do dự không sớm dùng kiếm khí sư tôn ban để phản bội Tham Lang, e ngoài hắn ra toàn bộ sư đệ đều diệt vong.",
+       "anchor": "Nếu sớm một chút hạ quyết tâm phản bội Tham lang"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0601",
+       "tieuDe": "Bỏ rơi sư đệ, một mình phá Tử khí",
+       "text": "Sau trăm năm do dự, Thần Long quyết đoán xin lỗi các sư đệ rồi điểm mi tâm phóng đạo kiếm khí bản mệnh Lăng Thiên Hậu, tạo lỗ hổng nhỏ trong Tử khí và đột phá ra một mình. Ra ngo��i, hắn âm trầm chém giết bầy Văn thú và đe Tham Lang về sư tôn của mình.",
+       "anchor": "Đây đúng là kiếm khí của Lăng Thiên Hậu"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0602",
+       "tieuDe": "Toái Kiếm Hóa Thần bị sơn hồn đè bại",
+       "text": "Thần Long dùng đại kiếm hóa hắc long hợp lực với Vương Lâm vây công Tham Lang, kêu gọi cùng giết lão tặc và phun nguyên thần tinh huyết thi triển Toái Kiếm Hóa Thần khiến bảo kiếm nứt bung hóa hắc long lần hai. Tuy nhiên hắc long bị sơn hồn của Tham Lang đè vào thắt lưng, Thần Long tái nhợt phun máu, khiếp sợ trước thần thông lạ.",
+       "anchor": "Sắc mặt Thần Long tái nhợt, thân thể nhoáng lên, phun một ngụm máu tươi"
+      }
+     ],
+     "tuViMoc": [],
+     "tuVi": "Tu vi cụ thể chưa rõ trong chương, là đệ tử Đại La Kiếm Tông.",
+     "nhanMach": [
+      {
+       "ten": "Tham Lang",
+       "tag": "dong-minh",
+       "quanHe": "Cùng nhóm kẹt trong sương tím, hắn giới thiệu thân phận Tham Lang nhưng cuối chương toan phản bội.",
+       "ghiChu": "@c0600"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Đề nghị hợp lực, riêng nhắc Vương Lâm về lối ra; vừa lợi dụng vừa đề phòng hắn đánh lén.",
+       "ghiChu": "@c0600"
+      },
+      {
+       "ten": "Ngọ Mã",
+       "tag": "su-mon",
+       "quanHe": "Cùng là đệ tử Đại La Kiếm Tông trong nhóm.",
+       "ghiChu": "@c0600"
+      },
+      {
+       "ten": "Tham Lang",
+       "tag": "doi-thu",
+       "quanHe": "Ra ngoài chém giết bầy Văn thú do Tham Lang khống chế, thách thức hắn",
+       "ghiChu": "@c0601"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm thời cùng vây công Tham Lang",
+       "ghiChu": "Kêu Vương Lâm cùng dốc sức giết Tham Lang (@c0602)"
+      },
+      {
+       "ten": "Tham Lang",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ; bị sơn hồn của Tham Lang đè đánh phun máu",
+       "ghiChu": "@c0602"
+      },
+      {
+       "ten": "Lăng Thiên Hậu",
+       "tag": "su-mon",
+       "quanHe": "Học được thần thông Toái Kiếm Hóa Thần của Lăng Thiên Hậu (không hoàn chỉnh)",
+       "ghiChu": "@c0602"
+      },
+      {
+       "ten": "Tham Lang",
+       "tag": "doi-thu",
+       "quanHe": "Đối đầu",
+       "ghiChu": "Thần Long đe Tham Lang về sư tôn của mình khi chém giết bầy Văn thú."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm thời",
+       "ghiChu": "Kêu gọi Vương Lâm hợp lực giết Tham Lang."
+      },
+      {
+       "ten": "Tham Lang",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [
+       {
+        "ten": "Kiếm khí sư tôn ban",
+        "loai": "kiem-quyet",
+        "trangThai": "dang-co",
+        "moTa": "Kiếm khí được sư tôn ban tặng, Thần Long hối hận chưa dùng sớm để phản bội Tham Lang.",
+        "nguon": "@c0600"
+       }
+      ],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0600",
+     "@c0601",
+     "@c0602"
+    ],
+    "rank": "C"
    }
   ]
  },
@@ -50176,7 +50526,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "techniques": {
   "updatedAt": "2026-06-28",
-  "count": 473,
+  "count": 476,
   "techniques": [
    {
     "id": "ngung-khi-tam-thien",
@@ -54318,7 +54668,8 @@ window.LIB_DATA["tien-nghich"]={
     "detail": "Không phải Tiên thuật chân chính mà bắt chước từ một loại Tiên thuật vô danh. Người tu dựa vào giết chóc để đoạt sinh lực, sinh lực vờn quanh thân ngưng kết thành Sinh chi lạc ấn; lạc ấn càng nhiều thì phòng thủ càng mạnh — thân Thiên Vận Tử áo xám được hàng tỷ lạc ấn thủ hộ, dù Thiên Vận Tinh sụp đổ cũng bình yên vô sự. Điều kiện học là ‘xuất thủ không lưu người sống’; được cho là rất xứng với Sinh tử Luân hồi ý cảnh của Vương Lâm, song Vương Lâm từ chối học.",
     "nguon": [
      "@c0474",
-     "@c0479"
+     "@c0479",
+     "@c0602"
     ],
     "aliases": [
      "#sat-luc-tien-quyet-tu-luyen"
@@ -58721,6 +59072,62 @@ window.LIB_DATA["tien-nghich"]={
      "@c0606"
     ],
     "rank": "D"
+   },
+   {
+    "id": "kiem-khi-su-ton-ban",
+    "name": "Kiếm khí sư tôn ban",
+    "cn": "",
+    "loai": "kiem-quyet",
+    "loaiLabel": "Kiếm quyết",
+    "phamCap": "Chưa rõ",
+    "hePhai": "Đại La Kiếm Tông",
+    "soHuu": [
+     "Thần Long"
+    ],
+    "blurb": "Kiếm khí Thần Long được sư tôn ban tặng, dự định dùng để phản bội Tham Lang.",
+    "detail": "Kiếm khí mà sư tôn ban cho Thần Long. Cuối chương 600, Thần Long hối hận vì đã do dự không dùng kiếm khí này sớm hơn để hạ quyết tâm phản bội Tham Lang.",
+    "nguon": [
+     "@c0600"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kiem-khi-ban-menh-lang-thien-hau",
+    "name": "Kiếm khí bản mệnh của Lăng Thiên Hậu",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông kiếm khí",
+    "phamCap": "Không rõ",
+    "hePhai": "Đại La Kiếm Tông",
+    "soHuu": [
+     "Thần Long",
+     "Ngọ Mã",
+     "Tị Xà"
+    ],
+    "blurb": "Kiếm khí bản mệnh do Lăng Thiên Hậu luyện hóa bốn tiểu thiên địa thành Nguyên Thần kiếm.",
+    "detail": "Kiếm khí bản mệnh ẩn trong Nguyên Thần kiếm do Lăng Thiên Hậu luyện hóa bốn tiểu thiên địa thành. Mạnh hơn kiếm khí của Tử Thử mấy lần, đủ sức đột phá Tử khí. Đệ tử Đại La giữ sẵn để phóng thích phản kích; Thần Long dùng nó tự mở lỗ hổng thoát khỏi sương tím.",
+    "aliases": [],
+    "nguon": [
+     "@c0601"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "sat-luc-tien-quyet-thien-van-tu",
+    "name": "Sát Lục Tiên Quyết của Thiên Vận Tử",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Thần thông",
+    "hePhai": "Thiên Vận Tử",
+    "soHuu": [
+     "Vương Lâm",
+     "Thiên Vận Tử"
+    ],
+    "blurb": "Thần thông nén sát lục khí từ trăm vạn xuống một đạo rồi búng ra, hô “Tán” hóa lại thành trăm vạn để thôn phệ.",
+    "detail": "Thần thông gắn với Thiên Vận Tử. Vương Lâm điểm mi tâm nén sát lục khí từ trăm vạn xuống còn một đạo rồi búng đi; khi cần lại hô “Tán” hóa một thành trăm vạn để thôn phệ đối thủ. Người thi triển luôn giữ một tia sát lục khí trong nguyên thần để khôi phục sau khi tiêu hao. Tham Lang chê thần thông này chưa hoàn chỉnh.",
+    "nguon": [
+     "@c0602"
+    ],
+    "rank": "D"
    }
   ]
  },
@@ -58838,7 +59245,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "map": {
   "updatedAt": "2026-06-28",
-  "count": 175,
+  "count": 179,
   "nodes": [
    {
     "id": "trieu-quoc",
@@ -60635,9 +61042,10 @@ window.LIB_DATA["tien-nghich"]={
      "Thiên Yêu quận"
     ],
     "nguon": [
-     "@c0496"
+     "@c0496",
+     "@c0601"
     ],
-    "rank": "D"
+    "rank": "C"
    },
    {
     "id": "vung-dat-yeu-linh",
@@ -61746,12 +62154,69 @@ window.LIB_DATA["tien-nghich"]={
      "@c0605"
     ],
     "rank": "D"
+   },
+   {
+    "id": "suong-tim-yeu-linh",
+    "name": "Sương tím (tử vụ Yêu Linh)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Vùng sương mù tím chỉ vào được không ra được, lối ra duy nhất bị bầy yêu thú vây.",
+    "detail": "Vùng sương tím (tử vụ) thuộc mảnh đất Yêu Linh, có đặc tính chỉ vào được không ra được. Lối ra duy nhất bị đàn yêu thú kỳ dị vây quanh, phải phá vây mới thoát. Khi bị Tham Lang kích hoạt bẫy, sương tím co lại cực nhanh và sinh ra Tử khí ăn mòn ở rìa, hấp thu cả kiếm khí khiến đệ tử Đại La kiếm tông bị kẹt lại, mất nhiều tinh lực.",
+    "theLucLienQuan": [
+     "Đại La Kiếm Tông"
+    ],
+    "nguon": [
+     "@c0600"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "manh-dat-yeu-linh",
+    "name": "Mảnh đất Yêu Linh",
+    "cn": "",
+    "capDo": "vuc",
+    "parentId": null,
+    "blurb": "Vùng đất nơi có sư đệ của Thần Long ở ngoài sương tím.",
+    "detail": "Mảnh đất Yêu Linh — nơi có các sư đệ của Thần Long ở bên ngoài làn sương tím, khiến hắn lo lắng cho họ khi bàn việc phá vây.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0600"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "the-gioi-truyen-thua-co-than",
+    "name": "Thế giới truyền thừa của Cổ thần",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Tinh cầu thần bí nơi Vương Lâm từng thấy vô số Văn thú bên ngoài.",
+    "detail": "Thế giới truyền thừa của Cổ thần, một tinh cầu thần bí mà Vương Lâm hồi tưởng khi thấy vô số Văn thú bên ngoài sương tím. Chính nhờ trải nghiệm nơi đây, Vương Lâm không những nhận biết mà còn rất tinh tường về Văn thú.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0600"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vuc-sau-vach-da",
+    "name": "Vực sâu (vách đá vực sâu)",
+    "capDo": "khac",
+    "parentId": "manh-dat-yeu-linh",
+    "blurb": "Vực sâu có vách đá nơi Tham Lang đánh tay vào để hút lục khí thi triển Phệ Tử Nhất Thức.",
+    "detail": "Vách đá vực sâu là nơi Tham Lang đánh tay vào để hút vô số lục khí tràn ra như thác nước xanh biếc cho thần thông Phệ Tử Nhất Thức, thôn phệ thần thông của đối phương.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0602"
+    ],
+    "rank": "D"
    }
   ]
  },
  "artifacts": {
   "updatedAt": "2026-06-28",
-  "count": 497,
+  "count": 502,
   "artifacts": [
    {
     "id": "thach-chau",
@@ -71024,6 +71489,93 @@ window.LIB_DATA["tien-nghich"]={
      "@c0605"
     ],
     "rank": "D"
+   },
+   {
+    "id": "tieu-dinh-khoi-tim",
+    "name": "Tiểu đỉnh (phun khói tím)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Chưa rõ",
+    "soHuu": [
+     "Tham Lang"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Tiểu đỉnh phun khói tím Tham Lang dùng để kích động và thu về sương tím.",
+    "detail": "Pháp bảo Tham Lang lấy ra từ túi trữ vật. Khi tới bờ sương tím, hắn dùng nó phun khói tím bao phủ thân rồi bước vào, kích động đàn Văn thú đồng loạt rít lên như quỷ đoạt hồn, khiến sương tím co lại cực nhanh — kích hoạt bẫy trăm năm chờ ngày sương tím thu về.",
+    "nguon": [
+     "@c0600"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kiem-tien-chu-dat",
+    "name": "Kiếm tiên Chu Dật",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Chưa rõ",
+    "soHuu": [
+     "Vương Lâm",
+     "Chu Dật"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Thanh kiếm tiên có Chu Dật lượn quanh, hộ vệ Vương Lâm khi thoát khỏi sương tím.",
+    "detail": "Thanh kiếm tiên lượn quanh người Vương Lâm khi hắn từ chối ra tay rồi nhanh chóng tự thoát thân khỏi sương tím trong chương 600.",
+    "nguon": [
+     "@c0600"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bao-kiem-de-tu-dai-la",
+    "name": "Bảo kiếm của đệ tử Đại La kiếm tông",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Năm thanh bảo kiếm của năm đệ tử Đại La kiếm tông; Vương Lâm đoạt được ba thanh.",
+    "detail": "Năm thanh bảo kiếm thuộc về năm đệ tử Đại La kiếm tông. Trong trận giết trong sương tím, Vương Lâm đoạt được ba thanh kiếm cùng hai đạo kiếm khí từ các đệ tử Đại La.",
+    "aliases": [],
+    "nguon": [
+     "@c0601"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-kiem-than-long",
+    "name": "Đại kiếm của Thần Long",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Thần Long"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Cây đại kiếm sau lưng Thần Long, hóa hắc long mang kiếm khí, có thể lột vỏ tái sinh thành long mạnh hơn.",
+    "detail": "Đại kiếm sau lưng Thần Long, khi bắt quyết hóa thành hắc long/long hồn mang kiếm khí. Khi long hồn bị đánh tan, kiếm quay về tay Thần Long; hắn phun nguyên thần tinh huyết niệm chú khiến kiếm lột lớp vỏ hóa long lần nữa mạnh hơn.",
+    "nguon": [
+     "@c0602"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lenh-bai-suong-mu",
+    "name": "Lệnh bài sương mù",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Chưa rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Lệnh bài do sương mù tạo thành, dần ngưng hiện trong quả cầu sương mù co lại còn bảy thước.",
+    "detail": "Khi quả cầu sương mù xa xa co từ trăm trượng còn một trượng rồi bảy thước, bên trong dần hiện một đệ tử Đại La kiếm tông còn sống và một lệnh bài do chính sương mù tạo thành. Tham Lang lộ vẻ tham lam muốn tới chỗ sương mù.",
+    "nguon": [
+     "@c0602"
+    ],
+    "rank": "D"
    }
   ]
  },
@@ -72134,7 +72686,12 @@ window.LIB_DATA["tien-nghich"]={
      "@c0276",
      "@c0277",
      "@c0278",
-     "@c0541"
+     "@c0541",
+     "@c0602"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Đại La kiếm tông"
     ],
     "rank": "B"
    },
@@ -72812,11 +73369,14 @@ window.LIB_DATA["tien-nghich"]={
     "detail": "Thiên Vận Tông là tông phái nổi danh nhất trên Thiên Vận tinh — một tu chân tinh khổng lồ lớn gấp mấy chục lần Chu Tước tinh. Tông coi trọng vận duyên minh minh, chủ trương không cưỡng cầu mà né tránh thuận theo, toàn tông toát ra cảm giác tiên trần thoát tục. Người định tôn chỉ là Thiên Vận Tử — bậc đại nhân vật mặt hiền lành, tóc bạc phiêu tán nhưng không hề già nua, mắt sáng ngời tràn đầy sức sống vô biên không chút tử khí, ngụ tại Vận Tiên Các. Thiên Vận Tử năm xưa từng thu một kẻ chỉ có Hóa Thần tu vi nhưng cảm ngộ luân hồi sinh tử ý, muốn đi ngược dòng luân hồi căn nguyên, làm trăm năm ký danh đệ tử. Là một trong các tông phái cực mạnh thuộc tầng bậc cao trong Tu Chân Liên Minh, có phương pháp né hạn chế rút mệnh hồn từ Tu Tinh Tinh.",
     "nguon": [
      "@c0422",
-     "@c0449"
+     "@c0449",
+     "@c0600"
     ],
     "aliases": [
-     "#thien-van-tong-q05"
+     "#thien-van-tong-q05",
+     "Thiên Vận tông"
     ],
+    "tabs": {},
     "rank": "C"
    },
    {
