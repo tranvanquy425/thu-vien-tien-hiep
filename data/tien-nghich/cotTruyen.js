@@ -1,5 +1,5 @@
 /* cotTruyen TÁCH KHỎI data.js (giảm kích thước) — nạp NGAY SAU data.js. */
-/* sync-bump 2026-06-28T17:01:54.779Z build_datajs — tự sinh lại từ quyển */
+/* sync-bump 2026-06-28T17:15:06.340Z build_datajs — tự sinh lại từ quyển */
 window.LIB_DATA = window.LIB_DATA || {};
 window.LIB_DATA["tien-nghich"] = window.LIB_DATA["tien-nghich"] || {};
 window.LIB_DATA["tien-nghich"].cotTruyen = {
@@ -2342,7 +2342,7 @@ window.LIB_DATA["tien-nghich"].cotTruyen = {
   {
    "chuong": 605,
    "tieuDe": "Thiên Soái Động Dung",
-   "tomTat": "Càng xuống dưới hố sâu, lực hút càng mạnh; Thanh Long (Thái Cổ Lôi Long) sắp thoát ra thì quay đầu công kích Vương Lâm, phun lôi cầu khí thế như Thiên Kiếp nhưng lôi cầu lệch quỹ đạo bị lực hút đáy hố hút mất hút, để lộ vách đá vạn trượng sâu không thấy đáy. Lôi Long lần đầu lộ kinh hãi khi nhận ra cảnh tượng tương tự trong ký ức truyền thừa xa xưa, tìm cách bỏ chạy nhưng bị Vương Lâm liên tục thi triển định thân khóa thân, kéo xuống sâu. Lực hút tăng mấy lần khiến Tam Tài Kiếm Trận chống không nổi, Vương Lâm tách nguyên thần dung nhập túi trữ vật để phóng Tiên Kiếm và Loan Đao đâm vách làm chỗ giẫm. Nhờ thanh quang của Lôi Long, hắn thoáng thấy một tảng đá mười trượng có Truyền Tống Trận trước khi nó chìm vào sương đen, tiếc không thể tản thần thức xem rõ. Khi pháp bảo dưới chân mất chỗ bám, Vương Lâm phát hiện cái khe lớn chừng một trượng trong vách, mừng như điên lao vào trú ẩn. Lôi Long cũng tách thân làm hai để chui vào khe, khí tức suy yếu nhất; nhân cơ hội đó Vương Lâm dùng thần thông thôn hồn, nguyên thần lao ra từ giữa lông mày một ngụm nuốt lấy linh hồn Lôi Long. Sau khi nuốt, sức mạnh không thể tưởng tượng bùng nổ, lôi điện chạy vào huyết mạch khiến thân thể Vương Lâm lóe điện quang như đang ở trong sấm sét, hắn điên cuồng hấp thu."
+   "tomTat": "Vương Lâm dựa vách đá kiểm soát tốc độ rơi xuống hố sâu, nhưng Thái Cổ Lôi Long vì hận mà truy kích không tha, buộc hắn tiến sâu vào nơi lực hút cực mạnh không thể lao ra. Lôi Long phun lôi cầu lớn như Thiên Kiếp song bị lực hút kéo lệch, hút mất vào vực vạn trượng; Vương Lâm thả Tam Tài Kiếm Trận rồi thêm Tiên Kiếm và Loan Đao đâm vách đá làm chỗ bám, để lại năm vết kéo dài. Hắn dùng định thân thuật khống chế Lôi Long khiến nó không trở lại được mà bị kéo xuống. Nhờ thanh quang của Lôi Long, hắn thoáng thấy một Truyền Tống Trận trên tảng đá nhô ra rồi tìm được miệng khe lớn trong vách đá để trốn lực hút. Lôi Long sợ hãi tự xẻ thân làm hai — một nửa bị hút mất, một nửa nhảy vào khe, đúng lúc nó suy yếu nhất. Vương Lâm vốn là một thôn hồn liền phóng nguyên thần một ngụm nuốt lấy nửa linh hồn Thái Cổ Lôi Long, rồi triển thần thông điên cuồng hấp thu sức mạnh lôi điện khiến thân thể lóe điện quang."
   },
   {
    "chuong": 606,
