@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-28T12:32:11.724Z build_datajs */
+/* sync-bump 2026-06-28T17:01:54.779Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -626,8 +626,8 @@ window.LIB_DATA["tien-nghich"]={
   ]
  },
  "characters": {
-  "updatedAt": "2026-06-24",
-  "count": 454,
+  "updatedAt": "2026-06-28",
+  "count": 458,
   "chars": [
    {
     "id": "vuong-lam",
@@ -873,10 +873,46 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "normal"
       },
       {
-       "chuong": "@c0046",
        "importance": "normal",
-       "tieuDe": "Gặp Tư Đồ Nam trong Thạch Châu",
-       "text": "Nuốt đạo thần thức Lý Sơn ẩn trong Phích Lịch đạn, từ đó tự kích nổ được. Lần đầu tiếp xúc lão quái vật ẩn trong Thạch Châu — Tư Đồ Nam — kẻ đã âm thầm trợ giúp, theo dõi VL gần 30 năm và sẽ đồng hành cả hành trình; lão xác nhận tu vi thật của VL ngang Linh Động Kỳ viên mãn."
+       "chuong": "@c0044",
+       "tieuDe": "Nhận lời báo thù cho Vương Hạo",
+       "text": "Vương Lâm trầm mặc nghe Vương Hạo từ biệt, được nhờ sau này tu vi lên cao thì giết Lữ Vân Kiệt báo thù; hắn mạnh mẽ gật đầu, gieo mối ân oán định hình về sau.",
+       "anchor": "sau này nếu tu vi của huynh lên cao, thì giết Lữ Vân Kiệt, báo thù cho đệ"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0044",
+       "tieuDe": "Giấu kín phương pháp luyện đan",
+       "text": "Vương Lâm nhìn Vương Hạo thật sâu rồi chôn phương pháp luyện chế linh đan trong lòng, lắc đầu không nhận giúp vì chưa nắm chắc thắng tam sư huynh tầng thứ sáu Ngưng Khí Kỳ.",
+       "anchor": "đem phương pháp luyện chế linh đan chôn ở trong lòng, lắc đầu"
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0044",
+       "tieuDe": "Tiến vào cảnh giới ngộ đạo",
+       "text": "Vương Lâm lĩnh hội quy luật Tu Chân Giới — cá lớn nuốt cá bé, mạnh được yếu thua — và tiến vào cảnh giới ngộ đạo: không tăng tu vi hay thần thức mà là thấu hiểu quy luật đất trời, định hình tâm tính người tu tiên của hắn.",
+       "anchor": "Lúc này, Vương Lâm tiến vào một cảnh giới gọi là ngộ đạo"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0045",
+       "tieuDe": "Nhìn thấu bí mật phích lịch đạn",
+       "text": "Dùng thần thức bao trùm chỗ đông người mà không ai phát hiện, cảm nhận tia linh khí ba động truyền ra từ cơ thể Lý Sơn lúc đạn nổ — hiểu rằng phích lịch đạn do Lý Sơn ngầm khống chế kích nổ chứ không tự nổ. Khẽ cười không vạch trần, rồi chủ động đổi lấy ba cái đạn bằng linh phù, ấp ủ toan tính riêng nhằm vào Lý Sơn.",
+       "anchor": "trong cơ thể Lý Sơn truyền ra một tia linh khí ba động"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0046",
+       "tieuDe": "Lĩnh hội thần thức bao phủ pháp bảo",
+       "text": "Cầm phích lịch đạn của Lý Sơn về Dược Viên Tử nghiên cứu, Vương Lâm phát hiện bên trong lưu một đạo thần thức của Lý Sơn để kiểm soát việc nổ. Hắn học cách bao thần thức của mình trùm lên, không bóc thần thức người khác mà bao gọn vào trong, lấy ra bất cứ lúc nào.",
+       "anchor": "Nói trắng ra là, ở bên trong có lưu lại một đạo thần thức của Lý Sơn."
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0046",
+       "tieuDe": "Lần đầu nghe giọng lão quái vật",
+       "text": "Thử ngưng thần thức lên Thạch Châu thần bí rồi vào Mộng Cảnh, Vương Lâm chứng kiến các vật phát sáng lần lượt tắt khiến cả Mộng Cảnh chìm trong bóng tối. Một lão già độc ác trong hạt châu lần đầu lộ giọng, tiết lộ đã âm thầm theo dõi và trợ giúp hắn ba mươi năm, giục hắn tu đến Anh Biến Kỳ để lão có thể ra ngoài — mở ra thế giới rộng lớn ngoài Tu Chân Quốc cấp ba.",
+       "anchor": "đây chính là lần đầu tiên nghe thấy giọng nói của một người thứ hai"
       },
       {
        "bridge": true,
@@ -5817,34 +5853,46 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "bridge"
       },
       {
-       "text": "Bị Tham Lang vây trong sương khói, Vương Lâm được Chu Dật phá vây rồi tháo chạy xuống vực. Hắn dùng Lôi Thú từ Xạ Thần Xa, phù văn tiên bút, huyết ngọc Diêu Tích Huyết phòng hộ, rồi thi tiên thuật Định định thân đệ nhị nguyên thần lôi hệ của Tham Lang. Tam Tài kiếm trận xuyên thủng thân nó, hắn mặc ma giáp đánh Hóa Ma Chỉ và Hoàng Tuyền Chỉ phá nát lạc ấn mi tâm, diệt sạch đệ nhị nguyên thần.",
-       "bridge": true,
-       "khoang": "@c0604",
-       "importance": "major"
+       "importance": "normal",
+       "chuong": "@c0605",
+       "tieuDe": "Bám vách hố sâu lực hút",
+       "text": "Bị Thái Cổ Lôi Long truy kích buộc vào hố sâu vạn trượng có lực hút khủng khiếp. Vương Lâm dùng Tam Tài Kiếm Trận đâm vách làm điểm bám, dừng tiên lực né cú vồ của Lôi Long, rồi liên tục thi triển định thân khóa thân con rồng kéo nó xuống sâu.",
+       "anchor": "mà bay thẳng đến Vương Lâm đánh tới"
       },
       {
-       "chuong": "@c0604",
+       "importance": "normal",
+       "chuong": "@c0605",
+       "tieuDe": "Tách nguyên thần phóng Tiên Kiếm Loan Đao",
+       "text": "Lực hút tăng mấy lần khiến Tam Tài Kiếm Trận chống không nổi, cánh tay phải như bị xé rách. Vương Lâm tách nguyên thần dung nhập túi trữ vật để giải phóng Tiên Kiếm và Loan Đao đâm vách dưới chân làm chỗ giẫm, năm dấu vết theo hắn đi xuống vách đá.",
+       "anchor": "năm dấu vết theo Vương Lâm không ngừng đi xuống"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0605",
+       "tieuDe": "Lao vào khe vách trú ẩn",
+       "text": "Khi Tiên Kiếm rồi Loan Đao dưới chân mất chỗ bám, Vương Lâm phát hiện một cái khe lớn chừng một trượng trong vách, mừng như điên lao vào trú ẩn, thu hồi Tam Tài Kiếm Trận, Tiên Kiếm và Loan Đao. Trong khe lực hút bên ngoài không ảnh hưởng nhiều.",
+       "anchor": "nơi này có một miệng khe lớn chừng một trượng"
+      },
+      {
        "importance": "major",
-       "tieuDe": "Lao vào hố sâu né Thái Cổ Lôi Long",
-       "text": "Đệ nhị nguyên thần nổ tan, linh thân Thái Cổ Lôi Long thoát phong ấn ôm cừu hận lao tới. Vương Lâm tới đáy vực gặp hố sâu vô hạn có lực hút mạnh; vốn không phải lần đầu vào nên hắn vận tiên lực nương một bên lao thẳng xuống an toàn, còn Lôi Long mới thức tỉnh không nắm quy luật nên giãy giụa phóng điện đánh vỡ vách đá."
+       "chuong": "@c0605",
+       "tieuDe": "Nuốt linh hồn Thái Cổ Lôi Long",
+       "text": "Lợi dụng lúc Lôi Long tách thân làm hai để chui vào khe nên khí tức suy yếu nhất, Vương Lâm dùng thần thông thôn hồn — nguyên thần lao ra từ giữa lông mày, một ngụm nuốt lấy linh hồn Lôi Long. Sau đó nguyên thần quay về cơ thể, hấp thu sức mạnh không thể tưởng tượng của Thái Cổ Lôi Long, thân thể lóe điện quang như đang ở trong sấm sét.",
+       "anchor": "nguyên thần Vương Lâm một ngụm nuốt lấy"
       },
       {
-       "text": "Bị kẹt trong hố sâu lực hút cực mạnh, Vương Lâm dùng Tam Tài Kiếm Trận rồi Tiên Kiếm và Loan Đao đâm vách đá làm điểm tựa, liên tục thi triển định thân thuật khắc chế Lôi Long. Nắm thời cơ Thái Cổ Lôi Long tự tách thân làm hai để trốn lực hút và suy yếu nhất, hắn phóng nguyên thần hóa cực lớn, dùng thần thông thôn hồn một ngụm nuốt nửa linh thể của nó rồi điên cuồng hấp thu lôi lực.",
-       "bridge": true,
-       "khoang": "@c0605",
-       "importance": "major"
-      },
-      {
-       "text": "Trong khe đá, Vương Lâm nuốt Thái Cổ Lôi Long vào nguyên thần. Lôi Long phản kích dữ dội đẩy nguyên thần tới ranh giới sắp tiêu tan; hắn đưa nguyên thần ra khỏi Thiên Linh cái, một bên cắn nuốt một bên in cấm chế phong ấn. Sau nhiều năm tháng, nguyên thần thu nhỏ thành hình Nguyên Anh ba thước, không còn trong suốt mà tản điện quang như vạn ngân xà, biến dị hoàn toàn thành dạng Thiên Lôi. Thân thể rơi vào chết giả rồi khôi phục nhưng gầy yếu hơn xưa.",
-       "bridge": true,
-       "khoang": "@c0606",
-       "importance": "major"
-      },
-      {
+       "importance": "major",
        "chuong": "@c0606",
-       "importance": "major",
-       "tieuDe": "Thành quả và cái giá biến dị",
-       "text": "Bản lãnh vẫn ở Vấn Đỉnh Sơ Kỳ nhưng nguyên thần nay như một đạo Thiên Lôi, thần thông đều ẩn lôi uy mạnh — đủ áp đảo Vấn Đỉnh Trung Kỳ, phối pháp bảo có thể đấu Vấn Đỉnh Hậu Kỳ. Mới luyện hóa được một phần năm Lôi Long, phần còn lại bị phong ấn. Hắn phát hiện nguyên thần không còn thể thoát ly thân thể, nghi là cái giá của biến dị, rồi gác lại lấy lệnh bài màu tím ra xem."
+       "tieuDe": "Nguyên thần biến dị hóa Thiên Lôi",
+       "text": "Trong khe đá hung hiểm, Vương Lâm cắn nuốt Thái Cổ Lôi Long khiến nguyên thần biến dị về chất: bên trong nguyên thần hình thành lôi điện và một tia lôi quang, trạng thái mà ngay cả Thiên Vận Tử cũng chưa từng gặp. Hắn xuất nguyên thần, tay phải túm Lôi Long lôi ra, tay trái in cấm chế phong ấn, vừa phong ấn vừa cắn nuốt lặp đi lặp lại; thân thể chìm vào chết giả để bảo trì sức sống. Sau nhiều năm, nguyên thần thu nhỏ thành hình Nguyên Anh cao ba thước, tản lôi uy sắc bén như hàng vạn ngân xà, rồi dung nhập lại thân thể qua một lớp màng ngăn cách. Nguyên thần giờ giống như một đạo Thiên Lôi, bản lãnh vẫn Vấn Đỉnh Sơ Kỳ nhưng mang sức mạnh sấm sét; chỉ luyện hóa được một phần năm Lôi Long, còn lại bị phong ấn.",
+       "anchor": "giờ phút này nguyên thần của ta đúng là giống như… một đạo Thiên Lôi!"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0606",
+       "tieuDe": "Nguyên thần không thể thoát ly",
+       "text": "Sau khi thử các thần thông đều dùng được, kể cả Đạo Hóa Hoàng Tuyền, Vương Lâm phát hiện nguyên thần không thể thoát ly khỏi cơ thể; nghi do lớp màng ngăn cách hoặc cái giá phải trả của nguyên thần biến dị. Hắn loại trừ khả năng đoạt xá vì Tán Ma Chi Hồn đã bị phong ấn. Cuối cùng hắn gác lại chuyện này, vỗ túi trữ vật lấy ra một lệnh bài màu tím ngưng tụ từ sương mù để xem có thần thông gì.",
+       "anchor": "Nguyên thần… không thể thoát ly"
       },
       {
        "text": "Sau hai năm mắc kẹt trong khe nứt dưới hố sâu vùng đất Yêu Linh, Vương Lâm tĩnh tâm cảm thụ ý chí ẩn trong Cự Phú và lĩnh ngộ được thức kiếm quyết duy nhất — Trảm La Quyết. Khi hắn thu tâm thần ra, Cự Phú hoàn toàn tiêu tan như đã hoàn thành truyền thừa cả đời, chỉ để lại một thức kinh thiên cảm ngộ.",
@@ -6523,6 +6571,30 @@ window.LIB_DATA["tien-nghich"]={
        ]
       },
       {
+       "chuong": "@c0044",
+       "canhGioi": "Ngưng Khí Kỳ",
+       "text": "Xác nhận đang ở tầng thứ ba Ngưng Khí Kỳ dưới vỏ bọc Thiết Trụ, cố tình giấu tu vi; tự nhận thần thức có chút khác thường và đã luyện thuật dẫn lực hơn hai mươi năm trong Mộng Cảnh nhưng chưa từng tỷ thí thật.",
+       "importance": "minor"
+      },
+      {
+       "chuong": "@c0044",
+       "canhGioi": "Ngưng Khí Kỳ tầng thứ ba",
+       "text": "Vương Lâm hiện ở tầng thứ ba Ngưng Khí Kỳ, kém Lữ Vân Kiệt (tầng sáu); sức mạnh thật ẩn ở thần thức khác thường và thuật dẫn lực luyện hơn hai mươi năm trong Mộng Cảnh.",
+       "importance": "minor"
+      },
+      {
+       "chuong": "@c0044",
+       "canhGioi": "Ngộ đạo (lĩnh hội quy luật)",
+       "text": "Vương Lâm tiến vào cảnh giới ngộ đạo — thuộc hệ lĩnh ngộ quy luật đất trời, không phải tu vi chính; cảm giác như nước xối lên đầu, thấu hiểu mạnh được yếu thua.",
+       "importance": "major"
+      },
+      {
+       "chuong": "@c0046",
+       "canhGioi": "Linh Động Kỳ viên mãn",
+       "text": "Lão quái vật gọi tu vi của Vương Lâm là Linh Động Kỳ Giả viên mãn — tương đương viên mãn Ngưng Khí của hệ địa phương, nhưng phạm vi rộng hơn nhiều. Lão chê hắn mất ba mươi năm, có cả lão lẫn hạt châu trợ giúp mà mới tới mức này, ngộ tính kém.",
+       "importance": "minor"
+      },
+      {
        "chuong": "@c0073",
        "canhGioi": "Trúc Cơ kỳ",
        "text": "ĐỘT PHÁ TRÚC CƠ KỲ sau 2 năm bế quan lần 3 trong lòng đất (rừng sâu). Nền tảng: Đoạt Cơ Đại Pháp trên Đằng Lệ (Trúc Cơ hậu kỳ) + hấp thu một phần ba linh căn Đằng Lệ tích lũy linh lực. Tư Đồ Nam ngủ say hơn một năm.",
@@ -7016,6 +7088,12 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "minor"
       },
       {
+       "chuong": "@c0606",
+       "canhGioi": "Vấn Đỉnh Sơ Kỳ",
+       "text": "Nguyên thần biến dị về chất sau khi nuốt Thái Cổ Lôi Long, hóa thành dạng như một đạo Thiên Lôi tản điện quang vô tận; bản lãnh vẫn ở Vấn Đỉnh Sơ Kỳ nhưng có thêm sức mạnh sấm sét. Thuộc biến dị nguyên thần, không phải đột phá tu vi chính.",
+       "importance": "major"
+      },
+      {
        "chuong": "@c0610",
        "canhGioi": "Vấn Đỉnh",
        "text": "Sau khi đạt Vấn Đỉnh — đỉnh cao đầu tiên của tu đạo mà rất ít người trong Tinh Không đạt tới — tu vi Vương Lâm tăng chậm dần. Ba cửa ải Vấn Đỉnh Trung Kỳ, Hậu Kỳ, đại viên mãn được ví như ba ngọn núi lớn chắn đường.",
@@ -7492,6 +7570,72 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "su-mon",
        "quanHe": "Đệ tử Hằng Nhạc Phái dẫn hắn cùng Vương Trác, Vương Hạo về quê",
        "ghiChu": "Nhìn sâu vào mắt hắn, thốt câu “Đại đạo vô tình” (@c0005)"
+      },
+      {
+       "ten": "Vương Hạo",
+       "tag": "ban-be",
+       "quanHe": "Anh em tốt mấy năm ở phái Hằng Nhạc",
+       "ghiChu": "Nhận lời cầu xin của Vương Hạo sẽ giết Lữ Vân Kiệt báo thù khi tu vi lên cao (@c0044)."
+      },
+      {
+       "ten": "Lữ Vân Kiệt",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ thù đã hứa báo thù",
+       "ghiChu": "Đã nhận lời giết Lữ Vân Kiệt báo thù cho Vương Hạo, kết ân oán (@c0044)."
+      },
+      {
+       "ten": "Lý Sơn",
+       "tag": "khac",
+       "quanHe": "Đệ tử Huyền Đạo Tông gặp tại phòng khách",
+       "ghiChu": "Chứng kiến Lý Sơn bày bán hàng giả và phích lịch đạn; thần thức đảo qua, sắc mặt cổ quái (@c0044)."
+      },
+      {
+       "ten": "Lão quái vật",
+       "tag": "an-nhan",
+       "quanHe": "Tồn tại bí ẩn ẩn trong Thạch Châu, âm thầm trợ giúp và theo dõi Vương Lâm gần ba mươi năm; cần hắn tu tới Anh Biến Kỳ để thoát ra",
+       "ghiChu": "Lần đầu lộ diện bằng giọng nói tại @c0046, từ chối báo danh tính"
+      },
+      {
+       "ten": "Lý Sơn",
+       "tag": "doi-thu",
+       "quanHe": "Gian thương ngoài môn bán phích lịch đạn lừa đảo",
+       "ghiChu": "Lý Sơn nhắm Vương Lâm làm khách sộp và ngầm mưu hại sau tỉ thí; Vương Lâm nhìn thấu mánh nhưng vẫn mua ba cái."
+      },
+      {
+       "ten": "Lý Sơn",
+       "tag": "doi-thu",
+       "quanHe": "Gian thương bán phích lịch đạn",
+       "ghiChu": "Vương Lâm nhìn thấu mánh khóe của Lý Sơn nhưng không vạch trần, đổi linh phù lấy ba cái phích lịch đạn; Lý Sơn ngầm toan tính sẽ khiến Vương Lâm cả đời ghi khắc về sau."
+      },
+      {
+       "ten": "Vương Hạo",
+       "tag": "ban-be",
+       "quanHe": "Anh em tốt cùng phái Hằng Nhạc",
+       "ghiChu": "Vương Hạo trối trăng nhờ Vương Lâm giết Lữ Vân Kiệt báo thù; Vương Lâm nhận lời (@c0044)."
+      },
+      {
+       "ten": "Lữ Vân Kiệt",
+       "tag": "doi-thu",
+       "quanHe": "Đối tượng ân oán nhận lời báo thù",
+       "ghiChu": "Vương Lâm hứa sẽ giết Lữ Vân Kiệt cho Vương Hạo (@c0044)."
+      },
+      {
+       "ten": "Lý Sơn",
+       "tag": "doi-thu",
+       "quanHe": "Con buôn coi Vương Lâm là phế vật để gài bẫy; Vương Lâm đã nhìn thấu mánh khóe nhưng giả vờ mua đạn.",
+       "ghiChu": "@c0045"
+      },
+      {
+       "ten": "Lão Quái Vật",
+       "tag": "an-nhan",
+       "quanHe": "Sinh linh bí ẩn trong Thạch Châu thần bí, âm thầm trợ giúp Vương Lâm ba mươi năm",
+       "ghiChu": "Lần đầu lộ giọng nói chuyện với Vương Lâm trong Mộng Cảnh @c0046"
+      },
+      {
+       "ten": "Lữ Vân Kiệt",
+       "tag": "doi-thu",
+       "quanHe": "Đối tượng báo thù theo lời cầu của Vương Hạo",
+       "ghiChu": "Vương Lâm nhận lời sẽ giết Lữ Vân Kiệt khi tu vi lên cao."
       },
       {
        "ten": "Trương Hướng Phàm",
@@ -9321,6 +9465,36 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "the-thiep",
        "quanHe": "Bóng hình trong tiểu cầu bạch quang làm bạn, là nguồn hạnh phúc và nỗi nhớ của hắn",
        "ghiChu": "@c0609"
+      },
+      {
+       "ten": "Thần Long",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ bị đổi chỗ",
+       "ghiChu": "Bị cái đỉnh của Tham Lang đổi chỗ với Vương Lâm; kinh hãi uy lực pháp bảo nên bỏ chạy ra lối ra."
+      },
+      {
+       "ten": "Diêu Tích Huyết",
+       "tag": "khac",
+       "quanHe": "Chủ nhân huyết ngọc",
+       "ghiChu": "Vương Lâm bóp nát ngọc phù màu máu của Diêu Tích Huyết tạo huyết quang phòng hộ chống điện võng."
+      },
+      {
+       "ten": "Nữ tử thanh âm quỷ dị trong túi trữ vật",
+       "tag": "khac",
+       "quanHe": "Giọng nữ quỷ dị vang trong túi trữ vật thúc giục Vương Lâm đi xuống sâu; danh tính chưa rõ.",
+       "ghiChu": "@c0605"
+      },
+      {
+       "ten": "Thái Cổ Lôi Long",
+       "tag": "doi-thu",
+       "quanHe": "Yêu long truy kích buộc Vương Lâm vào hố sâu; cuối cùng bị Vương Lâm nuốt linh hồn và hấp thu sức mạnh.",
+       "ghiChu": "Đệ nhị nguyên thần Tham Lang / Thanh Long / Lôi Long (@c0605)"
+      },
+      {
+       "ten": "Nữ tử thanh âm quỷ dị trong túi trữ vật",
+       "tag": "khac",
+       "quanHe": "Giọng nữ quỷ dị trong túi trữ vật thúc giục Vương Lâm Đi xuống.",
+       "ghiChu": "@c0605"
       }
      ],
      "tuiDo": {
@@ -10992,6 +11166,13 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Bị tam sư huynh Lữ Vân Kiệt lừa uống Tạo Hóa Đan rồi ép tu Lô Hỏa Khai Đỉnh Đại Pháp — bị biến thành dược lô luyện đan. Linh khí trong người lưu động quỷ dị, sắp khí tán thân vong, thọ mệnh chỉ còn ~1 năm. Cầu xin Vương Lâm báo thù Lữ Vân Kiệt. (@c0043)"
       },
       {
+       "importance": "normal",
+       "chuong": "@c0044",
+       "tieuDe": "Từ biệt và cầu báo thù",
+       "text": "Vương Hạo tuyệt vọng vì mới ở tầng thứ ba Ngưng Khí Kỳ trong khi Lữ Vân Kiệt đã tầng thứ sáu lại được chưởng môn yêu thích; hắn nhắc tình anh em, cầu Vương Lâm sau này giết Lữ Vân Kiệt báo thù rồi rời đi với vẻ sa sút.",
+       "anchor": "sau này nếu tu vi của huynh lên cao, thì giết Lữ Vân Kiệt, báo thù cho đệ"
+      },
+      {
        "chuong": "@c0050",
        "importance": "major",
        "text": "Được Vương Lâm phá màn ngũ thải lò luyện của Lữ Vân Kiệt, cứu thoát khỏi quỷ môn quan. Hồng Kiểm lão giả xác nhận Lô Hỏa Khai Đỉnh có thật. Lữ Vân Kiệt bị phạt diện bích 20 năm; Vương Hạo được thăng thành nội môn đệ tử. (@c0050)"
@@ -11062,6 +11243,35 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "ho-hang",
        "quanHe": "Đồng tộc, mỉa mai qua lại",
        "ghiChu": "@c0005"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "ban-be",
+       "quanHe": "Anh em tốt mấy năm ở phái Hằng Nhạc",
+       "ghiChu": "Cầu Vương Lâm (vỏ bọc Thiết Trụ) báo thù Lữ Vân Kiệt cho mình (@c0044)."
+      },
+      {
+       "ten": "Lữ Vân Kiệt",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ dồn vào tuyệt cảnh",
+       "ghiChu": "Bị Lữ Vân Kiệt áp đảo, mất hết hy vọng (@c0044)."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "ban-be",
+       "quanHe": "Anh em tốt cùng phái Hằng Nhạc",
+       "ghiChu": "Nhờ Vương Lâm báo thù Lữ Vân Kiệt (@c0044)."
+      },
+      {
+       "ten": "Lữ Vân Kiệt",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ khiến Vương Hạo tuyệt vọng",
+       "ghiChu": "Vương Hạo thua kém, nhờ người giết để báo thù (@c0044)."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "ban-be",
+       "quanHe": "Anh em tốt, người được nhờ báo thù"
       }
      ],
      "tuiDo": {
@@ -11089,7 +11299,8 @@ window.LIB_DATA["tien-nghich"]={
      "@c0050",
      "@c0087",
      "@c0101",
-     "@c0217"
+     "@c0217",
+     "@c0044"
     ],
     "rank": "A"
    },
@@ -12204,6 +12415,13 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Chứng kiến Vương Lâm vào kiểm tra Ngô Công một mình; công khai mỉa mai — gọi là 'ngu' khi dám một mình vào với Ngô Công. (@c0042)"
       },
       {
+       "importance": "normal",
+       "chuong": "@c0045",
+       "tieuDe": "Thử rồi mua mười cái đạn",
+       "text": "Đòi thử trước khi mua, nhặt một cái phích lịch đạn quan sát kỹ không thấy gì lạ rồi ném ra bãi đất trống khiến nó nổ tung bụi đen tanh tưởi. Sau đó thì thầm rồi mua mười cái, mở đầu cho nhiều đệ tử khác đến đổi mua theo.",
+       "anchor": "lấy ra mười cái phích lịch đạn bán cho đối phương"
+      },
+      {
        "chuong": "@c0047",
        "importance": "normal",
        "text": "Xuất trận tỷ thí tại Thương Tùng Phong; đấu với Lý Sơn (Huyền Đạo Tông). Bị Lý Sơn dùng Phích Lịch đạn đánh bại (đạn kích hoạt bởi Lý Sơn ngầm gửi linh khí). Bại trận. (@c0047)"
@@ -12229,6 +12447,30 @@ window.LIB_DATA["tien-nghich"]={
        "quanHe": "Đối thủ",
        "ghiChu": "Đánh bại Tôn Hạo tại tỷ thí bằng Phích Lịch đạn @c0047.",
        "tag": "doi-thu"
+      },
+      {
+       "ten": "Lý Sơn",
+       "tag": "khac",
+       "quanHe": "Mua mười viên phích lịch đạn của Lý Sơn, là khách đầu tiên, mở màn cho đám đệ tử Hằng Nhạc mua theo.",
+       "ghiChu": "@c0045"
+      },
+      {
+       "ten": "Lý Sơn",
+       "tag": "khac",
+       "quanHe": "Mua phích lịch đạn từ gian thương Lý Sơn",
+       "ghiChu": "Người đầu tiên thử nghiệm, bị mánh lừa qua mặt nên mua mười cái."
+      },
+      {
+       "ten": "Lý Sơn",
+       "tag": "khac",
+       "quanHe": "Người bán phích lịch đạn",
+       "ghiChu": "Tôn Hạo thử rồi mua mười cái phích lịch đạn từ Lý Sơn, không biết đó là đồ lừa."
+      },
+      {
+       "ten": "Lý Sơn",
+       "tag": "khac",
+       "quanHe": "Mua mười cái phích lịch đạn của Lý Sơn, mở đầu cho khách khác.",
+       "ghiChu": "@c0045"
       }
      ],
      "tuiDo": {
@@ -12242,7 +12484,8 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0036",
      "@c0042",
-     "@c0047"
+     "@c0047",
+     "@c0045"
     ],
     "rank": "C"
    },
@@ -12988,11 +13231,6 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0046",
-       "importance": "normal",
-       "text": "Xuất hiện lần đầu trong Mộng Cảnh khi VL 'nuốt' thần thức Lý Sơn. Tự xưng là 'lão quái vật' ẩn trong Thạch Châu. Xác nhận tu vi thật của VL = 'Linh Động Kỳ viên mãn'. Tiết lộ hệ thống Tu Chân Quốc 5 cấp và Liên Minh Tu Chân. (@c0046)"
-      },
-      {
        "chuong": "@c0047",
        "importance": "normal",
        "text": "Tiết lộ danh tính: cường giả Chu Tước Quốc lục cấp. Bị truy sát thân hủy, dùng tinh hoa nguyên anh ẩn vào Thạch Châu — nay chỉ còn tinh hoa nguyên anh sót lại. Từng dùng tinh hoa nguyên anh trợ giúp VL củng cố tu vi suốt gần 30 năm. Điều kiện nhận chủ Thạch Châu: đủ ngũ hành linh căn + tu vi ≥ Anh Biến kỳ. Bình luận các trận tỷ thí, nhận xét Âu Dương 'không tầm thường'. (@c0047)"
@@ -13226,11 +13464,6 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Lộ diện tội ác: Vương Hạo tiết lộ 'tam sư huynh' đã lừa hắn uống Tạo Hóa Đan rồi ép tu Lô Hỏa Khai Đỉnh Đại Pháp, biến Vương Hạo thành dược lô để luyện Nhân Thọ đan; thọ mệnh Vương Hạo chỉ còn ~1 năm. (@c0043)"
       },
       {
-       "chuong": "@c0044",
-       "importance": "normal",
-       "text": "Được xác nhận là tam sư huynh, tầng 6, giỏi luyện đan, được chưởng môn yêu. Bị kẹt tầng 6 suốt 25 năm không tiến. (@c0044)"
-      },
-      {
        "chuong": "@c0050",
        "importance": "major",
        "text": "Lần đầu lộ mặt thật với VL (xưng danh Lữ Vân Kiệt). Cầu xin VL tha thứ, nhận tội với Hoàng Long. Bị Hoàng Long phạt diện bích 20 năm; Hồng Kiểm lão giả xác nhận công pháp Lô Hỏa Khai Đỉnh có thật. (@c0050)"
@@ -13242,6 +13475,12 @@ window.LIB_DATA["tien-nghich"]={
        "chuong": "@c0044",
        "canhGioi": "Ngưng Khí kỳ tầng 6",
        "text": "Được Vương Hạo xác nhận là tầng 6, kẹt 25 năm."
+      },
+      {
+       "chuong": "@c0044",
+       "canhGioi": "Ngưng Khí Kỳ",
+       "text": "Đã ở tầng thứ sáu Ngưng Khí Kỳ, có sở trường luyện đan nên được chưởng môn yêu thích.",
+       "importance": "minor"
       }
      ],
      "nhanMach": [
@@ -13256,6 +13495,18 @@ window.LIB_DATA["tien-nghich"]={
        "quanHe": "Kẻ vạch trần",
        "ghiChu": "VL phá lò luyện, cứu Vương Hạo; Lữ Vân Kiệt cầu xin @c0050.",
        "tag": "thu-dich"
+      },
+      {
+       "ten": "Vương Hạo",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ áp đảo",
+       "ghiChu": "Dồn Vương Hạo vào tuyệt cảnh (@c0044)."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Mục tiêu báo thù trong tương lai",
+       "ghiChu": "Vương Lâm nhận lời sẽ giết hắn báo thù cho Vương Hạo (@c0044)."
       }
      ],
      "tuiDo": {
@@ -14197,6 +14448,269 @@ window.LIB_DATA["tien-nghich"]={
     },
     "nguon": [
      "@c0005"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ly-son",
+    "name": "Lý Sơn",
+    "gioiTinh": "nam",
+    "trangThai": "song",
+    "theLuc": [
+     {
+      "ten": "Huyền Đạo Tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Khoa trương, giảo hoạt, hay chế tạo các vật hiếm cổ quái khiến người khác ngại trêu chọc",
+       "chuong": "@c0044"
+      }
+     ],
+     "kinhLich": [
+      {
+       "importance": "normal",
+       "chuong": "@c0044",
+       "tieuDe": "Rao bán phi kiếm giả và phích lịch đạn",
+       "text": "Lý Sơn tụ tập đông người tại phòng khách, rao bán Phi Kiếm Tử Ngọ Kim Tiễn bị vạch là đồ giả nhưng vẫn bán cho đệ tử họ Triệu, rồi thử nghiệm phích lịch đạn vào tường; thầm mưu dặn không được dùng trong ba ngày thi đấu để dụ đệ tử dùng mà được trưởng lão khen thưởng.",
+       "anchor": "đây là phích lịch đạn đen đúa và hôi hám đến tận trời"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0045",
+       "tieuDe": "Rao bán phích lịch đạn lừa đảo",
+       "text": "Đứng giữa đám đệ tử phái Hằng Nhạc ba hoa quảng cáo phích lịch đạn, mở khuyến mãi mua hai tặng một, bày trò thử nghiệm rồi bán hàng loạt; thực chất ngầm khống chế việc kích nổ để gài bẫy đám đệ tử trong ngày tỉ thí ba ngày sau. Bán cả cho Vương Lâm, thầm hứa cho hắn “cảm nhận cái gọi là không tầm thường”.",
+       "anchor": "Phích lịch đạn này, chính là hoàn toàn do ta khống chế"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Bị Vương Lâm (Thiết Trụ) chứng kiến lúc bày bán",
+       "ghiChu": "Vương Lâm thần thức đảo qua phích lịch đạn, sắc mặt cổ quái (@c0044)."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Bán ba viên phích lịch đạn cho Vương Lâm, không biết đối phương đã nhìn thấu mánh khóe. Thầm định dùng đạn hại Vương Lâm về sau.",
+       "ghiChu": "Bị Vương Lâm châm chọc khiến chột dạ (@c0045)"
+      },
+      {
+       "ten": "Tôn Hạo",
+       "tag": "khac",
+       "quanHe": "Tôn Hạo là khách đầu tiên đòi thử rồi mua mười viên phích lịch đạn, mở màn cho nhiều đệ tử khác mua theo.",
+       "ghiChu": "@c0045"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Nhắm làm khách sộp để lừa, ngầm mưu hại sau tỉ thí",
+       "ghiChu": "Bị Vương Lâm nhìn thấu mánh kích nổ nhưng không hay biết chắc; bán ba cái phích lịch đạn cho hắn."
+      },
+      {
+       "ten": "Tôn Hạo",
+       "tag": "khac",
+       "quanHe": "Khách hàng thử nghiệm rồi mua phích lịch đạn",
+       "ghiChu": "Tôn Hạo là người đầu tiên yêu cầu thử, sau mua mười cái."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Khách mua bị hắn nhắm trả thù",
+       "ghiChu": "Vương Lâm nhìn thấu mánh khóe nhưng không vạch trần; Lý Sơn ngầm toan tính sẽ khiến Vương Lâm cả đời ghi khắc trong lòng."
+      },
+      {
+       "ten": "Tôn Hạo",
+       "tag": "khac",
+       "quanHe": "Khách mua mười cái phích lịch đạn"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Người đứng xem nhận ra mưu kế",
+       "ghiChu": "Vương Lâm thần thức đảo qua, sắc mặt cổ quái khi xem Lý Sơn rao bán (@c0044)."
+      },
+      {
+       "ten": "Đệ tử họ Triệu",
+       "tag": "khac",
+       "quanHe": "Khách mua phi kiếm giả",
+       "ghiChu": "Họ Triệu mua kiếm rồi mỉa mai mua cho cha mổ heo (@c0044)."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Khách bị Lý Sơn coi là phế vật và nhắm gài bẫy; thực ra Vương Lâm đã nhìn thấu mánh khóe.",
+       "ghiChu": "Bán phích lịch đạn cho Vương Lâm @c0045"
+      },
+      {
+       "ten": "Tôn Hạo",
+       "tag": "khac",
+       "quanHe": "Đệ tử phái Hằng Nhạc đòi thử rồi mua mười cái, mở đầu cho khách khác.",
+       "ghiChu": "@c0045"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Người chứng kiến cảnh rao bán",
+       "ghiChu": "Vương Lâm thần thức đảo qua phích lịch đạn thì sắc mặt cổ quái."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Khách mua phích lịch đạn — bị VL nuốt thần thức trong đạn"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Kiếm Tử Ngọ Kim Tiễn (giả)",
+        "loai": "phap-bao",
+        "moTa": "Bản giả do Lý Sơn rao bán, sắt thường pha chút Linh Kim, bán cho đệ tử họ Triệu.",
+        "nguon": "@c0044"
+       },
+       {
+        "ten": "Phích lịch đạn",
+        "loai": "phap-bao",
+        "moTa": "Ám khí bí truyền tự chế của Lý Sơn, quả cầu đen nổ tạo vết nứt mạng nhện và mùi hôi không rửa sạch.",
+        "nguon": "@c0044"
+       }
+      ]
+     },
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0044",
+     "@c0045",
+     "@c0046",
+     "@c0047"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "lao-quai-vat",
+    "name": "Lão quái vật",
+    "cn": "",
+    "aliases": [
+     "Lão phu",
+     "Lão già trong Thạch Châu"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (cao thâm, vượt xa Tu Chân Quốc cấp ba) (@c0046)",
+    "trangThai": "song",
+    "blurb": "Tồn tại già nua, tàn độc ẩn trong Thạch Châu của Vương Lâm, đã âm thầm theo dõi và trợ giúp hắn gần ba mươi năm.",
+    "vaiTro": "Nhân vật bí ẩn — đạo sư ẩn danh trong Thạch Châu",
+    "tinhCach": [
+     {
+      "text": "Tàn độc cực đoan kiểu ma đạo: cho rằng người tu chân hành nghịch thiên, ai chọc giận thì phải giết sạch cả nhà cả môn phái",
+      "chuong": "@c0046"
+     },
+     {
+      "text": "Khinh miệt, chê bai: gọi Hằng Nhạc là môn phái rắm chó, chê Vương Lâm nhu nhược, ngộ tính kém",
+      "chuong": "@c0046"
+     },
+     {
+      "text": "Giấu thân phận, kiêu ngạo bề trên: từ chối báo danh tính, coi Vương Lâm chỉ là tiểu bối không đủ tư cách biết",
+      "chuong": "@c0046"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Ẩn trong Thạch Châu, cần Vương Lâm đạt Anh Biến Kỳ để thoát ra ngoài",
+       "chuong": "@c0046"
+      },
+      {
+       "text": "Tính cách tàn độc, tà dâm độc ác, thích kẻ ác như tên tiểu bối họ Lưu",
+       "chuong": "@c0046"
+      }
+     ],
+     "kinhLich": [
+      {
+       "importance": "major",
+       "chuong": "@c0046",
+       "tieuDe": "Lần đầu lộ diện với Vương Lâm",
+       "text": "Sau khi Vương Lâm vào Mộng Cảnh và toàn không gian chìm vào bóng tối, lão lần đầu lên tiếng, chê cảnh giới Linh Động Kỳ viên mãn của Vương Lâm không đủ hiểu dị thường hạt châu. Lão tiết lộ đã trợ giúp hắn ba mươi năm, buông lời độc ác về việc nên giết sạch phái Hằng Nhạc và Vương Trác, rồi giải thích hệ thống cảnh giới Tu Chân Quốc và giục Vương Lâm tu đến Anh Biến Kỳ để lão ra ngoài.",
+       "anchor": "đây chính là lần đầu tiên nghe thấy giọng nói của một người thứ hai"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Theo dõi và âm thầm trợ giúp Vương Lâm gần ba mươi năm trong Thạch Châu; muốn hắn tu tới Anh Biến Kỳ để mình thoát ra",
+       "ghiChu": "@c0046"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Đối tượng lão âm thầm theo dõi và trợ giúp ba mươi năm để mượn đường ra ngoài",
+       "ghiChu": "Lần đầu nói chuyện với Vương Lâm trong Mộng Cảnh @c0046"
+      },
+      {
+       "ten": "Vương Trác",
+       "tag": "khac",
+       "quanHe": "Nhắc đến như đối tượng đáng giết tận diệt khi bàn ân oán của Vương Lâm",
+       "ghiChu": "@c0046"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0046"
+    ],
+    "rank": "B"
+   },
+   {
+    "id": "de-tu-ho-trieu",
+    "name": "Đệ tử họ Triệu",
+    "aliases": [
+     "Họ Triệu"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Phái Hằng Nhạc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Ngưng Khí Kỳ tầng thứ năm (@c0044)",
+    "trangThai": "song",
+    "blurb": "Đệ tử tầng năm Ngưng Khí Kỳ mà Vương Lâm còn nhớ, mua phi kiếm giả của Lý Sơn rồi mỉa mai mua cho cha mổ heo.",
+    "vaiTro": "Nhân vật phụ thoáng qua tại phòng khách Huyền Đạo Tông.",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "importance": "normal",
+       "chuong": "@c0044",
+       "tieuDe": "Mua phi kiếm giả của Lý Sơn",
+       "text": "Đệ tử họ Triệu trao đổi rất lâu với Lý Sơn rồi mua cây phi kiếm giả, sau đó phản châm biếm rằng mua kiếm vỡ về cho cha mổ heo.",
+       "anchor": "cái Phi Kiếm này là tiểu đệ của ta"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Lý Sơn",
+       "tag": "khac",
+       "quanHe": "Người bán phi kiếm giả",
+       "ghiChu": "Họ Triệu mua kiếm của Lý Sơn (@c0044)."
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0044"
     ],
     "rank": "D"
    },
@@ -23807,6 +24321,12 @@ window.LIB_DATA["tien-nghich"]={
        "quanHe": "Đồng minh, thần thức dung trong tiên kiếm Vương Lâm",
        "ghiChu": "Cảnh báo và trợ tốc cho Vương Lâm tranh đoạt lệnh bài.",
        "gap": "@c0603"
+      },
+      {
+       "ten": "Tham Lang",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ đấu pháp",
+       "ghiChu": "Chu Dật giao chiến với Tham Lang trên miệng vực sâu; Tham Lang cùng cấp bậc với sư tôn của Chu Dật."
       }
      ],
      "tuiDo": {
@@ -23853,7 +24373,8 @@ window.LIB_DATA["tien-nghich"]={
      "@c0595",
      "@c0596",
      "@c0603",
-     "@c0613"
+     "@c0613",
+     "@c0604"
     ],
     "detail": "Đệ tử Ngũ Hành Tông tư chất xuất chúng, vì si tình thi thể nữ tiên (Đình Nhi, thực là Thanh Sương con gái tiên đế Thanh Lâm) mà phản sư môn, lấy Si làm Ý cảnh, đột phá tới Vấn Đỉnh kỳ. Sau khi đốt Nguyên Thần được nữ thi phong làm Kiếm Hồn của Vũ Chi Tiên Kiếm. Là ân nhân/đồng minh then chốt của VL.",
     "rank": "A"
@@ -29354,63 +29875,6 @@ window.LIB_DATA["tien-nghich"]={
      "@c0311"
     ],
     "rank": "D"
-   },
-   {
-    "id": "ly-son",
-    "name": "Lý Sơn",
-    "cn": "",
-    "aliases": [],
-    "gioiTinh": "nam",
-    "theLuc": [
-     {
-      "ten": "Huyền Đạo Tông",
-      "trangThai": "gan-bo"
-     }
-    ],
-    "canhGioiCaoNhat": "",
-    "trangThai": "khong-ro",
-    "blurb": "Đệ tử Huyền Đạo Tông chuyên buôn bán pháp khí xảo trá tại hội giao lưu phái Hằng Nhạc; nổi tiếng với phích lịch đạn tự chế.",
-    "vaiTro": "",
-    "tinhCach": [],
-    "tabs": {
-     "diem": [],
-     "kinhLich": [
-      {
-       "chuong": "@c0044",
-       "importance": "minor",
-       "text": "Đệ tử Huyền Đạo Tông, bày bán pháp khí xảo trá (phi kiếm giả Tử Ngọ Kim Tiễn, phích lịch đạn tự chế) cho đệ tử phái Hằng Nhạc; mưu kế dụ đối phương dùng đạn thối để lập công. Vương Lâm âm thầm quan sát."
-      },
-      {
-       "chuong": "@c0046",
-       "importance": "minor",
-       "text": "Bán phích lịch đạn cho Vương Lâm. VL phát hiện bên trong đạn có một đạo thần thức của Lý Sơn dùng điều khiển kích nổ, bèn dùng thần thức bao phủ và nuốt đạo thần thức đó vào trong."
-      }
-     ],
-     "tuViMoc": [],
-     "tuVi": "",
-     "nhanMach": [
-      {
-       "ten": "Vương Lâm",
-       "tag": "doi-thu",
-       "quanHe": "Khách mua phích lịch đạn — bị VL nuốt thần thức trong đạn"
-      }
-     ],
-     "tuiDo": {
-      "phapBao": [],
-      "danDuoc": [],
-      "congPhap": [],
-      "linhThu": [],
-      "nguyenLieu": [],
-      "linhThao": [],
-      "khac": []
-     }
-    },
-    "nguon": [
-     "@c0044",
-     "@c0046",
-     "@c0047"
-    ],
-    "rank": "C"
    },
    {
     "id": "chu-lam",
@@ -37636,7 +38100,8 @@ window.LIB_DATA["tien-nghich"]={
     "id": "tham-lang",
     "name": "Tham Lang",
     "aliases": [
-     "#tham-lang-dai-la-kiem-tong"
+     "#tham-lang-dai-la-kiem-tong",
+     "lão phu"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -37853,6 +38318,24 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "khac",
        "quanHe": "Người giam giữ",
        "ghiChu": "Đứng sau Hồ Quyên như lão nô."
+      },
+      {
+       "ten": "Chu Dật",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ đấu pháp",
+       "ghiChu": "Chu Dật cầm chân Tham Lang trên miệng vực để Vương Lâm rút lui; Tham Lang cùng cấp bậc với sư tôn của Chu Dật."
+      },
+      {
+       "ten": "Tư Đồ Nam",
+       "tag": "doi-thu",
+       "quanHe": "Người khiến Tham Lang kẹt",
+       "ghiChu": "Nhờ Tư Đồ Nam mà Tham Lang kẹt ở Chu Tước tinh hơn vạn năm, qua đó lĩnh ngộ nhiều pháp bảo."
+      },
+      {
+       "ten": "Cổ thần Đồ Ti",
+       "tag": "khac",
+       "quanHe": "Chủ nhân gốc của cái đỉnh",
+       "ghiChu": "Cái đỉnh nghịch Càn Khôn do cổ thần Đồ Ti luyện nay nằm trong tay Tham Lang."
       }
      ],
      "tuiDo": {
@@ -37875,7 +38358,8 @@ window.LIB_DATA["tien-nghich"]={
      "@c0571",
      "@c0601",
      "@c0602",
-     "@c0603"
+     "@c0603",
+     "@c0604"
     ],
     "rank": "B"
    },
@@ -49211,6 +49695,98 @@ window.LIB_DATA["tien-nghich"]={
      "@c0632"
     ],
     "rank": "D"
+   },
+   {
+    "id": "nu-tu-thanh-am-tui-tru-vat",
+    "name": "Nữ tử thanh âm quỷ dị trong túi trữ vật",
+    "gioiTinh": "nu",
+    "aliases": [
+     "Thanh âm nữ tử quỷ dị"
+    ],
+    "trangThai": "khong-ro",
+    "canhGioiCaoNhat": "Không rõ",
+    "blurb": "Giọng nữ quỷ dị bí ẩn vang trong túi trữ vật của Vương Lâm, thúc giục hắn đi xuống sâu; danh tính và ý đồ chưa lộ.",
+    "vaiTro": "Bí ẩn",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [
+      {
+       "importance": "normal",
+       "chuong": "@c0605",
+       "tieuDe": "Thúc giục Vương Lâm đi xuống",
+       "text": "Giọng nói nữ quỷ dị vang trong tâm thần Vương Lâm khi hắn rơi trong hố sâu, thúc giục Đi xuống, dường như biết và dẫn dắt hắn về phía đáy hố sâu với mục đích chưa rõ.",
+       "anchor": "Đi xuống"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Vang lên trong túi trữ vật của Vương Lâm thúc giục hắn đi xuống sâu.",
+       "ghiChu": "@c0605"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Thực thể bí ẩn trong túi trữ vật của Vương Lâm, thúc giục hắn đi xuống đáy hố sâu.",
+       "ghiChu": "@c0605"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thai-co-loi-long",
+    "name": "Thái Cổ Lôi Long",
+    "aliases": [
+     "Thanh Long",
+     "Lôi Long",
+     "Đệ nhị nguyên thần Tham Lang"
+    ],
+    "trangThai": "tu-vong",
+    "tabs": {
+     "kinhLich": [
+      {
+       "importance": "normal",
+       "chuong": "@c0605",
+       "tieuDe": "Quay đầu công kích Vương Lâm",
+       "text": "Sắp xông ra khỏi vùng lực hút thì thấy Vương Lâm bám vách bên dưới, Lôi Long từ bỏ cơ hội thoát thân, bay thẳng tới đánh và phun lôi cầu khí thế như Thiên Kiếp truy kích Vương Lâm.",
+       "anchor": "mà bay thẳng đến Vương Lâm đánh tới"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0605",
+       "tieuDe": "Kinh hãi vì ký ức truyền thừa",
+       "text": "Lần đầu lộ kinh hãi khi nhận ra cảnh tượng tương tự trong trí nhớ truyền thừa xa xưa, không còn muốn nuốt Vương Lâm mà tìm cách bỏ chạy, song bị định thân và lực hút kéo xuống sâu.",
+       "anchor": "trong mắt nó lần đầu tiên hiện ra sự kinh hãi"
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0605",
+       "tieuDe": "Tách thân rồi bị nuốt linh hồn",
+       "text": "Để tránh lực hút, Lôi Long tách thân làm hai — một nửa bị hút vào hố sâu, một nửa nhảy vào khe theo Vương Lâm, lúc này khí tức chia hơn phân nửa nên suy yếu nhất. Khi lao vào định phun lôi cầu thì bị nguyên thần Vương Lâm một ngụm nuốt lấy linh hồn, sức mạnh nửa linh thể bị hấp thu.",
+       "anchor": "thân mình một phân thành hai, từ giữa tách ra"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Truy kích Vương Lâm vào hố sâu; cuối cùng bị Vương Lâm nuốt linh hồn và hấp thu sức mạnh.",
+       "ghiChu": "@c0605"
+      }
+     ],
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "B"
    }
   ]
  },
@@ -49549,8 +50125,8 @@ window.LIB_DATA["tien-nghich"]={
   ]
  },
  "techniques": {
-  "updatedAt": "2026-06-24",
-  "count": 462,
+  "updatedAt": "2026-06-28",
+  "count": 473,
   "techniques": [
    {
     "id": "ngung-khi-tam-thien",
@@ -49743,6 +50319,93 @@ window.LIB_DATA["tien-nghich"]={
      "@c0060"
     ],
     "rank": "C"
+   },
+   {
+    "id": "thuat-dan-luc",
+    "name": "Thuật dẫn lực",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "hePhai": "",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Thuật Vương Lâm luyện trong Mộng Cảnh hơn hai mươi năm, liên quan tới việc vận dụng lực lượng.",
+    "detail": "Vương Lâm tự nhận đã luyện thuật dẫn lực hơn hai mươi năm trong Mộng Cảnh; tuy thần thức có chút khác thường, nhưng do chưa từng giao đấu thật nên hắn không dám khẳng định sức mạnh thực sự của bản thân.",
+    "nguon": [
+     "@c0044"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-thuc-vuong-lam",
+    "name": "Thần thức",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Thần thức của Vương Lâm bao trùm hiện trường, đủ tinh nhạy bắt được tia linh khí ba động cực nhỏ.",
+    "detail": "Khi Lý Sơn rao bán phích lịch đạn, Vương Lâm dùng thần thức bao trùm hiện trường, bắt được tia linh khí ba động cực nhỏ từ cơ thể Lý Sơn lúc kích nổ đạn mà không ai khác nhận ra. Chỉ đại sư huynh và trưởng lão Huyền Đạo Tông mới có thể nhìn ra bí mật này. Điều đó gián tiếp cho thấy thần thức của Vương Lâm vượt xa biểu hiện tầng ba Ngưng Khí Kỳ mà hắn cố giấu.",
+    "nguon": [
+     "@c0045"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khong-che-than-thuc-phap-khi",
+    "name": "Thuật bao phủ khống chế thần thức lên pháp khí",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Tự lĩnh ngộ",
+    "soHuu": [
+     "Vương Lâm",
+     "Lý Sơn"
+    ],
+    "blurb": "Vận dụng thần thức bao phủ và khống chế pháp khí, thậm chí nuốt giữ thần thức người khác lưu trong pháp khí.",
+    "detail": "Kỹ năng Vương Lâm tự lĩnh ngộ khi nghiên cứu phích lịch đạn. Lý Sơn dùng cách này lưu một đạo thần thức bên trong phích lịch đạn để kiểm soát việc kích nổ. Người có thần thức mạnh hơn có thể bao phủ pháp khí, đoạt quyền điều khiển và nuốt giữ đạo thần thức cũ vào bên trong, lấy ra bất cứ lúc nào.",
+    "nguon": [
+     "@c0046"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-thuc-bao-phu-phap-bao",
+    "name": "Vận dụng thần thức bao phủ pháp bảo",
+    "loai": "than-thong",
+    "loaiLabel": "Kỹ thuật thần thức",
+    "phamCap": "Không rõ",
+    "hePhai": "Tự lĩnh hội",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Kỹ thuật bao trùm thần thức của mình lên pháp bảo, có thể bao gọn cả thần thức của người khác mà không bóc ra, từ đó kiểm soát kích hoạt.",
+    "detail": "Vương L��m lĩnh hội khi nghiên cứu phích lịch đạn: bên trong vật chứa một đạo thần thức của người chế (Lý Sơn) để kiểm soát việc nổ hay không. Hắn không bóc thần thức kẻ khác ra mà bao nó vào trong thần thức của mình, có thể lấy ra bất cứ lúc nào và tự kiểm soát việc kích nổ.",
+    "nguon": [
+     "@c0046"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngo-dao",
+    "name": "Ngộ đạo",
+    "loai": "khac",
+    "loaiLabel": "Cảnh giới lĩnh ngộ",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Cảnh giới lĩnh ngộ mà Vương Lâm tiến vào — không tăng tu vi hay thần thức mà là thấu hiểu quy luật đất trời.",
+    "detail": "Ngộ đạo là cảnh giới lĩnh hội Vương Lâm bước vào tại chương 44: không phải tu vi hay thần thức tăng vọt mà là lĩnh ngộ quy luật đất trời, một cảm giác như nước xối lên đầu. Qua đó hắn thấu hiểu quy luật Tu Chân Giới — cá lớn nuốt cá bé, mạnh được yếu thua — và nhận ra muốn tu tiên thì cơ bản nhất là phải có sẵn tâm tính của người tu tiên.",
+    "nguon": [
+     "@c0044"
+    ],
+    "rank": "D"
    },
    {
     "id": "hoa-than-thuat",
@@ -53472,9 +54135,10 @@ window.LIB_DATA["tien-nghich"]={
     "blurb": "Sát chiêu thứ ba và cuối trong ba sát chiêu của Tư Đồ Nam, thi triển bằng cách tiêu tan sinh mạng để mượn uy lực Hoàng tuyền.",
     "detail": "Sát chiêu cuối trong ba sát chiêu Tư Đồ Nam truyền cho Vương Lâm. Muốn học phải nắm Hoàng tuyền thăng khiếu quyết, thông qua sinh mệnh tiến nhập Hoàng tuyền, biến chuyển sống-chết mà cảm ngộ. Tư Đồ Nam năm xưa giữa sống chết ở Hoàng tuyền kết hợp một bản hạ phẩm tiên thuật tàn khuyết mà bắt chước tạo ra, uy lực thua tiên thuật tàn khuyết thật không nhiều. Khi điểm ra, tiên lực không dao động, khí tức sinh mạng tiêu tan, trời tối sầm sét đánh, một bức tranh cuốn sơn thủy biểu thị Hoàng tuyền hiện ra rồi bụi khí dung hợp ngưng thành chỉ kích, kèm theo Sinh tử luân hồi ý cảnh. Đòi hỏi Anh Biến hậu kỳ trở lên mới dùng an toàn; Anh Biến sơ kỳ dùng sẽ bị cắn trả, Anh Biến trung kỳ miễn cưỡng dùng nhưng không thể dùng hết, chỉ Vấn Đỉnh mới tùy tâm thi triển.",
     "nguon": [
-     "@c0471"
+     "@c0471",
+     "@c0604"
     ],
-    "rank": "D"
+    "rank": "C"
    },
    {
     "id": "tu-sac-quang-cau-tran-dao",
@@ -57904,6 +58568,105 @@ window.LIB_DATA["tien-nghich"]={
      "@c0609"
     ],
     "rank": "D"
+   },
+   {
+    "id": "cuu-tinh-lien-chau",
+    "name": "Cửu tinh liên châu",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "hePhai": "Lôi hệ",
+    "soHuu": [
+     "Tham Lang"
+    ],
+    "blurb": "Chiêu lôi của đệ nhị nguyên thần Tham Lang: chín lôi cầu xếp thẳng hàng như mũi tên phá lực cản lao tới.",
+    "detail": "Đệ nhị nguyên thần lôi hệ của Tham Lang sắp chín lôi cầu thành cửu tinh liên châu, xếp thẳng hàng như mũi tên phá lực cản dưới vực sâu lao thẳng tới Vương Lâm; bị Lôi Thú nuốt mất hai khỏa.",
+    "nguon": [
+     "@c0604"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phu-van-tien-but",
+    "name": "Phù văn tiên bút",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "hePhai": "Phù thuật",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Vương Lâm dùng tiên bút vẽ năm nét phù văn vàng, chia năm luồng thần thức chống điện long.",
+    "detail": "Trong đấu lôi pháp dưới vực, Vương Lâm vận tiên bút vẽ ra năm nét phù văn vàng, chia năm luồng thần thức điều khiển chống đỡ điện long và hắc lôi của đệ nhị nguyên thần Tham Lang; va chạm nổ vang khiến vực sâu như sụp đổ.",
+    "nguon": [
+     "@c0604"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thon-hon",
+    "name": "Thôn hồn",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "hePhai": "Thần thông bẩm sinh của Vương Lâm",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Thần thông bẩm sinh nuốt hết thảy hồn phách trong thiên hạ của Vương Lâm.",
+    "detail": "Bản lĩnh nuốt hết thảy hồn phách trong thiên hạ; lâu nay Vương Lâm ít dùng. Trong hố sâu, hắn phóng nguyên thần từ giữa lông mày hóa cực lớn, một ngụm nuốt linh hồn Thái Cổ Lôi Long rồi triển khai thôn hồn hấp thu mạnh mẽ lôi lực trong nửa linh thể, điện quang chạy vào huyết mạch khiến thân thể lóe điện như đang ở trong sấm sét.",
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "loi-cau-loi-long",
+    "name": "Lôi cầu",
+    "loai": "khac",
+    "loaiLabel": "Chiêu thức",
+    "hePhai": "Chiêu thức của Thái Cổ Lôi Long",
+    "soHuu": [
+     "Thái Cổ Lôi Long"
+    ],
+    "blurb": "Lôi cầu lớn khí thế như Thiên Kiếp do Thái Cổ Lôi Long phun ra.",
+    "detail": "Thái Cổ Lôi Long phun ra lôi cầu lớn khí thế tựa Thiên Kiếp; trong hố sâu, lôi cầu đang lao tới bỗng chệch quỹ đạo, chúc xuống và bị lực hút đáy hố hút mất.",
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-che-phong-an-loi-long",
+    "name": "Cấm chế phong ấn (thân Thái Cổ Lôi Long)",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Vương Lâm",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Thủ pháp in cấm chế lên thân Thái Cổ Lôi Long để khống chế, phong ấn nó trong nguyên thần.",
+    "detail": "Vương Lâm dùng tay trái in một lượng lớn cấm chế lên thân Thái Cổ Lôi Long, lặp đi lặp lại tạo thành lớp như vảy rồng chồng nhau khiến Lôi Long bớt giãy giụa, qua đó khống chế và phong ấn nó trong nguyên thần suốt quá trình cắn nuốt luyện hóa.",
+    "nguon": [
+     "@c0606"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "can-nuot-thai-co-loi-long-phoi-cam-che",
+    "name": "Cắn nuốt Thái Cổ Lôi Long phối cấm chế phong ấn",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật luyện hóa",
+    "phamCap": "Không rõ",
+    "hePhai": "Lôi đạo / nguyên thần",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Thủ pháp Vương Lâm dùng để luyện hóa Thái Cổ Lôi Long bằng nguyên thần kết hợp cấm chế phong ấn.",
+    "detail": "Vương Lâm xuất nguyên thần, tay phải luồn vào túm Thái Cổ Lôi Long lôi ra non nửa, tay trái vung lên in một lượng lớn cấm chế phong ấn lên thân Lôi Long; vừa phong ấn vừa cắn nuốt, lặp đi lặp lại để dung hợp dần. Cấm chế chi chít hình thành lớp vảy rồng chồng lên nhau trên thân Lôi Long. Quá trình kéo dài nhiều năm, thân thể phải chìm vào chết giả để bảo trì sức sống; cuối cùng luyện hóa được một phần năm, phần còn lại bị phong ấn trong nguyên thần.",
+    "nguon": [
+     "@c0606"
+    ],
+    "rank": "D"
    }
   ]
  },
@@ -58020,8 +58783,8 @@ window.LIB_DATA["tien-nghich"]={
   ]
  },
  "map": {
-  "updatedAt": "2026-06-24",
-  "count": 162,
+  "updatedAt": "2026-06-28",
+  "count": 173,
   "nodes": [
    {
     "id": "trieu-quoc",
@@ -58080,6 +58843,113 @@ window.LIB_DATA["tien-nghich"]={
      "Chu Tước quốc"
     ],
     "rank": "C"
+   },
+   {
+    "id": "phong-khach-de-tu-huyen-dao-tong",
+    "name": "Phòng khách đệ tử Huyền Đạo Tông",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi trong phạm vi phái Hằng Nhạc, diễn ra cảnh Lý Sơn bày bán hàng dịp hội giao lưu.",
+    "detail": "Phòng khách dành cho đệ tử Huyền Đạo Tông trong phạm vi phái Hằng Nhạc; tại đây Lý Sơn rao bán phi kiếm giả Tử Ngọ Kim Tiễn và phích lịch đạn cho các sư huynh phái Hằng Nhạc.",
+    "theLucLienQuan": [
+     "Huyền Đạo Tông",
+     "Phái Hằng Nhạc"
+    ],
+    "nguon": [
+     "@c0044"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "duoc-vien-tu",
+    "name": "Dược Viên Tử",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi ở của Vương Lâm và sư phụ Tôn Đại Trụ tại Hằng Nhạc Phái.",
+    "detail": "Vương Lâm trở về Dược Viên Tử sau khi mua phích lịch đạn; thần thức quét xác nhận sư phụ Tôn Đại Trụ không có nhà, hắn khoanh chân nghiên cứu phích lịch đạn trong phòng.",
+    "theLucLienQuan": [
+     "Hằng Nhạc Phái"
+    ],
+    "nguon": [
+     "@c0046"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khong-gian-mong-canh",
+    "name": "Không gian Mộng Cảnh",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Không gian bên trong Thạch Châu thần bí, thời gian chảy nhanh gấp khoảng mười lần ngoài đời; nơi cư ngụ của lão quái vật.",
+    "detail": "Bên trong Thạch Châu của Vương Lâm. Có các vật phát sáng có thể tắt mở; khi Vương Lâm dùng thần thức kích hoạt, các vật lần lượt tối sầm cho tới khi cả không gian chìm trong bóng tối, rồi lão quái vật lộ diện bằng giọng nói. Vương Lâm đã tu luyện trong đây gần ba mươi năm.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0046"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hanh-tinh-tu-chan",
+    "name": "Hành tinh Tu Chân",
+    "cn": "",
+    "capDo": "tinh-cau",
+    "parentId": null,
+    "blurb": "Hành tinh nơi đặt các Tu Chân Quốc; quốc gia cấp cao có tư cách tranh đoạt đất đai bên ngoài hành tinh.",
+    "detail": "Khái niệm vũ trụ học mới do lão quái vật giải thích: các Tu Chân Quốc nằm trên hành tinh Tu Chân, Tu Chân Quốc cấp bốn trở lên có tư cách tranh đoạt đất đai bên ngoài hành tinh Tu Chân, mở rộng phạm vi truyện vượt khỏi Hằng Nhạc Phái.",
+    "theLucLienQuan": [
+     "Tu Chân Quốc",
+     "Liên Minh Tu Chân"
+    ],
+    "nguon": [
+     "@c0046"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bai-dat-trong-hang-nhac",
+    "name": "Bãi đất trống",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hanh-tinh-tu-chan",
+    "blurb": "Khu đất trống nơi Lý Sơn rao bán phích lịch đạn cho đệ tử phái Hằng Nhạc và Tôn Hạo ném thử cho nổ.",
+    "detail": "Bãi đất trống tại địa bàn phái Hằng Nhạc, nơi Lý Sơn tụ tập đệ tử rao bán phích lịch đạn. Tôn Hạo ném thử một viên ra bãi đất này, Lý Sơn ngầm kích nổ khiến bụi đen tanh tưởi bay đầy.",
+    "theLucLienQuan": [
+     "Phái Hằng Nhạc"
+    ],
+    "nguon": [
+     "@c0045"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-chan-quoc-cap-ba",
+    "name": "Tu Chân Quốc cấp ba",
+    "capDo": "quoc-gia",
+    "parentId": null,
+    "blurb": "Nơi Vương Lâm sinh sống và tu luyện; cảnh giới tu luyện chỉ tới Ngưng Khí, Trúc Cơ, Kết Đan, Nguyên Anh.",
+    "detail": "Theo lời lão quái vật, Tu Chân Quốc cấp ba có cảnh giới tu luyện chỉ tới Ngưng Khí, Trúc Cơ, Kết Đan, Nguyên Anh tứ cá; Hóa Thần Kỳ là cảnh giới truyền thuyết. Linh Động Kỳ là tên gọi chung cảnh giới trên Tu Chân Quốc cấp bốn, tương đương Ngưng Khí ở cấp ba nhưng phạm vi rộng hơn nhiều.",
+    "theLucLienQuan": [
+     "Liên Minh Tu Chân"
+    ],
+    "nguon": [
+     "@c0046"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nha-che-thuoc",
+    "name": "Nhà chế thuốc",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi Vương Lâm định trở về trước khi rẽ qua phòng khách của đệ tử Huyền Đạo Tông.",
+    "detail": "Nhà chế thuốc là nơi Vương Lâm dự định trở về sau khi từ biệt Vương Hạo; trên đường hắn phát hiện chỗ phòng khách đệ tử Huyền Đạo Tông có chuyện khác thường nên rẽ qua xem.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0044"
+    ],
+    "rank": "D"
    },
    {
     "id": "thien-thuy-thanh",
@@ -60741,12 +61611,64 @@ window.LIB_DATA["tien-nghich"]={
      "@c0608"
     ],
     "rank": "D"
+   },
+   {
+    "id": "vuc-sau-day-vuc",
+    "name": "Vực sâu / hố sâu đáy vực",
+    "capDo": "khac",
+    "parentId": "chu-tuoc-tinh",
+    "blurb": "Nơi đấu pháp với lực cản cực mạnh; đáy có hố sâu vô hạn với lực hút khác thường, gần hành lang quay về.",
+    "detail": "Vương Lâm tháo chạy xuống vực sâu này để kéo giãn khoảng cách, đấu lôi pháp với đệ nhị nguyên thần Tham Lang. Lực cản bên dưới cực mạnh; đáy vực có hố sâu vô hạn phát ra lực hút khác thường mà Vương Lâm từng vào, biết vận tiên lực nương một bên lao xuống an toàn, gần hành lang quay về. Thái Cổ Lôi Long mới thức tỉnh lao theo nhưng không nắm quy luật lực hút nên giãy giụa phóng điện đánh vỡ vách đá.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0604"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cai-khe-trong-vach-da",
+    "name": "Cái khe trong vách đá",
+    "capDo": "khac",
+    "parentId": "vuc-sau-day-vuc",
+    "blurb": "Miệng khe rộng chừng một trượng trong vách đá hố sâu, ít chịu lực hút, là chỗ Vương Lâm trú thân và nuốt Lôi Long.",
+    "detail": "Miệng khe rộng chừng một trượng trong vách đá vạn trượng của hố sâu; bên trong ít chịu lực hút bên ngoài. Vương Lâm phát hiện nhờ chỗ hụt của Tiên Kiếm và Loan Đao, lao vào trú thân, thu hồi pháp bảo rồi dùng thần thông thôn hồn nuốt và hấp thu Thái Cổ Lôi Long.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tang-da-truyen-tong-tran-day-ho",
+    "name": "Tảng đá lớn có Truyền Tống Trận",
+    "capDo": "khac",
+    "parentId": "vuc-sau-day-vuc",
+    "blurb": "Tảng đá nhô ra khoảng mười trượng dưới đáy hố, bên trên có một Truyền Tống Trận, thoáng hiện rồi chìm vào sương đen.",
+    "detail": "Tảng đá lớn nhô ra khoảng mười trượng dưới đáy hố sâu, bên trên có một Truyền Tống Trận. Nhờ thanh khí Lôi Long phát sáng, Vương Lâm thoáng thấy nó rồi thanh quang yếu đi, tảng đá lại chìm vào màn sương đen; thần thức không tản ra được nên không nhìn rõ — gợi ý một lối truyền tống ẩn dưới đáy vực.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ho-sau-luc-hut-thien-soai-dong-dung",
+    "name": "Hố sâu lực hút (đáy Thiên Soái Động Dung)",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Hố sâu với vách đá vạn trượng dựng đứng sâu không thấy đáy, lực hút điên cuồng tăng mạnh càng xuống dưới.",
+    "detail": "Hố sâu nơi đáy Thiên Soái Động Dung, vách đá vạn trượng dựng đứng sâu không thấy đáy, có màn sương đen che phủ. Lực hút điên cuồng càng xuống càng mạnh như cơn gió lốc, có thể hút lệch cả lôi cầu, khiến thần thức không thể tản ra. Giữa hố có tảng đá lớn mang Truyền Tống Trận và cái khe lánh nạn trên vách.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
    }
   ]
  },
  "artifacts": {
-  "updatedAt": "2026-06-24",
-  "count": 486,
+  "updatedAt": "2026-06-28",
+  "count": 496,
   "artifacts": [
    {
     "id": "thach-chau",
@@ -61078,6 +62000,9 @@ window.LIB_DATA["tien-nghich"]={
      "@c0046",
      "@c0048"
     ],
+    "aliases": [
+     "Phích lịch đạn đen đúa và hôi hám đến tận trời xanh"
+    ],
     "rank": "C"
    },
    {
@@ -61205,6 +62130,112 @@ window.LIB_DATA["tien-nghich"]={
     "detail": "Một gốc cây linh chi đã 300 năm tuổi, được người tu chân phong ấn cất trong hộp ngọc. Khi Vương Hạo dâng hộp ngọc, trung niên nhân hắc y định từ chối nhưng liếc thấy thì đồng tử co rút, xem kỹ nhận ra giá trị của linh chi. Nhờ vật này mà trung niên nhân thu Vương Hạo làm dược đồng luyện đan cho Hằng Nhạc Phái.",
     "nguon": [
      "@c0003"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kiem-tu-ngo-kim-tien",
+    "name": "Kiếm Tử Ngọ Kim Tiễn",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "soHuu": [
+     "Lý Sơn"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Một trong những tuyệt thế trân bảo phi kiếm của Huyền Đạo Tông; bản Lý Sơn rao bán là đồ giả.",
+    "detail": "Tử Ngọ Kim Tiễn vốn là một trong những tuyệt thế trân bảo (phi kiếm) của Huyền Đạo Tông. Cây kiếm Lý Sơn cầm rao bán cho đệ tử phái Hằng Nhạc bị một đệ tử Huyền Đạo Tông khác vạch trần là đồ giả — chỉ là sắt thường pha chút Linh Kim, dù còn chút tác dụng; đệ tử họ Triệu mua về mỉa mai là để cho cha mổ heo.",
+    "nguon": [
+     "@c0044"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-phu",
+    "name": "Linh phù",
+    "cn": "",
+    "aliases": [
+     "Tiên phù"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Linh phù (tiên phù) trong môn phái, Vương Lâm dùng làm vật trao đổi.",
+    "detail": "Một loại phù lục môn phái. Vương Lâm dùng chút linh phù trong môn phái làm vật trao đổi để lấy phích lịch đạn của Lý Sơn.",
+    "nguon": [
+     "@c0045"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-phu-mon-phai",
+    "name": "Linh phù môn phái",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Khác",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Loại linh phù trong phái Hằng Nhạc, dùng làm vật trao đổi.",
+    "detail": "Vương Lâm dùng một chút linh phù trong môn phái để đổi lấy ba cái phích lịch đạn từ Lý Sơn.",
+    "nguon": [
+     "@c0045"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-kim",
+    "name": "Linh Kim",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Vật liệu",
+    "soHuu": [
+     "Lý Sơn"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Vật liệu được bỏ vào cây kiếm sắt thường để giả làm phi kiếm Tử Ngọ Kim Tiễn.",
+    "detail": "Trong vụ Lý Sơn lừa bán, cây kiếm giả chỉ là sắt thường bỏ vào ít Linh Kim để giả làm phi kiếm trân bảo Tử Ngọ Kim Tiễn, vẫn có vài tác dụng.",
+    "nguon": [
+     "@c0044"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thach-chau-than-bi",
+    "name": "Thạch Châu thần bí",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Phẩm cấp cực cao (vượt tầm Linh Động Kỳ viên mãn nhìn thấu)",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Hạt châu chứa không gian Mộng Cảnh, bên trong ẩn giấu lão quái vật theo dõi Vương Lâm; có dị thường mà cảnh giới Linh Động Kỳ viên mãn không thể nhìn thấu.",
+    "detail": "Thạch Châu chứa không gian Mộng Cảnh nơi Vương Lâm tu luyện vài chục năm. Khi hắn thử ngưng thần thức lên hạt châu rồi vào Mộng Cảnh, các vật phát sáng lần lượt tắt theo phản ứng dây chuyền khiến cả không gian chìm vào bóng tối, lộ ra giọng nói của lão quái vật ẩn trong đó. Lão già này đã theo dõi và âm thầm trợ giúp Vương Lâm ba mươi năm, muốn hắn tu đến Anh Biến Kỳ để mình được ra ngoài.",
+    "nguon": [
+     "@c0046"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tin-vat-hop-hoan-tong",
+    "name": "Tín vật Hợp Hoan Tông",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Thường",
+    "soHuu": [
+     "Lý Sơn"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Vật do Lý Sơn rao bán cho các sư huynh phái Hằng Nhạc; ai có thể đến Hợp Hoan Tông tìm mỹ nhân song tu.",
+    "detail": "Tín vật của Hợp Hoan Tông được Lý Sơn rao bán liên tục cho các đệ tử phái Hằng Nhạc. Người có tín vật được phép đến Hợp Hoan Tông tìm mỹ nhân song tu.",
+    "nguon": [
+     "@c0046"
     ],
     "rank": "D"
    },
@@ -63409,9 +64440,14 @@ window.LIB_DATA["tien-nghich"]={
     "blurb": "Tiên kiếm Vương Lâm lấy từ túi trữ vật, dung nhập tiên lực chém ra uy lực kinh người, ép Kiền Phong lui trăm trượng.",
     "detail": "Một thanh kiếm thuộc cấp tiên bảo, Vương Lâm rút ra từ trong túi trữ vật khi khai chiến với Kiền Phong ngoài Chu Tước kỳ trận. Khi dung nhập tiên lực đẩy tới cực hạn rồi chém ra, một nhát nhanh như tia chớp ẩn chứa uy lực vượt xa kiếm thông thường. Đòn chém gây tiếng nổ lớn, ép Kiền Phong phải lui trăm trượng mới gạt hết tiên lực; Kiền Phong kinh hãi nhận ra đây là tiên bảo, ngón tay phải bị rỉ máu chảy dọc cánh tay mà không hay.",
     "nguon": [
-     "@c0391"
+     "@c0391",
+     "@c0605"
     ],
-    "rank": "D"
+    "tabs": {},
+    "aliases": [
+     "Tiên Kiếm"
+    ],
+    "rank": "C"
    },
    {
     "id": "dui-chu-tuoc",
@@ -66349,9 +67385,10 @@ window.LIB_DATA["tien-nghich"]={
     "blurb": "Đao pháp bảo tốc độ cực nhanh của Vương Lâm, dùng bám sát truy kích đối thủ.",
     "detail": "Vũ khí đao của Vương Lâm với tốc độ cực nhanh, bám sát Hắc y nam tử như tủy nhập xương. Khi đối phương thi triển Ma cấm, loan đao xuyên thấu Quỷ ảnh nhưng vô tác dụng, đồng thời bị vô số tơ đen nồng đậm tản ra từ thân Hắc y nam tử cản không cho bay vào gần bản thể.",
     "nguon": [
-     "@c0499"
+     "@c0499",
+     "@c0605"
     ],
-    "rank": "D"
+    "rank": "C"
    },
    {
     "id": "xa-than-xa-tien-nhan-vuong-lam",
@@ -69823,12 +70860,77 @@ window.LIB_DATA["tien-nghich"]={
      "@c0608"
     ],
     "rank": "D"
+   },
+   {
+    "id": "ma-giap-vuong-lam",
+    "name": "Ma giáp",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bộ giáp ma khí Vương Lâm mặc lên, ma khí tỏa khắp thân để phối Hóa Ma Chỉ.",
+    "detail": "Khi quyết diệt đệ nhị nguyên thần Tham Lang, Vương Lâm mặc ma giáp lên người, ma khí tỏa khắp thân, phối hợp Hóa Ma Chỉ và Hoàng Tuyền Chỉ công kích.",
+    "nguon": [
+     "@c0604"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngoc-phu-mau-mau-dieu-tich-huyet",
+    "name": "Ngọc phù màu máu (của Diêu Tích Huyết)",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Ngọc phù màu máu Vương Lâm bóp nát hóa huyết quang làm tầng phòng hộ chống điện võng.",
+    "detail": "Khi điện võng đỏ của Diệt Tiên Lôi vây khốn, Vương Lâm bóp nát ngọc phù màu máu của Diêu Tích Huyết, hóa huyết quang huyết mang nồng đậm làm tầng phòng hộ, gia tăng cùng Sinh Mệnh Lạc Ấn.",
+    "nguon": [
+     "@c0604"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tam-tai-kiem-tran",
+    "name": "Tam Tài Kiếm Trận",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Kiếm trận Vương Lâm thả ra đâm vào vách đá làm điểm tựa chống lực hút trong hố sâu.",
+    "detail": "Vương Lâm vỗ túi trữ vật thả Tam Tài Kiếm Trận đâm vào vách đá vạn trượng, tóe tia lửa và tạo ba vết kiếm sâu để hai tay nắm giữ thân khỏi bị lực hút kéo đi; sau khi lực hút bùng phát mạnh làm tan tác dụng chống cự, kiếm trận được thu hồi.",
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lenh-bai-mau-tim",
+    "name": "Lệnh bài màu tím",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Lệnh bài màu tím ngưng tụ thành hình từ sương mù; thần thông chưa rõ.",
+    "detail": "Lệnh bài màu tím ngưng tụ thành hình từ sương mù. Cuối chương Vương Lâm vỗ túi trữ vật lấy ra để xem rốt cuộc nó có thần thông gì, nhưng công dụng chưa được hé lộ.",
+    "nguon": [
+     "@c0606"
+    ],
+    "rank": "D"
    }
   ]
  },
  "factions": {
-  "updatedAt": "2026-06-24",
-  "count": 194,
+  "updatedAt": "2026-06-28",
+  "count": 196,
   "factions": [
    {
     "id": "hang-nhac-phai",
@@ -70088,6 +71190,42 @@ window.LIB_DATA["tien-nghich"]={
     "detail": "Vương thị gia tộc là gia tộc phàm nhân nơi thị trấn, có tòa nhà lớn với sân rộng. Trong đợt tuyển đệ tử lần này, gia tộc được Hằng Nhạc Phái cấp ba danh ngạch (suất) đề cử thiếu niên dự trắc thí: Vương Lâm, Vương Trác và Vương Hạo. Đứng đầu nhánh trưởng là lão giả Vương Thiên Sơn, cha của Vương Trác; cha của Vương Lâm là người anh thứ hai trong nhánh.",
     "nguon": [
      "@c0002"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phai-hang-nhac",
+    "name": "Phái Hằng Nhạc",
+    "aliases": [
+     "Phái Hằng Sơn"
+    ],
+    "type": "tong-mon",
+    "typeLabel": "Tông môn",
+    "diaBan": "Hằng Sơn",
+    "nhanVatChinh": [
+     "Vương Lâm",
+     "Vương Hạo",
+     "Lữ Vân Kiệt"
+    ],
+    "blurb": "Tông môn nơi Vương Lâm tu luyện dưới vỏ bọc Thiết Trụ, đang tổ chức hội giao lưu.",
+    "detail": "Phái Hằng Nhạc (có chỗ ghi phái Hằng Sơn) là nơi Vương Lâm ẩn thân tu luyện. Có thang cảnh giới Ngưng Khí Kỳ phân tầng (Thiết Trụ tầng ba, đệ tử họ Triệu tầng năm, Lữ Vân Kiệt tầng sáu). Đang đón đệ tử Huyền Đạo Tông tới phòng khách dịp hội giao lưu; trong phái có đệ tử biết phân biệt pháp bảo thật giả.",
+    "nguon": [
+     "@c0044"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-chan-quoc",
+    "name": "Tu Chân Quốc",
+    "cn": "",
+    "type": "he-thong",
+    "typeLabel": "Hệ thống quốc gia tu chân",
+    "diaBan": "Hành tinh Tu Chân",
+    "nhanVatChinh": [],
+    "blurb": "Hệ thống quốc gia tu chân phân năm cấp, thăng cấp khi xuất hiện tu sĩ đủ cảnh giới cao.",
+    "detail": "Phân năm cấp. Tu Chân Quốc cấp ba (nơi Vương Lâm đang ở) chỉ có cảnh giới Ngưng Khí → Trúc Cơ → Kết Đan → Nguyên Anh (gọi Tứ Cá), còn Hóa Thần Kỳ chỉ là cảnh giới truyền thuyết. Khi cấp ba xuất hiện một người Hóa Thần Kỳ thì nâng lên cấp bốn, nhận trợ giúp của Liên Minh Tu Chân và có tư cách tranh đoạt đất đai ngoài hành tinh Tu Chân. Tương tự cấp bốn có người Anh Biến Kỳ thì thăng lên cấp năm.",
+    "nguon": [
+     "@c0046"
     ],
     "rank": "D"
    },
