@@ -1,9 +1,9 @@
-/* sync-bump 2026-06-28T10:05:41.252Z build_datajs */
+/* sync-bump 2026-06-28T10:33:24.808Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["the-gioi-hoan-my"]={
  "characters": {
   "updatedAt": "2026-06-28",
-  "count": 5,
+  "count": 9,
   "chars": [
    {
     "id": "chu-nhoc-than-thon",
@@ -124,7 +124,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "id": "thach-van-phong",
     "name": "Thạch Vân Phong",
     "cn": "",
-    "aliases": [],
+    "aliases": [
+     "lão tộc trưởng",
+     "Lão tộc trưởng"
+    ],
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -200,6 +203,20 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "xin hãy bảo hộ tộc nhân, để lũ trẻ săn được thịt thú béo tốt, bình an trở về"
       },
       {
+       "importance": "normal",
+       "chuong": "@c0001",
+       "tieuDe": "Bàn dấu hiệu nguy hiểm trong núi",
+       "text": "Lão tộc trưởng Thạch Thôn chủ trì bàn luận với các bô lão về dấu hiệu bất thường, cho rằng sâu trong Đại Hoang xuất hiện thứ không tầm thường thu hút các chủng tộc sót lại từ Thái Cổ kéo đến.",
+       "anchor": "nhất định là có hồng hoang hung thú đại trùng đi ngang qua đây"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0001",
+       "tieuDe": "Chủ trì lễ cầu khấn Tế Linh",
+       "text": "Thạch Vân Phong dẫn đầu mấy chục thanh niên cầu khấn nghiêm trang trước gốc liễu già trước khi đội săn vào núi, xin Tế Linh bảo hộ tộc nhân săn được thịt thú và bình an trở về.",
+       "anchor": "xin hãy bảo hộ tộc nhân, để lũ trẻ săn được thịt thú béo tốt, bình an trở về"
+      },
+      {
        "text": "Sau lễ tiễn đội săn vào núi, Thạch Vân Phong dẫn lũ trẻ về bãi cỏ đầu thôn giảng giải cốt văn — những ký tự hiển hóa bẩm sinh trên xương cốt của chủng tộc mạnh mẽ thời Thái Cổ, học thành sẽ mạnh hơn thế hệ cha chú nhiều lần.",
        "anchor": "cốt văn là những kí tự hiển hóa bẩm sinh trên xương cốt của một chủng tộc mạnh mẽ thời Thái Cổ",
        "bridge": true,
@@ -225,6 +242,54 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tieuDe": "Hé lộ quá khứ sống sót",
        "text": "Lão kể từng cùng hơn mười tộc nhân cường đại xông pha thế giới bên ngoài, chỉ hai người đẫm máu trở về, một người sớm chết, chỉ mình lão sống sót; nhiều năm nghiên cứu cốt văn từng lấy người khỏe mạnh làm thí nghiệm.",
        "anchor": "chỉ có hai người toàn thân đẫm máu trở về, một trong số đó không lâu sau thì chết, chỉ có một mình Thạch Vân Phong sống sót"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0002",
+       "tieuDe": "Dạy cốt văn cho lũ trẻ",
+       "text": "Sau lễ tiễn đội săn, lão dẫn lũ trẻ về bãi cỏ đầu thôn dạy cốt văn dù chúng chán nản, giảng giải cốt văn là ký tự hiển hóa bẩm sinh trên xương cốt một chủng tộc mạnh thời Thái Cổ.",
+       "anchor": "cốt văn là những kí tự hiển hóa bẩm sinh trên xương cốt của một chủng tộc mạnh mẽ thời Thái Cổ"
+      },
+      {
+       "text": "Dẫn già trẻ gái trai Thạch Thôn bước lên đàn tế cầu khấn cây liễu già phù hộ dân làng sau buổi săn bội thu; giải thích Tế Linh quý ở tấm lòng thành, thành kính đối đãi thì người mới phù hộ thôn.",
+       "anchor": "mong cây liễu phù hộ dân làng",
+       "bridge": true,
+       "khoang": "@c0003"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0003",
+       "tieuDe": "Hé lộ hai đời Tế Linh",
+       "text": "Giải thích Tế Linh là Linh mà bộ tộc cúng tế phụng dưỡng, bảo vệ thôn làng chấn nhiếp hung thú Đại Hoang; tiết lộ đời trước là một hòn đá lạ hấp thu quá nửa tinh huyết vật tế, đời nay là cây liễu già không đụng cống phẩm.",
+       "anchor": "Tế Linh là Linh mà chúng ta cúng tế và phụng dưỡng, quý ở tấm lòng thành"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0003",
+       "tieuDe": "Hồi tưởng đêm cây liễu giáng trần",
+       "text": "Khi còn là thiếu niên, tận mắt thấy đêm mưa sấm chớp rạch trời: một cây liễu cao lớn chọc trời từ tầng mây xuất hiện, ngàn vạn cành liễu hóa xích thần đâm xuyên tầng không như đang chiến đấu, cuối cùng bị chém đứt cháy đen thu nhỏ rơi xuống cắm rễ Thạch Thôn; cùng đêm hòn đá lạ bỏ đi.",
+       "anchor": "một cây liễu cao lớn chọc trời từ trên tầng mây xuất hiện"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0003",
+       "tieuDe": "Chỉ huy mổ xẻ thu hung thú quý",
+       "text": "Dặn dò trai tráng cẩn thận giữ huyết tinh, gân mạch, xương cốt quý khi mổ xẻ cự thú; gật đầu khen voi sừng rồng có sừng là thuốc bổ cốt quý, dặn cẩn thận cưa sừng rồng.",
+       "anchor": "cả thôn làng vui như trẩy hội"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0004",
+       "tieuDe": "Chủ trì tắm thuốc cho nhóc tỳ",
+       "text": "Thạch Vân Phong chủ trì việc tắm thuốc trong hắc đỉnh đặc biệt cho nhóc tỳ. Lão mở hai bình đ���c biệt, dùng cốt văn sáng trong lòng bàn tay vỗ tan con Tỳ Hưu dài bằng bàn tay và đập tan con tê giác hai đầu đỏ rực, cả hai hóa huyết dịch rơi vào đỉnh.",
+       "anchor": "Một chiếc bình khác phóng ra một con tê giác hai đầu, đỏ rực như lửa"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0004",
+       "tieuDe": "Nấu lô bảo dược riêng",
+       "text": "Lão tự tay cầm chùy Tử Kim đập đoạn quý nhất trên sừng voi sừng rồng, thêm xương móng vuốt Tỳ Hưu và sừng đỏ Hỏa Tê mài bột, trộn chân huyết bỏ vào nồi sữa thú cùng thảo dược kỳ dị nấu thành chất sệt thơm ngào ngạt cho nhóc tỳ, rồi hài lòng nhìn nó hấp thu mạnh.",
+       "anchor": "Lão cầm một cây chùy Tử Kim đập vỡ một đoạn quý giá nhất trên sừng của con voi sừng rồng"
       }
      ],
      "tuViMoc": [
@@ -301,6 +366,48 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "dong-minh",
        "quanHe": "Thủ lĩnh đội săn của thôn",
        "ghiChu": "Thạch Lâm Hổ về báo tin dấu chân khổng lồ; tộc trưởng dẫn mọi người đặt xác thú lên đài tế."
+      },
+      {
+       "ten": "Chú nhóc Thạch Thôn",
+       "tag": "khac",
+       "quanHe": "Nấu sữa thú nuôi đứa trẻ mồ côi",
+       "ghiChu": "Chăm bẵm chú nhóc mất cha mẹ từ nửa tuổi."
+      },
+      {
+       "ten": "Thạch Lâm Hổ",
+       "tag": "dong-minh",
+       "quanHe": "Thủ lĩnh đội săn, tộc trưởng đời sau",
+       "ghiChu": "Cùng bàn việc vào núi săn."
+      },
+      {
+       "ten": "Chú nhóc Thạch Thôn",
+       "tag": "ho-hang",
+       "quanHe": "Nhận nuôi nhóc tỳ (bú sữa bách thú, ăn chực trăm nhà), lấy làm đối tượng nghiên cứu cốt văn tốt nhất",
+       "ghiChu": "@c0002"
+      },
+      {
+       "ten": "Thạch Lâm Hổ",
+       "tag": "dong-minh",
+       "quanHe": "Tộc trưởng và thủ lĩnh đội săn cùng thôn",
+       "ghiChu": "@c0002"
+      },
+      {
+       "ten": "Cậu thiếu niên thắc mắc",
+       "tag": "khac",
+       "quanHe": "Dân làng nhỏ tuổi",
+       "ghiChu": "Vỗ vai cậu nhóc nhẫn nại giải thích nhận được tâm ý là tốt rồi khi cậu thắc mắc về Tế Linh."
+      },
+      {
+       "ten": "Nhóc tỳ",
+       "tag": "khac",
+       "quanHe": "Chăm sóc, chế tắm thuốc và bảo dược đặc biệt bồi dưỡng nhóc tỳ",
+       "ghiChu": "Có chủ đích bồi dưỡng lâu dài"
+      },
+      {
+       "ten": "Nhóc tỳ",
+       "tag": "an-nhan",
+       "quanHe": "Đứa trẻ được lão chăm sóc đặc biệt, nấu bảo dược riêng",
+       "ghiChu": "Đặt kỳ vọng đặc biệt vào nó"
       }
      ],
      "tuiDo": {}
@@ -308,7 +415,9 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "uuTien": 80,
     "nguon": [
      "@c0001",
-     "@c0002"
+     "@c0002",
+     "@c0003",
+     "@c0004"
     ],
     "rank": "C"
    },
@@ -374,6 +483,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Nhưng thực sự sắp hết thức ăn rồi"
       },
       {
+       "importance": "normal",
+       "chuong": "@c0001",
+       "tieuDe": "Đề nghị vào núi săn",
+       "text": "Thủ lĩnh đội săn, tộc trưởng đời sau của Thạch Thôn, thân cao hơn hai mét lưng đeo đại kiếm nặng hơn ba trăm cân, báo sắp hết thức ăn và đề nghị dẫn người vào núi săn ban ngày lúc không có điều khác thường.",
+       "anchor": "Nhưng thực sự sắp hết thức ăn rồi"
+      },
+      {
        "text": "Chiều tà, Thạch Lâm Hổ dẫn đội săn trở về, gần như ai cũng kéo theo một con mãnh thú khổng lồ mà không ai bị thương; lão giải thích mấy đêm trong núi có cự thú siêu cấp đi qua dẫm thương vô số thú rừng nên đoàn lần theo giết hung thú trọng thương, đồng thời báo tin thấy dấu chân lớn giống chân người dài gần trăm mét.",
        "anchor": "Trong núi có mấy dấu chân lớn hình dạng giống chân người, nhưng thực sự quá lớn, dài đến gần trăm mét!",
        "bridge": true,
@@ -384,6 +500,20 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0002",
        "tieuDe": "Báo tin dấu chân khổng lồ",
        "text": "Lâm Hổ báo trong núi có mấy dấu chân lớn hình dạng giống chân người dài gần trăm mét, khiến dân làng và bô lão thót dạ, càng chắc chắn sâu trong núi đã phát sinh chuyện bất thường.",
+       "anchor": "Trong núi có mấy dấu chân lớn hình dạng giống chân người, nhưng thực sự quá lớn, dài đến gần trăm mét!"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0002",
+       "tieuDe": "Dẫn đội săn thắng lớn trở về",
+       "text": "Chiều tà, lão dẫn mấy chục người đội săn trở về, gần như ai cũng kéo theo một con mãnh thú khổng lồ (voi sừng rồng, Quỳ Thú, Phi Mãng, Hỏa Tê, Tì Hưu…) mà không ai bị thương.",
+       "anchor": "Chuyến này thực sự vô cùng may mắn, cả đoàn ai cũng đầy túi trở về mà không ai bị thương"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0002",
+       "tieuDe": "Báo tin dấu chân khổng lồ",
+       "text": "Lão giải thích mấy đêm qua trong núi có cự thú siêu cấp đi qua dẫm thương vô số thú rừng, và phát hiện dấu chân lớn hình dạng giống chân người dài gần trăm mét.",
        "anchor": "Trong núi có mấy dấu chân lớn hình dạng giống chân người, nhưng thực sự quá lớn, dài đến gần trăm mét!"
       }
      ],
@@ -425,6 +555,12 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "dong-minh",
        "quanHe": "Tộc trưởng của thôn",
        "ghiChu": "Báo tin cho tộc trưởng; tộc trưởng dẫn mọi người đặt xác thú lên đài tế."
+      },
+      {
+       "ten": "Thạch Vân Phong",
+       "tag": "dong-minh",
+       "quanHe": "Lão tộc trưởng Thạch Thôn",
+       "ghiChu": "Cùng bàn việc vào núi săn."
       }
      ],
      "tuiDo": {
@@ -521,7 +657,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "aliases": [
      "Chú nhóc",
      "Đứa trẻ mồ côi",
-     "Nhóc tỳ"
+     "Nhóc tỳ",
+     "Đứa trẻ mồ côi Thạch Thôn"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -563,6 +700,20 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0001"
       },
       {
+       "importance": "normal",
+       "chuong": "@c0001",
+       "tieuDe": "Bám theo lũ trẻ rèn luyện",
+       "text": "Chú nhóc một tuổi rưỡi mới biết đi tự trà trộn vào đám trẻ rèn luyện dưới mây sớm, rồi đuổi theo con chim sẻ năm màu, vấp ngã liên tục mà không khóc.",
+       "anchor": "nó không khóc mà tức tối lồm cồm bò dậy tiếp tục đuổi theo"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0001",
+       "tieuDe": "Đứa trẻ mồ côi nuôi bằng sữa bách thú",
+       "text": "Lão tộc trưởng Thạch Vân Phong nấu sữa thú trộn dược thảo nuôi chú nhóc; đứa trẻ mất cha mẹ từ nửa tuổi, bú sữa bách thú lớn lên, nay vẫn chưa cai sữa và bị đám trẻ lớn trêu chọc.",
+       "anchor": "Chú nhóc mất cha mẹ từ khi mới nửa tuổi, bú sữa bách thú lớn lên"
+      },
+      {
        "text": "Theo yêu cầu lũ trẻ, nhóc tỳ giơ hai bàn tay dùng sức, một ký tự kỳ lạ như đúc kim loại nổi lên cả hai lòng bàn tay, nhấc bổng khối đá xanh cao hơn người mình khiến lũ trẻ kinh ngạc.",
        "anchor": "lòng bàn tay nó xuất hiện một quầng sáng, một kí tự kì lạ nổi lên",
        "bridge": true,
@@ -590,6 +741,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "ho-hang",
        "quanHe": "Cha nuôi",
        "ghiChu": "Được Thạch Vân Phong nhận nuôi và chọn làm đối tượng nghiên cứu cốt văn tốt nhất."
+      },
+      {
+       "ten": "Thạch Vân Phong",
+       "tag": "an-nhan",
+       "quanHe": "Lão tộc trưởng nấu sữa thú trộn dược thảo nuôi nấng",
+       "ghiChu": "Chăm bẵm đứa trẻ mồ côi từ nửa tuổi."
+      },
+      {
+       "ten": "Thạch Vân Phong",
+       "tag": "ho-hang",
+       "quanHe": "Được tộc trưởng nhận nuôi và lấy làm đối tượng nghiên cứu cốt văn",
+       "ghiChu": "@c0002"
       }
      ],
      "tuiDo": {
@@ -616,6 +779,237 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0002"
     ],
     "rank": "C"
+   },
+   {
+    "id": "cau-thieu-nien-thac-mac",
+    "name": "Cậu thiếu niên thắc mắc",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thạch Thôn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "trangThai": "song",
+    "blurb": "Một thiếu niên Thạch Thôn hay thắc mắc về tục cúng tế Tế Linh.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tính tò mò, hay thắc mắc nhưng thật ra vẫn thành tâm",
+       "chuong": "@c0003"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Làu bàu hỏi vì sao nhiều năm qua Tế Linh chưa từng đụng đến cống phẩm mà vẫn phải cúng tế; bị cha định đánh, được lão tộc trưởng xua tay ngăn; mặt đỏ bừng phân trần không phải mình không thành tâm.",
+       "anchor": "Tế Linh là Linh mà chúng ta cúng tế và phụng dưỡng, quý ở tấm lòng thành",
+       "bridge": true,
+       "khoang": "@c0003"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Vân Phong",
+       "tag": "khac",
+       "quanHe": "Tộc trưởng thôn",
+       "ghiChu": "Được lão tộc trưởng vỗ vai nhẫn nại giải thích Tế Linh quý ở tấm lòng thành."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0003"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nhoc-ty",
+    "name": "Nhóc tỳ",
+    "cn": "",
+    "aliases": [
+     "chú nhóc",
+     "chú bé",
+     "Thạch Hạo",
+     "Chú nhóc"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thạch Thôn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Phàm nhân — luyện thể (@c0004)",
+    "trangThai": "song",
+    "blurb": "Đứa bé được Thạch Vân Phong chăm sóc đặc biệt trong Thạch Thôn, thể chất phi thường và mang cốt văn thần bí.",
+    "vaiTro": "Nhân vật trung tâm của Thạch Thôn, được bồi dưỡng đặc biệt qua tắm thuốc và bảo dược.",
+    "tinhCach": [
+     {
+      "text": "Ngoan ngoãn, chịu đựng tốt nước thuốc cực mạnh mà không khóc",
+      "chuong": "@c0004"
+     },
+     {
+      "text": "Khi dược kình phát tác thì nổi cơn quậy phá khắp thôn",
+      "chuong": "@c0004"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Thể chất khác thường, chịu được nước thuốc cực mạnh mà trẻ khác không chịu nổi",
+       "chuong": "@c0004"
+      },
+      {
+       "text": "Mang cốt văn thần bí tự vận chuyển luyện hóa dược lực, lan từ lòng bàn tay lên cả cánh tay",
+       "chuong": "@c0004"
+      }
+     ],
+     "kinhLich": [
+      {
+       "importance": "normal",
+       "chuong": "@c0004",
+       "tieuDe": "Tắm hắc đỉnh đặc biệt",
+       "text": "Nhóc tỳ được tắm thuốc một mình trong hắc đỉnh đặc biệt chỉ thêm chút nước trắng, còn lại toàn chân huyết và bột xương hung thú; tộc trưởng đập tan Tỳ Hưu và tê giác hai đầu phóng từ hai bình thành huyết dịch rơi vào đỉnh. Nhờ thể chất cực mạnh và cốt văn tự vận chuyển luyện hóa dược lực, nó chịu được, uống no thuốc rồi ngủ say trong lòng Thạch Vân Phong.",
+       "anchor": "thân hình nhỏ bé ngã vào trong lòng Thạch Vân Phong"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0004",
+       "tieuDe": "Ăn bảo dược, cốt văn lan cánh tay",
+       "text": "Sau khi ăn ngấu nghiến hết nồi bảo dược riêng do Thạch Vân Phong nấu, dược kình quá mạnh khiến nhóc tỳ hai mắt đỏ au như mắt thỏ, quậy phá khắp thôn hai canh giờ: túm đuôi chó vàng, nhổ hàng rào, dỡ ngói. Cốt văn lan tỏa lên cả cánh tay lập lòe, thể chất-tốc độ-sức mạnh tăng nhiều, rồi gãi đầu thỏ thẻ rằng đã gây họa.",
+       "anchor": "cả cánh tay nổi cốt văn lập lòe không cố định, vô cùng thần bí"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0004",
+       "canhGioi": "Phàm nhân",
+       "text": "Qua tắm thuốc và bảo dược, thể chất, tốc độ và sức mạnh tăng mạnh; cốt văn lan từ lòng bàn tay lên cả cánh tay, song chưa đến mức thoát thai hoán cốt.",
+       "importance": "minor"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Thạch Vân Phong",
+       "tag": "an-nhan",
+       "quanHe": "Được tộc trưởng chăm sóc, chế tắm thuốc và bảo dược đặc biệt",
+       "ghiChu": "Thạch Vân Phong có chủ đích bồi dưỡng nhóc tỳ lâu dài"
+      },
+      {
+       "ten": "Thạch Vân Phong",
+       "tag": "an-nhan",
+       "quanHe": "Người chăm sóc, nấu bảo dược riêng và bế nó khi ngủ say",
+       "ghiChu": "Tộc trưởng dành cho nó sự chăm sóc đặc biệt hơn hẳn lũ trẻ khác"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [
+       {
+        "ten": "Bảo dược đặc biệt",
+        "loai": "đan dược",
+        "trangThai": "da-dung",
+        "moTa": "Bảo dược do Thạch Vân Phong chế từ sừng voi sừng rồng, móng vuốt Tỳ Hưu, sừng Hỏa Tê, chân huyết và sữa thú; nhóc tỳ ăn hết khiến dược kình phát tác mạnh.",
+        "nguon": "@c0004"
+       }
+      ],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "uuTien": 90,
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cac-bo-lao-thach-thon",
+    "name": "Các bô lão Thạch Thôn",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thạch Thôn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "trangThai": "song",
+    "blurb": "Nhóm bô lão Thạch Thôn phụ giúp chủ trì tục tắm thuốc và bàn luận về thể chất nhóc tỳ.",
+    "vaiTro": "Trưởng bối phụ tr�� trong Thạch Thôn.",
+    "tinhCach": [
+     {
+      "text": "Lo toan, tiết kiệm chân huyết quý, có kinh nghiệm chế thuốc",
+      "chuong": "@c0004"
+     }
+    ],
+    "tabs": {
+     "diem": [],
+     "kinhLich": [],
+     "nhanMach": [],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "anh-ba",
+    "name": "Anh Ba",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thạch Thôn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "trangThai": "song",
+    "blurb": "Thanh niên trong Thạch Thôn được nhắc tới như tấm gương dùng cối đá rèn luyện khí lực.",
+    "vaiTro": "Nhân vật phụ được nhắc tên.",
+    "tinhCach": [
+     {
+      "text": "Chăm rèn luyện khí lực",
+      "chuong": "@c0004"
+     }
+    ],
+    "tabs": {
+     "diem": [],
+     "kinhLich": [],
+     "nhanMach": [],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
    }
   ]
  },
@@ -996,7 +1390,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
  },
  "map": {
   "updatedAt": "2026-06-28",
-  "count": 6,
+  "count": 8,
   "nodes": [
    {
     "id": "day-nui-thuong-mang",
@@ -1095,12 +1489,45 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0002"
     ],
     "rank": "D"
+   },
+   {
+    "id": "cay-lieu-gia",
+    "name": "Cây liễu già",
+    "aliases": [
+     "Gốc liễu già"
+    ],
+    "capDo": "khac",
+    "parentId": "thach-thon-dia-danh",
+    "blurb": "Cây liễu già bảo hộ Thạch Thôn; bên cạnh có bục đá lớn dùng làm đài tế đặt xác thú săn.",
+    "detail": "Cây liễu già là vật bảo hộ Thạch Thôn khỏi mãnh cầm cự thú bên ngoài. Bên gốc liễu có bục đá lớn; tộc trưởng vác xác mấy chục con thú săn được đặt lên bục đá làm tế lễ — rõ ràng là một đài tế cỡ lớn.",
+    "theLucLienQuan": [
+     "Thạch Thôn"
+    ],
+    "nguon": [
+     "@c0002"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dan-te-thach-thon",
+    "name": "Đàn tế",
+    "capDo": "khac",
+    "parentId": "thach-thon-dia-danh",
+    "blurb": "Đàn tế cắt từ đá tảng dựng sát gốc liễu già, nơi Thạch Thôn cúng tế Tế Linh.",
+    "detail": "Đàn tế được cắt ra từ đá tảng, rộng rãi, dựng sát cạnh gốc cây liễu già. Trên mặt đàn chất đầy mãnh thú chồng đống cao như ngọn núi nhỏ; máu thú nhuộm hồng bục đá chảy theo hoa văn điêu khắc, kết hợp lông thú, vảy thú, sừng to tạo hơi thở hồng hoang thảm khốc. Là nơi cử hành đại lễ cúng tế mỗi lần săn bắn trở về.",
+    "theLucLienQuan": [
+     "Thạch Thôn"
+    ],
+    "nguon": [
+     "@c0003"
+    ],
+    "rank": "D"
    }
   ]
  },
  "artifacts": {
   "updatedAt": "2026-06-28",
-  "count": 7,
+  "count": 21,
   "artifacts": [
    {
     "id": "cot-bong-xuong-cu-thu",
@@ -1221,6 +1648,244 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "detail": "Sữa bách thú là sữa thú được nấu trong ang gốm, bỏ thêm dược thảo cho bổ dưỡng. Lão tộc trưởng Thạch Vân Phong dùng nó nuôi đứa trẻ mồ côi mất cha mẹ từ nửa tuổi; tới hơn một năm tuổi đứa bé vẫn chưa cai sữa.",
     "nguon": [
      "@c0001"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyet-tinh",
+    "name": "Huyết tinh",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Phàm phẩm",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Thuốc đại bổ máu huyết quý giá lấy từ tinh huyết hung thú.",
+    "detail": "Tinh huyết chảy ra từ phần đặc biệt trên cơ thể hung thú, được trai tráng Thạch Thôn hứng vào vò đất nung khi mổ xẻ cự thú. Là thuốc đại bổ máu huyết tuyệt vời, quá nửa dùng trên người đám trẻ để rèn da thịt rắn chắc.",
+    "nguon": [
+     "@c0003"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chan-huyet-ty-huu",
+    "name": "Chân huyết Tỳ Hưu",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Trân phẩm",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chân huyết quý còn ẩn trong con Tỳ Hưu hậu duệ, dược tính cực mạnh.",
+    "detail": "Tỳ Hưu là hậu duệ kém vương tộc huyết mạch thuần tịnh nhưng còn ẩn một phần chân huyết, quý nhất trong các hung thú; hơn hai năm Thạch Thôn mới bẫy được một con. Phần chân huyết ấy có dược tính cực mạnh, giá trị cực lớn.",
+    "nguon": [
+     "@c0003"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chan-huyet-hoa-te-hai-dau",
+    "name": "Chân huyết Hỏa Tê hai đầu",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Trân phẩm",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chân huyết đỏ rực trích từ dưới sừng Hỏa Tê hai đầu, dược tính không thua Tỳ Hưu.",
+    "detail": "Một lão gia mổ chân huyết trong máu thịt cứng dưới sừng con Hỏa Tê hai đ��u; dòng máu hóa thành một quầng sáng đỏ tạo hình con Hỏa Tê nhỏ bằng bàn tay phẫn nộ rít gào. Dược tính không thua chân huyết Tỳ Hưu.",
+    "nguon": [
+     "@c0003"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "sung-rong",
+    "name": "Sừng rồng",
+    "aliases": [
+     "sừng voi sừng rồng"
+    ],
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Trân phẩm",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Cặp sừng rồng mọc nhiều năm trên đầu voi sừng rồng, là thuốc báu bổ cốt khó kiếm.",
+    "detail": "Cặp sừng rồng mọc lâu năm trên đầu con voi sừng rồng, là thuốc bổ cốt quý hiếm. Thạch Vân Phong dặn trai tráng cẩn thận cưa sừng rồng để không phí của báu.",
+    "nguon": [
+     "@c0003"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "gan-quy-thu-mot-chan",
+    "name": "Gân Quỳ Thú một chân",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Phàm phẩm",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Sợi gân dai bền của Quỳ Thú một chân, rìu chém mãi không đứt.",
+    "detail": "Gân của con Quỳ Thú một chân là sợi gân dai bền, rìu chém mãi không đứt, được Thạch Thôn thu thập làm nguyên liệu quý khi mổ xẻ hung thú.",
+    "nguon": [
+     "@c0003"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mau-hai-canh-phi-mang",
+    "name": "Máu hai cánh Phi Mãng",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Phàm phẩm",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Máu quý nằm ở hai cánh con Phi Mãng.",
+    "detail": "Máu quý của con Phi Mãng tập trung ở hai cánh, được Thạch Thôn thu thập trong buổi mổ xẻ hung thú sau săn bắn.",
+    "nguon": [
+     "@c0003"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nuoc-tam-thuoc",
+    "name": "Nước tắm thuốc",
+    "category": "dan-duoc",
+    "categoryLabel": "Dược dịch",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Dược dịch tắm thuốc của Thạch Thôn dùng tăng cường thể chất lũ trẻ.",
+    "detail": "Chế trong tám đỉnh đồng lớn từ dược thảo, rết dài vài thược, nhện to bằng nắm tay, chân huyết hung thú, xương cánh Phi Mãng và xương chân Quỳ Thú, nước đen kịt như mực. Làm gân cốt trẻ con cường tráng sánh ngang cự thú nhưng chưa đến mức thoát thai hoán cốt; tắm vào da thịt như dao cắt, trẻ con kêu gào thảm thiết.",
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thuoc-bot-tri-thuong",
+    "name": "Thuốc bột trị thương",
+    "category": "dan-duoc",
+    "categoryLabel": "Bảo dược",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Bảo dược trị thương của Thạch Thôn chế từ nước thuốc thừa.",
+    "detail": "Vì chân huyết quý hiếm nên các bô lão không nỡ để phí, đun cạn nước thuốc tắm thừa rồi thêm dược thảo đặc biệt chế thành thuốc b���t; vừa là thuốc bổ vừa là bảo dược trị thương mang theo đi săn cứu mạng.",
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bao-duoc-dac-biet",
+    "name": "Bảo dược đặc biệt",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "soHuu": [
+     "Thạch Vân Phong",
+     "Nhóc tỳ"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Bảo dược Thạch Vân Phong chế riêng cho nhóc tỳ ăn để bồi bổ thể chất.",
+    "detail": "Chế từ đoạn quý nhất trên sừng voi sừng rồng, xương móng vuốt Tỳ Hưu, sừng đỏ Hỏa Tê (mài bột), trộn chân huyết hung thú, nấu trong sữa thú thêm thảo dược kì dị thành chất lỏng đặc sệt thơm đậm. Nhóc tỳ ăn hết khiến dược kình phát tác cực mạnh, nổi cơn quậy phá; cốt văn lan rộng, thể chất tăng mạnh.",
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chuy-tu-kim",
+    "name": "Chùy Tử Kim",
+    "category": "khac",
+    "categoryLabel": "Công cụ",
+    "soHuu": [
+     "Thạch Vân Phong"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chùy Thạch Vân Phong dùng đập vỡ vật liệu quý khi chế bảo dược.",
+    "detail": "Công cụ dùng để đập đoạn quý nhất trên sừng voi sừng rồng khi Thạch Vân Phong chế bảo dược cho nhóc tỳ.",
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hai-chiec-binh-dac-biet",
+    "name": "Hai chiếc bình đặc biệt",
+    "category": "khac",
+    "categoryLabel": "Vật chứa",
+    "soHuu": [
+     "Thạch Vân Phong"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Hai bình chứa của tộc trưởng dùng trong tắm thuốc đặc biệt cho nhóc tỳ.",
+    "detail": "Tộc trưởng mở hai bình: bình thứ nhất phóng làn mây đỏ ngưng thành con Tỳ Hưu dài bằng bàn tay hung dữ; bình thứ hai phóng con tê giác hai đầu đỏ rực. Cả hai bị Thạch Vân Phong vỗ tan thành huyết dịch rơi vào hắc đỉnh của nhóc tỳ.",
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thuoc-tam",
+    "name": "Thuốc tắm",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Phương thuốc cổ Thạch Thôn",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Nước thuốc đen kịt nấu trong đỉnh đồng để tắm cho trẻ con Thạch Thôn.",
+    "detail": "Pha từ dược thảo, rết dài vài thược, nhện to bằng nắm tay khiến nước đen kịt như mực, thêm chân huyết đỏ tươi cùng xương cánh Phi Mãng và xương chân Quỳ Thú đập nát. Tăng cường gân cốt cho trẻ con, khiến chúng bong da cũ từng mảng và khỏe hơn rõ rệt sau một đêm, dù chưa đến mức thoát thai hoán cốt.",
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chan-huyet-hung-thu",
+    "name": "Chân huyết hung thú",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Quý hiếm",
+    "soHuu": [
+     "Thạch Thôn"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Chút huyết quý giá lấy từ hung thú săn được, dùng tắm thuốc tăng cường thể chất.",
+    "detail": "Huyết đỏ tươi lấy từ cơ thể hung thú săn được, cực kỳ quý giá trong hoàn cảnh khốc liệt của Đại Hoang nên không nỡ phí chút nào. Rót vào nước thuốc giúp tăng cường thể chất cho cả trẻ con lẫn người lớn; cũng là thành phần trong lô bảo dược riêng của nhóc tỳ.",
+    "nguon": [
+     "@c0004"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lo-bao-duoc-rieng",
+    "name": "Lô bảo dược riêng cho nhóc tỳ",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Dược kình cực mạnh",
+    "soHuu": [
+     "Thạch Vân Phong",
+     "Nhóc tỳ"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Lô bảo dược Thạch Vân Phong tự nấu riêng cho nhóc tỳ, dược kình cực mạnh.",
+    "detail": "Thạch Vân Phong nấu từ đoạn quý nhất trên sừng voi sừng rồng (đập bằng chùy Tử Kim), xương móng vuốt Tỳ Hưu và sừng đỏ Hỏa Tê mài bột, trộn chân huyết bỏ vào nồi sữa thú cùng thảo dược kỳ dị, nấu thành chất sệt thơm ngào ngạt. Dược kình quá mạnh khiến nhóc tỳ sau khi ăn hết nồi thì mắt đỏ au, quậy phá hai canh giờ; thể chất-tốc độ-sức mạnh tăng nhiều và cốt văn lan rộng lên cả cánh tay.",
+    "nguon": [
+     "@c0004"
     ],
     "rank": "D"
    }
