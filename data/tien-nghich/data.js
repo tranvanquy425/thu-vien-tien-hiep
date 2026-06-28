@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-28T17:01:54.779Z build_datajs */
+/* sync-bump 2026-06-28T17:15:06.340Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-28",
-  "count": 458,
+  "count": 459,
   "chars": [
    {
     "id": "vuong-lam",
@@ -5855,33 +5855,33 @@ window.LIB_DATA["tien-nghich"]={
       {
        "importance": "normal",
        "chuong": "@c0605",
-       "tieuDe": "Bám vách hố sâu lực hút",
-       "text": "Bị Thái Cổ Lôi Long truy kích buộc vào hố sâu vạn trượng có lực hút khủng khiếp. Vương Lâm dùng Tam Tài Kiếm Trận đâm vách làm điểm bám, dừng tiên lực né cú vồ của Lôi Long, rồi liên tục thi triển định thân khóa thân con rồng kéo nó xuống sâu.",
-       "anchor": "mà bay thẳng đến Vương Lâm đánh tới"
+       "tieuDe": "Bị Lôi Long truy kích vào hố sâu",
+       "text": "Bị Thái Cổ Lôi Long vì hận mà truy kích không tha, Vương Lâm dựa vách đá kiểm soát tốc độ rơi nhưng bị buộc tiến sâu vào hố hung hiểm có lực hút cực mạnh, không thể lao ra.",
+       "anchor": "Một người một rồng rượt đuổi trong hố sâu này"
       },
       {
        "importance": "normal",
        "chuong": "@c0605",
-       "tieuDe": "Tách nguyên thần phóng Tiên Kiếm Loan Đao",
-       "text": "Lực hút tăng mấy lần khiến Tam Tài Kiếm Trận chống không nổi, cánh tay phải như bị xé rách. Vương Lâm tách nguyên thần dung nhập túi trữ vật để giải phóng Tiên Kiếm và Loan Đao đâm vách dưới chân làm chỗ giẫm, năm dấu vết theo hắn đi xuống vách đá.",
-       "anchor": "năm dấu vết theo Vương Lâm không ngừng đi xuống"
+       "tieuDe": "Bám vách đá chống lực hút",
+       "text": "Vương Lâm thả Tam Tài Kiếm Trận rồi thêm Tiên Kiếm và Loan Đao đâm vào vách đá làm chỗ bám, để lại năm vết kéo dài, đồng thời dùng định thân thuật khống chế Lôi Long kéo nó xuống sâu.",
+       "anchor": "Tam Tài Kiếm Trận bay ra hung hăng đâm vào vách đá"
       },
       {
        "importance": "normal",
        "chuong": "@c0605",
-       "tieuDe": "Lao vào khe vách trú ẩn",
-       "text": "Khi Tiên Kiếm rồi Loan Đao dưới chân mất chỗ bám, Vương Lâm phát hiện một cái khe lớn chừng một trượng trong vách, mừng như điên lao vào trú ẩn, thu hồi Tam Tài Kiếm Trận, Tiên Kiếm và Loan Đao. Trong khe lực hút bên ngoài không ảnh hưởng nhiều.",
-       "anchor": "nơi này có một miệng khe lớn chừng một trượng"
+       "tieuDe": "Phát hiện cái khe và Truyền Tống Trận",
+       "text": "Nhờ thanh quang của Lôi Long, Vương Lâm thoáng thấy một Truyền Tống Trận trên tảng đá nhô ra, rồi tìm được miệng khe lớn trong vách đá, mừng như điên lao vào tránh lực hút và thu hồi pháp bảo.",
+       "anchor": "bên trên không ngờ còn có một Truyền Tống Trận"
       },
       {
        "importance": "major",
        "chuong": "@c0605",
-       "tieuDe": "Nuốt linh hồn Thái Cổ Lôi Long",
-       "text": "Lợi dụng lúc Lôi Long tách thân làm hai để chui vào khe nên khí tức suy yếu nhất, Vương Lâm dùng thần thông thôn hồn — nguyên thần lao ra từ giữa lông mày, một ngụm nuốt lấy linh hồn Lôi Long. Sau đó nguyên thần quay về cơ thể, hấp thu sức mạnh không thể tưởng tượng của Thái Cổ Lôi Long, thân thể lóe điện quang như đang ở trong sấm sét.",
+       "tieuDe": "Nuốt nửa linh hồn Thái Cổ Lôi Long",
+       "text": "Vốn là một thôn hồn có thể nuốt mọi hồn phách thiên hạ, Vương Lâm phóng nguyên thần một ngụm nuốt lấy nửa linh hồn Thái Cổ Lôi Long lúc nó suy yếu nhất, rồi triển thần thông thôn hồn điên cuồng hấp thu sức mạnh lôi điện, thân thể lóe điện quang như trong sấm sét.",
        "anchor": "nguyên thần Vương Lâm một ngụm nuốt lấy"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0606",
        "tieuDe": "Nguyên thần biến dị hóa Thiên Lôi",
        "text": "Trong khe đá hung hiểm, Vương Lâm cắn nuốt Thái Cổ Lôi Long khiến nguyên thần biến dị về chất: bên trong nguyên thần hình thành lôi điện và một tia lôi quang, trạng thái mà ngay cả Thiên Vận Tử cũng chưa từng gặp. Hắn xuất nguyên thần, tay phải túm Lôi Long lôi ra, tay trái in cấm chế phong ấn, vừa phong ấn vừa cắn nuốt lặp đi lặp lại; thân thể chìm vào chết giả để bảo trì sức sống. Sau nhiều năm, nguyên thần thu nhỏ thành hình Nguyên Anh cao ba thước, tản lôi uy sắc bén như hàng vạn ngân xà, rồi dung nhập lại thân thể qua một lớp màng ngăn cách. Nguyên thần giờ giống như một đạo Thiên Lôi, bản lãnh vẫn Vấn Đỉnh Sơ Kỳ nhưng mang sức mạnh sấm sét; chỉ luyện hóa được một phần năm Lôi Long, còn lại bị phong ấn.",
@@ -9494,6 +9494,24 @@ window.LIB_DATA["tien-nghich"]={
        "ten": "Nữ tử thanh âm quỷ dị trong túi trữ vật",
        "tag": "khac",
        "quanHe": "Giọng nữ quỷ dị trong túi trữ vật thúc giục Vương Lâm Đi xuống.",
+       "ghiChu": "@c0605"
+      },
+      {
+       "ten": "Thái Cổ Lôi Long",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ truy kích trong hố sâu",
+       "ghiChu": "Lôi Long từ bỏ cơ hội thoát thân để truy kích Vương Lâm, cuối cùng bị Vương Lâm dùng thần thông thôn hồn nuốt linh hồn và hấp thu sức mạnh."
+      },
+      {
+       "ten": "Nữ tử quỷ dị trong túi trữ vật",
+       "tag": "khac",
+       "quanHe": "Thanh âm bí ẩn trong túi trữ vật",
+       "ghiChu": "Truyền âm thúc giục Vương Lâm “Đi xuống…” khi hắn ở trong hố sâu."
+      },
+      {
+       "ten": "Thái Cổ Lôi Long",
+       "tag": "doi-thu",
+       "quanHe": "Cự long sấm sét truy kích Vương Lâm vì hận; cuối cùng nửa linh hồn của nó bị Vương Lâm nuốt và hấp thu sức mạnh.",
        "ghiChu": "@c0605"
       }
      ],
@@ -49709,15 +49727,7 @@ window.LIB_DATA["tien-nghich"]={
     "vaiTro": "Bí ẩn",
     "tabs": {
      "diem": [],
-     "kinhLich": [
-      {
-       "importance": "normal",
-       "chuong": "@c0605",
-       "tieuDe": "Thúc giục Vương Lâm đi xuống",
-       "text": "Giọng nói nữ quỷ dị vang trong tâm thần Vương Lâm khi hắn rơi trong hố sâu, thúc giục Đi xuống, dường như biết và dẫn dắt hắn về phía đáy hố sâu với mục đích chưa rõ.",
-       "anchor": "Đi xuống"
-      }
-     ],
+     "kinhLich": [],
      "tuViMoc": [],
      "nhanMach": [
       {
@@ -49754,22 +49764,22 @@ window.LIB_DATA["tien-nghich"]={
       {
        "importance": "normal",
        "chuong": "@c0605",
-       "tieuDe": "Quay đầu công kích Vương Lâm",
-       "text": "Sắp xông ra khỏi vùng lực hút thì thấy Vương Lâm bám vách bên dưới, Lôi Long từ bỏ cơ hội thoát thân, bay thẳng tới đánh và phun lôi cầu khí thế như Thiên Kiếp truy kích Vương Lâm.",
-       "anchor": "mà bay thẳng đến Vương Lâm đánh tới"
+       "tieuDe": "Truy kích Vương Lâm vào hố sâu",
+       "text": "Cự long sấm sét cổ xưa mang trí nhớ truyền thừa xa xưa, vì hận mà không chịu thoát ra, lao đánh và truy kích Vương Lâm xuống sâu hố hung hiểm.",
+       "anchor": "Một người một rồng rượt đuổi trong hố sâu này"
       },
       {
        "importance": "normal",
        "chuong": "@c0605",
-       "tieuDe": "Kinh hãi vì ký ức truyền thừa",
-       "text": "Lần đầu lộ kinh hãi khi nhận ra cảnh tượng tương tự trong trí nhớ truyền thừa xa xưa, không còn muốn nuốt Vương Lâm mà tìm cách bỏ chạy, song bị định thân và lực hút kéo xuống sâu.",
-       "anchor": "trong mắt nó lần đầu tiên hiện ra sự kinh hãi"
+       "tieuDe": "Kinh hãi trước lực hút cổ xưa",
+       "text": "Phun lôi cầu lớn như Thiên Kiếp nhưng bị lực hút kéo lệch; lần đầu lộ vẻ kinh hãi vì trong ký ức truyền thừa từng thấy cảnh tượng tương tự, cố bay lên trốn nhưng bị định thân thuật kéo xuống.",
+       "anchor": "bỗng nhiên thi triển tiên thuật định thân"
       },
       {
        "importance": "major",
        "chuong": "@c0605",
-       "tieuDe": "Tách thân rồi bị nuốt linh hồn",
-       "text": "Để tránh lực hút, Lôi Long tách thân làm hai — một nửa bị hút vào hố sâu, một nửa nhảy vào khe theo Vương Lâm, lúc này khí tức chia hơn phân nửa nên suy yếu nhất. Khi lao vào định phun lôi cầu thì bị nguyên thần Vương Lâm một ngụm nuốt lấy linh hồn, sức mạnh nửa linh thể bị hấp thu.",
+       "tieuDe": "Tự xẻ thân và bị nuốt linh hồn",
+       "text": "Để tránh lực hút, Lôi Long tự xẻ thân làm hai — một nửa bị hút mất, một nửa nhảy vào khe; vào lúc suy yếu nhất, nửa linh hồn của nó bị Vương Lâm phóng nguyên thần nuốt lấy và hấp thu sức mạnh.",
        "anchor": "thân mình một phân thành hai, từ giữa tách ra"
       }
      ],
@@ -49779,6 +49789,12 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "doi-thu",
        "quanHe": "Truy kích Vương Lâm vào hố sâu; cuối cùng bị Vương Lâm nuốt linh hồn và hấp thu sức mạnh.",
        "ghiChu": "@c0605"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Bị Vương Lâm nuốt linh hồn",
+       "ghiChu": "Truy kích Vương Lâm trong hố sâu rồi bị hắn dùng thần thông thôn hồn nuốt linh hồn và hấp thu sức mạnh lôi điện."
       }
      ],
      "tuViMoc": []
@@ -49787,6 +49803,40 @@ window.LIB_DATA["tien-nghich"]={
      "@c0605"
     ],
     "rank": "B"
+   },
+   {
+    "id": "nu-tu-quy-di-trong-tui-tru-vat",
+    "name": "Nữ tử quỷ dị trong túi trữ vật",
+    "gioiTinh": "nu",
+    "trangThai": "khong-ro",
+    "blurb": "Thanh âm nữ tử quỷ dị cư ngụ trong túi trữ vật của Vương Lâm, truyền âm dẫn dắt hắn.",
+    "vaiTro": "Nhân vật bí ẩn",
+    "tabs": {
+     "diem": [],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Vương Lâm",
+       "tag": "khac",
+       "quanHe": "Chủ nhân túi trữ vật",
+       "ghiChu": "Truyền âm dẫn dắt Vương Lâm trong hố sâu."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
    }
   ]
  },
@@ -57094,9 +57144,13 @@ window.LIB_DATA["tien-nghich"]={
     "blurb": "Tiên thuật Vương Lâm cảm ngộ hơn mấy chục năm; chỉ một chữ ‘Định’ khiến thiên địa bất động, định trụ đối thủ không nhúc nhích.",
     "detail": "Tiên thuật mà Vương Lâm cảm ngộ trải hơn mấy chục năm, đến chương này mới chạm tới bề ngoài. Một tiếng ‘Định’ nhỏ phát trong toà tháp đã khoá cứng Lôi Suất khiến thời gian như ngừng, mây đen bất động, hơi thở hắn tiêu tán, chỉ đôi mắt còn cử động. Khi toàn lực thi triển ‘một chữ Định, thiên địa bất động’, toàn bộ yêu binh hai Quận bên ngoài bộ lạc lập tức không nhúc nhích, mở màn cho cuộc tàn sát. Một số đối thủ có thủ đoạn đặc biệt có thể thoát định sau vài tức.",
     "nguon": [
-     "@c0583"
+     "@c0583",
+     "@c0605"
     ],
-    "rank": "D"
+    "aliases": [
+     "Định"
+    ],
+    "rank": "C"
    },
    {
     "id": "sat-luc-khi-tu-phan",
@@ -58784,7 +58838,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "map": {
   "updatedAt": "2026-06-28",
-  "count": 173,
+  "count": 175,
   "nodes": [
    {
     "id": "trieu-quoc",
@@ -61663,12 +61717,41 @@ window.LIB_DATA["tien-nghich"]={
      "@c0605"
     ],
     "rank": "D"
+   },
+   {
+    "id": "ho-sau-luc-hut-day-vach-da-van-truong",
+    "name": "Hố sâu lực hút",
+    "aliases": [
+     "Đáy vách đá vạn trượng"
+    ],
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Hố sâu sâu không thấy đáy với lực hút mạnh dần theo độ sâu.",
+    "detail": "Hố sâu sâu không thấy đáy, vách đá vạn trượng dựng đứng; lực hút mạnh dần và tăng vọt theo độ sâu, hút mất cả lôi cầu của Thái Cổ Lôi Long. Thần thức không thể tản ra trong nơi này, khắp nơi phủ màn sương đen. Dưới đáy có tảng đá lớn mang Truyền Tống Trận và cái khe trong vách đá.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ho-sau-vach-da-luc-hut",
+    "name": "Hố sâu lực hút cực mạnh",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Hố sâu vạn trượng sâu không thấy đáy, lực hút càng xuống càng mạnh, có sương đen che thần thức.",
+    "detail": "Hố sâu sâu không thấy đáy, vách đá vạn trượng dựng đứng; lực hút càng xuống càng mạnh, mạnh dần như gió lốc, hút cả lôi cầu lẫn người và rồng vào trong; màn sương đen che phủ khiến thần thức không thể tản ra.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0605"
+    ],
+    "rank": "D"
    }
   ]
  },
  "artifacts": {
   "updatedAt": "2026-06-28",
-  "count": 496,
+  "count": 497,
   "artifacts": [
    {
     "id": "thach-chau",
@@ -70923,6 +71006,22 @@ window.LIB_DATA["tien-nghich"]={
     "detail": "Lệnh bài màu tím ngưng tụ thành hình từ sương mù. Cuối chương Vương Lâm vỗ túi trữ vật lấy ra để xem rốt cuộc nó có thần thông gì, nhưng công dụng chưa được hé lộ.",
     "nguon": [
      "@c0606"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tui-tru-vat-vuong-lam",
+    "name": "Túi trữ vật",
+    "category": "khac",
+    "categoryLabel": "Khác",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Túi trữ vật của Vương Lâm, chứa các pháp bảo và phát ra thanh âm nữ tử quỷ dị.",
+    "detail": "Túi trữ vật của Vương Lâm — chứa các pháp bảo, là nơi nguyên thần dung nhập và phát ra thanh âm nữ tử quỷ dị giục hắn đi xuống.",
+    "nguon": [
+     "@c0605"
     ],
     "rank": "D"
    }
