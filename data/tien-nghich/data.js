@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-27T17:37:30.642Z build_datajs */
+/* sync-bump 2026-06-28T12:32:11.724Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -5847,72 +5847,6 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Bản lãnh vẫn ở Vấn Đỉnh Sơ Kỳ nhưng nguyên thần nay như một đạo Thiên Lôi, thần thông đều ẩn lôi uy mạnh — đủ áp đảo Vấn Đỉnh Trung Kỳ, phối pháp bảo có thể đấu Vấn Đỉnh Hậu Kỳ. Mới luyện hóa được một phần năm Lôi Long, phần còn lại bị phong ấn. Hắn phát hiện nguyên thần không còn thể thoát ly thân thể, nghi là cái giá của biến dị, rồi gác lại lấy lệnh bài màu tím ra xem."
       },
       {
-       "text": "Vương Lâm dùng nguyên thần hút lôi hỏa, tay phải hút sạch lửa nguyên khí đang thiêu đốt nguyên thần Đỗ Kiến, cứu hắn khỏi nguy cơ tiêu tán. Hơn mười ngày sau nguyên thần Đỗ Kiến dung hợp hoàn toàn, đạt Vấn Đỉnh Sơ Kỳ.",
-       "bridge": true,
-       "khoang": "@c0608",
-       "importance": "major"
-      },
-      {
-       "chuong": "@c0608",
-       "importance": "normal",
-       "tieuDe": "Luyện chế Đỗ Kiến thành Tiên Vệ Đồng cấp",
-       "text": "Vương Lâm ép Đỗ Kiến đồng ý làm vật liệu, in ấn quyết tiên ý lên giữa lông mày hắn rồi tiến hành bí thuật luyện chế Tiên Vệ. Bước một thất bại không biết bao nhiêu lần, phải nung chảy hàng loạt pháp bảo cũ thành chất lỏng thay vật liệu; sau cùng hoàn thành khôi lỗi Tiên Vệ chỉ đạt Đồng cấp."
-      },
-      {
-       "bridge": true,
-       "khoang": "@c0608–@c0608",
-       "text": "Khi dọn túi trữ vật, một đóa hoa hồng màu lam hiện ra trong tay khiến Vương Lâm thoáng thấy thân ảnh đỏ như lửa; hắn do dự rồi thu hồi, không đưa vào luyện hóa. Trước bước hai mài nhỏ nguyên thần đầy rủi ro, lực hút bên ngoài cái khe ngày càng mạnh, hắn cắn răng triệu Tôn Hồn Phiên ra.",
-       "importance": "major"
-      },
-      {
-       "bridge": true,
-       "khoang": "@c0608",
-       "text": "Mục đích cốt lõi: trong ngọc giản có thần thông chỉ Tiên Vệ mới thi triển được, giúp hắn có cơ hội rời khỏi nơi này. Bước một thất bại nhiều lần; thiếu vật liệu nên Vương Lâm dọn túi trữ vật, nung chảy hàng loạt pháp bảo cũ thành chất lỏng dung hợp vào khôi lỗi. Khi đang dọn, một đóa hoa hồng màu lam hiện ra trong tay khiến hắn thấy thân ảnh đỏ như lửa, do dự rồi thu hồi không luyện hóa.",
-       "importance": "normal"
-      },
-      {
-       "chuong": "@c0608",
-       "importance": "major",
-       "tieuDe": "Hoàn thành Tiên Vệ Đồng cấp",
-       "text": "Sau hai tháng, thân thể khôi lỗi Đỗ Kiến phát hào quang, hoàn thành bước một nhưng chỉ đạt Đồng cấp (trong bốn trình độ Kim/Ngân/Đồng/Thiết). Vương Lâm do dự hiếm thấy trước bước hai mài nhỏ nguyên thần — chỉ một lần thất bại là hỏng hẳn. Lực hút bên ngoài cái khe ngày càng mạnh suốt hơn nửa năm, cuối cùng hắn cắn răng triệu Tôn Hồn Phiên, đầu lâu xanh đen hiện ra gào thét."
-      },
-      {
-       "chuong": "@c0608",
-       "importance": "major",
-       "tieuDe": "Luyện chế Tiên Vệ Đồng cấp",
-       "text": "Cứu nguyên thần Đỗ Kiến khỏi lửa thiêu, giúp hắn đạt Vấn Đỉnh Sơ Kỳ. Ép Đỗ Kiến đồng ý làm vật liệu luyện chế Tiên Vệ, hứa ngàn năm sau cho tự do. Trải qua nhiều tháng thất bại ở bước một, dùng pháp bảo cũ trong túi trữ vật nung chảy thay vật liệu, cuối cùng hoàn thành Tiên Vệ Đồng cấp. Do dự trước bước hai (mài nhỏ nguyên thần, chỉ một lần thất bại là hỏng hẳn), triệu Tôn Hồn Phiên — đầu lâu xanh đen hiện ra gào thét."
-      },
-      {
-       "text": "Vương Lâm lôi Thiên Quỷ ra khỏi Tôn Hồn Phiên, dùng nó làm hung khí đoạt hư thể cho khôi lỗi. Qua hơn nửa năm luyện hóa, Thiên Quỷ dung hợp với nguyên thần Đỗ Kiến rồi bị xóa mờ mà liên kết chặt chẽ, hoàn thành bước luyện hóa thứ hai cực khó. Hắn nhỏ máu kích hoạt, luyện thành khôi lỗi Tiên Vệ thứ nhất có khí tức ngang cảnh giới âm dương hư thực (xấp xỉ Tư Đồ Nam năm đó), rồi nạp trăm vạn đạo sát lục chi khí và gắn ngọc giản truyền thần thông, ra lệnh ‘Ẩn’ cho nó nấp vào thân ảnh mình.",
-       "bridge": true,
-       "khoang": "@c0609",
-       "importance": "major"
-      },
-      {
-       "chuong": "@c0609",
-       "importance": "bridge",
-       "tieuDe": "Nghiên cứu kiếm Cự Phú trong tuyệt địa",
-       "text": "Sau khi xác định phải nắm chắc sáu phần thần thông Tiên Vệ mới rời khe, Vương Lâm lấy ra thanh đại kiếm Cự Phú — đệ nhất kiếm của hắn, lớn như một cánh cửa — vuốt thân kiếm và dung nhập tâm thần để dò tìm bí mật còn ẩn giấu của nó. Trong khe tối đầy tiếng gào khóc và lực hút từ hố sâu, hắn cô độc hồi tưởng 800 năm tu đạo, nhớ cha mẹ, được tiểu cầu bạch quang chứa bóng hình Uyển Nhi bầu bạn."
-      },
-      {
-       "chuong": "@c0609",
-       "importance": "major",
-       "tieuDe": "Luyện thành khôi lỗi Tiên Vệ thứ nhất",
-       "text": "Trong tuyệt địa (cái khe), Vương Lâm lôi Thiên Quỷ ra khỏi Tôn Hồn Phiên, dùng nó làm hung khí đoạt hư thể cho khôi lỗi. Nhấn Thiên Quỷ vào lông mày khôi lỗi, nạp lôi quang ẩn hỏa khí, dùng roi khắc chế quất khi nó chống cự. Qua hơn nửa năm, Thiên Quỷ và nguyên thần Đỗ Kiến dung hợp xóa mờ, hoàn thành bước luyện hóa thứ hai. Nhỏ máu kích hoạt, khôi lỗi mở mắt linh hoạt sắc bén, khí tức ngang cảnh giới âm dương hư thực. Nạp trăm vạn đạo sát lục chi khí và ngọc giản thần thông vào khôi lỗi, ra lệnh Ẩn — Tiên Vệ hóa hư vô ẩn vào thân ảnh hắn."
-      },
-      {
-       "chuong": "@c0609",
-       "importance": "bridge",
-       "tieuDe": "Nghiên cứu kiếm Cự Phú",
-       "text": "Lấy đại kiếm Cự Phú (đệ nhất kiếm, lớn như cánh cửa) ra nghiên cứu, dung nhập tâm thần tìm bí mật ẩn giấu bên trong nhưng chưa có kết quả."
-      },
-      {
-       "bridge": true,
-       "khoang": "@c0609",
-       "text": "Vương Lâm dự định nắm chắc sáu phần thần thông Tiên Vệ mới rời tuyệt địa, lấy ra đại kiếm Cự Phú dung nhập tâm thần để tìm bí mật của nó. Cô độc trong cái khe tối đen, hắn hồi tưởng tám trăm năm tu đạo, nhớ cha mẹ và Uyển Nhi — bóng hình mờ ảo trong tiểu cầu bạch quang bầu bạn bù đắp nỗi cô đơn.",
-       "importance": "bridge"
-      },
-      {
        "text": "Sau hai năm mắc kẹt trong khe nứt dưới hố sâu vùng đất Yêu Linh, Vương Lâm tĩnh tâm cảm thụ ý chí ẩn trong Cự Phú và lĩnh ngộ được thức kiếm quyết duy nhất — Trảm La Quyết. Khi hắn thu tâm thần ra, Cự Phú hoàn toàn tiêu tan như đã hoàn thành truyền thừa cả đời, chỉ để lại một thức kinh thiên cảm ngộ.",
        "bridge": true,
        "khoang": "@c0610",
@@ -9357,6 +9291,36 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "khac",
        "quanHe": "Người từng cầu nhờ",
        "ghiChu": "Tôn Tích từng tìm Vương Lâm vì việc liên quan phân thân nhưng bị từ chối. @c0633"
+      },
+      {
+       "ten": "Đỗ Kiến",
+       "tag": "doi-thu",
+       "quanHe": "Tu sĩ Vương Lâm cứu rồi ép làm vật liệu luyện chế Tiên Vệ",
+       "ghiChu": "Cứu nguyên thần Đỗ Kiến khỏi lửa thiêu, buộc hắn đồng ý thành khôi lỗi Tiên Vệ Đồng cấp (@c0608)"
+      },
+      {
+       "ten": "Đỗ Kiến",
+       "tag": "doi-thu",
+       "quanHe": "Dùng nguyên thần Đỗ Kiến làm nền khôi lỗi Tiên Vệ",
+       "ghiChu": "Nguyên thần Đỗ Kiến dung hợp với Thiên Quỷ rồi bị xóa mờ trong khôi lỗi @c0609"
+      },
+      {
+       "ten": "Thanh Lâm",
+       "tag": "su-mon",
+       "quanHe": "Bội phục Tiên Đế Thanh Lâm — người sáng tạo phương pháp luyện chế Tiên Vệ",
+       "ghiChu": "Học phư��ng pháp từ ngọc giản của Thanh Lâm @c0609"
+      },
+      {
+       "ten": "Tư Đồ Nam",
+       "tag": "khac",
+       "quanHe": "Mốc so sánh: khí tức Tiên Vệ ngang Tư Đồ Nam năm đó",
+       "ghiChu": "@c0609"
+      },
+      {
+       "ten": "Uyển Nhi",
+       "tag": "the-thiep",
+       "quanHe": "Bóng hình trong tiểu cầu bạch quang làm bạn, là nguồn hạnh phúc và nỗi nhớ của hắn",
+       "ghiChu": "@c0609"
       }
      ],
      "tuiDo": {
@@ -34071,12 +34035,6 @@ window.LIB_DATA["tien-nghich"]={
       },
       {
        "importance": "normal",
-       "chuong": "c0609",
-       "text": "Năm xưa từng có cảnh giới âm dương hư thực — được Vương Lâm dùng làm mốc so sánh khí tức Tiên Vệ",
-       "nguonNblm": true
-      },
-      {
-       "importance": "normal",
        "chuong": "c0615",
        "text": "Nam tu sĩ Nhiễm gia Nhiễm Vân Tinh (La Thiên Tinh Vực), Anh Biến sơ kì; một trong ba nam đi cùng Nhiễm Nguyệt, Nhiễm Thần, Tôn Tuyết Sơn",
        "nguonNblm": true
@@ -44903,41 +44861,6 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Đỗ Kiến phun tiên huyết hóa vô số hạt huyết và ném bướu thịt ô uế chi nhục tự nổ, nhưng đều bị Vương Lâm dùng Hoàng Tuyền cuốn sạch. Hắn bị Vương Lâm phong ấn nguyên thần, chặt đứt liên hệ với thân thể, rồi cấm chế bằng Cấm Phiên và thu vào túi trữ vật.",
        "bridge": true,
        "khoang": "@c0591"
-      },
-      {
-       "text": "Nguyên thần Đỗ Kiến vốn sẽ bị lửa nguyên khí thiêu chết trong quá trình Vấn Đỉnh, nhưng Vương Lâm hút sạch lửa cứu hắn. Hơn mười ngày sau nguyên thần dung hợp, đạt Vấn Đỉnh Sơ Kỳ — tu sĩ Vấn Đỉnh yếu nhất, không thể chống cự Vương Lâm. Hắn vừa oán hận vừa cảm kích, nhiều nhất là hối hận và sợ hãi.",
-       "bridge": true,
-       "khoang": "@c0608"
-      },
-      {
-       "chuong": "@c0608",
-       "importance": "major",
-       "tieuDe": "Bị luyện chế thành Tiên Vệ Đồng cấp",
-       "text": "Biết phản kháng sẽ chết ngay, Đỗ Kiến đành đánh cuộc gật đầu để Vương Lâm luyện chế thành Tiên Vệ. Bị in ấn quyết, qua nhiều tháng tế luyện hắn hóa thành khôi lỗi thân ảnh gầy gò, da tái nhợt không máu, toàn thân phát khí âm hàn, đạt Đồng cấp Tiên Vệ."
-      },
-      {
-       "chuong": "@c0608",
-       "importance": "major",
-       "tieuDe": "Được cứu, đạt Vấn Đỉnh Sơ Kỳ",
-       "text": "Trong lúc nguyên thần sắp bị lửa nguyên khí thiêu hủy, Đỗ Kiến được Vương Lâm hút lửa cứu nguy. Hơn mười ngày sau nguyên thần dung hợp với thiên địa nguyên khí còn lại, đạt cảnh giới Vấn Đỉnh — song do nguyên khí tổn hao nhiều nên chỉ là Vấn Đỉnh Sơ Kỳ, tu sĩ Vấn Đỉnh yếu nhất, không thể chống cự Vương Lâm."
-      },
-      {
-       "chuong": "@c0608",
-       "importance": "major",
-       "tieuDe": "Bị luyện chế thành Tiên Vệ",
-       "text": "Biết số kiếp đã định, nếu phản kháng sẽ tử vong ngay, Đỗ Kiến đành gật đầu chấp nhận làm vật liệu luyện chế Tiên Vệ. Vương Lâm in ấn quyết lên giữa lông mày hắn, qua nhiều tháng tế luyện biến hắn thành khôi lỗi: thân ảnh gầy gò, phát khí âm hàn, da tái nhợt không máu (máu đã dung nhập gân cốt), cuối cùng đạt Tiên Vệ Đồng cấp."
-      },
-      {
-       "chuong": "@c0608",
-       "importance": "normal",
-       "tieuDe": "Đạt Vấn Đỉnh rồi bị luyện thành Tiên Vệ",
-       "text": "Nguyên thần được Vương Lâm cứu khỏi lửa thiêu, dung hợp thiên địa nguyên khí đạt Vấn Đỉnh Sơ Kỳ (yếu nhất do nguyên khí tổn hao). Tâm trạng phức tạp: oán hận, cảm kích, hối hận, sợ hãi. Bị Vương Lâm ép đồng ý làm vật liệu luyện chế Tiên Vệ, in ấn quyết lên lông mày. Sau nhiều tháng bị luyện hóa thành khôi lỗi Đồng cấp: thân ảnh gầy gò, da tái nhợt không máu, khí âm hàn."
-      },
-      {
-       "importance": "normal",
-       "chuong": "c0609",
-       "text": "Nguyên thần được dùng làm nền khôi lỗi, dung hợp với Thiên Quỷ rồi bị xóa mờ; hoàn thành bước luyện hóa thứ hai sau hơn nửa năm, thành khôi lỗi Tiên Vệ thứ nhất",
-       "nguonNblm": true
       }
      ],
      "tuViMoc": [
@@ -45006,7 +44929,7 @@ window.LIB_DATA["tien-nghich"]={
      "@c0591",
      "@c0608"
     ],
-    "rank": "A"
+    "rank": "C"
    },
    {
     "id": "mo-dung-trac",
@@ -49385,7 +49308,7 @@ window.LIB_DATA["tien-nghich"]={
   }
  ],
  "volumes": {
-  "updatedAt": "2026-06-27",
+  "updatedAt": "2026-06-28",
   "volumes": [
    {
     "value": "q01",
@@ -49627,7 +49550,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "techniques": {
   "updatedAt": "2026-06-24",
-  "count": 460,
+  "count": 462,
   "techniques": [
    {
     "id": "ngung-khi-tam-thien",
@@ -57948,6 +57871,39 @@ window.LIB_DATA["tien-nghich"]={
      "@c0629"
     ],
     "rank": "D"
+   },
+   {
+    "id": "than-thong-am-duong-hu-thuc-nhi-y",
+    "name": "Thần thông âm dương hư thực nhị ý",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Cao cấp",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Trình độ thần thông gắn với Vấn Đỉnh đại viên mãn, bước nửa bước vào âm dương hư thực nhị ý.",
+    "detail": "Trình độ mà Đỗ Kiến nếu luyện chế Tiên Vệ thành công có thể bước nửa bước vào, gắn với Vấn Đỉnh đại viên mãn. Vương Lâm hứa dùng bí thuật tế luyện khiến Đỗ Kiến có cơ hội đạt tới trình độ này.",
+    "nguon": [
+     "@c0608"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phuong-phap-luyen-che-tien-ve",
+    "name": "Phương pháp luyện chế Tiên Vệ (khôi lỗi)",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật luyện chế",
+    "phamCap": "Tiên Đế bí pháp",
+    "hePhai": "Tiên Đế Thanh Lâm",
+    "soHuu": [
+     "Vương Lâm",
+     "Thanh Lâm"
+    ],
+    "blurb": "Phương pháp do Tiên Đế Thanh Lâm sáng tạo, dùng nguyên thần dung nhập huyết nhục tạo khôi lỗi Tiên Vệ.",
+    "detail": "Ghi trong ngọc giản, gồm bước thứ hai luyện hóa cực khó: nguyên thần bị xóa mờ nhưng phải giữ liên kết chặt để đạt thần ở trong ý, lơ lỏng là tử vong nên cần chấp niệm mạnh (như chấp niệm nghịch tu). Tu sĩ có đạo niệm tự thân luyện Tiên Vệ xác suất cao hơn. Kèm phương pháp khống chế chống Tiên Vệ phản bội và vài thần thông riêng cho Tiên Vệ.",
+    "nguon": [
+     "@c0609"
+    ],
+    "rank": "D"
    }
   ]
  },
@@ -58065,7 +58021,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "map": {
   "updatedAt": "2026-06-24",
-  "count": 161,
+  "count": 162,
   "nodes": [
    {
     "id": "trieu-quoc",
@@ -60772,12 +60728,25 @@ window.LIB_DATA["tien-nghich"]={
      "@c0633"
     ],
     "rank": "D"
+   },
+   {
+    "id": "cai-khe-vach-da-ho-sau",
+    "name": "Cái khe trên vách đá phía dưới hố sâu",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi Vương Lâm tiến hành luyện chế Tiên Vệ.",
+    "detail": "Khe nứt trên vách đá phía dưới hố sâu, nơi Vương Lâm ẩn mình luyện chế Tiên Vệ. Bên ngoài có lực hút không ngừng và ngày càng mạnh suốt hơn nửa năm, tạo áp lực thời gian thúc Vương Lâm liều luyện chế.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0608"
+    ],
+    "rank": "D"
    }
   ]
  },
  "artifacts": {
   "updatedAt": "2026-06-24",
-  "count": 483,
+  "count": 486,
   "artifacts": [
    {
     "id": "thach-chau",
@@ -60791,7 +60760,6 @@ window.LIB_DATA["tien-nghich"]={
      "Thiên Nghịch châu",
      "#hat-chau-thien-nghich",
      "Hạt châu Thiên Nghịch",
-     "#thien-nghich-chau-huyen-gia",
      "#thien-nghich-chau"
     ],
     "category": "phap-bao",
@@ -60831,7 +60799,6 @@ window.LIB_DATA["tien-nghich"]={
      "@c0381",
      "@c0382",
      "@c0390",
-     "@c0616",
      "@c0612"
     ],
     "tabs": {},
@@ -69806,6 +69773,56 @@ window.LIB_DATA["tien-nghich"]={
      "@c0610"
     ],
     "rank": "C"
+   },
+   {
+    "id": "khoi-loi-tien-ve-do-kien",
+    "name": "Khôi lỗi Tiên Vệ (Đồng cấp)",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Đồng cấp",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Nhân thể pháp bảo Tiên Vệ luyện từ thân thể Đỗ Kiến, đạt Đồng cấp.",
+    "detail": "Thành quả bước một luyện chế Tiên Vệ từ thân thể Đỗ Kiến: da tái nhợt không máu (máu đã biến hóa dung nhập gân cốt), khí âm hàn, phát hào quang chiếu sáng khi hoàn thành. Trong bốn trình độ Kim/Ngân/Đồng/Thiết chỉ đạt tới Đồng cấp, tạm đủ dùng.",
+    "nguon": [
+     "@c0608"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-quy",
+    "name": "Thiên Quỷ",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Hung vật / nguyên liệu",
+    "phamCap": "Hung vật mạnh mẽ",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Một cái đầu lâu hung ác mạnh mẽ, há miệng định nuốt người; bị Vương Lâm dùng làm hung khí đoạt hư thể cho khôi lỗi Tiên Vệ.",
+    "detail": "Năm xưa Vương Lâm bắt được lúc nó suy yếu chưa kịp khôi phục. Trong Tôn Hồn Phiên đa số linh hồn đều tránh xa nó, chỉ riêng kỳ lân không sợ. Khi bị lôi ra nó định nuốt Vương Lâm nhưng bị dấu ấn chấn động ép lui. Vương Lâm nhấn nó vào giữa lông mày khôi lỗi, dùng roi khắc chế quất khi nó chống cự, rồi dung nhập nó cùng nguyên thần Đỗ Kiến vào thân khôi lỗi.",
+    "nguon": [
+     "@c0609"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoa-hong-mau-lam",
+    "name": "Hoa hồng màu lam",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Đóa hoa hồng màu lam trong túi trữ vật Vương Lâm, gợi nhớ một thân ảnh đỏ như lửa.",
+    "detail": "Trong lúc dọn túi trữ vật để tìm vật liệu luyện Tiên Vệ, một đóa hoa hồng màu lam xuất hiện trong tay Vương Lâm, khiến hắn liên tưởng tới một thân ảnh đỏ như lửa. Hắn do dự hiếm thấy rồi thu lại, đổi pháp bảo khác làm vật liệu.",
+    "nguon": [
+     "@c0608"
+    ],
+    "rank": "D"
    }
   ]
  },
