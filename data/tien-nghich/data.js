@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-29T05:38:35.022Z build_datajs */
+/* sync-bump 2026-06-29T16:18:28.845Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -627,7 +627,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "characters": {
   "updatedAt": "2026-06-28",
-  "count": 460,
+  "count": 459,
   "chars": [
    {
     "id": "vuong-lam",
@@ -22135,53 +22135,6 @@ window.LIB_DATA["tien-nghich"]={
        "nguonNblm": true
       },
       {
-       "chuong": "@c0614",
-       "importance": "normal",
-       "tieuDe": "Bấm độn dò ra Vương Lâm",
-       "text": "Vào vùng đất Yêu Linh, thuật bói không còn bị Đông Hải cản trở, bấm độn dò được vị trí Vương Lâm xuyên vực sâu triều tịch. Thấy trên người Vương Lâm không có lạc ấn Sát Lục Tiên Quyết nhưng không kịp ngăn. Cuối chương nhìn dòng xoáy với ánh mắt tỏa ánh sáng kỳ dị, tâm tư khó dò."
-      },
-      {
-       "text": "Vào trong vùng đất Yêu Linh, thuật bói không còn bị Đông Hải cản trở, Thiên Vận Tử bấm độn dò ra vị trí Vương Lâm, ánh mắt xuyên qua vực sâu triều tịch tới tận hố sâu. Hắn thấy trên người Vương Lâm không có lạc ấn nào của Sát Lục Tiên Quyết nhưng không kịp ngăn vì lực lượng dòng xoáy quá mạnh. Cuối chương lộ ánh mắt kỳ dị khó dò khi nhìn dòng xoáy.",
-       "bridge": true,
-       "khoang": "@c0614"
-      },
-      {
-       "importance": "normal",
-       "chuong": "c0614",
-       "text": "Là sư tôn của Thần Long; phẫn nộ khi thấy Thất Tinh kiếm trận; cố kỵ Vân Tiên đạo lữ (Vương Tạ, Hồ Quyên) nên không dám ra tay.",
-       "nguonNblm": true
-      },
-      {
-       "importance": "normal",
-       "chuong": "c0615",
-       "text": "Nam tu sĩ đi cùng nhóm Nhiễm gia (Nhiễm Nguyệt, Nhiễm Thần, Nhiễm Phong) từ La Thiên Tinh Vực; tu vi Anh Biến sơ kì, người La Vân Tinh Vực.",
-       "nguonNblm": true
-      },
-      {
-       "importance": "normal",
-       "chuong": "c0616",
-       "text": "Một trong bốn người (cùng Nhiễm Nguyệt, Tôn Tuyết Sơn) được Vương Lâm cứu khỏi Minh vụ trùng và sấm sét; sắc mặt biến đổi khi Nhiễm Nguyệt hỏi về Lôi Tiên sứ giả, thầm khẳng định Vương Lâm chính là sứ giả của Lôi Tiên.",
-       "nguonNblm": true
-      },
-      {
-       "importance": "normal",
-       "chuong": "c0619",
-       "text": "Thanh niên tu sĩ Kết Đan tại Thanh Trúc Các (Nhiễm Vân Tinh, La Thiên Tinh Vực); thử phi kiếm Vương Lâm bán, đánh giá tính dung hợp đạt linh bảo bậc trung-cao",
-       "nguonNblm": true
-      },
-      {
-       "importance": "normal",
-       "chuong": "c0621",
-       "text": "Tộc nhân đời thứ ba Tôn Gia, phụ trách tòa thành Vương Lâm trú; lão già mặc hắc y, tu vi vốn cao, tự hạ xuống Kết Đan kỳ khi vào gặp.",
-       "nguonNblm": true
-      },
-      {
-       "importance": "normal",
-       "chuong": "c0622",
-       "text": "Tu vi Nguyên Anh kỳ, người Tôn Gia phụ trách phòng thủ cổng thành Bắc; tư chất không tốt nhưng cần cù, tĩnh tọa thổ nạp dưới ngọn núi",
-       "nguonNblm": true
-      },
-      {
        "importance": "normal",
        "chuong": "c0623",
        "text": "Là vãn bối Tôn Gia; Tôn Tích nhận xét tu vi khá cao nhưng thiếu kinh nghiệm, cảm kích vì \"Hứa huynh\" (Vương Lâm) đã cứu mạng hắn.",
@@ -34656,193 +34609,6 @@ window.LIB_DATA["tien-nghich"]={
     },
     "nguon": [
      "@c0458"
-    ],
-    "rank": "B"
-   },
-   {
-    "id": "tu-su-ty-tu-he",
-    "name": "Tứ sư tỷ (Tử hệ)",
-    "cn": "",
-    "aliases": [
-     "Tứ sư tỷ",
-     "Tứ sư tỷ (Tử hệ)"
-    ],
-    "gioiTinh": "nu",
-    "theLuc": [
-     {
-      "ten": "Tử hệ (Thiên Vận Tông)",
-      "trangThai": "gan-bo"
-     },
-     {
-      "ten": "Thiên Vận Tông",
-      "trangThai": "gan-bo"
-     }
-    ],
-    "canhGioiCaoNhat": "Anh Biến hậu kỳ",
-    "trangThai": "song",
-    "blurb": "Nữ tử Anh Biến hậu kỳ thuộc Tử hệ Thiên Vận Tông; được người nhờ vả nên ra tay, thi triển Tử thuật - Na di trong cuộc vây kích Vương Lâm.",
-    "vaiTro": "Sư tỷ đồng hệ Tử của Vương Lâm, một trong năm người vây kích",
-    "tinhCach": [
-     {
-      "text": "Bất đắc dĩ ra tay vì chịu lời nhờ vả của người khác",
-      "chuong": "@c0458"
-     }
-    ],
-    "tabs": {
-     "diem": [
-      {
-       "text": "Anh Biến hậu kỳ, thuộc Tử hệ và sử dụng Tử thuật",
-       "chuong": "@c0458"
-      }
-     ],
-     "kinhLich": [
-      {
-       "text": "Bất đắc dĩ thừa nhận được người nhờ vả, tứ sư tỷ bắt quyết điểm vào hư không, một tia sáng bạc lan ra bao trùm mười dặm, mở màn cuộc vây kích Vương Lâm tại Tử Lâm Các.",
-       "bridge": true,
-       "khoang": "@c0458"
-      },
-      {
-       "text": "Tứ sư tỷ — nữ tử xinh đẹp như tiên tử đội mũ tơ tằm — dùng thần thông na di đưa Vương Lâm tới thạch lâm khốn địa, hứa sau ba năm sẽ tới thả ra và truyền thần thông na di cho hắn khi mọi chuyện giải quyết xong. Trước khi rời đi, nàng nói với đại sư huynh rằng nhân tình năm đó nay đã hồi báo, từ nay hai người không còn liên quan, rồi hóa ngân quang bay về Thiên Vận Tông.",
-       "bridge": true,
-       "khoang": "@c0459"
-      },
-      {
-       "text": "Khi Triệu Tinh Sát lớn tiếng cầu viện, lão tứ bình thản đáp ân tình ba tháng trước đã đền đáp và đã đồng ý không tranh đoạt danh hiệu Thiên Vận Thất Tử với hắn, đòi một lý do mới chịu ra tay. Triệu Tinh Sát cắn răng tức giận mất chỗ dựa.",
-       "bridge": true,
-       "khoang": "@c0463"
-      },
-      {
-       "chuong": "@c0464",
-       "importance": "normal",
-       "tieuDe": "Trao ngọc giản hai cấm pháp",
-       "text": "Đêm khuya yến tàn, tứ sư tỷ đưa Vương Lâm một ngọc giản chứa cấm pháp đại na di cùng một cấm pháp do sư tôn phỏng theo hạ phẩm tiên thuật sáng tạo, coi như xin lỗi việc tháng trước — lúc đó nàng dùng cấm pháp phong ấn nhưng chưa thực sự ra tay."
-      },
-      {
-       "bridge": true,
-       "khoang": "@c0465",
-       "text": "Trong thọ yến, Tứ sư tỷ truyền âm than thở với Vương Lâm rằng Tử Tông đang sa sút vì tranh đoạt nội bộ quá nhiều, danh hiệu Thiên Vận Thất Tử thay đổi thường xuyên, không còn uy phong như thời Tôn Vân sư đệ năm xưa."
-      },
-      {
-       "bridge": true,
-       "khoang": "@c0468",
-       "text": "Tứ sư tỷ thần thái như thường, bình tĩnh trụ vững khảo nghiệm áp lực cùng Vương Lâm; khi thấy hắn vượt trội nàng liếc một cái đầy thâm ý nhưng không nói gì."
-      },
-      {
-       "text": "Sau khi Bạch Vi bỏ cuộc, Triệu Hân Mộng nhíu mắt nhìn Vương Lâm, đòi giao chiến một trận để hắn không đạt phong hiệu quá đơn giản. Khi khai chiến nàng giật lui hơn mười trượng, vận Tử Ma thủ — thần thông tự sáng chế bằng cách mô phỏng Hoá Ma chỉ của Vương Lâm — đẩy tử quang gào rít lao tới.",
-       "bridge": true,
-       "khoang": "@c0469"
-      },
-      {
-       "text": "Triệu Hân Mộng bắt chước Tử Ma thủ dụ Vương Lâm dùng Hoá Ma chỉ để cướp ma lực, định không tranh phong hiệu Thiên Vận Thất tử với hắn. Nàng dùng hạt châu trắng hút ma lực khiến nó hoá đen, nhưng Vương Lâm khiến ma lực hư ảo tự sụp, hạt châu vỡ vụn; nàng đe doạ nhưng bị từ chối.",
-       "bridge": true,
-       "khoang": "@c0470"
-      },
-      {
-       "text": "Nàng thi Cửu chuyển luyện tiên quyết tu ra kim sắc lốc xoáy năm vòng, nhưng kinh ngạc khi Vương Lâm chỉ vài ngày đã đạt ngũ chuyển lại rút chiến phủ và Xạ Thần xa. Triệu Hân Mộng thừa nhận đã xem thường hắn rồi rời đi, sau đó truyền âm cho Trần Đào về việc Tôn Vân.",
-       "bridge": true,
-       "khoang": "@c0470"
-      },
-      {
-       "importance": "normal",
-       "chuong": "c0610",
-       "text": "Sát Lục Tiên Quyết do Thiên Vận Tử truyền thực chất là cạm bẫy trí mạng: khi tu luyện sinh ra Sát Lục Chi Tâm, về sau dị biến có thể khiến Vương Lâm phát điên, thậm chí kích động hủy bỏ toàn bộ Sát Lục Chi Khí.",
-       "nguonNblm": true
-      }
-     ],
-     "tuViMoc": [],
-     "tuVi": "Nữ tử Anh Biến hậu kỳ thuộc Tử hệ Thiên Vận Tông.",
-     "nhanMach": [
-      {
-       "ten": "Vương Lâm",
-       "tag": "doi-thu",
-       "quanHe": "Đồng hệ Tử nhưng ra tay vây kích theo lời nhờ vả",
-       "ghiChu": "@c0458"
-      },
-      {
-       "ten": "Vương Lâm",
-       "tag": "su-mon",
-       "quanHe": "Sư đệ đồng môn (lão thất)",
-       "ghiChu": "Đích thân na di đưa hắn tới khốn địa, hẹn ba năm thả; hứa truyền thần thông na di."
-      },
-      {
-       "ten": "Đại sư huynh (Thiên Vận Tông)",
-       "tag": "doi-thu",
-       "quanHe": "Sư huynh đồng môn, từng có nhân tình",
-       "ghiChu": "Tuyên bố nhân tình năm xưa đã hồi báo, cắt đứt quan hệ với đại sư huynh."
-      },
-      {
-       "ten": "Triệu Tinh Sát",
-       "tag": "khac",
-       "quanHe": "Người từng chịu ân, nay cầu viện",
-       "ghiChu": "Lão tứ từ chối trợ giúp."
-      },
-      {
-       "ten": "Vương Lâm",
-       "tag": "su-mon",
-       "quanHe": "Sư đệ cùng Tử hệ",
-       "ghiChu": "Trao ngọc giản hai cấm pháp xin lỗi việc tháng trước."
-      },
-      {
-       "ten": "Tôn Vân",
-       "tag": "su-mon",
-       "quanHe": "Sư đệ Tử Hệ thời còn uy phong, được nhắc lại khi than về sự sa sút",
-       "ghiChu": ""
-      },
-      {
-       "ten": "Vương Lâm",
-       "tag": "su-mon",
-       "quanHe": "Đồng môn Tử hệ",
-       "ghiChu": "Hai người duy nhất của Tử hệ trụ vững khảo nghiệm; Tứ sư tỷ liếc Vương Lâm đầy thâm ý trước biểu hiện vượt trội của hắn."
-      },
-      {
-       "ten": "Vương Lâm",
-       "tag": "doi-thu",
-       "quanHe": "Lão Thất đồng môn",
-       "ghiChu": "Khiêu chiến và giao chiến với Vương Lâm; mô phỏng Hoá Ma chỉ của hắn thành Tử Ma thủ."
-      },
-      {
-       "ten": "Thiên Vận Tử",
-       "tag": "su-mon",
-       "quanHe": "Sư phụ"
-      },
-      {
-       "ten": "Vương Lâm",
-       "tag": "doi-thu",
-       "quanHe": "Thất sư đệ Tử hệ (giả danh)",
-       "ghiChu": "Gài bẫy hấp thu ma lực bất thành, đánh giá thấp rồi bỏ cuộc."
-      },
-      {
-       "ten": "Trần Đào",
-       "tag": "su-mon",
-       "quanHe": "Đồng môn Tử hệ",
-       "ghiChu": "Truyền âm cho Trần Đào về việc Tôn Vân khiến hắn biến sắc."
-      }
-     ],
-     "tuiDo": {
-      "phapBao": [],
-      "danDuoc": [],
-      "congPhap": [
-       {
-        "ten": "Tử thuật - Na di",
-        "moTa": "Pháp thuật Tử hệ, bắt quyết điểm vào hư không phát tia sáng bạc bao trùm mười dặm",
-        "nguon": "@c0458"
-       }
-      ],
-      "linhThu": [],
-      "nguyenLieu": [],
-      "linhThao": [],
-      "khac": []
-     }
-    },
-    "nguon": [
-     "@c0458",
-     "@c0459",
-     "@c0463",
-     "@c0464",
-     "@c0465",
-     "@c0468",
-     "@c0469",
-     "@c0470"
     ],
     "rank": "B"
    },
@@ -48465,26 +48231,39 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Đứng cùng Tiêu Dao tán nhân và Tôn Tích trên Nhiễm Vân tinh, phỏng đoán việc Huyễn gia hạ Tỏa tinh đại trận nhằm lập uy cho Huyễn Mi — con gái nuôi mới thu của Lão tổ Huyễn gia."
       },
       {
-       "text": "Cùng Tiêu Dao tán nhân và Tôn Tích bàn về kết cục sắp tới; đã âm thầm đưa dòng chính ba tộc đi giữ hương khói nhưng căn cơ Nhiễm Vân tinh không thể di chuyển. Oán Hứa Mộc đã hứa che chở rồi rời đi lúc nguy cơ, hối hận chuyện bốn năm trước.",
-       "bridge": true,
-       "khoang": "@c0633"
+       "chuong": "@c0633",
+       "importance": "major",
+       "text": "Lão tổ Nhiễm gia tên thật là Nhiễm Học Phong, tu vi Vấn Đỉnh trung kỳ — một trong ba lão tổ trấn giữ Nhiễm Vân tinh (cùng Triệu Truyền Văn tức Tiêu Dao tán nhân và Tôn Tích). Bốn năm trước ba người gây họa lớn (liên quan cái chết của Huyễn Đông người Huyễn gia); khi Liễu Mi của Huyễn gia tới diệt tộc theo lệnh sư tôn, ba người đã sớm âm thầm đưa người dòng chính trong tộc rời đi để giữ hương hỏa.",
+       "anchor": "Ba chúng ta mấy năm nay đã sớm âm thầm đưa người dòng chính trong tộc đi",
+       "nguonNblm": true
       },
       {
-       "text": "Khi Liễu Mi giáng lâm, hắn xưng tên thật Nhiễm Học Phong, quyết tử chiến. Bị Vô tình đạo mê hoặc nhưng gắng giữ tâm thần, dùng Chưởng Tâm Lôi đánh Liễu Mi song bị nàng điểm tay hóa giải; hai đồng bạn quay sang đánh hắn. Hắn thiêu nguyên thần đạt Vấn Đỉnh hậu kỳ (chỉ Ngụy hậu kỳ vì ý cảnh không theo), đánh ra ánh sáng vàng như kiếm vạn trượng.",
-       "bridge": true,
-       "khoang": "@c0633"
+       "chuong": "@c0633",
+       "importance": "major",
+       "text": "Khi Liễu Mi vượt Tỏa tinh đại trận tới, Nhiễm Học Phong dẫn đầu chọn quyết tử: thiêu đốt nguyên thần để đột tăng tu vi rồi liều chết một trận. Nhưng Liễu Mi thi triển Thiên Huyễn Vô tình đạo khiến Tiêu Dao tán nhân và Tôn Tích mê loạn, quay sang đánh chính Nhiễm Học Phong; riêng hắn nhờ Vấn Đỉnh trung kỳ gắng giữ tâm thần không loạn nhưng cũng không trụ được lâu.",
+       "anchor": "Lão tổ Nhiễm gia biến sắc, ngọn lửa thiêu đốt nguyên thần phát ra từ trong thân thể",
+       "nguonNblm": true
+      },
+      {
+       "chuong": "@c0633",
+       "importance": "major",
+       "text": "Nhiễm Học Phong dùng thần thông Nhiễm gia (Chưởng Tâm Lôi — sét đánh ra từ lòng bàn tay) bị Liễu Mi điểm tay phá tan; sau đó thiêu đốt cả nguyên thần lẫn thân thể đẩy tu vi vọt lên Vấn Đỉnh hậu kỳ nhưng ý cảnh không theo kịp (chỉ Ngụy hậu kỳ), phóng một luồng kiếm khí vàng vạn trượng bằng nguyên khí trời đất. Vẫn không địch lại Liễu Mi đã đạt Vấn Đỉnh hậu kỳ đại viên mãn (do lão tổ Huyễn gia Hoán huyết).",
+       "anchor": "Chưởng Tâm Lôi thần thông của Nhiễm gia lập tức phát ra từng hồi tiếng sấm",
+       "nguonNblm": true
+      },
+      {
+       "chuong": "@c0633",
+       "importance": "major",
+       "text": "KẾT CỤC — Trước khi chết, Nhiễm Học Phong vạch tội Liễu Mi tàn độc lôi cả người thường Nhiễm Vân tinh vào cuộc chiến; tiết lộ kẻ thật sự giết Huyễn Đông là Hứa Mộc (kẻ trước hứa che chở rồi bỏ đi lúc nguy); để lại lời nguyền Liễu Mi và Huyễn Mi cùng bị hủy diệt. Hắn tự vỗ tay lên trán cho nguyên thần sụp đổ, TỰ HỦY hóa thành tro bụi — chọn không tự bạo lần nữa để khỏi biến Nhiễm Vân tinh thành tinh cầu Tu chân bỏ đi.",
+       "anchor": "Ta Nhiễm Học Phong trước khi chết chỉ có thể làm đó là dùng khả năng lớn nhất bảo vệ Nhiễm Vân tinh",
+       "nguonNblm": true
       },
       {
        "chuong": "@c0633",
        "importance": "normal",
-       "tieuDe": "Lời nguyền cuối cùng và tự diệt",
-       "text": "Máu chảy đầm đìa, hắn mắng Liễu Mi độc ác lan cuộc chiến tới người thường; Liễu Mi đáp nàng chưa ra tay, ba người tự đánh nhau. Hắn nguyền rủa Liễu Mi cùng Huyễn Mi và Hứa Mộc chết không đất chôn, tiết lộ người giết Huyễn Đông là Hứa Mộc chứ không phải ba người. Hắn tự vỗ trán, nguyên thần thiêu hủy hóa bụi, dùng khả năng cuối bảo vệ Nhiễm Vân tinh."
-      },
-      {
-       "chuong": "@c0633",
-       "importance": "normal",
-       "tieuDe": "Tự bạo bảo vệ Nhiễm Vân tinh",
-       "text": "Cùng hai lão tổ bàn kết cục, oán Hứa Mộc rời đi lúc nguy cơ. Khi Liễu Mi giáng lâm, ông thiêu nguyên thần đẩy tu vi lên Vấn Đỉnh hậu kỳ (Ngụy hậu kỳ, ý cảnh không theo kịp), dùng Chưởng Tâm Lôi đánh Liễu Mi nhưng bị hóa giải, rồi bị hai lão tổ bị mê hoặc quay sang đánh. Cuối cùng máu chảy đầm đìa, nguyền rủa Liễu Mi và Huyễn Mi chết không đất chôn, tiết lộ người giết Huyễn Đông là Hứa Mộc, tự vỗ trán thiêu hủy nguyên thần hóa bụi để dùng khả năng cuối bảo vệ Nhiễm Vân tinh."
+       "text": "Từ mấy trăm năm trước Nhiễm Học Phong đã ngầm tế luyện một phân thân đạt trình độ có thể đi vào tinh không, và đã cho phân thân theo tộc nhân rời đi hai năm trước — tức bản tôn tử chiến tự hủy ở Nhiễm Vân tinh nhưng phân thân vẫn bảo toàn nơi khác.",
+       "anchor": "Phân thân của Lão tổ Nhiễm gia từ mấy trăm năm trước đã ngầm tế luyện đạt tới trình độ có thể tiến vào tinh không",
+       "nguonNblm": true
       }
      ],
      "nhanMach": [
@@ -48644,7 +48423,7 @@ window.LIB_DATA["tien-nghich"]={
      "@c0630",
      "@c0632"
     ],
-    "rank": "B"
+    "rank": "A"
    },
    {
     "id": "ton-tuyet-son-ton-gia",
