@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-28T18:52:10.609Z build_datajs */
+/* sync-bump 2026-06-29T05:38:35.022Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -5829,11 +5829,10 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "bridge"
       },
       {
-       "importance": "normal",
-       "chuong": "@c0600",
-       "tieuDe": "Nhận ra Văn thú Cổ thần",
        "text": "Khi tới gần bờ sương tím, thần thức Vương Lâm tản ra phát hiện vô số Văn thú bên ngoài, hắn chấn động như quay lại thế giới truyền thừa của Cổ thần. Không những nhận biết mà còn rất tinh tường về chúng — điều cả Tham Lang lẫn nhóm Thần Long đều không ngờ.",
-       "anchor": "Bản thân như quay lại thế giới truyền thừa của Cổ thần"
+       "anchor": "Bản thân như quay lại thế giới truyền thừa của Cổ thần",
+       "bridge": true,
+       "khoang": "@c0600"
       },
       {
        "importance": "normal",
@@ -5843,11 +5842,10 @@ window.LIB_DATA["tien-nghich"]={
        "anchor": "nhanh chóng biến mất trong làn sương tím. Thanh kiếm tiên có Chu Dật lượn quanh người hắn"
       },
       {
-       "importance": "normal",
-       "chuong": "@c0601",
-       "tieuDe": "Giết ba đệ tử Đại La trong sương mù",
        "text": "Lợi dụng sương tím khiến thần thức vô dụng, Vương Lâm nhờ Chu Dật định vị bốn đệ tử Đại La kiếm tông rồi lần lượt chém đầu kẻ Anh Biến trung kỳ yếu nhất, điểm chết Tị Xà, giả giọng Tuất Cẩu lừa Ngọ Mã thu kiếm khí rồi điểm mi tâm giết. Hắn đoạt được ba thanh bảo kiếm và hai đạo kiếm khí.",
-       "anchor": "Cả bốn gã đệ tử Đại La kiếm tông, Vương Lâm lấy được ba thanh kiếm và hai đạo kiếm khí."
+       "anchor": "Cả bốn gã đệ tử Đại La kiếm tông, Vương Lâm lấy được ba thanh kiếm và hai đạo kiếm khí.",
+       "bridge": true,
+       "khoang": "@c0601"
       },
       {
        "importance": "normal",
@@ -5857,11 +5855,10 @@ window.LIB_DATA["tien-nghich"]={
        "anchor": "Cái bóng đó đúng là Văn thú của Vương Lâm."
       },
       {
-       "importance": "normal",
-       "chuong": "@c0602",
-       "tieuDe": "Đoạt đầu đàn Văn thú vây Tham Lang",
        "text": "Vương Lâm điều khiển Văn thú của mình thôn phệ con đầu đàn bị Tham Lang khống chế, đoạt quyền chỉ huy cả đàn quay sang vây đánh Tham Lang. Sau đó hắn cùng Thần Long hợp lực dùng Tịch Diệt Chỉ và Sát Lục Tiên Quyết vây công, song sát lục khí bị tiên lực sơn hồn hóa giải, may còn lưu một tia trong thần thức để khôi phục.",
-       "anchor": "hình thể Văn thú của Vương Lâm dần dần lớn lên"
+       "anchor": "hình thể Văn thú của Vương Lâm dần dần lớn lên",
+       "bridge": true,
+       "khoang": "@c0602"
       },
       {
        "text": "Vương Lâm điều khiển đàn Văn thú vây Tham Lang, mượn thân Thần Long và tiên kiếm Chu Dật dung thân để di chuyển. Hắn hai lần thi triển tiên thuật ‘Định’ khống chế Thần Long rồi Tham Lang đúng tích tắc để chụp lấy lệnh bài cổ kính. Tuy nhiên ngay khi gần tới cửa ra Hỏa Yêu quận, hắn bị đại đỉnh Càn Khôn nghịch chuyển của Tham Lang đảo vị, rơi vào chỗ Thần Long đang bị sương mù vây khốn.",
@@ -24322,11 +24319,10 @@ window.LIB_DATA["tien-nghich"]={
        "nguonNblm": true
       },
       {
-       "importance": "normal",
-       "chuong": "@c0601",
-       "tieuDe": "Định vị và cưỡng chế đưa Vương Lâm ra",
        "text": "Trong sương mù khiến thần thức vô dụng, Chu Dật dùng kiếm thức bám lấy định vị bốn đệ tử Đại La cho Vương Lâm, hẹn mười lần hô hấp. Đúng hạn, hắn cưỡng chế mang Vương Lâm hóa kiếm quang bay ra, bội phục sự lớn mật của Vương Lâm.",
-       "anchor": "Chu Dật cưỡng chế mang Vương Lâm, hóa thành kiếm quang bay ra khỏi làn sương tím."
+       "anchor": "Chu Dật cưỡng chế mang Vương Lâm, hóa thành kiếm quang bay ra khỏi làn sương tím.",
+       "bridge": true,
+       "khoang": "@c0601"
       },
       {
        "chuong": "@c0603",
@@ -38277,18 +38273,16 @@ window.LIB_DATA["tien-nghich"]={
        "khoang": "@c0600"
       },
       {
-       "importance": "normal",
-       "chuong": "@c0601",
-       "tieuDe": "Khống chế Vương thú vây bắt Vương Lâm",
        "text": "Tham Lang khống chế Vương thú để gián tiếp điều khiển bầy Văn thú hơn vạn con (tính tàn bạo, không thuần phục được). Hắn muốn bắt sống nguyên thần Vương Lâm để tra hỏi tung tích Tư Đồ Nam, vì đã nhận ra hơi thở Tư Đồ Nam trên người Vương Lâm khi ở ngoài Đông Hải Yêu Linh, rồi xua đàn Văn thú lao tới.",
-       "anchor": "chuẩn bị bắt lấy nguyên thần của đối phương để tra hỏi Tư Đồ Nam ở đâu"
+       "anchor": "chuẩn bị bắt lấy nguyên thần của đối phương để tra hỏi Tư Đồ Nam ở đâu",
+       "bridge": true,
+       "khoang": "@c0601"
       },
       {
-       "importance": "normal",
-       "chuong": "@c0602",
-       "tieuDe": "Phệ Tử nhị thức rút sơn hồn thoát vây",
        "text": "Tham Lang dùng Thất Ma Châm khống chế Văn thú đầu đàn, thi triển Phệ Tử Nhất Thức rút lục khí thác nước xanh thôn phệ Tịch Diệt Chỉ và phá long hồn Thần Long. Khi bị vây hắn lấy tòa núi tiên giới phong ấn, thi triển Phệ Tử nhị thức rút sơn hồn đè trọng thương Thần Long, hóa giải sát lục khí của Vương Lâm và thoát khỏi vòng vây Văn thú, tiết lộ núi là của tiên giới hắn đoạt phong ấn mấy vạn năm trước.",
-       "anchor": "đây chính là núi của tiên giới bị lão phu mấy vạn năm trước đoạt lấy đem phong ấn"
+       "anchor": "đây chính là núi của tiên giới bị lão phu mấy vạn năm trước đoạt lấy đem phong ấn",
+       "bridge": true,
+       "khoang": "@c0602"
       },
       {
        "text": "Bị đàn Văn thú của Vương Lâm vây khốn, Tham Lang dùng Phệ Tử Tam Thức thả đệ nhị nguyên thần phóng thần lôi đen đuổi đánh Thần Long, rồi đau lòng xuất chí bảo tiên giới Thiên Mê Hương để thoát vòng vây. Hai lần bị Vương Lâm dùng ‘Định’ cản đoạt lệnh bài, hắn phẫn nộ vỗ túi trữ vật lấy ra đại đỉnh Càn Khôn nghịch chuyển, niệm ‘Càn Khôn nghịch chuyển, thiên địa phiên thân’ phóng hắc quang đảo ngược trời đất và vị trí ba người.",
@@ -46056,7 +46050,7 @@ window.LIB_DATA["tien-nghich"]={
        "khoang": "@c0600"
       },
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0601",
        "tieuDe": "Bị lừa thu kiếm khí và giết chết",
        "text": "Tuyệt vọng trong sương tím, Ngọ Mã kêu gọi ba sư đệ giết Vương Lâm trước khi chết, giữ sẵn kiếm khí Lăng Thiên Hậu. Vương Lâm giả giọng sư đệ Tuất Cẩu khiến Ngọ Mã thu hồi kiếm khí, rồi điểm mi tâm giết chết hắn.",
@@ -46114,7 +46108,7 @@ window.LIB_DATA["tien-nghich"]={
      "@c0601",
      "@c0600"
     ],
-    "rank": "B"
+    "rank": "C"
    },
    {
     "id": "ti-xa-dai-la",
@@ -46144,7 +46138,7 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "importance": "major",
+       "importance": "normal",
        "chuong": "@c0601",
        "tieuDe": "Bị điểm chết, kiếm khí nổ tung",
        "text": "Trong sương mù, Vương Lâm tới gần điểm chết Tị Xà hóa thây khô; đạo kiếm khí bản mệnh Lăng Thiên Hậu của hắn nổ tung khiến thân thể biến mất.",
@@ -46170,7 +46164,7 @@ window.LIB_DATA["tien-nghich"]={
     "nguon": [
      "@c0601"
     ],
-    "rank": "B"
+    "rank": "D"
    },
    {
     "id": "tuat-cau-dai-la",
@@ -46200,11 +46194,10 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "importance": "normal",
-       "chuong": "@c0601",
-       "tieuDe": "Giọng bị Vương Lâm giả mạo",
        "text": "Tuất Cẩu là sư đệ Đại La kiếm tông bị nhốt trong sương tím; Vương Lâm giả giọng hắn để lừa Ngọ Mã thu hồi kiếm khí rồi giết Ngọ Mã.",
-       "anchor": "Cả bốn gã đệ tử Đại La kiếm tông, Vương Lâm lấy được ba thanh kiếm và hai đạo kiếm khí."
+       "anchor": "Cả bốn gã đệ tử Đại La kiếm tông, Vương Lâm lấy được ba thanh kiếm và hai đạo kiếm khí.",
+       "bridge": true,
+       "khoang": "@c0601"
       }
      ],
      "tuViMoc": [],
@@ -50086,18 +50079,16 @@ window.LIB_DATA["tien-nghich"]={
        "anchor": "Nếu sớm một chút hạ quyết tâm phản bội Tham lang"
       },
       {
-       "importance": "normal",
-       "chuong": "@c0601",
-       "tieuDe": "Bỏ rơi sư đệ, một mình phá Tử khí",
        "text": "Sau trăm năm do dự, Thần Long quyết đoán xin lỗi các sư đệ rồi điểm mi tâm phóng đạo kiếm khí bản mệnh Lăng Thiên Hậu, tạo lỗ hổng nhỏ trong Tử khí và đột phá ra một mình. Ra ngo��i, hắn âm trầm chém giết bầy Văn thú và đe Tham Lang về sư tôn của mình.",
-       "anchor": "Đây đúng là kiếm khí của Lăng Thiên Hậu"
+       "anchor": "Đây đúng là kiếm khí của Lăng Thiên Hậu",
+       "bridge": true,
+       "khoang": "@c0601"
       },
       {
-       "importance": "normal",
-       "chuong": "@c0602",
-       "tieuDe": "Toái Kiếm Hóa Thần bị sơn hồn đè bại",
        "text": "Thần Long dùng đại kiếm hóa hắc long hợp lực với Vương Lâm vây công Tham Lang, kêu gọi cùng giết lão tặc và phun nguyên thần tinh huyết thi triển Toái Kiếm Hóa Thần khiến bảo kiếm nứt bung hóa hắc long lần hai. Tuy nhiên hắc long bị sơn hồn của Tham Lang đè vào thắt lưng, Thần Long tái nhợt phun máu, khiếp sợ trước thần thông lạ.",
-       "anchor": "Sắc mặt Thần Long tái nhợt, thân thể nhoáng lên, phun một ngụm máu tươi"
+       "anchor": "Sắc mặt Thần Long tái nhợt, thân thể nhoáng lên, phun một ngụm máu tươi",
+       "bridge": true,
+       "khoang": "@c0602"
       }
      ],
      "tuViMoc": [],
@@ -50284,7 +50275,7 @@ window.LIB_DATA["tien-nghich"]={
   }
  ],
  "volumes": {
-  "updatedAt": "2026-06-28",
+  "updatedAt": "2026-06-29",
   "volumes": [
    {
     "value": "q01",
