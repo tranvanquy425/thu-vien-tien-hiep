@@ -1,4 +1,4 @@
-/* sync-bump 2026-07-01T05:58:21.410Z build_datajs */
+/* sync-bump 2026-07-01T06:31:32.321Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["tien-nghich"]={
  "realms": {
@@ -639,7 +639,8 @@ window.LIB_DATA["tien-nghich"]={
      "Vuong Lam",
      "Hứa Mộc",
      "Hứa mỗ",
-     "Hứa huynh"
+     "Hứa huynh",
+     "Bản tôn tóc hồng"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -5577,90 +5578,30 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "normal"
       },
       {
-       "chuong": "@c0561",
-       "importance": "major",
-       "tieuDe": "Ngộ Đạo Hóa Hoàng Tuyền",
-       "text": "Mười năm cảm ngộ kết hợp kích thích Thăng Tiên Quả và tiên lực khổng lồ khiến đạo niệm mơ hồ lần đầu thành thực chất — Vương Lâm không tu thiên, không tu đất, không tu tiên, không tu thần mà tự tạo đạo của chính mình, hóa dòng sông Hoàng Tuyền mở luân hồi riêng, đạt tới bước thứ hai bên rìa thiên đạo.",
-       "anchor": "rơi vào hoàng tuyền sẽ theo luân hồi của ta, không chịu sự quản lý của trời đất"
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Thu Yêu Tướng, Giết Phó Soái",
-       "text": "Hoàng Tuyền cuốn mười Yêu Tướng xuống đất; Vương Lâm phóng mười ba vạn khí sát lục đuổi giết Phó soái Hỏa Yêu quận đang dùng khúc xương đen truyền tống về Đế Đô, khiến hắn chết thành xác khô trên truyền tống trận.",
-       "anchor": "Hai mắt của xác khô trợn trừng giống như hắn không muốn chết"
-      },
-      {
-       "bridge": true,
-       "khoang": "@c0561",
-       "text": "Vượt Vạn Yêu sơn tới cánh đồng hoang đầy hài cốt trước chiến trường viễn cổ, bị Yêu Vệ Địa Ma phục kích; Vương Lâm phóng Tịch Diệt Chỉ bị Địa Ma nuốt, rồi bị vây trong Thiên Trướng Địa Đông, quả cầu co còn ba trượng thì chiến ý sát khí xuyên ra."
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Phá Kén, Tam Khí Đồng Xuất",
-       "text": "Một tiếng sấm vang, một đạo kiếm bổ đôi quả cầu, Vương Lâm hai mắt đỏ hồng do Thăng Tiên Quả kích thích bước ra cùng ba vũ khí: tiên kiếm Hứa Lập Quốc, bảo kiếm tà dương hắc sắc và loan đao; ba vũ khí phóng thẳng tới Địa Ma và Phong Ngâm.",
-       "anchor": "một đạo kiếm mang đã bổ đôi quả cầu"
-      },
-      {
-       "bridge": true,
-       "khoang": "@c0561",
-       "text": "Bóp nát kén thân chứa Phong Ngâm khiến lão già phun máu; rút roi Côn Cực Tiên quất một roi tạo vết đỏ trên mặt Phong Ngâm khi nàng tập kích sau lưng."
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Chưởng Ấn Vô Danh Giết Phong Ngâm",
-       "text": "Vương Lâm xuất Chưởng ấn vô danh (từng dọa Mạc Lệ Hải), khí sát lục ẩn trong dấu tay xuyên qua thân Phong Ngâm khiến toàn thân nàng tan vỡ hóa thành máu thịt.",
-       "anchor": "toàn thân Phong Ngâm tan vỡ rồi hóa thành máu thịt"
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Hổ Bào Hét Tên Lay Tỉnh",
-       "text": "Tâm thần Vương Lâm bị Thăng Tiên Quả xâm nhập nguyên thần, hành động theo bản năng; tiếng hét tên do trên trăm ngàn hồn phách của Hổ Bào dung hợp truyền tới khiến nguyên thần hắn hiện một tia thanh tỉnh hiếm thấy.",
-       "anchor": "ở dưới thanh âm này không ngờ có một tia thanh tỉnh"
-      },
-      {
-       "chuong": "@c0562",
-       "importance": "normal",
-       "tieuDe": "Đoạt quyền khống chế hồn phách",
-       "text": "Đối đầu Hổ Bào phản bội; vỗ tay phóng phù văn khiến trăm vạn hồn phách dừng lại, nhận Vương Lâm là chủ nhân chân chính, cắt đứt liên hệ với Hổ Bào. Vương Lâm là người đích hệ truyền thừa Luyện Hồn thuật của Luyện Hồn tông.",
-       "anchor": "Luyện Hồn thuật không phải dùng như vậy!"
-      },
-      {
-       "chuong": "@c0562",
-       "importance": "normal",
-       "tieuDe": "Diệt Hổ Bào bằng Thập Ức Tôn Hồn Phiên",
-       "text": "Lấy Thập Ức Tôn Hồn Phiên dung hợp trăm ngàn hồn phách thành một hồn trong suốt, cách không đánh một quyền khiến hồn phách Hổ Bào tứ phân ngũ liệt, thu toàn bộ vào phiên.",
-       "anchor": "Quyền xuống, Hổ Bào thân mình chấn động, ngay cả hồn phách, tứ phân ngũ liệt!"
-      },
-      {
-       "chuong": "@c0562",
-       "importance": "normal",
-       "tieuDe": "Phát hiện hắc tháp và lão giả áo giáp đen",
-       "text": "Sau khi diệt Hổ Bào, nhìn thấy tòa hắc tháp ở xa cùng lão giả áo giáp đen đứng dưới nhìn về phía mình; cảm nhận ma khí chân chính nồng đậm, nhận định người trong tháp là tuyệt đại cường giả.",
-       "anchor": "Đây, là ma khí chân chính, cùng khí của người tu ma sinh ra có khác biệt rõ ràng."
-      },
-      {
-       "chuong": "@c0562",
-       "importance": "normal",
-       "tieuDe": "Chờ Nguyên Nhục Quy Nhất củng cố Vấn Đỉnh kỳ",
-       "text": "Nguyên thần chưa dung hợp hoàn toàn với thân thể mới, cần nửa tháng nữa mới đạt cảnh giới Nguyên Nhục Quy Nhất, khi đó mới chân chính củng cố Vấn Đỉnh kỳ.",
-       "anchor": "còn cần thời gian nửa tháng mới có thể đạt tới cảnh giới Nguyên Nhục Quy Nhất."
-      },
-      {
-       "chuong": "@c0563",
-       "importance": "normal",
-       "tieuDe": "Thanh Tỉnh Khỏi Thăng Tiên Quả",
        "text": "Đối mặt hắc giáp lão giả bước ra từ dưới hắc tháp, Vương Lâm hai lần áp chế sự điên cuồng của Thăng Tiên quả ý đồ thay thế thần thức, khôi phục tâm trí. Hắn xuất Hoàng Tuyền và kiếm khí Lăng Thiên Hậu để chấn nhiếp chứ không đối chiến.",
-       "anchor": "lần thứ hai áp chế sự điên cuồng của Thăng Tiên quả xuống"
+       "anchor": "lần thứ hai áp chế sự điên cuồng của Thăng Tiên quả xuống",
+       "bridge": true,
+       "khoang": "@c0563"
       },
       {
        "chuong": "@c0563",
        "importance": "normal",
        "tieuDe": "Đại Chiến Hắc Giáp Lão Giả",
        "text": "Hắc giáp lão giả (Vấn Đỉnh hậu kỳ nhờ Sáo Tiêu giáp) thi triển Phong/Lôi/Vũ/Điện; Vương Lâm dùng Hoàng Tuyền hà, Nhất Chỉ Hoàng Tuyền chống đỡ, Hoàng Tuyền sụp một phần ba, hắn bước vào hóa thân Hoàng Long. Sau đó xuất Tôn Hồn Phiên dung nhập một trăm ngàn hồn phách và mười ba vạn sát lục chi khí ngưng hóa Hoàng Tuyền chi hồn.",
+       "anchor": "ngưng hóa làm một, trở thành một hồn, hồn này, chính là Hoàng Tuyền chi hồn"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0563",
+       "tieuDe": "Thanh tỉnh khỏi Thăng Tiên quả",
+       "text": "Vương Lâm hai lần áp chế sự điên cuồng của Thăng Tiên quả đang phản công ý đồ thay thế thần thức, khôi phục tâm trí thanh tỉnh, rồi xuất đạo Hóa Hoàng Tuyền và kiếm khí Lăng Thiên Hậu để chấn nhiếp hắc giáp lão giả.",
+       "anchor": "lần thứ hai áp chế sự điên cuồng của Thăng Tiên quả xuống"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0563",
+       "tieuDe": "Ngưng hóa Hoàng Tuyền chi hồn",
+       "text": "Trong đại chiến Phong/Lôi/Vũ/Điện với hắc giáp lão giả, Vương Lâm bước vào Hoàng Tuyền hóa thân thành Hoàng Long, xuất Tôn Hồn Phiên dung nhập một trăm ngàn hồn phách cùng mười ba vạn đạo sát lục chi khí, ngưng hóa thành Hoàng Tuyền chi hồn mang sát khí.",
        "anchor": "ngưng hóa làm một, trở thành một hồn, hồn này, chính là Hoàng Tuyền chi hồn"
       },
       {
@@ -5883,6 +5824,20 @@ window.LIB_DATA["tien-nghich"]={
        "tieuDe": "Bày Hoàng Tuyền hợp lực hạ tán ma",
        "text": "Vương Lâm bấm quyết huyễn hóa sông Hoàng Tuyền, ném gần hết pháp bảo vào để cô đặc thành hoàng mang, dựng 13 vạn sinh chi lạc ấn rồi cùng Cổ Yêu chi mang đánh trọng thương tán ma chiếm xác đại hán.",
        "anchor": "mười ba vạn sát lục chi khí hóa thành mười ba vạn sinh chi lạc ấn"
+      },
+      {
+       "chuong": "@c0565",
+       "importance": "normal",
+       "tieuDe": "Truy sát bởi đại hán giống Lăng Thiên Hậu",
+       "text": "Gần Cổ Yêu thành, Vương Lâm bị đại hán khải giáp tướng mạo giống Kiếm Tôn Lăng Thiên Hậu (có ma hồn khống chế) truy sát. Hắn hô tên Lăng Thiên Hậu kích vẻ mê man rồi kêu cứu Cổ Yêu.",
+       "anchor": "Bộ dáng của đại hán kia, rõ ràng cực kỳ giống với Kiếm Tôn Lăng Thiên Hậu"
+      },
+      {
+       "chuong": "@c0565",
+       "importance": "major",
+       "tieuDe": "Lĩnh ngộ Cổ Thần thuật, dẫn động bản tôn tóc hồng",
+       "text": "Trong đại chiến ba ngày, ký ức Cổ Thần Đồ Ti trong Vương Lâm nảy mầm; hắn đánh ấn quyết cổ quái qua nguyên thần dẫn động bản tôn tóc hồng trên tiểu tinh bán phế hô ‘Thu’ hút linh lực lòng đất.",
+       "anchor": "từng đạo linh lực ở sâu dưới lòng đất phun ra"
       },
       {
        "text": "Tại động phủ ngầm dưới Long Đàm bên ngoài thành Thiên Yêu, Vương Lâm khoanh chân ngồi dưới pho tượng Cổ Yêu, suốt mấy tháng dùng cấm chế cùng lạc ấn nguyên thần (mượn lực Cổ Yêu) liên tục ấn lên hồn một Tán ma khổng lồ. Hắn nhận ra tu vi hiện tại chưa đủ để nuốt Tán ma, nên chuyển hướng dần khống chế để về sau hoặc nuốt tăng tu vi, hoặc dùng nó làm phôi thể luyện Nguyên thần thứ hai.",
@@ -7359,6 +7314,12 @@ window.LIB_DATA["tien-nghich"]={
        "chuong": "@c0561",
        "canhGioi": "Vấn Đỉnh sơ kỳ",
        "text": "Đạo niệm trong tâm thần lần đầu trở thành thực chất, tự tạo đạo riêng (đạo người tu đạo), mở Hoàng Tuyền, đạt bước thứ hai bên rìa thiên đạo — mốc thuộc hệ đạo/thiên đạo, không phải tu vi chính.",
+       "importance": "major"
+      },
+      {
+       "chuong": "@c0561",
+       "canhGioi": "Vấn Đỉnh",
+       "text": "Ngộ đạo Hoàng Tuyền tự tạo đạo của chính mình, đạt tới bước thứ hai bên rìa thiên đạo — thuộc bước ngoặt về đạo, không phải lên tầng cảnh giới chính.",
        "importance": "major"
       },
       {
@@ -10473,6 +10434,24 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "doi-thu",
        "quanHe": "Yêu Vệ dùng Thiên Trướng Địa Đông vây Vương Lâm, bị hắn phá kén xuất thế",
        "ghiChu": "@c0561"
+      },
+      {
+       "ten": "Hứa Lập Quốc",
+       "tag": "dong-hanh",
+       "quanHe": "Ở trong kiếm tiên",
+       "ghiChu": "Nghe cuộc đối thoại giữa Vương Lâm và Hổ Bào (@c0562)."
+      },
+      {
+       "ten": "Tồn tại trong hắc tháp",
+       "tag": "doi-thu",
+       "quanHe": "Thần niệm bí ẩn trong tháp ra lệnh bắt sống Vương Lâm",
+       "ghiChu": "@c0563"
+      },
+      {
+       "ten": "Bối La",
+       "tag": "an-nhan",
+       "quanHe": "Cổ Yêu — dùng ý chí giáng xuống mượn máu Vương Lâm ngưng nhân hình cứu hắn khỏi tán ma",
+       "ghiChu": "Cổ Yêu trách hắn đến chậm mười năm"
       }
      ],
      "tuiDo": {
@@ -18304,13 +18283,6 @@ window.LIB_DATA["tien-nghich"]={
        "text": "Khí linh cư ngụ trong tiên kiếm của Vương Lâm, từng làm phản thất bại nên cẩn thận. Lần này quyết lập công chuộc tội, điều tiên kiếm hóa kiếm long chém bộ xương cánh tay đen nhưng bị hộ uyển truyền ma khí bóp chặt, phải rút về thân kiếm. Cuối chương run sợ trước trạng thái cuồng ngạo của Vương Lâm, không dám nói tiếng nào.",
        "bridge": true,
        "khoang": "@c0557"
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Huyễn Hóa Tiên Kiếm Cứa Ngón Địa Ma",
-       "text": "Huyễn hóa từ tiên kiếm, điều khiển kiếm bổ đôi quả cầu và cứa đứt ngón tay lão già Địa Ma khi lão chộp kiếm.",
-       "anchor": "nắm ngón trên bàn tay đều bị cắt đứt"
       },
       {
        "bridge": true,
@@ -38403,6 +38375,12 @@ window.LIB_DATA["tien-nghich"]={
        "anchor": "Diêu Tích Tuyết, nói ra phương pháp sử dụng Huyết Hồn đan."
       },
       {
+       "text": "Bị Vương Lâm dùng cấm chế tra tấn đau đớn trong túi trữ vật, buộc phải khai ra phương pháp sử dụng Huyết Hồn đan.",
+       "anchor": "không chút do dự liền nói ra phương pháp sử dụng Huyết Hồn đan",
+       "bridge": true,
+       "khoang": "@c0565"
+      },
+      {
        "importance": "normal",
        "chuong": "c0613",
        "text": "Nữ nhi duy nhất, thân nhân duy nhất của Huyết Tổ (đại năng xích bào).",
@@ -38578,6 +38556,12 @@ window.LIB_DATA["tien-nghich"]={
        "ten": "Vương Lâm",
        "tag": "doi-thu",
        "quanHe": "Người giam giữ và ép nàng khai phương pháp Huyết Hồn đan",
+       "ghiChu": "@c0564"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Người giam giữ, ép khai bí thuật",
        "ghiChu": "@c0564"
       }
      ],
@@ -40889,41 +40873,6 @@ window.LIB_DATA["tien-nghich"]={
        "importance": "normal",
        "tieuDe": "Tái sinh dưới trướng lão già hắc y, ôm hận Vương Lâm",
        "text": "Sau khi bị Tư Mã Viêm giận cá chém thớt ném vào hắc lao và chờ Vương Lâm tới cứu vô vọng, Hổ Bào được lão già hắc y cứu ra vì sở hữu Luyện Hồn Thuật kỳ dị. Hắn ngồi luyện hóa linh hồn tại chiến trường cổ trong lãnh thổ Yêu Linh, phát thề không bao giờ làm nô bộc cho ai nữa, đang tu Diệt Thế Áp Nguyên Công và quyết báo thù Vương Lâm cùng Tư Mã Viêm khi luyện đủ nghìn vạn hồn phách."
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Xuất Hiện Cùng Trăm Ngàn Hồn Phách",
-       "text": "Được Tôn Ma triệu làm Yêu Vệ, thanh niên hắc y âm trầm dẫn hơn mười vạn linh hồn tạo mây đen hình phễu; hét tên Vương Lâm bằng tiếng của trên trăm ngàn hồn phách dung hợp khiến nguyên thần hắn hiện một tia thanh tỉnh.",
-       "anchor": "Đây là tiếng hét của một người, nhưng đồng thời cũng là tiếng hét của trên trăm ngàn hồn phách"
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Phát Tiết Oán Hận Báo Thù",
-       "text": "Tố cáo Vương Lâm vứt bỏ y và Thập Tam như quân cờ; kể bị thống lĩnh bóp nát kinh mạch, đánh gãy xương, tra tấn trong nhà tù; được chủ nhân cứu sống, luyện hồn thuật đại thành; tuyên bố sẽ phong ấn hồn phách Vương Lâm ném vào hắc lao cửu quận rồi rút hồn vào hồn phiên hành hạ, sau đó biến cả Luyện Hồn bộ lạc thành hồn phách.",
-       "anchor": "Năm đó ngươi vứt bỏ ta cùng với Thập Tam"
-      },
-      {
-       "chuong": "@c0562",
-       "importance": "normal",
-       "tieuDe": "Phản bội và bộc lộ dã tâm yêu đế",
-       "text": "Thừa nhận hận Vương Lâm; với Luyện Hồn thuật và trên trăm ngàn hồn phách, tuyên bố sẽ thu trăm vạn hồn phách mở đệ thập quận làm yêu đế, cho rằng Vương Lâm không xứng làm chủ nhân của mình và phải chết. Kể lại khi ở hắc lao đã ngộ ra phải mạnh hơn rồi giết Vương Lâm.",
-       "anchor": "Ngươi, nhất định phải chết!"
-      },
-      {
-       "chuong": "@c0562",
-       "importance": "normal",
-       "tieuDe": "Ức Hồn Thôn Phệ thất bại",
-       "text": "Dùng thần thông Ức hồn thôn phệ tung trăm ngàn hồn phách nhưng Vương Lâm phát động chỗ thiếu sót năm xưa lưu trên Luyện Hồn thuật đoạt quyền khống chế tuyệt đối; gọi Hồn tốc quy nhưng hồn phách không nghe, phun máu giận dữ.",
-       "anchor": "Ức hồn thôn phệ (trăn ngàn hồn cắn nuốt)!"
-      },
-      {
-       "chuong": "@c0562",
-       "importance": "major",
-       "tieuDe": "Bị Vương Lâm diệt hồn phách",
-       "text": "Bị Vương Lâm dùng Thập Ức Tôn Hồn Phiên dung hợp hồn phách đánh một quyền, thân mình chấn động, hồn phách tứ phân ngũ liệt, toàn bộ bị thu vào phiên — chết.",
-       "anchor": "Quyền xuống, Hổ Bào thân mình chấn động, ngay cả hồn phách, tứ phân ngũ liệt!"
       }
      ],
      "tuViMoc": [
@@ -41209,6 +41158,18 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "ban-be",
        "quanHe": "Cùng bị Vương Lâm vứt bỏ như quân cờ, Thập Tam vẫn bị lừa gạt",
        "ghiChu": "@c0561"
+      },
+      {
+       "ten": "Người hầu Tôn Ma",
+       "tag": "su-mon",
+       "quanHe": "Lão già hắc y năm xưa cứu Hổ Bào, nay là Người hầu Tôn Ma triệu tập Hổ Bào làm Yêu Vệ",
+       "ghiChu": "@c0561"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Chủ nhân cũ / kẻ thù",
+       "ghiChu": "Từng bị Vương Lâm biến thành quân cờ, ngộ ra trong hắc lao phải mạnh hơn rồi giết Vương Lâm; bị Vương Lâm giết (@c0562)."
       }
      ],
      "tuiDo": {
@@ -45277,6 +45238,13 @@ window.LIB_DATA["tien-nghich"]={
        "tieuDe": "Cổ Yêu chi mang luyện hóa tán ma",
        "text": "Cổ Yêu chi mang đuổi tới đánh trọn người đại hán, luyện hóa hết ma khí, buộc ma hồn bỏ xác chui vào áo giáp đào thoát.",
        "anchor": "chủ nhân tuyệt đối sẽ không bỏ qua cho ngươi"
+      },
+      {
+       "chuong": "@c0565",
+       "importance": "major",
+       "tieuDe": "Giáng ý chí cứu Vương Lâm, đại chiến tán ma ba ngày",
+       "text": "Cổ Yêu (Bối La) từ Thiên Yêu thành quét ý chí tới cứu Vương Lâm, mượn máu hắn ngưng thành nhân hình đầu hai sừng. Dùng Cổ Thần ngữ đáp tán ma, bủa yêu mạc che phủ toàn Thiên Yêu thành, đại chiến ba ngày rồi triển Cổ Yêu chi mang luyện hóa trọng thương đại hán bị tán ma chiếm xác.",
+       "anchor": "Ngươi đã đến chậm mười năm"
       }
      ],
      "tuViMoc": [],
@@ -45387,7 +45355,7 @@ window.LIB_DATA["tien-nghich"]={
      "@c0555",
      "@c0565"
     ],
-    "rank": "C"
+    "rank": "B"
    },
    {
     "id": "tu-thu",
@@ -51411,20 +51379,6 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0561",
-       "importance": "major",
-       "tieuDe": "Nhận Ma Giáp Thành Tôn Ma",
-       "text": "Trong bảo tháp chiến trường viễn cổ, người năm xưa cứu Hổ Bào được áo giáp ban ba kiện ma giáp (hộ uyển + hung giáp + kiên giáp); ba mảnh hóa tơ đen chui vào người, hoa văn đen phủ toàn thân, hắc ảnh có sừng chui vào mi tâm — lão thành Người hầu Tôn Ma.",
-       "anchor": "Người hầu Tôn Ma xin nghe lệnh"
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Triệu Tập Ba Yêu Vệ",
-       "text": "Ra khỏi bảo tháp, triệu tập ba Yêu Vệ Phong Ngâm, Địa Ma và Hổ Bào đi ngăn Vương Lâm.",
-       "anchor": "Yêu Vệ Hổ Bào, có mặt"
-      },
-      {
        "text": "Hắc giáp lão giả thi triển thần thông Phong Vũ Lôi Điện rồi tuyên bố đó chỉ là thần thông yếu nhất, kế dùng Ma đạo trên khải giáp ngưng ma khí thành liêm đao; ma ảnh đầu một sừng từ mi tâm chui ra dung nhập biến thành ma đao bắn về Vương Lâm, nhưng bị kiếm khí Lăng Thiên Hậu đánh phun máu, ma đao tan vỡ.",
        "anchor": "Ma hồn dung nhập vào trong liêm đao này, biến thành ma đao!",
        "bridge": true,
@@ -51645,6 +51599,12 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "cap-tren",
        "quanHe": "Triệu Yêu Vệ Địa Ma đi ngăn Vương Lâm",
        "ghiChu": "@c0561"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Giao chiến kịch liệt, truy đuổi",
+       "ghiChu": "@c0564"
       }
      ],
      "tuiDo": {
@@ -52022,6 +51982,18 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "doi-thu",
        "quanHe": "Mục tiêu mà Tôn Ma và ba Yêu Vệ đi ngăn chặn",
        "ghiChu": "@c0561"
+      },
+      {
+       "ten": "Hổ Bào",
+       "tag": "su-mon",
+       "quanHe": "Lão năm xưa cứu Hổ Bào, nay triệu tập Hổ Bào làm Yêu Vệ",
+       "ghiChu": "@c0561"
+      },
+      {
+       "ten": "Địa Ma",
+       "tag": "su-mon",
+       "quanHe": "Triệu tập làm Yêu Vệ đi ngăn Vương Lâm",
+       "ghiChu": "@c0561"
       }
      ],
      "tuiDo": {
@@ -52082,29 +52054,7 @@ window.LIB_DATA["tien-nghich"]={
        "chuong": "@c0561"
       }
      ],
-     "kinhLich": [
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Cảnh Báo Về Vương Lâm",
-       "text": "Cô gái áo giáp có hình xăm khắp toàn thân, ngoại hình rất giống Yêu Tướng Tà Liên; báo danh trước Tôn Ma, cảnh báo Vương Lâm không dễ giết.",
-       "anchor": "Yêu Vệ Hổ Bào, có mặt"
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Bị Bóp Nát Kén Thân",
-       "text": "Ẩn trong hư ảnh hình kén phía sau lão già Địa Ma; bị Vương Lâm cách không một trảo bóp vỡ kén, lộ thân tái nhợt bị thương.",
-       "anchor": "hư ảnh hình kén bị được Vương Lâm ném ra phía sau rồi bị hắn bóp vỡ tung"
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Tử Vong Bởi Chưởng Ấn",
-       "text": "Hóa gió lạnh tập kích sau lưng Vương Lâm, bị roi Côn Cực Tiên quất vết đỏ trên mặt; khi rút lui bị Chưởng ấn vô danh xuyên thân khiến toàn thân tan vỡ hóa thành máu thịt.",
-       "anchor": "toàn thân Phong Ngâm tan vỡ rồi hóa thành máu thịt"
-      }
-     ],
+     "kinhLich": [],
      "tuViMoc": [],
      "tuVi": "Chưa rõ cảnh giới cụ thể. Có khả năng hóa thành gió lạnh di chuyển, sử dụng đoản kiếm.",
      "nhanMach": [
@@ -52269,6 +52219,12 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "dong-minh",
        "quanHe": "Cùng là Yêu Vệ, ẩn trong kén của Địa Ma",
        "ghiChu": "@c0561"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Giao chiến rồi bị Vương Lâm giết",
+       "ghiChu": "@c0561"
       }
      ],
      "tuiDo": {
@@ -52299,7 +52255,8 @@ window.LIB_DATA["tien-nghich"]={
     "cn": "",
     "aliases": [
      "Yêu Vệ Địa Ma",
-     "Địa Ma"
+     "Địa Ma",
+     "Lão già gầy"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -52329,22 +52286,7 @@ window.LIB_DATA["tien-nghich"]={
        "chuong": "@c0561"
       }
      ],
-     "kinhLich": [
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Vây Vương Lâm Trong Thiên Trướng Địa Đông",
-       "text": "Lão già gầy gò toàn thân đen quỳ rạp như dã thú từ đất chui lên; nuốt Tịch Diệt Chỉ qua thần thông Thiên Nùng, ngưng quả cầu chất dịch ném xuống tạo tường nước co rút thành quả cầu nhốt Vương Lâm; khi quả cầu co còn ba trượng thì chiến ý sát khí xuyên ra làm lão co đồng tử.",
-       "anchor": "Dưới Thiên Trướng Địa Đông của ta thì hắn chắc chắn phải chết"
-      },
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Thi Triển Địa Tích Bị Cắt Ngón",
-       "text": "Bấm pháp quyết hét Địa Tích, mặt đất chu vi ngàn trượng nổ tung phun chất lỏng dày mười trượng; chộp tiên kiếm Hứa Lập Quốc thì bị cắt đứt ngón, máu chảy không ngừng, bị bóp nát kén thân phun máu tươi.",
-       "anchor": "nắm ngón trên bàn tay đều bị cắt đứt"
-      }
-     ],
+     "kinhLich": [],
      "tuViMoc": [],
      "tuVi": "Chưa rõ cảnh giới cụ thể. Có nhiều thần thông mạnh: Thiên Nùng, Địa Tích, hư ảnh hình kén.",
      "nhanMach": [
@@ -52509,6 +52451,12 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "dong-minh",
        "quanHe": "Cùng là Yêu Vệ, ẩn Phong Ngâm trong hư ảnh hình kén phía sau",
        "ghiChu": "@c0561"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Vây và giao chiến Vương Lâm, bị hắn cắt ngón",
+       "ghiChu": "@c0561"
       }
      ],
      "tuiDo": {
@@ -52555,15 +52503,7 @@ window.LIB_DATA["tien-nghich"]={
        "chuong": "@c0561"
       }
      ],
-     "kinhLich": [
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Lệnh Truy Sát Vương Lâm",
-       "text": "Phẫn nộ gầm rống khi Phó soái Hỏa Yêu quận chết, ra lệnh truy sát Vương Lâm bất kể thân phận.",
-       "anchor": "Mặc kệ hắn có thân phận gì, ta muốn giết hắn"
-      }
-     ],
+     "kinhLich": [],
      "tuViMoc": [],
      "tuVi": "Chưa rõ cảnh giới cụ thể, là Yêu Đế cai quản cả quận.",
      "nhanMach": [
@@ -52752,15 +52692,7 @@ window.LIB_DATA["tien-nghich"]={
        "chuong": "@c0561"
       }
      ],
-     "kinhLich": [
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Đón Về Chỉ Thấy Xác Khô",
-       "text": "Ngồi khoanh chân bên truyền tống trận xa hoa Đế Đô Hỏa Yêu quận, mở trận đón soái về thì chỉ thấy xác khô Phó soái mắt trợn trừng rơi xuống.",
-       "anchor": "Hai mắt của xác khô trợn trừng giống như hắn không muốn chết"
-      }
-     ],
+     "kinhLich": [],
      "tuViMoc": [],
      "nhanMach": [
       {
@@ -53394,10 +53326,16 @@ window.LIB_DATA["tien-nghich"]={
      ],
      "kinhLich": [
       {
-       "chuong": "@c0563",
-       "importance": "normal",
-       "tieuDe": "Ra Mặt, Giao Chiến Vương Lâm",
        "text": "Bước ra từ dưới hắc tháp, đánh giá Hoàng Tuyền của Vương Lâm chỉ là vỏ ngoài nhưng kiếm khí Lăng Thiên Hậu rất mạnh, người phát ắt ở mức toái niết tam cảnh. Tuân lệnh thần niệm trong tháp, lão thi triển Phong/Lôi/Vũ/Điện đi bắt sống Vương Lâm.",
+       "anchor": "bộ Sáo Tiêu giáp này của lão phu lại có đạo của mình",
+       "bridge": true,
+       "khoang": "@c0563"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0563",
+       "tieuDe": "Đại chiến bắt sống Vương Lâm",
+       "text": "Hắc giáp lão giả bước ra từ dưới hắc tháp, nhờ Sáo Tiêu giáp mà đạt Vấn Đỉnh hậu kỳ, thi triển liên tiếp Phong, Lôi, Vũ, Điện đánh Vương Lâm; đánh giá Hoàng Tuyền chỉ là vỏ ngoài còn kiếm khí Lăng Thiên Hậu là vật nghịch thiên, rồi tuân lệnh thần niệm trong tháp đi bắt sống Vương Lâm.",
        "anchor": "bộ Sáo Tiêu giáp này của lão phu lại có đạo của mình"
       }
      ],
@@ -53463,6 +53401,12 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "doi-thu",
        "quanHe": "Đối thủ giao chiến",
        "ghiChu": "Được thần niệm trong hắc tháp lệnh bắt sống Vương Lâm."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Giao chiến để bắt sống Vương Lâm theo lệnh thần niệm trong tháp",
+       "ghiChu": "@c0563"
       }
      ],
      "tuiDo": {
@@ -53620,6 +53564,20 @@ window.LIB_DATA["tien-nghich"]={
        "tieuDe": "Bị luyện hóa mất xác",
        "text": "Sau đại chiến ba ngày, đại hán bị Cổ Yêu chi mang đánh trọn người, ma khí bị luyện hóa sạch; ma hồn tán ma bỏ xác dung nhập áo giáp bỏ chạy, thân đại hán thối nát rơi xuống.",
        "anchor": "đã mất đi ma tháp, thần thức của hắn chỉ có thể ngưng tụ ở trong áo giáp"
+      },
+      {
+       "chuong": "@c0565",
+       "importance": "normal",
+       "tieuDe": "Truy sát Vương Lâm gần Thiên Yêu thành",
+       "text": "Mặc khải giáp uy nghiêm, hai mắt u quang đầy ma khí, tướng mạo cực giống Kiếm Tôn Lăng Thiên Hậu nhưng trẻ hơn và thiếu khí thế. Bị Vương Lâm hô tên Lăng Thiên Hậu kích vẻ mê man, nhưng ma hồn ở mi tâm áp chế thay bằng ma diễm.",
+       "anchor": "Bộ dáng của đại hán kia, rõ ràng cực kỳ giống với Kiếm Tôn Lăng Thiên Hậu"
+      },
+      {
+       "chuong": "@c0565",
+       "importance": "normal",
+       "tieuDe": "Bị Cổ Yêu chi mang luyện hóa, mất áo giáp",
+       "text": "Trong đại chiến ba ngày, đại hán bị tán ma chiếm xác; khi bị Cổ Yêu chi mang đánh trọn người, thân thể thối nát rơi xuống, ma hồn tán ma bỏ xác chui vào áo giáp đào thoát.",
+       "anchor": "đã mất đi ma tháp, thần thức của hắn chỉ có thể ngưng tụ ở trong áo giáp"
       }
      ],
      "tuViMoc": [],
@@ -53659,6 +53617,12 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "doi-thu",
        "quanHe": "Bị Cổ Yêu chi mang luyện hóa mất xác",
        "ghiChu": "@c0565"
+      },
+      {
+       "ten": "Bối La",
+       "tag": "doi-thu",
+       "quanHe": "Bị Cổ Yêu (Bối La) triển yêu mạc và Cổ Yêu chi mang luyện hóa",
+       "ghiChu": ""
       }
      ],
      "tuiDo": {
@@ -53711,6 +53675,13 @@ window.LIB_DATA["tien-nghich"]={
        "anchor": "ở một khắc này, đại hán này mở hai mắt",
        "bridge": true,
        "khoang": "@c0565"
+      },
+      {
+       "chuong": "@c0565",
+       "importance": "normal",
+       "tieuDe": "Bạch giáp nhập chủ, mở mắt",
+       "text": "Ngồi khoanh chân trong trận pháp đen dưới hắc tháp; khi hắc tháp sụp, bạch giáp hóa hắc tuyến bao phủ và tự mặc lên người hắn, hắn mở hai mắt. Nghi là tồn tại trong hắc tháp.",
+       "anchor": "ở một khắc này, đại hán này mở hai mắt"
       }
      ],
      "tuViMoc": [],
@@ -53843,14 +53814,21 @@ window.LIB_DATA["tien-nghich"]={
        "tag": "doi-thu",
        "quanHe": "Đối thủ trực tiếp",
        "ghiChu": "Cắt đứt ngón tay lão khi lão chộp tiên kiếm."
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "dong-hanh",
+       "quanHe": "Ở trong kiếm tiên của Vương Lâm",
+       "ghiChu": "Nghe cuộc đối thoại Vương Lâm và Hổ Bào (@c0562)."
       }
      ],
      "tuiDo": {}
     },
     "nguon": [
-     "@c0561"
+     "@c0561",
+     "@c0562"
     ],
-    "rank": "D"
+    "rank": "C"
    },
    {
     "id": "phong- soai-hoa-yeu-quan",
@@ -53867,15 +53845,7 @@ window.LIB_DATA["tien-nghich"]={
     "blurb": "Phó soái Vấn Đỉnh sơ kỳ của Hỏa Yêu quận, kinh hãi đạo Hoàng Tuyền của Vương Lâm rồi bị mười ba vạn khí sát lục đuổi giết thành xác khô.",
     "vaiTro": "Phó soái Hỏa Yêu quận, đối thủ tường thành giáp ranh Thiên Yêu quận",
     "tabs": {
-     "kinhLich": [
-      {
-       "chuong": "@c0561",
-       "importance": "normal",
-       "tieuDe": "Chết Trên Truyền Tống Trận",
-       "text": "Đứng trên tường thành giáp ranh Thiên Yêu quận, kinh hãi khi thấy Vương Lâm ngộ đạo Hoàng Tuyền; dùng khúc xương đen truyền tống về Đế Đô Hỏa Yêu quận nhưng vẫn bị mười ba vạn khí sát lục đuổi theo, chết thành xác khô mắt trợn trừng rơi trên truyền tống trận.",
-       "anchor": "Hai mắt của xác khô trợn trừng giống như hắn không muốn chết"
-      }
-     ],
+     "kinhLich": [],
      "nhanMach": [
       {
        "ten": "Vương Lâm",
@@ -53887,6 +53857,12 @@ window.LIB_DATA["tien-nghich"]={
        "ten": "Tổng quản Đế Đô Hỏa Yêu quận",
        "tag": "dong-minh",
        "quanHe": "Tổng quản mở truyền tống trận đón về thì chỉ thấy xác khô",
+       "ghiChu": "@c0561"
+      },
+      {
+       "ten": "Vương Lâm",
+       "tag": "doi-thu",
+       "quanHe": "Bị Vương Lâm giết từ xa bằng khí sát lục",
        "ghiChu": "@c0561"
       }
      ],
@@ -54246,7 +54222,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "techniques": {
   "updatedAt": "2026-06-28",
-  "count": 527,
+  "count": 530,
   "techniques": [
    {
     "id": "ngung-khi-tam-thien",
@@ -63773,6 +63749,60 @@ window.LIB_DATA["tien-nghich"]={
     ],
     "blurb": "Đạo yêu mạc từ trời che phủ Thiên Yêu thành, cô lập chiến trường.",
     "detail": "Cổ Yêu vung tay tạo yêu vụ bao vây địch, một đạo yêu mạc từ trời che phủ toàn bộ Thiên Yêu thành, biến cả thành thành chiến trường cô lập. Trong lớp sương mù dày đặc này, Cổ Yêu và tán ma đại chiến kéo dài ba ngày.",
+    "nguon": [
+     "@c0565"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-nung",
+    "name": "Thần thông Thiên Nùng",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "",
+    "hePhai": "Yêu Linh",
+    "soHuu": [
+     "Yêu Vệ Địa Ma"
+    ],
+    "blurb": "Thần thông của Yêu Vệ Địa Ma: há miệng nuốt trọn công kích, phía sau hiện hư ảnh hình kén đồng bộ nuốt theo rồi ngưng tụ chất dịch phản kích.",
+    "detail": "Thần thông phòng ngự kiêm phản kích của Yêu Vệ Địa Ma. Khi Địa Ma há miệng nuốt công kích của địch, phía sau lão hiện một hư ảnh hình kén cao mười trượng cùng nuốt theo. Bụng lão phồng lên rồi phun ra thứ nước tanh, ngưng tụ thành một quả cầu đậm đặc. Khi ném quả cầu này xuống đất, chất dịch lan ra tạo tường nước bốn phía, làm nền cho đại thần thông Thiên Trướng Địa Đông vây khốn đối thủ.",
+    "nguon": [
+     "@c0561"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "con-cuc-tien",
+    "name": "Côn Cực Tiên",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Pháp bảo",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [
+     "Vương Lâm"
+    ],
+    "blurb": "Cây roi dài toàn thân màu đen của Vương Lâm, phát khí tức khiến linh hồn run rẩy; một roi quất tạo vết đỏ trên mặt địch.",
+    "detail": "Một cây roi dài toàn thân đều là màu đen, phát ra khí tức làm linh hồn run rẩy. Vương Lâm rút Côn Cực Tiên quất một roi tạo vết đỏ trên mặt Phong Ngâm khi nàng hóa gió lạnh tập kích sau lưng hắn.",
+    "nguon": [
+     "@c0561"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ma-hon-rit-xoay",
+    "name": "Ma hồn rít xoáy",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "",
+    "hePhai": "Cửu tán ma",
+    "soHuu": [
+     "Tán ma (chiếm xác đại hán)"
+    ],
+    "blurb": "Tiếng rít của ma hồn ở mi tâm hóa sóng gợn xuyên thấu, dùng tự bảo vệ và đẩy lui yêu mang trong chốc lát.",
+    "detail": "Thần thông của tán ma chiếm xác đại hán. Ma hồn ở mi tâm thét lên, tiếng rít hóa thành sóng gợn xuyên thấu, dùng để áp chế vẻ mê man của vật chủ khi nghe tên Lăng Thiên Hậu và đẩy lui yêu mang của Cổ Yêu trong chốc lát.",
     "nguon": [
      "@c0565"
     ],
@@ -77706,7 +77736,7 @@ window.LIB_DATA["tien-nghich"]={
  },
  "factions": {
   "updatedAt": "2026-06-28",
-  "count": 203,
+  "count": 204,
   "factions": [
    {
     "id": "hang-nhac-phai",
@@ -81580,6 +81610,25 @@ window.LIB_DATA["tien-nghich"]={
     ],
     "blurb": "Thế lực thần bí trong bảo tháp chiến trường viễn cổ, chủ áo giáp ma điều phối Người hầu Tôn Ma cùng ba Yêu Vệ để ngăn Vương Lâm.",
     "detail": "Chủ thể là một bộ áo giáp ma đặt trong bảo tháp giữa chiến trường viễn cổ, u quang ảm đạm, thần niệm lộ vẻ mệt mỏi và đã thiếu một hộ uyển. Áo giáp ban ba kiện ma giáp (hộ uyển, hung giáp, kiên giáp) cho lão già hắc y năm xưa cứu Hổ Bào, biến lão thành Người hầu Tôn Ma. Dưới quyền Tôn Ma triệu tập ba Yêu Vệ là Phong Ngâm, Địa Ma và Hổ Bào đi truy giết Vương Lâm. Khi nhận ra Chưởng ấn vô danh của Vương Lâm có bảy phần tương tự thần thông của một nhân vật bí ẩn, áo giáp lóe lên tia sợ hãi hiếm có trong vô số năm.",
+    "nguon": [
+     "@c0561"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoa-yeu-quan-the-luc",
+    "name": "Hỏa Yêu quận",
+    "cn": "",
+    "type": "yeu-linh",
+    "typeLabel": "Thế lực Yêu Linh",
+    "diaBan": "Đế Đô Hỏa Yêu quận, các thành trì giáp ranh",
+    "nhanVatChinh": [
+     "Yêu Đế Hỏa Yêu quận",
+     "Tổng quản Đế Đô",
+     "Phó soái Hỏa Yêu quận"
+    ],
+    "blurb": "Thế lực Yêu Linh có Yêu Đế cai trị, dưới có Tổng quản Đế Đô và các Phó soái; việc Phó soái tử vong được xem là đại sự.",
+    "detail": "Hỏa Yêu quận là một trong các thế lực Yêu Linh, đứng đầu là Yêu Đế, dưới có Tổng quản trấn giữ Đế Đô cùng nhiều Phó soái. Khi Vương Lâm ngộ đạo Hoàng Tuyền tại thành trì giáp ranh Thiên Yêu quận rồi giết chết Phó soái Hỏa Yêu quận bằng mười ba vạn khí sát lục, xác khô Phó soái rơi ngay trên truyền tống trận xa hoa của soái ở Đế Đô. Yêu Đế phẫn nộ gầm rống, ra lệnh truy sát Vương Lâm bất kể thân phận. Chỉ soái mới được dùng khúc xương đen truyền tống và truyền tống trận xa hoa của quận.",
     "nguon": [
      "@c0561"
     ],
