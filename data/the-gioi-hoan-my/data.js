@@ -1,4 +1,4 @@
-/* sync-bump 2026-07-02T18:46:28.325Z build_datajs */
+/* sync-bump 2026-07-02T19:20:55.738Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["the-gioi-hoan-my"]={
  "characters": {
@@ -7,13 +7,16 @@ window.LIB_DATA["the-gioi-hoan-my"]={
   "chars": [
    {
     "id": "chu-nhoc-than-thon",
-    "name": "Thạch Hạo",
+    "name": "Thạch Mãnh (cặp thach-manh/nhi-manh); Thạch Trung Hầu (cặp thach-trung-hau/bi-hau)",
     "cn": "",
     "aliases": [
      "Nhóc tỳ",
      "Chú nhóc (chưa đặt tên)",
      "Tiểu Hạo Hạo",
-     "Tiểu Thạch Hạo"
+     "Tiểu Thạch Hạo",
+     "Nhị Mãnh",
+     "Nhị Mãnh (biệt danh của Thạch Mãnh)",
+     "Bì Hầu (biệt danh của Thạch Trung Hầu)"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -24,7 +27,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "canhGioiCaoNhat": "Phàm nhân (@c0001)",
     "trangThai": "song",
-    "blurb": "Bé trai khoảng một tuổi rưỡi ở Thạch Thôn, mồ côi cha mẹ từ nửa tuổi, bú sữa bách thú mà lớn lên.",
+    "blurb": "Mục 'chu-nhoc-than-thon' là nhân vật chính (Thạch Hạo, 3 tuổi rưỡi, mồ côi, nhấc đỉnh ngàn cân). Sửa name 'Thạch Mãnh'→'Thạch Hạo'; gỡ alias 'Nhị Mãnh'. Giữ aliases: ['Nhóc tỳ','Chú nhóc (chưa đặt tên)','Tiểu Hạo Hạo','Tiểu Thạch Hạo']. Thạch Mãnh/Nhị Mãnh là nhân vật RIÊNG (con thứ hai, 8 tuổi rưỡi, da ngăm, vật ngã trâu mộng) — thuộc slug thach-manh/nhi-manh, không gộp.",
     "vaiTro": "Nhân vật chính tiềm năng — đứa trẻ mồ côi được lão tộc trưởng Thạch Thôn chăm sóc đặc biệt.",
     "tinhCach": [
      {
@@ -149,7 +152,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
    },
    {
     "id": "thach-van-phong",
-    "name": "Thạch Vân Phong",
+    "name": "Bì Hầu",
     "cn": "",
     "aliases": [
      "lão tộc trưởng",
@@ -157,7 +160,9 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "Tộc trưởng",
      "Tộc trưởng Thạch thôn",
      "Ông tộc trưởng",
-     "tộc trưởng Thạch Thôn"
+     "tộc trưởng Thạch Thôn",
+     "Bì Hầu",
+     "Thạch Trung Hầu"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -168,7 +173,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "canhGioiCaoNhat": "Phàm nhân (@c0001)",
     "trangThai": "song",
-    "blurb": "Lão tộc trưởng Thạch Thôn, râu tóc bạc phơ, tinh khí thần sung túc.",
+    "blurb": "Sửa name về \"Thạch Vân Phong\" (đúng với blurb+id+toàn bộ nội dung tộc trưởng); gỡ alias \"Bì Hầu\" và \"Thạch Trung Hầu\" khỏi mục này vì research xác định Thạch Trung Hầu (Bì Hầu) là bé trai tám chín tuổi khác, không phải tộc trưởng.",
     "vaiTro": "Lão tộc trưởng đứng đầu Thạch Thôn, chủ trì việc cầu khấn Tế Linh và quyết định lớn của thôn.",
     "tinhCach": [
      {
@@ -2047,13 +2052,15 @@ window.LIB_DATA["the-gioi-hoan-my"]={
    },
    {
     "id": "chu-nhoc-thach-thon",
-    "name": "Chú nhóc Thạch Thôn",
+    "name": "Thạch Hạo",
     "cn": "",
     "aliases": [
      "Chú nhóc",
      "Đứa trẻ mồ côi",
      "Nhóc tỳ",
-     "Đứa trẻ mồ côi Thạch Thôn"
+     "Đứa trẻ mồ côi Thạch Thôn",
+     "Chú nhóc Thạch Thôn",
+     "Tiểu Hạo Hạo"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -2177,7 +2184,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
    },
    {
     "id": "cau-thieu-nien-thac-mac",
-    "name": "Cậu thiếu niên thắc mắc",
+    "name": "Thạch Mãnh",
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -2224,11 +2231,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "nguon": [
      "@c0003"
     ],
+    "aliases": [
+     "Nhị Mãnh"
+    ],
     "rank": "D"
    },
    {
     "id": "nhoc-ty",
-    "name": "Nhóc tỳ",
+    "name": "Tiểu Hồng",
     "cn": "",
     "aliases": [
      "chú nhóc",
@@ -2241,7 +2251,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "nhóc tỳ",
      "Tiểu Hồng (gọi tước đỏ)",
      "em bé sứ",
-     "Thạch Hạo lúc nhỏ"
+     "Thạch Hạo lúc nhỏ",
+     "Bé Hồng",
+     "chim tước đỏ như Chu Tước",
+     "chim sẻ đỏ rực"
     ],
     "gioiTinh": "nam",
     "theLuc": [
