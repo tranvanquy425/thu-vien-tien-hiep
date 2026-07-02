@@ -285,7 +285,9 @@
       });
       $("#nvCount").textContent = items.length + " kết quả";
       $("#nvGrid").innerHTML = items.length ? items.map(c =>
-        '<div class="card" data-id="' + c.id + '"><h3>' + esc(c.name) + (c.cn ? ' <span class="cn">' + esc(c.cn) + '</span>' : '') + '</h3>' +
+        // (2026-07-03 V2-Steward) badge hạng thẻ: rank A = "Nhân vật chính", rank B = "Quan trọng"; C/D không badge.
+        '<div class="card" data-id="' + c.id + '"><h3>' + esc(c.name) + (c.cn ? ' <span class="cn">' + esc(c.cn) + '</span>' : '') +
+          (c.rank === 'A' ? ' <span class="rank-badge rank-a">★ Nhân vật chính</span>' : c.rank === 'B' ? ' <span class="rank-badge rank-b">Quan trọng</span>' : '') + '</h3>' +
         '<div class="meta-row">' +
           tlArr(c).map(x => '<span class="chip">' + esc(x) + '</span>').join('') +
           (c.canhGioiCaoNhat ? '<span class="chip gold">' + esc(c.canhGioiCaoNhat) + '</span>' : '') +
@@ -849,7 +851,9 @@
       const list = items.filter(it => (!q || (it.name + " " + (it.cn || "")).toLowerCase().includes(q)) && (!cat || getCat(it) === cat));
       $("#gCount").textContent = list.length + " mục";
       $("#gGrid").innerHTML = list.length ? list.map((it, i) =>
-        '<div class="card" data-i="' + items.indexOf(it) + '"><h3>' + esc(it.name) + (it.cn ? ' <span class="cn">' + esc(it.cn) + '</span>' : '') + '</h3>' +
+        // (2026-07-03 V2-Steward) badge hạng thẻ: rank A = "Trọng yếu", rank B = "Quan trọng"; C/D không badge.
+        '<div class="card" data-i="' + items.indexOf(it) + '"><h3>' + esc(it.name) + (it.cn ? ' <span class="cn">' + esc(it.cn) + '</span>' : '') +
+          (it.rank === 'A' ? ' <span class="rank-badge rank-a">★ Trọng yếu</span>' : it.rank === 'B' ? ' <span class="rank-badge rank-b">Quan trọng</span>' : '') + '</h3>' +
         '<div class="meta-row">' + (getCat(it) ? '<span class="chip gold">' + esc(getCat(it)) + '</span>' : '') +
         (it.phamCap ? '<span class="chip">' + esc(it.phamCap) + '</span>' : '') +
         (it.soHuu && it.soHuu.length ? '<span class="chip">' + esc(it.soHuu[0]) + (it.soHuu.length > 1 ? " +" + (it.soHuu.length - 1) : "") + '</span>' : '') +
