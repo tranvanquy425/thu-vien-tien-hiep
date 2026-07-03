@@ -67,6 +67,10 @@ window.LIB_CONFIG = {
       lead: "Phát hiện chỗ nào chưa chuẩn so với nguyên tác? Gửi cho tại hạ để sửa.",
       endpoint: ""        // ⬅ DÁN URL Web App "Góp Ý" sau khi deploy (xem _He_Thong/gop-y/). Rỗng = hiện lời cảm ơn (chưa lưu).
     },
+    // (2026-07-03 V2-Steward hoi-ai-2tang) Hỏi AI công khai 2 tầng: máy bật → NotebookLM (0đ), máy tắt → vilao+wiki.
+    hoiAI: {
+      endpoint: ""        // ⬅ DÁN URL Web App "Hỏi AI" sau khi deploy (xem _He_Thong/hoi-ai-web/). Rỗng = ẨN widget.
+    },
     social: {
       zalo: "http://zalo.me/0968099273",
       tiktok: "http://tiktok.com/@ratnhieumohinh"
