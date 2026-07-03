@@ -11312,8 +11312,8 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "Vạn Bảo Lâu (bán) → Hàn Lập (mua @c164–c165)"
     ],
     "trangThai": "đang giữ — chưa sử dụng (mua mới @c165)",
-    "blurb": "Phù bảo dạng hộp nhỏ ngũ sắc phát quang, Hàn Lập mua mới tại Vạn Bảo Lâu @c0164. Công năng cụ thể chưa lộ vì chưa từng được sử dụng. Ai cũng dùng được; tiền-Trúc-Cơ phát huy 1–2 thành; hậu Trúc-Cơ phát huy toàn bộ. Tới hết đợt đã đọc (~c180) Hàn Lập chưa sử dụng vật này.",
-    "detail": "Điền Bặc Ly giải thích nguyên lý phù bảo tại c164: do Kết Đan kỳ luyện chế, ai dùng cũng được; trước Trúc Cơ 1–2 thành uy lực, sau Trúc Cơ toàn bộ; số lần sử dụng/tuổi thọ hữu hạn. Hàn Lập mua trong hộp gấm đổi bằng 2 gốc linh thảo ngàn năm @c165; tới hết đợt (~c180) chưa sử dụng. @c0164 Hàn Lập từng liên tưởng nó với kiếm phù tiểu kiếm xám đoạt từ Chu Nho, nhưng là HAI vật khác nhau — kiếm phù xám (thẻ kiem-phu) mới là vật chém đôi Lục sư huynh và hóa tro @c0170.",
+    "blurb": "Phù bảo dạng hộp nhỏ ngũ sắc phát quang, Hàn Lập mua mới tại Vạn Bảo Lâu @c0164. Công năng cụ thể chưa lộ vì chưa từng được sử dụng. Ai cũng dùng được; tiền-Trúc-Cơ phát huy 1–2 thành; hậu Trúc-Cơ phát huy toàn bộ. Tính đến chương 180, Hàn Lập chưa sử dụng vật này.",
+    "detail": "Điền Bặc Ly giải thích nguyên lý phù bảo tại c164: do Kết Đan kỳ luyện chế, ai dùng cũng được; trước Trúc Cơ 1–2 thành uy lực, sau Trúc Cơ toàn bộ; số lần sử dụng/tuổi thọ hữu hạn. Hàn Lập mua trong hộp gấm đổi bằng 2 gốc linh thảo ngàn năm @c165; tính đến chương 180 chưa sử dụng. @c0164 Hàn Lập từng liên tưởng nó với kiếm phù tiểu kiếm xám đoạt từ Chu Nho, nhưng là HAI vật khác nhau — kiếm phù xám (thẻ kiem-phu) mới là vật chém đôi Lục sư huynh và hóa tro @c0170.",
     "nguon": [
      "c0164",
      "c0165"
