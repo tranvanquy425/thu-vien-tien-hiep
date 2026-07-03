@@ -13,7 +13,9 @@ window.LIB_CONFIG = {
       anh: "assets/Vuong-lam.jpg",
       blurb: "Vương Lâm — phàm nhân tư chất tầm thường, nghịch thiên cải mệnh, bước trên con đường tu tiên đầy máu và cô độc.",
       readerBase: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/tien-nghich/reader",
-      dataBase: "data/tien-nghich"
+      dataBase: "data/tien-nghich",
+      // (2026-07-03 V2-Steward 1moc-ghim) chỉ NHÂN VẬT CHÍNH thật mới được badge "★ Nhân vật chính" + ghim đầu danh sách.
+      nhanVatChinh: ["vuong-lam"]
     },
     {
       slug: "pham-nhan-tu-tien", ten: "Phàm Nhân Tu Tiên", cn: "凡人修仙传", tacGia: "Vong Ngữ",
@@ -25,14 +27,18 @@ window.LIB_CONFIG = {
       phanList: [
         { phan: 1, ten: "Phần 1 · Vong Ngữ", base: "" },
         { phan: 2, ten: "Phần 2 · Tiên Giới Thiên", base: "/phan2" }
-      ]
+      ],
+      // (2026-07-03 V2-Steward 1moc-ghim) chỉ NHÂN VẬT CHÍNH thật mới được badge "★ Nhân vật chính" + ghim đầu danh sách.
+      nhanVatChinh: ["han-lap"]
     },
     {
       slug: "the-gioi-hoan-my", ten: "Thế Giới Hoàn Mỹ", cn: "完美世界", tacGia: "Thần Đông",
       anh: "assets/Thach-hao.jpg",
       blurb: "Thạch Hạo — từ Thạch Thôn trong Đại Hoang vùng vẫy lớn lên, mang theo nghịch thiên cốt cách, bước qua vô số tinh không và thời đại để truy tầm con đường chân tiên bất diệt.",
       readerBase: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/the-gioi-hoan-my/reader",
-      dataBase: "data/the-gioi-hoan-my"
+      dataBase: "data/the-gioi-hoan-my",
+      // (2026-07-03 V2-Steward 1moc-ghim) chỉ NHÂN VẬT CHÍNH thật mới được badge "★ Nhân vật chính" + ghim đầu danh sách.
+      nhanVatChinh: ["thach-hao"]
     }
   ],
   // ===== 4 khối chrome (đầu/cuối trang + bong bóng) — ĐIỀN LINK THẬT =====
