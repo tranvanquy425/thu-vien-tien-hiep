@@ -1,11 +1,14 @@
-/* hoi-ai.js — Widget công khai "Hỏi AI về bộ này" (HỎI-AI 2 TẦNG)   (2026-07-03 V2-Steward hoi-ai-2tang)
+/* hoi-ai.js — Bong bóng chat nổi "Hỏi AI về bộ này" (HỎI-AI 2 TẦNG)   (2026-07-03 V2-Steward hoi-ai-bubble)
    - Chỉ chạy khi window.LIB_CONFIG.chrome.hoiAI.endpoint có URL (Steward thêm vào config.js sau).
+   - UI: nút tròn nổi cố định góc TRÁI-DƯỚI (góc PHẢI đã có bong bóng Zalo/TikTok .bubbles của chrome.js);
+     bấm → mở panel chat nhỏ (câu hỏi phải, trả lời trái); giữ lịch sử nhiều lượt trong RAM, KHÔNG localStorage.
+   - z-index 45: DƯỚI drawer(60)/drawer-bg(50), TRÊN topbar(40) + nội dung.
    - Gửi câu hỏi → backend Apps Script (hoi-ai-web-backend.gs):
        mode='nblm'  → máy Chiến bật: poll ?act=traloi&id= mỗi 6s (tối đa 20 lần = 120s);
                       'loi' hoặc hết lượt → tự gửi lại force:'vilao' (tầng 2).
        mode='vilao' → trả lời ngay.
    - MỌI câu trả lời kèm disclaimer nguyên văn (chữ nhỏ, mờ). KHÔNG hiện token/giá.
-   - Tái dùng class theme.css (.foot-card, .fb-form, .send, .lead) — thêm ít CSS riêng bên dưới. */
+   - CSS tự tiêm, dùng biến theme.css (có fallback) → tự khớp theme sáng/tối. Tái dùng class .send. */
 (function () {
   "use strict";
   const C = (window.LIB_CONFIG && window.LIB_CONFIG.chrome && window.LIB_CONFIG.chrome.hoiAI) || null;
@@ -23,58 +26,114 @@
   const sleep = ms => new Promise(r => setTimeout(r, ms));
 
   function init() {
-    // ---- CSS riêng (phần theme.css chưa có) ----
+    // ---- CSS riêng (tự tiêm — không sửa theme.css) ----
     const css = document.createElement("style");
     css.textContent =
-      ".hoi-ai-wrap{max-width:1200px;margin:26px auto 8px;padding:0 20px}" +
-      ".hoi-ai-card .hoi-ai-status{font-size:13px;color:var(--muted,#a99d84);margin-top:10px;min-height:18px}" +
-      ".hoi-ai-answer{display:none;margin-top:12px;padding:14px 16px;background:var(--input-bg,#1d1710);" +
-        "border:1px solid var(--line2,#4a3b22);border-radius:10px;font-size:14px;line-height:1.7;color:var(--text,#e8dfc8);overflow-wrap:anywhere}" +
-      ".hoi-ai-answer.show{display:block}" +
-      ".hoi-ai-disclaimer{margin-top:12px;padding-top:8px;border-top:1px dashed var(--line2,#4a3b22);" +
-        "font-size:11.5px;color:var(--muted2,#7d7259);opacity:.85;font-style:italic}";
+      /* nút tròn nổi góc TRÁI-dưới */
+      ".ha-fab{position:fixed;left:16px;bottom:20px;z-index:45;display:flex;align-items:center;justify-content:center;" +
+        "width:50px;height:50px;border-radius:50%;border:1px solid var(--line-gold,#6b521f);cursor:pointer;" +
+        "background:linear-gradient(160deg,#3a2c14,#241a0c);color:var(--gold2,#e5c96b);font-size:24px;line-height:1;" +
+        "box-shadow:0 4px 14px rgba(0,0,0,.4);transition:transform .15s}" +
+      ".ha-fab:hover{transform:scale(1.08)}" +
+      ".ha-fab .ha-fab-lbl{position:absolute;left:60px;white-space:nowrap;font-size:12px;font-family:var(--sans,sans-serif);" +
+        "background:#1c150d;border:1px solid var(--line-gold,#6b521f);color:var(--gold2,#e5c96b);" +
+        "padding:3px 9px;border-radius:8px;pointer-events:none}" +
+      "[data-theme=\"light\"] .ha-fab{background:linear-gradient(160deg,#f0e6cf,#e2d2ac);color:var(--gold3,#7a5c14)}" +
+      "[data-theme=\"light\"] .ha-fab .ha-fab-lbl{background:#f5f0e6;color:var(--gold3,#7a5c14)}" +
+      "@media(max-width:640px){.ha-fab .ha-fab-lbl{display:none}}" +
+      /* panel chat nhỏ góc trái-dưới */
+      ".ha-panel{position:fixed;left:16px;bottom:84px;z-index:45;width:min(360px,calc(100vw - 32px));" +
+        "max-height:70vh;display:none;flex-direction:column;overflow:hidden;" +
+        "background:var(--card-bg,#1d160d);border:1px solid var(--line-gold,#6b521f);border-radius:14px;" +
+        "box-shadow:0 12px 34px rgba(0,0,0,.5)}" +
+      ".ha-panel.show{display:flex}" +
+      "@media(max-width:640px){.ha-panel{left:8px;right:8px;width:auto}}" +
+      ".ha-head{display:flex;align-items:center;gap:8px;padding:10px 14px;border-bottom:1px solid var(--line2,#4a3b22);flex:0 0 auto}" +
+      ".ha-title{font-weight:700;font-size:14.5px;color:var(--text,#e8dfc8)}" +
+      ".ha-close{margin-left:auto;background:none;border:none;color:var(--muted,#a99d84);font-size:17px;cursor:pointer;padding:2px 6px;flex:0 0 auto}" +
+      ".ha-body{flex:1 1 auto;overflow-y:auto;padding:12px;display:flex;flex-direction:column;gap:10px;min-height:110px;" +
+        "scrollbar-width:thin;scrollbar-color:var(--line2,#4a3b22) transparent}" +
+      ".ha-hint{font-size:12.5px;color:var(--muted,#a99d84);line-height:1.6}" +
+      /* bong bóng lượt chat: hỏi phải / đáp trái */
+      ".ha-msg{max-width:85%;padding:9px 12px;border-radius:12px;font-size:13.5px;line-height:1.65;" +
+        "color:var(--text,#e8dfc8);overflow-wrap:anywhere}" +
+      ".ha-msg.q{align-self:flex-end;background:rgba(201,162,39,.16);border:1px solid var(--line-gold,#6b521f);border-bottom-right-radius:4px}" +
+      ".ha-msg.a{align-self:flex-start;background:var(--input-bg,#1d1710);border:1px solid var(--line2,#4a3b22);border-bottom-left-radius:4px}" +
+      ".hoi-ai-status{flex:0 0 auto;font-size:12px;color:var(--muted,#a99d84);padding:2px 14px 0;min-height:16px}" +
+      ".hoi-ai-disclaimer{margin-top:10px;padding-top:7px;border-top:1px dashed var(--line2,#4a3b22);" +
+        "font-size:11px;color:var(--muted2,#7d7259);opacity:.85;font-style:italic}" +
+      /* chân panel: textarea 1-2 dòng + nút Gửi */
+      ".ha-form{display:flex;gap:8px;align-items:flex-end;padding:10px 12px 12px;border-top:1px solid var(--line2,#4a3b22);flex:0 0 auto;margin:0}" +
+      ".ha-form textarea{flex:1;min-width:0;resize:none;min-height:38px;max-height:72px;background:var(--input-bg,#1d1710);" +
+        "border:1px solid var(--line2,#4a3b22);color:var(--text,#e8dfc8);border-radius:10px;padding:8px 10px;" +
+        "font-family:var(--sans,sans-serif);font-size:13.5px;line-height:1.5}" +
+      ".ha-form .send{flex:0 0 auto;padding:9px 14px}";
     document.head.appendChild(css);
 
-    // ---- section widget ----
-    const sec = document.createElement("div");
-    sec.className = "hoi-ai-wrap";
-    sec.innerHTML =
-      '<div class="foot-card hoi-ai-card">' +
-        '<h3><span class="seal" style="width:30px;height:30px;font-size:18px">問</span> 🤖 Hỏi AI về bộ này</h3>' +
-        '<p class="lead">Thắc mắc về nhân vật, sự kiện, pháp bảo… trong bộ này? Hỏi AI của thư viện (miễn phí, chờ khoảng 30–90 giây).</p>' +
-        '<form class="fb-form" id="haForm">' +
-          '<textarea id="haText" maxlength="500" placeholder="Ví dụ: Vương Lâm và Lý Muộn Hương quen nhau thế nào?" required></textarea>' +
-          '<button type="submit" class="send" id="haBtn">Hỏi AI ›</button>' +
-        '</form>' +
-        '<div class="hoi-ai-status" id="haStatus"></div>' +
-        '<div class="hoi-ai-answer" id="haAnswer"></div>' +
-      '</div>';
+    // ---- nút tròn nổi (góc trái-dưới) + panel chat ----
+    const fab = document.createElement("button");
+    fab.type = "button";
+    fab.className = "ha-fab";
+    fab.setAttribute("aria-label", "Hỏi AI về bộ này");
+    fab.innerHTML = '<span class="ha-fab-ico">🤖</span><span class="ha-fab-lbl">Hỏi AI</span>';
 
-    // chèn TRƯỚC footer (chrome.js append sponsor.foot + site-foot vào cuối body);
-    // không thấy footer → append vào cha của #view; bí nữa → cuối body
-    const foot = document.querySelector(".sponsor.foot") || document.querySelector(".site-foot");
-    const view = document.getElementById("view");
-    if (foot && foot.parentNode) foot.parentNode.insertBefore(sec, foot);
-    else if (view && view.parentNode) view.parentNode.appendChild(sec);
-    else document.body.appendChild(sec);
+    const panel = document.createElement("div");
+    panel.className = "ha-panel";
+    panel.innerHTML =
+      '<div class="ha-head"><span class="ha-title">🤖 Hỏi AI về bộ này</span>' +
+        '<button type="button" class="ha-close" id="haClose" aria-label="Đóng">✕</button></div>' +
+      '<div class="ha-body" id="haBody">' +
+        '<div class="ha-hint">Thắc mắc về nhân vật, sự kiện, pháp bảo… trong bộ này? Hỏi AI của thư viện (miễn phí, chờ khoảng 30–90 giây).</div>' +
+      '</div>' +
+      '<div class="hoi-ai-status" id="haStatus"></div>' +
+      '<form class="ha-form" id="haForm">' +
+        '<textarea id="haText" rows="2" maxlength="500" placeholder="Ví dụ: Vương Lâm và Lý Muộn Hương quen nhau thế nào?" required></textarea>' +
+        '<button type="submit" class="send" id="haBtn">Gửi ›</button>' +
+      '</form>';
+
+    document.body.appendChild(fab);
+    document.body.appendChild(panel);
 
     const form = document.getElementById("haForm");
     const ta = document.getElementById("haText");
     const btn = document.getElementById("haBtn");
     const elStatus = document.getElementById("haStatus");
-    const elAnswer = document.getElementById("haAnswer");
+    const elBody = document.getElementById("haBody");
+
+    // mở/đóng panel
+    fab.addEventListener("click", () => {
+      panel.classList.toggle("show");
+      if (panel.classList.contains("show")) ta.focus();
+    });
+    document.getElementById("haClose").addEventListener("click", () => panel.classList.remove("show"));
+    // Enter = gửi (Shift+Enter xuống dòng)
+    ta.addEventListener("keydown", e => {
+      if (e.key === "Enter" && !e.shiftKey) {
+        e.preventDefault();
+        if (form.requestSubmit) form.requestSubmit();
+        else form.dispatchEvent(new Event("submit", { cancelable: true }));
+      }
+    });
 
     const setStatus = t => { elStatus.textContent = t || ""; };
+    // lịch sử hỏi-đáp trong phiên: mảng trong RAM (KHÔNG localStorage); DOM giữ nguyên các lượt
+    const lichSu = [];
+    function themTin(vai, html) {           // vai: 'q' (hỏi, phải) | 'a' (đáp, trái)
+      lichSu.push({ vai: vai, html: html });
+      const d = document.createElement("div");
+      d.className = "ha-msg " + vai;
+      d.innerHTML = html;
+      elBody.appendChild(d);
+      elBody.scrollTop = elBody.scrollHeight;
+    }
     function hienTraLoi(traLoi, disclaimer) {
       setStatus("");
-      elAnswer.innerHTML = fmt(traLoi) +
-        '<div class="hoi-ai-disclaimer">' + esc(disclaimer || DISCLAIMER) + '</div>';
-      elAnswer.classList.add("show");
+      themTin("a", fmt(traLoi) +
+        '<div class="hoi-ai-disclaimer">' + esc(disclaimer || DISCLAIMER) + '</div>');
     }
     function hienLoi(msg) {
       setStatus("");
-      elAnswer.innerHTML = '<i>' + esc(msg) + '</i>';
-      elAnswer.classList.add("show");
+      themTin("a", '<i>' + esc(msg) + '</i>');
     }
 
     // POST JSON kiểu text/plain (simple request, KHÔNG preflight) — mode CORS mặc định để ĐỌC response
@@ -107,7 +166,8 @@
       const cauHoi = ta.value.trim();
       if (cauHoi.length < 3) { setStatus("Đạo hữu gõ câu hỏi dài hơn chút nhé (tối thiểu 3 ký tự)."); return; }
       btn.disabled = true;
-      elAnswer.classList.remove("show");
+      themTin("q", esc(cauHoi));           // bong bóng câu hỏi (bên phải)
+      ta.value = "";
       setStatus("Đang gửi câu hỏi…");
       try {
         let r = await goiHoi({ act: "hoi", slug: slug, cauHoi: cauHoi });
@@ -131,7 +191,7 @@
     });
   }
 
-  // chạy sau khi DOM sẵn (chrome.js đã kịp chèn footer nếu hoi-ai.js đứng sau nó)
+  // chạy sau khi DOM sẵn (fab + panel append thẳng vào body, không phụ thuộc footer)
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
   else init();
 })();
