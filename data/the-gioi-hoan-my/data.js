@@ -1,4 +1,4 @@
-/* sync-bump 2026-07-03T09:09:56.807Z build_datajs */
+/* sync-bump 2026-07-03T10:01:45.806Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["the-gioi-hoan-my"]={
  "characters": {
@@ -1590,7 +1590,9 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "Tiểu Hạo Hạo",
      "Tiểu Thạch Hạo",
      "Hạo Nhi",
-     "Tiểu Hạo"
+     "Tiểu Hạo",
+     "Tử Vân di cầm",
+     "Thạch Hạo"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -1601,7 +1603,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "canhGioiCaoNhat": "Phàm nhân (@c0001)",
     "trangThai": "song",
-    "blurb": "Đứa trẻ khoảng một tuổi rưỡi mồ côi cha mẹ từ nửa tuổi, bú sữa bách thú lớn lên ở Thạch Thôn, đáng yêu và hiếu động.",
+    "blurb": "name→'Tiểu Thạch Hạo'; gỡ alias 'Tử Vân' và 'Tử Vân di cầm' (là 1 trong 3 chim non, thực thể riêng); giữ: Chú nhóc, Nhóc tỳ, Tiểu Thạch Hạo, Tiểu Hạo, Hạo Nhi, Tiểu Hạo Hạo, Đứa trẻ mồ côi Thạch Thôn, Chú nhóc Thạch Thôn.",
     "vaiTro": "Nhân vật trung tâm được khắc họa kỹ ở chương mở đầu; mồ côi cha mẹ, được lão tộc trưởng nuôi bằng sữa bách thú trộn dược thảo.",
     "tinhCach": [
      {
@@ -2668,7 +2670,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
    },
    {
     "id": "cac-bo-lao-thach-thon",
-    "name": "Các bô lão Thạch Thôn",
+    "name": "Thạch Hạo",
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -2701,6 +2703,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     },
     "nguon": [
      "@c0004"
+    ],
+    "aliases": [
+     "Tiểu Thạch Hạo",
+     "Nhóc tỳ (chủ nhóc Thạch Thôn)"
     ],
     "rank": "D"
    },
@@ -4556,7 +4562,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
    },
    {
     "id": "thach-thu-son",
-    "name": "Thạch Thủ Sơn",
+    "name": "Thủ lĩnh bộ lạc Kim Lang",
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -4650,7 +4656,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "cha của Bì Hầu",
      "Thủ Sơn",
      "Bì Hầu",
-     "cha Bì Hầu"
+     "cha Bì Hầu",
+     "Tộc trưởng bộ lạc Kim Lang"
     ],
     "rank": "C"
    },
@@ -4798,7 +4805,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
    },
    {
     "id": "thang-nhoc-bai-thon",
-    "name": "Thằng nhóc Bái Thôn",
+    "name": "cha-me-thach-hao",
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -4852,7 +4859,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "aliases": [
      "thiếu niên Bái Thôn",
-     "Thiếu niên Bái Thôn"
+     "Thiếu niên Bái Thôn",
+     "cha-me-nhoc-ty"
     ],
     "rank": "D"
    },
@@ -4888,7 +4896,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
    },
    {
     "id": "thieu-nien-bai-thon",
-    "name": "Thiếu niên Bái Thôn",
+    "name": "Thạch Hạo",
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -4998,7 +5006,9 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0016"
     ],
     "aliases": [
-     "Thiếu niên Bái Thôn"
+     "Thiếu niên Bái Thôn",
+     "Tiểu Thạch Hạo",
+     "Nhóc tỳ Thạch Thôn"
     ],
     "rank": "C"
    },
@@ -9559,7 +9569,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "A di xinh đẹp",
      "Tử Lăng (cha)",
      "thúc thúc oai hùng mang bệnh",
-     "a di xinh đẹp"
+     "a di xinh đẹp",
+     "Đôi vợ chồng trẻ"
     ],
     "gioiTinh": "khac",
     "trangThai": "mat-tich",
@@ -9573,6 +9584,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "bọn họ muốm tìm Thánh dược để trị tận gốc bệnh tình của cháu",
        "bridge": true,
        "khoang": "@c0052"
+      },
+      {
+       "chuong": "@c0055",
+       "importance": "normal",
+       "tieuDe": "Bế Hạo Nhi trong lễ tế trời",
+       "text": "Trong ký ức tế trời của cổ quốc, người đàn ông cao lớn và người phụ nữ xinh đẹp như hoa bế Hạo Nhi quấn tã, định khuyên can khi Lão Thập Ngũ nhỏ bảo huyết Thần Cầm cho con vì con còn nhỏ.",
+       "anchor": "Cháu trai ngoan, nếm thử bảo huyết của Thần Cầm này. Tương lai cháu nhất định sẽ vượt xa gia gia và cha của cháu đấy."
       },
       {
        "chuong": "@c0057",
@@ -9623,6 +9641,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "ten": "Lão Thập Ngũ",
        "tag": "ho-hang",
        "quanHe": "Gọi ông là ‘Cha’ — Lão Thập Ngũ là gia gia của con họ"
+      },
+      {
+       "ten": "Thạch Hạo",
+       "tag": "cha-me",
+       "quanHe": "Con trai (Hạo Nhi) thời sơ sinh",
+       "ghiChu": "@c0055"
+      },
+      {
+       "ten": "Thập Ngũ Gia",
+       "tag": "ho-hang",
+       "quanHe": "Trưởng bối nhỏ bảo huyết Thần Cầm cho con họ",
+       "ghiChu": "@c0055"
       }
      ],
      "tuiDo": {}
@@ -10279,6 +10309,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tieuDe": "Lộ thân thế hoàng thân cổ quốc",
        "text": "Cây liễu cháy phát sương mù hỗn độn bao phủ riêng mình Tiểu Thạch Hạo, khai mở ký ức tiềm thức lộ thân thế thật: là hoàng thân cổ quốc mang hoàng huyết gần Nhân Hoàng, theo quy củ có thể tranh đoạt ngôi Nhân Hoàng; thuở còn quấn tã từng được Lão Thập Ngũ tự tay nhỏ bảo huyết Thái Cổ Thần Cầm cho uống.",
        "anchor": "trong cơ thể cũng có chảy hoàng huyết"
+      },
+      {
+       "chuong": "@c0055",
+       "importance": "major",
+       "tieuDe": "Ký ức thân thế hoàng tộc tái hiện",
+       "text": "Đứng bất động dưới cây liễu cháy đen giữa tầng sương mù hỗn độn, ký ức tiềm thức thời sơ sinh tái hiện — hé lộ Thạch Hạo vốn xuất thân dòng họ hoàng thân có hoàng huyết của cổ quốc Nhân Hoàng, từng được Lão Thập Ngũ nhỏ bảo huyết Thái Cổ Thần Cầm vào miệng khi còn quấn tã.",
+       "anchor": "Cảnh tượng mà nó đã từng thấy nhưng vì tuổi nhỏ mà không thể nhớ nổi, giấu ở trong tiềm thức đang tái hiện ở trước mắt."
       },
       {
        "chuong": "@c0056",
@@ -11638,6 +11675,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "khac",
        "quanHe": "Cùng hoàng thất cổ quốc",
        "ghiChu": "Dòng họ Thạch Hạo là hoàng thân có hoàng huyết trong cổ quốc do Nhân Hoàng thống trị @c0055"
+      },
+      {
+       "ten": "Thập Ngũ Gia",
+       "tag": "ho-hang",
+       "quanHe": "Trưởng bối dòng họ, nhỏ bảo huyết Thần Cầm bồi bổ cho Thạch Hạo từ sơ sinh",
+       "ghiChu": "@c0055"
+      },
+      {
+       "ten": "Cha mẹ Thạch Hạo",
+       "tag": "cha-me",
+       "quanHe": "Đôi vợ chồng trẻ bế Hạo Nhi quấn tã trong ký ức",
+       "ghiChu": "@c0055"
       }
      ],
      "tuiDo": {
@@ -12982,6 +13031,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Nó trời sinh có trọng đồng, đây là dị tượng của Thượng Cổ Thánh Nhân"
       },
       {
+       "chuong": "@c0055",
+       "importance": "major",
+       "tieuDe": "Trọng đồng — dị tượng Thượng Cổ Thánh Nhân",
+       "text": "Trong ký ức tế trời của cổ quốc, Thạch Nghị là đứa bé ba bốn tuổi trời sinh có trọng đồng (bốn con ngươi), dị tượng của Thượng Cổ Thánh Nhân, thiên túng kỳ tài học gì cũng nhanh; cả tộc kỳ vọng nó tranh đoạt ngôi vị Nhân Hoàng.",
+       "anchor": "Nó trời sinh có trọng đồng, đây là dị tượng của Thượng Cổ Thánh Nhân."
+      },
+      {
        "text": "Dùng Trọng Đồng phát hiện Chí Tôn cốt trong cơ thể Thạch Hạo; bị mẹ cấm không được nói cho ai; dửng dưng chứng kiến mẹ sai bóng u linh chiết xương Thạch Hạo; nằm trên giường ngọc bị rạch lồng ngực nhận cấy Chí Tôn cốt, gật đầu không nói gì; được mẹ tuyên bố là Chí tôn trời sinh.",
        "anchor": "ngân đao lướt qua lồng ngực nó, huyết dịch cũng chảy ra",
        "bridge": true,
@@ -13357,6 +13413,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Thập Ngũ Gia đã bắn chết một con Tỳ Hưu ở trên Bách Tộc Chiến Trường"
       },
       {
+       "chuong": "@c0055",
+       "importance": "normal",
+       "tieuDe": "Bắn hạ Loan Điểu, nuôi Thạch Hạo bằng bảo huyết",
+       "text": "Dùng cung thân đen dây gân Giao, hai tên bắn hạ Cầm Vương Loan Điểu dài mười bảy mười tám mét có dòng máu Thái Cổ Thần Cầm tại Thánh Hồ; xẻ lấy bảo huyết quý nhất nhỏ cho Hạo Nhi (Thạch Hạo sơ sinh) uống; về sau còn bắn chết một con Tỳ Hưu trên Bách Tộc Chiến Trường làm chấn động bát hoang.",
+       "anchor": "Lão Thập Ngũ, không ngờ tiễn pháp của ông đã trở nên tinh diệu như vậy, hai tên đã bắn hạ một con Loan Điểu mạnh mẽ."
+      },
+      {
        "chuong": "@c0056",
        "importance": "normal",
        "tieuDe": "Bắn chết con Tỳ Hưu, bị truy sát mất tích",
@@ -13437,6 +13500,12 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "ho-hang",
        "quanHe": "Con dâu",
        "ghiChu": "Mẹ Thạch Nghị, vợ một huynh trưởng khác"
+      },
+      {
+       "ten": "Thạch Hạo",
+       "tag": "ho-hang",
+       "quanHe": "Cháu trong dòng họ, được lão nhỏ bảo huyết Thần Cầm bồi bổ từ sơ sinh",
+       "ghiChu": "@c0055"
       }
      ],
      "tuiDo": {
@@ -13473,7 +13542,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "id": "nhan-hoang-co-quoc",
     "name": "Nhân Hoàng",
     "aliases": [
-     "Nhân Hoàng cổ quốc"
+     "Nhân Hoàng cổ quốc",
+     "Nhân Hoàng của cổ quốc"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -13493,7 +13563,15 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0055"
       }
      ],
-     "kinhLich": [],
+     "kinhLich": [
+      {
+       "chuong": "@c0055",
+       "importance": "normal",
+       "tieuDe": "Tự mình tế trời trong ký ức cổ quốc",
+       "text": "Trong ký ức của Thạch Hạo, Nhân Hoàng của cổ quốc — kẻ thống trị sơn hà hàng tỉ dặm — đứng trong vầng thái dương vàng, tự mình tế trời vô cùng trịnh trọng, sau lưng là cường giả hoàng tộc, đại chư hầu, thần tử và quân đội vô tận.",
+       "anchor": "Đây là Nhân Hoàng của cổ quốc, kẻ thống trị sơn hà hàng tỉ dặm, hiện tại đang tự mình tế trời, vô cùng trịnh trọng."
+      }
+     ],
      "tuViMoc": [],
      "nhanMach": [
       {
