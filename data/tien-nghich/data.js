@@ -27810,7 +27810,7 @@ window.LIB_DATA["tien-nghich"]={
       {
        "chuong": "@c0334",
        "importance": "normal",
-       "text": "Hap thu tien ngoc do Sat Ho mang ve, cuong ep dot pha Hoa Than len Anh Bien ky — tu si Anh Bien dau tien cua Cu Ma Toc tren Chu Tuoc Tinh, dua toc tu cap 4 len cap 5; Chu Tuoc quoc cu mot Van Dinh ky tiep dai. (NBLM neo c0331 = SAI; dung @c0334.)",
+       "text": "Hap thu tien ngoc do Sat Ho mang ve, cuong ep dot pha Hoa Than len Anh Bien ky — tu si Anh Bien dau tien cua Cu Ma Toc tren Chu Tuoc Tinh, dua toc tu cap 4 len cap 5; Chu Tuoc quoc cu mot Van Dinh ky tiep dai.",
        "nguonNblm": true
       },
       {
@@ -30231,7 +30231,7 @@ window.LIB_DATA["tien-nghich"]={
       {
        "chuong": "@c0365",
        "importance": "major",
-       "text": "Moi VL noi nghiep Luyen Hon Tong. Tiet lo: tong co tong 37 tu si Anh Bien tu khi toi Chu Tuoc tinh (gom lao); su huynh (thu 36, y canh Du Tri; NBLM goi 'Niem Thien' — research c0365 ghi chua ro ten) da chet 2 nam truoc (bi mat), truoc khi chet hy sinh tho de tim duong moi cho tong nhung that bai, trung dung luc VL toi gan. Tho nguyen Don Thien con 10 nam, the dua Luyen Hon Tong thanh luc cap. Trao VL Ngoc gian Toa Than (phap thuat dieu khien Thap Uc Hon Phien), nhan VL lam de tu trung tam duy nhat, hua giao Hon Phien khi tho het, roi be quan.",
+       "text": "Moi VL noi nghiep Luyen Hon Tong. Tiet lo: tong co tong 37 tu si Anh Bien tu khi toi Chu Tuoc tinh (gom lao); su huynh (thu 36, y canh Du Tri) da chet 2 nam truoc (bi mat), truoc khi chet hy sinh tho de tim duong moi cho tong nhung that bai, trung dung luc VL toi gan. Tho nguyen Don Thien con 10 nam, the dua Luyen Hon Tong thanh luc cap. Trao VL Ngoc gian Toa Than (phap thuat dieu khien Thap Uc Hon Phien), nhan VL lam de tu trung tam duy nhat, hua giao Hon Phien khi tho het, roi be quan.",
        "nguonNblm": true
       },
       {
@@ -34825,7 +34825,7 @@ window.LIB_DATA["tien-nghich"]={
        "ten": "Nữ tử áo lụa trắng (Tử Tâm)",
        "tag": "su-mon",
        "quanHe": "Ngũ sư muội bị tử y nữ tử thay; hắn tố Vương Lâm giết ngũ sư muội.",
-       "ghiChu": "(tự sinh — R4 rà)"
+       "ghiChu": ""
       }
      ],
      "tuiDo": {
@@ -54122,7 +54122,7 @@ window.LIB_DATA["tien-nghich"]={
     "label": "Quyển 3",
     "range": "Ch.126 – 185",
     "title": "Dương Danh Tu Ma Hải",
-    "summary": "VL vào Tu Ma Hải; Lý Mộ Uyển giúp VL kết đan thành công, thành đệ nhất cường giả dưới Nguyên Anh trong vùng. Tình cảm VL-Mộ Uyển nảy nở; VL chưa báo được thù họ Đằng nên dằn lòng. (Khung quyển từ volumes.json — chi tiết milestones bổ sung khi R1/R2 viết tới.)",
+    "summary": "VL vào Tu Ma Hải; Lý Mộ Uyển giúp VL kết đan thành công, thành đệ nhất cường giả dưới Nguyên Anh trong vùng. Tình cảm VL-Mộ Uyển nảy nở; VL chưa báo được thù họ Đằng nên dằn lòng.",
     "milestones": []
    },
    {
@@ -54151,7 +54151,7 @@ window.LIB_DATA["tien-nghich"]={
     "label": "Quyển 5",
     "range": "Ch.391 – 457",
     "title": "Tu Tinh Chi Tinh",
-    "summary": "Thiên Đạo lai lâm; mạch Chu Tước Tinh. Khu vực tinh không / tinh tinh. Quyển kết ở ch457 (朱雀星·终). (Khung quyển từ volumes.json — chi tiết milestones bổ sung khi R1/R2 viết tới.)",
+    "summary": "Thiên Đạo lai lâm; mạch Chu Tước Tinh. Khu vực tinh không / tinh tinh. Quyển kết ở ch457 (朱雀星·终).",
     "milestones": []
    },
    {
