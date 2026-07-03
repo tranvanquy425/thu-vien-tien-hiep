@@ -36,6 +36,9 @@
   }
 
   if (!bo) { view.innerHTML = '<div class="empty">Không tìm thấy bộ truyện. <a href="index.html">Về Tàng Thư Các</a></div>'; return; }
+  // (2026-07-03 V2-Steward 1moc-ghim) id nhân vật chính THẬT của bộ hiện hành (config.js) — CHỈ những id này
+  //   mới được badge "★ Nhân vật chính" + ghim đầu danh sách; rank A khác chỉ "Quan trọng".
+  const NHAN_VAT_CHINH = new Set(Array.isArray(bo.nhanVatChinh) ? bo.nhanVatChinh : []);
   $("#boSub").textContent = bo.ten + " · " + (bo.cn || "");
   $("#crumbBo").textContent = bo.ten;
   document.title = bo.ten + " · Thư Viện Tiên Hiệp";
@@ -111,6 +114,8 @@
     DB.quyenList = ((window.LIB_DATA || {})[slug] || {}).quyenList || [];
     // ƯU TIÊN HIỂN THỊ: thẻ quan trọng A→B→C→D lên trên (rank do build_datajs tự chấm). Ổn định trong cùng hạng.
     //   Lọc/tìm kiếm giữ thứ tự → A+B luôn ở trên, C+D ở dưới. KHÔNG ẩn thẻ nào.
+    // (2026-07-03 V2-Steward 1moc-ghim) NHÂN VẬT CHÍNH thật (bo.nhanVatChinh) GHIM ĐẦU danh sách nhân vật,
+    //   trước cả rank A khác. Chỉ áp cho DB.chars — artifacts/techniques/map/factions vẫn A→B→C→D như cũ.
     (function uuTienRank() {
       var thuTu = { A: 0, B: 1, C: 2, D: 3 };
       function sapRank(arr) {
@@ -122,7 +127,20 @@
             return ra !== rb ? ra - rb : a.i - b.i;
           }).map(function (o) { return o.x; });
       }
-      DB.chars = sapRank(DB.chars);
+      var nvcSet = new Set((bo && Array.isArray(bo.nhanVatChinh)) ? bo.nhanVatChinh : []);
+      function sapRankNhanVat(arr) {
+        if (!Array.isArray(arr)) return arr || [];
+        return arr.map(function (x, i) { return { x: x, i: i }; })
+          .sort(function (a, b) {
+            var ta = nvcSet.has(a.x && a.x.id) ? -1 : 0;
+            var tb = nvcSet.has(b.x && b.x.id) ? -1 : 0;
+            if (ta !== tb) return ta - tb;
+            var ra = thuTu[(a.x && a.x.rank)]; if (ra == null) ra = 2;
+            var rb = thuTu[(b.x && b.x.rank)]; if (rb == null) rb = 2;
+            return ra !== rb ? ra - rb : a.i - b.i;
+          }).map(function (o) { return o.x; });
+      }
+      DB.chars = sapRankNhanVat(DB.chars);
       DB.artifacts = sapRank(DB.artifacts);
       DB.techniques = sapRank(DB.techniques);
       DB.mapNodes = sapRank(DB.mapNodes);
@@ -285,9 +303,10 @@
       });
       $("#nvCount").textContent = items.length + " kết quả";
       $("#nvGrid").innerHTML = items.length ? items.map(c =>
-        // (2026-07-03 V2-Steward) badge hạng thẻ: rank A = "Nhân vật chính", rank B = "Quan trọng"; C/D không badge.
+        // (2026-07-03 V2-Steward 1moc-ghim) badge hạng thẻ: CHỈ nhân vật chính THẬT (bo.nhanVatChinh, đã ghim đầu
+        //   ở uuTienRank) mới được "★ Nhân vật chính"; rank A còn lại (không phải trục) = "Quan trọng"; rank B/C/D không badge.
         '<div class="card" data-id="' + c.id + '"><h3>' + esc(c.name) + (c.cn ? ' <span class="cn">' + esc(c.cn) + '</span>' : '') +
-          (c.rank === 'A' ? ' <span class="rank-badge rank-a">★ Nhân vật chính</span>' : c.rank === 'B' ? ' <span class="rank-badge rank-b">Quan trọng</span>' : '') + '</h3>' +
+          (NHAN_VAT_CHINH.has(c.id) ? ' <span class="rank-badge rank-a">★ Nhân vật chính</span>' : c.rank === 'A' ? ' <span class="rank-badge rank-b">Quan trọng</span>' : '') + '</h3>' +
         '<div class="meta-row">' +
           tlArr(c).map(x => '<span class="chip">' + esc(x) + '</span>').join('') +
           (c.canhGioiCaoNhat ? '<span class="chip gold">' + esc(c.canhGioiCaoNhat) + '</span>' : '') +
@@ -851,9 +870,9 @@
       const list = items.filter(it => (!q || (it.name + " " + (it.cn || "")).toLowerCase().includes(q)) && (!cat || getCat(it) === cat));
       $("#gCount").textContent = list.length + " mục";
       $("#gGrid").innerHTML = list.length ? list.map((it, i) =>
-        // (2026-07-03 V2-Steward) badge hạng thẻ: rank A = "Trọng yếu", rank B = "Quan trọng"; C/D không badge.
+        // (2026-07-03 V2-Steward 1moc-ghim) badge hạng thẻ: rank A = "★ Trọng yếu"; rank B/C/D không badge nữa.
         '<div class="card" data-i="' + items.indexOf(it) + '"><h3>' + esc(it.name) + (it.cn ? ' <span class="cn">' + esc(it.cn) + '</span>' : '') +
-          (it.rank === 'A' ? ' <span class="rank-badge rank-a">★ Trọng yếu</span>' : it.rank === 'B' ? ' <span class="rank-badge rank-b">Quan trọng</span>' : '') + '</h3>' +
+          (it.rank === 'A' ? ' <span class="rank-badge rank-a">★ Trọng yếu</span>' : '') + '</h3>' +
         '<div class="meta-row">' + (getCat(it) ? '<span class="chip gold">' + esc(getCat(it)) + '</span>' : '') +
         (it.phamCap ? '<span class="chip">' + esc(it.phamCap) + '</span>' : '') +
         (it.soHuu && it.soHuu.length ? '<span class="chip">' + esc(it.soHuu[0]) + (it.soHuu.length > 1 ? " +" + (it.soHuu.length - 1) : "") + '</span>' : '') +
