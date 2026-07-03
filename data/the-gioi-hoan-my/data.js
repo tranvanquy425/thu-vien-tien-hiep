@@ -7,7 +7,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
   "chars": [
    {
     "id": "chu-nhoc-than-thon",
-    "name": "Thạch Mãnh (cặp thach-manh/nhi-manh); Thạch Trung Hầu (cặp thach-trung-hau/bi-hau)",
+    "name": "Thạch Hạo",
     "cn": "",
     "aliases": [
      "Nhóc tỳ",
@@ -27,7 +27,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "canhGioiCaoNhat": "Phàm nhân (@c0001)",
     "trangThai": "song",
-    "blurb": "Mục 'chu-nhoc-than-thon' là nhân vật chính (Thạch Hạo, 3 tuổi rưỡi, mồ côi, nhấc đỉnh ngàn cân). Sửa name 'Thạch Mãnh'→'Thạch Hạo'; gỡ alias 'Nhị Mãnh'. Giữ aliases: ['Nhóc tỳ','Chú nhóc (chưa đặt tên)','Tiểu Hạo Hạo','Tiểu Thạch Hạo']. Thạch Mãnh/Nhị Mãnh là nhân vật RIÊNG (con thứ hai, 8 tuổi rưỡi, da ngăm, vật ngã trâu mộng) — thuộc slug thach-manh/nhi-manh, không gộp.",
+    "blurb": "Nhân vật chính — đứa trẻ mồ côi của Thạch Thôn, mất cha mẹ từ nửa tuổi, lớn lên nhờ sữa bách thú do lão tộc trưởng nuôi; từ nhỏ đã lộ sức mạnh kinh người, nhấc bổng khối đá cao hơn người mình.",
     "vaiTro": "Nhân vật chính tiềm năng — đứa trẻ mồ côi được lão tộc trưởng Thạch Thôn chăm sóc đặc biệt.",
     "tinhCach": [
      {
@@ -125,7 +125,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
    },
    {
     "id": "thach-van-phong",
-    "name": "Bì Hầu",
+    "name": "Thạch Vân Phong",
     "cn": "",
     "aliases": [
      "lão tộc trưởng",
@@ -134,8 +134,6 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "Tộc trưởng Thạch thôn",
      "Ông tộc trưởng",
      "tộc trưởng Thạch Thôn",
-     "Bì Hầu",
-     "Thạch Trung Hầu",
      "tộc trưởng",
      "Tộc trưởng Thạch Thôn"
     ],
@@ -148,7 +146,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "canhGioiCaoNhat": "Phàm nhân (@c0001)",
     "trangThai": "song",
-    "blurb": "Sửa name về \"Thạch Vân Phong\" (đúng với blurb+id+toàn bộ nội dung tộc trưởng); gỡ alias \"Bì Hầu\" và \"Thạch Trung Hầu\" khỏi mục này vì research xác định Thạch Trung Hầu (Bì Hầu) là bé trai tám chín tuổi khác, không phải tộc trưởng.",
+    "blurb": "Lão tộc trưởng đứng đầu Thạch Thôn, chủ trì việc cầu khấn Tế Linh và các quyết định lớn của thôn; nhân hậu, đích thân nấu sữa bách thú nuôi đứa trẻ mồ côi Thạch Hạo.",
     "vaiTro": "Lão tộc trưởng đứng đầu Thạch Thôn, chủ trì việc cầu khấn Tế Linh và quyết định lớn của thôn.",
     "tinhCach": [
      {
@@ -1603,7 +1601,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "canhGioiCaoNhat": "Phàm nhân (@c0001)",
     "trangThai": "song",
-    "blurb": "name→'Tiểu Thạch Hạo'; gỡ alias 'Tử Vân' và 'Tử Vân di cầm' (là 1 trong 3 chim non, thực thể riêng); giữ: Chú nhóc, Nhóc tỳ, Tiểu Thạch Hạo, Tiểu Hạo, Hạo Nhi, Tiểu Hạo Hạo, Đứa trẻ mồ côi Thạch Thôn, Chú nhóc Thạch Thôn.",
+    "blurb": "Chú nhóc mồ côi được khắc họa kỹ ở chương mở đầu — mất cha mẹ từ nhỏ, được lão tộc trưởng nuôi bằng sữa bách thú trộn dược thảo; hiếu động, dạn dĩ, ngã liên tục mà không khóc.",
     "vaiTro": "Nhân vật trung tâm được khắc họa kỹ ở chương mở đầu; mồ côi cha mẹ, được lão tộc trưởng nuôi bằng sữa bách thú trộn dược thảo.",
     "tinhCach": [
      {
