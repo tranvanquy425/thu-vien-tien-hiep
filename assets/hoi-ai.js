@@ -146,19 +146,29 @@
       return res.json();
     }
 
-    // poll kết quả tầng 1: mỗi 6s, tối đa 20 lần. Trả object khi 'xong', null khi 'loi'/hết lượt.
+    // poll kết quả tầng 1: mỗi ~6s, tối đa 25 lần (~150s — NotebookLM có khi 90s+). Trả object khi
+    // 'xong', null khi 'loi'/hết giờ.
+    // (2026-07-04 V2-Steward hoi-ai-fix3) MỖI NHỊP THỬ ĐỌC 3 LẦN: redirect 302 của /exec THỈNH
+    // THOẢNG nuốt query-param → doGet trả text mặc định / trang HTML thay vì JSON → res.json() ném
+    // lỗi. KHÔNG retry thì cả nhịp coi như hỏng → dễ bỏ lỡ câu trả lời NotebookLM ĐÃ SẴN SÀNG rồi
+    // rơi xuống tầng 2 (vilao) trả lời kém hơn ("thư viện đang cập nhật"). Đây chính là lỗi web hiện
+    // câu tầng-2 dù NotebookLM đã trả lời đầy đủ.
     async function pollTraLoi(id) {
-      for (let i = 0; i < 20; i++) {
+      for (let i = 0; i < 25; i++) {
         await sleep(6000);
-        try {
-          const res = await fetch(EP + "?act=traloi&id=" + encodeURIComponent(id));
-          const r = await res.json();
-          if (r && r.trangThai === "xong") return r;
-          if (r && r.trangThai === "loi") return null;   // tầng 1 lỗi → fallback ngay
-          setStatus("Đang tra sổ tay AI (30–90 giây)… " + (i + 1) * 6 + "s");
-        } catch (e) { /* mạng chập 1 nhịp → thử lần sau */ }
+        let r = null;
+        for (let lan = 0; lan < 3; lan++) {
+          try {
+            const res = await fetch(EP + "?act=traloi&id=" + encodeURIComponent(id));
+            r = await res.json();
+            break;                                  // đọc được JSON → thoát vòng thử-lại
+          } catch (e) { r = null; await sleep(800); } // blip (HTML/redirect) → thử lại nhanh
+        }
+        if (r && r.trangThai === "xong") return r;
+        if (r && r.trangThai === "loi") return null;   // tầng 1 lỗi thật → fallback ngay
+        setStatus("Đang tra sổ tay AI (30–90 giây)… " + (i + 1) * 6 + "s");
       }
-      return null; // quá 120s → fallback tầng 2
+      return null; // quá ~150s → fallback tầng 2
     }
 
     form.addEventListener("submit", async e => {
