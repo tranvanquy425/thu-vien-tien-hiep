@@ -466,8 +466,13 @@
       });
       return arr;
     }
-    const ownArts = (DB.artifacts || []).filter(a => (a.soHuu || []).includes(c.id));
-    const ownTechs = (DB.techniques || []).filter(a => (a.soHuu || []).includes(c.id));
+    // (2026-07-04 V2-Steward fix túi-đồ-rỗng TGHM): engine ghi soHuu bằng TÊN ("Thạch Hạo"/"Nhóc tỳ") trong khi
+    // đây so theo ID → không khớp → túi đồ trống. Nay nhận cả id + name + aliases (so bỏ-dấu, không hoa-thường).
+    const _tdChuan = s => String(s || "").normalize("NFD").replace(new RegExp("[\\u0300-\\u036f]", "g"), "").toLowerCase().replace(/\s+/g, " ").trim();
+    const _tdTenTa = new Set([c.id, c.name].concat(c.aliases || []).map(_tdChuan).filter(Boolean));
+    const _laCuaTa = a => (a.soHuu || []).some(s => _tdTenTa.has(_tdChuan(s)));
+    const ownArts = (DB.artifacts || []).filter(_laCuaTa);
+    const ownTechs = (DB.techniques || []).filter(_laCuaTa);
     const TD_CATS = [["phapBao", "Pháp bảo"], ["congPhap", "Công pháp"], ["danDuoc", "Đan dược"], ["linhThu", "Linh thú"], ["nguyenLieu", "Nguyên liệu"], ["linhThao", "Linh thảo"], ["khac", "Khác"]];
     let bagItems = [];
     TD_CATS.forEach(p => {
