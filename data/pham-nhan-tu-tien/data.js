@@ -1,4 +1,4 @@
-/* sync-bump 2026-06-27T18:24:54.782Z build_datajs */
+/* sync-bump 2026-07-05T02:43:02.433Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["pham-nhan-tu-tien"]={
  "realms": {
@@ -213,8 +213,8 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
   "doiChieu": []
  },
  "characters": {
-  "updatedAt": "2026-06-11",
-  "count": 90,
+  "updatedAt": "2026-07-04",
+  "count": 166,
   "chars": [
    {
     "id": "han-lap",
@@ -232,91 +232,42 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      {
       "ten": "Hoàng Phong Cốc",
       "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Hoàng Phong cốc",
+      "trangThai": "gan-bo"
      }
     ],
-    "canhGioiCaoNhat": "Luyện Khí kỳ — Trường Xuân công tầng 11",
+    "canhGioiCaoNhat": "Trúc Cơ kỳ (@c0237)",
     "trangThai": "song",
-    "blurb": "Nhân vật chính. Xuất thân nông dân nghèo, trí tuệ vượt trội, tính cẩn thận và ẩn nhẫn. Vào Thất Huyền môn nhờ tam thúc tiến cử, được Mặc đại phu thu làm thân truyền đệ tử vì thể chất kỳ dị. Sở hữu bình thần bí — vật bí ẩn hút linh khí và sinh ra Thần Bí Dịch có khả năng thôi sanh dược thảo. Thông thạo y thuật ngân châm, từng dùng Trừu Tủy Hoàn chia nhỏ làm dược dẫn. Tự phối chế các thánh dược hiếm có nhờ Thần Bí Dịch. Thực chất đang tu Trường Xuân công — tên thật của vô danh khẩu quyết Mặc đại phu truyền. Hiện là đệ tử cấp thấp Hoàng Phong Cốc phụ trách Bách Dược Viên; đã bí mật chôn bình thần bí trong dược viên và ngụy trang bằng Tàn Phiến, đang mưu kế tìm chủ dược để tự luyện Trúc Cơ đan.",
-    "vaiTro": "Nhân vật chính",
-    "tinhCach": [
-     {
-      "text": "Thành thật, nhẫn nhịn, không tranh chấp — lời dặn của cha từ nhỏ",
-      "chuong": 1
-     },
-     {
-      "text": "Tinh ranh, kín đáo, hay quan sát và đánh giá người xung quanh",
-      "chuong": 3
-     },
-     {
-      "text": "Kiên trì cực độ, dốc hết sức dù cơ thể đã kiệt lực",
-      "chuong": 4
-     },
-     {
-      "text": "Trọng tình nghĩa, nhớ nhà, thương tiểu muội",
-      "chuong": 6
-     },
-     {
-      "text": "Cẩn thận đề phòng, nhạy bén với những điều bất thường",
-      "chuong": 9
-     },
-     {
-      "text": "Giữ bí mật tuyệt đối — bản năng mách bảo không tiết lộ cái bình cho bất kỳ ai, kể cả người thân",
-      "chuong": 12
-     },
-     {
-      "text": "Sau nhiều năm khổ tu, tâm ý chín chắn già dặn hơn tuổi, không còn nhiệt huyết bốc đồng của thuở trẻ",
-      "chuong": 16
-     },
-     {
-      "text": "Trải qua lần bị kề đao vào cổ, từ bỏ phần bản tính thuần phác: 'không có lợi không làm', thực dụng và đề phòng hơn",
-      "chuong": 21
-     },
-     {
-      "text": "Chủ động vun đắp nợ nhân tình với Lệ Phi Vũ như 'quân cờ' dài hạn — tính toán sâu xa nhưng không phải kẻ ác",
-      "chuong": 22
-     },
-     {
-      "text": "Bị ép vào cục diện tuyệt vọng vẫn không phó thác mạng vào tay người khác, chủ động gia tăng thực lực và tự nắm vận mệnh",
-      "chuong": 32
-     },
-     {
-      "text": "Giữ bí mật tuyệt đối trước mọi người — kể cả với hảo hữu Lệ Phi Vũ, chỉ thổ lộ điều cần thiết tối thiểu để sinh tồn",
-      "chuong": 39
-     },
-     {
-      "text": "Lạnh lùng, quyết đoán, sẵn sàng ra lệnh giết sạch khi cần — không do dự khi phải hy sinh người khác để tự bảo toàn",
-      "chuong": 78
-     },
-     {
-      "text": "Thực dụng tới mức tàn nhẫn: nhân lúc hỗn loạn để mưu tính con đường thoát thân, coi sự hỗn loạn là cơ hội",
-      "chuong": 79
-     },
-     {
-      "text": "Nhẫn nhịn trước trưởng bối ép buộc: ngoài mặt tươi cười khiêm nhường, trong lòng thống hận, quyết tâm đợi cơ hội thu hồi cả vốn lẫn lời",
-      "chuong": 150
-     }
-    ],
+    "blurb": "Nhân vật chính của bộ truyện, xuất thân nông dân nghèo Sơn Biên thôn, được tam thúc tiến cử dự khảo thí Thất Huyền môn từ năm mười tuổi. Nhờ thể chất kỳ dị mà thành thân truyền đệ tử Mặc đại phu và sở hữu bình thần bí có khả năng thôi sanh dược thảo, hắn ẩn nhẫn tu luyện Trường Xuân công, thắng cuộc đoạt xá của sư phụ và trở thành bán tu tiên giả. Tính tới chương mới nhất trong hồ sơ, Hàn Lập đã chính thức nhập môn Hoàng Phong Cốc, đạt Luyện Khí tầng 11, đoạt được Trúc Cơ đan và bước vào Huyết Cấm Thí Luyện trong cấm địa để tìm chủ dược tự luyện Trúc Cơ.",
+    "vaiTro": "Nhân vật chính — thiếu niên nông dân có thể chất kỳ dị tu tiên",
+    "tinhCach": "Cẩn thận, ẩn nhẫn giấu thực lực; trí tuệ và mưu kế sâu; tàn nhẫn dứt khoát với kẻ địch; giàu tình cảm với gia đình và ân nhân",
     "tabs": {
      "diem": [
       {
-       "text": "Con thứ tư trong gia đình nông dân bảy miệng ăn, 10 tuổi khi rời nhà",
-       "chuong": 1
+       "text": "Được Mặc đại phu thu làm thân truyền đệ tử nhờ thể chất kỳ dị phát hiện tại khảo hạch",
+       "chuong": "@c0006"
       },
       {
-       "text": "Bị cả làng gọi hỗn danh \"Anh ngố\" dù thực ra thông minh nhất làng",
-       "chuong": 1
+       "text": "Nhặt được bình thần bí — vật bí ẩn hút linh khí sinh Thần Bí Dịch có khả năng thôi sanh dược thảo",
+       "chuong": "@c0010"
       },
       {
-       "text": "Tay lạnh như băng — Mặc đại phu nhận xét không giống tay người sống",
-       "chuong": 8
+       "text": "Thắng cuộc đoạt xá của Mặc đại phu, nguyên thần hiện dưới dạng quang cầu xanh biếc nuốt gọn quang cầu của lão",
+       "chuong": "@c0057"
       },
       {
-       "text": "Thể nội sinh ra lương khí (chân khí lạnh) khi tu Vô danh khẩu quyết — khác hẳn nhiệt lưu chân khí của đồng môn",
-       "chuong": 7
+       "text": "Luyện thành pháp thuật đầu tiên, trở thành bán tu tiên giả sau khi đạt đỉnh phong tầng sáu Trường Xuân công",
+       "chuong": "@c0067"
       },
       {
-       "text": "Thông thạo y thuật ngân châm, am hiểu sâu về dược lý — học qua y tịch của Mặc đại phu",
-       "chuong": 20
+       "text": "Chính thức nhập môn Hoàng Phong Cốc dù bị xác định tứ thuộc tính ngụy linh căn, xác suất Trúc Cơ chỉ khoảng một phần trăm",
+       "chuong": "@c0147"
+      },
+      {
+       "text": "Hạ Lục sư huynh đoạt Trúc Cơ đan rồi quyết tham gia Huyết Cấm Thí Luyện, tiến vào cấm địa phía sau Hoàng Phong Cốc",
+       "chuong": "@c0179"
       }
      ],
      "kinhLich": [
@@ -572,9 +523,9 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "text": "Để lại thuốc kéo dài tuổi thọ cho Lệ Phi Vũ và đan dược cho Vương Tuyệt Sở; ghi thư từ biệt. Cùng Khúc Hồn ngồi xe ngựa rời Thất Huyền môn hướng đông."
       },
       {
-       "chuong": 103,
-       "importance": "minor",
-       "text": "Tới Gia Nguyên Thành — cố hương Mặc đại phu. Bị đám đầu mục bến đò phục kích; dùng thân pháp giết Hắc Hùng, ép Tôn nhị cẩu nuốt độc khống chế làm thủ hạ tai mắt."
+       "text": "Tới Gia Nguyên Thành — cố hương Mặc đại phu. Bị đám đầu mục bến đò phục kích; dùng thân pháp giết Hắc Hùng, ép Tôn nhị cẩu nuốt độc khống chế làm thủ hạ tai mắt.",
+       "bridge": true,
+       "khoang": 103
       },
       {
        "bridge": true,
@@ -604,9 +555,9 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "text": "Đề nghị nhị tuyển nhất với Nghiêm thị; dùng Tiêu Hồn Tán diệt Trầm Trọng Sơn và cả nhóm Tứ bình bang cũ; cài Tôn nhị cẩu làm bang chủ bù nhìn."
       },
       {
-       "chuong": 123,
-       "importance": "minor",
-       "text": "Từ chối lấy bất kỳ tiểu thư Mặc phủ; đặt điều kiện chỉ giết Âu Dương Phi Thiên đổi lấy Noãn Dương Bảo Ngọc; buộc phu nhân nuốt thuốc làm con tin."
+       "text": "Từ chối lấy bất kỳ tiểu thư Mặc phủ; đặt điều kiện chỉ giết Âu Dương Phi Thiên đổi lấy Noãn Dương Bảo Ngọc; buộc phu nhân nuốt thuốc làm con tin.",
+       "bridge": true,
+       "khoang": 123
       },
       {
        "chuong": 126,
@@ -625,9 +576,9 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "text": "Bị Thanh Nhan chân nhân nghi ngờ tâm thuật bất chánh; từ chối nhóm Tùng Văn đạo sĩ; đổi Hoàng Long Đan lấy Phi hành phù, Không bạch phù chỉ và quyển chú thư; gặp nhóm tán tu gồm Ngô Cửu Chỉ và Hoàng Hiếu Thiên."
       },
       {
-       "chuong": 136,
-       "importance": "minor",
-       "text": "Hỏi Khổ Tang về cách chế linh phù; nhận ra huynh muội Yến gia (đệ nhất gia tộc có Kết Đan kỳ) đến dự; muốn mua Trường Xuân công tầng cao."
+       "text": "Hỏi Khổ Tang về cách chế linh phù; nhận ra huynh muội Yến gia (đệ nhất gia tộc có Kết Đan kỳ) đến dự; muốn mua Trường Xuân công tầng cao.",
+       "bridge": true,
+       "khoang": 136
       },
       {
        "chuong": 137,
@@ -681,7 +632,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       },
       {
        "chuong": 160,
-       "importance": "major",
+       "importance": "normal",
        "tieuDe": "Biết Huyết Cấm Thí Luyện — tiến thoái lưỡng nan",
        "text": "Ngô Phong tiết lộ chủ dược Trúc Cơ đan chỉ còn trong cấm địa phía sau Hoàng Phong Cốc — bị cổ cấm phong bế, chỉ Luyện Khí kỳ vào được, tỉ lệ sống sót dưới một phần tư. Sự kiện gọi là Huyết Cấm Thí Luyện, nửa năm nữa sẽ diễn ra. Hàn Lập mấy ngày liên tục cân nhắc: không tham gia thì Trúc Cơ vô vọng; tham gia thì 3/4 cơ hội chết. Đây là nút thắt quyết định toàn bộ hướng đi tiếp theo."
       },
@@ -697,9 +648,9 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "text": "Ra phường thị Hoàng Phong Cốc mua vật phẩm; tại Vạn Bảo Lâu dùng 2 gốc linh thảo ngàn năm đổi toàn bộ hộp gấm: Kim phù tử mẫu đao, Huyền thiết phi thiên thuẫn, Thiên lôi tử, Kim Quang Chuyên phù bảo, Hoàng tinh chi."
       },
       {
-       "chuong": 165,
-       "importance": "minor",
-       "text": "Rời Vạn Bảo Lâu, tình cờ phát hiện Lục sư huynh cưỡng bức Trần sư muội bằng Hợp Hoan Hoàn; trong túi Trần sư muội lộ hộp gỗ đỏ chứa 2 viên Trúc Cơ đan thật — mục tiêu hắn đang cần."
+       "text": "Rời Vạn Bảo Lâu, tình cờ phát hiện Lục sư huynh cưỡng bức Trần sư muội bằng Hợp Hoan Hoàn; trong túi Trần sư muội lộ hộp gỗ đỏ chứa 2 viên Trúc Cơ đan thật — mục tiêu hắn đang cần.",
+       "bridge": true,
+       "khoang": 165
       },
       {
        "bridge": true,
@@ -708,7 +659,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       },
       {
        "chuong": 169,
-       "importance": "major",
+       "importance": "normal",
        "tieuDe": "Hạ Lục sư huynh — đoạt Trúc Cơ đan",
        "text": "Tiêu hao pháp lực kéo dài: Hàn Lập bí mật nhai linh thảo duy trì ưu thế, chủ động bỏ lớp bảo hộ dồn lực điều cự kiếm chém đỉnh đầu Lục sư huynh đồng thời thi triển La Yên bộ tới cực hạn né đao phong. Lục sư huynh bị chém làm đôi. Thu Thanh Giao Kỳ và bình xanh chứa 2 viên Trúc Cơ đan thật từ túi trữ vật địch. Kim Quang Chuyên phù bảo hóa tro sau trận — hết tuổi thọ."
       },
@@ -744,6 +695,380 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "importance": "normal",
        "tieuDe": "Khởi bộ trong cấm địa — hiểu quy tắc sinh tử",
        "text": "Tỉnh dậy tại vùng đất xám bùn lầy cây cối quái dị, định vị được gần Ô Long đàm phía Đông Bắc. Thi triển Ẩn hình thuật, cảnh giác đi bộ tìm Hàn yên thảo. Chứng kiến hai đệ tử Linh Thú Sơn lập mưu dụ-giết đệ tử Thiên Khuyết bảo — bước đầu hiểu rõ quy tắc sinh tử trong cấm địa."
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0181",
+       "tieuDe": "Ẩn thân trong Huyết sắc thí luyện, phát hiện xác sư huynh",
+       "text": "Vận Liễm khí thuật đến cực hạn để giấu khí tức, Hàn Lập không liều một-đánh-hai mà trơ mắt nhìn hai đệ tử Linh thú sơn cướp Hàn yên thảo, đốt xác và thu Hàn băng thiềm rồi rời đi; sau dao động tâm lý muốn thối lui nhưng lý trí thắng thế, hắn tiếp tục tiến vào trung tâm cấm địa; chọn đi vòng tránh thủ pháp khu thú, vô tình thoát lưới bươm bướm cảnh giới nhờ từng dừng ở Ô long đàm; cuối cùng tới vách núi cổ quái, phát hiện hai thi thể đồng quy vu tận và nhận ra một người là sư huynh Hoàng Phong cốc.",
+       "anchor": "Cái loại ý niệm ngu ngốc “một đánh hai”, Hàn Lập chưa bao giờ nghĩ tới"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0182",
+       "tieuDe": "Phát hiện người thứ tư, thu ti tuyến, sa vào ngã đường",
+       "text": "Lục soát hai thi thể thấy túi trữ vật đã bị lấy đi, Hàn Lập nhận ra còn tồn tại người thứ tư có thể đang nấp gần; hắn dùng thần niệm dò tìm để đả thảo kinh xà rồi vọt đi biến mất; thu được sợi ti tuyến trong suốt, rót pháp lực khiến nó duỗi dài hơn mười trượng, ẩn hình và sắc bén, cắt đôi mười cây đại thụ dễ dàng; cuối cùng tại một ngã đường bị một gã Cự Kiếm môn và một gã Thiên Khuyết Bảo chặn trước sau.",
+       "anchor": "Nơi này còn có người thứ tư tồn tại, chính là người đã lấy đi túi trữ vật!"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0183",
+       "tieuDe": "Bị phục kích một địch hai tại Nhất tuyến thiên",
+       "text": "Trong cấm địa, Hàn Lập bị hai tu sĩ chặn cả trước lẫn sau tại vị trí hiểm ác Nhất tuyến thiên — gã râu quai nón (tầng mười ba) và đệ tử Thiên khuyết bảo (đỉnh tầng mười hai) đều vượt xa tu vi tầng mười một của hắn; đây là kình địch mạnh nhất từ khi bước vào tu tiên giới. Hắn tung thủy tráo, phóng Phi thiên thuẫn, cầm Kim phù tử mẫu nhận và phù Thổ lao thuật, di chuyển tạo thế ba góc để khỏi thụ địch hai đầu; nhân lúc đệ tử Thiên khuyết bảo lơ đãng nhìn trời, bất ngờ ném Thổ lao thuật giam gã râu quai nón trong lớp vỏ vàng.",
+       "anchor": "lại bị người khác phục kích, mà lại gặp phải tình huống ác liệt nhất, lấy một địch hai"
+      },
+      {
+       "text": "Hàn Lập dùng Thổ lao thuật vây khốn tên râu quai nón Linh thú sơn, cách không dùng ti tuyến trong suốt chém đầu người Thiên khuyết bảo (Nghiêm huynh đệ); khởi động Kim quang chuyên (bị hút ba phần pháp lực) đè chết tên râu quai nón tầng mười ba thành đám bùn; sau đó hủy thi thể, thu túi trữ vật, rời Nhất tuyến thiên tới rừng rậm nghỉ khôi phục pháp lực.",
+       "anchor": "Mà tên râu quai nón cùng linh thú của hắn sớm đã thành đám bùn, không còn phân biệt được đâu là đâu",
+       "bridge": true,
+       "khoang": "@c0184"
+      },
+      {
+       "text": "Ngồi dưới một cây đại thụ rậm rạp ngoài rìa khu rừng khôi phục nguyên khí và pháp lực khi cả cấm địa bước vào đợt cao trào giết chóc đầu tiên; được xem là ngoại lệ vì dựa dị bảo mới dám va chạm cao thủ; vừa mừng thầm pháp lực khôi phục thì nghe tiếng bước chân dồn dập chạy về phía cây đại thụ hắn đang ngồi.",
+       "anchor": "tìm được rồi một cây đại thụ rậm rạp, bắt đầu khôi phục nguyên khí",
+       "bridge": true,
+       "khoang": "@c0185"
+      },
+      {
+       "text": "Hàn Lập dùng thượng phẩm pháp khí Thanh Tác trói nữ tử áo trắng Yểm nguyệt tông cùng vòng bảo hộ thành một cái kén, chuẩn bị dùng phù bảo Kim quang chuyên kết liễu; đúng lúc đó cuồng nhân Phong Nhạc của Thiên Khuyết Bảo từ rừng bắn hoàng quang giết chết nữ tử áo trắng, cướp túi trữ vật; ngân câu của Hàn Lập bị dịch thể ăn mòn hư hỏng, hắn giữ bình tĩnh, phóng hỏa cầu ngăn Phong Nhạc thu pháp khí rồi mỉm cười tuyên chiến muốn Phong Nhạc chết.",
+       "anchor": "đem nữ tử áo trắng nọ trói chặt lại, tạm thời bao cả cái vòng bảo hộ nọ lại thành một cái kén",
+       "bridge": true,
+       "khoang": "@c0187"
+      },
+      {
+       "text": "Bị Phong Nhạc thúc tiểu đao hoàng mang bắn thẳng vào đầu, Hàn Lập khoát tay đưa Phi thiên thuẫn màu đen biến lớn ra chặn, giữ hoàng mang bên ngoài khoảng hai trượng; nhận ra khuyết điểm Kim quang chuyên uy lực lớn nhưng hao pháp thuật, chậm chạp, chỉ hữu dụng khi vây khốn địch; mặc kệ để nữ tử áo vàng phản bội tự sinh tự diệt; cuối cùng nghi Phong Nhạc cũng là người mang võ công giang hồ như mình.",
+       "anchor": "hoàng mang nhất thời bị chặn lại, không thể phá thuẫn mà vào",
+       "bridge": true,
+       "khoang": "@c0188"
+      },
+      {
+       "text": "Trong cấm địa, Hàn Lập đấu với Phong Nhạc: lần lượt tung Kim Quang Chuyên, Kim phù tử mẫu nhận, Phi Thiên Thuẫn đỡ đao phong; bày nghi binh Hỗn Nguyên Châu và Thanh Giao kỳ để rối mắt, rồi giấu Thiên Lôi Tử màu lam trong đám châu khiến Phong Nhạc bùng nổ sáng trắng hóa thành cát bụi; sau đó cười khổ vì mới hai ngày đã dốc gần hết pháp bảo, rồi kinh ngạc trước cảnh phía đối diện.",
+       "anchor": "toàn bộ pháp bảo của hắn đã phải xuất ra hết, ngay cả đòn sát thủ cuối cùng cũng phải dùng đến",
+       "bridge": true,
+       "khoang": "@c0189"
+      },
+      {
+       "text": "Sau đại chiến, Hàn Lập hủy thi diệt tích Phong Nhạc bằng Hỏa đạn thuật thì phát hiện đôi giày đen không cháy, nhặt lên xác định là pháp khí chế từ da yêu thú; mang vào bước một bước liền phiêu ra ngoài một trượng, kết hợp La Yên bộ và Ngự Phong quyết hóa gió chém đứt cây cối hơn mười trượng mà không lộ thân hình; sau đó kiểm kê thu-chi, mai táng sơ nữ tử áo vàng rồi lóe mình hướng khu trung tâm.",
+       "anchor": "Đây đích thật là một kiện pháp khí!",
+       "bridge": true,
+       "khoang": "@c0190"
+      },
+      {
+       "text": "Hàn Lập đối mặt Chung Ngô của Linh thú sơn khi bị dò vấn về Đạp vân ngoa; thản nhiên thừa nhận đã giết Phong Nhạc để lập uy răn đe; bí mật mang ti tuyến vào ngón vô danh dự phòng nhưng tự đánh giá tỉ lệ ám sát thấp do khoảng cách xa; cuối cùng đồng ý trao đổi ngọc giản thông tin khu trung tâm nhưng cố ý giấu chỗ quan trọng, giữ đề phòng.",
+       "anchor": "Phong Nhạc kia đã sớm chết, đôi giày này được lấy từ chân của hắn!",
+       "bridge": true,
+       "khoang": "@c0193"
+      },
+      {
+       "text": "Hàn Lập nắm được khu trung tâm chia ba tầng như vỏ-thịt-hạt của quả (hoa viên / sơn mạch sương mù / bảo tháp), xác định mục tiêu là ba vị chủ dược Trúc Cơ đan ở tầng hai; chạy thẳng tới khu trung tâm không nghỉ, nhìn thấy tòa bảo tháp gần 100 trượng ở tầng ba; sau đó rời khỏi sự dây dưa của Chung Ngô, tìm hốc cây cũ tạo vòng phòng hộ, ngủ đến rạng sáng hôm sau để khôi phục trạng thái chờ khu trừ sương mù.",
+       "anchor": "Cả khu vực chia thành ba tầng, giống như là vỏ, thịt và hạt của quả vậy",
+       "bridge": true,
+       "khoang": "@c0194"
+      },
+      {
+       "text": "Hàn Lập khôi phục pháp lực đến đỉnh điểm trong hốc cây; kiểm kê năm túi trữ vật thu từ hai đại hán râu quai nón chỉ có 23 món pháp khí (không có đỉnh cấp); nhận thức lại về sự hiếm hoi của đỉnh cấp pháp khí; chọn ba kiện thượng phẩm đắc dụng (phi đao, kim bạt, bình ngọc phun độc vụ); rồi tiến đến lối vào thông đạo và chứng kiến uy lực Nguyệt dương bảo châu phá sương mù dày đặc — lần đầu thấy uy lực chân chính của pháp bảo cao cấp.",
+       "anchor": "Đây là lần đầu tiên hắn nhìn thấy uy lực chân chính của pháp bảo cao cấp!",
+       "bridge": true,
+       "khoang": "@c0195"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0196",
+       "tieuDe": "Kế hoạch hái cây con linh dược",
+       "text": "Hàn Lập chạy tới sơn động bí mật sản sinh Tử Hầu hoa, nhắm vào cây con mà người khác coi vô dụng, dự tính dùng cái bình nhỏ thần bí ban đêm nuôi dưỡng cho chúng trưởng thành để làm Trúc Cơ đan, tránh xung đột với đệ tử phái khác.; Hàn Lập chờ mấy đệ tử khác đi trước rồi chọn hướng chưa ai đi mà lặng lẽ vào cấm địa núi lửa; gặp Thôi Sơn thú chặn đường, hắn dịch chuyển ra sau lưng yêu thú dùng ti tuyến chẻ đôi nó; sau đó đụng bốn con yêu thú, trán…",
+       "anchor": "có thể dùng cái bình nhỏ thần bí ban đêm tiến hành nuôi dưỡng"
+      },
+      {
+       "text": "Hàn Lập tìm đến bí động chứa Tử Hầu hoa, cẩn thận thăm dò rồi vào sâu; phát hiện linh dược có con rết yêu thú bậc trung canh giữ. Không muốn tiêu hao pháp lực, hắn bố trí cạm bẫy lưỡi dao trong thông đạo, nghênh ngang khiêu khích dụ con rết đuổi theo, khiến bụng nó bị xẻ banh rồi xuất kim quang cùng phi đao xanh cắt xúc tu phản kích.",
+       "anchor": "bụng – bộ phận yếu nhất của con rết bị lưỡi dao cực kỳ sắc bén bất tri bất giác đột nhiên xẻ ra",
+       "bridge": true,
+       "khoang": "@c0197"
+      },
+      {
+       "text": "Dùng mưu kế kim nhận cắm ngược ngụy trang bùn đen, khiến con rết yêu thú đuổi theo bị đâm banh bụng chết oan uổng; thu hoạch trọn Tử Hầu hoa xanh trong sảnh đá, khoét cả hoa lẫn đá tím vào hộp ngọc bích; dùng tám kim nhận cắt vài khối vỏ lưng con rết làm vật liệu chế nội giáp có thể ngăn một kích toàn lực của pháp khí đỉnh cấp.",
+       "anchor": "trong lúc hồ đồ liền bị Hàn Lập ám toán, cái chết thực sự là cực kỳ oan uổng",
+       "bridge": true,
+       "khoang": "@c0198"
+      },
+      {
+       "text": "Lợi dụng lúc các phái còn khắc chế nhau, chạy khắp cấm địa hái linh dược, vòng qua yêu thú trung cấp; bốn chỗ sau sơn động đầu không có yêu thú bảo hộ nên hái dễ dàng, khiến hắn hoan hỉ phát cuồng; ven đường nhẹ tay hạ hai con Thiết tí viên hạ cấp; tiến đến thạch điện gần đỉnh núi thì nghe tiếng đánh nhau, tái ngộ cô gái áo lục bán Kim Trúc bút đang bị hán tử Cự Kiếm môn áp bức.",
+       "anchor": "điều này làm cho Hàn Lập hoan hỉ phát cuồng!",
+       "bridge": true,
+       "khoang": "@c0200"
+      },
+      {
+       "chuong": "@c0201",
+       "importance": "major",
+       "tieuDe": "Cứu cô gái áo lục, khai chiến Vũ Si",
+       "text": "Nấp sau tảng đá, phóng kim nhận ngăn ngân kiếm cách đầu cô gái áo lục một trượng rồi lộ diện, đi ngược nguyên tắc bản thân vì hảo cảm mà cứu; nhận ra hai người là ân nhân cũ, đề nghị hòa bình bất thành; hiểu ra đại hán chân trần chính là “Vũ Si” trong tu chân giới, rồi rung mẫu nhận thả bảy tử nhận hóa bảy kim mang đón cự kiếm, không dùng phòng ngự phù lục mà dựa vào thân pháp biến ảo.",
+       "anchor": "Đúng là bởi vì Hàn Lập lo lắng cho tính mạng của cô gái, mà không khỏi phải ra tay, cứu cô gái áo lục"
+      },
+      {
+       "text": "Điều khiển bảy kim nhận đấu ngân kiếm của đại hán chân trần nhưng thất thế, mất hai thượng phẩm pháp khí và một kim nhận; dùng Thanh Ngưng kính chiếu ánh sáng xanh vây khốn ngân kiếm, bị đại hán tố giết Yểm Nguyệt song kiều; khởi sát tâm, tiến vào trong mười trượng dùng ti tuyến chém đầu đại hán chết ngay, rồi bị cô gái áo lục phát hiện.",
+       "anchor": "trên cổ xuất hiện một lằn máu đỏ, sau đó đầu rời khỏi cổ lăn về phía trước, thực sự là đã chết rồi",
+       "bridge": true,
+       "khoang": "@c0202"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0203",
+       "tieuDe": "Xóa trí nhớ Hạm Vân Chi bằng Vô ưu châm pháp",
+       "text": "Sau khi giết gã Cự kiếm môn và thu túi trữ vật, đốt thi thể, Hàn Lập trò chuyện với cô gái áo lục được hắn cứu, biết nàng tên Hạm Vân Chi; hắn đề nghị vào thạch ốc lấy linh dược, nhân lúc nàng xoay người liền vọt tới đánh hôn mê rồi ôm nàng tới một sơn động gần đó; để bảo vệ bí mật, hắn dùng bộ Vô ưu châm pháp học từ di vật Mặc đại phu kết hợp Vong Trần hoàn tự chế xóa trí nhớ nửa ngày của nàng, nàng tỉnh dậy mờ mịt rồi chạy xuống núi.; Ngày thứ…",
+       "anchor": "nếu không có bộ Vô ưu châm pháp này, có thể xóa đi trí nhớ của người ta trong một khoảng thời gian"
+      },
+      {
+       "chuong": "@c0204",
+       "importance": "normal",
+       "tieuDe": "Thạch điện cấm chế và thế giới đầm lầy",
+       "text": "Hàn Lập đến thạch điện cổ quái trong cấm địa, ném kim nhận thử cấm chế thì bị bắn xa; sắc mặt đại biến vì cảm ứng có người tới, bị buộc chớp thân vào điện; không chỗ ẩn trong đại sảnh nên cắn răng chui vào địa đạo dưới lan can, phát hiện thế giới đầm lầy có hộp vàng bảo vật và linh dược; bỏ ý định lấy bảo vật, thi triển Nặc hình thuật toàn lực ẩn thân khi đám Yểm Nguyệt tông kéo đến.",
+       "anchor": "Nặc hình thuật toàn lực thi triển ra, tiếp theo ép sát vào sau đống đất không nhúc nhích"
+      },
+      {
+       "text": "Nấp sau đống đất quan chiến, nghe các nữ đệ tử Yểm Nguyệt tông xưng hô “sư tổ”, Hàn Lập cả kinh khi hiểu người này tầm cỡ Kết đan kỳ như Lý sư tổ bổn môn; chứng kiến cô gái khu sử pháp bảo Chu tước hoàn giam yêu thú Mặc Giao, hắn quyết chờ đại chiến kết thúc mới lặng lẽ trục lợi rời đi.",
+       "anchor": "đây là khái niệm gì? Hàn Lập cũng không phải là kẻ mới bứoc vào tu tiên giới",
+       "bridge": true,
+       "khoang": "@c0205"
+      },
+      {
+       "text": "Ẩn nấp xem Yểm Nguyệt tông vây đánh Mặc Giao, nhưng khi thông đạo bị phong bế hắn cũng không thoát ra được nên buộc phải ra tay cứu Nam Cung sư tổ lúc nàng kiệt sức; điều khiển bảy thanh kim nhận và Phi thiên thuẫn cản độc, rồi thành thật nói sợ nàng giết người đoạt bảo nên thỏa thuận liên thủ; cuối cùng lấy ra Kim quang chuyên phù bảo khoanh chân chuẩn bị đối phó Mặc Giao đã tiến hóa bậc hai.",
+       "anchor": "Ta sợ ngươi giết người đoạt bảo!",
+       "bridge": true,
+       "khoang": "@c0206"
+      },
+      {
+       "text": "Hàn Lập khu sử kim quang chuyên phù bảo cho nó hấp thu một phần ba pháp lực, hóa lớn như núi nhỏ đập nát nửa đầu Mặc Giao; hợp lực với cô gái Kết đan kỳ giết chết yêu thú và nhận thi thể làm chiến lợi phẩm; dùng ngân kiếm (cự kiếm bạc lấy từ đại hán chân trần) chém phá được phòng ngự thân Mặc Giao ba tấc; sau đó moi từ bụng yêu thú ra viên cầu đỏ đáng ngờ, bị nó tự nổ phun sương hồng bao trùm.",
+       "anchor": "Hàn Lập đột nhiên từ trong bụng của Mặc Giao, lấy ra một viên cầu màu đỏ lớn bằng nắm tay",
+       "bridge": true,
+       "khoang": "@c0207"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0208",
+       "tieuDe": "Hợp hoan với nữ tu Kết đan kỳ",
+       "text": "Tỉnh khỏi cơn xuân mộng, phát hiện mình trần trụi ôm một nữ tử tuyệt sắc; hai người tiếp tục ân ái, đây là lần đầu Hàn Lập thân mật với nữ tử; sau đó cả hai mặc lại y phục, hắn đáp ứng giữ kín chuyện dù nữ tử dọa sẽ giết nếu người thứ ba biết; hắn tự hái hơn mười gốc linh dược trong cấm địa để giao cho bổn môn tránh bị hoài nghi, rồi cùng nữ tử chuẩn bị hợp lực phá cấm rời đi.",
+       "anchor": "hắn cho tới bây giờ cũng không nghĩ đến mình lại có lần đầu tiên thân mật quan hệ với nữ tử như vậy"
+      },
+      {
+       "chuong": "@c0209",
+       "importance": "major",
+       "tieuDe": "Thoát đầm lầy, ra khỏi cấm địa",
+       "text": "Được Nam Cung Uyển truyền một phần pháp lực bị cấm chế qua bí pháp, tạm thời đột phá từ tầng mười một lên đỉnh Luyện khí kỳ tầng mười ba (chỉ duy trì vài canh giờ); hai người dùng Chu tước hoàn và Kim quang chuyên phù bảo đánh thông đường hầm thoát khỏi đầm lầy lòng đất (phù bảo hao hết uy năng thành phế vật); trên đường giết một đệ tử Linh thú sơn đoạt túi trữ vật; ra khỏi cấm địa an toàn về vị trí Hoàng phong cốc, bị huynh muội Trần thị khinh bỉ là nhát gan, cuối chương lo lắng cho Nam Cung Uyển khi người Yểm Nguyệt tông chưa ai ra.",
+       "anchor": "một người sử dụng Chu tước hoàn, một người sử dụng Kim quang chuyên phù bảo, cứ thế mà đánh thông một đường hầm"
+      },
+      {
+       "chuong": "@c0210",
+       "importance": "major",
+       "tieuDe": "Đổ ra hơn hai mươi gốc linh dược",
+       "text": "Trong đổ cục ở cấm địa, Hàn Lập bị mọi người coi thường bỏ qua khi tới lượt; nhưng vì linh thú ngửi mùi (phạm vi ba trượng ngửi ra linh dược trên trăm năm kể cả trong túi trữ vật) nên hắn không thể giấu — hắn thản nhiên đổ ra một đống lớn linh dược lật ngược đổ cục cho Hoàng phong cốc.",
+       "anchor": "một đống lớn chừng hơn hai mươi gốc linh dược đủ màu, phủ khắp mặt đất"
+      },
+      {
+       "chuong": "@c0211",
+       "importance": "major",
+       "tieuDe": "Lý sư tổ thu ký danh đệ tử",
+       "text": "Giao được nhiều linh dược nhất giúp Lý sư tổ (Lý Hóa Nguyên) lập công, được khen vì lập công không nhỏ cho Hoàng phong cốc; bịa chuyện trai cò tương tranh ngư ông đắc lợi nói nhặt được linh dược nhờ hai tu sĩ tranh đấu khiến sư tổ tin là may mắn; cuối cùng được Lý sư tổ đề nghị thu làm ký danh đệ tử môn hạ, khiến cả cốc chấn động.",
+       "anchor": "ta định thu ngươi làm môn hạ, làm ký danh đệ tử, không biết ngươi có nguyện ý không?"
+      },
+      {
+       "text": "Nghi ngờ chuyện được thu đồ tốt lành bất thường nhưng nhận ra không thể cự tuyệt một tu sĩ Kết đan kỳ, Hàn Lập đóng kịch cao hứng và hành đại lễ bái Lý Hoa Nguyên làm ký danh sư phụ, nhận Bích quang đao làm lễ gặp mặt; về Hoàng phong cốc, Mã sư bá tiết lộ hắn chỉ được một viên Trúc cơ đan vì sư phụ lấy nửa linh dược làm lễ tạ sư, nhưng Hàn Lập lại thầm thở phào vì sắp tự khai lò luyện đan nên xem nhẹ đan dược mà quý chỗ chống lưng.",
+       "anchor": "Từ hôm nay trở đi ngươi chính là đệ tử của Lý Hoa Nguyên ta, pháp khí Bích quang đao này coi như là lễ gặp mặt của vi sư",
+       "bridge": true,
+       "khoang": "@c0212"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0213",
+       "tieuDe": "Chuẩn bị ba năm luyện Trúc cơ đan",
+       "text": "Trở về Bách dược viên sau chuyến cấm địa, kiểm kê chiến lợi phẩm và lập kế hoạch trồng chủ dược, dành ba năm chuẩn bị thỏa đáng mới luyện đan; nhận một viên Trúc cơ đan phần thưởng bị chiết khấu qua lời “tận hiếu kính sư phụ” nhưng ngoài mặt không ý kiến, cất đan chưa dùng; nhờ danh nghĩa ký danh đệ tử Lý sư tổ mà thanh danh bay cao khắp Hoàng phong cốc; sau ba năm mang linh dược đến Nhạc lộc điện, mượn danh Lý Hóa Nguyên và đưa “Thanh nguyên kiếm quyết” có bút tích để đại hán tin, được an bài gian địa hỏa.",
+       "anchor": "Tại hạ, là môn hạ của Lý Hoa Nguyên sư tổ, muốn mượn địa hỏa dùng một chút"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0214",
+       "tieuDe": "Khởi luyện Trúc cơ đan tại Địa Hỏa Chi Ốc",
+       "text": "Hàn Lập dùng một khối linh thạch bậc trung thuộc tính hỏa nhờ đại hán ngốc nghếch an bài phòng luyện đan, được cấp gian mười chín trong đại sảnh ba mươi sáu gian địa hỏa; sau khi phong bế cửa, hắn luyện tập khống chế địa hỏa qua tám đầu rồng cho tới thuần thục, rồi dùng Phiêu phù thuật treo Ngân ti đỉnh trên bếp lò, đổ hơn mười loại bột linh dược vào và đóng nắp, chính thức khởi động việc luyện chế Trúc cơ đan.",
+       "anchor": "Hàn Lập đem hơn mười loại bột linh dược, tòan bộ đổ vào trong Ngân ti đỉnh, cuối cùng đem nắp đóng lại"
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0215",
+       "tieuDe": "Đột phá Trúc cơ kỳ",
+       "text": "Hàn Lập bế quan ngay trong phòng địa hỏa, dùng một viên Trúc cơ đan trùng quan thành công, ra khỏi phòng sau gần một năm với thân phận tu sĩ Trúc cơ kỳ; hắn phát uy áp khiến đại hán giữ phòng phải lui về sau và đổi xưng hô thành “sư thúc”.; Sau khoảng hai mươi lần luyện chế thất bại tại phòng địa hỏa, Hàn Lập ngưng đan thành công viên Trúc cơ đan đầu tiên do chính tay mình, rồi thu được hơn hai chục viên vượt xa dự tính; hiệu suất về sau tăng lê…",
+       "anchor": "Kết quả liền trùng quan thành công, hiện tại đích xác đã là tu sĩ Trúc cơ kỳ!"
+      },
+      {
+       "text": "Trong phòng địa hỏa của Nhạc Lộc điện, Hàn Lập lần lượt dùng tới tám viên Trúc cơ đan; chân nguyên từ trạng thái khí gắn kết chuyển hóa sang dịch thể, đến viên thứ tám thì dược lực bùng nổ khiến hắn hôn mê và trong lúc hôn mê đã trùng quan thành công; tỉnh dậy phát hiện dược tính tám viên đan còn sót tràn ngập toàn thân rất nguy hiểm, buộc phải lấy Thanh nguyên kiếm quyết vốn coi là đồ rác ra tu luyện để hấp thu; sau khi Trúc Cơ, hắn rời Nhạc Lộc điện giá ngự pháp khí bay đi.",
+       "anchor": "hắn trong lúc hôn mê đã trùng quan thành công, tiến nhập vào Trúc cơ kỳ",
+       "bridge": true,
+       "khoang": "@c0216"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0217",
+       "tieuDe": "Đột luyện tầng bốn kiếm quyết, biết lai lịch Thanh nguyên",
+       "text": "Miễn cưỡng luyện thử Thanh nguyên kiếm quyết vì nghi có vấn đề, nhờ dược lực còn sót quá mạnh mà bất ngờ luyện lên tầng thứ tư ngoài dự tính, thử phóng kiếm quang từ một thước dài tới hơn một trượng; vì hiếu kỳ luyện thêm ra hộ thể kiếm thuẫn màu xanh nước biển nhô mũi nhọn như con nhím; trở về Bách dược viên gặp Mã sư bá, che giấu quá trình Trúc Cơ thật bằng lời khai thuê địa hỏa tại Nhạc lộc điện, rồi biết được kiếm quyết vốn là tuyệt học trấn phái của Huyền kiếm môn đã diệt, bản lưu truyền chỉ là bản thiếu chín tầng",
+       "anchor": "một chút đã luyện thành tầng kiếm quyết thứ tư"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0218",
+       "tieuDe": "Ngừng tu Thanh nguyên kiếm quyết",
+       "text": "Nghe Mã sư huynh giảng khuyết điểm chí mạng của Thanh nguyên kiếm quyết (từ tầng bốn trở đi pháp lực mới luyện tự tiêu tán, mỗi tầng tăng thêm một phần mười tốc độ mất), Hàn Lập chấn động vì mình đã tu tới tầng bốn; dù biết ưu điểm bù trừ làm đan điền thâm thúy, hắn vẫn quyết dừng tu để dành đường Kết Đan, tin rằng dùng công pháp bình thường cộng linh đan phối xứng thì Kết Đan không phải bất khả; sau đó rời dược viên tới Nghị sự điện bàn việc, dự định mở động phủ riêng, được đệ tử gác cửa cung kính gọi “sư thúc”, và gặp lại Chung Linh Đạo nhưng chưởng môn không nhận ra hắn.",
+       "anchor": "Việc tu luyện Thanh nguyên kiếm quyết này dừng tại đây thôi."
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0219",
+       "tieuDe": "Báo Trúc Cơ, nhận động phủ và Mê tung kỳ",
+       "text": "Hàn Lập đến Nghị sự điện báo Chung chưởng môn mình đã Trúc Cơ thành công và xin quyền khai mở động phủ; tiết lộ mình là đệ tử ký danh mà Lý sư tổ thu nhận tại cấm địa khiến chưởng môn đổi thái độ hậu đãi; nhận ba khối linh thạch bậc trung, Mê tung kỳ và ngọc giản, rồi chuyển hướng đến Kỳ lân các thuê Song đồng thử để tìm nơi lập động phủ.",
+       "anchor": "sư đệ mấy ngày trước may mắn Trúc Cơ thành công"
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0220",
+       "tieuDe": "Phát hiện Linh nhãn chi tuyền",
+       "text": "Theo Song đồng thử lần dây thừng, Hàn Lập dùng cự kiếm màu bạc khoét đường đá dài mười trượng vào một vách núi cao hơn trăm trượng, phá vách vào động nham thạch linh khí nồng đậm; hắn kiểm tra nguồn suối phun nước giữa động và khẳng định đây là Linh nhãn chi tuyền hiếm thấy thế gian — một dạng linh nhãn thực thể hóa có thể tăng tốc tu luyện gần hai ba thành và di chuyển pháp lực không hao tổn, một bước ngoặt lớn về tài nguyên tu luyện.; Hàn Lập…",
+       "anchor": "Đây là Linh nhãn chi tuyền, tuyệt đối là vậy!"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0221",
+       "tieuDe": "Kiến tạo động phủ Linh tuyền bí mật",
+       "text": "Nhờ dẫn theo một con Song Đồng Thử, Hàn Lập tìm được một linh nhãn chi tuyền nhất cấp ở phụ cận đỉnh núi, quyết biến nham động thành mật thất luyện công bí mật giúp tăng tốc tu luyện hơn nửa thành; hắn dùng ngân kiếm và kim nhận đào mười ba phòng cùng một đại sảnh, bố trí tiểu mê tung trận che lối ra vào, lập dược viên và gắn Nguyệt quang thạch chiếu sáng; sau đó chọn không tu luyện trận đạo mà dùng lục dịch tạo một gốc linh dược ngàn năm rồi mang theo xác Ngô Công, Mặc Giao lên đường tới phường thị Thiên Tinh Tông (Nguyên Vũ Quốc) để đổi trận kỳ trận bàn.",
+       "anchor": "mình chỉ dẫn theo một con Song Đồng Thử tầm thường trong vòng một ngày đã dễ dàng kiếm được một linh nhãn chi vật"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0222",
+       "tieuDe": "Thỏa thuận luyện chế đỉnh cấp pháp khí",
+       "text": "Hàn Lập vào một phường thị tiêu điều tìm mua trận kỳ trận bàn; hiếu kỳ ghé gian hàng luyện khí của Từ lão giả, yêu cầu xem đỉnh cấp pháp khí tinh phẩm khiến người trong tiệm kinh ngạc; sau khi lộ thân phận Trúc Cơ kỳ, hắn thỏa thuận giao tài liệu cho Từ lão giả dùng yêu hỏa luyện chế đỉnh cấp pháp khí, đứng bên theo dõi và để lại một phần nguyên liệu làm thù lao; hắn từ chối lời chào mời làm môi giới của Vương Tử Lăng, nói chỉ Tinh Trần Các mới có trận kỳ trận bàn tốt nhất.",
+       "anchor": "chỉ cần luyện chế thành công, ta sẽ để lại một phần nguyên liệu coi như tiền thù lao cho ngươi"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0223",
+       "tieuDe": "Theo nho sinh vào bí điếm cạnh mại hội",
+       "text": "Sau khi bày tỏ muốn tìm trận kỳ trận bàn tốt, Hàn Lập được Vương Tử Lăng dẫn đến bí điếm ngầm cách phường thị một dặm; đi qua địa đạo do Trương phu nhân mở, hắn kinh hãi nhận ra hộ vệ và hơn nửa tu sĩ nơi đây đều từ Trúc cơ kỳ trở lên, hiểu bản thân chỉ là người bình thường ở đó, rồi ngồi đợi dự cạnh mại hội mở màn bằng Hỏa Vân Kiếm.",
+       "anchor": "Hai kẻ này đúng là cao thủ Trúc cơ kỳ như hắn, hơn nữa một người còn là Trúc Cơ trung kỳ"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0224",
+       "tieuDe": "Dự phiên đấu giá bí điếm",
+       "text": "Hàn Lập quan sát phiên đấu giá tại bí điếm, sốt ruột chờ mãi không thấy trận kỳ, trận bàn nên tính quay lại Tinh Trần các; đặc biệt rung động khi nam tử cao gầy rao bán cặp khôi lỗi cơ quan thú thượng cấp, liên tưởng ngay tới khôi lỗi cung thủ của mình, song vẫn giữ thái độ hoài nghi màn dàn dựng đẩy giá bất thường của hai quái nhân.",
+       "anchor": "Cái thượng cấp pháp khí kia của mình không phải cũng gọi là khôi lỗi cung thủ sao"
+      },
+      {
+       "chuong": "@c0225",
+       "importance": "normal",
+       "tieuDe": "Nhận ra linh dược của mình tại đấu giá",
+       "text": "Dự buổi đấu giá bí điếm với tư cách khán giả; khi thấy gốc Hoàng Tinh chi ngàn năm được đưa ra đấu giá, hắn khẳng định đây chính là một trong hai gốc do mình tự nuôi dưỡng và từng bán cho Vạn Bảo lâu, thầm tự đắc vì vật do tay mình làm ra khiến người khác tranh đoạt khẩn trương.",
+       "anchor": "Hàn Lập lập tức khẳng định rằng linh dược đỉnh cấp này chính là một trong hai gốc cây lúc đầu bán cho Vạn Bảo lâu."
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0226",
+       "tieuDe": "Ép giá đổi bộ bố trận pháp khí",
+       "text": "Tại đấu giá mật điếm, Hàn Lập chú ý tới khí cụ Điên Đảo Ngũ Hành Trận và ghi nhớ ngoại hình thanh niên trận pháp sư; sau khi Trúc Cơ hắn dùng thành thục Cách âm trạo để nói chuyện riêng, rồi lấy thiên niên Tử Quế Hoa ép thanh niên nói rõ vật trao đổi nhằm đổi lấy bộ bố trận pháp khí tàn phẩm.",
+       "anchor": "trước khi mở hộp để cho các hạ kiểm tra, có hay không nên nói rõ, tôn giá sẽ dùng vật gì để trao đổi linh dược này?"
+      },
+      {
+       "chuong": "@c0227",
+       "importance": "major",
+       "tieuDe": "Phong ấn Vân Tiêu Tâm Đắc, giao ước kết giao",
+       "text": "Mua bộ bố trận pháp khí Điên Đảo Ngũ Hành Trận, Ngọc Giản và quyển Vân Tiêu Tâm Thuật của Tề Vân Tiêu bằng thiên niên linh dược; dùng phong ấn thuật khóa quyển 'Vân Tiêu Tâm Đắc' hẹn năm năm không động, nếu cải tiến pháp khí thành công sẽ trả nguyên vẹn, mưu tính kết giao với Tề Vân Tiêu và trận pháp sư bằng hữu; sau đó bán vỏ ngô công cho lão giả tóc bạc ở cửa hiệu Luyện khí.",
+       "anchor": "trong vòng năm năm sẽ không động đến nó"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0228",
+       "tieuDe": "Nhận Thần Phong Châu, bị mai phục",
+       "text": "Giao tài liệu Mặc Giao cho Từ lão luyện chế, nửa tháng sau nhận được Thần Phong Châu — thuyền phi hành trắng luyện từ vẩy và da giao long, tốc độ hiếm có thay pháp khí hình lá cũ; trên đường về bị mai phục, gia tốc thuyền né kịp luồng quang trụ vàng chí mạng, dùng hai viên cầu xanh đỏ tạo mây che thân rồi quan sát trận hỗn chiến khôi lỗi vây công nhóm Trúc Cơ tu sĩ dưới đất.",
+       "anchor": "Thần Phong Châu dùng vẩy và da của Mạc Giao để luyện chế này quả thật là pháp khí phi hành hết sức xuất sắc."
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0229",
+       "tieuDe": "Ẩn mây quan sát trận khôi lỗi",
+       "text": "Ẩn mình trong cụm mây Thanh Hỏa Chướng trên không trung nhờ Thần Phong Châu vừa tới tay, cách mặt đất trăm mấy trượng; đưa toàn bộ vân chướng hộ thân xuyên nhập tầng mây xám thấp để giấu thân triệt để; nhận ra kẻ điều khiển khôi lỗi chính là nam tử khôi vũ đã mua khôi lỗi cơ quan thú ở hội bán đấu giá, và đám tu sĩ Nguyên Vũ Quốc đã lén theo hắn dò bí mật nên bị vây khốn.",
+       "anchor": "Lúc này thì hành tung của Hàn Lập đã được che dấu triệt để."
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0230",
+       "tieuDe": "Chứng kiến bẫy diệt Lâm sư huynh, tháo chạy",
+       "text": "Trốn trong đám mây quan sát cuộc đối đầu, bị Hoàng Long nghi là kẻ chờ ngư ông đắc lợi nhưng thực ra vũ khí khôi lỗi chỉ về gò đất nơi Lâm sư huynh nấp; suy luận ra Lâm sư huynh là con giáo chủ cũ Thiên Trúc Giáo bị tân giáo chủ truy sát; biết trận đại chiến khôi lỗi ngoài tầm Trúc Cơ Sơ Kỳ nên thu hỏa chướng, phát động Thần Phong Châu hóa cầu vồng bỏ trốn.",
+       "anchor": "Thần Phong Châu dưới chân toàn lực phát động, lập tức hóa thành một đạo cầu vồng dài phá thiên bay đi"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0231",
+       "tieuDe": "Bố trận, cầu công pháp, chặn đoạt xá",
+       "text": "Bố trí Điên Đảo Ngũ Hành trận bảo vệ động phủ, chôn trận kỳ trận bàn theo ngọc giản Tề Vân Tiêu giao và gắn nửa số linh thạch bậc trung vào trận nhãn cấp linh lực; tự định hướng tu luyện Kết Đan, quyết về Hoàng Phong cốc tìm sư phụ Lý Hóa Nguyên xin công pháp thượng phẩm, cậy chiếc bình luyện đan bù tư chất kém; bị Thiên Trúc giáo do Hoàng Long dẫn đầu tấn công đòi giao người, phát hiện Lâm sư huynh chết trong trận rồi chộp giữ thần hồn hắn khi hắn định đoạt xá.",
+       "anchor": "chính là tìm được một môn công pháp thượng phẩm thích hợp cho mình tu luyện"
+      },
+      {
+       "chuong": "@c0232",
+       "importance": "normal",
+       "tieuDe": "Tra khảo nguyên thần, đoạt bí mật Đại Diễn quyết",
+       "text": "Khống chế nguyên thần Lâm sư huynh, cự tuyệt đề nghị đoạt xá vì thống hận nhất kẻ đoạt xá; ép đối phương khai toàn bộ về Đại Diễn quyết, thân phận thiếu giáo chủ Thiên Trúc giáo và bí mật xác suất kết đan; sau khi moi đủ thông tin liền bóp nát nguyên thần Lâm sư huynh khiến hắn hoàn toàn biến mất khỏi thế gian vì lo hậu họa báo thù.",
+       "anchor": "Ta bình sinh thống hận nhất chính là người ta đoạt xá ta"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0233",
+       "tieuDe": "Diệt nguyên thần Lâm sư huynh, cố thủ đại trận",
+       "text": "Bắt chế trụ nguyên thần Lâm sư huynh khi hắn xuất thể định đoạt xá, khiến tan thành mấy khói — tu sĩ thứ hai bị Hàn Lập diệt nguyên thần; quyết định làm con rùa rụt đầu trong Điên Đảo Ngũ Hành trận thay vì giao thi thể; được sư bá Lôi Vạn Hạc bay tới diệt sạch nhóm Thiên Trúc giáo, cung kính xưng sư điệt bái kiến, giấu chuyện phường thị Thiên Tinh tông lẫn việc mình diệt nguyên thần, cả kinh khi Lôi Vạn Hạc truy hỏi nguyên thần Lâm sư huynh đào thoát",
+       "anchor": "Đây là tu sĩ thứ hai mà nguyên thần xuất thể bị Hàn Lập tiêu diệt"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0234",
+       "tieuDe": "Che giấu bí mật trước sư bá Kết Đan",
+       "text": "Trước tra hỏi của Lôi Vạn Hạc về nguyên thần Lâm sư huynh, Hàn Lập giả bộ hồ đồ nói không thấy nguyên thần để giấu việc tiêu diệt nguyên thần đoạt xá; sau đó mời sư bá vào động phủ và nhờ xem hai gốc dược thảo lâu năm để yên tâm luyện đan; chủ động phát động biến hóa cấm đoạn thần thức của Điên Đảo Ngũ Hành trận nhằm chặn thần thức Lôi Vạn Hạc dò xét trữ tàng thất và Linh Nhãn chi tuyền, dùng linh dược làm mồi tạo quan hệ giao hảo với tu sĩ Kết Đan kỳ.",
+       "anchor": "phương pháp cấm đoạn thần thức ở trong Điên Đảo Ngũ Hành trận"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0235",
+       "tieuDe": "Giăng bẫy đổi phương pháp luyện đan",
+       "text": "Trong động phủ đơn sơ, Hàn Lập nửa thật nửa giả kể chuyện từng thấy linh thảo ngàn năm ở bí điếm nhưng vô lực mua, kích động Lôi Vạn Hạc thèm khát; sau đó khéo léo dẫn dắt để dùng hai gốc linh thảo sáu-bảy trăm năm đổi lấy một phương pháp luyện đan thích hợp cho mình.",
+       "anchor": "đệ tử đã nghĩ dùng hai gốc cây linh thảo này trao đổi một loại phương pháp luyện đan thích hợp cho mình sử dụng mà thôi"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0236",
+       "tieuDe": "Đổi Chu Linh thảo lấy phương thuốc cổ",
+       "text": "Đề nghị trao đổi phương thuốc với Lôi Vạn Hạc thay vì nhắm vào sư phó Lý Hóa Nguyên khó đắc thủ; chốt dùng một gốc Chu Linh thảo đổi một cách điều chế, chọn Tụ Linh đan và Luyện Khí tán từ mục lục; sau đó lục soát thi thể Lâm sư huynh ở động khẩu, không tìm được khôi lỗi mà bất ngờ phát hiện ba chữ vàng Đại Diễn quyết trong ngọc giản không ra gì",
+       "anchor": "một gốc cây đổi một cách điều chế đi"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0237",
+       "tieuDe": "Phát hiện Khôi lỗi chân giải, tham kiến sư phó",
+       "text": "Xem hết Đại Diễn quyết trong ngọc giản Lâm sư huynh trao, xác nhận chỉ có bốn tầng khẩu quyết, rồi bất ngờ phát hiện phía sau còn bộ kinh văn Khôi lỗi chân giải dạy chế tác khôi lỗi thú và khôi lỗi nhân; cân nhắc rủi ro làm chậm kết đan nên tạm cất ngọc giản vào túi trữ vật để sau xử lý; thu hồi khoảng hai mươi mấy khôi lỗi nhân và cơ quan thú còn sót ngoài trận; cưỡi Thần Phong chu tới phía đông Thái Nhạc sơn mạch, dùng Truyền Âm phù báo tin rồi vào Lục Ba động tham kiến sư phó Lý Hóa Nguyên cùng sư nương, được đại đệ tử Vu Khôn nhiệt tình ra đón.",
+       "anchor": "ngay sau đó lại xuất hiện một bộ kinh văn gọi là “Khôi lỗi chân giải”"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0238",
+       "tieuDe": "Nghe lý do thu đồ, được hứa bồi thường",
+       "text": "Được vợ chồng Lý Hóa Nguyên gọi vào Lục Ba động, nghe sư phụ thừa nhận thu đồ vì tham linh dược, biết số linh dược của mình đã cứu mạng sư nương nên được coi là ân nhân, được hứa bồi thường thêm; sau đó bị Đại sư huynh Vu Khôn kéo vào phòng nói dông dài mấy canh giờ đến đau đầu, phải viện cớ mệt mỏi để thoát ra nghỉ ngơi.",
+       "anchor": "giống như ma âm khoan não"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0239",
+       "tieuDe": "Quyết chọn công pháp loại hai",
+       "text": "Đứng trước vợ chồng Lý Hóa Nguyên, Hàn Lập không do dự chọn phần thưởng là một bộ công pháp; được sư phụ bắt cổ tay dò ra linh căn bốn thuộc tính (trừ Kim thuộc tính); nghe giảng ba loại công pháp rồi bình tĩnh quyết định chọn loại pháp quyết thứ hai bất chấp sư phụ khuyên chọn loại một, sau đó theo sư phụ vào Tàng thư thất.",
+       "anchor": "Đệ tử rõ rồi, vậy đệ tử tuyển tu loại pháp quyết thứ hai"
+      },
+      {
+       "chuong": "@c0240",
+       "importance": "major",
+       "tieuDe": "Bái sư Lý Hóa Nguyên, phát hiện sách vàng nuốt kiếm quang",
+       "text": "Hàn Lập chọn quyển sách màu vàng ghi Ngưng Nguyên công làm chủ công pháp vì nghi liên quan tới quyển sách bạc trong tay, rồi quỳ thề chính thức bái Lý Hóa Nguyên làm sư phụ, thành đệ tử chính thức; về động phủ hắn nung chảy sách bạc để lộ một quyển sách vàng ẩn bên trong không sợ lửa, khi quăng lên đánh một đạo kiếm quang xanh thì kiếm quang bị sách nuốt trọn vô ảnh vô tung khiến hắn kinh hãi rồi phấn chấn.",
+       "anchor": "kiếm quang màu xanh giống như đá chìm đáy bể, đã biến mất vô ảnh vô tung trên quyển sách"
       }
      ],
      "tuViMoc": [
@@ -777,62 +1102,22 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        ]
       },
       {
-       "chuong": 14,
-       "canhGioi": "Luyện Khí Kỳ (Trường Xuân công)",
-       "text": "Đổi tu Trường Xuân công — công pháp theo Hàn Lập suốt chặng Luyện Khí. Tu vi leo từ tầng 3 lên đỉnh phong tầng 11 (cận Trúc Cơ), phần lớn nhờ Hoàng Long Đan và Kim Tủy Hoàn.",
-       "tieu": [
-        {
-         "chuong": 14,
-         "canhGioi": "Trường Xuân công — tầng 3 (đỉnh phong)",
-         "text": "Sau 4 năm khổ tu, đột phá tầng 3; cảm quan cực kỳ mẫn duệ. Sau đó đình trệ hơn một năm."
-        },
-        {
-         "chuong": 23,
-         "canhGioi": "Trường Xuân công — tầng 3 đỉnh phong (sau biến cố tâm ma)",
-         "text": "Sau khi dùng bình an phù trừ tâm ma, công lực đạt đỉnh phong tầng ba; cách tầng bốn không còn xa."
-        },
-        {
-         "chuong": 28,
-         "canhGioi": "Trường Xuân công — tầng 4",
-         "text": "Nhờ Hoàng Long Đan và Kim Tủy Hoàn, đột phá tầng tư trong một đêm; ngũ cảm tăng vọt mang tính chất, điều khiển được cỗ chân khí kỳ dị."
-        },
-        {
-         "chuong": 34,
-         "canhGioi": "Trường Xuân công — tầng 5",
-         "text": "Khoảng c032-c033, nhờ Hoàng Long Đan và Kim Tủy Hoàn đột phá thẳng từ tầng tư lên tầng năm; năng lực 'gặp qua không thể quên' khởi phát."
-        },
-        {
-         "chuong": 43,
-         "canhGioi": "Trường Xuân công — tầng 6",
-         "text": "Nhờ hơn mười bình linh dược, đột phá tầng sáu — tầng cao nhất Mặc đại phu từng cấp. Có năng lực phục hồi thân thể dị thường; vẫn giấu thực lực, chỉ phô tầng tư."
-        },
-        {
-         "chuong": 59,
-         "canhGioi": "Trường Xuân công — tầng 6",
-         "text": "Dư Tử Đồng xác nhận Hàn Lập đã tu tới tầng 6 — chỉ kém Dư Tử Đồng một tầng. Chính tốc độ/tư chất vượt dự tính của Mặc đại phu khiến đoạt xá thất bại."
-        },
-        {
-         "chuong": 75,
-         "canhGioi": "Trường Xuân công — tầng 8",
-         "text": "Nhờ ngày ngày ăn linh dược, đột phá lên tầng 8. Pháp lực vượt nhục thân Dư Tử Đồng lúc còn sống, nhưng kỹ xảo thực chiến còn kém."
-        },
-        {
-         "chuong": 138,
-         "canhGioi": "Trường Xuân công — tầng 9",
-         "text": "Sau hơn mười ngày khổ tu kết hợp đan dược tại Thái Nam hội, đột phá tầng chín; pháp lực tăng gấp đôi tầng tám. Thành thạo Lưu sa thuật và Băng đông thuật."
-        },
-        {
-         "chuong": 152,
-         "canhGioi": "Trường Xuân công — tầng 11 (cận Trúc Cơ)",
-         "text": "Hơn hai năm tiềm tu tại Bách Dược Viên, liên tiếp đột phá hai tầng lên tầng mười một — trung đẳng trong đệ tử cấp thấp Hoàng Phong Cốc. Hoàng Long đan và Kim Tủy hoàn hết hẳn công hiệu; bước tiếp theo cần đan dược mới (Trúc Cơ Đan)."
-        }
-       ]
-      },
-      {
        "chuong": 67,
        "canhGioi": "Bán tu tiên giả — khởi phát pháp thuật",
        "buocNgoat": true,
        "text": "Bước ngoặt: đạt đỉnh phong tầng sáu Trường Xuân công và LUYỆN THÀNH pháp thuật từ bí tịch — Hỏa Đạn Thuật và Thiên Nhãn Thuật — xác nhận có pháp lực, là người duy nhất Thất Huyền môn được coi là 'bán tu tiên giả'. (Ba pháp thuật còn lại chưa nhập môn.)"
+      },
+      {
+       "chuong": "@c0209",
+       "canhGioi": "Luyện khí kỳ tầng mười ba (tạm thời)",
+       "text": "Nhờ Nam Cung Uyển truyền một phần pháp lực bị cấm chế, tạm thời đạt tầng mười ba đỉnh điểm Luyện khí kỳ; linh lực mượn chỉ duy trì vài canh giờ, sau đó trở về thực lực gốc tầng mười một.",
+       "importance": "minor"
+      },
+      {
+       "chuong": "@c0215",
+       "canhGioi": "Trúc cơ kỳ",
+       "text": "Dùng Trúc cơ đan tự luyện, bế quan trong phòng địa hỏa và trùng quan thành công, đột phá từ Luyện khí kỳ lên Trúc cơ kỳ.",
+       "importance": "major"
       }
      ],
      "nhanMach": [
@@ -900,6 +1185,239 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "ten": "Nghiêm thị",
        "tag": "su-mon",
        "quanHe": "Tứ phu nhân Mặc đại phu — 'Tứ sư mẫu' theo thư mạo danh; đang thương lượng giao Noãn dương bảo ngọc"
+      },
+      {
+       "ten": "Thiếu nữ áo trắng (Yểm Nguyệt tông)",
+       "tag": "doi-thu",
+       "quanHe": "Bị thiếu nữ nấp trong bụi cỏ quan sát, đánh giá tư chất rồi tạm tha, coi hắn như đồ chơi mới",
+       "ghiChu": "Hàn Lập không biết đã có nữ tử để ý mình"
+      },
+      {
+       "ten": "Đại hán râu quai nón (Cự Kiếm môn)",
+       "tag": "doi-thu",
+       "quanHe": "Tên từng trừng mắt, nay chặn Hàn Lập tại ngã đường muốn báo thù tuyết hận"
+      },
+      {
+       "ten": "Gã râu quai nón (tu sĩ Linh thú sơn)",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ thù truy sát",
+       "ghiChu": "Có thù oán với Hàn Lập từ ngoài cấm địa, đòi tự tay giết hắn; bị Hàn Lập giam trong lớp vỏ vàng. (@c0183)"
+      },
+      {
+       "ten": "Nghiêm (đệ tử Thiên khuyết bảo)",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ liên thủ phục kích",
+       "ghiChu": "Bằng hữu của gã râu quai nón, bày kế Dung linh phù để hai người truyền tới cùng chỗ phục kích Hàn Lập. (@c0183)"
+      },
+      {
+       "ten": "Nữ tử áo vàng (nữ đệ tử Hoàng Phong cốc)",
+       "tag": "dong-minh",
+       "quanHe": "Nữ đồng môn Hoàng Phong cốc được Hàn Lập ra tay cứu, sau trấn an và cảnh báo hắn về đối phương",
+       "ghiChu": "@c0186"
+      },
+      {
+       "ten": "Nữ tử áo trắng (hậu nhân Trưởng lão Yểm Nguyệt tông)",
+       "tag": "doi-thu",
+       "quanHe": "Nữ tu truy sát nữ áo vàng, quyết diệt cả Hàn Lập",
+       "ghiChu": "@c0186"
+      },
+      {
+       "ten": "Phong Nhạc",
+       "tag": "doi-thu",
+       "quanHe": "Cuồng nhân Thiên Khuyết Bảo, pháp lực vượt xa, đối đầu tuyên chiến",
+       "ghiChu": "Chạm mặt @c0187, Hàn Lập tuyên bố muốn hắn chết"
+      },
+      {
+       "ten": "Chủ nhân phi xà (giọng khàn khàn)",
+       "tag": "doi-thu",
+       "quanHe": "Tu sĩ giấu mặt điều khiển hai phi xà tập kích Hàn Lập trong khu trung tâm; sau khi nhận ra Đạp vân ngoa thì chuyển từ giết sang muốn thương lượng.",
+       "ghiChu": "Chưa lộ tên thật, chưa lộ mặt (@c0192)."
+      },
+      {
+       "ten": "Chung Ngô",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ dò xét đầy nghi kỵ",
+       "ghiChu": "Chạm mặt ở khu trung tâm, trao đổi thông tin nhưng đôi bên đề phòng lẫn nhau."
+      },
+      {
+       "ten": "Hạm Vân Chi",
+       "tag": "khac",
+       "quanHe": "Cô gái áo lục Linh Thú sơn từng bán Kim Trúc bút cho Hàn Lập, nay tái ngộ khi nàng bị hán tử Cự Kiếm môn áp bức tại thạch điện",
+       "ghiChu": "@c0200"
+      },
+      {
+       "ten": "Vũ Si",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ giao đấu tranh giành kim nhận",
+       "ghiChu": "Cao thủ Cự kiếm môn thèm muốn bộ kim nhận, khiêu chiến Hàn Lập tại thạch phòng."
+      },
+      {
+       "ten": "Hán tử áo đen chân trần (Cự Kiếm môn)",
+       "tag": "doi-thu",
+       "quanHe": "Đại hán chân trần Cự kiếm môn bị Hàn Lập chém đầu diệt khẩu",
+       "ghiChu": "Tố Hàn Lập giết Yểm Nguyệt song kiều, quyết sinh tử rồi bị chém đầu."
+      },
+      {
+       "ten": "Hạm Vân Chi",
+       "tag": "an-nhan",
+       "quanHe": "Hàn Lập cứu nàng khỏi gã Cự kiếm môn, cảm thấy yêu mến như tiểu muội nhưng vẫn xóa trí nhớ nửa ngày của nàng để bảo vệ bí mật",
+       "ghiChu": "Gặp và ra tay tại cấm địa Huyết sắc thí luyện (@c0203)"
+      },
+      {
+       "ten": "Chung Ngô",
+       "tag": "khac",
+       "quanHe": "Người đưa tư liệu về thạch điện cho Hàn Lập",
+       "ghiChu": "Hàn Lập nghi ngờ vì Chung Ngô đưa tư liệu mà không đến nơi này."
+      },
+      {
+       "ten": "Nam Cung Uyển",
+       "tag": "dong-minh",
+       "quanHe": "Liên thủ trong tuyệt địa",
+       "ghiChu": "Hàn Lập cứu nàng lúc kiệt sức, thỏa thuận cùng đối phó Mặc Giao; nhận ra tuổi thật nàng rất lớn nên chọn nói thẳng thay vì lừa dối."
+      },
+      {
+       "ten": "Nữ tử tuyệt sắc (nữ tu Kết đan kỳ)",
+       "tag": "khac",
+       "quanHe": "Nữ tu Kết đan kỳ có duyên phu thê với Hàn Lập; bị phá thân xử nữ do túi thôi tình của Mặc Giao, buộc hắn giữ kín, cùng hắn hợp lực phá cấm",
+       "ghiChu": "Xuất hiện @c0208"
+      },
+      {
+       "ten": "Nam Cung Uyển",
+       "tag": "an-nhan",
+       "quanHe": "Nữ tử hợp thể/luân hồi truyền pháp lực giúp Hàn Lập thoát đầm lầy; hắn hỏi được phương danh lúc chia tay và lo lắng cho nàng",
+       "ghiChu": "@c0209"
+      },
+      {
+       "ten": "Nam Cung Uyển",
+       "tag": "khac",
+       "quanHe": "Nữ tử Yểm Nguyệt tông; rời cấm địa mà từ đầu đến cuối không nhìn Hàn Lập lần nào khiến hắn khó chịu.",
+       "ghiChu": "@c0211"
+      },
+      {
+       "ten": "Lý Hóa Nguyên",
+       "tag": "su-mon",
+       "quanHe": "Ký danh sư phụ (Kết đan kỳ Hoàng phong cốc); thu Hàn Lập làm ký danh đệ tử, dụng ý thật là lấy nửa linh dược làm lễ tạ sư.",
+       "ghiChu": "Ra mặt @c0212"
+      },
+      {
+       "ten": "Đại hán ngốc nghếch (dẫn đường Địa Hỏa Chi Ốc)",
+       "tag": "khac",
+       "quanHe": "Tu sĩ đồng môn phụ trách sắp xếp phòng luyện đan; nhận linh thạch bậc trung của Hàn Lập rồi ân cần dẫn đường, giới thiệu ổ thạch, địa hỏa và cách dùng bếp lò.",
+       "ghiChu": "Gặp tại khu Địa Hỏa Chi Ốc (@c0214)"
+      },
+      {
+       "ten": "Chung Linh Đạo",
+       "tag": "su-mon",
+       "quanHe": "Chưởng môn Hoàng phong cốc tiếp Hàn Lập, cấp động phủ và vật thưởng.",
+       "ghiChu": "Đổi thái độ hậu đãi khi biết Hàn Lập là đệ tử ký danh của Lý sư tổ."
+      },
+      {
+       "ten": "Nữ đệ tử Kỳ lân các",
+       "tag": "khac",
+       "quanHe": "Đệ tử cho thuê linh thú giao Song đồng thử và túi thổ lê cho Hàn Lập",
+       "ghiChu": "Gặp tại Nghênh khách đài khi Hàn Lập thuê Song đồng thử (@c0220)"
+      },
+      {
+       "ten": "Từ lão giả",
+       "tag": "khac",
+       "quanHe": "Chủ gian hàng luyện khí nhận thỏa thuận luyện chế đỉnh cấp pháp khí cho Hàn Lập",
+       "ghiChu": "Gặp tại phường thị nhỏ, giao tài liệu để lão dùng yêu hỏa luyện khí (@c0222)"
+      },
+      {
+       "ten": "Vương Tử Lăng",
+       "tag": "khac",
+       "quanHe": "Kẻ môi giới ngỏ ý giúp Hàn Lập tìm đồ nhưng bị từ chối",
+       "ghiChu": "Gặp trong tiệm Từ lão giả (@c0222)"
+      },
+      {
+       "ten": "Trương phu nhân",
+       "tag": "khac",
+       "quanHe": "Người coi giữ cửa bí điếm, dẫn Hàn Lập qua địa đạo vào cạnh mại hội",
+       "ghiChu": "Gặp tại gian hàng che giấu bí điếm (@c0223)"
+      },
+      {
+       "ten": "Tề Vân Tiêu",
+       "tag": "khac",
+       "quanHe": "Thanh niên trận pháp sư đeo mặt nạ đầu hổ mà Hàn Lập tiếp cận để mặc cả đổi bộ bố trận pháp khí bằng thiên niên linh dược",
+       "ghiChu": "Gặp tại đấu giá mật điếm (@c0226)"
+      },
+      {
+       "ten": "Tề Vân Tiêu",
+       "tag": "dong-minh",
+       "quanHe": "Đối tác giao dịch mua bộ pháp khí và Vân Tiêu Tâm Thuật, có ý kết giao lâu dài",
+       "ghiChu": "Phong ấn sách hẹn năm năm để giữ chữ tín, hứa trả nguyên vẹn nếu cải tiến pháp khí thành công (@c0227)"
+      },
+      {
+       "ten": "Lão giả tóc bạc (chủ tiệm Luyện khí)",
+       "tag": "khac",
+       "quanHe": "Chủ tiệm luyện khí mua vỏ ngô công của Hàn Lập",
+       "ghiChu": "Lão tỏ ra nóng nảy khiến Hàn Lập nghi tìm nhầm Luyện khí sư (@c0227)"
+      },
+      {
+       "ten": "Từ lão",
+       "tag": "khac",
+       "quanHe": "Luyện khí sư chế Thần Phong Châu cho Hàn Lập",
+       "ghiChu": "Chủ tiệm luyện khí đầu bạc họ Từ, nhận luyện chế tài liệu giao long trong nửa tháng."
+      },
+      {
+       "ten": "Nam tử khôi vũ (Thiên Trúc Giáo)",
+       "tag": "doi-thu",
+       "quanHe": "Đối tượng Hàn Lập ngầm quan sát",
+       "ghiChu": "Nhận ra là chủ khôi lỗi cơ quan thú từ hội bán đấu giá; theo dõi trận diệt khẩu của hắn từ trong mây."
+      },
+      {
+       "ten": "Hoàng Long",
+       "tag": "khac",
+       "quanHe": "Kẻ suýt nghi ngờ Hàn Lập là người chờ ngư ông đắc lợi khi hắn trốn quan sát",
+       "ghiChu": "Hàn Lập chứng kiến Hoàng Long bày bẫy diệt Lâm sư huynh (@c0230)"
+      },
+      {
+       "ten": "Lâm sư huynh",
+       "tag": "khac",
+       "quanHe": "Lão già họ Lâm yêu điêu khắc Hàn Lập từng gặp trong thạch ốc lúc vào Hoàng Phong Cốc",
+       "ghiChu": "Hàn Lập nhận ra danh tính lão khi lão lộ mặt thật (@c0230)"
+      },
+      {
+       "ten": "Lâm sư huynh",
+       "tag": "doi-thu",
+       "quanHe": "Tu sĩ chạy trốn chết trong trận Hàn Lập; thần hồn định đoạt xá hắn nhưng bị chộp giữ",
+       "ghiChu": "Gặp @c0231"
+      },
+      {
+       "ten": "Lôi Vạn Hạc",
+       "tag": "an-nhan",
+       "quanHe": "Sư bá Kết Đan kỳ Hoàng Phong cốc, bay tới diệt nhóm Thiên Trúc giáo cứu Hàn Lập; Hàn Lập cung kính xưng sư điệt nhưng giấu bớt sự tình",
+       "ghiChu": "Ra mặt @c0233"
+      },
+      {
+       "ten": "Vu Khôn",
+       "tag": "su-mon",
+       "quanHe": "Đại đệ tử của cùng sư phó Lý Hóa Nguyên, ra đón Hàn Lập ở cửa Lục Ba động",
+       "ghiChu": "Xưng Vu sư huynh, thái độ khách khí thái quá khiến Hàn Lập bất an"
+      },
+      {
+       "ten": "Tống Mông",
+       "tag": "su-mon",
+       "quanHe": "Tứ sư huynh cùng môn hạ Lý Hóa Nguyên",
+       "ghiChu": "Gặp tại Luận Kiếm đường; Tống Mông muốn khiêu chiến nhưng mất hứng khi biết Hàn Lập mới Trúc Cơ."
+      },
+      {
+       "ten": "Sư nương (thê tử Lý Hóa Nguyên)",
+       "tag": "su-mon",
+       "quanHe": "Vợ sư phụ; coi Hàn Lập là ân nhân cứu mạng",
+       "ghiChu": "Được linh dược của Hàn Lập cứu mạng, chủ động khuyên chồng bồi thường Hàn Lập."
+      },
+      {
+       "ten": "Lý Sư Tổ",
+       "tag": "su-mon",
+       "quanHe": "Sư tổ Hoàng phong cốc đề nghị thu Hàn Lập làm ký danh đệ tử môn hạ",
+       "ghiChu": "Sau khi Hàn Lập lập công tìm được nhiều linh dược"
+      },
+      {
+       "ten": "Vu đại sư huynh",
+       "tag": "su-mon",
+       "quanHe": "Đồng môn dưới trướng Lý Hóa Nguyên",
+       "ghiChu": "Gặp Hàn Lập ở cửa động phủ, quấy nhiễu bằng ma âm khiến Hàn Lập phải chối từ mới thoát đi."
       }
      ],
      "tuiDo": {
@@ -1528,7 +2046,64 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0177",
      "c0178",
      "c0179",
-     "c0180"
+     "c0180",
+     "@c0181",
+     "@c0182",
+     "@c0183",
+     "@c0184",
+     "@c0185",
+     "@c0186",
+     "@c0187",
+     "@c0188",
+     "@c0189",
+     "@c0190",
+     "@c0192",
+     "@c0193",
+     "@c0194",
+     "@c0195",
+     "@c0196",
+     "@c0197",
+     "@c0198",
+     "@c0200",
+     "@c0201",
+     "@c0202",
+     "@c0203",
+     "@c0204",
+     "@c0205",
+     "@c0207",
+     "@c0208",
+     "@c0209",
+     "@c0210",
+     "@c0211",
+     "@c0212",
+     "@c0213",
+     "@c0214",
+     "@c0215",
+     "@c0216",
+     "@c0217",
+     "@c0218",
+     "@c0219",
+     "@c0220",
+     "@c0221",
+     "@c0222",
+     "@c0223",
+     "@c0224",
+     "@c0225",
+     "@c0226",
+     "@c0227",
+     "@c0228",
+     "@c0229",
+     "@c0230",
+     "@c0231",
+     "@c0232",
+     "@c0233",
+     "@c0234",
+     "@c0235",
+     "@c0236",
+     "@c0237",
+     "@c0238",
+     "@c0239",
+     "@c0240"
     ],
     "rank": "A"
    },
@@ -1551,51 +2126,34 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     ],
     "canhGioiCaoNhat": "Phàm nhân vô linh căn — cao thủ võ lâm (Ma Ngân Thủ); tự tu Trường Xuân công tới tầng 4 (vì không có linh căn)",
     "trangThai": "tu-vong",
-    "blurb": "Thầy thuốc bí ẩn của Thất Huyền môn. Tên thật Mặc Cư Nhân — từng là cao thủ võ lâm Lam Châu biệt danh 'quỷ thủ', thực chất mới 30 tuổi nhưng bị tà khí xâm cốt lão hóa cực nhanh. Chân tướng: là PHÀM NHÂN vô linh căn, không phải tu tiên giả thật; bị nguyên thần Dư Tử Đồng (kẻ hắn đầu độc giết hại) chui vào thân ký sinh, bị 'huyết tiến âm hồn chú' trớ chú khiến già nhanh mỗi ngày. Mọi pháp thuật quỷ đạo (Thất Quỷ Phệ Hồn đại pháp, Định Thần Phù) đều do Dư Tử Đồng truyền. Là công cụ bị Dư Tử Đồng lợi dụng thực hiện đoạt xá Hàn Lập. Chết vì đoạt xá thất bại — pháp lực không đủ hơn Hàn Lập, bị 'cắn ngược'.",
-    "vaiTro": "Sư phụ của Hàn Lập",
-    "tinhCach": [
-     {
-      "text": "Lạnh lùng, ít nói, vô biểu cảm trong sinh hoạt hằng ngày",
-      "chuong": 6
-     },
-     {
-      "text": "Khi phát hiện thể chất kỳ dị Hàn Lập, kích động đến mức điên cuồng, suýt mất kiểm soát",
-      "chuong": 8
-     },
-     {
-      "text": "Nghiêm cấm tiết lộ Vô danh khẩu quyết — trịnh trọng bất thường với công pháp này",
-      "chuong": 6
-     },
-     {
-      "text": "Nắm bắt tâm lý đệ tử, biết dùng tiền bạc làm đòn bẩy thúc đẩy tu luyện",
-      "chuong": 14
-     },
-     {
-      "text": "Sòng phẳng: tuyên bố thẳng quan hệ với Hàn Lập chỉ là lợi dụng lẫn nhau, không có tình thầy trò thật sự",
-      "chuong": 29
-     }
-    ],
+    "blurb": "Mặc đại phu (tên thật Mặc Cư Nhân) xuất hiện như thầy thuốc bí ẩn của Thất Huyền môn, nhận Hàn Lập cùng Trương Thiết làm đệ tử ký danh rồi thu Hàn Lập làm thân truyền vì thể chất kỳ dị. Thực chất hắn là cao thủ võ lâm Lam Châu hiệu 'quỷ thủ' với tuyệt kỹ Ma Ngân Thủ, nhưng lại là phàm nhân vô linh căn, bị nguyên thần Dư Tử Đồng ký sinh và trớ chú khiến già nhanh; mọi quỷ thuật đều do Dư Tử Đồng truyền để thực hiện đoạt xá Hàn Lập. Cuối cùng hắn phát động nghi thức đoạt xá nhưng thất bại, bị Hàn Lập thôn phệ ngược mà chết, để lại di thư cùng kỳ độc thi trung hoàn.",
+    "vaiTro": "Sư phụ danh nghĩa của Hàn Lập — phàm nhân giả tu tiên, công cụ đoạt xá",
+    "tinhCach": "Thâm trầm, giỏi che giấu thân phận và toan tính; tàn nhẫn, xem đệ tử như công cụ; giảo hoạt, cài bẫy và di độc phòng bị; tham sinh, khao khát trẻ lại và cướp đoạt thân xác",
     "tabs": {
      "diem": [
       {
-       "text": "Hơn sáu mươi tuổi về ngoại hình, tóc bạc, da nhăn, ho khan liên tục — trông như sắp ngã; thực chất mới 30 tuổi thật, bị tà khí xâm cốt lão hóa cực nhanh",
-       "chuong": 5
+       "text": "Nhận Hàn Lập làm thân truyền đệ tử vì phát hiện thể chất kỳ dị, cấp thạch thất và dược vật trân quý",
+       "chuong": "@c0008"
       },
       {
-       "text": "Vốn không phải đệ tử Thất Huyền môn gốc; được Vương môn chủ mời nhập môn sau khi cứu mạng lão",
-       "chuong": 6
+       "text": "Lộ chân tướng cao thủ Ma Ngân Thủ, điểm huyệt chế trụ Hàn Lập thần tốc, tự xưng tên thật Mặc Cư Nhân",
+       "chuong": "@c0029"
       },
       {
-       "text": "Có một thân công phu nhưng chưa từng để đệ tử thấy thân thủ",
-       "chuong": 6
+       "text": "Phơi bày thân thế: 30 tuổi thật, cao thủ võ lâm Lam Châu hiệu 'quỷ thủ', bị ám toán và tà khí xâm cốt lão hóa",
+       "chuong": "@c0030"
       },
       {
-       "text": "Ngày ngày ôm khư khư cuốn Trường sinh kinh — mưu cầu sống quá ngàn năm",
-       "chuong": 7
+       "text": "Phát động Thất Quỷ Phệ Hồn đại pháp, cắm bảy dao đầu quỷ vào thân và hồi phục dung mạo tuổi trẻ ~30",
+       "chuong": "@c0053"
       },
       {
-       "text": "Sức khỏe suy sụp rõ rệt sau 4 năm: ho khan liên miên, lão hóa nhanh, bệnh ngày càng nặng",
-       "chuong": 15
+       "text": "Khởi động đoạt xá Hàn Lập bằng Định Thần Phù và trận đồ khảm ngọc thạch",
+       "chuong": "@c0054"
+      },
+      {
+       "text": "Chết 'vô thanh vô tức' do đoạt xá thất bại, nguyên thần bị Hàn Lập thôn phệ ngược",
+       "chuong": "@c0057"
       }
      ],
      "kinhLich": [
@@ -1734,26 +2292,26 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "text": "Hàn Lập lục soát thi thể, phát hiện di thư cài sẵn của lão: đã hạ kỳ độc thi trung hoàn từ trước (thứ thật ra là kỳ độc phát tác 1-2 năm, chỉ noãn dương bảo ngọc mới giải được — không phải trùng noãn như tuyên bố trước đó), đặt giao dịch ràng buộc Hàn Lập tới nhà an bài thân nhân để đổi lấy noãn dương bảo ngọc."
       },
       {
-       "chuong": "@c0007",
-       "importance": "normal",
        "text": "Ngày ngày ôm khư khư cuốn Trường Sinh Kinh, hé lộ động cơ thật: không phải thầy thuốc thường mà là kẻ tu luyện mưu cầu trường sinh bất tử, 'sống qua ngàn năm' như lão rùa đen — cái cảm tham vọng cốt lõi.",
-       "nguonNblm": true
+       "nguonNblm": true,
+       "bridge": true,
+       "khoang": "@c0007"
       },
       {
        "chuong": "@c0031",
-       "importance": "major",
+       "importance": "normal",
        "text": "Lật bài không chế Hàn Lập: vạch trần hắn có ý trì hoãn luyện Trường Xuân Công tăng tư, ép nuốt Thi Trùng Hoàn (trùng noãn, một năm không có giải được thì trùng ăn sạch nội tạng), lại lấy tính mạng cha mẹ Hàn Lập uy hiếp — chính thức biến Hàn Lập thành con tin để lão khôi phục/luyện công.",
        "nguonNblm": true
       },
       {
-       "chuong": "@c0032",
-       "importance": "normal",
        "text": "Kinh hoàng phát hiện ông Ngự Độc Thúy tịch thu từ Hàn Lập có độc tính quỷ dị ăn thủng cả sàn nhà; sững sờ vì đứa nhỏ tự học chế độc mà lão chưa từng dạy, chửi Hàn Lập 'tâm ngoan thủ lạt' — bộc lộ thế hai bên cùng để chứng.",
-       "nguonNblm": true
+       "nguonNblm": true,
+       "bridge": true,
+       "khoang": "@c0032"
       },
       {
        "chuong": "@c0048",
-       "importance": "major",
+       "importance": "normal",
        "text": "Trở mặt động thủ, đích thân giao đấu sinh tử với Hàn Lập: lộ bản lĩnh cao thủ (thân pháp như u linh, chiêu 'Chỉ xích thiên nhai' tiến sát như sức địa), thái độ đổi như tắc kè hoa (lúc khuyên hàng ôn hòa lúc lạnh khốc), quyết bắt sống Hàn Lập — nhưng bị Hàn Lập dùng trà ngự làm không thể công, sa vào bẫy chiêu kiếm cuối.",
        "nguonNblm": true
       }
@@ -1890,35 +2448,34 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     ],
     "canhGioiCaoNhat": "Phàm nhân (võ giả) — Tượng giáp công tầng 3; di thể cải tạo thành thi nhân 'Khúc Hồn'",
     "trangThai": "mat-hon",
-    "blurb": "Bạn thân và đồng môn của Hàn Lập tại Thất Huyền môn. Xuất thân từ nhà hàng ăn, tính chu đáo tốt bụng. Được Mặc đại phu nhận làm ký danh đệ tử, truyền Tượng giáp công; chỉ vài tháng đã luyện tới tầng 3 rồi để lại thư cáo từ, rời môn đi 'lịch lãm giang hồ' (@c0015). Thực chất bị Mặc đại phu và Dư Tử Đồng bắt cóc, hủy hồn phách — đã tử vong; di thể về sau bị luyện thành thi nhân 'Khúc Hồn' (chân tướng lộ @c0063–c0064).",
-    "vaiTro": "Bạn đồng môn thân thiết của Hàn Lập",
-    "tinhCach": [
-     {
-      "text": "Chu đáo, tốt bụng — mang bánh bao cho Hàn Lập khi nhớ ra bạn chưa ăn",
-      "chuong": 6
-     },
-     {
-      "text": "Kiên trì khổ luyện không ngại đau đớn, ngồi dưới thác nước chịu trùng kích để luyện Tượng giáp công",
-      "chuong": 9
-     },
-     {
-      "text": "Sẵn lòng giúp bạn thử mở bình dù không biết lý do; không hỏi nhiều",
-      "chuong": 11
-     }
-    ],
+    "blurb": "Bạn thân và đồng môn của Hàn Lập, xuất thân từ nhà hàng ăn, được Mặc đại phu nhận làm ký danh đệ tử và truyền Tượng giáp công. Chỉ sau vài tháng hắn đã luyện tới tầng 3 rồi để lại thư cáo từ, rời môn đi 'lịch lãm giang hồ'. Thực chất hắn đã bị Mặc đại phu và Dư Tử Đồng bắt cóc, hủy hồn phách và tử vong; di thể về sau bị luyện thành thi nhân 'Khúc Hồn'.",
+    "vaiTro": "Bạn thân, đồng môn ký danh của Hàn Lập tại Thất Huyền môn",
+    "tinhCach": "Chu đáo, tốt bụng (đưa bánh bao cho Hàn Lập); chăm chỉ bền chí trong tu luyện; cởi mở, sẵn lòng chia sẻ với bạn",
     "tabs": {
      "diem": [
       {
-       "text": "Nhà bán quán (gia đình làm hàng ăn) nên quen lấy đồ ăn",
-       "chuong": 6
+       "text": "Cùng Hàn Lập được Mặc đại phu chọn làm ký danh đệ tử tại Thần thủ cốc",
+       "chuong": "@c0005"
       },
       {
-       "text": "Khổ tu Vô danh khẩu quyết không kém Hàn Lập nhưng thể nội hoàn toàn không có phản ứng",
-       "chuong": 8
+       "text": "Được Mặc đại phu đổi ý, truyền cho Tượng giáp công phù hợp với hắn",
+       "chuong": "@c0008"
       },
       {
-       "text": "Sức lực lớn phi thường: hai tay nhấc nổi hơn mười thùng nước, lên xuống núi nhanh như bay",
-       "chuong": 11
+       "text": "Chỉ sau hai tháng đã luyện Tượng giáp công tầng 1 tới đỉnh phong",
+       "chuong": "@c0009"
+      },
+      {
+       "text": "Kể cho Hàn Lập nghe sự tàn khốc của quá trình luyện Tượng giáp công",
+       "chuong": "@c0013"
+      },
+      {
+       "text": "Luyện thành Tượng giáp công tầng 3 rồi đột nhiên biến mất, chỉ để lại thư cáo từ",
+       "chuong": "@c0015"
+      },
+      {
+       "text": "Chân tướng bị hủy hồn phách và luyện thành thi nhân 'Khúc Hồn' lộ ra",
+       "chuong": "@c0063"
       }
      ],
      "kinhLich": [
@@ -2027,12 +2584,10 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "cn": "曲魂",
     "importance": "normal",
     "aliases": [
-     "Khúc Hồn",
-     "Thiết nô",
      "cự hán",
      "yêu thi"
     ],
-    "blurb": "Thi nhân (yêu thi) do Mặc đại phu luyện từ di thể bạn thân Trương Thiết của Hàn Lập, kết hợp Tượng giáp công với luyện thi thuật (do Dư Tử Đồng cung cấp); hồn phách đã mất, thân hình cao lớn dị thường, mắt vô thần, không còn thần trí, chỉ bị động nghe lệnh. Bị Hàn Lập khống chế bằng Dẫn hồn chung + máu, đặt tên 'Khúc Hồn' (@c0064) và thu làm trợ thủ chiến đấu mạnh đầu tiên trên đường tu tiên.",
+    "blurb": "Khúc Hồn là thi nhân (yêu thi) do Mặc đại phu và Dư Tử Đồng luyện từ di thể Trương Thiết — bạn thân đã bị hủy hồn phách của Hàn Lập — kết hợp Tượng giáp công với luyện thi thuật. Bị Hàn Lập khống chế bằng Dẫn hồn chung cùng máu và đặt tên 'Khúc Hồn', hắn trở thành trợ thủ chiến đấu mạnh đầu tiên của Hàn Lập, theo hầu qua các cuộc đối đầu ở Thất Huyền môn rồi tới Gia Nguyên Thành. Không còn thần trí, hắn hoàn toàn bị động nghe lệnh nhưng có sức chiến đấu áp đảo.",
     "nguon": [
      "63",
      "64"
@@ -2053,21 +2608,21 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       },
       {
        "chuong": "@c0078",
-       "importance": "major",
+       "importance": "normal",
        "text": "Lần đầu xuất trận làm trợ thủ chiến đấu cho Hàn Lập: được triệu ra từ căn phòng (thân hình cự hán đụng nát cửa gỗ), theo Hàn Lập và Lệ Phi Vũ rời Thần Thủ Cốc. Khi hơn mười người Dã Lang Bang do Tôn chấp pháp dẫn vào rừng, Hàn Lập lạnh lùng ra lệnh giết hết trừ Lam y chấp pháp; Khúc Hồn hóa thành cuồng phong xông vào rừng, chỉ trong nháy mắt giết sạch khiến Lệ Phi Vũ kinh hãi.",
        "nguonNblm": true
       },
       {
-       "chuong": "@c0080",
-       "importance": "major",
        "text": "Cùng Hàn Lập và Lệ Phi Vũ chạy tới Lý trạch tiếp viện thì bị mười tên Đoạn Thủy môn chặn vây. Khi đám áo xanh tan vỡ bỏ chạy định phát tín hiệu cầu viện, Khúc Hồn hóa thành bóng đen quỷ mị thoắt ẩn thoắt hiện, dùng đoạn kiếm bén đâm xuyên yết hầu từ phía sau từng tên trốn xa nhất, không tha một ai — thân pháp ám sát vô hình đáng sợ.",
-       "nguonNblm": true
+       "nguonNblm": true,
+       "bridge": true,
+       "khoang": "@c0080"
       },
       {
-       "chuong": "@c0084",
-       "importance": "minor",
        "text": "Khi Hàn Lập và Lệ Phi Vũ cải trang trà trộn lên Lạc Nhật Phong nghe Vương Tuyệt Sở nói chuyện, Khúc Hồn vì thân hình cao lớn dị thường quá lộ liễu nên không lên núi, tìm chỗ bí mật ẩn náu dưới chân núi chờ Hàn Lập.",
-       "nguonNblm": true
+       "nguonNblm": true,
+       "bridge": true,
+       "khoang": "@c0084"
       },
       {
        "chuong": "@c0095",
@@ -2094,28 +2649,28 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "nguonNblm": true
       },
       {
-       "chuong": "@c0102",
-       "importance": "major",
        "text": "Khi băng cướp Hắc Hùng – Tôn nhị cẩu phục kích trong hẻm để mưu tài hại mệnh, Hàn Lập ra lệnh 'giết, không lưu tay'. Khúc Hồn xông vào: một quyền đánh nát đầu một đại hán văng vào tường, gạt bay binh khí, quét chân đá hai tên bay xa hơn một trượng; tiếp tục đánh nát đầu thêm mấy tên. Thực lực áp đảo, được mô tả còn chưa xuất toàn lực.",
-       "nguonNblm": true
+       "nguonNblm": true,
+       "bridge": true,
+       "khoang": "@c0102"
       },
       {
-       "chuong": "@c0103",
-       "importance": "normal",
        "text": "Một mình hạ gục hơn hai mươi đại hán thủ hạ của Tôn nhị cẩu nằm la liệt, khiến Tôn nhị cẩu khiếp sợ quỳ xin hàng. Sau khi Hàn Lập thu phục Tôn nhị cẩu (ép uống Hủ tâm hoàn), Khúc Hồn cõng hành lý theo Hàn Lập rời đi.",
-       "nguonNblm": true
+       "nguonNblm": true,
+       "bridge": true,
+       "khoang": "@c0103"
       },
       {
        "chuong": "@c0120",
-       "importance": "major",
+       "importance": "normal",
        "text": "Hàn Lập định kế đoạt Tứ Bình Bang, giao Khúc Hồn cho Tôn nhị cẩu sai khiến để diệt phe phản đối và bảo vệ hắn lên ngôi bang chủ. Hàn Lập lấy ra Dẫn Hồn Chung trao cho Tôn nhị cẩu — pháp khí điều khiển Khúc Hồn (phương pháp khác do Mặc đại phu dạy): ai cầm chuông đều sai khiến được Khúc Hồn, nhưng chừng nào chủ nhân cũ (Hàn Lập) đã nhỏ máu lên chuông còn sống thì người khác không thể chiếm quyền điều khiển — khóa an toàn chống phản loạn.",
        "nguonNblm": true
       },
       {
-       "chuong": "@c0124",
-       "importance": "minor",
        "text": "Có mặt cùng Hàn Lập tại khách sạn khi Tôn nhị cẩu (tân bang chủ Tứ Bình Bang) và Tịch Thiết Ngưu tới gặp để khai báo manh mối 'nam nữ thần tiên'.",
-       "nguonNblm": true
+       "nguonNblm": true,
+       "bridge": true,
+       "khoang": "@c0124"
       },
       {
        "chuong": "@c0125",
@@ -2123,9 +2678,33 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "text": "Khi Hàn Lập chuẩn bị rời Gia Nguyên Thành đi tìm Thái Nam cốc và ám sát ở Độc Phách sơn trang, hắn quyết định gửi Khúc Hồn lại lâu dài ở chỗ Tôn nhị cẩu — không phải vì hết cần bảo vệ mà vì bộ dáng Khúc Hồn quá thu hút chú ý, không tiện đi xa; Hàn Lập dặn cấm dùng Khúc Hồn gây thị phi kẻo chuốc hoạ sát thân, và thầm có chút không nỡ rời bỏ.",
        "nguonNblm": true
       }
+     ],
+     "diem": [
+      {
+       "text": "Được nhận ra là di thể Trương Thiết — bạn thân của Hàn Lập — với hồn phách đã mất, bị khống chế bằng Dẫn hồn chung",
+       "chuong": "@c0063"
+      },
+      {
+       "text": "Được Hàn Lập đặt tên 'Khúc Hồn' và thu làm trợ thủ chiến đấu",
+       "chuong": "@c0064"
+      },
+      {
+       "text": "Lần đầu xuất trận làm trợ thủ chiến đấu cho Hàn Lập, thân hình cự hán đụng nát cửa khi được triệu ra",
+       "chuong": "@c0078"
+      },
+      {
+       "text": "Một mình hạ gục hơn hai mươi đại hán thủ hạ của Tôn nhị cẩu, khiến hắn khiếp sợ quỳ xin hàng",
+       "chuong": "@c0103"
+      },
+      {
+       "text": "Được Hàn Lập giao cho Tôn nhị cẩu sai khiến trong kế đoạt Tứ Bình Bang, diệt phe phản đối",
+       "chuong": "@c0120"
+      }
      ]
     },
     "detail": "Sau khi được đặt tên (c64), Khúc Hồn trở thành trợ thủ chiến đấu mạnh đầu tiên của Hàn Lập trong giai đoạn giang hồ phàm nhân: hộ vệ tuyệt đối phục tùng, im lặng không nói, thân hình cự hán cao hơn người thường hai cái đầu, thường đội nón/áo giáp che mặt và mặc lục bào để giấu thân phận. Sức chiến đấu áp đảo võ giả phàm tục (một quyền nát đầu người, hóa cuồng phong/bóng đen ám sát hàng loạt), nhiều lần được mô tả 'chưa xuất toàn lực'. Theo Hàn Lập suốt chặng rời Thất Huyền môn → về quê → tới Gia Nguyên Thành (Lam Châu, cố hương Mặc đại phu). Tới c120 được Hàn Lập tạm giao cho Tôn nhị cẩu điều khiển qua Dẫn Hồn Chung để đoạt Tứ Bình Bang, rồi c125 được gửi lại lâu dài ở chỗ Tôn nhị cẩu khi Hàn Lập rời thành — kết thúc giai đoạn đồng hành ≤c180.",
+    "vaiTro": "Yêu thi trợ chiến đầu tiên của Hàn Lập trên đường tu tiên",
+    "tinhCach": "Mất hồn phách, không còn thần trí, chỉ bị động nghe lệnh; thân hình cao lớn dị thường, mắt vô thần; sức chiến đấu áp đảo khi được điều khiển",
     "rank": "A"
    },
    {
@@ -2619,27 +3198,34 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     ],
     "canhGioiCaoNhat": "Không rõ — người tu luyện, cao thủ võ học đứng đầu Thất Huyền môn",
     "trangThai": "song",
-    "blurb": "Tên thật Vương Tuyệt Sở, Môn chủ Thất Huyền môn, truyền nhân của Thất tuyệt thương nhân. Vài năm trước bị địch nhân tập kích trọng thương, được Mặc đại phu cứu sống và sau đó mời lão nhập môn. Lãnh đạo Thất Huyền môn qua giai đoạn chiến tranh với Dã Lang bang, sẵn sàng ký tử khế đấu khi không thể tránh quyết chiến — sau đó kinh ngạc trước thân pháp bí ẩn của Hàn Lập.",
-    "vaiTro": "Môn chủ Thất Huyền môn",
-    "tinhCach": [
-     {
-      "text": "Bình tĩnh, cẩn trọng — ngăn đệ tử nóng vội xông lên Chu Nho, chỉ phái một hộ pháp thăm dò trước",
-      "chuong": 88
-     },
-     {
-      "text": "Quyết đoán trong tình huống nguy cấp — tự đề xuất tử khế đấu với điều kiện rõ ràng",
-      "chuong": 85
-     }
-    ],
+    "blurb": "Vương Tuyệt Sở, người tu luyện đứng đầu Thất Huyền môn và là truyền nhân của Thất tuyệt thương nhân. Từng bị địch tập kích trọng thương rồi được Mặc đại phu cứu sống và mời nhập môn, lão dẫn dắt Thất Huyền môn qua cuộc chiến sinh tử với Dã Lang bang — bày trận cơ quan Đại Hãm tại Lạc Nhật Phong, đề xuất tử khế đấu và trọng dụng Hàn Lập để lật ngược thế cờ. Sau đại thắng, lão vừa mừng vừa lo trước thân thủ bí ẩn của Hàn Lập.",
+    "vaiTro": "Môn chủ Thất Huyền môn — truyền nhân Thất tuyệt thương nhân",
+    "tinhCach": "Quyết đoán, dám đập bàn định đoạt giữa nội bộ chia rẽ; mưu lược, dùng bẫy cơ quan và tử khế đấu; thận trọng dò xét địch trước khi ra tay; biết trọng dụng nhân tài lại đề phòng hiểm họa",
     "tabs": {
      "diem": [
       {
-       "text": "Truyền nhân Thất tuyệt thương nhân, nắm giữ tuyệt kỹ thương pháp",
-       "chuong": 6
+       "text": "Bị địch tập kích trọng thương, được Mặc đại phu cứu sống rồi mời lão nhập môn cấp sơn cốc",
+       "chuong": "@c0006"
       },
       {
-       "text": "Chỉ huy tổng đàn Lạc Nhật Phong gồm Thất huyền điện một lớn sáu nhỏ; được ba vị sư thúc cao thủ chống lưng — đây là lý do dám nhận tử khế đấu",
-       "chuong": 82
+       "text": "Đập bàn quyết định hòa đàm với Dã Lang bang giữa nội bộ chia rẽ",
+       "chuong": "@c0075"
+      },
+      {
+       "text": "Biến toàn bộ Lạc Nhật Phong thành đại bẫy cơ quan 'Đại Hãm', kích hoạt cản bước địch",
+       "chuong": "@c0084"
+      },
+      {
+       "text": "Đề xuất tử khế đấu 50 đối 50 với Cổ Thiên Long, ký Sinh Tử Khế quyết một phe sống chết",
+       "chuong": "@c0085"
+      },
+      {
+       "text": "Sáng suốt cho Hàn Lập tham gia tử đấu, mừng như điên khi Hàn Lập áp đảo địch",
+       "chuong": "@c0092"
+      },
+      {
+       "text": "Nhận Lệ Phi Vũ làm đệ tử, phong đường chủ Ngoại Nhận Đường; nhận đan dược từ Hàn Lập",
+       "chuong": "@c0098"
       }
      ],
      "kinhLich": [
@@ -2735,7 +3321,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       },
       {
        "chuong": "@c0083",
-       "importance": "major",
+       "importance": "normal",
        "text": "Khi Cổ Thiên Long tra hỏi việc đầu hàng, Vương Tuyệt Sở tiết lộ cả Lạc Nhật Phong là đại bẫy cơ quan 'Đại Hãm Tịnh', dùng lời uy hiếp 'động quỷ vu tản' để không chế cục diện thay vì đầu hàng thật, rồi lạnh lùng quay vào điện ra lệnh 'Khởi động cơ quan thứ hai'.",
        "nguonNblm": true
       },
@@ -2759,7 +3345,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       },
       {
        "chuong": "@c0096",
-       "importance": "major",
+       "importance": "normal",
        "text": "Lo ngại Hàn Lập (tin đồn thành yêu ma), cử Lệ Phi Vũ làm sứ giả tới dò xét và hứa chức Phó Đường chủ để mua chuộc; nhưng sáng hôm sau Hàn Lập lên thẳng vào phòng ngủ của Vương Tuyệt Sở trên Lạc Nhật Phong, dùng Thiên Nhãn thuật xâm nhiếp khiến Vương môn chủ hoảng sợ, ra oai phủ đầu.",
        "nguonNblm": true
       }
@@ -3055,43 +3641,34 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     ],
     "canhGioiCaoNhat": "Phàm nhân (võ giả) — đường chủ Ngoại Nhận Đường, Thất Huyền môn",
     "trangThai": "song",
-    "blurb": "Tên thật Lệ Phi Vũ, biệt danh giang hồ 'Lệ hổ'. Ký danh đệ tử Thất Huyền môn tự lực vươn lên top hạng nhờ sức luyện phi thường. Phá kỷ lục trắc thí (vượt 30 chiêu), vào Thất Tuyệt đường. Bí mật dùng Trừu Tủy Hoàn cả viên nhiều năm để tăng vọt võ công. Được Hàn Lập cứu sống, hứa trả ơn; hai người kết ơn nghĩa. Nhờ thông tin gian tế Dã Lang bang do Hàn Lập chuyển, lập công lớn được Vương môn chủ thụ phong hộ pháp, tiến nhập trung tầng Thất Huyền môn. Sau đó thăng đường chủ Ngoại Nhận Đường — được Vương Tuyệt Sở nhận làm đệ tử sau khi Hàn Lập rời môn.",
-    "vaiTro": "Đường chủ Ngoại Nhận Đường, Thất Huyền môn; đệ tử Vương Tuyệt Sở",
-    "tinhCach": [
-     {
-      "text": "Thần sắc lãnh khốc, quyết đoán, khí thế ngút trời khi ra trận",
-      "chuong": 17
-     },
-     {
-      "text": "Bề ngoài tiêu sái vô địch, bên trong ẩn giấu bí mật chết người",
-      "chuong": 20
-     },
-     {
-      "text": "Si tình mâu thuẫn — biết thọ mệnh không còn dài nhưng vẫn kiên quyết giữ Trương Tụ Nhi: 'trong khi còn sống, Tụ Nhi là của ta một mình'",
-      "chuong": 73
-     },
-     {
-      "text": "Liều lĩnh và quyết đoán trong chiến đấu — một mình lao vào đoạt đao chém địch 'thân pháp như cầu vồng'",
-      "chuong": 80
-     }
-    ],
+    "blurb": "Lệ Phi Vũ, biệt danh giang hồ 'Lệ hổ', vốn là ký danh đệ tử Thất Huyền môn tự lực vươn lên top hạng nhờ sức luyện phi thường và Phong Lôi đao pháp. Vì bí mật dùng cả viên Trừu Tủy Hoàn nhiều năm mà tổn thọ, được Hàn Lập cứu sống và kết ơn nghĩa; nhờ tình bằng hữu này mà từng bước lập công, thăng hộ pháp rồi đường chủ Ngoại Nhận Đường và được Vương Tuyệt Sở nhận làm đệ tử. Trải suốt cuộc chiến với Dã Lang bang, y là một trong số ít người biết thực lực chân chính của Hàn Lập.",
+    "vaiTro": "Đường chủ Ngoại Nhận Đường Thất Huyền môn; đệ tử Vương Tuyệt Sở, bằng hữu Hàn Lập",
+    "tinhCach": "khổ luyện tự lực, cầu tiến bất chấp hiểm nguy; trọng ơn nghĩa, mang ơn thì báo đáp; chung tình, vì Trương Tụ Nhi mà liều mạng; cơ cảnh nhanh nhạy nhưng đôi khi nóng vội bốc đồng",
     "tabs": {
      "diem": [
       {
-       "text": "Thượng sơn 4 năm trước, không qua khảo hạch, vào với tư cách ký danh đệ tử như Hàn Lập",
-       "chuong": 18
+       "text": "Ký danh đệ tử tự lực vươn lên top hạng, danh hiệu 'Lệ hổ', phá kỷ lục trắc thí vào Thất Tuyệt đường",
+       "chuong": "@c0018"
       },
       {
-       "text": "Căn cốt bình thường, tiềm lực hữu hạn — không ai ở cao tầng chịu nhận làm đệ tử; chỉ bái một hộ pháp bình thường, học Phong Lôi đao pháp",
-       "chuong": 18
+       "text": "Bệnh phát gần chết bên suối, được Hàn Lập cứu bằng ngân châm; bí mật dùng Trừu Tủy Hoàn bị vạch trần và kết ơn nghĩa",
+       "chuong": "@c0020"
       },
       {
-       "text": "Nửa năm sau thượng sơn: đứng hạng nhất trắc thí ký danh, phá kỷ lục vượt 30 chiêu khi đối kháng sư huynh",
-       "chuong": 18
+       "text": "Duy trì giao dịch dược-đổi-võ định kỳ với Hàn Lập, dạy lại Cuồng Mãnh Kình và Triền Ti Thủ",
+       "chuong": "@c0033"
       },
       {
-       "text": "Tự lực leo top 16 nội môn (tân đệ tử duy nhất), năm sau đạt hạng ba toàn môn",
-       "chuong": 18
+       "text": "Phá tan âm mưu trộm danh sách đệ tử của gian tế Dã Lang bang, được thăng hộ pháp Thất Huyền môn",
+       "chuong": "@c0043"
+      },
+      {
+       "text": "Giết tử y chưởng kỳ sứ Dã Lang bang trong chiến tranh, thăng phó đường chủ Ngoại Nhận Đường",
+       "chuong": "@c0074"
+      },
+      {
+       "text": "Vì Trương Tụ Nhi mà xé ngụy trang, ký tử khế lao vào huyết đấu Lạc Nhật Phong",
+       "chuong": "@c0087"
       }
      ],
      "kinhLich": [
@@ -3783,8 +4360,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "cn": null,
     "aliases": [
      "Người lục bào",
-     "Thần bí nhân",
-     "Thiết Nô"
+     "Thần bí nhân"
     ],
     "gioiTinh": "nam",
     "theLuc": [],
@@ -3921,27 +4497,34 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     ],
     "canhGioiCaoNhat": "Không rõ — võ giả phàm tục cấp cao",
     "trangThai": "tu-vong",
-    "blurb": "Bang chủ Dã Lang bang, biệt hiệu 'Kim lang'. Đại địch của Thất Huyền môn. Bề ngoài gầy yếu tuấn tú, tuổi khoảng ba mươi — trái ngược với lời đồn ma đầu tắm máu — nhưng cứ động là giết người đúng như truyền thuyết. Phát động cuộc tấn công tổng lực vào Lạc Nhật Phong: tổ chức 300 cây nỏ liên châu quân dụng, thuê cao thủ tu tiên Chu Nho, nhưng sau khi nhận huyết đấu thì bắt đầu hối tiếc khi nhận ra ba sư thúc Thất Huyền môn là cấp bậc nằm ngoài dự liệu.",
-    "vaiTro": "Bang chủ Dã Lang bang",
-    "tinhCach": [
-     {
-      "text": "Bề ngoài tuấn tú gầy yếu trái ngược đồn đại; hành động thì đúng như truyền thuyết — cứ động cái là giết người",
-      "chuong": 38
-     },
-     {
-      "text": "Táo bạo nhưng thiếu thận trọng — nhận huyết đấu mà chưa ước lượng đủ thực lực đối thủ, sau đó hối tiếc",
-      "chuong": 89
-     }
-    ],
+    "blurb": "Cổ Thiên Long, biệt hiệu 'Kim lang', là bang chủ Dã Lang bang và đại địch của Thất Huyền môn. Ngoài mặt gầy yếu tuấn tú tuổi khoảng ba mươi nhưng ra tay tàn độc đúng như lời đồn ma đầu tắm máu, y tổ chức cuộc tấn công tổng lực vào Lạc Nhật Phong với Hồng y thiết vệ, 300 cây nỏ liên châu quân dụng và thuê cao thủ tu tiên Chu Nho. Sau khi nhận huyết đấu và chứng kiến ba sư thúc Thất Huyền môn vượt xa dự liệu, y bắt đầu hối tiếc rồi cuối cùng tử trận dưới tay Hàn Lập tại tử đấu trường.",
+    "vaiTro": "Bang chủ Dã Lang bang — đại địch của Thất Huyền môn",
+    "tinhCach": "Tàn nhẫn hiếu sát, động là giết người; tự tin đến chủ quan; toan tính, dùng tiền và cao thủ ngoại vi để đạt mục đích; dễ hối tiếc và hoảng loạn khi cục diện vượt dự liệu",
     "tabs": {
      "diem": [
       {
-       "text": "Biệt hiệu 'Kim lang'; tuổi khoảng ba mươi, gầy yếu tuấn tú — trái hẳn lời đồn về ma đầu cao to dữ tợn",
-       "chuong": 38
+       "text": "Trực tiếp chỉ huy tấn công Lạc Nhật Phong với Hồng y thiết vệ và 300 cây nỏ liên châu quân dụng",
+       "chuong": "@c0081"
       },
       {
-       "text": "Đứng sau quan sát toàn bộ chiến trường, không tự ra trận trực tiếp; ra quyết định chiến thuật từ phía sau",
-       "chuong": 89
+       "text": "Thuê Chu Nho (Kim Quang thượng nhân) với thù lao 3000 lượng vàng trả trước, 2000 lượng khi giết ba sư thúc, dưới chỉ đạo của Trương tiên sư",
+       "chuong": "@c0082"
+      },
+      {
+       "text": "Chấp thuận tử khế đấu 50 đối 50 với Vương Tuyệt Sở vì tự tin vào phi kiếm thuật của Chu Nho",
+       "chuong": "@c0085"
+      },
+      {
+       "text": "Nâng thù lao Chu Nho từ 5.000 lên 8.000 lượng vàng để ra trận tiêu diệt Thất Huyền môn",
+       "chuong": "@c0088"
+      },
+      {
+       "text": "Bắt đầu hối tiếc khi thấy Chu Nho bị sư thúc Thất Huyền môn áp chế, cục diện vượt dự liệu",
+       "chuong": "@c0089"
+      },
+      {
+       "text": "Tử trận cùng hơn 50 người Dã Lang bang tại tử đấu trường, bị Hàn Lập dùng ẩn thân và độn thuật giết",
+       "chuong": "@c0094"
       }
      ],
      "kinhLich": [
@@ -4000,21 +4583,21 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       },
       {
        "chuong": "@c0084",
-       "importance": "major",
+       "importance": "normal",
        "text": "Khi thạch điện sụp thành hang động sâu (cơ quan Địa Động của Vương Tuyệt Sở), thấy cả Kim Quang thượng nhân cũng kinh hoàng → nhận ra kẻ diệt Thất Huyền môn đêm nay thật bại, không cầm lòng phải chấp nhận đàm phán điều kiện, tự nhận hai bên 'ngang tay'.",
        "nguonNblm": true
       },
       {
-       "chuong": "@c0086",
-       "importance": "normal",
        "text": "Trao đổi/xác nhận Sinh Tử Khế; tuyển 13 tinh anh Dã Lang bang và ép thêm vài chục thần thủ tiểu bang phải ký tử khế để giảm tổn thất phe mình; trong cậy toàn bộ vào phi kiếm thuật Kim Quang thượng nhân, rụt rè do hỏi rồi phải cười xin lỗi nịnh nọt khi bị Chu Nho gạt.",
-       "nguonNblm": true
+       "nguonNblm": true,
+       "bridge": true,
+       "khoang": "@c0086"
       },
       {
-       "chuong": "@c0091",
-       "importance": "normal",
        "text": "Trước nay soi trao, nay sợ toát mồ hôi lạnh, sắc mặt tái nhợt khi thấy sư thúc áo xám Thất Huyền môn xuất được kiếm quang/kiếm mang; lo lắng khi phi kiếm Chu Nho bị đánh rớt.",
-       "nguonNblm": true
+       "nguonNblm": true,
+       "bridge": true,
+       "khoang": "@c0091"
       }
      ],
      "tuViMoc": [],
@@ -4236,43 +4819,34 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     ],
     "canhGioiCaoNhat": "Tu tiên — Trường Xuân công tầng 7 (chưa Trúc Cơ; nay chỉ còn nguyên thần, mất pháp thân)",
     "trangThai": "tu-vong",
-    "blurb": "Tu sĩ sơ cấp xuất thân gia tộc tu tiên. Tu Trường Xuân công tới tầng 7 nhưng tư chất có hạn, không đạt Trúc Cơ. Khi bị Mặc Cư Nhân hạ độc giết chết, lâm tử dùng 'huyết tiến âm hồn chú' phóng nguyên thần chui vào thân Mặc đại phu ký sinh — trở thành quỷ hồn trú ngụ suốt nhiều năm. Là KẺ CHỦ MƯU thật: cố ý giăng bẫy để Mặc đại phu và Hàn Lập đồng quy vu tận, hòng ngư ông đắc lợi đoạt xá Hàn Lập. Bị Hàn Lập phản sát: độc dịch phá nguyên thần + Ngọc Đái đoản kiếm chém tận diệt tại @c60.",
+    "blurb": "Tu sĩ sơ cấp xuất thân gia tộc tu tiên, tu Trường Xuân công tới tầng 7 nhưng tư chất có hạn nên không đạt Trúc Cơ. Khi bị Mặc Cư Nhân hạ độc giết chết, lâm tử dùng huyết tiến âm hồn chú phóng nguyên thần ký sinh trong thân Mặc đại phu, ẩn mình làm quỷ hồn suốt nhiều năm và là kẻ chủ mưu thật giăng bẫy hòng đoạt xá Hàn Lập. Cuối cùng bị Hàn Lập phản sát: nguyên thần chỉ còn 1/3 rồi bị độc dịch phá và diệt tận dứt điểm.",
     "vaiTro": "Phản diện ngầm — kẻ chủ mưu vụ đoạt xá; nguyên thần ký sinh trong thân Mặc đại phu",
-    "tinhCach": [
-     {
-      "text": "Giảo hoạt, xảo quyệt — đẩy hết tội lỗi cho Mặc đại phu (đã chết), tự xưng 'nạn nhân bất đắc dĩ' khi thật ra là kẻ chủ mưu",
-      "chuong": 58
-     },
-     {
-      "text": "Kiên nhẫn và tầm nhìn xa — ký sinh suốt nhiều năm, chịu đựng Mặc đại phu dùng Phệ Hồn đại pháp giam cầm, chờ thời cơ đoạt xá",
-      "chuong": 59
-     },
-     {
-      "text": "Biết xuống nước khi thế yếu — tha mạng Hàn Lập, hứa hẹn 'hợp tác', mời làm đồ đệ gia tộc tu tiên; thật ra muốn hắn hạ cảnh giác",
-      "chuong": 59
-     },
-     {
-      "text": "Dụ dỗ bằng viễn cảnh tu tiên bất tử — chiêu quen dùng với cả Mặc đại phu lẫn Hàn Lập",
-      "chuong": 60
-     }
-    ],
+    "tinhCach": "thâm hiểm, giỏi giăng bẫy để ngư ông đắc lợi; xảo ngôn — chiêu tìm đồng cảm, biện minh khi bị vạch trần; ẩn nhẫn, ký sinh chờ thời nhiều năm; toan tính lạnh lùng, coi người khác làm quân cờ đoạt xá",
     "tabs": {
      "diem": [
       {
-       "text": "Trước khi chết dùng 'huyết tiến âm hồn chú' — hóa máu huyết thành huyết chú phún lên đầu Mặc đại phu; nguyên thần xuất khiếu, chui vào thân Mặc đại phu vì không có pháp khí dung thân",
-       "chuong": 58
+       "text": "Tu Trường Xuân công tới tầng 7 nhưng tư chất có hạn, không đạt Trúc Cơ",
+       "chuong": "@c0058"
       },
       {
-       "text": "Ký sinh trong thân Mặc đại phu suốt nhiều năm, chịu bị Phệ Hồn đại pháp giam cầm khống chế, từng đòi về gia tộc xin cứu nhưng bị từ chối",
-       "chuong": 59
+       "text": "Ký sinh nguyên thần trong thân Mặc đại phu, ẩn mình làm quỷ hồn nhiều năm rồi lộ diện với danh 'đệ tam nhân'",
+       "chuong": "@c0055"
       },
       {
-       "text": "Chủ mưu thật: cố ý truyền công pháp sai lệch cho Mặc đại phu, dẫn dắt hắn nhắm vào Hàn Lập — mục đích thật là để cả hai đồng quy vu tận, mình đoạt xá Hàn Lập",
-       "chuong": 59
+       "text": "Tham gia nghi thức Thất Quỷ Phệ Hồn đại pháp để đoạt xá bên phía Mặc đại phu",
+       "chuong": "@c0056"
       },
       {
-       "text": "Nay chỉ còn nguyên thần (quang cầu lục quang), mất pháp thân; nguyên khí đại thương sau cuộc đoạt xá thất bại với Hàn Lập; pháp lực hao mòn dần vì không thân thể bổ sung",
-       "chuong": 59
+       "text": "Đoạt xá thất bại, nguyên thần bị Hàn Lập đánh đuổi chỉ còn 1/3, nguyên khí đại thương",
+       "chuong": "@c0057"
+      },
+      {
+       "text": "Bị vạch trần là kẻ chủ mưu cố ý giăng bẫy để ngư ông đắc lợi, quay sang đề nghị hợp tác",
+       "chuong": "@c0059"
+      },
+      {
+       "text": "Bị Hàn Lập vờ hợp tác câu giờ rồi phản sát: độc dịch phá nguyên thần, diệt tận dứt điểm",
+       "chuong": "@c0061"
       }
      ],
      "kinhLich": [
@@ -4656,9 +5230,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "id": "tien-truong-lao",
     "name": "Tiễn trưởng lão",
     "cn": null,
-    "aliases": [
-     "Tiền trưởng lão"
-    ],
+    "aliases": [],
     "gioiTinh": "nam",
     "theLuc": [
      {
@@ -4841,9 +5413,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "id": "ly-thi",
     "name": "Lý thị",
     "cn": null,
-    "aliases": [
-     "Sư nương"
-    ],
+    "aliases": [],
     "gioiTinh": "nu",
     "theLuc": [
      {
@@ -5957,13 +6527,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "chuong": 123,
        "importance": "major",
        "tieuDe": "Chấp nhận điều kiện mới — nuốt thuốc con tin",
-       "text": "Đồng ý điều kiện Hàn Lập đặt lại: chỉ diệt trang chủ Độc Bá sơn trang Âu Dương Phi Thiên (thầy của Ngô Kiếm Minh), đổi lấy Noãn dương bảo ngọc. Một mình nuốt thuốc con tin hóa học của Hàn Lập thay cho các con gái, thể hiện bản lĩnh che chắn cho con."
-      },
-      {
-       "chuong": "@c0123",
-       "importance": "normal",
-       "text": "Tiết lộ toàn bộ bí ẩn cục diện Lam Châu cho Hàn Lập: kẻ giả mạo 'họ Ngô' (Ngô Kiếm Minh) chính là đệ tử thứ bảy được sủng ái của Âu Dương Phi Thiên — trang chủ Độc Bá sơn trang ngoài hiệu 'Nộ Sư'. Âu Dương Phi Thiên đồng lõa phụ quân bà, nuôi hùng tâm xưng bá Lam Châu theo sách 'trước yếu sau mạnh' (diệt Kinh Giao môi trước, sau mới đánh Ngũ Sắc môn); mấy năm trước xúi nghĩa đệ Ma Không Thiên và nhị đệ tử Triệu Khôn chia rẽ Kinh Giao môi — tỷ muội Nghiêm thị giết cả hai cùng đồng đảng nhưng Kinh Giao môi tổn hại nặng, bị Độc Bá sơn trang đánh lui, phải cố cùm cố thủ Gia Nguyên thành.",
-       "nguonNblm": true
+       "text": "Đồng ý điều kiện Hàn Lập đặt lại: chỉ diệt trang chủ Độc Bá sơn trang Âu Dương Phi Thiên (thầy của Ngô Kiếm Minh), đổi lấy Noãn dương bảo ngọc. Một mình nuốt thuốc con tin hóa học của Hàn Lập thay cho các con gái, thể hiện bản lĩnh che chắn cho con.; Tiết lộ toàn bộ bí ẩn cục diện Lam Châu cho Hàn Lập: kẻ giả mạo 'họ Ngô' (Ngô Kiếm Minh) chính là đệ tử thứ bảy được sủng ái của Âu Dương Phi Thiên — trang chủ Độc Bá sơn trang ngoài hiệu 'Nộ Sư'. Â…"
       },
       {
        "chuong": 126,
@@ -8226,7 +8790,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       "trangThai": "hien-tai"
      }
     ],
-    "canhGioiCaoNhat": "Trúc Cơ kỳ hậu kỳ",
+    "canhGioiCaoNhat": "Không rõ",
     "trangThai": "song",
     "blurb": "Chưởng môn hiện tại Hoàng Phong Cốc. Hơn trăm tuổi nhưng trông như mới ba mươi, tu vi hậu kỳ Trúc Cơ kỳ. Tính trầm ổn, công chính nghiêm minh, uy vọng cao. Chỉ phất tay áo đã dùng lực nhu hòa vô hình nâng người — thể hiện công lực thâm hậu. Dàn xếp ổn thỏa vụ Trúc Cơ đan, thu nhận Hàn Lập vào môn dù tư chất kém vì bổn môn giữ lời hứa với Thăng Tiên Lệnh.",
     "vaiTro": "Chưởng môn Hoàng Phong Cốc",
@@ -8265,6 +8829,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "importance": "normal",
        "tieuDe": "Phát biểu cổ vũ trước chuyến Huyết Cấm Thí Luyện",
        "text": "Phát biểu cổ vũ đoàn đệ tử áo vàng tại nghị sự đại điện trước khi họ xuất phát vào cấm địa. Nghênh đón và giới thiệu Lý Sư Tổ (gọi 'Lý sư thúc') trước mặt toàn thể đệ tử."
+      },
+      {
+       "text": "Chung Linh Đạo tiếp Hàn Lập ở Nghị sự điện, chúc mừng và kinh ngạc trước việc ngụy linh căn bốn thuộc tính vẫn Trúc Cơ thành công; nhận ra Hàn Lập là đệ tử ký danh mà Lý sư tổ thu nhận tại cấm địa nên chuyển sang thân thiện vì không muốn kết oán; điền tên Hàn Lập vào ngọc điệp trắng và giao linh thạch, Mê tung kỳ cùng ngọc giản.",
+       "anchor": "một ngụy linh căn cả bốn thuộc tính như vậy mà cũng có thể Trúc Cơ thành công",
+       "bridge": true,
+       "khoang": "@c0219"
       }
      ],
      "tuViMoc": [
@@ -8275,7 +8845,14 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "importance": "normal"
       }
      ],
-     "nhanMach": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "su-mon",
+       "quanHe": "Đệ tử Hoàng phong cốc mà Chung Linh Đạo cấp động phủ.",
+       "ghiChu": "Hậu đãi vì Hàn Lập là đệ tử ký danh tương lai của Lý sư tổ."
+      }
+     ],
      "tuiDo": {
       "phapBao": [],
       "danDuoc": [],
@@ -8292,7 +8869,8 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0145",
      "c0147",
      "c0148",
-     "c0174"
+     "c0174",
+     "@c0219"
     ],
     "rank": "B"
    },
@@ -8372,6 +8950,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "importance": "normal",
        "tieuDe": "Hối ước — bị Ngô Tính nắm thóp",
        "text": "Hoãn giao một phần vật phẩm bồi thường với cớ luyện Hợp Khí đan cho cháu sắp Trúc Cơ. Hàn Lập nhẫn nhịn. Sau khi Hàn Lập đi, bị Ngô Tính lộ rõ đang khống chế qua thỏa thuận chia nửa Hợp Khí đan."
+      },
+      {
+       "text": "Sau khi biết Hàn Lập là ký danh đệ tử Lý sư tổ, Diệp Tính lão giả — người từng ăn bớt phân nửa đồ của Hàn Lập — phái người trả đủ và còn nhiều hơn.",
+       "anchor": "Còn có chuyện, chính là Hàn Lập tại Hoàng phong cốc đột nhiên thanh danh bay",
+       "bridge": true,
+       "khoang": "@c0213"
       }
      ],
      "tuViMoc": [],
@@ -8399,7 +8983,8 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0146",
      "c0147",
      "c0149",
-     "c0150"
+     "c0150",
+     "@c0213"
     ],
     "rank": "B"
    },
@@ -8592,6 +9177,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "importance": "normal",
        "tieuDe": "Tin chuyện Long Lân quả bán tín bán nghi",
        "text": "Bị Hàn Lập bịa chuyện 'Long Lân quả' — loại tiên gia chi quả ghi trong cổ thư 'Kỳ vật dị chí' — thuyết phục. Tra sách xác nhận tên quả đúng, bán tín bán nghi nhưng hoàn tất thủ tục báo danh và dặn dò chú ý cho Hàn Lập."
+      },
+      {
+       "text": "Cùng một quản sự lạ mặt mang một viên Trúc cơ đan làm phần thưởng đến cho Hàn Lập, giải thích rằng Lý sư tổ lấy linh dược là do “đệ tử tận hiếu kính sư phụ”; thấy Hàn Lập không ý kiến liền thở phào rời đi.",
+       "anchor": "thực sự là mang đến một viên Trúc cơ đan làm phần thưởng",
+       "bridge": true,
+       "khoang": "@c0213"
       }
      ],
      "tuViMoc": [],
@@ -8614,7 +9205,8 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0148",
      "c0149",
      "c0172",
-     "c0173"
+     "c0173",
+     "@c0213"
     ],
     "rank": "B"
    },
@@ -8851,7 +9443,9 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "cn": null,
     "aliases": [
      "Mã lão giả",
-     "lão đầu"
+     "lão đầu",
+     "Mã sư huynh",
+     "Tiêu lão nhân"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -8913,6 +9507,18 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "importance": "normal",
        "tieuDe": "Tặng hai bình đan dược cho Hàn Lập",
        "text": "Nghe Hàn Lập nhờ tạm gánh việc dược viên để chuẩn bị Huyết Cấm Thí Luyện, nửa ngày không nói — nhìn Hàn Lập bằng ánh mắt 'ngươi nhất định chết'. Trước khi rời đi bất ngờ ném cho Hàn Lập hai bình đan dược: một bình uống vào, một bình xoa ngoài da — hành động của người diện lãnh tâm nhiệt."
+      },
+      {
+       "text": "Lão nhân coi Bách thảo viên kinh ngạc trước việc Hàn Lập không chết còn được thu ký danh đệ tử; giải thích quy củ bất thành văn của bổn môn cho phép sư phụ lấy nửa cống phẩm làm lễ tạ sư một lần, nên Hàn Lập chỉ được một viên Trúc cơ đan thay vì hai, rồi an ủi hắn rằng đổi lấy chỗ chống lưng của Lý sư thúc là không tệ trước khi cáo từ, trả lại Bách dược viên cho Hàn Lập.",
+       "anchor": "ngươi chỉ có phúc phận nhận được một viên Trúc cơ đan, việc hai viên, cũng không cần nằm mơ nữa!",
+       "bridge": true,
+       "khoang": "@c0212"
+      },
+      {
+       "text": "Đang nhắm mắt hấp thu thiên linh địa khí tại Bách dược viên, khi gọi tên Hàn Lập bỗng cảm ứng được cảnh giới mới, kinh ngạc không tin hắn Trúc Cơ thành công; đề nghị bỏ cách xưng “sư bá”, nay cùng là tu sĩ Trúc cơ kỳ nên xưng hô sư huynh đệ, để Hàn Lập gọi mình là “Mã sư huynh”; khuyên hắn gặp Chung chưởng môn ghi tên lên sách hưởng đãi ngộ đệ tử bậc cao và tự khai động phủ tại Thái nhạc sơn mạch; tiết lộ lai lịch thật của Thanh nguyên kiếm quyết",
+       "anchor": "hai chữ sư bá này đừng nhắc tới",
+       "bridge": true,
+       "khoang": "@c0217"
       }
      ],
      "tuViMoc": [],
@@ -8933,7 +9539,9 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0152",
      "c0153",
      "c0159",
-     "c0173"
+     "c0173",
+     "@c0212",
+     "@c0217"
     ],
     "rank": "B"
    },
@@ -9108,7 +9716,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      }
     ],
     "canhGioiCaoNhat": "Luyện Khí kỳ tầng 12 trung giai — phong linh căn",
-    "trangThai": "tu-vong",
+    "trangThai": "khong-ro",
     "blurb": "Đệ tử cũ Hoàng Phong Cốc, sở hữu phong linh căn — dị linh căn, hảo thủ phong hệ pháp thuật. Luyện Khí kỳ tầng 12 trung giai, pháp lực thâm hậu. Động cơ tham lam: muốn cướp 2 viên Trúc Cơ đan thật và dùng Hợp Hoan Hoàn cưỡng bức Trần sư muội để được nhà họ Đổng gả con gái kèm mối quan hệ Hồng Phất sư thúc tổ. Bị Hàn Lập đánh bại bằng mưu trí trong ác đấu c167–c169, chết — bị cự kiếm chém bửa làm đôi.",
     "vaiTro": "Đệ tử Hoàng Phong Cốc; kẻ đối địch trong ác đấu c167–c169",
     "tinhCach": [
@@ -9162,6 +9770,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "importance": "major",
        "tieuDe": "Chết trong ác đấu với Hàn Lập",
        "text": "Chiến đấu quyết liệt c167–c169 với Hàn Lập: dùng Phong tường thuật, Thanh giao kỳ (Hóa giao), đao phong. Liều chết thu pháp lực Thanh giao kỳ dồn đao phong lớn nhưng thất bại — bị cự kiếm của Hàn Lập chém bửa làm đôi, chết. Túi trữ vật với 2 viên Trúc Cơ đan bị Hàn Lập thu."
+      },
+      {
+       "text": "Được Hàn Lập nhắc trong hồi tưởng: từng dùng thượng phẩm pháp khí Thanh giao kỳ giằng co với phù bảo phi kiếm của Hàn Lập nửa ngày, dùng làm mốc so sánh uy lực với tiểu đao Phong Nhạc.",
+       "anchor": "thượng phẩm pháp khí Thanh giao kỳ",
+       "bridge": true,
+       "khoang": "@c0188"
       }
      ],
      "tuViMoc": [
@@ -9197,7 +9811,8 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0166",
      "c0167",
      "c0168",
-     "c0169"
+     "c0169",
+     "@c0188"
     ],
     "rank": "B"
    },
@@ -9273,7 +9888,10 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "id": "tran-su-muoi",
     "name": "Trần sư muội",
     "cn": null,
-    "aliases": [],
+    "aliases": [
+     "Trần thất muội",
+     "thất muội"
+    ],
     "gioiTinh": "nu",
     "theLuc": [
      {
@@ -9281,7 +9899,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       "trangThai": "hien-tai"
      }
     ],
-    "canhGioiCaoNhat": "Luyện Khí kỳ trung tầng 12",
+    "canhGioiCaoNhat": "Trúc cơ kỳ (@c0213)",
     "trangThai": "song",
     "blurb": "Nữ tử diễm lệ, con gái gia chủ Trần gia, đệ tử Hoàng Phong Cốc. Luyện Khí kỳ trung tầng 12. Trúng Hợp Hoan đan của Lục sư huynh tại c165, bị cưỡng bức; được Hàn Lập giải độc bằng Thanh Linh Tán rồi an trí. Sau biến cố tính tình thay đổi hẳn — lãnh diễm cự người, không nhớ mặt Hàn Lập do mê huyễn lực Hợp Hoan đan. Tự tham gia Huyết Cấm Thí Luyện để tìm lại Trúc Cơ đan đã mất.",
     "vaiTro": "Đệ tử Hoàng Phong Cốc; con gái gia chủ Trần gia; nạn nhân kế hoạch của Lục sư huynh",
@@ -9340,6 +9958,26 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "chuong": 178,
        "importance": "minor",
        "text": "Hai má ửng hồng, nắm chặt quyền, đầy quyết tâm nghe Lý sư tổ giảng về sinh tử chiến trong cấm địa."
+      },
+      {
+       "text": "Lộ diện chính là em gái Trần đại công tử, thực lực yếu nhất, dùng hai phi kiếm lam-vàng tranh linh thảo; bất mãn đòi truy sát nhưng bị đại ca ngăn; mang hận người cứu (Hàn Lập) vì đã bỏ nàng nơi hoang vu và lấy Trúc Cơ đan; hồi tưởng đêm bị nạn trần trụi thần trí không rõ bị hai tên Lục gia vuốt ve, thẹn quá hóa giận, lấy cớ đi hái thuốc.",
+       "anchor": "Chính là thẹn quá hóa giận, Trần sư muội tận lực không muốn nhớ đến việc này",
+       "bridge": true,
+       "khoang": "@c0199"
+      },
+      {
+       "chuong": "@c0209",
+       "importance": "normal",
+       "tieuDe": "Khinh bỉ Hàn Lập",
+       "text": "Cùng huynh Trần đại công tử ra khỏi cấm địa mang thương, ngồi cạnh Hàn Lập; tỏ thái độ khinh bỉ hắn vì cho rằng hắn nhát gan không có thu hoạch.",
+       "anchor": "thêm vào Hàn Lập tổng cộng là có năm người"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0213",
+       "tieuDe": "Trúc cơ thành công",
+       "text": "Sau khi phục viên Trúc cơ đan phần thưởng và khổ tu một năm, hai năm sau Trần sư muội đột phá thành công tiến vào Trúc cơ kỳ.",
+       "anchor": "rốt cục hai năm sau đã Trúc cơ thành công, tiến vào Trúc cơ kỳ"
       }
      ],
      "tuViMoc": [
@@ -9348,6 +9986,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "canhGioi": "Luyện Khí kỳ trung tầng 12",
        "text": "Xác nhận qua quan sát của Hàn Lập khi đánh giá toàn đoàn trước Huyết Cấm Thí Luyện.",
        "importance": "normal"
+      },
+      {
+       "chuong": "@c0213",
+       "canhGioi": "Trúc cơ kỳ",
+       "text": "Phục Trúc cơ đan phần thưởng, khổ tu một năm rồi hai năm sau đột phá thành công vào Trúc cơ kỳ.",
+       "importance": "major"
       }
      ],
      "nhanMach": [
@@ -9355,6 +9999,18 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "ten": "Lục sư huynh",
        "tag": "tinh-nhan",
        "quanHe": "Tình lang cũ (người đã hại nàng)"
+      },
+      {
+       "ten": "Trần đại công tử",
+       "tag": "ho-hang",
+       "quanHe": "Anh trai",
+       "ghiChu": "Che chở, ngăn nàng truy sát"
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "an-nhan",
+       "quanHe": "Người cứu nàng khỏi Lục gia",
+       "ghiChu": "Mang hận vì bị bỏ nơi hoang vu và mất Trúc Cơ đan"
       }
      ],
      "tuiDo": {
@@ -9377,9 +10033,11 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0171",
      "c0173",
      "c0175",
-     "c0178"
+     "c0178",
+     "@c0209",
+     "@c0213"
     ],
-    "rank": "B"
+    "rank": "A"
    },
    {
     "id": "dien-bac-ly",
@@ -9573,7 +10231,10 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "aliases": [
      "Lý sư thúc",
      "Lý tiên sư",
-     "Lý tổ sư"
+     "Lý tổ sư",
+     "Lý Hóa Nguyên",
+     "Lý tiểu tử",
+     "Lý sư tôn"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -9648,6 +10309,65 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "importance": "major",
        "tieuDe": "Dùng Giới thước phá Phong nhận đại trận",
        "text": "Cùng 6 tổ sư Kết Đan kỳ các phái xuất pháp bảo bản mệnh công phá cấm chế Phong nhận đại trận 3-4 canh giờ. Giới thước của lão như có linh tính, đập nát vô số phong nhận, mở thông đạo để đệ tử vào cấm địa."
+      },
+      {
+       "text": "Ở lối vào chỗ phá cấm, Lý sư tổ giữ cửa cùng các cao thủ Kết Đan kỳ, ngoài mặt trấn an đạo sĩ Thanh Hư nhưng nội tâm gọi thẳng tên Phù Vân Tử, nhìn thấu ý đồ Thanh Hư muốn liên thủ thắng Yểm Nguyệt tông rồi ngồi trên đầu Hoàng Phong cốc; hắn tiết lộ lần này Hoàng Phong cốc phái cả đám đệ tử đứng đầu Luyện Khí kỳ, tỏ ra hồ ly thâm tàng bất lộ.",
+       "anchor": "Phù Vân Tử, lão mũi trâu nhà ngươi có chủ ý gì, đừng cho là ta không biết!",
+       "bridge": true,
+       "khoang": "@c0196"
+      },
+      {
+       "chuong": "@c0209",
+       "importance": "normal",
+       "tieuDe": "Vui mừng vì Hoàng phong cốc",
+       "text": "Trưởng bối Kết đan kỳ Hoàng phong cốc; vui mừng lộ nét xuân phong vì Hoàng phong cốc có năm người sống sót ra khỏi cấm địa (nhiều nhất các phái) và vì Yểm Nguyệt tông gặp chuyện đệ tử không ai ra.",
+       "anchor": "thêm vào Hàn Lập tổng cộng là có năm người"
+      },
+      {
+       "chuong": "@c0210",
+       "importance": "normal",
+       "tieuDe": "Căng thẳng theo diễn biến đổ cục",
+       "text": "Lý sư tổ tham gia vụ cá cược linh dược cùng đạo sĩ Phù Vân Tử của Thanh Hư môn; sắc mặt thay đổi liên tục, âm trầm khi bất lợi và biện hộ cho Hàn Lập cùng Hướng Chi Lễ.",
+       "anchor": "vật, thì Lý sư tổ sắc mặt nhất thời âm trầm, mà Phù Vân Tử mặt mày hớn hở hẳn"
+      },
+      {
+       "chuong": "@c0211",
+       "importance": "normal",
+       "tieuDe": "Đối đầu Phù Vân Tử, thu Hàn Lập",
+       "text": "Bảo vệ Hàn Lập trước Phù Vân Tử và hừ một tiếng sau khi thấy biểu tình đối phương; thua cược với Khung lão quái, chủ động hứa trong hai mươi năm sẽ đưa hai khối thiết tinh; tra hỏi rồi định thu Hàn Lập làm ký danh đệ tử vì tìm được nhiều linh dược.",
+       "anchor": "Trong vòng hai mươi năm, sẽ cho người đem hai khối thiết tinh tới!"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0212",
+       "tieuDe": "Thu Hàn Lập làm ký danh đệ tử",
+       "text": "Tu sĩ Kết đan kỳ Hoàng phong cốc thu Hàn Lập làm ký danh đệ tử, tặng pháp khí Bích quang đao làm lễ gặp mặt và hứa nếu Trúc cơ thành công sẽ thu làm đệ tử chính thức, thất bại vẫn chỉ điểm một phần công pháp; đoàn cưỡi Ngân giáp giác mãng bay mấy ngày về cốc rồi lão dẫn hai quản sự vào Nghị sự điện, dụng ý thật là lấy mười gốc linh dược của Hàn Lập làm lễ tạ sư.",
+       "anchor": "Qua một thời gian nữa nếu Trúc cơ thành công, ta sẽ đưa ngươi đến chỗ của ta, thu ngươi làm đệ tử chính thức."
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0213",
+       "tieuDe": "Thu Hàn Lập làm ký danh đệ tử",
+       "text": "Sau khi Hàn Lập trở về từ cấm địa, Lý Hóa Nguyên thu hắn làm ký danh đệ tử; chỉ phái người đưa quyển “Thanh nguyên kiếm quyết” có bút tích rồi ba năm không tin tức, song danh nghĩa của ông đủ khiến người khác nể trọng Hàn Lập.",
+       "anchor": "được Lý sư tổ thu làm ký danh đệ tử, sau khi trở về từ cấm địa"
+      },
+      {
+       "text": "Tại đại sảnh Lục Ba động sau thác nước phía đông Thái Nhạc sơn mạch, tiếp nhận Hàn Lập tham kiến cùng sư nương; mặt vẫn lạnh như băng nhưng mỉm cười, khẩu khí ấm áp khen việc Hàn Lập Trúc Cơ thành công khiến lão giật mình, cười bảo may mắn cũng là thể hiện tư chất.",
+       "anchor": "Đệ tử Hàn Lập bái kiến sư tôn",
+       "bridge": true,
+       "khoang": "@c0237"
+      },
+      {
+       "text": "Thẳng thắn thừa nhận thu Hàn Lập làm đồ đệ vì tham linh dược thiên địa, lấy đi một nửa nên Hàn Lập chỉ nhận một viên Trúc Cơ đan; kể việc số linh dược đó luyện đan cứu mạng phu nhân bị tu luyện sai lầm; vì đã hứa thu môn khi Hàn Lập Trúc Cơ nên việc thu môn không tính là bồi thường, hứa bồi thường thêm trong phạm vi năng lực (đan dược, công pháp hoặc pháp khí).",
+       "anchor": "ta làm trưởng bối đích thật là tham đồ thiên địa linh dược",
+       "bridge": true,
+       "khoang": "@c0238"
+      },
+      {
+       "text": "Bắt cổ tay Hàn Lập dò xét, kinh ngạc phát hiện đồ đệ có linh căn bốn thuộc tính trừ Kim; giảng công pháp tu tiên chia ba loại theo uy lực và hiệu quả; tiết lộ mình tu công pháp đỉnh cấp Chân Dương quyết và là tam dương chi thể gần Thiên Linh căn; khuyên Hàn Lập chọn loại một nhưng tôn trọng quyết định chọn loại hai rồi dẫn hắn vào Tàng thư thất.",
+       "anchor": "Vi sư tu luyện là công pháp đỉnh cấp “Chân Dương quyết”, nhưng vi sư thân mình chính là tam dương chi thể gần với Thiên Linh căn",
+       "bridge": true,
+       "khoang": "@c0239"
       }
      ],
      "tuViMoc": [
@@ -9668,6 +10388,42 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "ten": "Phù Vân Tử",
        "tag": "dau-tranh",
        "quanHe": "Đối thủ quen biết (Thanh Hư môn); từng thua cược mất thiết tinh; lại đánh cược lần nữa"
+      },
+      {
+       "ten": "Phù Vân Tử",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh danh nghĩa trong cuộc đánh cược nhưng nghi kỵ nhau",
+       "ghiChu": "Lý sư tổ nhìn thấu ý đồ của Phù Vân Tử muốn ngồi trên đầu Hoàng Phong cốc (@c0196)."
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "su-mon",
+       "quanHe": "Ký danh đệ tử; Lý Hóa Nguyên thu về chủ yếu để lấy nửa số linh dược làm lễ tạ sư.",
+       "ghiChu": "@c0212"
+      },
+      {
+       "ten": "Vu Khôn",
+       "tag": "su-mon",
+       "quanHe": "Đại đệ tử của Lý Hóa Nguyên",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Sư nương (thê tử Lý Hóa Nguyên)",
+       "tag": "the-thiep",
+       "quanHe": "Thê tử, nữ tu Trúc Cơ trung kỳ, cảm tình rất tốt",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Tống Mông",
+       "tag": "su-mon",
+       "quanHe": "Tứ đồ đệ",
+       "ghiChu": "Tống Mông từ nhỏ lớn lên bên vợ chồng Lý Hóa Nguyên, giỏi Ngũ Hành thực chiến."
+      },
+      {
+       "ten": "Phù Vân Tử",
+       "tag": "doi-thu",
+       "quanHe": "Xích mích tại thí luyện, hừ một tiếng sau khi thấy biểu tình Phù Vân Tử",
+       "ghiChu": ""
       }
      ],
      "tuiDo": {
@@ -9686,9 +10442,19 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0175",
      "c0176",
      "c0177",
-     "c0179"
+     "c0179",
+     "@c0196",
+     "@c0209",
+     "@c0210",
+     "@c0211",
+     "@c0212",
+     "@c0213",
+     "@c0237",
+     "@c0238",
+     "@c0239",
+     "@c0240"
     ],
-    "rank": "B"
+    "rank": "A"
    },
    {
     "id": "huong-chi-le",
@@ -9697,7 +10463,9 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "aliases": [
      "Hướng Tính",
      "Hướng sư huynh",
-     "lão giả mặt già nua"
+     "lão giả mặt già nua",
+     "Lão hoạt đầu",
+     "lão giả áo vàng"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -9706,7 +10474,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       "trangThai": "hien-tai"
      }
     ],
-    "canhGioiCaoNhat": "Luyện Khí kỳ tầng 11",
+    "canhGioiCaoNhat": "Không rõ",
     "trangThai": "song",
     "blurb": "Đệ tử Hoàng Phong Cốc, Luyện Khí kỳ tầng 11. Mặt già nua mắt giảo hoạt, da mặt dày, giọng già nua nhưng linh hoạt. Tiếp cận Hàn Lập trước khi vào cấm địa đề nghị liên minh 'cùng hành động cùng tác chiến', thực ra muốn 'đục nước béo cò' dùng người yếu làm vật hy sinh. Bị Hàn Lập từ chối thẳng thừng, xấu hổ cáo từ, chuyển sang mục tiêu khác. (+) Lão giả đệ tử Hoàng Phong cốc, tu vi tầng mười một Luyện Khí — thuộc nhóm pháp lực thấp nhất đoàn. Rủ Hàn Lập lập liên minh để mượn sức rồi đoạt lợi nhưng bị Hàn Lập cự tuyệt. [CAN-SOAT-GOP]",
     "vaiTro": "Đệ tử Hoàng Phong Cốc; tham gia Huyết Cấm Thí Luyện",
@@ -9733,13 +10501,20 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "chuong": 175,
        "importance": "normal",
        "tieuDe": "Đề nghị liên minh — bị Hàn Lập từ chối",
-       "text": "Nhiệt tình da mặt dày rủ Hàn Lập 'cùng hành động cùng tác chiến', úp mở có 'chủ ý tuyệt diệu'. Hàn Lập nhìn thấu ý đồ, thẳng thừng từ chối. Hướng Tính nhận ra đây là người lão luyện, xấu hổ cáo từ, chuyển sang tiếp cận đệ tử khác trên tảng đá."
+       "text": "Nhiệt tình da mặt dày rủ Hàn Lập 'cùng hành động cùng tác chiến', úp mở có 'chủ ý tuyệt diệu'. Hàn Lập nhìn thấu ý đồ, thẳng thừng từ chối. Hướng Tính nhận ra đây là người lão luyện, xấu hổ cáo từ, chuyển sang tiếp cận đệ tử khác trên tảng đá.; Lão giả đệ tử Hoàng Phong cốc đi dự huyết sắc thí luyện, tu vi tầng mười một Luyện Khí — nhóm pháp lực thấp nhất đoàn, mắt lộ vẻ giảo hoạt, da mặt dày. Cùng một thiếu niên chủ động rủ Hàn Lập lập liên min…"
       },
       {
-       "chuong": "@c0175",
+       "text": "Tại vùng phía tây khu trung tâm, lão a dua tâng bốc Mông đệ tử Cự Kiếm môn, khoe công thuyết phục ba tu sĩ khác môn phái hợp sức diệt Hỏa lang ba mắt và chia đều Hỏa Long thảo; lập luận không nên hi sinh mạng sống một cách vô ích.",
+       "anchor": "Mọi người vốn không cần thiết vì một thứ căn bản không có khả năng rơi vào tay chúng ta mà hi sinh mạng sống của chính mình một cách vô ích",
+       "bridge": true,
+       "khoang": "@c0191"
+      },
+      {
+       "chuong": "@c0210",
        "importance": "normal",
-       "tieuDe": "Rủ Hàn Lập lập liên minh bị cự tuyệt",
-       "text": "Lão giả đệ tử Hoàng Phong cốc đi dự huyết sắc thí luyện, tu vi tầng mười một Luyện Khí — nhóm pháp lực thấp nhất đoàn, mắt lộ vẻ giảo hoạt, da mặt dày. Cùng một thiếu niên chủ động rủ Hàn Lập lập liên minh 'cùng hành động' cho an toàn. Hàn Lập đoán đây là kế 'đục nước béo cò' nên cự tuyệt; lão lộ vẻ xấu hổ cáo từ, chuyển sang tìm đệ tử khác."
+       "tieuDe": "Thoát ra khỏi thông đạo phút chót",
+       "text": "Lão hoạt đầu Hướng Chi Lễ ba chân bốn cẳng chạy ra khỏi thông đạo ngay trước khi cấm địa chấn động, thông đạo vỡ vụn biến mất; sau đó chen lên trước Hàn Lập, cung kính giao ra hai gốc Tử hầu hoa trong đổ cục.",
+       "anchor": "thông đạo liền vỡ vụn ra, cuối cùng biến mất vô ảnh vô tung"
       }
      ],
      "tuViMoc": [
@@ -9755,6 +10530,18 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "ten": "Hàn Lập",
        "tag": "khac",
        "quanHe": "Rủ liên minh @c0175, bị cự tuyệt"
+      },
+      {
+       "ten": "Mông đệ tử",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm bợ trong liên minh diệt yêu hái thảo",
+       "ghiChu": "Lão tâng bốc và rủ hắn hợp sức, nhưng Mông ngầm lộ ý trở mặt (@c0191)."
+      },
+      {
+       "ten": "Lý đạo trưởng",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm bợ trong liên minh diệt yêu hái thảo",
+       "ghiChu": "Cùng phối hợp diệt Hỏa lang ba mắt (@c0191)."
       }
      ],
      "tuiDo": {
@@ -9770,17 +10557,19 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "uuTien": 8,
     "nguon": [
      "c0174",
-     "c0175"
+     "c0175",
+     "@c0191",
+     "@c0210"
     ],
     "rank": "C"
    },
    {
     "id": "phu-van-tu",
     "name": "Đạo sĩ Thanh Hư môn",
-    "cn": null,
+    "cn": "浮云子",
     "aliases": [
-     "đạo sĩ Thanh Hư môn",
-     "đạo sĩ trung niên"
+     "đạo sĩ trung niên",
+     "Trung niên đạo sĩ (Thanh Hư môn)"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -9789,7 +10578,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       "trangThai": "hien-tai"
      }
     ],
-    "canhGioiCaoNhat": "Kết Đan kỳ",
+    "canhGioiCaoNhat": "Không rõ — @c0211",
     "trangThai": "song",
     "blurb": "Đạo sĩ trung niên Thanh Hư môn, Kết Đan kỳ, dẫn đoàn tới Huyết Cấm Thí Luyện. Hay cười vuốt râu, quỷ kế đa đoan, gian trá xảo quyệt theo đánh giá của Hàn Lập. Quen biết Lý Sư Tổ từ trước — ván cược cũ đã thắng, lấy được thiết tinh luyện vào Thanh Quân kiếm. Nay lại rủ Lý Sư Tổ ván cược mới với nội đan Huyết Tuyến Giao làm vật cược. (+) Trưởng bối Thanh Hư môn, Kết Đan kỳ. Đứng ra rủ Lý sư tổ Hoàng Phong cốc tái lập đổ ước bằng nội đan Huyết Tuyến Giao làm mồi; bị Khung lão nhân ép nhập cuộc. [CAN-SOAT-GOP]",
     "vaiTro": "Trưởng bối Thanh Hư môn; dẫn đoàn Huyết Cấm Thí Luyện",
@@ -9808,6 +10597,26 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       {
        "text": "Sở hữu pháp bảo Thanh Quân kiếm — đã được luyện nhập thiết tinh của Lý sư tổ, uy lực tăng mạnh",
        "chuong": 175
+      },
+      {
+       "text": "Đạo sĩ Kết Đan kỳ đầy râu tóc, đặt cược viên nội đan Huyết Tuyến giao tiêu tốn gần hết tiền tài",
+       "chuong": "@c0196"
+      },
+      {
+       "text": "Mất tự tin sau khi Khung lão quái nhúng tay đánh cược, lo bại dưới tay Yểm Nguyệt tông",
+       "chuong": "@c0196"
+      },
+      {
+       "text": "Bị Lý sư tổ gọi mỉa là lão mũi trâu, nghi có mưu kế muốn Thanh Hư ngồi trên đầu Hoàng Phong cốc",
+       "chuong": "@c0196"
+      },
+      {
+       "text": "Đạo sĩ nổi danh, đại danh đỉnh đỉnh của Thanh Hư môn.",
+       "chuong": "@c0211"
+      },
+      {
+       "text": "Tiếc nội đan đến mức do dự khi phải đem ra làm vật cược, nhưng không dám quịt nợ.",
+       "chuong": "@c0211"
       }
      ],
      "kinhLich": [
@@ -9821,13 +10630,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "chuong": 176,
        "importance": "normal",
        "tieuDe": "Tung nội đan Huyết Tuyến Giao làm mồi — lập ước cược",
-       "text": "Tung mồi nội đan Huyết Tuyến Giao — vật Lý sư tổ từng mai phục 30 năm không bắt được. Dùng phép khích tướng xem nhẹ đệ tử Hoàng Phong cốc. Lý sư tổ đồng ý cược. Điều kiện: nếu thắng, Lý sư tổ luyện thêm 2 khối thiết tinh sau 20 năm."
-      },
-      {
-       "chuong": "@c0176",
-       "importance": "normal",
-       "tieuDe": "Khích Lý sư tổ tái lập đổ ước",
-       "text": "Đứng ra rủ Lý sư tổ (Hoàng Phong cốc) tái lập đổ ước, dùng nội đan Huyết Tuyến Giao làm mồi khích tướng. Điều kiện: nếu thắng, đòi Lý sư tổ sau 20 năm luyện cho 2 khối thiết tinh. Bị Khung lão nhân (Yểm Nguyệt tông) xen vào ép nhập cuộc; rốt cục chấp nhận điều kiện công bằng. Tham lam khi thấy vật cược Vô hình châm."
+       "text": "Tung mồi nội đan Huyết Tuyến Giao — vật Lý sư tổ từng mai phục 30 năm không bắt được. Dùng phép khích tướng xem nhẹ đệ tử Hoàng Phong cốc. Lý sư tổ đồng ý cược. Điều kiện: nếu thắng, Lý sư tổ luyện thêm 2 khối thiết tinh sau 20 năm.; Đứng ra rủ Lý sư tổ (Hoàng Phong cốc) tái lập đổ ước, dùng nội đan Huyết Tuyến Giao làm mồi khích tướng. Điều kiện: nếu thắng, đòi Lý sư tổ sau 20 năm luyện cho 2 khối thiết tinh. Bị Khung lão nhân (Yểm Nguyệt tông)…"
       },
       {
        "chuong": 177,
@@ -9840,6 +10643,32 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "importance": "normal",
        "tieuDe": "Dùng phi kiếm phá cấm chế cấm địa",
        "text": "Vỗ ót há miệng phun ra thanh quang hóa phi kiếm (huyễn thành giao long dài vài chục trượng). Là người có pháp lực kém nhất trong 7 tổ sư, đổ mồ hôi nhiều nhất. Sau 3-4 canh giờ hô lớn giục mọi người vào vì không duy trì được lâu."
+      },
+      {
+       "text": "Phù Vân Tử mất tự tin sau khi Khung lão quái của Yểm Nguyệt tông nhúng tay vào đánh cược, viên nội đan Huyết Tuyến giao lão đặt cược rất khó có, gần như tiêu tốn toàn bộ tiền tài; hắn lén đến hỏi Lý sư tổ bày tỏ lo lắng rồi cáo từ về ngồi dưỡng thần chờ kết quả.",
+       "anchor": "viên nội đan Huyết Tuyến giao thật sự khó mà có, cơ hồ tiêu tốn toàn bộ tiền tài của hắn mới được",
+       "bridge": true,
+       "khoang": "@c0196"
+      },
+      {
+       "text": "Tại sơn cốc đông nam liên thủ với lão giả áo xanh chia đôi hai gốc Tử Hầu hoa tím, gạt thanh niên áo lam; khi thanh niên lao cướp thì dùng Linh Hồ bộ chớp mắt bám sau lưng cảnh cáo rồi tha mạng, được lão giả khen xuất thần nhập hóa.",
+       "anchor": "ngươi và ta hai người vừa lúc phân chia bình đẳng, một người một gốc cây được không",
+       "bridge": true,
+       "khoang": "@c0198"
+      },
+      {
+       "chuong": "@c0210",
+       "importance": "normal",
+       "tieuDe": "Đắc ý trong đổ cục",
+       "text": "Đạo sĩ Phù Vân Tử của Thanh Hư môn tham gia đánh cuộc với vẻ tự đắc, mỉm cười không thôi; khi kết quả bất lợi cho Lý sư tổ lại tỏ ra hớn hở, cho rằng Hoàng phong cốc thua chắc.",
+       "anchor": "chỉ có Phù Vân Tử tham gia đánh cuộc mới mỉm cười tự đắc không thôi, tựa hồ đối"
+      },
+      {
+       "chuong": "@c0211",
+       "importance": "normal",
+       "tieuDe": "Thua cược, giao nội đan Huyết tuyến giao",
+       "text": "Đạo sĩ Thanh Hư môn thua cược, bị Khung lão quái không khách khí đòi phần thắng cuộc và chất vấn chuyện quịt nợ; do dự vì tiếc nội đan rồi miễn cưỡng vứt viên cầu sáng trắng (nội đan Huyết tuyến giao) cho đối phương, lòng đau như cắt, tức giận sau khi bị chê chất lượng.",
+       "anchor": "liền đem một viên cầu sáng trắng vứt qua cho đối phương"
       }
      ],
      "tuViMoc": [
@@ -9860,6 +10689,36 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "ten": "Khung lão nhân",
        "tag": "khac",
        "quanHe": "Bị ép nhập cuộc đổ ước @c0176"
+      },
+      {
+       "ten": "Lý Sư Tổ",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh danh nghĩa trong đánh cược nhưng nghi kỵ nhau",
+       "ghiChu": "Lén hỏi Lý sư tổ bày tỏ lo lắng, bị Lý sư tổ nhìn thấu ý đồ (@c0196)."
+      },
+      {
+       "ten": "Lão giả áo xanh (cầm quải trượng)",
+       "tag": "dong-minh",
+       "quanHe": "Quen biết cũ, liên thủ chia đôi linh dược",
+       "ghiChu": "@c0198"
+      },
+      {
+       "ten": "Thanh niên áo lam (đệ tử Thiên Khuyết bảo)",
+       "tag": "doi-thu",
+       "quanHe": "Dùng Linh Hồ bộ bám sau lưng cảnh cáo rồi tha mạng",
+       "ghiChu": "@c0198"
+      },
+      {
+       "ten": "Khung lão quái",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ đánh cuộc; Khung lão quái thắng nên đòi Phù Vân Tử giao nội đan Huyết tuyến giao một cách không khách khí.",
+       "ghiChu": "@c0211"
+      },
+      {
+       "ten": "Lý Sư Tổ",
+       "tag": "doi-thu",
+       "quanHe": "Có xích mích, đối đầu tại thí luyện; Lý sư tổ chặn Phù Vân Tử khi hắn định gây khó dễ Hàn Lập.",
+       "ghiChu": "@c0211"
       }
      ],
      "tuiDo": {
@@ -9887,9 +10746,13 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0175",
      "c0176",
      "c0177",
-     "c0179"
+     "c0179",
+     "@c0196",
+     "@c0198",
+     "@c0210",
+     "@c0211"
     ],
-    "rank": "C"
+    "rank": "B"
    },
    {
     "id": "ne-thuong",
@@ -9929,24 +10792,27 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
       {
        "chuong": 177,
        "importance": "minor",
-       "text": "Được Khung tiền bối nhắc đến là người thực sự dẫn đầu Yểm Nguyệt tông lần này; được gọi là 'nữ đệ tử lợi hại'."
-      },
-      {
-       "chuong": "@c0177",
-       "importance": "minor",
-       "text": "Được Khung tiền bối cho biết là người thực sự dẫn đầu đoàn Yểm Nguyệt tông vào huyết sắc cấm địa (chưa xuất hiện trực tiếp, chỉ được nhắc tên)."
+       "text": "Được Khung tiền bối nhắc đến là người thực sự dẫn đầu Yểm Nguyệt tông lần này; được gọi là 'nữ đệ tử lợi hại'.; Được Khung tiền bối cho biết là người thực sự dẫn đầu đoàn Yểm Nguyệt tông vào huyết sắc cấm địa (chưa xuất hiện trực tiếp, chỉ được nhắc tên)."
       },
       {
        "chuong": 178,
        "importance": "normal",
        "tieuDe": "Xuất hiện từ Thiên Nguyệt thần chu — hỏi về ván cược",
-       "text": "Hạ xuống từ Thiên Nguyệt thần chu, triệt tiêu hào quang thuyền, chào hỏi Lý sư tổ, đạo sĩ và Khung sư thúc. Hỏi rõ nội dung ván cược rồi cười câu hồn. Khung tiền bối sau đó ẩn thân biến mất. Lý sư tổ và đạo sĩ trầm lòng nghi Yểm Nguyệt tông có đòn sát thủ."
+       "text": "Hạ xuống từ Thiên Nguyệt thần chu, triệt tiêu hào quang thuyền, chào hỏi Lý sư tổ, đạo sĩ và Khung sư thúc. Hỏi rõ nội dung ván cược rồi cười câu hồn. Khung tiền bối sau đó ẩn thân biến mất. Lý sư tổ và đạo sĩ trầm lòng nghi Yểm Nguyệt tông có đòn sát thủ.; Nữ tu cầm đầu đoàn Yểm Nguyệt tông tới hoang sơn dự huyết sắc thí luyện, hạ xuống từ Thiên Nguyệt thần chu. Dáng vẻ thiếu phụ phong tình câu hồn. Chào hai vị sư huynh và Khung sư thúc; hỏi rõ…"
       },
       {
-       "chuong": "@c0178",
        "importance": "normal",
-       "tieuDe": "Dẫn đoàn Yểm Nguyệt tông tới thí luyện",
-       "text": "Nữ tu cầm đầu đoàn Yểm Nguyệt tông tới hoang sơn dự huyết sắc thí luyện, hạ xuống từ Thiên Nguyệt thần chu. Dáng vẻ thiếu phụ phong tình câu hồn. Chào hai vị sư huynh và Khung sư thúc; hỏi rõ nội dung đánh cuộc giữa Hoàng Phong cốc và Thanh Hư môn rồi vờ không biết âm mưu."
+       "chuong": "@c0196",
+       "tieuDe": "Bình tĩnh tin đệ tử bổn môn",
+       "text": "Là nữ Kết Đan kỳ duy nhất trong bảy cao thủ giữ cửa cấm địa, Nghê Thường tiên tử luôn bình tĩnh tươi cười tin tưởng đệ tử Yểm Nguyệt tông, khiến đạo sĩ Thanh Hư càng thêm lo lắng.",
+       "anchor": "là thiếu phụ dẫn dắt đệ tử Yểm Nguyệt tông – Nghê Thường tiên tử."
+      },
+      {
+       "chuong": "@c0209",
+       "importance": "normal",
+       "tieuDe": "Điềm tĩnh rồi lo lắng",
+       "text": "Ban đầu điềm tĩnh tin tưởng cùng Khung lão quái, rồi lộ lo lắng khi đệ tử Yểm Nguyệt tông biệt tăm không ai ra khỏi cấm địa lúc thông đạo sắp đóng.",
+       "anchor": "Mà vẫn chưa thấy một người nào của Yểm Nguyệt tông xuất hiện"
       }
      ],
      "tuViMoc": [],
@@ -9970,9 +10836,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "uuTien": 6,
     "nguon": [
      "c0177",
-     "c0178"
+     "c0178",
+     "@c0196",
+     "@c0209",
+     "@c0210"
     ],
-    "rank": "C"
+    "rank": "B"
    },
    {
     "id": "vu-su-huynh",
@@ -10030,7 +10899,6 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "cn": "",
     "aliases": [
      "Khung tiền bối",
-     "Khung lão nhân",
      "Khung sư thúc",
      "lão quái vật"
     ],
@@ -10059,13 +10927,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
        "chuong": "@c0176",
        "importance": "normal",
        "tieuDe": "Xen vào ván đổ ước",
-       "text": "Bất ngờ xen vào giữa ván đổ ước của Hoàng Phong cốc và Thanh Hư môn, đòi nhập cuộc. Tính cổ quái, gần trăm năm thích trêu cợt tu sĩ Kết Đan kỳ thất đại phái — hình tượng 'ác bá vô lại' nhưng giữ chữ tín. Đặt điều kiện công bằng: chỉ cần thành tích hai nhà cộng lại vượt Yểm Nguyệt tông thì lão thua. Vật cược: ba khối phù bảo Vô hình châm (phù lục họa thất sắc châm) tự luyện."
-      },
-      {
-       "chuong": 176,
-       "importance": "normal",
-       "tieuDe": "Xen vào ván cược — đặt Vô hình châm",
-       "text": "Bàn tay dơ bẩy quỷ dị xen vào vỗ thay cho Lý sư tổ trong ván cược. Đề điều kiện công bằng: chỉ cần thành tích hai nhà cộng lại vượt Yểm Nguyệt tông là thua; hai nhà tự phân thắng bại. Vật đặt cược: 3 phù bảo Vô hình châm tự luyện lúc nhàn rỗi vì không có hậu nhân."
+       "text": "Bất ngờ xen vào giữa ván đổ ước của Hoàng Phong cốc và Thanh Hư môn, đòi nhập cuộc. Tính cổ quái, gần trăm năm thích trêu cợt tu sĩ Kết Đan kỳ thất đại phái — hình tượng 'ác bá vô lại' nhưng giữ chữ tín. Đặt điều kiện công bằng: chỉ cần thành tích hai nhà cộng lại vượt Yểm Nguyệt tông thì lão thua. Vật cược: ba khối phù bảo Vô hình châm (phù lục họa thất sắc châm) tự luyện.; Bàn tay dơ bẩy quỷ dị xen vào vỗ thay cho Lý sư tổ trong ván cược. Đề đ…"
       },
       {
        "chuong": 177,
@@ -10111,12 +10973,4535 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0178"
     ],
     "rank": "C"
+   },
+   {
+    "id": "thieu-nu-ao-trang-yem-nguyet-tong",
+    "name": "Thiếu nữ áo trắng (Yểm Nguyệt tông)",
+    "gioiTinh": "nu",
+    "aliases": [],
+    "theLuc": [
+     {
+      "ten": "Yểm Nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0182)",
+    "trangThai": "song",
+    "blurb": "Nữ tử khoảng mười lăm mười sáu tuổi, phục sức môn hạ Yểm Nguyệt tông, tướng mạo thanh thuần nhưng nói năng như ông già. Đã cướp túi trữ vật trên thi thể, nấp trong bụi cỏ quan sát rồi tạm tha Hàn Lập, coi hắn là đồ chơi mới.",
+    "vaiTro": "Nữ tu Yểm Nguyệt tông chạm trán Hàn Lập trong cấm địa",
+    "tinhCach": "Lão thành trước tuổi, nói năng như ông già; ngạo mạn, xem người khác như đồ chơi",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nói năng như ông già dù tuổi mới mười lăm mười sáu",
+       "chuong": "@c0182"
+      },
+      {
+       "text": "Đánh giá tư chất Hàn Lập kém nhưng thân pháp không tệ, tạm tha vì có việc phải làm",
+       "chuong": "@c0182"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Sau khi Hàn Lập đi khuất, cô gái áo trắng từ bụi cỏ bước ra, tự nhận đã lấy túi trữ vật; đánh giá gan dạ tâm trí Hàn Lập tạm được nhưng pháp lực và tư chất có vấn đề, tạm tha vì có việc phải làm và coi hắn như đồ chơi mới; sau đó lấy Mộc độn phù, chìm trong lục quang chói mắt biến mất.",
+       "anchor": "một bóng người mảnh dẻ đi ra, là một cô gái áo trắng phiêu phiêu",
+       "bridge": true,
+       "khoang": "@c0182"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Quan sát rồi tạm tha Hàn Lập, xem hắn là đồ chơi mới, báo trước sẽ tái ngộ"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Mộc độn phù",
+        "loai": "phù lục trung cấp bậc thấp",
+        "trangThai": "da-dung",
+        "moTa": "Phù lục hiếm thấy, người thường coi là bảo vật gia truyền dùng lúc sinh tử; thiếu nữ dùng chìm trong lục quang biến mất khỏi cấm địa.",
+        "nguon": "@c0182"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0182"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-han-rau-quai-non-cu-kiem-mon",
+    "name": "Đại hán râu quai nón (Cự Kiếm môn)",
+    "gioiTinh": "nam",
+    "aliases": [],
+    "theLuc": [
+     {
+      "ten": "Cự Kiếm môn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0182)",
+    "trangThai": "song",
+    "blurb": "Đệ tử Cự Kiếm môn râu quai nón từng trừng mắt với Hàn Lập, nay chặn hắn tại một ngã đường trong cấm địa, nhe răng cười muốn báo thù tuyết hận.",
+    "vaiTro": "Đối thủ Cự Kiếm môn chặn Hàn Lập cuối chương",
+    "tinhCach": "Hung hãn, thù dai, muốn báo thù",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Từng trừng mắt với Hàn Lập, ôm mối oán chờ dịp báo thù",
+       "chuong": "@c0182"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng một gã Thiên Khuyết Bảo chặn trước sau Hàn Lập tại ngã đường, nhe răng cười muốn báo thù tuyết hận cho lần trừng mắt trước.",
+       "anchor": "tại một ngã đường đã bị một gã Cự kiếm môn cùng một gã Thiên khuyết bảo, trước sau chận lối",
+       "bridge": true,
+       "khoang": "@c0182"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Chặn đường Hàn Lập muốn báo thù cho lần đối đầu trước"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0182"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ga-thien-khuyet-bao",
+    "name": "Gã Thiên Khuyết Bảo",
+    "gioiTinh": "nam",
+    "aliases": [],
+    "theLuc": [
+     {
+      "ten": "Thiên Khuyết Bảo",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0182)",
+    "trangThai": "song",
+    "blurb": "Một đệ tử Thiên Khuyết Bảo phối hợp cùng đại hán Cự Kiếm môn, chặn trước sau Hàn Lập tại ngã đường trong cấm địa.",
+    "vaiTro": "Đối thủ Thiên Khuyết Bảo chặn Hàn Lập cuối chương",
+    "tinhCach": "Hung hãn, phối hợp vây địch",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Phối hợp cùng đại hán Cự Kiếm môn chặn Hàn Lập trước sau",
+       "chuong": "@c0182"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng đại hán râu quai nón Cự Kiếm môn chặn trước sau Hàn Lập tại ngã đường trong cấm địa.",
+       "anchor": "tại một ngã đường đã bị một gã Cự kiếm môn cùng một gã Thiên khuyết bảo, trước sau chận lối",
+       "bridge": true,
+       "khoang": "@c0182"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Cùng đại hán Cự Kiếm môn chặn đường Hàn Lập"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0182"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ga-rau-quai-non-linh-thu-son",
+    "name": "Gã râu quai nón (tu sĩ Linh thú sơn)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Linh thú sơn",
+      "trangThai": "danh-nghia"
+     }
+    ],
+    "canhGioiCaoNhat": "Công pháp tầng mười ba (@c0183)",
+    "trangThai": "song",
+    "blurb": "Tu sĩ nghi thuộc Linh thú sơn, tu công pháp tầng mười ba, tính hung ác tự đại. Có thù oán với Hàn Lập từ ngoài cấm địa, liên thủ với đệ tử Thiên khuyết bảo phục kích hắn tại Nhất tuyến thiên.",
+    "vaiTro": "Đối thủ phục kích Hàn Lập trong cấm địa",
+    "tinhCach": "Hung ác; tự đại; nóng nảy",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tu công pháp tầng mười ba, đòi tự tay giết Hàn Lập để bồi tội",
+       "chuong": "@c0183"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng đệ tử Thiên khuyết bảo dùng Dung linh phù để truyền tới cùng chỗ, chặn Hàn Lập tại Nhất tuyến thiên; tuyên bố Hàn Lập chọc tức hắn nên phải trả mạng, ngỏ lời tự tay đối phó. Khi tiến tới liền bị Hàn Lập bất ngờ ném Thổ lao thuật giam trong lớp vỏ vàng, không nhúc nhích được.",
+       "anchor": "hiện tại phải lấy cái mạng nhỏ của ngươi ra mà bồi tội",
+       "bridge": true,
+       "khoang": "@c0183"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ thù truy sát",
+       "ghiChu": "Đòi tự tay giết Hàn Lập vì thù cũ. (@c0183)"
+      },
+      {
+       "ten": "Nghiêm (đệ tử Thiên khuyết bảo)",
+       "tag": "dong-minh",
+       "quanHe": "Bằng hữu rượu thịt lâu năm",
+       "ghiChu": "Không cùng môn phái nhưng phối hợp phục kích nhiều lần. (@c0183)"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nghiem-de-tu-thien-khuyet-bao",
+    "name": "Nghiêm (đệ tử Thiên khuyết bảo)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên khuyết bảo",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Đỉnh tầng mười hai (@c0183)",
+    "trangThai": "tu-vong",
+    "blurb": "Đệ tử Thiên khuyết bảo, đỉnh tầng mười hai; bằng hữu rượu thịt lâu năm của gã râu quai nón. Là người bày kế dùng Dung linh phù để hai người truyền tới cùng chỗ phục kích Hàn Lập.",
+    "vaiTro": "Kẻ liên thủ bày mưu phục kích Hàn Lập",
+    "tinhCach": "Tính toán mưu lợi; tự đắc; lơ đãng khinh địch",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Bày kế dùng Dung linh phù bậc cao để hai người truyền tới cùng một chỗ",
+       "chuong": "@c0183"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tự đắc về công lớn giúp hai người tụ cùng chỗ là Dung linh phù bậc cao — dùng đồng thời một khắc trước khi vào cấm địa để tạm liên kết linh khí, được cấm chế truyền tới cùng điểm; tỉ lệ thành công năm-năm, giá cực đắt. Hắn tính liên thủ giết người đoạt bảo kiếm tiền rồi trốn chờ hết thời gian ra ngoài; trong trận đứng bên hỗ trợ, chắp tay ngẩng đầu nhìn trời lơ đãng suy tư.",
+       "anchor": "hai người đồng thời sử dụng phù lục này, liền có thể đem linh khí hai người tạm thời liên kết với nhau",
+       "bridge": true,
+       "khoang": "@c0183"
+      },
+      {
+       "text": "Vừa tỉnh khỏi mộng đẹp, định thi triển phù chỉ, còn cách Hàn Lập tám chín trượng nên yên tâm; bị Hàn Lập cách không dùng ti tuyến trong suốt chém đầu, người chia làm hai chết ngay.",
+       "anchor": "người bạn lâu năm của hắn đã mất đầu, đầu người rơi xuống lăn lông lốc trên mặt đất, người chia làm hai",
+       "bridge": true,
+       "khoang": "@c0184"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Gã râu quai nón (tu sĩ Linh thú sơn)",
+       "tag": "dong-minh",
+       "quanHe": "Bằng hữu rượu thịt lâu năm",
+       "ghiChu": "Từng cứu gã khi gã suýt lật thuyền lần trước. (@c0183)"
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Mục tiêu phục kích đoạt bảo",
+       "ghiChu": "Cùng gã râu quai nón chặn giết Hàn Lập trong cấm địa. (@c0183)"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0183",
+     "@c0184"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "ten-rau-quai-non-linh-thu-son",
+    "name": "Tên râu quai nón (Linh thú sơn)",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Linh thú sơn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Luyện Khí kỳ tầng mười ba (@c0184)",
+    "trangThai": "tu-vong",
+    "blurb": "Cao thủ tầng mười ba xuất thân Linh thú sơn, chiến đấu bằng nhiều linh thú và vòng bảo hộ mộc thuộc tính. Ngoài mặt hung thần ác sát nhưng nội tâm nhát gan, cuối cùng bị Hàn Lập dùng Kim quang chuyên đè thành đám bùn.",
+    "vaiTro": "Đối thủ của Hàn Lập trong Nhất tuyến thiên",
+    "tinhCach": "Ngoài hung trong nhát; khi yếu sợ mạnh; tính toán bỏ chạy báo thù",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Có vòng bảo hộ mộc thuộc tính phòng hộ kinh người cùng nhiều linh thú (rắn xanh cánh thịt tím, dã thú giống Xuyên sơn giáp)",
+       "chuong": "@c0184"
+      },
+      {
+       "text": "Nhìn hung ác mà nhát gan như chuột nhắt, chỉ muốn thoát thổ lao rồi chạy thật xa",
+       "chuong": "@c0184"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Bị Hàn Lập vây khốn bằng Thổ lao thuật, thả rắn xanh cánh thịt tím và dã thú công phá, dùng đôi thiết bổng đen phá màn hào quang; chứng kiến bạn tốt Nghiêm huynh đệ bị chém đầu vô hình thì kinh hãi; cuối cùng bị Kim quang chuyên vỗ xuống thành đám bùn.",
+       "anchor": "Mà tên râu quai nón cùng linh thú của hắn sớm đã thành đám bùn, không còn phân biệt được đâu là đâu",
+       "bridge": true,
+       "khoang": "@c0184"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ giết chết hắn bằng Kim quang chuyên",
+       "ghiChu": "Bị đè thành bùn trong Nhất tuyến thiên"
+      },
+      {
+       "ten": "Nghiêm huynh đệ (người Thiên khuyết bảo)",
+       "tag": "ban-be",
+       "quanHe": "Bạn tốt lâu năm",
+       "ghiChu": "Cùng bị Hàn Lập giết"
+      }
+     ]
+    },
+    "nguon": [
+     "@c0184"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tieu-nhi-hoa-dao-o",
+    "name": "Tiêu Nhị",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Hóa đao ổ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0185)",
+    "trangThai": "tu-vong",
+    "blurb": "Đệ tử Hóa đao ổ trong huyết sắc thí luyện, bị đại hán cự kiếm bạc truy sát mấy canh giờ rồi chém thành hai đoạn.",
+    "vaiTro": "Đệ tử tông môn bị giết trong cấm địa",
+    "tinhCach": "Liều mạng chống cự khi cùng đường",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Xuất hai kiện thượng phẩm pháp khí liều mạng nhưng vẫn thảm bại",
+       "chuong": "@c0185"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Bị đại hán chân trần lưng mang cự kiếm bạc truy sát mấy canh giờ sau khi hai đồng môn Hóa đao ổ đã bị giết; liều mạng xuất hai kiện thượng phẩm pháp khí nhưng bị đánh nát rồi bị chém thành hai đoạn.",
+       "anchor": "sau đó thuận thế đem Tiêu Nhị trảm thành hai đoạn",
+       "bridge": true,
+       "khoang": "@c0185"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Đại hán cự kiếm bạc",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ truy sát và giết chết",
+       "ghiChu": "Bị chém thành hai đoạn"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-han-cu-kiem-bac",
+    "name": "Đại hán cự kiếm bạc",
+    "aliases": [
+     "Đại hán chân trần lưng mang cự kiếm bạc"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Cường giả cấm địa (@c0185)",
+    "trangThai": "song",
+    "blurb": "Cường giả chân trần, lưng mang một cự kiếm màu bạc, chuyên dùng độc một món và coi mọi pháp bảo khác là thứ gây phân tâm cho tu hành.",
+    "vaiTro": "Cường giả sát phạt trong huyết sắc thí luyện",
+    "tinhCach": "Quyết đoán tàn nhẫn; chuyên nhất một kiếm; khinh thường pháp bảo ngoại thân",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cự kiếm bạc chém thượng phẩm pháp khí và vòng bảo hộ như cắt giấy",
+       "chuong": "@c0185"
+      },
+      {
+       "text": "Không lấy túi trữ vật của người bị giết vì sợ phân tâm tu hành",
+       "chuong": "@c0185"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Liên tiếp chém chết hai đồng môn Hóa đao ổ rồi truy sát Tiêu Nhị mấy canh giờ; ra điều kiện tự sát để được toàn thây, khi Tiêu Nhị liều mạng xuất pháp khí thì đánh nát rồi chém thành hai đoạn, không động tới túi trữ vật.",
+       "anchor": "sau đó thuận thế đem Tiêu Nhị trảm thành hai đoạn",
+       "bridge": true,
+       "khoang": "@c0185"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Tiêu Nhị",
+       "tag": "doi-thu",
+       "quanHe": "Truy sát và chém chết",
+       "ghiChu": "Cùng hai đồng môn Hóa đao ổ"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Cự kiếm màu bạc",
+        "loai": "pháp khí",
+        "trangThai": "dang-co",
+        "moTa": "Món pháp khí duy nhất hắn dùng, chém thượng phẩm pháp khí như cắt giấy",
+        "nguon": "@c0185"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "han-thien-nhai",
+    "name": "Hàn Thiên Nhai",
+    "aliases": [
+     "Nam tử áo xanh mỹ nam tử"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0185)",
+    "trangThai": "song",
+    "blurb": "Nam tử áo xanh khoảng mười tám mười chín tuổi, mi thanh mục tú như mỹ nam tử nhưng tính khí âm nhu và thủ đoạn tàn độc, giết người bằng lừa gạt.",
+    "vaiTro": "Cường giả trẻ tuổi tàn độc trong huyết sắc thí luyện",
+    "tinhCach": "Âm nhu như quý bà; giả nhân nghĩa; tàn độc lừa gạt",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Giả vờ đồng ý tha rồi bất ngờ giết nạn nhân bằng phi đao đỏ",
+       "chuong": "@c0185"
+      },
+      {
+       "text": "Lau tro bụi bằng khăn tay, cử chỉ âm nhu như quý bà",
+       "chuong": "@c0185"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Bên dòng suối khu phụ cận trung tâm, giả vờ đồng ý lời cầu sống của nữ đệ tử Yểm nguyệt tông; đợi nàng thu pháp khí phòng ngự rồi bất ngờ dùng hai phi đao đỏ giết chết, sau đó tự xưng tên và bỏ đi tìm người giải buồn.",
+       "anchor": "hai thanh phi đao màu đỏ lập tức nhanh như sấm sét lần lượt bắn xuống",
+       "bridge": true,
+       "khoang": "@c0185"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Nữ đệ tử Yểm nguyệt tông",
+       "tag": "doi-thu",
+       "quanHe": "Lừa gạt rồi giết chết",
+       "ghiChu": "Bên dòng suối khu phụ cận trung tâm"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Phi đao màu đỏ",
+        "loai": "pháp khí",
+        "trangThai": "dang-co",
+        "moTa": "Hai thanh phi đao hồng quang dùng giết nữ đệ tử Yểm nguyệt tông",
+        "nguon": "@c0185"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nu-de-tu-yem-nguyet-tong",
+    "name": "Nữ đệ tử Yểm nguyệt tông",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Yểm nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0185)",
+    "trangThai": "tu-vong",
+    "blurb": "Nữ đệ tử Yểm nguyệt tông dùng pháp khí như mảnh lụa chống cự, khi thất thế đã dùng nhan sắc cầu sống nhưng vẫn bị Hàn Thiên Nhai lừa giết.",
+    "vaiTro": "Nữ đệ tử tông môn bị giết trong cấm địa",
+    "tinhCach": "Dùng nhan sắc cầu sống khi cùng đường",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Dùng pháp khí như mảnh lụa chống hai phi đao hồng quang",
+       "chuong": "@c0185"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Dùng pháp khí như mảnh lụa chống hai phi đao hồng quang nhưng sắp không chống nổi; xin hầu hạ một đêm để cầu sống, bị Hàn Thiên Nhai giả vờ đồng ý rồi bất ngờ giết chết bằng phi đao đỏ.",
+       "anchor": "hai thanh phi đao màu đỏ lập tức nhanh như sấm sét lần lượt bắn xuống",
+       "bridge": true,
+       "khoang": "@c0185"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Thiên Nhai",
+       "tag": "doi-thu",
+       "quanHe": "Bị lừa gạt rồi giết chết",
+       "ghiChu": "Bên dòng suối"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "trung-nien-ben-xac-linh-thu-son",
+    "name": "Trung niên (bên xác đệ tử Linh thú sơn)",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0185)",
+    "trangThai": "song",
+    "blurb": "Người trung niên đứng lắc đầu ảo não bên xác một đệ tử Linh thú sơn và vài quái thú đã chết trong núi rừng.",
+    "vaiTro": "Nhân vật thoáng qua tại cảnh giết chóc trong cấm địa",
+    "tinhCach": "Ảo não trước cảnh tử vong",
+    "tabs": {
+     "kinhLich": [
+      {
+       "text": "Trong núi rừng cấm địa, đứng lắc đầu ảo não bên xác một đệ tử Linh thú sơn cùng vài quái thú đã chết.",
+       "anchor": "trong cấm địa chuyện kẻ mạnh giết kẻ yếu, xảy ra ở khắp nơi",
+       "bridge": true,
+       "khoang": "@c0185"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nguoi-ao-luc-mat-xau-xi",
+    "name": "Người áo lục mặt xấu xí",
+    "aliases": [],
+    "gioiTinh": "khong-ro",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0185)",
+    "trangThai": "song",
+    "blurb": "Người áo lục mặt xấu xí trên núi hoang điều khiển một bầy ong lớn vây công mấy người mặc đạo trang.",
+    "vaiTro": "Nhân vật thoáng qua tại cảnh giết chóc trong cấm địa",
+    "tinhCach": "Sát phạt trong thí luyện",
+    "tabs": {
+     "kinhLich": [
+      {
+       "text": "Trên núi hoang trong cấm địa, điều khiển một bầy ong lớn vây công mấy người mặc đạo trang.",
+       "anchor": "trong cấm địa chuyện kẻ mạnh giết kẻ yếu, xảy ra ở khắp nơi",
+       "bridge": true,
+       "khoang": "@c0185"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nu-tu-ao-trang-hau-nhan-yem-nguyet-tong",
+    "name": "Nữ tử áo trắng (hậu nhân Trưởng lão Yểm Nguyệt tông)",
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Yểm Nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Luyện khí kỳ mười hai tầng công pháp (@c0186)",
+    "trangThai": "song",
+    "blurb": "Nữ tu đối địch mười hai tầng công pháp, có vài phần tư sắc nhưng mày cong dữ tợn đầy sát khí. Là hậu nhân của một Trưởng lão Yểm Nguyệt tông, sở hữu nhiều pháp khí cổ quái gồm gương chế ngự pháp khí.",
+    "vaiTro": "Nữ tu truy sát nữ áo vàng và Hàn Lập",
+    "tinhCach": "Dữ tợn nhiều sát khí; khinh miệt kẻ yếu; cẩn trọng đề phòng",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Hậu nhân Trưởng lão Yểm Nguyệt tông, nhiều pháp khí cổ quái",
+       "chuong": "@c0186"
+      },
+      {
+       "text": "Sở hữu gương cổ quái chế ngự pháp khí đối phương lơ lửng không hạ được",
+       "chuong": "@c0186"
+      },
+      {
+       "text": "Có vài phần tư sắc, mày cong dữ tợn, đầy sát khí.",
+       "chuong": "@c0186"
+      },
+      {
+       "text": "Sở hữu nhiều pháp khí cổ quái, nổi bật là gương nhỏ chế ngự pháp khí đối phương.",
+       "chuong": "@c0186"
+      }
+     ],
+     "kinhLich": [],
+     "nhanMach": [
+      {
+       "ten": "Nữ tử áo vàng (nữ đệ tử Hoàng Phong cốc)",
+       "tag": "doi-thu",
+       "quanHe": "Đối tượng nàng truy sát vì thù oán",
+       "ghiChu": "@c0186"
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Ra tay cứu nữ áo vàng nên bị nàng quyết diệt",
+       "ghiChu": "@c0186"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0186"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phong-nhac",
+    "name": "Phong Nhạc",
+    "cn": "",
+    "aliases": [
+     "Cuồng nhân Phong Nhạc"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Khuyết Bảo",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Đỉnh điểm tầng mười ba (@c0187)",
+    "trangThai": "tu-vong",
+    "blurb": "Cuồng nhân của Thiên Khuyết Bảo, trung niên mặt sẹo mắt hẹp dài mũi ưng, đầy sát khí. Công pháp đỉnh điểm tầng mười ba, sở hữu phù bảo tiểu đao hoàng quang, tính hung tàn tà dị.",
+    "vaiTro": "Đối thủ mạnh của Hàn Lập trong Huyết Sắc thí luyện",
+    "tinhCach": "Hung tàn tà dị; cuồng ngạo, coi mạng người như cỏ rác; tham lam bảo vật",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Công pháp đỉnh điểm tầng mười ba, sở hữu phù bảo tiểu đao hoàng quang có uy năng pháp bảo",
+       "chuong": "@c0187"
+      },
+      {
+       "text": "Tính hung tàn tà dị, một đòn giết chết nữ tử áo trắng rồi cướp túi trữ vật",
+       "chuong": "@c0187"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Từ rừng phía sau bùng phát linh khí khổng lồ, dùng phù bảo tiểu đao hoàng quang bắn xuyên Thanh Tác, vòng bảo hộ và cả nữ tử áo trắng khiến nàng chết ngã tại chỗ; cướp túi trữ vật thu hoạch không ít; nữ tử áo vàng hoảng sợ gọi tên hắn là cuồng nhân Phong Nhạc của Thiên Khuyết Bảo; hắn tà dị đe dọa Hàn Lập và nữ tử áo vàng, hỏi muốn chết cách nào.",
+       "anchor": "Ngươi là cuồng nhân Phong Nhạc của Thiên Khuyết Bảo!",
+       "bridge": true,
+       "khoang": "@c0187"
+      },
+      {
+       "chuong": "@c0188",
+       "importance": "normal",
+       "tieuDe": "Ác danh và trận đấu với Hàn Lập",
+       "text": "Tu sĩ có ác danh trong thất đại phái, từng nhốt người tu tiên vào phòng tối tra tấn ba ngày ba đêm; giảo hoạt trốn về Thiên khuyết bảo tị nạn khi bị đuổi giết. Dùng tiểu đao hoàng mang tấn công Hàn Lập nhưng bị Phi thiên thuẫn chặn; giết nữ tử áo vàng bỏ chạy bằng một đòn đâm xuyên ngực; liếm máu trên ngón tay, nhe răng cười dọa nạt Hàn Lập; thân pháp nhanh như tia chớp không dưới La yên bộ.",
+       "anchor": "từng đem người tu tiên khác nhốt trong phòng tối, liên tiếp tra tấn ba ngày ba đêm"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0189",
+       "tieuDe": "Bị Thiên Lôi Tử giết, thân hóa cát bụi",
+       "text": "Chủ động vây công Hàn Lập bằng phù bảo tiểu đao và ỷ vào Hoàng La Tán phòng ngự, quyết tâm hạ sát để tránh hậu hoạn; nhưng bị Thiên Lôi Tử giấu trong đám Hỗn Nguyên Châu bùng nổ sáng trắng tiêu diệt, thân hình theo gió hóa thành cát bụi chỉ còn hai nửa chân đi giày.",
+       "anchor": "thân hình Phong Nhạc theo gió cũng từ từ biến thành cát bụi"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0187",
+       "canhGioi": "Đỉnh điểm tầng mười ba",
+       "text": "Công pháp đã tu luyện tới đỉnh điểm tầng mười ba, pháp lực vượt xa Hàn Lập.",
+       "importance": "major"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ mạnh, bị Hàn Lập tuyên chiến sau khi cản việc thu pháp khí",
+       "ghiChu": "Chạm mặt @c0187"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Tiểu đao hoàng quang",
+        "trangThai": "dang-co",
+        "moTa": "Phù bảo hình dạng cổ quái, chuôi dài cỡ một thước, lưỡi ba bốn tấc, thân trong suốt tỏa hoàng quang; một đòn giết chết nữ tử áo trắng.",
+        "nguon": "@c0187"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0187",
+     "@c0188",
+     "@c0189"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "mong-de-tu-cu-kiem-mon",
+    "name": "Mông đệ tử (Hắc y nhân)",
+    "aliases": [
+     "Hắc y nhân họ Mông",
+     "trung niên áo đen"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Cự Kiếm môn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Đệ tử trung niên áo đen của Cự Kiếm môn, dùng cự kiếm màu xanh chém chết Hỏa lang ba mắt. Ngoài mặt sốt sắng chia đều thảo dược nhưng ngầm nuôi ý trở mặt độc chiếm.",
+    "vaiTro": "Đệ tử Cự Kiếm môn trong liên minh diệt yêu hái thảo",
+    "tinhCach": "Vũ dũng thiện chiến; thâm hiểm giả tạo; tham lam bảo vật",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Dùng cự kiếm xanh một kiếm chém chết Hỏa lang ba mắt",
+       "chuong": "@c0191"
+      },
+      {
+       "text": "Ngoài mặt hào phóng chia đều nhưng ngầm lộ sát ý trở mặt",
+       "chuong": "@c0191"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Dùng cự kiếm xanh chống đỡ đại bộ phận thế công rồi một kiếm chém chết Hỏa lang ba mắt, ngửa mặt cười ha hả; sau đó giục chia đều Hỏa Long thảo và tiến tới hái cây cỏ đỏ, nhưng khi quay lưng lộ một tia âm lệ báo hiệu ý định phản bội.",
+       "anchor": "trên mặt Hắc y nhân quay mặt với bọn họ đột nhiên lộ ra một tia âm lệ, nhưng lập tức biến mất đi",
+       "bridge": true,
+       "khoang": "@c0191"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hướng Chi Lễ",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm bợ trong liên minh diệt yêu hái thảo",
+       "ghiChu": "Được lão tâng bốc là cao đồ, nhưng hắn ngầm định trở mặt (@c0191)."
+      },
+      {
+       "ten": "Lý đạo trưởng",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm bợ trong liên minh diệt yêu hái thảo",
+       "ghiChu": "Cùng phối hợp diệt Hỏa lang ba mắt (@c0191)."
+      }
+     ]
+    },
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ly-dao-truong",
+    "name": "Lý đạo trưởng",
+    "aliases": [
+     "thanh niên đạo bào xám"
+    ],
+    "gioiTinh": "nam",
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Tu sĩ tuổi trẻ mặc đạo bào xám nhưng khẩu khí lão luyện, phụ trợ công kích Hỏa lang ba mắt và tán đồng chia đều thảo dược. Chỉ mới lộ họ Lý.",
+    "vaiTro": "Tu sĩ trong liên minh diệt yêu hái thảo",
+    "tinhCach": "Trẻ tuổi nhưng khẩu khí lão luyện; hòa theo số đông",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Phụ trợ hai bên khi ba người hợp sức diệt Hỏa lang ba mắt",
+       "chuong": "@c0191"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Đứng một bên phụ trợ công kích trong trận diệt Hỏa lang ba mắt cùng Mông đệ tử và Hướng Chi Lễ, tán đồng chia đều Hỏa Long thảo sau khi thắng.",
+       "anchor": "một kiếm chém xuống đầu của yêu thú, sau đó thu hồi cự kiếm, ngửa mặt lên trời cười ha hả",
+       "bridge": true,
+       "khoang": "@c0191"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Mông đệ tử",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm bợ trong liên minh diệt yêu hái thảo",
+       "ghiChu": "Cùng phối hợp diệt Hỏa lang; Mông ngầm định trở mặt (@c0191)."
+      },
+      {
+       "ten": "Hướng Chi Lễ",
+       "tag": "dong-minh",
+       "quanHe": "Đồng minh tạm bợ trong liên minh diệt yêu hái thảo",
+       "ghiChu": "Cùng trong liên minh hái thảo (@c0191)."
+      }
+     ]
+    },
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nu-de-tu-yem-nguyet-song-kieu",
+    "name": "Nữ đệ tử Yểm Nguyệt tông (Yểm Nguyệt song kiều)",
+    "aliases": [
+     "Yểm Nguyệt song kiều"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Yểm Nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Nữ đệ tử Yểm Nguyệt tông, một trong hai người mang danh hiệu Yểm Nguyệt song kiều, nhan sắc bá mị nhưng độc ác. Truy sát cô gái Linh Thú sơn để móc mắt và tự nhận có núi chống lưng.",
+    "vaiTro": "Đệ tử Yểm Nguyệt tông truy sát cô gái áo lục",
+    "tinhCach": "Độc ác tàn nhẫn; kiêu ngạo; xem thường đồng môn yếu",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nhan sắc bá mị nhưng độc ác, thề móc mắt kẻ nàng săn đuổi",
+       "chuong": "@c0191"
+      },
+      {
+       "text": "Mắng nam đạo lữ là phế vật vì để mục tiêu tẩu thoát",
+       "chuong": "@c0191"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng nam đạo lữ dùng Băng Trùy thuật đâm cát tìm kiếm suốt nửa ngày, thề móc mắt tiện nhân đang trốn và mắng nam đệ tử là phế vật; sau đó thả một phù lục màu lam hóa mây đen phóng vô số băng trùy phủ dày vùng cát, nhưng không lộ mục tiêu nên tức giận rời đi.",
+       "anchor": "Sau khi tìm được ả, ta nhất định đem con mắt ả móc ra",
+       "bridge": true,
+       "khoang": "@c0191"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Nam đệ tử Yểm Nguyệt tông",
+       "tag": "the-thiep",
+       "quanHe": "Đạo lữ tu luyện cùng tông",
+       "ghiChu": "Nàng mắng hắn là phế vật vì để cô gái áo lục tẩu thoát (@c0191)."
+      },
+      {
+       "ten": "Cô gái áo lục Linh Thú sơn",
+       "tag": "doi-thu",
+       "quanHe": "Mục tiêu truy sát",
+       "ghiChu": "Muốn móc mắt và giết nàng nhưng không tìm ra khi nàng ẩn dưới cát (@c0191)."
+      }
+     ]
+    },
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nam-de-tu-yem-nguyet-tong",
+    "name": "Nam đệ tử Yểm Nguyệt tông",
+    "aliases": [
+     "đạo lữ tu luyện (Yểm Nguyệt tông)"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Yểm Nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Nam đệ tử Yểm Nguyệt tông, đạo lữ tu luyện của nữ đệ tử Song kiều, tính yếu đuối sợ hãi. Bị mắng là phế vật vì để cô gái áo lục tẩu thoát.",
+    "vaiTro": "Đạo lữ đi theo nữ đệ tử Yểm Nguyệt tông",
+    "tinhCach": "Yếu đuối; sợ hãi vị sư muội; phục tùng",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Bị nữ đạo lữ mắng là phế vật vì để mục tiêu công pháp tầng thứ mười tẩu thoát",
+       "chuong": "@c0191"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng nữ đạo lữ dùng Băng Trùy thuật lùng sục vùng cát suốt nửa ngày không kết quả, bị mắng là phế vật rồi lặng lẽ đi theo khi nàng tức giận rời đi.",
+       "anchor": "Sau khi tìm được ả, ta nhất định đem con mắt ả móc ra",
+       "bridge": true,
+       "khoang": "@c0191"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Nữ đệ tử Yểm Nguyệt tông (Yểm Nguyệt song kiều)",
+       "tag": "the-thiep",
+       "quanHe": "Đạo lữ tu luyện cùng tông",
+       "ghiChu": "Bị nàng mắng là phế vật, phục tùng theo sau (@c0191)."
+      }
+     ]
+    },
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ham-van-chi",
+    "name": "Hạm Vân Chi",
+    "aliases": [
+     "Cô gái áo lục",
+     "Nữ tử bán Kim Trúc bút",
+     "Nữ tử nhiều bảo vật"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Linh thú sơn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Luyện Khí tầng thứ mười (@c0200)",
+    "trangThai": "song",
+    "tabs": {
+     "kinhLich": [
+      {
+       "text": "Bị cặp đệ tử Yểm Nguyệt tông truy sát, nàng ẩn dưới cát thoát cuộc quét băng trùy nhưng bị một băng trùy dài mỏng đâm trúng vai chảy máu thấm nửa thân; nàng cắn răng tự rút băng trùy, dốc dược phấn vàng cầm máu, tay nắm chặt một khăn lụa vàng hào quang chớp động không phải vật phàm; sau đó khóc nhỏ vì sợ liên lụy người khác rồi quật cường gượng đứng dậy, xiêu vẹo đi về khu trung tâm.",
+       "anchor": "từ bên trong bất ngờ xuất hiện một nữ tử áo lục, trên vai cắm một băng trùy dài và mỏng, máu tươi chảy ròng ròng, thấm nửa thân mình",
+       "bridge": true,
+       "khoang": "@c0191"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0200",
+       "tieuDe": "Liều chết chống hán tử Cự Kiếm môn",
+       "text": "Tại thạch điện gần đỉnh núi, dù công pháp chỉ tầng thứ mười, dùng pháp khí đỉnh cấp khăn lụa hoàng quang liều chết chống hán tử Cự Kiếm môn; cạnh đó xác cự lang đỏ và bạch điêu của nàng bị chém đôi; bị dọa cùng kết cục vẫn quật cường đòi vài hạt Liệt Dương hoa, chết cũng không tránh ra.",
+       "anchor": "ta chết cũng không tránh ra!"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0203",
+       "tieuDe": "Được cứu rồi bị xóa trí nhớ",
+       "text": "Sau khi được Hàn Lập cứu khỏi gã Cự kiếm môn, nàng ban đầu lấy tiểu kiếm đen ra chống cự rồi nhận lỗi khi được nhắc là ân nhân, xưng tên Hạm Vân Chi và tỏ ra ngượng ngùng; nàng chỉ xin mấy đóa Liệt dương hoa nhưng khi xoay người liền bị Hàn Lập đánh hôn mê và xóa trí nhớ nửa ngày, tỉnh dậy vẻ mặt mờ mịt cầm Liệt dương hoa rồi vội vàng chạy xuống núi.",
+       "anchor": "Ta… ta gọi là Hạm Vân Chi"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Nữ đệ tử Yểm Nguyệt tông (Yểm Nguyệt song kiều)",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ truy sát",
+       "ghiChu": "Bị truy đuổi để móc mắt, nàng phải ẩn dưới cát thoát nạn (@c0191)."
+      },
+      {
+       "ten": "Hán tử áo đen chân trần (Cự Kiếm môn)",
+       "tag": "doi-thu",
+       "quanHe": "Hán tử Cự Kiếm môn áp bức nàng, giết cự lang và bạch điêu, tranh Liệt Dương hoa",
+       "ghiChu": "@c0200"
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "an-nhan",
+       "quanHe": "Ân nhân cũ ra tay cứu mạng",
+       "ghiChu": "Hàn Lập từng có duyên với cô, lần này lại cứu khỏi ngân kiếm của Vũ Si."
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Liếc nhìn Hàn Lập cười thiện ý khi rời đi, làm hắn lo lắng",
+       "ghiChu": ""
+      }
+     ],
+     "tuViMoc": [],
+     "diem": [
+      {
+       "text": "Được Hàn Lập cứu mạng, chỉ dám xin mấy đóa Liệt dương hoa chứ không tham linh dược khác",
+       "chuong": "@c0203"
+      },
+      {
+       "text": "Khó xử không nói lý do gia nhập Linh thú sơn tham gia Huyết sắc thí luyện",
+       "chuong": "@c0203"
+      }
+     ]
+    },
+    "nguon": [
+     "@c0191",
+     "@c0200",
+     "@c0201",
+     "@c0203",
+     "@c0210",
+     "@c0211"
+    ],
+    "vaiTro": "Nữ tu được Hàn Lập cứu trong cấm địa Huyết sắc thí luyện",
+    "tinhCach": "Sợ hãi cảnh giác nhưng biết điều; ngượng ngùng dè dặt; kín đáo về thân phận",
+    "blurb": "Cô gái áo lục thân hình mảnh mai, gương mặt tái nhợt, được Hàn Lập cứu khỏi gã Cự kiếm môn trong cấm địa Huyết sắc thí luyện. Nàng gia nhập Linh thú sơn để tham gia thí luyện vì lý do khó nói, và bị Hàn Lập xóa trí nhớ nửa ngày sau khi được cứu.",
+    "rank": "B"
+   },
+   {
+    "id": "chu-nhan-phi-xa-giong-khan",
+    "name": "Chủ nhân phi xà (giọng khàn khàn)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "khong-ro",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Tu sĩ giấu mặt điều khiển hai con phi xà mọc cánh xanh trong suốt, có tâm lý biến thái. Giễu cợt Hàn Lập rồi ra tay giết, nhưng khi nhận ra linh ngoa Đạp vân ngoa dưới chân hắn thì kinh ngạc kêu dừng tay muốn nói chuyện.",
+    "vaiTro": "Đối thủ giấu mặt của Hàn Lập trong khu trung tâm thí luyện",
+    "tinhCach": "Xảo trá, tâm lý biến thái; tự tin vào phi xà; nhạy bén với bảo vật quý",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Điều khiển hai phi xà tốc độ ngang thân pháp thượng thừa, giễu cợt con mồi trước khi giết",
+       "chuong": "@c0192"
+      },
+      {
+       "text": "Nghi là kẻ đóng đinh ba tử thi lập uy dọa người, có tâm lý biến thái",
+       "chuong": "@c0192"
+      },
+      {
+       "text": "Điều khiển hai con phi xà mọc đôi cánh xanh trong suốt, tốc độ ngang La yên bộ",
+       "chuong": "@c0192"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Đối tượng bị hắn thả phi xà tập kích trong khu trung tâm; sau nhận ra Đạp vân ngoa thì đổi ý muốn thương lượng.",
+       "ghiChu": "Chưa lộ tên thật với Hàn Lập (@c0192)."
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0192"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chung-ngo",
+    "name": "Chung Ngô",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Linh thú sơn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0193)",
+    "trangThai": "song",
+    "blurb": "Hán tử xấu xí tầm thước mặt lốm đốm vết đen của Linh thú sơn, một lão cáo già cẩn thận có sở thích ăn máu thịt người tu tiên. Đánh lén dò xét Hàn Lập vì Đạp vân ngoa rồi đề nghị trao đổi thông tin.",
+    "vaiTro": "Tu sĩ Linh thú sơn, đối thủ tiềm ẩn của Hàn Lập ở khu trung tâm",
+    "tinhCach": "Cẩn thận đa nghi, thâm hiểm; lão luyện kinh nghiệm; tàn bạo coi máu thịt người là bổ dược",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Lão cáo già cẩn thận: Hàn Lập tiến một bước thì hắn lui hai bước, khiến xác suất ám sát giảm dưới một thành",
+       "chuong": "@c0193"
+      },
+      {
+       "text": "Coi máu thịt người tu tiên là bổ dược, tiếc rẻ khi máu thịt bị lãng phí",
+       "chuong": "@c0193"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Xông ra từ dưới tàng cây cách Hàn Lập hai mươi trượng, kinh ngạc nhận ra Đạp vân ngoa của lão Phong ở chân đối phương; tự xưng Chung Ngô của Linh thú sơn, từ chối báo thù cho Phong Nhạc vì chỉ có chút giao tình; lộ bản tính ăn máu thịt người tu tiên, lấy khối thịt trong túi vải ném về sau; đề nghị trao đổi ngọc giản thông tin khu trung tâm nhưng luôn giữ khoảng cách đề phòng.",
+       "anchor": "Báo thù? Thật là buồn cười. Ta sao lại vì loại người nhàm chán đó chứ?",
+       "bridge": true,
+       "khoang": "@c0193"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0194",
+       "tieuDe": "Ở lại không rời sau trao đổi",
+       "text": "Chung Ngô đã trao đổi thông tin/địa đồ linh dược với Hàn Lập; sau khi Hàn Lập thoát khỏi sự dây dưa và ẩn mình, Chung Ngô vẫn đứng tại chỗ không rời đi, khiến Hàn Lập nghi ngờ khẩu thị tâm phi.",
+       "anchor": "Hàn Lập rơi vào giấc ngủ, thẳng một mạch đến rạng sáng ngày hôm sau hắn mới chậm rãi tỉnh dậy đi tới"
+      },
+      {
+       "text": "Sau khi Hàn Lập vào cấm địa không lâu, Chung Ngô xuất hiện trước thông đạo, cười lạnh rồi thả mười mấy con bướm vàng bay vào rừng núi để truy tung, sau đó thong thả đi theo với ý ám toán.",
+       "anchor": "sau đó thả ra mười mấy con bướm vàng bay vào rừng núi, sau đó mới không sợ không vội mà đi theo",
+       "bridge": true,
+       "khoang": "@c0196"
+      },
+      {
+       "chuong": "@c0209",
+       "importance": "normal",
+       "tieuDe": "Ra khỏi cấm địa mang thương",
+       "text": "Đệ tử Linh thú sơn ra khỏi cấm địa mang theo vết thương, cùng đợt với các đệ tử bảy phái khác.",
+       "anchor": "Bảy tu sĩ Kết đan kỳ, lại công kích mở ra cửa vào"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Đối tượng dò xét, đề phòng lẫn nhau",
+       "ghiChu": "Nghi Hàn Lập giết Phong Nhạc là chuyện ám muội, không dám chủ động động thủ."
+      },
+      {
+       "ten": "Phong Nhạc",
+       "tag": "khac",
+       "quanHe": "Có chút giao tình nhưng không thâm giao",
+       "ghiChu": "Không báo thù cho Phong Nhạc dù người này đã bị Hàn Lập giết."
+      }
+     ],
+     "tuiDo": {
+      "khac": [
+       {
+        "ten": "Khối thịt trong túi vải",
+        "moTa": "Lấy từ túi vải ra một khối thịt ném về phía sau, ám chỉ máu thịt người tu tiên hắn coi là bổ dược",
+        "nguon": "@c0193"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0193",
+     "@c0194",
+     "@c0196",
+     "@c0209"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "thanh-nien-ao-lam-thien-khuyet-bao",
+    "name": "Thanh niên áo lam (đệ tử Thiên Khuyết bảo)",
+    "cn": "",
+    "aliases": [
+     "Lý thí chủ"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên khuyết bảo",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Thanh niên khoảng hai mươi tuổi, anh tuấn, gia thế hiển hách thuộc Thiên Khuyết bảo. Tay cầm phi xoa xanh và châu tử vàng là pháp khí đỉnh cấp, một mình giết Chích giác lộc nhưng bị lão giả và đạo sĩ liên thủ uy hiếp phải bỏ chạy.",
+    "vaiTro": "Đệ tử tinh nhuệ Thiên Khuyết bảo tranh linh dược",
+    "tinhCach": "Kiêu ngạo tự tin; vừa sợ vừa giận khi bị áp chế; liều lĩnh cướp đoạt",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Một mình giết được Chích giác lộc, sở hữu phi xoa xanh và châu tử vàng là pháp khí đỉnh cấp",
+       "chuong": "@c0198"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tại sơn cốc đông nam giằng co với lão giả áo xanh và trung niên đạo sĩ vì hai đóa Tử Hầu hoa tím; đòi linh dược vì tự mình giết Chích giác lộc, nhưng bị hai người liên thủ gạt bỏ; liều lao cướp linh dược bị lão giả phóng quải trượng chặn, đạo sĩ dùng Linh Hồ bộ bám sau lưng cảnh cáo nên phải bỏ chạy khỏi cốc.",
+       "anchor": "lập tức chuyển hướng chạy như điên ra ngoài cốc, ngay cả đầu cũng không dám ngoái lại",
+       "bridge": true,
+       "khoang": "@c0198"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Lão giả áo xanh (cầm quải trượng)",
+       "tag": "doi-thu",
+       "quanHe": "Bị lão giả liên thủ áp chế, phóng quải trượng chặn đường",
+       "ghiChu": "@c0198"
+      },
+      {
+       "ten": "Phù Vân Tử",
+       "tag": "doi-thu",
+       "quanHe": "Bị đạo sĩ dùng Linh Hồ bộ bám sau lưng cảnh cáo, tha mạng",
+       "ghiChu": "@c0198"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0198"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lao-gia-ao-xanh-quai-truong",
+    "name": "Lão giả áo xanh (cầm quải trượng)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Lão giả sắc mặt hòa ái nhân từ, cầm quải trượng làm pháp khí, quen biết trung niên đạo sĩ Thanh Hư môn. Đề nghị chia đôi linh dược và phóng quải trượng hóa thanh quang chặn thanh niên áo lam.",
+    "vaiTro": "Cao thủ tranh linh dược tại cấm địa Huyết sắc thí luyện",
+    "tinhCach": "Hòa ái nhân từ ngoài mặt; tính toán chia lợi khôn khéo",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Đề nghị chia đôi linh dược với đạo sĩ và phóng quải trượng hóa thanh quang cực nhanh chặn đường thanh niên",
+       "chuong": "@c0198"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng trung niên đạo sĩ Thanh Hư môn liên thủ chia đôi hai gốc Tử Hầu hoa tím, gạt thanh niên áo lam; phóng quải trượng hóa thanh quang chặn đường thanh niên định cướp, sau đó khen Linh Hồ bộ của đạo sĩ xuất thần nhập hóa.",
+       "anchor": "ngươi và ta hai người vừa lúc phân chia bình đẳng, một người một gốc cây được không",
+       "bridge": true,
+       "khoang": "@c0198"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Phù Vân Tử",
+       "tag": "dong-minh",
+       "quanHe": "Quen biết cũ, liên thủ chia đôi linh dược",
+       "ghiChu": "@c0198"
+      },
+      {
+       "ten": "Thanh niên áo lam (đệ tử Thiên Khuyết bảo)",
+       "tag": "doi-thu",
+       "quanHe": "Phóng quải trượng chặn đường khi thanh niên cướp linh dược",
+       "ghiChu": "@c0198"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0198"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tran-dai-cong-tu",
+    "name": "Trần đại công tử",
+    "cn": "",
+    "aliases": [
+     "Trần đại ca",
+     "Trần huynh"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Trần thị gia tộc",
+      "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Hoàng Phong cốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0199)",
+    "trangThai": "song",
+    "blurb": "Đại công tử của siêu cấp gia tộc họ Trần, đệ tử Hoàng Phong cốc. Anh trai của Trần thất muội, dùng Kim thư và Ngân bút thắng phe đối thủ tranh linh thảo.",
+    "vaiTro": "Đại công tử gia tộc họ Trần, anh trai Trần thất muội",
+    "tinhCach": "trầm ổn khí độ; tính toán có kế sách; che chở em gái",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Dùng Kim thư kết hợp Ngân bút tạo uy lực lớn, dọa lui phe đối thủ",
+       "chuong": "@c0199"
+      },
+      {
+       "text": "Điềm tĩnh ngăn thất muội truy sát, biết giữ hòa khí với các gia tộc lớn",
+       "chuong": "@c0199"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng Trần thất muội tranh đoạt linh thảo tại thạch ốc trên đỉnh núi, dùng Kim thư và Ngân bút thắng phe Chung Ngô và thanh niên Hóa Đao ổ; ngăn thất muội truy sát vì hai gia tộc kia không nhỏ; truy tìm người cứu thất muội qua manh mối Thanh Giao kỳ, đã có kế sách và đi theo muội vào thạch ốc.",
+       "anchor": "Trần mỗ quyết sẽ không làm khó!",
+       "bridge": true,
+       "khoang": "@c0199"
+      },
+      {
+       "chuong": "@c0209",
+       "importance": "normal",
+       "tieuDe": "Khinh bỉ Hàn Lập",
+       "text": "Huynh muội Trần thị của Hoàng phong cốc ra khỏi cấm địa mang thương, ngồi cạnh Hàn Lập; thấy hắn chỉ tầng mười một mà không tổn hao đi ra, ban đầu ngạc nhiên rồi chuyển sang khinh bỉ cho rằng hắn nhát gan trốn tránh, không có thu hoạch.",
+       "anchor": "thêm vào Hàn Lập tổng cộng là có năm người"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Trần thất muội",
+       "tag": "ho-hang",
+       "quanHe": "Em gái",
+       "ghiChu": "Che chở, truy tìm ân nhân cứu muội"
+      },
+      {
+       "ten": "Chung Ngô",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ tranh linh thảo",
+       "ghiChu": "Thắng trận, để đối phương rời đi"
+      },
+      {
+       "ten": "Trần sư muội",
+       "tag": "ho-hang",
+       "quanHe": "Huynh muội, cùng ra khỏi cấm địa",
+       "ghiChu": "@c0209"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Kim thư",
+        "trangThai": "dang-co",
+        "moTa": "Quyển sách kim quang rực rỡ, kết hợp Ngân bút tạo uy lực lớn",
+        "nguon": "@c0199"
+       },
+       {
+        "ten": "Ngân bút",
+        "trangThai": "dang-co",
+        "moTa": "Cây bút lớn bằng gỗ ngân quang, dùng thi triển ngân phù",
+        "nguon": "@c0199"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0199",
+     "@c0209"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "thanh-nien-hoa-dao-o",
+    "name": "Thanh niên Hóa Đao ổ",
+    "cn": "",
+    "aliases": [
+     "Nam âm nhu tuấn mỹ (Hóa Đao ổ)"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Hóa Đao ổ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0199)",
+    "trangThai": "song",
+    "blurb": "Đệ tử Hóa Đao ổ dáng vẻ âm nhu tuấn mỹ, giọng lúc như nữ tử sợ hãi lúc như mỹ công tử. Dùng hai phi đao đỏ, nhận thua trước phe họ Trần rồi rời đi.",
+    "vaiTro": "Đệ tử Hóa Đao ổ tranh đoạt linh thảo",
+    "tinhCach": "âm nhu tuấn mỹ; biết tiến thoái; khen ngợi khí độ đối thủ",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Dùng hai phi đao đỏ biến thành hai màn chắn sáng như bánh xe để phòng thủ",
+       "chuong": "@c0199"
+      },
+      {
+       "text": "Chống không nổi Kim thư và Ngân bút thì chủ động nhận thua",
+       "chuong": "@c0199"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng Chung Ngô tranh đoạt linh thảo tại thạch ốc, dùng hai phi đao đỏ phòng thủ nhưng chống không nổi Kim thư và Ngân bút của Trần đại ca; chủ động mở miệng nhận thua, giao linh thảo cho họ Trần, khen Trần huynh khí độ rồi cùng Chung Ngô rời đi.",
+       "anchor": "Dừng tay, không đánh nữa, hai người bọn ta nhận thua!",
+       "bridge": true,
+       "khoang": "@c0199"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Chung Ngô",
+       "tag": "dong-minh",
+       "quanHe": "Cùng phe tranh linh thảo",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Trần đại công tử",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ tranh linh thảo",
+       "ghiChu": "Nhận thua trước"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Phi đao đỏ",
+        "trangThai": "dang-co",
+        "moTa": "Hai phi đao màu đỏ, biến thành hai màn chắn sáng như bánh xe để phòng thủ",
+        "nguon": "@c0199"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ma-van-long",
+    "name": "Mã Vân Long",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên khuyết bảo",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0199)",
+    "trangThai": "khong-ro",
+    "blurb": "Cường giả của Thiên Khuyết bảo, được đồn có hy vọng bước vào Kết Đan kỳ trong trăm năm tới. Chủ nhân thành danh của Lạc Trần châu — pháp khí nay ở trong tay Hàn Lập.",
+    "vaiTro": "Cường giả Thiên Khuyết bảo, chủ cũ của Lạc Trần châu",
+    "tinhCach": "danh tiếng lớn; thực lực cao",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Được đồn có hy vọng bước vào Kết Đan kỳ trong trăm năm tới",
+       "chuong": "@c0199"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Được nhắc tên là cường giả Thiên Khuyết bảo có hy vọng Kết Đan kỳ; do Hàn Lập cầm Lạc Trần châu (pháp khí thành danh của hắn) nên đạo sĩ nhầm Hàn Lập có quan hệ lớn với hắn, khiến lão giả họ Lý bỏ ý cướp pháp khí.",
+       "anchor": "Thanh niên kia trong tay cầm Lạc Trần châu, chính là pháp khí thành danh của người kia",
+       "bridge": true,
+       "khoang": "@c0199"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nu-de-tu-lon-tuoi-yem-nguyet-tong",
+    "name": "Nữ đệ tử lớn tuổi Yểm Nguyệt tông",
+    "cn": "",
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Yểm Nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Nữ tử tuổi lớn hơn trong đoàn Yểm Nguyệt tông, cung kính báo cáo cho Sư tổ về yêu thú Bích Thủy ngạc.",
+    "vaiTro": "Đệ tử Yểm Nguyệt tông",
+    "tinhCach": "Cung kính; cẩn trọng",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Báo cáo cho Sư tổ về Bích Thủy ngạc và việc nó từng nuốt chết một đệ tử bổn môn",
+       "chuong": "@c0200"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cung kính báo cáo với Sư tổ rằng yêu thú đỉnh cấp Bích Thủy ngạc ở trong đầm, trước đó từng nuốt chết một đệ tử bổn môn.",
+       "anchor": "Chẳng lẽ cô gái này thực sự là tu sĩ Kết Đan kỳ?",
+       "bridge": true,
+       "khoang": "@c0200"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)",
+       "tag": "su-mon",
+       "quanHe": "Sư tổ mà nàng cung kính báo cáo",
+       "ghiChu": "@c0200"
+      }
+     ]
+    },
+    "nguon": [
+     "@c0200"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vu-si",
+    "name": "Hán tử áo đen chân trần (Cự Kiếm môn)",
+    "aliases": [
+     "Đại hán chân trần"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Cự kiếm môn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0201)",
+    "trangThai": "song",
+    "blurb": "Cao thủ tu chân được giang hồ gọi là “Vũ Si”, người của Cự kiếm môn, dùng cự kiếm màu bạc uy lực khủng khiếp. Cuồng nhiệt thích đánh nhau, thèm muốn bộ kim nhận đỉnh cấp pháp khí nên chủ động khiêu chiến Hàn Lập. (+) Nam tử mạnh mẽ chân trần của Cự Kiếm môn, thao túng cự kiếm màu bạc uy lực lớn. Đã chém đôi cự lang đỏ và bạch điêu, áp bức cô gái áo lục nhưng tuyên bố không muốn giết nữ nhân. [CAN-SOAT-GOP]",
+    "vaiTro": "Đối thủ giao đấu của Hàn Lập, cao thủ Cự kiếm môn",
+    "tinhCach": "Cuồng nhiệt thích đánh nhau; ngạo mạn không đếm xỉa lời hòa giải; tham lam pháp bảo hiếm",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Được tu chân giới gọi là “Vũ Si”, cuồng nhiệt mê đấu.",
+       "chuong": "@c0201"
+      },
+      {
+       "text": "Dùng cự kiếm màu bạc uy lực chém vòng bảo hộ bình thường là “tráo phá nhân vong”.",
+       "chuong": "@c0201"
+      },
+      {
+       "text": "Được cả tu chân giới gọi là “Vũ Si” vì cuồng chiến",
+       "chuong": "@c0201"
+      },
+      {
+       "text": "Dùng cự kiếm màu bạc, một kiếm chém nát pháp khí đối phương",
+       "chuong": "@c0201"
+      },
+      {
+       "text": "Thao túng cự kiếm màu bạc, chém đôi cả cự lang đỏ và bạch điêu",
+       "chuong": "@c0200"
+      },
+      {
+       "text": "Áp bức cô gái áo lục nhưng tuyên bố không muốn giết nữ nhân",
+       "chuong": "@c0200"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tại khoảng đất trống trước thạch điện, thao túng cự kiếm màu bạc áp đảo cô gái áo lục Linh Thú sơn để tranh Liệt Dương hoa; chém đôi cự lang đỏ và bạch điêu của nàng; cảnh cáo nàng rời đi vì không muốn giết nữ nhân nhưng đã hết kiên nhẫn.",
+       "anchor": "cô gái áo lục này chính là cô gái từng xấu hổ khi bán cho hắn Kim Trúc bút",
+       "bridge": true,
+       "khoang": "@c0200"
+      },
+      {
+       "chuong": "@c0201",
+       "importance": "normal",
+       "tieuDe": "Vũ Si khiêu chiến Hàn Lập đoạt bảo",
+       "text": "Nổi giận vì cô gái áo lục khiêu khích, xuất ngân kiếm chém nát pháp khí khăn lụa của cô; sau đó chăm chú kim nhận trong tay Hàn Lập, đoán là đỉnh cấp pháp khí nên treo thưởng tính mạng cô gái cùng linh dược trong thạch phòng nếu Hàn Lập thắng, rồi vung cự kiếm chủ động khai chiến.",
+       "anchor": "Người này đích thị là “Vũ si!” trong tu chân giới"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ giao đấu tranh giành kim nhận",
+       "ghiChu": "Khiêu chiến để đoạt bộ kim nhận đỉnh cấp pháp khí."
+      },
+      {
+       "ten": "Hạm Vân Chi",
+       "tag": "doi-thu",
+       "quanHe": "Truy sát vì bị khiêu khích",
+       "ghiChu": "Chém nát pháp khí khăn lụa, định giết cô tại chỗ."
+      }
+     ],
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0201",
+     "@c0200"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "nu-de-tu-ao-trang-bam-hac-lan-mang",
+    "name": "Nữ đệ tử áo trắng (Yểm Nguyệt tông)",
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Yểm Nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "vaiTro": "Nữ đệ tử Yểm Nguyệt tông bẩm báo về Hắc lân mãng",
+    "tinhCach": "Kính sợ sư tổ; e dè khi bị quở trách",
+    "blurb": "Một nữ đệ tử Yểm Nguyệt tông theo sư tổ vào đầm lầy dưới thạch điện. Nàng bẩm báo cho sư tổ về Hắc lân mãng nấp trong đầm và bị quở trách.",
+    "aliases": [],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nắm rõ hung danh Hắc lân mãng — cự mãng đã nuốt mười mấy đệ tử các phái",
+       "chuong": "@c0204"
+      },
+      {
+       "text": "Nắm rõ hung danh Hắc lân mãng đã nuốt mười mấy đệ tử các phái",
+       "chuong": "@c0204"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0204",
+       "importance": "normal",
+       "tieuDe": "Bẩm báo về Hắc lân mãng",
+       "text": "Bẩm cho sư tổ Yểm Nguyệt tông rằng Hắc lân mãng nấp trong đầm lầy, đã nuốt mười mấy đệ tử các phái muốn lấy bảo vật, mạnh hơn nhiều yêu thú đỉnh cấp; bị sư tổ quở trách nên sợ hãi.",
+       "anchor": "cũng tuyệt sẽ không phải là đối thủ của \"Âm dương khiên dẫn thuật\" của ta"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)",
+       "tag": "su-mon",
+       "quanHe": "Sư tổ của tông môn mà nàng phụng sự",
+       "ghiChu": "Bẩm báo tình hình Hắc lân mãng và bị quở trách."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0204"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nu-tu-ao-dai-trang-yem-nguyet-tong",
+    "name": "Nữ tử áo dài trắng (Yểm Nguyệt tông)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nữ",
+    "theLuc": [
+     {
+      "ten": "Yểm Nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0205)",
+    "trangThai": "song",
+    "blurb": "Nữ đệ tử Yểm Nguyệt tông đứng đầu đợt công kích cột sáng hồng lam vào yêu thú Mặc Giao trong trận quan chiến ở đầm lầy cấm địa.",
+    "vaiTro": "Đệ tử dẫn dắt đợt công kích của Yểm Nguyệt tông",
+    "tinhCach": "quyết đoán; tuân lệnh sư tổ",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Dẫn dắt mười mấy cột sáng hồng lam công kích yêu thú Mặc Giao",
+       "chuong": "@c0205"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Dưới trận quan chiến ở đầm lầy, nàng dẫn dắt các đệ tử song tu phóng mười mấy cột sáng hồng lam đánh vào yêu thú Mặc Giao, ban đầu bị tầng hắc vụ hộ thể cản lại rồi phối hợp với sư tổ đánh thủng.",
+       "anchor": "mười mấy đạo cột sáng hồng lam lần lượt thay đổi",
+       "bridge": true,
+       "khoang": "@c0205"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)",
+       "tag": "su-mon",
+       "quanHe": "Sư tổ chỉ huy trận chiến",
+       "ghiChu": "Nàng theo lệnh sư tổ dẫn dắt công kích"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0205"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nam-cung-uyen",
+    "name": "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)",
+    "aliases": [
+     "Sư tổ Yểm Nguyệt tông",
+     "Nam Cung sư tổ",
+     "Nam Cung tiên tử",
+     "Nữ tử tuyệt sắc áo trắng",
+     "Nam Cung Uyển",
+     "Nam Cung Uyển sư tổ"
+    ],
+    "canhGioiCaoNhat": "Kết đan kỳ (@c0206)",
+    "trangThai": "song",
+    "tabs": {
+     "kinhLich": [
+      {
+       "text": "Dẫn đoàn đệ tử áo trắng Yểm Nguyệt tông đến đầm nước xanh biếc; ra lệnh đệ tử dùng bí pháp hợp kích Âm Dương Khiên Dẫn thuật, còn nàng phun pháp bảo viên hoàn phấn hồng dẫn dụ và ngăn hơn phân nửa lực công kích, diệt yêu thú đỉnh cấp Bích Thủy ngạc trong bí quật mà không tổn thương một ai.",
+       "anchor": "liền đánh chết con Bích Thủy ngạc cực kỳ hung dữ, đáng sợ kia",
+       "bridge": true,
+       "khoang": "@c0200"
+      },
+      {
+       "chuong": "@c0204",
+       "importance": "normal",
+       "tieuDe": "Phát hiện cấm chế thạch điện, quyết đối phó Hắc lân mãng",
+       "text": "Sư tổ Yểm Nguyệt tông dẫn đám đệ tử đến phụ cận thạch điện, phóng thần thức khổng lồ nhưng bị cấm chế bài xích — lần đầu tiên nàng gặp cấm chế thần thức không xuyên qua; hưng phấn tiến vào rồi xuống đầm lầy, biết Hắc lân mãng đã nuốt mười mấy đệ tử vẫn tự tin tuyên bố dùng Âm dương khiên dẫn thuật đối phó để lấy hộp vàng.",
+       "anchor": "Nhưng cấm chế trong này ngay cả thần thức của nàng cũng không thể xuyên qua, đây chính là lần đầu tiên nàng gặp được"
+      },
+      {
+       "text": "Sau khi phân phó đệ tử, cô lẩm bẩm vật cần tìm nằm trong “cái hộp này” còn những thứ trước chỉ là rác rưởi; phun ra pháp bảo Chu tước hoàn tụ mấy trăm hỏa cầu, đọc ngũ tự ngôn quyết chụp giam yêu thú; khi thấy rõ liền thất thanh gọi “Mặc Giao” chứ không phải Hắc lân mãng, thần sắc vừa lo vừa mừng; chỉ huy đệ tử hợp lực công kích nhưng cuối cùng báo giữ không được Mặc Giao nữa.",
+       "anchor": "Cô gái vừa thấy rõ yêu thú, lập tức thất thanh kêu lên",
+       "bridge": true,
+       "khoang": "@c0205"
+      },
+      {
+       "text": "Dẫn đệ tử Yểm Nguyệt tông vây đánh Mặc Giao bằng Chu tước hoàn nhưng yêu thú lột da đào thoát rồi tiến hóa bậc hai; nàng dùng Kim ti phù vây khốn định trốn thì thông đạo bị phong bế, nhốt nàng bên trong; sau khi kiệt sức và hết phù lục được Hàn Lập ra tay cứu, đành liên thủ cùng hắn và dùng chút pháp lực cuối cùng vây giữ Mặc Giao.",
+       "anchor": "cứu lấy nàng trong lúc đang vạn phần nguy cơ",
+       "bridge": true,
+       "khoang": "@c0206"
+      },
+      {
+       "text": "Cô gái dùng Chu tước hoàn khống chế Mặc Giao và ném viên châu vàng nổ thành khói vàng bao đầu yêu thú; sau khi kim chuyên đập nát nửa đầu Mặc Giao, cô dùng bình thủy tinh bắn hắc khí kéo nguyên thần yêu thú (hình ảnh nhỏ màu xanh) thu vào bình, mặt mày hớn hở; nhường thi thể cho Hàn Lập, phân tích ngân kiếm làm bằng ngân tinh và giải thích viên cầu đỏ không phải giao đan thật, rồi bị viên cầu tự nổ phun sương hồng bao trùm.",
+       "anchor": "một hình ảnh Mặc Giao nhỏ màu xanh, bị hắc khí kéo ra khỏi cơ thể Mặc Giao",
+       "bridge": true,
+       "khoang": "@c0207"
+      },
+      {
+       "chuong": "@c0209",
+       "importance": "major",
+       "tieuDe": "Lộ tên thật, truyền pháp lực cứu Hàn Lập",
+       "text": "Nữ tử tuyệt sắc áo trắng — tổ sư Yểm Nguyệt tông — trở ra thạch điện, tạo hố lớn trước cửa điện; dùng bí pháp truyền một phần pháp lực bị cấm chế qua Tố nữ luân hồi công giúp Hàn Lập thoát đầm lầy lòng đất, tổn hao hai ba chục năm công lực; lộ tên thật Nam Cung Uyển khi Hàn Lập hỏi phương danh lúc chia tay, dù bộc lộ vẻ không tình nguyện.",
+       "anchor": "Cái tên này là lúc Hàn Lập rời khỏi nữ tử, đã hướng tới đối phương mà hỏi phương danh"
+      },
+      {
+       "chuong": "@c0210",
+       "importance": "normal",
+       "tieuDe": "Lộ mặt thật khi ra khỏi cấm địa",
+       "text": "Một khắc trước khi thông đạo đóng, Nam Cung Uyển cầm đầu đội đệ tử Yểm Nguyệt tông ra khỏi cấm địa; trước kia quanh năm đội khăn che mặt nên các tu sĩ Kết đan kỳ không nhận ra nữ tử trẻ đẹp này chính là ‘Nam Cung tiên tử’.",
+       "anchor": "cầm đầu chính là Nam Cung Uyển khuôn mặt kiều diễm mê hồn"
+      },
+      {
+       "chuong": "@c0211",
+       "importance": "normal",
+       "tieuDe": "Rời cấm địa bằng Thiên nguyệt thần chu",
+       "text": "Nữ tử Yểm Nguyệt tông cùng tông môn rời cấm địa trước, lên Thiên nguyệt thần chu; từ đầu đến cuối không nhìn Hàn Lập lần nào khiến hắn khó chịu.",
+       "anchor": "Yểm Nguyệt tông kia, thì hắn lần này đi đến cấm địa cũng thật phát đạt, tự nhiên"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "dong-minh",
+       "quanHe": "Người cứu mạng trong tuyệt địa",
+       "ghiChu": "Hàn Lập ra tay cứu nàng lúc kiệt sức rồi thỏa thuận liên thủ đối phó Mặc Giao."
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "an-nhan",
+       "quanHe": "Nam tử hợp thể/luân hồi được nàng truyền pháp lực để thoát đầm lầy",
+       "ghiChu": "@c0209"
+      },
+      {
+       "ten": "Nghê Thường",
+       "tag": "su-mon",
+       "quanHe": "Tiền bối Yểm Nguyệt tông nắm cánh tay quan tâm hỏi thăm"
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Rời đi mà không nhìn Hàn Lập lần nào, để lại cảm giác khó chịu",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Nữ đệ tử lớn tuổi Yểm Nguyệt tông",
+       "tag": "su-mon",
+       "quanHe": "Đệ tử cung kính báo cáo về Bích Thủy ngạc cho nàng",
+       "ghiChu": "@c0200"
+      },
+      {
+       "ten": "Nữ đệ tử áo trắng (Yểm Nguyệt tông)",
+       "tag": "su-mon",
+       "quanHe": "Đệ tử dưới quyền",
+       "ghiChu": "Nữ đệ tử bẩm báo về Hắc lân mãng, bị nàng quở trách."
+      }
+     ],
+     "diem": [
+      {
+       "text": "Dung mạo thiếu nữ nhưng cảnh giới nghi Kết Đan kỳ, toàn thân phủ sáng bạc kỳ dị",
+       "chuong": "@c0200"
+      },
+      {
+       "text": "Dùng pháp bảo viên hoàn phấn hồng dẫn dụ và diệt yêu thú đỉnh cấp Bích Thủy ngạc mà không tổn thương ai",
+       "chuong": "@c0200"
+      }
+     ]
+    },
+    "nguon": [
+     "@c0209",
+     "@c0210",
+     "@c0211",
+     "@c0200",
+     "@c0204",
+     "@c0205",
+     "@c0207"
+    ],
+    "gioiTinh": "nu",
+    "blurb": "Cô gái vẻ thanh thuần nhưng nghiêm nghị, toàn thân phủ tầng sáng bạc kỳ dị, dẫn đầu đoàn đệ tử áo trắng Yểm Nguyệt tông. Được tôn xưng “Sư tổ”, nghi là tu sĩ Kết Đan kỳ dù dung mạo còn trẻ.",
+    "rank": "B"
+   },
+   {
+    "id": "trieu-su-muoi-yem-nguyet-tong",
+    "name": "Triệu sư muội (nữ tử áo trắng)",
+    "cn": "",
+    "aliases": [
+     "Yểm Nguyệt song kiều"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Yểm Nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Nữ đệ tử Yểm Nguyệt tông tự xưng là một trong Yểm Nguyệt song kiều, dán Tiểu ngũ hành phù ở lối vào định hại Mặc Giao nhưng vô tình phong bế thông đạo nhốt luôn sư tổ.",
+    "vaiTro": "Nữ đệ tử Yểm Nguyệt tông",
+    "tinhCach": "Nôn nóng lập công; hoảng loạn khi gây họa",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tự xưng là một trong Yểm Nguyệt song kiều",
+       "chuong": "@c0206"
+      },
+      {
+       "text": "Dán Tiểu ngũ hành phù vô tình phong bế thông đạo, nhốt cả sư tổ",
+       "chuong": "@c0206"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Dán Tiểu ngũ hành phù trung cấp bậc thấp ở lối vào định hại Mặc Giao, nhưng phù phát động Tiểu ngũ hành tu di cấm pháp khiến hai bên thông đạo đá ép lại kín mít, phong bế lối ra và nhốt Nam Cung sư tổ cùng Hàn Lập bên trong; bị các đệ tử khác truy vấn nên hoảng sợ.",
+       "anchor": "đã hợp lại một khe hở cũng không có",
+       "bridge": true,
+       "khoang": "@c0206"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Nam Cung Uyển",
+       "tag": "su-mon",
+       "quanHe": "Sư tổ bị nàng vô tình nhốt trong địa đạo",
+       "ghiChu": "Triệu sư muội dán phù phong bế thông đạo khiến sư tổ mắc kẹt bên trong."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "congPhap": [],
+      "khac": [
+       {
+        "ten": "Tiểu ngũ hành phù",
+        "moTa": "Phù lục trung cấp bậc thấp dán ở lối vào phát động cấm pháp phong bế thông đạo.",
+        "nguon": "@c0206"
+       }
+      ]
+     }
+    },
+    "rank": "D"
+   },
+   {
+    "id": "nu-tu-tuyet-sac-nu-tu-ket-dan-ky",
+    "name": "Nữ tử tuyệt sắc (nữ tu Kết đan kỳ)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [],
+    "canhGioiCaoNhat": "Kết đan kỳ (@c0208)",
+    "trangThai": "song",
+    "blurb": "Mỹ nhân phong hoa tuyệt đại, nữ tu Kết đan kỳ luyện độc môn Tố nữ luân hồi công. Bị phá thân xử nữ do túi thôi tình của Mặc Giao nổ tung, tình cờ có duyên phu thê với Hàn Lập. Lạnh nhạt cao ngạo, buộc Hàn Lập giữ kín chuyện dưới lời dọa giết. Chương này chưa lộ tên thật.",
+    "vaiTro": "Nữ tu Kết đan kỳ có duyên phu thê với Hàn Lập",
+    "tinhCach": "Lạnh nhạt cao ngạo; ung dung cao quý; oán khí song không nỡ giết người",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Luyện Tố nữ luân hồi công đã đại thành, cứ mười năm luân hồi biến về lúc nhỏ; bị phá thân nên biến lớn lên",
+       "chuong": "@c0208"
+      },
+      {
+       "text": "Lời nói lạnh nhạt, khí chất ung dung cao quý sau khi mặc bộ y phục trắng như tuyết",
+       "chuong": "@c0208"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Bị phá thân xử nữ do túi thôi tình của Mặc Giao nổ, tổn thất năm sáu năm pháp lực; buộc Hàn Lập coi là sai lầm và dọa giết nếu người thứ ba biết; giải thích viên cầu là túi dâm nang của Mặc Giao (thực là Hùng Giao hiếm thấy) cùng công pháp Tố nữ luân hồi công của mình; thu hộp vàng phía trước và tuyên bố phải hai người hợp lực mới phá cấm rời đi được.",
+       "anchor": "Chuyện phát sinh hôm nay, nếu có người thứ ba biết, ta sẽ giết ngươi!",
+       "bridge": true,
+       "khoang": "@c0208"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0208",
+       "canhGioi": "Kết đan kỳ",
+       "text": "Là nữ tu Kết đan kỳ luyện Tố nữ luân hồi công đã đại thành; bị phá thân chỉ tổn thất năm sáu năm pháp lực",
+       "importance": "major"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Có duyên phu thê; tình cờ hợp hoan sau khi trúng túi thôi tình của Mặc Giao; buộc hắn giữ kín và cùng hắn hợp lực phá cấm",
+       "ghiChu": "Gặp @c0208"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [
+       {
+        "ten": "Tố nữ luân hồi công",
+        "moTa": "Độc môn công pháp nữ tử tu luyện, đã đại thành; cứ mười năm luân hồi một lần biến về lúc nhỏ, bị phá thân thì biến lớn lên",
+        "nguon": "@c0208"
+       }
+      ],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": [
+       {
+        "ten": "Hộp vàng",
+        "trangThai": "dang-co",
+        "moTa": "Hộp vàng đặt phía trước bên bạch ngọc đình, nữ tử thu vào túi trữ vật; công dụng chưa rõ",
+        "nguon": "@c0208"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0208"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khung-lao-quai-yem-nguyet-tong",
+    "name": "Khung lão quái",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Yểm Nguyệt tông",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (trưởng bối)",
+    "trangThai": "song",
+    "blurb": "Trưởng bối Yểm Nguyệt tông, cùng Nghê Thường tiên tử trông coi cuộc đánh cuộc tại cấm địa Huyết sắc thí luyện.",
+    "vaiTro": "Trưởng bối Yểm Nguyệt tông tại cấm địa",
+    "tinhCach": "Tự tin đắc ý; sau lộ bất an",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Xuất hiện trên tảng đá cười hì hì tỏ vẻ nắm chắc cuộc đánh cuộc phân phối trúc cơ đan",
+       "chuong": "@c0209"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0209",
+       "importance": "normal",
+       "tieuDe": "Từ đắc ý chuyển bất an",
+       "text": "Xuất hiện trên tảng đá cười hì hì tỏ vẻ nắm chắc cuộc đánh cuộc phân phối trúc cơ đan; nhưng khi đệ tử Yểm Nguyệt tông không một ai ra khỏi cấm địa tới lúc thông đạo sắp đóng, chuyển sang lo lắng bất an cùng Nghê Thường tiên tử.",
+       "anchor": "Mà vẫn chưa thấy một người nào của Yểm Nguyệt tông xuất hiện"
+      },
+      {
+       "chuong": "@c0210",
+       "importance": "normal",
+       "tieuDe": "Giục mở đổ cục",
+       "text": "Khung lão quái thở dài khi đệ tử Yểm Nguyệt tông ra; ỷ già làm càn ép Lý sư tổ (gọi ‘Lý tiểu tử’) mau xem kết quả đánh cuộc, khiến Lý sư tổ bất an.",
+       "anchor": "Nhanh chóng xem xét kết quả đánh cuộc đi"
+      },
+      {
+       "chuong": "@c0211",
+       "importance": "normal",
+       "tieuDe": "Thắng cả hai cuộc đặt cược",
+       "text": "Mấy đệ tử Yểm Nguyệt tông giao linh dược sau đột nhiên nhiều hơn mười gốc, tổng số vượt Thanh Hư môn và Hoàng phong cốc năm sáu gốc giúp lão thắng cả hai cuộc; đòi phần thắng cuộc từ Phù Vân Tử, nhận nội đan Huyết tuyến giao và hứa hẹn hai khối thiết tinh, còn chê linh khí nội đan không đủ.",
+       "anchor": "mấy đệ tử của Yểm Nguyệt tông giao linh dược sau đó, bỗng nhiên đều nhiều hơn mười gốc"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Nghê Thường",
+       "tag": "dong-minh",
+       "quanHe": "Cùng là trưởng bối Yểm Nguyệt tông tại cấm địa",
+       "ghiChu": "@c0209"
+      },
+      {
+       "ten": "Lý Sư Tổ",
+       "tag": "doi-thu",
+       "quanHe": "Đối thủ đánh cuộc; Lý sư tổ thua nên hứa trong hai mươi năm đưa hai khối thiết tinh.",
+       "ghiChu": "@c0211"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0209",
+     "@c0210",
+     "@c0211"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "nu-tu-ao-vang-de-tu-hoang-phong-coc",
+    "name": "Nữ tử áo vàng (nữ đệ tử Hoàng Phong cốc)",
+    "cn": "",
+    "aliases": [
+     "#nu-tu-ao-vang-hoang-phong-coc"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Hoàng Phong cốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Luyện Khí kỳ mười hai tầng công pháp",
+    "trangThai": "song",
+    "blurb": "Nữ đệ tử Hoàng Phong cốc mười hai tầng công pháp, từng ở cùng chỗ với Trần sư muội. Pháp khí bị hủy nên chạy trốn cầu cứu Hàn Lập, sau đó trấn an và cảnh báo hắn về đối phương. (+) Nữ đệ tử Hoàng Phong cốc mười hai tầng công pháp, từng ở cùng chỗ với Trần sư muội; bị nữ áo trắng đuổi giết nên chạy tới cầu cứu Hàn Lập. [CAN-SOAT-GOP]",
+    "vaiTro": "Nhân vật phụ — nữ đồng môn cầu cứu Hàn Lập trong trận đấu với nữ áo trắng.",
+    "tinhCach": [
+     {
+      "text": "Nhạy bén, biết bám víu cứu tinh khi lâm nguy; sau khi được cứu thì trấn an và chủ động cảnh báo đồng môn về hiểm họa.",
+      "chuong": "@c0186"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Pháp khí đã bị hủy, phải dựa vào phù lục và sự trợ giúp của đồng môn để chống đỡ.",
+       "chuong": "@c0186"
+      },
+      {
+       "text": "Nắm rõ xuất thân và điểm yếu pháp khí của đối phương, tiết lộ cho Hàn Lập.",
+       "chuong": "@c0186"
+      },
+      {
+       "text": "Tướng mạo bình thường, từng ở cùng chỗ với Trần sư muội",
+       "chuong": "@c0186"
+      },
+      {
+       "text": "Am hiểu pháp khí cổ quái của đối phương, tiết lộ hạn chế của gương chế ngự",
+       "chuong": "@c0186"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0188",
+       "importance": "normal",
+       "tieuDe": "Bị Phong Nhạc đâm xuyên ngực chết",
+       "text": "Từng liên thủ rồi phản bội Hàn Lập; sợ hãi hung danh Phong Nhạc nên nhân lúc hai người tranh đấu mà bỏ chạy vào rừng, bị Phong Nhạc chặn ở bìa rừng và đâm thẳng đao qua ngực ra sau lưng, đổ gục chết, mắt mở to hối hận.",
+       "anchor": "chọc thẳng vào ngực của nàng ta xuyên thủng ra tận sau lưng, lộ ra một bàn tay đầy máu chảy ròng ròng"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "dong-minh",
+       "quanHe": "Đồng môn Hoàng Phong cốc được nàng cầu cứu và ra tay bảo vệ",
+       "ghiChu": "@c0186"
+      },
+      {
+       "ten": "Nữ tử áo trắng (hậu nhân Trưởng lão Yểm Nguyệt tông)",
+       "tag": "doi-thu",
+       "quanHe": "Nữ tu truy sát nàng vì thù oán",
+       "ghiChu": "@c0186"
+      },
+      {
+       "ten": "Trần sư muội",
+       "tag": "khac",
+       "quanHe": "Đồng môn từng ở cùng chỗ với nàng",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Trần sư muội",
+       "tag": "ban-be",
+       "quanHe": "Đồng môn từng ở cùng chỗ",
+       "ghiChu": "@c0186"
+      },
+      {
+       "ten": "Phong Nhạc",
+       "tag": "doi-thu",
+       "quanHe": "Bị Phong Nhạc chặn và giết bằng một đòn xuyên ngực"
+      }
+     ],
+     "tuiDo": {
+      "khac": [
+       {
+        "ten": "Phù lục hỏa xà",
+        "loai": "phù lục",
+        "moTa": "Phù lục nàng ném ra hóa thành một đạo hỏa xà dài bắn tới nữ áo trắng.",
+        "nguon": "@c0186"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0186",
+     "@c0188"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "huynh-muoi-tran-thi",
+    "name": "Huynh muội Trần thị",
+    "gioiTinh": "khong-ro",
+    "theLuc": [
+     {
+      "ten": "Hoàng Phong Cốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ — @c0211",
+    "trangThai": "song",
+    "blurb": "Đệ tử Hoàng phong cốc, huynh muội cùng nghe Hàn Lập kể chuyện tìm thuốc.",
+    "vaiTro": "Đệ tử phụ của Hoàng phong cốc",
+    "tinhCach": "hay ghen tị",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nghe Hàn Lập kể chuyện tìm được nhiều linh dược thì vạn phần ghen tị.",
+       "chuong": "@c0211"
+      }
+     ],
+     "kinhLich": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "su-mon",
+       "quanHe": "Đồng môn Hoàng phong cốc; ghen tị với vận may tìm thuốc của Hàn Lập.",
+       "ghiChu": "@c0211"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0211"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huynh-truong-tran-su-muoi",
+    "name": "Huynh trưởng Trần sư muội",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Hoàng Phong Cốc",
+      "trangThai": "da-roi"
+     }
+    ],
+    "canhGioiCaoNhat": "Luyện Khí kỳ (@c0213)",
+    "trangThai": "song",
+    "blurb": "Đại công tử một gia tộc, huynh trưởng của Trần sư muội; trùng quan Trúc cơ thất bại nên mất lòng tin tiên đạo và rời sư môn về gia tộc.",
+    "vaiTro": "Đệ tử Hoàng Phong Cốc, huynh trưởng Trần sư muội",
+    "tinhCach": "Dễ nản chí; mất lòng tin sau thất bại",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Trùng quan thất bại dù ăn hai viên Trúc cơ đan, sinh chán nản với tiên đạo",
+       "chuong": "@c0213"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Dù ăn vào hai viên Trúc cơ đan vẫn trùng quan thất bại; mất lòng tin nơi tiên đạo nên từ biệt sư môn quay về gia tộc.",
+       "anchor": "cho dù ăn vào hai viên Trúc cơ đan, nhưng lại trùng quan thất bại",
+       "bridge": true,
+       "khoang": "@c0213"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Trần sư muội",
+       "tag": "ho-hang",
+       "quanHe": "Em gái (sư muội)",
+       "ghiChu": "Cùng theo học Hoàng Phong Cốc; muội Trúc cơ thành công còn huynh thất bại rồi rời đi."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0213"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-han-ngoc-nghech-nhac-loc-dien",
+    "name": "Đại hán ngốc nghếch (giữ Nhạc lộc điện)",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Hoàng Phong Cốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "trangThai": "song",
+    "blurb": "Người coi thạch phòng địa hỏa ở Nhạc lộc điện; ban đầu thái độ hờ hững nhưng đổi sang cung kính khi thấy danh nghĩa Lý sư tổ.",
+    "vaiTro": "Người giữ địa hỏa tại Nhạc lộc điện",
+    "tinhCach": "Ngốc nghếch, lười nhác; nể danh thế lực lớn",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Đang ngủ gật trong thông đạo, bị Hàn Lập khua chuông linh đánh thức",
+       "chuong": "@c0213"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Bị Hàn Lập khua chuông linh đánh thức; sau khi nghe danh Lý Hóa Nguyên sư tổ và thấy “Thanh nguyên kiếm quyết” có bút tích liền đổi thái độ cung kính, chủ động an bài gian địa hỏa hỏa lực ổn định và nhận trước một khối linh thạch bậc trung.",
+       "anchor": "Tại hạ, là môn hạ của Lý Hoa Nguyên sư tổ, muốn mượn địa hỏa dùng một chút",
+       "bridge": true,
+       "khoang": "@c0213"
+      },
+      {
+       "text": "Người quản lý phòng địa hỏa, cận thân của Chung chưởng môn; lo lắng bất an khi Hàn Lập ở lì gần một năm, đến khi thấy hắn đột phá Trúc cơ kỳ và bị uy áp buộc lui thì lập tức đổi xưng hô từ “sư đệ” sang “sư thúc”.",
+       "anchor": "ngay cả xưng hô \"sư đệ\" trước kia, lập tức cải thành \"sư thúc\"",
+       "bridge": true,
+       "khoang": "@c0215"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Người mượn địa hỏa",
+       "ghiChu": "Đổi thái độ cung kính khi biết Hàn Lập là môn hạ Lý sư tổ."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0213",
+     "@c0215"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "dai-han-ngoc-nghech-dia-hoa-chi-oc",
+    "name": "Đại hán ngốc nghếch (dẫn đường Địa Hỏa Chi Ốc)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Bổn môn của Hàn Lập",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Tu sĩ đồng môn phụ trách khu Địa Hỏa Chi Ốc, dẫn Hàn Lập tới phòng luyện đan gian mười chín và hướng dẫn cách dùng bếp lò địa hỏa. Chỉ được gọi bằng biệt danh, chưa lộ tên thật.",
+    "vaiTro": "Tu sĩ quản khu luyện đan, dẫn đường Hàn Lập",
+    "tinhCach": "Chất phác, hớn hở khi nhận lễ; ân cần, tận tình giải thích",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Chất phác, dễ hài lòng — vui vẻ hẳn khi nhận được khối linh thạch bậc trung",
+       "chuong": "@c0214"
+      },
+      {
+       "text": "Am hiểu cấu tạo Địa Hỏa Chi Ốc, giảng giải cặn kẽ về ổ thạch và bếp lò địa hỏa",
+       "chuong": "@c0214"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Nhận khối linh thạch bậc trung thuộc tính hỏa của Hàn Lập nên ân cần, dùng lệnh tiễn màu tím mở cửa ổ thạch đạo, dẫn Hàn Lập qua đại sảnh ba mươi sáu gian địa hỏa tới gian mười chín; giải thích đặc tính ổ thạch, địa hỏa, cách khu sử tám đầu rồng và công dụng các hồ lô hỏa tinh, giao ngọc bài trắng rồi cáo từ.",
+       "anchor": "Ta sẽ giúp sư đệ an bài một chút!",
+       "bridge": true,
+       "khoang": "@c0214"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Sư đệ đồng môn được đại hán dẫn đường và sắp xếp phòng luyện đan tại Địa Hỏa Chi Ốc.",
+       "ghiChu": "Gặp tại khu Địa Hỏa Chi Ốc (@c0214)"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": [
+       {
+        "ten": "Lệnh tiễn màu tím",
+        "moTa": "Lệnh phù dùng bắn tia sáng vào cửa đá nhiều màu, kích hoạt mở thông đạo ổ thạch đạo.",
+        "nguon": "@c0214"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nu-de-tu-ky-lan-cac",
+    "name": "Nữ đệ tử Kỳ lân các",
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Hoàng phong cốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Thiếu nữ mười sáu, mười bảy tuổi trực ở Nghênh khách đài của Kỳ lân các, ra tiếp đón khách đến thuê linh thú.",
+    "vaiTro": "Đệ tử trực Nghênh khách đài, tiếp khách thuê linh thú Kỳ lân các",
+    "tinhCach": "Vui vẻ; nhiệt tình đón khách",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Trực Nghênh khách đài, đồng ý cho Hàn Lập thuê một con Song đồng thử.",
+       "chuong": "@c0219"
+      },
+      {
+       "text": "Rành việc tuần dưỡng linh thú, chỉ dẫn Hàn Lập cách cho ăn và trả thú",
+       "chuong": "@c0220"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Nữ đệ tử ra Nghênh khách đài tiếp đón Hàn Lập và vui vẻ đồng ý đưa cho hắn một con Song đồng thử để thuê.",
+       "anchor": "Ta đưa đến cho sư thúc một con",
+       "bridge": true,
+       "khoang": "@c0219"
+      },
+      {
+       "text": "Tại Nghênh khách đài trên Linh thú sơn, nữ đệ tử Kỳ lân các mang ra một con Song đồng thử cho Hàn Lập thuê với giá một khối linh thạch cấp thấp mỗi ngày, giao thêm túi trắng đựng quả thổ lê con thú thích ăn và dặn cách chăm sóc.",
+       "anchor": "Đây là Song đồng thử, giá thuê mỗi ngày một khối linh thạch cấp thấp!",
+       "bridge": true,
+       "khoang": "@c0220"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Tiếp Hàn Lập tại Kỳ lân các và cho thuê Song đồng thử.",
+       "ghiChu": ""
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0219",
+     "@c0220"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "tu-lao-gia",
+    "name": "Từ lão giả",
+    "aliases": [
+     "Từ lão ca"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Từ gia",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Luyện Khí kỳ (@c0222)",
+    "trangThai": "song",
+    "blurb": "Lão giả tóc bạc mặt hồng hào, chủ gian hàng luyện khí trong một phường thị nhỏ. Tu sĩ Luyện Khí kỳ nhưng sở học sâu xa về luyện khí, dùng yêu hỏa của Từ gia để luyện chế đỉnh cấp pháp khí.",
+    "vaiTro": "Chủ gian hàng luyện khí, cao thủ luyện khí bằng yêu hỏa",
+    "tinhCach": "Trọng chữ tín; khiêm nhường thừa nhận cái thiếu của tiệm; dễ kích động khi gặp cơ hội thi triển tài nghệ",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tu sĩ Luyện Khí kỳ nhưng có thể luyện chế đỉnh cấp pháp khí nhờ yêu hỏa của Từ gia",
+       "chuong": "@c0222"
+      },
+      {
+       "text": "Trọng chữ tín, lấy cam kết luyện khí làm chiêu bài gian hàng",
+       "chuong": "@c0222"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Nhìn ra Hàn Lập là tu sĩ Trúc Cơ kỳ nên cuống quýt quát tráng hán Tiểu Hắc lui vào và tự xưng chủ điếm; xấu hổ thừa nhận tiệm không có đỉnh cấp pháp khí tinh phẩm; tiết lộ Từ gia nhờ ngẫu nhiên có một con hỏa nha nên phun được yêu hỏa lợi hại, dùng để luyện chế đỉnh cấp pháp khí; kích động nhận thỏa thuận luyện chế cho Hàn Lập với một phần ba nắm chắc.",
+       "anchor": "Gia tộc chúng ta nếu không phải ngẫu nhiên mà được một con hỏa nha",
+       "bridge": true,
+       "khoang": "@c0222"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0222",
+       "canhGioi": "Luyện Khí kỳ",
+       "text": "Xuất hiện với thân phận tu sĩ Luyện Khí kỳ, thấp hơn Hàn Lập nên bất an khi biết khách là Trúc Cơ kỳ.",
+       "importance": "minor"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Khách Trúc Cơ kỳ giao tài liệu để lão luyện chế đỉnh cấp pháp khí",
+       "ghiChu": "Gặp tại gian hàng luyện khí (@c0222)"
+      },
+      {
+       "ten": "Vương Tử Lăng",
+       "tag": "khac",
+       "quanHe": "Nho sinh thảo luận cùng lão trong tiệm khi Hàn Lập ghé vào",
+       "ghiChu": "@c0222"
+      },
+      {
+       "ten": "Tiểu Hắc",
+       "tag": "khac",
+       "quanHe": "Tráng hán làm việc trong gian hàng, bị lão quát lui vào",
+       "ghiChu": "@c0222"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0222"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vuong-tu-lang",
+    "name": "Vương Tử Lăng",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Nho sinh mặc nho phục, kẻ môi giới di chuyển ngẫu nhiên không có cửa hàng cố định. Ban đầu thảo luận cùng Từ lão giả, sau ngỏ ý giúp Hàn Lập tìm đồ.",
+    "vaiTro": "Kẻ môi giới lang bạt trong phường thị",
+    "tinhCach": "Khéo miệng chào mời; chủ động tiếp cận khách để kiếm lợi",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Kẻ môi giới di chuyển ngẫu nhiên, không có cửa hàng cố định",
+       "chuong": "@c0222"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Giải thích cho Hàn Lập về sở học luyện khí của Từ lão giả và yêu hỏa của Từ gia; khi Hàn Lập rời tiệm thì gọi lại, tự xưng Vương Tử Lăng, ngỏ ý giúp tìm đồ tiết kiệm thời gian nhưng bị từ chối.",
+       "anchor": "Tại hạ Vương Tử Lăng thường qua lại nơi đây",
+       "bridge": true,
+       "khoang": "@c0222"
+      },
+      {
+       "text": "Vương Tử Lăng giải thích hạn chế của Tinh Trần Các và Thiên Tinh Tông, rồi hạ giọng đề nghị dẫn Hàn Lập đến một bí điếm bán tinh phẩm; hắn dẫn đường qua bảy căn nhà tám lần rẽ đến gian hàng che giấu, bàn giao khách cho Trương phu nhân rồi xấu hổ cáo từ, kiếm được linh thạch nhờ dẫn khách.",
+       "anchor": "Tiền bối, nếu tin tưởng tại hạ, tại hạ đích xác có thể giới thiệu cho người một vài bí điếm",
+       "bridge": true,
+       "khoang": "@c0223"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Ngỏ ý làm môi giới giúp tìm đồ nhưng bị từ chối",
+       "ghiChu": "@c0222"
+      },
+      {
+       "ten": "Từ lão giả",
+       "tag": "khac",
+       "quanHe": "Thảo luận cùng lão trong gian hàng luyện khí",
+       "ghiChu": "@c0222"
+      },
+      {
+       "ten": "Trương phu nhân",
+       "tag": "dong-minh",
+       "quanHe": "Người coi cửa bí điếm mà Vương Tử Lăng dẫn khách tới bàn giao",
+       "ghiChu": "Bàn giao Hàn Lập cho phu nhân tại gian hàng (@c0223)"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0222",
+     "@c0223"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "tieu-hac-gian-hang-luyen-khi",
+    "name": "Tiểu Hắc",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Từ gia",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Tráng hán da ngăm đen làm việc trong gian hàng luyện khí của Từ lão giả. Tiếp đón Hàn Lập nhưng bị lão giả quát lui vào khi lộ thân phận Trúc Cơ kỳ của khách.",
+    "vaiTro": "Người làm trong gian hàng luyện khí",
+    "tinhCach": "Cung kính; đứng chờ tiếp khách",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tráng hán da ngăm đen tiếp khách trong gian hàng của Từ lão giả",
+       "chuong": "@c0222"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tiến lên hỏi Hàn Lập muốn mua pháp khí hay luyện chế; sửng sốt khi khách đòi đỉnh cấp pháp khí tinh phẩm; bị Từ lão giả quát lui vào khi lộ ra khách là tu sĩ Trúc Cơ kỳ.",
+       "anchor": "Lão giả tóc bạc kia rốt cuộc cũng nhìn ra được Hàn lập là thân phận Trúc Cơ kỳ",
+       "bridge": true,
+       "khoang": "@c0222"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Từ lão giả",
+       "tag": "cap-tren",
+       "quanHe": "Chủ gian hàng, quát Tiểu Hắc lui vào",
+       "ghiChu": "@c0222"
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Khách Trúc Cơ kỳ mà Tiểu Hắc tiếp đón",
+       "ghiChu": "@c0222"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0222"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "truong-phu-nhan-bi-diem",
+    "name": "Trương phu nhân",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nữ",
+    "theLuc": [
+     {
+      "ten": "Bí điếm (cạnh mại hội)",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Luyện khí kỳ tầng sáu-bảy (@c0223)",
+    "trangThai": "song",
+    "blurb": "Phụ nhân khoảng ba mươi tuổi coi giữ gian hàng che giấu bí điếm. Công pháp chỉ tầng sáu-bảy luyện khí kỳ nhưng phụ trách tiếp khách và mở địa đạo dẫn vào cạnh mại hội ngầm.",
+    "vaiTro": "Người coi cửa bí điếm, dẫn khách vào cạnh mại hội",
+    "tinhCach": "Thực dụng, coi trọng thân phận khách; ban đầu chau mày rồi đổi thái độ khi thấy khách Trúc cơ kỳ",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Công pháp chỉ tầng sáu-bảy luyện khí kỳ nhưng được giao coi cửa bí điếm",
+       "chuong": "@c0223"
+      },
+      {
+       "text": "Đổi thái độ từ khó chịu sang vui vẻ khi nhận ra khách là tu sĩ Trúc cơ kỳ",
+       "chuong": "@c0223"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Trương phu nhân ra mở cửa khi Vương Tử Lăng vỗ tay theo tiết tấu, ban đầu chau mày nhưng vui vẻ khi thấy khách Trúc cơ kỳ; bà đóng cửa gian hàng, ấn tay xuống góc phòng làm hoàng quang lóe mở ra động ngầm, dẫn Hàn Lập theo địa đạo mười trượng vào đại sảnh cạnh mại hội rồi ra ngoài canh chừng.",
+       "anchor": "trên mặt đất tách ra một cái động lớn",
+       "bridge": true,
+       "khoang": "@c0223"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Vương Tử Lăng",
+       "tag": "dong-minh",
+       "quanHe": "Nho sinh dẫn khách tới bí điếm để bàn giao",
+       "ghiChu": "Nhận khách Hàn Lập từ Vương Tử Lăng (@c0223)"
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Khách được dẫn vào bí điếm dự cạnh mại hội",
+       "ghiChu": "Dẫn Hàn Lập qua địa đạo (@c0223)"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0223"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nam-tu-cao-gay-xuong-gia-bi-diem",
+    "name": "Nam tử cao gầy (xướng giá bí điếm)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Bí điếm (cạnh mại hội)",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Người điều hành rao bán vật phẩm trong phiên đấu giá tại bí điếm. Miệng mồm lanh lợi, thổi phồng công năng từng món để đẩy giá.",
+    "vaiTro": "Người xướng giá phiên đấu giá bí điếm",
+    "tinhCach": "lanh lợi; khéo thổi phồng; điềm tĩnh nhà nghề",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Miệng mồm lanh lợi, khéo giới thiệu công năng để đẩy giá vật phẩm",
+       "chuong": "@c0224"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Lần lượt rao bán Hỏa Vân kiếm, Hồng La Thiên lô và cặp khôi lỗi cơ quan thú; giới thiệu khôi lỗi cơ quan thuật là đạo pháp luyện chế lưu hành ở vùng đất cực tây, cặp thú thuộc khôi lỗi thú cấp hai với thực lực ngang tu sĩ Luyện Khí kỳ tầng chín.",
+       "anchor": "thuận lợi bán ra với giá bốn trăm linh thạch",
+       "bridge": true,
+       "khoang": "@c0224"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nu-tu-si-truc-co-mua-hong-la-thien-lo",
+    "name": "Nữ tu sĩ Trúc Cơ kỳ (mua Hồng La Thiên lô)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Trúc Cơ kỳ (@c0224)",
+    "trangThai": "song",
+    "blurb": "Nữ tu sĩ Trúc Cơ kỳ tham gia đấu giá tại bí điếm. Cố ý đẩy giá hơn đúng một khối để giành Hồng La Thiên lô.",
+    "vaiTro": "Người thắng đấu giá Hồng La Thiên lô",
+    "tinhCach": "lạnh lùng; tính toán; quyết đoán",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cười lạnh, cố ý ra giá hơn đúng một khối linh thạch để chốt thắng",
+       "chuong": "@c0224"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tranh Hồng La Thiên lô với nam tử mập mạp đội mũ vàng qua màn nâng giá gay gắt, cuối cùng mua được với tám trăm năm mươi mốt linh thạch.",
+       "anchor": "cố ý đưa ra giá hơn đúng một khối",
+       "bridge": true,
+       "khoang": "@c0224"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nam-tu-map-map-mu-vang",
+    "name": "Nam tử mập mạp đội mũ vàng",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Trúc Cơ kỳ (@c0224)",
+    "trangThai": "song",
+    "blurb": "Tu sĩ Trúc Cơ kỳ đội mũ vàng tranh Hồng La Thiên lô tại phiên đấu giá. Thua nữ tu sĩ nên tức giận bỏ cuộc.",
+    "vaiTro": "Người tranh đấu giá Hồng La Thiên lô",
+    "tinhCach": "nóng nảy; háo thắng",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tức giận không ra giá tiếp sau khi bị nữ tu sĩ hớt tay trên",
+       "chuong": "@c0224"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Đẩy giá gay gắt để giành Hồng La Thiên lô nhưng bị nữ tu sĩ Trúc Cơ kỳ cố tình vượt hơn một khối, tức giận không ra giá nữa.",
+       "anchor": "cố ý đưa ra giá hơn đúng một khối",
+       "bridge": true,
+       "khoang": "@c0224"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nguoi-khoi-ngo-mu-xanh-biec",
+    "name": "Người khôi ngô đội mũ xanh biếc",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Người vóc dáng khôi ngô, khẩu âm cứng nhắc lạ lùng, ánh mắt lạnh lẽo tại phiên đấu giá. Quyết liệt tranh cặp khôi lỗi cơ quan thú.",
+    "vaiTro": "Người tranh giá khôi lỗi cơ quan thú",
+    "tinhCach": "lạnh lẽo; khẩu âm cứng nhắc; quyết liệt tranh đoạt",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Khẩu âm cứng nhắc lạ lùng, ánh mắt lạnh lẽo, quyết liệt đẩy giá tới cùng",
+       "chuong": "@c0224"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng quái nhân bao vải xám nâng giá cặp khôi lỗi cơ quan thú, cuối cùng quýnh lên lôi ra một món đồ trị giá mấy ngàn linh thạch, ra chín trăm linh thạch kèm bảo vật rồi bước tới trước bàn đòi giao khôi lỗi thú ngay.",
+       "anchor": "Ta xuất chín trăm linh thạch, thêm đồ vật này nữa!",
+       "bridge": true,
+       "khoang": "@c0224"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-si-mat-na-tre-con",
+    "name": "Tu sĩ đeo mặt nạ trẻ con",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "khong-ro",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Tu sĩ đeo mặt nạ trẻ con tại phiên đấu giá bí điếm. Mua được Hỏa Vân kiếm và ôm về chỗ như bảo vật gia truyền.",
+    "vaiTro": "Người mua Hỏa Vân kiếm",
+    "tinhCach": "hân hoan; quý trọng vật mua được",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Đeo mặt nạ trẻ con, vui mừng ôm Hỏa Vân kiếm về chỗ như bảo vật gia truyền",
+       "chuong": "@c0224"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Đấu giá thắng Hỏa Vân kiếm với bốn trăm linh thạch, vui mừng ôm về chỗ ngồi.",
+       "anchor": "thuận lợi bán ra với giá bốn trăm linh thạch",
+       "bridge": true,
+       "khoang": "@c0224"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "han-tu-khoi-ngo-dau-doi-dau-bong",
+    "name": "Hán tử khôi ngô (đầu đội đấu bồng)",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "Trúc Cơ kỳ (nghi Kết Đan kỳ giả mạo) (@c0225)",
+    "trangThai": "song",
+    "vaiTro": "Tu sĩ bí ẩn mang thiết tinh tới bán tại đấu giá bí điếm",
+    "tinhCach": "kiêu ngạo, dễ nổi giận; biết nén nhịn đúng lúc",
+    "blurb": "Tu sĩ Trúc Cơ kỳ đầu đội đấu bồng, mang khối thiết tinh thượng phẩm tới bán tại bí điếm. Thắng đôi khôi lỗi thú nhưng bị giữ lại theo quy củ. Thân phận nhất hô vạn ứng tại tông phái mình khiến cả sảnh nghi hắn là Kết Đan kỳ giả mạo.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Sở hữu thiết tinh thượng phẩm — nguyên liệu thường chỉ Kết Đan kỳ mới luyện ra",
+       "chuong": "@c0225"
+      },
+      {
+       "text": "Kiêu ngạo, dễ nổi giận nhưng biết nén nhịn khi thấy bất lợi",
+       "chuong": "@c0225"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Thiết tinh (thượng phẩm)",
+        "trangThai": "da-dung",
+        "moTa": "Khối màu đen thượng phẩm mang ra bán tại bí điếm, định giá hai ngàn linh thạch.",
+        "nguon": "@c0225"
+       },
+       {
+        "ten": "Đôi khôi lỗi thú",
+        "trangThai": "dang-co",
+        "moTa": "Thắng được trong buổi đấu giá với hơn hai ngàn linh thạch.",
+        "nguon": "@c0225"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nam-tu-cao-gay-chu-tri-bi-diem",
+    "name": "Nam tử cao gầy (chủ trì bí điếm)",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Bí điếm (cạnh mại hội)",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "vaiTro": "Người chủ trì đấu giá của bí điếm",
+    "tinhCach": "lạnh lùng, uy hiếp khách; thành thạo định giá",
+    "blurb": "Người chủ trì buổi đấu giá của bí điếm, phụ trách định giá và rao bán vật phẩm. Uy hiếp hán tử khôi ngô, thu hai con khôi lỗi vào túi trữ vật và đưa ra gốc Hoàng Tinh chi ngàn năm cuối buổi.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Chủ trì đấu giá, định giá và rao bán vật phẩm của bí điếm",
+       "chuong": "@c0225"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hac-y-nhan-o-giua-bi-diem",
+    "name": "Hắc y nhân ở giữa (bí điếm)",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Bí điếm (cạnh mại hội)",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "vaiTro": "Một trong ba người ngồi ghế đàn mộc định giá tại bí điếm",
+    "tinhCach": "thận trọng, quyết đoán",
+    "blurb": "Một trong ba người mang mặt nạ ngồi ghế đàn mộc định giá vật phẩm. Sau khi tra xét thận trọng, đứng lên tuyên bố khối thiết tinh thượng phẩm trị giá hai ngàn linh thạch.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Đứng lên tuyên bố giá trị thiết tinh thượng phẩm hai ngàn linh thạch",
+       "chuong": "@c0225"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hac-y-nhan-ben-tay-trai-bi-diem",
+    "name": "Hắc y nhân bên tay trái (bí điếm)",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Bí điếm (cạnh mại hội)",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "vaiTro": "Một trong ba người định giá tại bí điếm, nói năng bén nhọn",
+    "tinhCach": "nói năng bén nhọn, sắc sảo",
+    "blurb": "Một trong ba hắc y nhân ngồi ghế đàn mộc tại bí điếm. Người nói năng bén nhọn, giải thích quy củ giữ khách của bí điếm cho hán tử khôi ngô.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Giải thích quy củ giữ khách của bí điếm cho hán tử khôi ngô",
+       "chuong": "@c0225"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hac-y-nhan-ben-tay-phai-bi-diem",
+    "name": "Hắc y nhân bên tay phải (bí điếm)",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Bí điếm (cạnh mại hội)",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "vaiTro": "Một trong ba người định giá tại bí điếm, âm thanh the thé",
+    "tinhCach": "âm thanh the thé, chất vấn",
+    "blurb": "Một trong ba hắc y nhân ngồi ghế đàn mộc tại bí điếm. Người có âm thanh the thé, nói trầm chất vấn hán tử khôi ngô về việc chờ đợi.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Chất vấn hán tử khôi ngô về việc chờ đợi trong bí điếm",
+       "chuong": "@c0225"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "quai-nhan-trum-dau-bi-diem",
+    "name": "Quái nhân trùm đầu (bí điếm)",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "vaiTro": "Tu sĩ đối lập với hán tử khôi ngô tại buổi đấu giá bí điếm",
+    "tinhCach": "âm thầm đối địch, tỏ vẻ hả hê khi kẻ khác bất lợi",
+    "blurb": "Tu sĩ trùm đầu đối lập với hán tử khôi ngô ngay từ đầu buổi đấu giá. Tỏ vẻ hả hê khi hán tử bị uy hiếp, ngồi im không hô giá.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Đối lập với hán tử khôi ngô, tỏ vẻ hả hê khi hán tử bị uy hiếp",
+       "chuong": "@c0225"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nam-tu-cao-gay-chu-tri-dau-gia",
+    "name": "Nam tử cao gầy (chủ trì đấu giá)",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Bí điếm (cạnh mại hội)",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Người điều hành buổi đấu giá mật điếm, đại diện cho bổn tiệm. Cứng rắn cảnh cáo và bác bỏ đề nghị của thanh niên khi biết khí cụ Điên Đảo Ngũ Hành Trận chỉ là tàn phẩm.",
+    "vaiTro": "Người chủ trì buổi đấu giá mật điếm",
+    "tinhCach": "cứng rắn; thẳng thắn cảnh cáo; giữ nề nếp đấu giá",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cảnh cáo thanh niên vì ra giá bằng tàn phẩm, đây là chỗ đấu giá không thể chờ vài năm",
+       "chuong": "@c0226"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Chủ trì đấu giá cứng rắn cảnh cáo thanh niên vì đề nghị đổi bằng khí cụ tàn phẩm, khiến thanh niên bất lực ngồi trở lại vị trí.",
+       "anchor": "Lần sau nếu vẫn ra giá bừa, nói ba hoa, thì đừng trách người của bổn tiệm không khách khí đó!",
+       "bridge": true,
+       "khoang": "@c0226"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Tề Vân Tiêu",
+       "tag": "doi-thu",
+       "quanHe": "Cảnh cáo và đuổi khéo thanh niên khi hắn ra giá bằng khí cụ tàn phẩm",
+       "ghiChu": "Tại đấu giá mật điếm (@c0226)"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0226"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lao-gia-toc-bac-cua-hieu-luyen-khi",
+    "name": "Lão giả tóc bạc (chủ tiệm Luyện khí)",
+    "cn": "",
+    "aliases": [
+     "Chủ tiệm Luyện khí"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Cửa hiệu Luyện khí",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Chủ cửa hiệu Luyện khí kiêm Luyện khí sư, mua vỏ ngô công của Hàn Lập làm tài liệu luyện khí. Tỏ ra nóng nảy khiến Hàn Lập nghi tìm nhầm người.",
+    "vaiTro": "Chủ tiệm kiêm Luyện khí sư ở cửa hiệu Luyện khí",
+    "tinhCach": "Hớn hở đón khách, gọi tiền bối không ngừng; nóng nảy sốt sắng muốn cầm ngay tài liệu",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nhận định vỏ cứng ngô công là tài liệu luyện khí thượng cấp hiếm, có thể vươn tới đỉnh cấp pháp khí",
+       "chuong": "@c0227"
+      },
+      {
+       "text": "Nhận định vỏ ngô công là tài liệu luyện khí thượng cấp hiếm, có thể luyện thành đỉnh cấp pháp khí.",
+       "chuong": "@c0227"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0227",
+       "importance": "normal",
+       "tieuDe": "Mua vỏ ngô công của Hàn Lập",
+       "text": "Hớn hở mời trà gọi Hàn Lập là 'tiền bối', nhận định vỏ cứng ngô công là tài liệu luyện khí rất tốt thích hợp làm hộ giáp thuẫn bài, định cầm đi thì bị Hàn Lập chặn vì còn tài liệu khác chưa lấy ra.",
+       "anchor": "Vỏ ngoài của yêu thú loại độc trùng thượng cấp bậc một lần này đích thị là tài liệu luyện khí rất tốt!"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Khách bán vỏ ngô công làm tài liệu luyện khí",
+       "ghiChu": "Bị Hàn Lập nghi tìm nhầm Luyện khí sư (@c0227)"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tran-phap-su-bang-huu-cua-te-van-tieu",
+    "name": "Trận pháp sư bằng hữu (của Tề Vân Tiêu)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "khong-ro",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "khong-ro",
+    "blurb": "Bằng hữu của Tề Vân Tiêu, giỏi trận pháp chi đạo tới mức xuất thần nhập hóa. Được nhắc là người sẽ cải tiến bộ pháp khí Điên Đảo Ngũ Hành Trận, chưa xuất hiện trực tiếp.",
+    "vaiTro": "Bằng hữu trận pháp của Tề Vân Tiêu, người hứa cải tiến pháp khí",
+    "tinhCach": "Giỏi trận pháp chi đạo, được ca ngợi xuất thần nhập hóa",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Được Tề Vân Tiêu bảo đảm trận pháp chi đạo đạt tới xuất thần nhập hóa nên chắc chắn cải tiến được pháp khí",
+       "chuong": "@c0227"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Tề Vân Tiêu",
+       "tag": "ban-be",
+       "quanHe": "Bằng hữu nhờ cải tiến pháp khí",
+       "ghiChu": "Được Tề Vân Tiêu giới thiệu với Hàn Lập (@c0227)"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-lao-chu-tiem-luyen-khi-dau-bac-ho-tu",
+    "name": "Từ lão",
+    "cn": "",
+    "aliases": [
+     "Từ mỗ",
+     "chủ tiệm luyện khí đầu bạc"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0228)",
+    "trangThai": "song",
+    "blurb": "Luyện khí sư đầu bạc họ Từ, chủ một cửa hiệu luyện khí. Kinh ngạc khi thấy tài liệu giao long quý hiếm và nhận luyện chế Thần Phong Châu cho Hàn Lập.",
+    "vaiTro": "Luyện khí sư chế pháp khí phi hành cho Hàn Lập",
+    "tinhCach": "Kinh nghiệm, am hiểu tài liệu quý; thẳng thắn nhận việc",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nhận ra ngay tài liệu giao long tiến hóa cấp hai, tự nhận từng cùng cha luyện chế tài liệu giao long một lần.",
+       "chuong": "@c0228"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Kinh ngạc phun trà khi thấy tài liệu Mặc Giao (da, sừng, răng nanh, nhãn châu), nhận ra Hàn Lập đồ sát một ác giao tiến hóa cấp hai; tự xưng từng cùng gia phụ luyện chế tài liệu giao long một lần, đồng ý động thủ luyện chế Thần Phong Châu trong nửa tháng.",
+       "anchor": "tài liệu giao long này lúc Từ mỗ học nghệ đã từng cùng gia phụ luyện chế qua một lần",
+       "bridge": true,
+       "khoang": "@c0228"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Khách thuê luyện chế pháp khí",
+       "ghiChu": "Hàn Lập mang tài liệu giao long tới nhờ chế Thần Phong Châu."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mac-giao",
+    "name": "Mặc Giao",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "khong-ro",
+    "theLuc": [],
+    "canhGioiCaoNhat": "Giao long tiến hóa cấp hai (@c0228)",
+    "trangThai": "tu-vong",
+    "blurb": "Con giao long (thiên địa yêu thú đã biến mất từ lâu ở tu tiên giới) từng bị Hàn Lập hạ. Tài liệu từ thân nó được dùng làm nguyên liệu luyện chế Thần Phong Châu.",
+    "vaiTro": "Yêu thú bị Hàn Lập hạ, cung cấp tài liệu luyện khí",
+    "tinhCach": "Hung mãnh",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Giao long đã tiến hóa cấp hai, ngang Trúc Cơ Hậu Kỳ tu sĩ; tài liệu thân nó rất quý.",
+       "chuong": "@c0228"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Da giao long, vẩy, sừng, răng nanh, nhãn châu, lợi trảo từ thân Mặc Giao được Hàn Lập giao cho Từ lão luyện chế thành Thần Phong Châu và các pháp khí khác.",
+       "anchor": "tài liệu giao long này lúc Từ mỗ học nghệ đã từng cùng gia phụ luyện chế qua một lần",
+       "bridge": true,
+       "khoang": "@c0228"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Bị Hàn Lập hạ, thân xác thành nguyên liệu luyện khí",
+       "ghiChu": "Tài liệu Mặc Giao dùng luyện Thần Phong Châu."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nam-tu-khoi-vu-thien-truc-giao",
+    "name": "Nam tử khôi vũ (Thiên Trúc Giáo)",
+    "cn": "",
+    "aliases": [
+     "người cao to khôi vũ"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Trúc Giáo",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Kẻ khôi ngô cao lớn đến từ Thiên Trúc Giáo Tổng Đàn, chủ nhân khôi lỗi cơ quan thú đã mua ở hội bán đấu giá. Điều khiển Cự Hổ khổng lồ diệt khẩu đám tu sĩ Nguyên Vũ Quốc lén dò bí mật.",
+    "vaiTro": "Đối thủ tiềm ẩn, thủ lĩnh trận khôi lỗi diệt khẩu",
+    "tinhCach": "Lạnh lùng tàn nhẫn; quyết đoán diệt khẩu; ỷ tài nguyên hùng hậu",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tự xưng đến từ Thiên Trúc Giáo Tổng Đàn, không phải người Nguyên Vũ Quốc nên không sợ đắc tội tu tiên giới nước này",
+       "chuong": "@c0229"
+      },
+      {
+       "text": "Chủ nhân khôi lỗi cơ quan thú, điều khiển Cự Hổ khổng lồ phun quang trụ siêu cấp",
+       "chuong": "@c0229"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Đặt bẫy vây khốn đám tu sĩ Nguyên Vũ Quốc lén theo dò bí mật khôi lỗi thú; từ chối tha mạng vì đã lỡ giết một người, tự nhận thuộc Thiên Trúc Giáo Tổng Đàn; điều khiển Cự Hổ ngồi trên đầu hổ, nạp linh thạch bậc trung thuộc tính hỏa tái kích hoạt quang trụ, bắn chết đám tu sĩ cháy đen.",
+       "anchor": "dầu gì đắc tội với một người cũng là đắc tội, không bằng giết sạch sẽ",
+       "bridge": true,
+       "khoang": "@c0229"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Bị Hàn Lập ngầm quan sát",
+       "ghiChu": "Không hay biết Hàn Lập ẩn trong mây theo dõi trận diệt khẩu."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Cự Hổ (khôi lỗi hổ khổng lồ)",
+        "loai": "khôi lỗi cơ quan thú",
+        "trangThai": "dang-co",
+        "moTa": "Khôi lỗi hổ cao năm sáu trượng phun quang trụ bạch sắc siêu cấp, nạp linh thạch bậc trung thuộc tính hỏa làm nhiên liệu.",
+        "nguon": "@c0229"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0229"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-si-lon-tuoi-nguyen-vu-quoc-bi-vay",
+    "name": "Tu sĩ lớn tuổi (gia môn Nguyên Vũ Quốc, bị vây)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Nguyên Vũ Quốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Trúc Cơ hậu kỳ",
+    "trangThai": "tu-vong",
+    "blurb": "Tu sĩ Trúc Cơ hậu kỳ đệ tử gia môn Nguyên Vũ Quốc, trong đám bị nam tử khôi vũ vây khốn. Mở lời cảnh cáo họa sát thân rồi cổ động các tu sĩ liều mạng chống đỡ, cuối cùng bị Cự Hổ giết.",
+    "vaiTro": "Nạn nhân trong trận diệt khẩu của nam tử khôi vũ",
+    "tinhCach": "Cứng cỏi; liều lĩnh khi cùng đường",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cảnh cáo đối phương rằng giết đệ tử gia môn Nguyên Vũ Quốc sẽ đắc tội toàn thể tu tiên giới nước này",
+       "chuong": "@c0229"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cảnh cáo nam tử khôi vũ về họa sát thân nếu giết đệ tử các gia môn Nguyên Vũ Quốc, sau đó cổ động các tu sĩ hợp lực dồn linh lực vào hộ trạo chống đỡ quang trụ; hết pháp lực bèn phân tán tháo chạy và bị Cự Hổ bắn chết cháy đen.",
+       "anchor": "Kết cuộc của hai kẻ đó cũng gần giống như gã đầu tiên, đều là thê thảm không nỡ nhìn, toàn thân cháy đen thui.",
+       "bridge": true,
+       "khoang": "@c0229"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Nam tử khôi vũ (Thiên Trúc Giáo)",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ đã vây khốn và giết chết mình",
+       "ghiChu": "Bị nam tử khôi vũ từ chối tha mạng, cuối cùng bị Cự Hổ diệt khẩu."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0229"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-si-tre-tuoi-nguyen-vu-quoc-bi-vay",
+    "name": "Tu sĩ trẻ tuổi (gia môn Nguyên Vũ Quốc, bị vây)",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Nguyên Vũ Quốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Trúc Cơ hậu kỳ",
+    "trangThai": "tu-vong",
+    "blurb": "Tu sĩ Trúc Cơ hậu kỳ đệ tử gia môn Nguyên Vũ Quốc, trong đám bị nam tử khôi vũ vây khốn. Gấp gáp thề độc xin làm hòa và hứa bảo mật nhưng không được tha, cuối cùng bị Cự Hổ giết.",
+    "vaiTro": "Nạn nhân trong trận diệt khẩu của nam tử khôi vũ",
+    "tinhCach": "Tham sống sợ chết; hoảng loạn khi lâm nguy",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Gấp gáp thề độc xin làm hòa, hứa giữ bí mật để mong thoát chết",
+       "chuong": "@c0229"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Gấp gáp thề độc xin làm hòa và hứa bảo mật với nam tử khôi vũ nhưng bị từ chối; cùng đám tu sĩ hết pháp lực phân tán tháo chạy và bị Cự Hổ bắn chết cháy đen.",
+       "anchor": "Kết cuộc của hai kẻ đó cũng gần giống như gã đầu tiên, đều là thê thảm không nỡ nhìn, toàn thân cháy đen thui.",
+       "bridge": true,
+       "khoang": "@c0229"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Nam tử khôi vũ (Thiên Trúc Giáo)",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ đã vây khốn và giết chết mình",
+       "ghiChu": "Xin tha mạng không thành, bị Cự Hổ diệt khẩu."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0229"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoang-long-thien-truc-giao",
+    "name": "Hoàng Long",
+    "aliases": [
+     "người cao to khôi vũ",
+     "đại hán tóc vàng hoe"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Trúc giáo",
+      "trangThai": "da-roi"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Nguyên Hộ Giáo Pháp Vương của Thiên Trúc Giáo, đại hán tướng mạo hung hãn tóc ngắn vàng hoe, cưỡi cự hổ điều khiển khôi lỗi cơ quan thú. Theo lệnh Kim Giáo Chủ, hắn bày bẫy dùng Hắc Ti Cổ hạ độc Lâm sư huynh để diệt trừ tàn dư giáo chủ cũ.",
+    "vaiTro": "Cựu Hộ Giáo Pháp Vương Thiên Trúc Giáo, kẻ bày bẫy diệt Lâm sư huynh",
+    "tinhCach": "Xảo quyệt, giả nhân nghĩa; quyết đoán tàn nhẫn; trung thành với tân giáo chủ",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cưỡi cự hổ khôi lỗi bắn siêu cấp quang trụ uy lực kinh người",
+       "chuong": "@c0230"
+      },
+      {
+       "text": "Giả vui mừng nắm tay Lâm sư huynh để cấy Hắc Ti Cổ vào cổ tay đối phương",
+       "chuong": "@c0230"
+      }
+     ],
+     "kinhLich": [
+      {
+       "importance": "normal",
+       "chuong": "@c0230",
+       "tieuDe": "Bày bẫy Hắc Ti Cổ diệt Lâm sư huynh",
+       "text": "Lộ danh tính là nguyên Hộ Giáo Pháp Vương bỏ chức của Thiên Trúc Giáo khi bị Lâm sư huynh gọi thẳng tên; giả vui mừng lao tới nắm tay để lại hai lỗ máu sâu cấy Hắc Ti Cổ cầu từ Cổ Độc Tông; tiết lộ toàn bộ là bẫy của Kim Giáo Chủ diệt cỏ tận gốc, rồi gọi hai hộ pháp vương mới và chỉ huy vây đánh chờ độc phát tác.",
+       "anchor": "Ngươi bỏ mặc không làm Hộ Giáo Pháp Vương của Thiên Trúc Giáo"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0231",
+       "tieuDe": "Dẫn quân đánh động phủ đòi người",
+       "text": "Dẫn nhóm sáu bảy người Thiên Trúc giáo trên trúc bài xanh biếc (có đôi nam nữ và bốn huynh đệ song sinh) công kích đại trận động phủ Hàn Lập, lên tiếng đòi giao ra kẻ trốn bên trong nếu không sẽ đắc tội với Thiên Trúc giáo.",
+       "anchor": "đem người trốn ở trong giao ra"
+      },
+      {
+       "text": "Kẻ có tâm kế nhất trong nhóm Thiên Trúc giáo, dẫn đầu công kích Điên Đảo Ngũ Hành trận; nhận ra Lôi Vạn Hạc là tu sĩ Kết Đan kỳ nên hô mọi người mau chạy, kịp mở miệng cầu tha mạng nhưng bị ngân quang biến thành tro bụi cùng cả nhóm",
+       "anchor": "đem mấy tên gia hỏa muốn trốn chạy biến thành tro bụi",
+       "bridge": true,
+       "khoang": "@c0233"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Lâm sư huynh",
+       "tag": "doi-thu",
+       "quanHe": "Từng được Lâm sư huynh lén truyền khẩu quyết tầng thứ nhất Đại Diễn Quyết; nay phụng lệnh diệt trừ",
+       "ghiChu": "Cấy Hắc Ti Cổ ám hại qua cái bắt tay giả (@c0230)"
+      },
+      {
+       "ten": "Kim Nam Thiên",
+       "tag": "cap-tren",
+       "quanHe": "Tân giáo chủ ra lệnh cho Hoàng Long bày bẫy diệt Lâm sư huynh",
+       "ghiChu": "@c0230"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Cự Hổ",
+        "loai": "khôi lỗi thú",
+        "moTa": "Cơ quan thú Hoàng Long cưỡi, bắn siêu cấp quang trụ tốc độ cực nhanh uy lực kinh người.",
+        "nguon": "@c0230"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0230",
+     "@c0231",
+     "@c0233"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "lam-su-huynh-thien-truc-giao",
+    "name": "Quái nhân trùm bao vải xám",
+    "aliases": [
+     "lão già họ Lâm",
+     "Lâm đại sư huynh",
+     "Lâm sư thúc"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Trúc giáo",
+      "trangThai": "da-roi"
+     },
+     {
+      "ten": "Hoàng Phong Cốc",
+      "trangThai": "gia-mao"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Lão già họ Lâm yêu điêu khắc mà Hàn Lập từng gặp trong thạch ốc khi vào Hoàng Phong Cốc; thực chất là con giáo chủ cũ Thiên Trúc Giáo, giả chết ẩn náu. Hắn đã luyện Đại Diễn Quyết tới tầng thứ ba, điều khiển được hàng trăm khôi lỗi. (+) Kẻ bịt mặt trùm bao vải xám lớn cả đầu tại phiên đấu giá bí điếm. Ra giá và đẩy giá bất thường cho cặp khôi lỗi cơ quan thú. [CAN-SOAT-GOP]",
+    "vaiTro": "Con giáo chủ cũ Thiên Trúc Giáo giả chết ẩn náu, cao thủ khôi lỗi",
+    "tinhCach": "Kín kẽ, thận trọng; yêu thích điêu khắc; ứng biến nhanh, bản lĩnh giải độc",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cải trang quái nhân trùm túi vải bố xám, ẩn nấp trên gò đất theo dõi",
+       "chuong": "@c0230"
+      },
+      {
+       "text": "Luyện Đại Diễn Quyết tầng thứ ba, triệu hơn hai trăm khôi lỗi sĩ binh vũ trang",
+       "chuong": "@c0230"
+      },
+      {
+       "text": "Che kín cả đầu bằng bao vải xám, ra giá một trăm linh thạch khởi đầu cuộc tranh đấu bất thường",
+       "chuong": "@c0224"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Ra giá một trăm linh thạch mở màn rồi cùng người khôi ngô đội mũ xanh biếc nâng giá cặp khôi lỗi cơ quan thú chóng mặt, khiến cả sảnh nghi thú ẩn tàng bí mật.",
+       "anchor": "đem giá của khôi lỗi thú này nâng lên đến mức khó có thể tin",
+       "bridge": true,
+       "khoang": "@c0224"
+      },
+      {
+       "text": "Kéo bao vải bố lộ mặt thật là lão già họ Lâm trong thạch ốc, gọi thẳng tên Hoàng Long; bị cấy Hắc Ti Cổ qua cái bắt tay giả vui mừng nhưng kịp bức máu độc và uống bột phấn vàng trong bình ngọc xanh lục để giải; nhận ra tin tức Đại Diễn Quyết trong khôi lỗi thú là bẫy dụ và bí điếm đã bán đứng; biết đã sa bẫy nên triệu hơn hai trăm khôi lỗi sĩ binh mở đại chiến.",
+       "anchor": "Trong Khôi lỗi thú căn bản không có nửa phần sau của Đại Diễn Quyết",
+       "bridge": true,
+       "khoang": "@c0230"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hoàng Long",
+       "tag": "doi-thu",
+       "quanHe": "Đồng môn cũ được Lâm sư huynh truyền khẩu quyết, nay quay lại ám hại theo lệnh tân giáo chủ",
+       "ghiChu": "Bị Hoàng Long cấy Hắc Ti Cổ (@c0230)"
+      },
+      {
+       "ten": "Kim Nam Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Tân giáo chủ Thiên Trúc Giáo phái người truy sát diệt cỏ tận gốc Lâm sư huynh",
+       "ghiChu": "@c0230"
+      }
+     ],
+     "tuiDo": {
+      "artifacts": [],
+      "phapBao": [
+       {
+        "ten": "Khôi lỗi sĩ binh",
+        "loai": "cơ quan chiến đấu",
+        "moTa": "Hơn hai trăm khôi lỗi sĩ binh toàn thân vũ trang, từ nhỏ biến lớn, do Lâm sư huynh triệu ra nghênh chiến.",
+        "nguon": "@c0230"
+       }
+      ],
+      "danDuoc": [
+       {
+        "ten": "Bình ngọc màu xanh lục chứa bột phấn vàng",
+        "loai": "giải độc",
+        "trangThai": "da-dung",
+        "moTa": "Bột phấn vàng trong bình ngọc xanh lục dùng giải Hắc Ti Cổ.",
+        "nguon": "@c0230"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0230",
+     "@c0224"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "ho-phap-vuong-nu-thien-truc-giao",
+    "name": "Hộ pháp vương nữ (Thiên Trúc Giáo)",
+    "aliases": [
+     "nữ tử yểu điệu"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Thiên Trúc giáo",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Hộ pháp vương mới được đề cử trong Thiên Trúc Giáo, ngưỡng mộ đại danh Lâm đại sư huynh. Cùng hộ pháp nam vẩy ra hơn hai trăm khôi lỗi thú tấn công.",
+    "vaiTro": "Tân hộ pháp vương Thiên Trúc Giáo tham gia vây diệt Lâm sư huynh",
+    "tinhCach": "Ngưỡng mộ danh tiếng đối thủ; tuân lệnh tham chiến",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Vẩy ra hơn hai trăm khôi lỗi thú tấn công Lâm sư huynh",
+       "chuong": "@c0230"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Được Hoàng Long gọi từ trong rừng ra, cùng hộ pháp nam vẩy ra hơn hai trăm khôi lỗi thú tấn công Lâm sư huynh trong trận đại chiến khôi lỗi.",
+       "anchor": "từng con từng con khôi lỗi sĩ binh toàn thân vũ trang, từ nhỏ biến thành lớn, xuất hiện chung quanh, có hơn hai trăm người",
+       "bridge": true,
+       "khoang": "@c0230"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hoàng Long",
+       "tag": "dong-minh",
+       "quanHe": "Cùng phe vây diệt Lâm sư huynh dưới sự chỉ huy của Hoàng Long",
+       "ghiChu": "@c0230"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0230"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ho-phap-vuong-nam-thien-truc-giao",
+    "name": "Hộ pháp vương nam (Thiên Trúc Giáo)",
+    "aliases": [
+     "nam tử cổ to"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Trúc giáo",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Hộ pháp vương mới đề cử trong Thiên Trúc Giáo, giọng ghen ghét, gọi Lâm đại sư huynh là chó hoang. Tham chiến cùng hộ pháp nữ trong trận vây diệt.",
+    "vaiTro": "Tân hộ pháp vương Thiên Trúc Giáo tham gia vây diệt Lâm sư huynh",
+    "tinhCach": "Ghen ghét, khinh miệt đối thủ; tuân lệnh tham chiến",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Gọi Lâm đại sư huynh là chó hoang bằng giọng ghen ghét",
+       "chuong": "@c0230"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Được Hoàng Long gọi từ trong rừng ra, cùng hộ pháp nữ vẩy ra hơn hai trăm khôi lỗi thú tấn công Lâm sư huynh trong trận đại chiến khôi lỗi.",
+       "anchor": "từng con từng con khôi lỗi sĩ binh toàn thân vũ trang, từ nhỏ biến thành lớn, xuất hiện chung quanh, có hơn hai trăm người",
+       "bridge": true,
+       "khoang": "@c0230"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hoàng Long",
+       "tag": "dong-minh",
+       "quanHe": "Cùng phe vây diệt Lâm sư huynh dưới sự chỉ huy của Hoàng Long",
+       "ghiChu": "@c0230"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0230"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kim-nam-thien",
+    "name": "Kim Nam Thiên",
+    "aliases": [
+     "Kim Giáo Chủ",
+     "Kim đại giáo chủ",
+     "Kim tặc tử"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Trúc giáo",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Giáo chủ hiện nay của Thiên Trúc Giáo. Ra lệnh cho Hoàng Long bày trò lừa dùng Hắc Ti Cổ để diệt cỏ tận gốc Lâm sư huynh, con giáo chủ cũ.",
+    "vaiTro": "Tân giáo chủ Thiên Trúc Giáo, người ra lệnh truy sát tàn dư giáo chủ cũ",
+    "tinhCach": "Tàn nhẫn, mưu mô; củng cố quyền lực bằng cách trừ khử đối thủ chính trị",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Ra lệnh diệt cỏ tận gốc Lâm sư huynh qua tay Hoàng Long",
+       "chuong": "@c0230"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Được nhắc tới là tân giáo chủ Thiên Trúc Giáo bố trí toàn bộ cái bẫy Đại Diễn Quyết giả, phái Hoàng Long dùng Hắc Ti Cổ diệt trừ Lâm sư huynh nhằm nhổ tận gốc tàn dư của giáo chủ cũ.",
+       "anchor": "Đó có lẽ là Hắc Ti Cổ mà sư đệ phải ngàn cay vạn đắng mới cầu được từ Cổ Độc Tông",
+       "bridge": true,
+       "khoang": "@c0230"
+      },
+      {
+       "chuong": "@c0232",
+       "importance": "normal",
+       "tieuDe": "Bị nhắc là kẻ ám toán soán ngôi giáo chủ",
+       "text": "Được Lâm sư huynh khai ra là giáo chủ hiện tại Thiên Trúc giáo, năm xưa ám toán giáo chủ tiền nhiệm và đoạt toàn bộ Đại Diễn quyết, bị mỉa gọi là “Kim tặc tử”.",
+       "anchor": "đành phải tìm một thế thân, giả chết mà đi, trốn ở Việt quốc cách xa ngàn dặm"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hoàng Long",
+       "tag": "khac",
+       "quanHe": "Thuộc hạ được Kim Giáo Chủ giao nhiệm vụ diệt Lâm sư huynh",
+       "ghiChu": "@c0230"
+      },
+      {
+       "ten": "Lâm sư huynh",
+       "tag": "doi-thu",
+       "quanHe": "Tàn dư giáo chủ cũ mà Kim Giáo Chủ quyết diệt cỏ tận gốc",
+       "ghiChu": "@c0230"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0230",
+     "@c0232"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "lam-giao-chu-thien-truc-giao",
+    "name": "Lâm giáo chủ",
+    "aliases": [
+     "giáo chủ năm ấy"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thiên Trúc giáo",
+      "trangThai": "da-roi"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "khong-ro",
+    "blurb": "Cựu giáo chủ Thiên Trúc Giáo, cha của Lâm sư huynh. Được Hoàng Long nhắc tới là Lâm giáo chủ năm ấy khi vạch trần thân thế của Lâm sư huynh.",
+    "vaiTro": "Cựu giáo chủ Thiên Trúc Giáo, cha Lâm sư huynh",
+    "tinhCach": "Chưa rõ",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Được nhắc là giáo chủ Thiên Trúc Giáo năm ấy, cha của Lâm sư huynh",
+       "chuong": "@c0230"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Được Hoàng Long nhắc tới là Lâm giáo chủ năm ấy, cựu giáo chủ Thiên Trúc Giáo và là cha của Lâm sư huynh; sau khi thất thế, con của ông phải giả chết ẩn náu.",
+       "anchor": "Ngươi bỏ mặc không làm Hộ Giáo Pháp Vương của Thiên Trúc Giáo",
+       "bridge": true,
+       "khoang": "@c0230"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Lâm sư huynh",
+       "tag": "cha-me",
+       "quanHe": "Cha của Lâm sư huynh, cựu giáo chủ Thiên Trúc Giáo",
+       "ghiChu": "@c0230"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0230"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lam-su-huynh",
+    "name": "Lâm sư huynh",
+    "cn": "",
+    "aliases": [
+     "Lâm mỗ",
+     "Thiếu giáo chủ Thiên Trúc giáo",
+     "Thế thân Thiên Trúc giáo tại Việt quốc"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tán tu",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Trúc Cơ trung kỳ (@c0232)",
+    "trangThai": "tu-vong",
+    "blurb": "Tu sĩ chạy trốn cừu gia, chết trong phạm vi động phủ Hàn Lập. Thần hồn hắn bay ra định đoạt xá Hàn Lập rồi cầu xin tha mạng khi bị chộp giữ.",
+    "vaiTro": "Tu sĩ trốn chạy chết trong trận Hàn Lập, thần hồn định đoạt xá",
+    "tinhCach": "Cùng đường tuyệt vọng; xảo trá, sẵn sàng đoạt xá kẻ khác; hèn nhát cầu xin khi thất thế",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Chết vì bị cừu gia làm hại, thất khiếu đổ máu, thần tình đen kịt",
+       "chuong": "@c0231"
+      },
+      {
+       "text": "Thần hồn hóa đoàn sáng màu lục định đoạt xá Hàn Lập nhưng bị chộp giữ",
+       "chuong": "@c0231"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Xác nằm sấp gần cửa động phủ Hàn Lập, thần tình đen kịt, thất khiếu đổ máu, đã tuyệt khí; thần hồn hóa đoàn sáng màu lục từ áo bay ra lao vào mặt Hàn Lập định đoạt xá nhưng bị tay phải hắn lóe bạch quang chộp giữ, phải cầu xin tha mạng và hứa ưu đãi, tự xưng bị cừu gia làm hại.",
+       "anchor": "Sư đệ tha mạng! Sư huynh ta cũng là bị cừu gia làm hại",
+       "bridge": true,
+       "khoang": "@c0231"
+      },
+      {
+       "chuong": "@c0232",
+       "importance": "major",
+       "tieuDe": "Khai bí mật Đại Diễn quyết rồi bị bóp nát nguyên thần",
+       "text": "Bị Hàn Lập tra khảo nguyên thần, khai Đại Diễn quyết là độc sang bí thuật của tổ sư khai pháp Thiên Trúc giáo cường hóa thần thức kèm Phân Thần thuật, phân tầng thao túng khôi lỗi và lời đồn tăng xác suất kết đan; lộ thân phận thiếu giáo chủ, cha bị Kim Nam Thiên ám toán nên hắn giả chết trốn Việt quốc; cuối cùng bị Hàn Lập bóp nát nguyên thần biến thành tinh quang biến mất.",
+       "anchor": "Đại Diễn quyết này chính là độc sang bí thuật của tổ sư khai pháp bổn giáo, chuyên môn cường đại thần thức, đồng thời tu luyện bí pháp Phân Thần thuật"
+      },
+      {
+       "text": "Vốn muốn xuyên qua phía trên động phủ Hàn Lập về Hoàng Phong cốc tìm cứu binh nhưng xông nhầm vào đại trận, bị cảnh huyễn hoặc vây khốn, độc phát nên bất đắc dĩ xuất nguyên thần định đoạt xá Hàn Lập; bị Hàn Lập một tay bắt chế trụ khiến nguyên thần tan thành mấy khói, thi thể còn hoàn hảo về sau được Lôi Vạn Hạc kiểm tra xác nhận trúng cổ độc Cổ Độc tông cực tây mà chết",
+       "anchor": "hắn trúng phải cổ độc của Cổ Độc tông ở nơi cực tây mới bộc phát mà chết",
+       "bridge": true,
+       "khoang": "@c0233"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "doi-thu",
+       "quanHe": "Định đoạt xá Hàn Lập nhưng bị hắn chộp giữ thần hồn",
+       "ghiChu": "Gặp @c0231"
+      },
+      {
+       "ten": "Kim Nam Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ thù đoạt vị, ám toán cha mình",
+       "ghiChu": "Kim Nam Thiên năm xưa ám toán cha Lâm sư huynh (giáo chủ tiền nhiệm) và đoạt toàn bộ Đại Diễn quyết, khiến Lâm sư huynh giả chết trốn nạn."
+      },
+      {
+       "ten": "Cha của Lâm sư huynh (giáo chủ tiền nhiệm Thiên Trúc giáo)",
+       "tag": "cha-me",
+       "quanHe": "Cha ruột, giáo chủ tiền nhiệm bị ám toán",
+       "ghiChu": "Từng lén nói với con bí mật xác suất kết đan."
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0231",
+     "@c0232",
+     "@c0233"
+    ],
+    "rank": "B"
+   },
+   {
+    "id": "cha-lam-su-huynh-giao-chu-tien-nhiem-thien-truc-giao",
+    "name": "Cha của Lâm sư huynh (giáo chủ tiền nhiệm Thiên Trúc giáo)",
+    "gioiTinh": "nam",
+    "trangThai": "tu-vong",
+    "vaiTro": "Giáo chủ tiền nhiệm Thiên Trúc giáo, cha Lâm sư huynh",
+    "tinhCach": "Kín kẽ, lo xa cho con",
+    "blurb": "Giáo chủ tiền nhiệm của Thiên Trúc giáo, cha ruột Lâm sư huynh. Năm xưa bị Kim Nam Thiên ám toán, đoạt toàn bộ Đại Diễn quyết và soán ngôi; từng lén tiết lộ với con bí mật về xác suất kết đan của Đại Diễn quyết.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Từng lén nói với con bí mật xác suất kết đan cao của Đại Diễn quyết",
+       "chuong": "@c0232"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0232",
+       "importance": "normal",
+       "tieuDe": "Bị ám toán, mất Đại Diễn quyết",
+       "text": "Được nhắc là giáo chủ tiền nhiệm Thiên Trúc giáo bị Kim Nam Thiên ám toán và đoạt toàn bộ Đại Diễn quyết; từng lén nói với con trai bí mật về xác suất kết đan cao của Đại Diễn quyết.",
+       "anchor": "đành phải tìm một thế thân, giả chết mà đi, trốn ở Việt quốc cách xa ngàn dặm"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Lâm sư huynh",
+       "tag": "cha-me",
+       "quanHe": "Con trai độc nhất",
+       "ghiChu": "Lâm sư huynh là con trai độc nhất, giả chết trốn nạn sau khi cha bị ám toán."
+      },
+      {
+       "ten": "Kim Nam Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ ám toán, đoạt ngôi",
+       "ghiChu": "Bị Kim Nam Thiên ám toán và đoạt toàn bộ Đại Diễn quyết để soán ngôi giáo chủ."
+      },
+      {
+       "ten": "Lâm sư huynh",
+       "tag": "ho-hang",
+       "quanHe": "Con trai độc nhất, thiếu giáo chủ trốn nạn",
+       "ghiChu": "Được cha truyền bốn tầng đầu Đại Diễn quyết và bí mật kết đan."
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0232"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "loi-van-hac",
+    "name": "Lôi Vạn Hạc",
+    "cn": "",
+    "aliases": [
+     "Lôi sư bá",
+     "Lôi đại tu sĩ",
+     "sư bá mập mạp",
+     "vị sư bá mập mạp"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Hoàng Phong cốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Kết Đan kỳ (@c0236)",
+    "trangThai": "song",
+    "blurb": "Tu sĩ Kết Đan kỳ trưởng bối Hoàng Phong cốc, người béo núc mắt híp, tu luyện công pháp dị linh căn Lôi thuộc tính. Xuất hiện diệt gọn nhóm Thiên Trúc giáo cứu Hàn Lập, tinh minh sắc sảo và không dễ lừa.",
+    "vaiTro": "Trưởng bối Kết Đan kỳ Hoàng Phong cốc, sư bá của Hàn Lập",
+    "tinhCach": "Tinh minh sắc sảo, không dễ lừa; ra tay dứt khoát tàn nhẫn; điềm tĩnh khi tra xét",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tu sĩ Kết Đan kỳ dùng công pháp dị linh căn Lôi thuộc tính, ngân quang tách nhiều đạo truy sát",
+       "chuong": "@c0233"
+      },
+      {
+       "text": "Người béo nhất Hàn Lập từng thấy: mắt híp thành khe, cằm nhiều tầng thịt, eo to như thùng",
+       "chuong": "@c0233"
+      },
+      {
+       "text": "Tinh minh không dễ lừa, hỏi thẳng vào trọng điểm và truy tới nguyên thần đào thoát của thi thể",
+       "chuong": "@c0233"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Từ chân trời bay tới bằng đạo ngân quang dài hơn mười trượng, tách thành sáu bảy đạo biến toàn bộ nhóm Thiên Trúc giáo gồm Hoàng Long thành tro bụi; hiện thân người béo núc tự xưng sư bá Lôi Vạn Hạc, nhận Hàn Lập là sư điệt; theo vào Điên Đảo Ngũ Hành trận tán dương trận có lai lịch lớn, nhấc thi thể Lâm sư huynh xác nhận trúng cổ độc Cổ Độc tông, chê Kim đại giáo chủ bụng dạ hẹp hòi, rồi truy hỏi Hàn Lập có thấy nguyên thần Lâm sư huynh đào thoát không",
+       "anchor": "Ta là sư bá Lôi Vạn Hạc của ngươi, gọi ta một tiếng Lôi sư bá là được",
+       "bridge": true,
+       "khoang": "@c0233"
+      },
+      {
+       "text": "Lôi Vạn Hạc tra hỏi Hàn Lập về nguyên thần Lâm sư huynh nhưng mắt nhắm mắt mở cho qua, nói nguyên thần Lâm sư điệt có thể bị lạc trong đại trận tự tiêu tán, không truy cứu; chê động phủ Hàn Lập thô sơ; khi phóng thần thức dò xét thì bị cấm chế chặn khiến kinh ngạc rúng động, song không nối cấm chế với đại trận nên đánh giá sai, rồi bị hai gốc linh dược sáu bảy trăm năm thu hút mạnh, quên hết nghi ngờ.",
+       "anchor": "nguyên thần Lâm sư điệt có thể bị lạc trong đại trận, tự bị tiêu tán đi",
+       "bridge": true,
+       "khoang": "@c0234"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0235",
+       "tieuDe": "Mưu đoạt dược tài của Hàn Lập",
+       "text": "Lôi Vạn Hạc, tu tiên hơn ba trăm năm, đang gặp bình cảnh cần luyện Tăng Nguyên đan nhưng thiếu linh dược ngoài năm trăm năm; vừa nhìn đã phán hai gốc linh thảo của Hàn Lập đủ sáu-bảy trăm năm, bề ngoài chăm chú xem tuổi dược nhưng thực chất lo tính cách đoạt lấy; nghe chuyện linh thảo ngàn năm ở bí điếm thì nhảy dựng tiếc nuối, cuối cùng hào khí đề nghị trao đổi công bình.",
+       "anchor": "trên thực tế là lo lắng làm thế nào mới có thể đem dược tài từ trong tay vị sư điệt này thu tới"
+      },
+      {
+       "text": "Do dự vì phương thuốc gia tộc là bí truyền không thể đổi, nhưng đưa ra vài phương thuốc cổ tìm được từ di tích và trao đổi với bằng hữu; trung thực cảnh báo nguyên liệu cực khó tìm rồi vì áy náy chiếm tiện nghi nên chỉ lấy một gốc Chu Linh thảo đổi một cách điều chế; cáo từ về luyện Tăng Nguyên đan, giật mình khi biết Hàn Lập là ký danh đệ tử Lý Hóa Nguyên nhưng vẫn nói nơi động phủ của lão rồi bay đi",
+       "anchor": "vẫn đem địa phương kia nói cho Hàn Lập",
+       "bridge": true,
+       "khoang": "@c0236"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0233",
+       "canhGioi": "Kết Đan kỳ",
+       "text": "Xuất hiện với thân phận tu sĩ Kết Đan kỳ, tu luyện công pháp dị linh căn Lôi thuộc tính",
+       "importance": "major"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "su-mon",
+       "quanHe": "Sư điệt cùng Hoàng Phong cốc; Lôi Vạn Hạc cứu khỏi vòng vây Thiên Trúc giáo rồi tra xét sự tình",
+       "ghiChu": "@c0233"
+      },
+      {
+       "ten": "Kim Nam Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Chê Kim đại giáo chủ bụng dạ hẹp hòi vẫn đuổi giết Lâm sư huynh đến chết sau nhiều năm",
+       "ghiChu": "@c0233"
+      },
+      {
+       "ten": "Lý Hóa Nguyên",
+       "tag": "su-mon",
+       "quanHe": "Đồng môn Kết Đan kỳ; giật mình khi biết Hàn Lập là ký danh đệ tử của lão",
+       "ghiChu": "Vẫn tiết lộ nơi động phủ hiện nay của Lý Hóa Nguyên cho Hàn Lập"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0233",
+     "@c0234",
+     "@c0235",
+     "@c0236"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "vu-khon",
+    "name": "Vu Khôn",
+    "aliases": [
+     "Vu đại sư huynh",
+     "Đại sư huynh"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Sư môn Lý Hóa Nguyên",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0238)",
+    "trangThai": "song",
+    "blurb": "Đại đệ tử của Lý Hóa Nguyên, một nho sinh thon gầy hơn ba mươi tuổi. Là người ra đón và dẫn Hàn Lập vào Lục Ba động tham kiến sư phó.",
+    "vaiTro": "Đại đệ tử của Lý Hóa Nguyên, sư huynh của Hàn Lập",
+    "tinhCach": "Nhiệt tình; khách khí thái quá khiến người khác bất an",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nho sinh thon gầy hơn ba mươi tuổi, ra đón Hàn Lập ở cửa động",
+       "chuong": "@c0237"
+      },
+      {
+       "text": "Thái độ khách khí quá mức với một ký danh đệ tử, gợi ẩn tình phía sau",
+       "chuong": "@c0237"
+      },
+      {
+       "text": "Dẫn Hàn Lập tham quan Lục Ba động, giới thiệu không ngừng nghỉ",
+       "chuong": "@c0238"
+      },
+      {
+       "text": "Khả năng nói dông dài kinh người, kéo Hàn Lập nói mấy canh giờ đến đau đầu",
+       "chuong": "@c0238"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Sau một nén nhang từ khi nhận Truyền Âm phù, tách màn nước ra đón Hàn Lập, tự xưng là đại đệ tử Vu Khôn, nhiệt tình khen ngợi việc Hàn Lập Trúc Cơ thành công; dẫn hắn qua tiểu cốc thiên nhiên, tiết lộ sư phó có sư nương là nữ tu Trúc Cơ trung kỳ, rồi đưa vào đại sảnh tham kiến.",
+       "anchor": "Tại hạ là đại đệ tử của sư phó, Vu Khôn, ngươi có thể gọi ta một tiếng là Vu sư huynh",
+       "bridge": true,
+       "khoang": "@c0237"
+      },
+      {
+       "text": "Được sư phụ sai lui ra để vợ chồng nói chuyện riêng, sau đó dẫn Hàn Lập đi vòng quanh Lục Ba động vừa đi vừa giới thiệu không ngừng, tới Luận Kiếm đường gặp Tống Mông; cuối cùng kéo Hàn Lập vào phòng nói dông dài mấy canh giờ khiến Hàn Lập phải viện cớ mệt mỏi để thoát.",
+       "anchor": "giống như ma âm khoan não",
+       "bridge": true,
+       "khoang": "@c0238"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Lý Hóa Nguyên",
+       "tag": "su-mon",
+       "quanHe": "Sư phó",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "su-mon",
+       "quanHe": "Sư đệ (ký danh đệ tử cùng sư phó)",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Tống Mông",
+       "tag": "su-mon",
+       "quanHe": "Sư huynh đệ cùng môn hạ",
+       "ghiChu": "Cả hai từ nhỏ lớn lên bên vợ chồng Lý Hóa Nguyên."
+      }
+     ],
+     "tuiDo": {},
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0237",
+     "@c0238",
+     "@c0240"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "su-nuong-ly-hoa-nguyen",
+    "name": "Sư nương (thê tử Lý Hóa Nguyên)",
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Sư môn Lý Hóa Nguyên",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0238)",
+    "trangThai": "song",
+    "blurb": "Thê tử của Lý Hóa Nguyên, thiếu phụ xinh đẹp khoảng hai bảy hai tám tuổi, tu vi Trúc Cơ trung kỳ. Tính ôn nhu hòa nhã, cảm tình với sư phó rất tốt.",
+    "vaiTro": "Sư nương của Hàn Lập, thê tử Lý Hóa Nguyên",
+    "tinhCach": "Ôn nhu hòa nhã",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nữ tu Trúc Cơ trung kỳ, dung mạo xinh đẹp, tính ôn hòa",
+       "chuong": "@c0237"
+      },
+      {
+       "text": "Nuôi các động vật nhỏ quý hiếm trong tiểu cốc thiên nhiên của Lục Ba động",
+       "chuong": "@c0237"
+      },
+      {
+       "text": "Coi Hàn Lập là ân nhân cứu mạng và chủ động khuyên chồng bồi thường thỏa đáng",
+       "chuong": "@c0238"
+      },
+      {
+       "text": "Tu luyện Băng Tâm quyết, cần báo ân để giữ tâm cảnh mới mong luyện thành đại viên mãn tiến Kết Đan kỳ",
+       "chuong": "@c0238"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Ngồi cùng Lý Hóa Nguyên trong đại sảnh Lục Ba động khi Hàn Lập vào tham kiến; là thiếu phụ xinh đẹp khoảng hai bảy hai tám tuổi, được Vu Khôn giới thiệu là nữ tu Trúc Cơ trung kỳ tính ôn hòa, cảm tình với sư phó rất tốt.",
+       "anchor": "Đệ tử Hàn Lập bái kiến sư tôn",
+       "bridge": true,
+       "khoang": "@c0237"
+      },
+      {
+       "text": "Can ngăn Lý Hóa Nguyên đừng gặp mặt là giáo huấn Hàn Lập, gọi Hàn Lập là ân nhân cứu mạng; khuyên Hàn Lập nghỉ một ngày đêm rồi sáng mai hãy đề xuất yêu cầu vì sư phụ vốn không hào phóng; sau tiết lộ nàng tu Băng Tâm quyết, nếu không báo ân sẽ tâm trạng bất ổn không thể luyện thành đại viên mãn để tiến Kết Đan kỳ, khiến chồng cảm động vỗ ngực hứa thỏa mãn.",
+       "anchor": "thiếp tu luyện Băng Tâm quyết sẽ có tâm trạng không ổn",
+       "bridge": true,
+       "khoang": "@c0238"
+      },
+      {
+       "text": "Lộ vẻ ngoài ý khi thấy linh căn bốn thuộc tính của Hàn Lập; giải thích ôn nhu về ba loại công pháp, cho biết bản thân tu loại đỉnh cấp và từng suýt mất mạng; quở trách Lý Hóa Nguyên nói không rõ ràng và cuối cùng tán thành quyết định của Hàn Lập.",
+       "anchor": "công pháp tu luyện của người tu tiên chúng ta dựa theo uy lực cùng hiệu quả để xem xét, đại thể có thể chia làm ba loại",
+       "bridge": true,
+       "khoang": "@c0239"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Lý Hóa Nguyên",
+       "tag": "the-thiep",
+       "quanHe": "Trượng phu",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "an-nhan",
+       "quanHe": "Ân nhân cứu mạng (qua linh dược)",
+       "ghiChu": "Số linh dược lấy từ Hàn Lập giúp giữ mạng và luyện đan cứu chữa nàng."
+      }
+     ],
+     "tuiDo": {},
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0237",
+     "@c0238",
+     "@c0239"
+    ],
+    "aliases": [
+     "Thiếu phụ",
+     "Phu nhân"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "tong-mong",
+    "name": "Tống Mông",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Môn hạ Lý Hóa Nguyên",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0238)",
+    "trangThai": "song",
+    "blurb": "Tứ sư huynh trong môn hạ Lý Hóa Nguyên, hán tử tinh tráng cuồng chiến đấu, giỏi Ngũ Hành pháp thuật thực chiến đứng đầu môn hạ. Muốn khiêu chiến Hàn Lập nhưng mất hứng khi biết Hàn Lập mới Trúc Cơ.",
+    "vaiTro": "Tứ sư huynh của Hàn Lập, cao thủ thực chiến trong môn hạ",
+    "tinhCach": "Cuồng chiến đấu, hiếu chiến; lạnh lùng, dễ mất hứng khi đối thủ yếu",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cuồng chiến đấu, giỏi Ngũ Hành pháp thuật thực chiến đứng đầu môn hạ Lý Hóa Nguyên",
+       "chuong": "@c0238"
+      },
+      {
+       "text": "Muốn khiêu chiến Hàn Lập nhưng lạnh lùng bỏ đi khi biết đối phương mới Trúc Cơ",
+       "chuong": "@c0238"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tại Luận Kiếm đường trong Lục Ba động, nhìn chằm chằm Hàn Lập như muốn khiêu chiến, nhưng khi Hàn Lập chủ động nói mình vừa Trúc Cơ không lâu xin chiếu cố thì thất vọng, mất hứng thú, mặt lạnh bỏ đi.",
+       "anchor": "Vị này rõ ràng là một tên cuồng chiến đấu",
+       "bridge": true,
+       "khoang": "@c0238"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Lý Hóa Nguyên",
+       "tag": "su-mon",
+       "quanHe": "Sư phụ",
+       "ghiChu": "Tống Mông từ nhỏ lớn lên bên vợ chồng Lý Hóa Nguyên."
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "su-mon",
+       "quanHe": "Sư đệ (Bát sư đệ tương lai)",
+       "ghiChu": "Muốn khiêu chiến Hàn Lập nhưng mất hứng khi biết Hàn Lập mới Trúc Cơ."
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0238"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "te-van-tieu-than-binh-mon",
+    "name": "Tề Vân Tiêu",
+    "cn": "齊雲霄",
+    "aliases": [
+     "Thanh niên vừa thấp vừa thô",
+     "thanh niên vừa lùn vừa thô",
+     "#te-van-tieu"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thần Binh Môn",
+      "trangThai": "danh-nghia"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Tu sĩ Luyện khí kỳ đeo mặt nạ đầu hổ, thân hình vừa lùn vừa thô, thay mặt một trận pháp sư giấu mặt đem bộ khí cụ tàn phẩm Điên Đảo Ngũ Hành Trận ra đấu giá. Hắn khẩn thiết cần thiên niên linh dược cứu mạng cho trận pháp sư đứng sau. (+) Hậu nhân của Luyện khí trưởng lão Thần Binh Môn, bán bộ bố trận pháp khí Điên Đảo Ngũ Hành Trận và quyển Vân Tiêu Tâm Thuật cho Hàn Lập. [CAN-SOAT-GOP]",
+    "vaiTro": "Nhân vật phụ; hậu nhân Luyện khí trưởng lão Thần Binh Môn, đối tác giao dịch luyện khí của Hàn Lập.",
+    "tinhCach": [
+     {
+      "text": "Ngập ngừng, luống cuống khi giao dịch nhưng giữ chữ tín và biết cảm kích.",
+      "chuong": "@c0227"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Hậu nhân Luyện khí trưởng lão Thần Binh Môn, thừa hưởng luyện khí thuật gia truyền do gia tổ tự tay truyền dạy.",
+       "chuong": "@c0227"
+      },
+      {
+       "text": "Sở hữu bộ khí cụ tàn phẩm Điên Đảo Ngũ Hành Trận chỉ phát huy một phần mười uy lực",
+       "chuong": "@c0226"
+      },
+      {
+       "text": "Bị nam tử cao gầy đuổi khéo khỏi đấu giá vì ra giá bằng tàn phẩm",
+       "chuong": "@c0226"
+      },
+      {
+       "text": "Gia tổ từng là Luyện khí trưởng lão của Thần Binh Môn, luyện khí thuật do gia tổ tự tay truyền dạy",
+       "chuong": "@c0227"
+      },
+      {
+       "text": "Có bằng hữu giỏi trận pháp chi đạo tới mức xuất thần nhập hóa",
+       "chuong": "@c0227"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Đề nghị dùng khí cụ Điên Đảo Ngũ Hành Trận đổi thiên niên linh thảo, nhưng khi lộ ra chỉ là tàn phẩm phát huy một phần mười uy lực thì bị nam tử cao gầy chủ trì cảnh cáo cứng rắn và đuổi khéo; sau đó bị Hàn Lập tiếp cận ép giá đổi bộ bố trận pháp khí bằng thiên niên linh dược.",
+       "anchor": "chỉ có thể phát huy được một phần mười uy lực của trận pháp!",
+       "bridge": true,
+       "khoang": "@c0226"
+      },
+      {
+       "chuong": "@c0227",
+       "importance": "normal",
+       "tieuDe": "Bán luyện khí thuật cho Hàn Lập",
+       "text": "Ngỏ ý bán hiểu biết luyện khí do vướng tổ huấn không thể đích thân truyền thụ; lộ thân phận hậu nhân Luyện khí trưởng lão Thần Binh Môn; giao 18 trận bàn, 36 trận kỳ, Ngọc Giản cùng quyển Vân Tiêu Tâm Thuật để đổi lấy linh dược, rồi xưng tên thật.",
+       "anchor": "Cái duy nhất mà tại hạ có thể đem ra bán chỉ có Luyện khí chi thuật trên người"
+      }
+     ],
+     "tuViMoc": [
+      {
+       "chuong": "@c0226",
+       "canhGioi": "Luyện khí kỳ",
+       "text": "Xuất hiện lần đầu với thân phận tu sĩ Luyện khí kỳ cấp mười trở lại.",
+       "importance": "minor"
+      }
+     ],
+     "tuVi": "Chưa rõ cảnh giới cụ thể tính đến chương 227.",
+     "nhanMach": [
+      {
+       "ten": "Hàn Lập",
+       "tag": "dong-minh",
+       "quanHe": "Đối tác giao dịch, người mua bộ pháp khí và Vân Tiêu Tâm Thuật; Hàn Lập mưu tính kết giao lâu dài.",
+       "ghiChu": "Hàn Lập phong ấn quyển sách và giao ước năm năm để giữ chữ tín."
+      },
+      {
+       "ten": "Trận pháp sư bằng hữu (của Tề Vân Tiêu)",
+       "tag": "ban-be",
+       "quanHe": "Bằng hữu giỏi trận pháp xuất thần nhập hóa",
+       "ghiChu": "Được nhắc là người sẽ cải tiến bộ pháp khí (@c0227)"
+      },
+      {
+       "ten": "Hàn Lập",
+       "tag": "khac",
+       "quanHe": "Bị Hàn Lập tiếp cận ép giá đổi bộ bố trận pháp khí bằng thiên niên linh dược",
+       "ghiChu": "Gặp tại đấu giá mật điếm (@c0226)"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [
+       {
+        "ten": "Vân Tiêu Tâm Thuật",
+        "loai": "thư tịch luyện khí",
+        "trangThai": "mat",
+        "moTa": "Quyển ghi chép hiểu biết luyện khí hai mươi mấy năm, chứa nhiều phương pháp luyện khí bí mật của Thần Binh Môn; đã giao cho Hàn Lập.",
+        "nguon": "@c0227"
+       }
+      ],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0227",
+     "@c0226"
+    ],
+    "rank": "C"
    }
   ]
  },
  "artifacts": {
   "updatedAt": "2026-06-11",
-  "count": 76,
+  "count": 231,
   "artifacts": [
    {
     "id": "binh-than-bi",
@@ -10253,13 +15638,18 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "soHuu": [
      "Hàn Lập (tự phối chế)"
     ],
-    "trangThai": "đang lưu giữ",
+    "trangThai": "dang-co",
     "blurb": "Thánh dược giải độc hiếm có thế gian, giải được trăm ngàn loại kịch độc. Hàn Lập tự phối chế bằng lục dịch thôi sanh dược tài trân quý trong thời gian Mặc đại phu vắng mặt. Dùng tại c71 để giải hỗn hợp độc Dã Lang bang cho Lý trưởng lão.",
     "detail": "Một trong các thánh dược Hàn Lập tự luyện. Thuộc loại giải độc, được phối chế dự phòng vì Hàn Lập ý thức mình vẫn là 'một nửa người giang hồ', dễ gặp ân oán. Cất giữ bí mật cùng các thánh dược khác. Sau khi bị ép nuốt Thi Trùng Hoàn, Hàn Lập thử dùng Thanh Linh Tán giải độc nhưng hoàn toàn vô dụng — xác nhận Thi Trùng Hoàn không phải độc dược thông thường mà là cổ trùng bí pháp nằm ngoài phạm vi giải độc. Tại c71: Hàn Lập hòa viên đỏ (Thanh Linh Tán) vào nước ấm tạo dược dịch màu hồng đỏ, Lý thị bón cho Lý trưởng lão uống; giải được phần lớn độc nhưng không giải được độc tiềm phục sâu — và không thể dùng để giải độc trong thân Hàn Lập (kết luận tại c71). Tên thuốc không được Hàn Lập tiết lộ.",
     "nguon": [
      "c0027",
      "c0032",
-     "c0071"
+     "c0071",
+     "@c0198"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Thanh Linh tán"
     ],
     "rank": "C"
    },
@@ -10759,12 +16149,17 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "soHuu": [
      "Hàn Lập"
     ],
-    "trangThai": "đang dùng cho Vân sí điểu",
+    "trangThai": "khac",
     "blurb": "Đan hoàn dùng làm thức ăn khoái khẩu cho Vân sí điểu. Hàn Lập dùng để nuôi chim khi giao Vân sí điểu cho Tôn nhị cẩu thực hiện nhiệm vụ theo dõi.",
     "detail": "Được nhắc tới trong c120: Hàn Lập cung cấp Hoàng Lật Hoàn cùng với Vân sí điểu khi giao nhiệm vụ cho Tôn nhị cẩu. Trước đây (c41-42) cũng từng nhắc đây là thức ăn khoái khẩu của Vân sí điểu do Mặc đại phu dùng để triệu hồi chim.",
     "nguon": [
      "c0041",
-     "c0120"
+     "c0120",
+     "@c0181"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Hoàng lật hoàn"
     ],
     "rank": "C"
    },
@@ -10820,7 +16215,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "Hoàng Phong Cốc (trữ hữu; phân cho đệ tử có tư cách @c144–c147)",
      "Hàn Lập (được cấp một viên qua Thăng Tiên Lệnh, tự nguyện nhường cho Diệp Tính @c146–c147; thu được 2 viên thật từ Lục sư huynh @c170)"
     ],
-    "trangThai": "lưu thông trong giới tu tiên; Hoàng Phong Cốc cấp theo ưu tiên; Hàn Lập hiện giữ 2 viên thật",
+    "trangThai": "dang-co",
     "blurb": "Đan dược tu tiên cực hiếm, hỗ trợ người tu luyện đột phá qua ngưỡng mười tầng công pháp cơ sở tiến vào Trúc Cơ kỳ. Hoàng Phong Cốc trữ hữu số lượng hạn chế, chỉ cấp cho đệ tử có tư cách (Thăng Tiên Lệnh, dị linh căn, hoặc hậu nhân Hồng Phất). Hàn Lập ban đầu nhường viên của mình cho Diệp Tính; về sau thu được 2 viên thật từ túi Lục sư huynh tại c170.",
     "detail": "Được người áo lam (Lão Tam) đề cập tại Gia Nguyên Thành: nhờ uống Trúc Cơ đan mà luyện thành mười tầng (c106). Hoàng Phong Cốc: phân chia theo thứ tự ưu tiên (người cầm Thăng Tiên Lệnh > dị linh căn > hậu nhân Hồng Phất sư thúc tổ; c144). Hàn Lập tư chất ngụy linh căn ~1% thành công, Diệp lão giả thuyết phục nhường đan đổi vật hữu dụng; giao dịch chốt tại c146, chính thức hoàn tất tại c147. Tại c166: Lục sư huynh phát hiện hộp gỗ đỏ trong đồ Trần sư muội chứa bình xanh đựng 2 viên Trúc Cơ đan thật. Tại c170: Hàn Lập thu bình xanh này từ túi Lục sư huynh sau khi hắn chết — lần đầu Hàn Lập thực sự sở hữu Trúc Cơ đan.",
     "nguon": [
@@ -10830,7 +16225,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0146",
      "c0147",
      "c0166",
-     "c0170"
+     "c0170",
+     "@c0209"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Trúc cơ đan"
     ],
     "rank": "B"
    },
@@ -11330,7 +16730,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "soHuu": [
      "Lục sư huynh → Hàn Lập (thu @c170)"
     ],
-    "trangThai": "đang giữ — Hàn Lập thu từ Lục sư huynh @c170",
+    "trangThai": "dang-co",
     "blurb": "Pháp khí phong thuộc tính của Lục sư huynh. Kích hoạt tuyệt chiêu Hóa giao biến thành Thanh giao (hình phách phong hệ) khổng lồ. Bị cự kiếm của Hàn Lập bào mòn dần, cuối trận Lục sư huynh thu hồi pháp lực dồn đao phong thay vào. Hàn Lập thu sau khi Lục sư huynh chết.",
     "detail": "Tuyệt chiêu Hóa giao (c168): Lục sư huynh biến Thanh giao kỳ thành Thanh giao khổng lồ hình phách phong thuộc tính. Bị cự kiếm xám (phù bảo) của Hàn Lập bào mòn từ c168 đến c169, còn khoảng một trượng thì bị thu hồi. Cuối c169: Lục sư huynh thu pháp lực Thanh giao kỳ dồn đao phong lớn, Thanh giao kỳ khôi phục nguyên hình rớt xuống đất. Tại c170: Hàn Lập thu vào túi.",
     "nguon": [
@@ -11338,7 +16738,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0167",
      "c0168",
      "c0169",
-     "c0170"
+     "c0170",
+     "@c0189"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Thanh Giao kỳ"
     ],
     "rank": "B"
    },
@@ -11352,12 +16757,17 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "soHuu": [
      "Hàn Lập (mua tại Vạn Bảo Lâu @c163–c165)"
     ],
-    "trangThai": "đang giữ",
+    "trangThai": "da-dung",
     "blurb": "Pháp khí công kích dạng mìn sét nổ, mua tại Vạn Bảo Lâu. Một trong ba pháp khí Hàn Lập mua cùng Huyền thiết phi thiên thuẫn và Kim phù tử mẫu đao.",
     "detail": "Xuất hiện c163: được Vạn Bảo Lâu giới thiệu cùng Kim phù tử mẫu đao và Huyền thiết phi thiên thuẫn. Hàn Lập mua khi đổi toàn bộ hộp gấm tại c165.",
     "nguon": [
      "c0163",
-     "c0165"
+     "c0165",
+     "@c0189"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Thiên Lôi Tử"
     ],
     "rank": "C"
    },
@@ -11440,20 +16850,24 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
    {
     "id": "thien-nguyet-than-chu",
     "name": "Thiên Nguyệt thần chu",
-    "cn": null,
+    "cn": "天月神舟",
     "category": "phi-hanh",
     "categoryLabel": "Pháp khí phi hành",
     "phamCap": "Thượng phẩm pháp khí phi hành",
     "soHuu": [
      "Yểm Nguyệt tông (sở hữu môn phái)"
     ],
-    "trangThai": "đang dùng",
+    "trangThai": "dang-co",
     "blurb": "Thuyền phi hành của Yểm Nguyệt tông, dùng chở cả đoàn đệ tử. Chạm trổ vàng bạc tả long họa phượng tinh xảo, phát hào quang trắng; khi triệt tiêu hào quang thu lại gọn. Nguy nga lộng lẫy hơn hẳn Tuyết Hồng Lăng Thanh Hư môn.",
     "detail": "Xuất hiện c178: Nghê Thường tiên tử và đoàn Yểm Nguyệt tông xuất hiện từ xa trên Thiên Nguyệt thần chu. Thuyền chạm trổ vàng bạc tả long họa phượng, hào quang trắng bao phủ. Sau khi hạ cánh, Nghê Thường triệt tiêu hào quang thuyền.",
     "nguon": [
-     "c0178"
+     "c0178",
+     "@c0211"
     ],
-    "rank": "D"
+    "aliases": [
+     "Thiên Nguyệt Thần Châu"
+    ],
+    "rank": "C"
    },
    {
     "id": "noi-dan-huyet-tuyen-giao",
@@ -11601,12 +17015,2744 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0180"
     ],
     "rank": "D"
+   },
+   {
+    "id": "ti-tuyen",
+    "name": "Ti tuyến",
+    "cn": "",
+    "aliases": [
+     "Sợi tơ trong suốt"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "khac",
+    "blurb": "Sợi tơ kỳ quái trong suốt lấp lóe, dùng làm vũ khí đánh lén cắt đứt cổ đối phương.",
+    "detail": "Sợi ti tuyến trong suốt kỳ quái, lấp lóe dưới nắng, quấn trên ngón vô danh của một sư huynh Hoàng Phong cốc. Đây là pháp khí sát thương âm hiểm: vị sư huynh dùng nó đánh lén cắt đứt cổ đệ tử Cự kiếm môn có thực lực cao hơn, dù cuối cùng cả hai đồng quy vu tận.",
+    "nguon": [
+     "@c0181"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "buom-buom-canh-gioi-linh-thu-son",
+    "name": "Bươm bướm cảnh giới Linh thú sơn",
+    "cn": "",
+    "aliases": [
+     "Bươm bướm nhiều màu"
+    ],
+    "category": "linh-khi",
+    "categoryLabel": "Linh trùng khu sử",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Côn trùng biến màu ngụy trang, được thả thành lưới cảnh giới sống trăm trượng.",
+    "detail": "Loài bươm bướm nhiều màu có thể biến ảo màu sắc theo cảnh vật, được đệ tử Linh thú sơn bố trí dày đặc trong phạm vi trăm trượng làm lưới cảnh giới sống, phát hiện ngay khi có người tiếp cận. Chúng trời sinh sợ lạnh, gặp nhiệt độ thấp là đông cứng chết, nên không thả được quanh vùng nước lạnh dị chất như Ô long đàm.",
+    "nguon": [
+     "@c0181"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tui-da-do",
+    "name": "Túi da màu đỏ",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo chứa đồ",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Túi da màu đỏ hai đệ tử Linh thú sơn dùng thu chứa chiến lợi phẩm.",
+    "detail": "Túi da màu đỏ được hai đệ tử Linh thú sơn dùng để thu Hàn băng thiềm sau khi giết đệ tử Thiên khuyết bảo và cướp chiến lợi phẩm tại hiện trường.",
+    "nguon": [
+     "@c0181"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cu-kiem-cu-kiem-mon",
+    "name": "Cự kiếm (Cự kiếm môn)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Vũ khí",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "khac",
+    "blurb": "Thanh cự kiếm của đệ tử Cự kiếm môn, đâm xuyên đầu sư huynh Hoàng Phong cốc ghim xuống đất.",
+    "detail": "Thanh cự kiếm của đệ tử Cự kiếm môn áo đen. Trước khi chết vì bị ti tuyến cắt đứt cổ, người này còn thừa lực đâm một kiếm xuyên qua đầu sư huynh Hoàng Phong cốc, ghim thi thể xuống đất, tạo thành trận tử chiến không người thắng.",
+    "nguon": [
+     "@c0181"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mac-don-phu",
+    "name": "Mộc độn phù",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phù lục",
+    "phamCap": "Trung cấp bậc thấp",
+    "soHuu": [
+     "Thiếu nữ áo trắng (Yểm Nguyệt tông)"
+    ],
+    "trangThai": "da-dung",
+    "aliases": [
+     "Mộc độn thuật phù"
+    ],
+    "blurb": "Phù lục Mộc độn thuật trung cấp bậc thấp, hiếm thấy trong tu tiên giới, là lợi khí chạy trốn tốt nhất lúc sinh tử.",
+    "detail": "Phù lục trung cấp bậc thấp cực hiếm, người thường coi là bảo vật gia truyền dùng lúc sinh tử. Thiếu nữ áo trắng Yểm Nguyệt tông dùng nó, cả người chìm trong màn lục quang chói mắt rồi biến mất khỏi cấm địa.",
+    "nguon": [
+     "@c0182"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thuy-trao-phong-ngu",
+    "name": "Thủy tráo phòng ngự",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp thuật phòng ngự",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp thuật phòng ngự dạng màn nước Hàn Lập tung ra đầu tiên khi bị phục kích để tự vệ.",
+    "detail": "Khi bị hai tu sĩ chặn tại Nhất tuyến thiên, Hàn Lập lập tức tung thủy tráo phòng ngự làm lớp bảo hộ trước khi bày các pháp bảo khác.",
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phi-thien-thuan",
+    "name": "Phi thiên thuẫn",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo phòng ngự",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Khiên bay Hàn Lập phóng ra làm lớp phòng ngự khi giao tranh.",
+    "detail": "Pháp bảo phòng ngự dạng khiên bay, được Hàn Lập triển khai trong trận một địch hai tại Nhất tuyến thiên.",
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kim-phu-tu-mau-nhan",
+    "name": "Kim phù tử mẫu nhận",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Pháp khí",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí Hàn Lập cầm sẵn trong tay khi đối trận với hai kẻ phục kích.",
+    "detail": "Được Hàn Lập cầm sẵn cùng phù Thổ lao thuật khi bày thế phòng ngự tại Nhất tuyến thiên.",
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tho-lao-thuat",
+    "name": "Thổ lao thuật",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phù lục",
+    "phamCap": "Phù lục sơ cấp bậc cao",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Phù lục sơ cấp bậc cao; khi ném ra biến thành đạo hoàng quang bao lấy phòng ngự đối phương thành lớp vỏ vàng, giam giữ khiến không nhúc nhích được.",
+    "detail": "Hàn Lập bất ngờ ném Thổ lao thuật về phía gã râu quai nón; phù biến thành hoàng quang bao chặt lớp phòng ngự của gã, hình thành lớp vỏ vàng lớn hơn giam hắn không thể đi tới chút nào.",
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dung-linh-phu",
+    "name": "Dung linh phù",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phù lục",
+    "phamCap": "Phù lục bậc cao",
+    "soHuu": [
+     "Nghiêm (đệ tử Thiên khuyết bảo)",
+     "Gã râu quai nón (tu sĩ Linh thú sơn)"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Phù lục bậc cao dùng đồng thời bởi hai người một khắc trước khi vào cấm địa, tạm liên kết linh khí hai người để cấm chế truyền tới cùng một chỗ; tỉ lệ thành công năm-năm, giá cực đắt.",
+    "detail": "Công cụ giúp gã râu quai nón và đệ tử Thiên khuyết bảo tụ tập cùng điểm trong cấm địa để phục kích Hàn Lập. Hai người dùng đồng thời phù này ngay trước khi vào cấm địa; linh khí tạm thời liên kết nên cấm chế truyền hai người tới cùng chỗ, dù tỉ lệ thành công chỉ năm-năm và giá cực đắt.",
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phu-luc-hao-quang-xanh-biec",
+    "name": "Phù lục phòng hộ hào quang xanh biếc",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phù lục phòng ngự",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Gã râu quai nón (tu sĩ Linh thú sơn)"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Phù lục phòng ngự gã râu quai nón dùng giữa đường tiến tới, dựng màn hào quang xanh biếc gia tăng phòng hộ.",
+    "detail": "Trên đường tiến tới hạ sát Hàn Lập, gã râu quai nón dùng phù lục này dựng màn hào quang xanh biếc bao quanh mình để tăng phòng hộ.",
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tui-mau-xanh-ga-rau-quai-non",
+    "name": "Túi màu xanh",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Gã râu quai nón (tu sĩ Linh thú sơn)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Túi màu xanh gã râu quai nón hạ xuống trước khi ra tay đối phó Hàn Lập.",
+    "detail": "Trước khi tiến tới giao chiến, gã râu quai nón hạ túi màu xanh xuống rồi cười nanh ác tiến tới.",
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kim-quang-chuyen",
+    "name": "Kim quang chuyên",
+    "aliases": [
+     "Kim chuyên"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Phù bảo hình chữ nhật kim quang sáng rực, phát linh khí tận trời; khi khởi động hút ba phần pháp lực người dùng rồi phóng ra đè chết địch.",
+    "detail": "Vật thể hình chữ nhật kim quang sáng rực, mua từ Vạn bảo các. Khi khởi động, phù bảo liều mạng hút pháp lực trong cơ thể người dùng cuồn cuộn không dứt (bị ví “quỷ hút máu chết người”), sau khi hút ba phần mới dừng và trả quyền khống chế. Phóng ra đón gió lớn lên bằng gian phòng rồi như ngọn núi nhỏ vỗ thẳng xuống, đè thủng hố sâu cả trượng rộng vài chục trượng, phá nát mọi phòng hộ và thổ lao; đã đè chết tên râu quai nón tầng mười ba thành đám bùn.",
+    "nguon": [
+     "@c0184"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vong-bao-ho-moc-thuoc-tinh",
+    "name": "Vòng bảo hộ mộc thuộc tính",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Tên râu quai nón (Linh thú sơn)"
+    ],
+    "trangThai": "hong",
+    "blurb": "Pháp bảo phòng hộ mộc thuộc tính trên người tên râu quai nón, lực phòng hộ kinh người.",
+    "detail": "Vòng bảo hộ mộc thuộc tính khiến tên râu quai nón khinh thường màn tấn công của Hàn Lập, nhưng cuối cùng bị Kim quang chuyên phá nát cùng chủ nhân.",
+    "nguon": [
+     "@c0184"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "doi-thiet-bong-den",
+    "name": "Đôi thiết bổng đen",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Tên râu quai nón (Linh thú sơn)"
+    ],
+    "blurb": "Đôi thiết bổng màu đen tên râu quai nón dùng để công phá màn hào quang thổ lao.",
+    "detail": "Tên râu quai nón dùng đôi thiết bổng đen cùng linh thú công phá màn hào quang Thổ lao thuật vây khốn hắn.",
+    "nguon": [
+     "@c0184"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cu-kiem-mau-bac",
+    "name": "Cự kiếm màu bạc",
+    "aliases": [
+     "Cự kiếm bạc"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Đại hán cự kiếm bạc"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Cự kiếm màu bạc của đại hán chân trần, chém thượng phẩm pháp khí và vòng bảo hộ như cắt giấy, chém đứt người thành hai nửa.",
+    "detail": "Là món pháp khí duy nhất đại hán chân trần sử dụng. Uy lực áp đảo: chém thượng phẩm pháp khí và vòng bảo hộ như cắt giấy, chém Tiêu Nhị thành hai đoạn. Đại hán không lấy pháp bảo nào khác vì cho rằng chúng làm hắn phân tâm, bất lợi cho tu hành.",
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phi-dao-mau-do-han-thien-nhai",
+    "name": "Phi đao màu đỏ",
+    "aliases": [
+     "Phi đao hồng quang"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Thiên Nhai"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Hai thanh phi đao hồng quang của Hàn Thiên Nhai, dùng giết nữ đệ tử Yểm nguyệt tông.",
+    "detail": "Hai thanh phi đao màu đỏ tỏa hồng quang, tốc độ nhanh như sấm sét; Hàn Thiên Nhai dùng chúng bất ngờ giết chết nữ đệ tử Yểm nguyệt tông sau khi giả vờ tha.",
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phap-khi-nhu-manh-lua",
+    "name": "Pháp khí như mảnh lụa",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Nữ đệ tử Yểm nguyệt tông"
+    ],
+    "trangThai": "mat",
+    "blurb": "Pháp khí phòng ngự như mảnh lụa của nữ đệ tử Yểm nguyệt tông, dùng ngăn hai phi đao hồng quang nhưng dần thất thế.",
+    "detail": "Pháp khí phòng ngự có hình như mảnh lụa; nữ đệ tử Yểm nguyệt tông dùng chống hai phi đao hồng quang của Hàn Thiên Nhai nhưng sắp không chống nổi, sau khi nàng thu pháp khí để đổi lấy mạng thì bị giết.",
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "guong-nho-che-ngu-phap-khi",
+    "name": "Gương nhỏ chế ngự pháp khí (nữ áo trắng)",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí cổ quái",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Nữ tử áo trắng (hậu nhân Trưởng lão Yểm Nguyệt tông)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Gương nhỏ cổ quái phóng thanh quang bao lấy pháp khí và pháp thuật đối phương, khiến chúng lơ lửng quần đảo giữa không trung không thể hạ xuống, như bị cấm chế.",
+    "detail": "Pháp khí cổ quái của nữ áo trắng, một trong nhiều bảo vật truyền lại từ Trưởng lão Yểm Nguyệt tông. Khi lật ra, gương phóng thanh quang bao lấy sáu thanh kim nhận của Hàn Lập cùng hỏa xà của nữ áo vàng, khiến chúng lơ lửng quần đảo giữa không trung không hạ xuống được. Hạn chế: mỗi lần chỉ chế ngự một vùng, kéo dài nửa khắc rồi phải thu hồi.",
+    "nguon": [
+     "@c0186"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-hoa-cau-phu-luc",
+    "name": "Đại hỏa cầu phù lục",
+    "category": "phap-bao",
+    "categoryLabel": "Phù lục",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Nữ tử áo trắng (hậu nhân Trưởng lão Yểm Nguyệt tông)"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Phù lục hỏa hệ nữ áo trắng dùng đánh nổ tan nửa trên cây cổ thụ nơi Hàn Lập ẩn thân.",
+    "detail": "Nữ áo trắng đánh ra một quả Đại hỏa cầu từ phù lục, phá tan nửa trên cây cổ thụ trong nháy mắt thành tro bụi để buộc Hàn Lập lộ diện, nhưng hắn đã kịp né ra sau gốc cây.",
+    "nguon": [
+     "@c0186"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thanh-tac",
+    "name": "Thanh Tác",
+    "cn": "",
+    "category": "linh-khi",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Thượng phẩm pháp khí",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Thượng phẩm pháp khí của Hàn Lập, sợi roi màu xanh di chuyển như linh xà vô thanh vô tức.",
+    "detail": "Pháp khí hình sợi roi màu xanh của Hàn Lập, khi thi triển di chuyển như linh xà, vô thanh vô tức. Hàn Lập dùng nó trói chặt nữ tử áo trắng Yểm nguyệt tông cùng vòng bảo hộ thành một cái kén. Sau đó bị luồng hoàng quang từ phù bảo của Phong Nhạc bắn xuyên qua.",
+    "nguon": [
+     "@c0187"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngan-cau-han-lap",
+    "name": "Ngân câu",
+    "cn": "",
+    "category": "linh-khi",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Pháp khí",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "hong",
+    "blurb": "Pháp khí ngân quang lập lòe của Hàn Lập, bị dịch thể ăn mòn hư hỏng.",
+    "detail": "Pháp khí phát ánh ngân quang lập lòe của Hàn Lập. Trong trận đánh với nữ tử áo trắng, ngân câu bị dịch thể màu hồng phun ra từ thủy tinh cầu ăn mòn đến mức đổi màu thủng lỗ chỗ, linh khí không còn, hư hỏng không dùng được nữa.",
+    "nguon": [
+     "@c0187"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thuy-tinh-cau-mau-hong",
+    "name": "Thủy tinh cầu màu hồng",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Pháp bảo",
+    "soHuu": [
+     "Nữ tử áo trắng (Yểm nguyệt tông)"
+    ],
+    "trangThai": "mat",
+    "blurb": "Pháp bảo của nữ tử áo trắng, phun dịch thể màu hồng phấn ăn mòn pháp khí và tạo vòng bảo hộ.",
+    "detail": "Pháp bảo hình cầu thủy tinh màu hồng của nữ tử áo trắng Yểm nguyệt tông, lơ lửng trên đầu. Khi kích hoạt bằng thủ ấn, nó phun dịch thể màu hồng phấn tạo vòng bảo hộ rộng cỡ một trượng và ăn mòn pháp khí đối phương. Sau khi nữ tử chết, thủy tinh cầu rơi xuống đất; Hàn Lập phóng hỏa cầu ngăn không cho Phong Nhạc thu lấy.",
+    "nguon": [
+     "@c0187"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tam-guong-nho-nu-ao-trang",
+    "name": "Tấm gương nhỏ",
+    "cn": "",
+    "category": "linh-khi",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Pháp khí",
+    "soHuu": [
+     "Nữ tử áo trắng (Yểm nguyệt tông)"
+    ],
+    "trangThai": "mat",
+    "blurb": "Pháp khí phòng ngự của nữ tử áo trắng, ngăn được kim nhận của Hàn Lập.",
+    "detail": "Pháp khí tấm gương nhỏ của nữ tử áo trắng Yểm nguyệt tông, ngăn cản được kim nhận của Hàn Lập khiến nàng tự đắc. Sau khi nữ tử bị Phong Nhạc giết, tấm gương rơi xuống đất; Hàn Lập không cho Phong Nhạc thu lấy.",
+    "nguon": [
+     "@c0187"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tieu-dao-hoang-quang",
+    "name": "Tiểu đao hoàng quang",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phù bảo",
+    "phamCap": "Phù bảo (uy năng pháp bảo)",
+    "soHuu": [
+     "Phong Nhạc"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Phù bảo của Phong Nhạc, tiểu đao cổ quái tỏa hoàng quang, một đòn giết chết nữ tử áo trắng.",
+    "detail": "Phù bảo hình tiểu đao cổ quái của Phong Nhạc: chuôi dài cỡ một thước, lưỡi dài ba bốn tấc, thân trong suốt tỏa hoàng quang chói mắt. Khi thi triển, linh khí bạo phát kinh người; một luồng hoàng quang bắn xuyên Thanh Tác, vòng bảo hộ và cả nữ tử áo trắng, giết chết nàng ngay tại chỗ. Hàn Lập xác nhận nó là phù bảo có đầy đủ uy năng của một pháp bảo, giống Kim quang chuyên của hắn.",
+    "nguon": [
+     "@c0187"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kim-quang-chuyen-han-lap",
+    "name": "Kim quang chuyên",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phù bảo",
+    "phamCap": "Phù bảo (uy lực cao)",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "Do Hàn Lập nắm giữ; chưa xuất ra trong trận đấu với Phong Nhạc",
+    "blurb": "Phù bảo của Hàn Lập với lực phá hoại kinh người nhưng chậm chạp, chỉ phát huy khi vây khốn được đối thủ.",
+    "detail": "Phù bảo do Hàn Lập nắm giữ, lực phá hoại vượt xa phi kiếm thông thường: người tu tiên cấp thấp một khi bị trúng thì dù có nhiều pháp khí bảo hộ cũng khó thoát chết. Tuy nhiên nó có nhược điểm rõ ràng — phải hấp thụ một lượng lớn pháp thuật của người sử dụng mới có thể khu sử được, đồng thời tốc độ và độ linh hoạt kém, khó đuổi kịp đối thủ thân pháp nhanh. Vì thế nó chỉ thật sự hữu dụng khi đã trói buộc hoặc vây khốn được địch nhân từ trước, tính chất tương tự Đại ấn của cao thủ Kết đan kỳ Thiên khuyết bảo — uy lực lớn nhưng nặng nề chậm rãi. Trong trận với Phong Nhạc, Hàn Lập từng định xuất nó ra nhưng nhận ra thân pháp đối phương quá nhanh khiến kế đánh lén khó thành.",
+    "rank": "D"
+   },
+   {
+    "id": "hoang-la-tan",
+    "name": "Hoàng La Tán",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Phòng ngự cực cao",
+    "soHuu": [
+     "Phong Nhạc"
+    ],
+    "trangThai": "mat",
+    "blurb": "Pháp khí phòng ngự của Phong Nhạc, xuất vòng hào quang màu xanh bao quanh người, lực phòng ngự vượt Phi Thiên Thuẫn.",
+    "detail": "Xuất một vòng hào quang màu xanh bao quanh người, lực phòng ngự cực cao khiến kim nhận của Hàn Lập nổ bắn ngược lại; có thể dùng vô số lần nên Phong Nhạc coi trọng hơn cả phù bảo tiểu đao (phù bảo chỉ dùng vài lần thành phế thải). Từ khi được Hoàng La Tán, Phong Nhạc chưa từng bị tu tiên giả cấp thấp làm bị thương.",
+    "nguon": [
+     "@c0189"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hon-nguyen-chau",
+    "name": "Hỗn Nguyên Châu",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Trung phẩm",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Pháp khí tầm thường ai cũng biết, tiểu hồ lô đen phun bảy tám viên cầu đen; Hàn Lập dùng che giấu Thiên Lôi Tử.",
+    "detail": "Pháp khí tầm thường được ai cũng biết, chỉ miễn cưỡng xếp trung phẩm; xuất ra từ tiểu hồ lô màu đen, phun bảy tám viên cầu màu đen bay về đối phương. Hàn Lập dùng làm bình phong che giấu Thiên Lôi Tử màu lam.",
+    "nguon": [
+     "@c0189"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phu-bao-tieu-dao-hoang-mang-phong-nhac",
+    "name": "Phù bảo tiểu đao (hoàng mang)",
+    "category": "phap-bao",
+    "categoryLabel": "Phù bảo",
+    "phamCap": "Phù bảo",
+    "soHuu": [
+     "Phong Nhạc"
+    ],
+    "trangThai": "mat",
+    "blurb": "Tiểu đao màu vàng của Phong Nhạc, nhanh như thiểm điện vây quanh tấn công tìm sơ hở.",
+    "detail": "Tiểu đao màu vàng phát hoàng mang, được Phong Nhạc toàn lực chỉ huy vây quanh Hàn Lập tấn công nhanh như thiểm điện; phù bảo chỉ dùng được vài lần rồi thành phế thải nên Phong Nhạc coi trọng kém hơn Hoàng La Tán.",
+    "nguon": [
+     "@c0189"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dap-van-ngoa",
+    "name": "Đạp vân ngoa",
+    "aliases": [
+     "Đôi giày pháp khí (Ô Ngoa)",
+     "Linh ngoa",
+     "Ô Ngoa"
+    ],
+    "category": "linh-khi",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Pháp khí",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Đôi giày da yêu thú màu đen, nhẹ mềm dẻo dai, mở khóa thân pháp cực tốc; vốn của Phong Nhạc, Hàn Lập chiếm được.",
+    "detail": "Giày da đen làm từ da yêu thú, nhẹ mềm dẻo dai, ẩn phát linh khí; sống sót nguyên vẹn dưới Hỏa đạn thuật mà không dấu cháy nên bị nhận ra là pháp khí. Cho phép người mang bước một bước nhỏ liền phiêu ra ngoài một trượng, nhanh hơn Ngự Phong quyết nhiều, tạo nhiều ảo ảnh; kết hợp La Yên bộ và Ngự Phong quyết giúp Hàn Lập hóa gió, thoát khỏi cả Thiên Nhãn thuật chỉ hiện như bóng nhàn nhạt. Đây chính là bí mật thân pháp quỷ dị nhanh như lôi điện của Phong Nhạc; tốc độ này chỉ duy trì thời gian ngắn do thân thể còn miễn cưỡng.",
+    "nguon": [
+     "@c0190"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phu-bao-tieu-dao-nu-ao-vang",
+    "name": "Phù bảo tiểu đao (nữ áo vàng)",
+    "aliases": [
+     "Phù bảo hình tiểu đao"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Phù bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Phù lục của nữ tử áo vàng, sau khi chủ chết khôi phục thành phù bảo hình tiểu đao.",
+    "detail": "Vốn là phù lục của nữ tử áo vàng; do chủ đã chết nên khôi phục thành phù bảo hình tiểu đao. Hàn Lập nhặt được cùng gương nhỏ và Thủy tinh cầu.",
+    "nguon": [
+     "@c0190"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cu-kiem-mau-xanh-mong-de-tu",
+    "name": "Cự kiếm màu xanh",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "soHuu": [
+     "Mông đệ tử (Hắc y nhân)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Cự kiếm màu xanh của Mông đệ tử Cự Kiếm môn, dùng chống đỡ thế công hỏa lang rồi một kiếm chém chết yêu thú.",
+    "detail": "Trong trận diệt Hỏa lang ba mắt ở vùng phía tây khu trung tâm, Mông đệ tử dùng cự kiếm màu xanh gánh đại bộ phận thế công của yêu thú, sau đó một kiếm chém xuống đầu nó kết liễu.",
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phu-luc-mau-lam-bang-truy",
+    "name": "Phù lục màu lam (phù Băng Trùy)",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "soHuu": [
+     "Nữ đệ tử Yểm Nguyệt tông (Yểm Nguyệt song kiều)"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Phù lục màu lam của nữ đệ tử Yểm Nguyệt tông, biến thành mây đen hơn mười trượng và phóng vô số băng trùy phủ dày một vùng cát.",
+    "detail": "Nữ đệ tử Yểm Nguyệt tông ném phù lục lam ra sau lưng; nó hóa thành đám mây đen hơn mười trượng, hạ nhiệt vùng trời rồi phóng vô số băng trùy lớn cắm dày đặc, khiến vùng cát trở nên trong suốt nhưng vẫn không lộ mục tiêu ẩn nấp.",
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khan-lua-mau-vang-ham-van-chi",
+    "name": "Khăn lụa màu vàng (hoàng cân)",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "soHuu": [
+     "Hạm Vân Chi"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Khăn lụa màu vàng có hào quang chớp động mà cô gái áo lục nắm chặt, tựa hồ không phải vật phàm.",
+    "detail": "Khi trồi lên khỏi cát với vết thương ở vai, cô gái áo lục Linh Thú sơn nắm chặt trong tay một khăn lụa màu vàng mặt trên hào quang chớp động, dường như là pháp bảo phi phàm nàng liều mạng giữ gìn — có thể là nguyên nhân nàng bị Yểm Nguyệt tông truy sát.",
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoa-long-thao",
+    "name": "Hỏa Long thảo",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Kỳ trân dị thảo màu đỏ mọc sau thi thể Hỏa lang ba mắt, mục tiêu ba tu sĩ hợp sức hái và chia đều.",
+    "detail": "Mấy gốc cây cỏ nhỏ màu đỏ mọc sau thi thể Hỏa lang ba mắt tại hố đất vùng phía tây khu trung tâm; ba tu sĩ Cự Kiếm môn, Hướng Chi Lễ và Lý đạo trưởng hợp sức diệt yêu để hái và dự định chia đều, dù Mông đệ tử ngầm định trở mặt độc chiếm.",
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoa-xa-thuat-phu-luc",
+    "name": "Hỏa xà thuật (phù lục)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Phù lục hỏa hệ, kích phát tạo lửa thiêu đốt mục tiêu.",
+    "detail": "Phù lục hỏa hệ Hàn Lập rút ra định kích phát để thiêu chết hai con phi xà trong khu trung tâm thí luyện. Chưa kịp ném thì kẻ địch kêu dừng tay nên hắn chần chừ, một tay vẫn đặt cẩn thận tại túi trữ vật.",
+    "nguon": [
+     "@c0192"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-bang-truy",
+    "name": "Đại băng trùy",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Pháp bảo băng hệ hình trùy, đâm xuyên vật thể.",
+    "detail": "Vật dùng đâm xuyên tứ chi ba tử thi trên bức tường đá gần cửa đồng, đóng đinh họ xếp thành chữ đại như một đòn giết gà dọa khỉ lập uy.",
+    "nguon": [
+     "@c0192"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nguyet-duong-bao-chau",
+    "name": "Nguyệt dương bảo châu",
+    "cn": "月阳宝珠",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Thất đại phái"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bảo châu do tu sĩ Yểm Nguyệt tông luyện chế, không thể tấn công cũng không phòng ngự, chỉ phóng kỳ quang khắc chế sương mù độc chướng để dễ tiến vào cấm địa.",
+    "detail": "Nhờ Nguyệt dương bảo châu khắc chế sương mù, Yểm Nguyệt tông từng độc chiếm thu hoạch cấm địa, luyện nhiều Trúc Cơ đan và vươn lên thành Việt quốc đệ nhất tu tiên phái. Sau khi lục đại phái tìm tới ép, bảo châu trở thành vật chung của thất đại phái, các phái thay phiên nắm giữ và giám sát lẫn nhau khi khu trừ sương mù.",
+    "nguon": [
+     "@c0194",
+     "@c0195"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "binh-ngoc-phun-doc-vu",
+    "name": "Bình ngọc phun độc vụ",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Thượng phẩm pháp khí (phụ trợ)",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Thượng phẩm pháp khí phụ trợ phun ra độc vụ màu xanh biếc mênh mông; uy lực yếu vì người tu tiên có ngũ hành hộ tráo chống được, nhưng Hàn Lập chọn để che mắt địch nhân.",
+    "detail": "Một trong ba kiện thượng phẩm pháp khí Hàn Lập chọn ra từ chiến lợi phẩm. Bình ngọc phun ra độc vụ màu xanh biếc mênh mông làm nhiễu loạn và khiến người trúng độc, song thực chất uy lực yếu vì người tu tiên đều có ngũ hành hộ tráo chống lại được. Hàn Lập chọn nó vì độc vụ có thể tạm che mắt địch nhân, làm công cụ nghi binh.",
+    "nguon": [
+     "@c0195"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phi-dao-thuong-pham-han-lap",
+    "name": "Phi đao (thượng phẩm)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Thượng phẩm pháp khí (tấn công)",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Một trong ba kiện thượng phẩm pháp khí tấn công có uy lực lớn nhất Hàn Lập chọn ra từ chiến lợi phẩm.",
+    "detail": "Thanh phi đao là một trong ba kiện Hàn Lập chọn từ 11 món thượng phẩm pháp khí thu được, có uy lực tấn công lớn nhất.",
+    "nguon": [
+     "@c0195"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kim-bat-thuong-pham-han-lap",
+    "name": "Kim bạt (thượng phẩm)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Thượng phẩm pháp khí (tấn công)",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Một trong ba kiện thượng phẩm pháp khí tấn công có uy lực lớn nhất Hàn Lập chọn ra từ chiến lợi phẩm.",
+    "detail": "Chiếc kim bạt là một trong ba kiện Hàn Lập chọn từ 11 món thượng phẩm pháp khí thu được, có uy lực tấn công lớn nhất.",
+    "nguon": [
+     "@c0195"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "binh-nho-than-bi-han-lap",
+    "name": "Cái bình nhỏ thần bí",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Bảo vật",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bảo vật thần bí của Hàn Lập, ban đêm dùng nuôi dưỡng cây con linh dược giúp chúng trưởng thành nhanh nhiều lần.",
+    "detail": "Cái bình nhỏ thần bí là nền tảng cốt lõi trong kế hoạch hái dược của Hàn Lập. Hắn dự tính sau khi hái các cây con linh dược mà người khác coi vô dụng, sẽ dùng bình này ban đêm nuôi dưỡng cho chúng trưởng thành nhiều lần, biến cây con thành linh dược đủ tuổi để luyện Trúc Cơ đan.",
+    "nguon": [
+     "@c0196"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyet-tuyen-giao-noi-dan",
+    "name": "Huyết Tuyến giao nội đan",
+    "cn": "",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược / Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Phù Vân Tử"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Viên nội đan mà đạo sĩ Thanh Hư Phù Vân Tử đặt cược, rất khó có được, gần như tiêu tốn toàn bộ tiền tài của hắn.",
+    "detail": "Viên nội đan của Huyết Tuyến giao được Phù Vân Tử đặt cược trong cuộc đấu thí luyện cấm địa. Loại nội đan này rất khó kiếm, khiến hắn tiêu tốn gần hết tiền tài mới có được, nên khi Khung lão quái nhúng tay đánh cược hắn càng lo lắng được mất.",
+    "nguon": [
+     "@c0196",
+     "@c0211"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "tu-hau-hoa",
+    "name": "Tử Hầu hoa",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Linh dược",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Loại linh dược sản sinh ở sơn động bí mật; trăm năm trước bị hái sạch, nay chỉ còn cây con — mục tiêu hái dược của Hàn Lập.",
+    "detail": "Tử Hầu hoa là thảo dược sinh trưởng ở một sơn động bí mật trong cấm địa núi lửa. Trăm năm trước nơi này đã bị hái, nay chỉ còn cây con chưa trưởng thành mà người khác coi là vô dụng. Hàn Lập nhắm vào những cây con này để nuôi dưỡng thành linh dược đủ tuổi.",
+    "nguon": [
+     "@c0196"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "buom-vang-chung-ngo",
+    "name": "Bướm vàng truy tung",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật / Pháp khí truy tung",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Chung Ngô"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Mười mấy con bướm vàng Chung Ngô thả vào rừng núi cấm địa để truy tung Hàn Lập.",
+    "detail": "Sau khi Hàn Lập vào cấm địa, Chung Ngô thả ra mười mấy con bướm vàng bay vào rừng núi, dùng để truy tung theo dấu Hàn Lập trước khi thong thả đi theo với ý ám toán.",
+    "nguon": [
+     "@c0196"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nguyet-quang-thach",
+    "name": "Nguyệt Quang thạch",
+    "category": "khac",
+    "categoryLabel": "Vật chiếu sáng",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Viên đá to bằng quả trứng gà phát ánh sáng trắng hòa nhã, Hàn Lập dùng soi đường trong động tối.",
+    "detail": "Khi hiện ra, Nguyệt Quang thạch phát ánh sáng trắng hòa nhã chiếu rõ khu vực phụ cận. Hàn Lập lấy từ túi trữ vật để soi đường trong bí động tối. Vì ánh sáng biến hắn thành đích ngắm, hắn tạo vòng bảo hộ thổ thuộc tính rồi mới tiếp tục tiến sâu.",
+    "nguon": [
+     "@c0197"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phi-dao-mau-xanh-han-lap",
+    "name": "Phi đao màu xanh",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Thanh phi đao xanh sáng chói Hàn Lập điều khiển cắt xúc tu con rết.",
+    "detail": "Cuối chương, Hàn Lập khoát tay xuất ra một thanh phi đao màu xanh sáng chói cùng đạo kim quang hình tròn, trực tiếp cắt về phía hai xúc tu thô dài của con rết.",
+    "nguon": [
+     "@c0197"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "luoi-dao-bay-han-lap",
+    "name": "Lưỡi dao sắc bén (bẫy)",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí ẩn",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Lưỡi dao cực kỳ sắc Hàn Lập bố trí ẩn trong thông đạo làm cạm bẫy xẻ bụng con rết.",
+    "detail": "Hàn Lập bố trí một lưỡi dao cực kỳ sắc bén trong thông đạo. Khi con rết đuổi theo hắn tới nơi, bụng (bộ phận yếu nhất) bị lưỡi dao bất tri bất giác xẻ banh ra, độc huyết đen tuôn ồ ạt, tạo cơ hội cho hắn phản kích.",
+    "nguon": [
+     "@c0197"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phi-xoa-xanh-chau-tu-vang",
+    "name": "Phi xoa xanh và châu tử vàng",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Đỉnh cấp",
+    "soHuu": [
+     "Thanh niên áo lam (đệ tử Thiên Khuyết bảo)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí đỉnh cấp của thanh niên áo lam Thiên Khuyết bảo, linh quang chói mắt.",
+    "detail": "Bộ pháp khí đỉnh cấp gồm phi xoa màu xanh và châu tử màu vàng của thanh niên áo lam, tỏa linh quang chói mắt, dùng để tranh giành linh dược.",
+    "nguon": [
+     "@c0198"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "quai-truong-lao-gia-ao-xanh",
+    "name": "Quải trượng (lão giả áo xanh)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Lão giả áo xanh (cầm quải trượng)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí của lão giả áo xanh, hóa thành thanh quang cực nhanh chặn đường.",
+    "detail": "Cây quải trượng của lão giả áo xanh, khi phóng ra hóa thành thanh quang cực nhanh chặn đường thanh niên áo lam định cướp linh dược.",
+    "nguon": [
+     "@c0198"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-linh-qua",
+    "name": "Thiên Linh quả",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Linh dược",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Loại quả linh dược chưa thành thục Hàn Lập dự định tiếp tục hái.",
+    "detail": "Thiên Linh quả là loại linh quả chưa thành thục mà Hàn Lập tiếp tục sưu tập tại cấm địa.",
+    "nguon": [
+     "@c0198"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lac-tran-chau",
+    "name": "Lạc Trần châu",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập",
+     "Mã Vân Long"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí thành danh của Mã Vân Long, nay ở trong tay Hàn Lập. Là bằng chứng khiến đạo sĩ nhận ra và bảo vệ Hàn Lập khỏi bị lão giả họ Lý sát hại.",
+    "detail": "Pháp khí thành danh của Mã Vân Long — cường giả Thiên Khuyết bảo. Hiện Hàn Lập cầm giữ, vô tình khiến người khác nhầm hắn có quan hệ lớn với Mã Vân Long, nhờ đó lão giả họ Lý bỏ ý định cướp pháp khí và không dám động vào Hàn Lập.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kim-thu-tran-dai-ca",
+    "name": "Kim thư",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Trần đại công tử"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Quyển sách kim quang rực rỡ của Trần đại ca, kết hợp Ngân bút tạo uy lực lớn dọa lui đối thủ.",
+    "detail": "Pháp khí của Trần đại công tử, hình quyển sách phát ra kim quang rực rỡ. Phối hợp cùng Ngân bút thi triển ngân phù tạo uy lực lớn, khiến thanh niên Hóa Đao ổ chống không nổi phải nhận thua.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngan-but-tran-dai-ca",
+    "name": "Ngân bút",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Trần đại công tử"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Cây bút lớn bằng gỗ ngân quang lập lòe của Trần đại ca, dùng thi triển ngân phù.",
+    "detail": "Pháp khí của Trần đại công tử, là cây bút lớn bằng gỗ tỏa ngân quang lập lòe. Dùng thi triển ngân phù tạo vô số điểm sáng như sao đầy trời, kết hợp Kim thư tạo uy lực lớn.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thanh-giao-ky-luc-gia",
+    "name": "Thanh Giao kỳ (Lục gia)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Đỉnh cấp",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí đỉnh cấp vốn của tiểu tử Lục gia, bị Hàn Lập đoạt. Trần đại ca dùng làm manh mối truy tìm người cứu thất muội.",
+    "detail": "Pháp khí đỉnh cấp từng thuộc về tiểu tử Lục gia, đã bị Hàn Lập đoạt. Trần đại công tử biết người cứu thất muội có Thanh Giao kỳ nên lấy đó làm manh mối truy tìm.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phi-kiem-lam-vang-tran-thu-muoi",
+    "name": "Phi kiếm lam-vàng",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Trần sư muội"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Hai kiện phi kiếm một lam một vàng của Trần thất muội.",
+    "detail": "Hai kiện phi kiếm, một màu lam một màu vàng, là pháp khí của Trần thất muội — nữ tử thực lực yếu nhất trong phe họ Trần khi tranh linh thảo.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phi-xa-mieng-tho-chung-ngo",
+    "name": "Phi xà miệng thô",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Chung Ngô"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Phi xà miệng to như cái bát của Chung Ngô, đi kèm bầy ong vàng to lớn.",
+    "detail": "Pháp khí của Chung Ngô (Linh Thú sơn), là phi xà có miệng to như cái bát, chiến đấu cùng bầy ong vàng to lớn.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "trai-do-dai-thu-rung",
+    "name": "Trái đỏ trên đại thụ",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Linh quả",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Cây đại thụ đỏ như lửa trong rừng rậm mang vài trái đỏ to bằng nắm đấm.",
+    "detail": "Trong rừng rậm có cây đại thụ đỏ như lửa, mang vài trái đỏ to bằng nắm đấm; cô gái áo lục điều khiển tiểu điêu trắng đấu quái xà hai đầu bảo vệ nơi này.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tieu-dieu-trang-nu-ao-luc",
+    "name": "Tiểu điêu trắng",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Linh thú",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Cô gái áo lục"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Điểu nhỏ màu trắng cô gái áo lục điều khiển gian nan đấu quái xà hai đầu.",
+    "detail": "Tiểu điêu màu trắng của cô gái áo lục trong rừng rậm, được điều khiển gian nan đấu với con quái xà hai đầu cạnh cây đại thụ đỏ.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vien-hoan-mau-phan-hong",
+    "name": "Viên hoàn màu phấn hồng",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Pháp bảo cao cấp",
+    "soHuu": [
+     "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Viên hoàn to bằng ngón cái từ miệng cô gái áo trắng phun ra, đón gió phồng to bằng cái đầu, phát âm ông ông, chứa linh lực khổng lồ.",
+    "detail": "Pháp bảo của Sư tổ Yểm Nguyệt tông. Ban đầu chỉ to bằng ngón cái, khi phun ra đón gió phồng to bằng cái đầu, phát ra âm thanh ông ông, ẩn chứa linh lực khổng lồ. Dùng để dẫn dụ yêu thú đỉnh cấp Bích Thủy ngạc ra khỏi mặt nước, đồng thời ngăn được hơn phân nửa lực công kích của yêu thú, giúp diệt nó mà không tổn thương đệ tử nào.",
+    "nguon": [
+     "@c0200"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khan-lua-hoang-quang-ham-van-chi",
+    "name": "Khăn lụa hoàng quang",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Pháp khí đỉnh cấp",
+    "soHuu": [
+     "Hạm Vân Chi"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Thủ đoạn phòng hộ duy nhất của cô gái áo lục, lóe hoàng quang nhưng ảm đạm vô sắc, bị cự kiếm bạc áp đảo.",
+    "detail": "Pháp khí đỉnh cấp mà cô gái áo lục Linh Thú sơn dùng liều chết chống hán tử Cự Kiếm môn. Khi thi triển lóe hoàng quang song ảm đạm vô sắc, là thủ đoạn phòng hộ duy nhất của nàng, khó khăn chống đỡ cự kiếm màu bạc của đối thủ.",
+    "nguon": [
+     "@c0200"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "liet-duong-hoa",
+    "name": "Liệt Dương hoa",
+    "cn": "",
+    "category": "dan-duoc",
+    "categoryLabel": "Linh dược",
+    "phamCap": "Linh dược",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Loại linh dược bên trong thạch điện gần đỉnh núi mà cô gái áo lục đòi hán tử Cự Kiếm môn đưa cho vài hạt.",
+    "detail": "Linh dược quý mọc bên trong thạch điện nhỏ gần đỉnh núi trong cấm địa. Cô gái áo lục Linh Thú sơn quyết liều chết đòi hán tử Cự Kiếm môn cho vài hạt, chết cũng không tránh ra.",
+    "nguon": [
+     "@c0200",
+     "@c0203"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "kim-nhan",
+    "name": "Kim nhận",
+    "aliases": [
+     "Kim tử nhận",
+     "Tử nhận",
+     "Mẫu nhận",
+     "Bảy tử nhận"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Đỉnh cấp pháp khí",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bộ phi nhận màu vàng của Hàn Lập gồm mẫu nhận điều khiển và bảy tử nhận; được Vũ Si đánh giá là một bộ đỉnh cấp pháp khí.",
+    "detail": "Một thanh phi nhận màu vàng bay ra ngăn ngân kiếm cách đầu cô gái áo lục một trượng mà không bị hủy, tạo màn kim quang bảo hộ. Khi giao đấu, Hàn Lập rung mẫu nhận, bảy thanh tử nhận còn lại từ túi trữ vật bay ra biến thành bảy đạo kim mang, quần với cự kiếm màu bạc như bảy con kim xà quấn lấy một con cự mãng. Vũ Si đoán đây là một bộ đỉnh cấp pháp khí và khiêu chiến để đoạt lấy.",
+    "nguon": [
+     "@c0201"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khan-lua-ham-van-chi",
+    "name": "Khăn lụa (pháp khí Hạm Vân Chi)",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hạm Vân Chi"
+    ],
+    "trangThai": "hong",
+    "blurb": "Pháp khí khăn lụa của cô gái áo lục, hóa thành bánh xe để đón kiếm, bị ngân kiếm chém nát thành mảnh nhỏ.",
+    "detail": "Khi bị Vũ Si tấn công, cô gái áo lục biến khăn lụa thành bánh xe để chống đỡ, nhưng lập tức bị cự kiếm màu bạc một kiếm chém nát thành những mảnh nhỏ.",
+    "nguon": [
+     "@c0201"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thanh-ngung-kinh",
+    "name": "Thanh Ngưng kính",
+    "cn": "",
+    "aliases": [
+     "Gương nhỏ (nữ nhân nhiều bảo vật)"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Đỉnh cấp pháp khí (hộ thân)",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Gương nhỏ hộ thân pháp khí của Yểm Nguyệt song kiều, rót linh lực chiếu ánh sáng xanh vây khốn pháp khí địch giữa không trung.",
+    "detail": "Cái gương nhỏ Hàn Lập đoạt được từ nữ nhân nhiều bảo vật (từ tay Phong Nhạc). Rót linh lực vào, gương chiếu ra ánh sáng xanh, vây khốn ngân kiếm cùng các kim nhận còn lại giữa không trung không thể nhúc nhích. Đại hán chân trần kinh hãi nhận ra đây là Thanh Ngưng kính — hộ thân pháp khí của Yểm Nguyệt song kiều, khiến việc sở hữu nó trở thành họa danh tính có thể chuốc truy sát của Trưởng lão Kết đan kỳ Yểm Nguyệt tông.",
+    "nguon": [
+     "@c0202"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phi-dao-mau-lam-thuong-pham",
+    "name": "Phi đao màu lam (thượng phẩm)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Thượng phẩm pháp khí",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "hong",
+    "blurb": "Thượng phẩm pháp khí Hàn Lập bắn về phía đại hán, bị hút vào ngân kiếm nghiền nát.",
+    "detail": "Một trong hai thượng phẩm pháp khí Hàn Lập vỗ túi trữ vật lấy ra bắn về phía đại hán chân trần. Vừa tiến vào vùng sáng bạc đã bị cự kiếm màu bạc luân chuyển cuốn vào cơn lốc xoáy nghiền nát.",
+    "nguon": [
+     "@c0202"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phi-bat-mau-vang-thuong-pham",
+    "name": "Phi bạt màu vàng (thượng phẩm)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Thượng phẩm pháp khí",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "hong",
+    "blurb": "Thượng phẩm pháp khí bắn cùng phi đao, cũng bị lốc xoáy ngân kiếm nghiền nát.",
+    "detail": "Cùng phi đao màu lam, Hàn Lập bắn phi bạt màu vàng về phía đại hán. Cả hai kiện vừa tiến vào bên trong đã bị cự kiếm màu bạc cấp tốc luân chuyển cuốn vào cơn lốc xoáy nghiền nát.",
+    "nguon": [
+     "@c0202"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vong-tran-hoan",
+    "name": "Vong Trần hoàn",
+    "cn": "",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Viên thuốc sắc đỏ như lửa Hàn Lập tiện tay tự chế, dùng kết hợp Vô ưu châm pháp để xóa trí nhớ hoàn mỹ.",
+    "detail": "Vong Trần hoàn là viên thuốc có sắc đỏ như lửa, trước đây Hàn Lập tiện tay luyện chế. Khi dùng, hắn nhét viên thuốc vào miệng đối phương rồi kết hợp Vô ưu châm pháp để xóa trí nhớ đạt mức hoàn mỹ; tuy có chút nguy hiểm nhưng không gây vấn đề lớn. Trong cấm địa Huyết sắc thí luyện, hắn dùng nó cùng Vô ưu châm pháp để xóa trí nhớ nửa ngày của Hạm Vân Chi.",
+    "nguon": [
+     "@c0203"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vo-uu-cham-bo-ngan-cham",
+    "name": "Vô ưu châm (bộ ngân châm)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bộ ngân châm đựng trong hộp bạc lớn bằng bàn tay, vật Hàn Lập từng dùng châm cứu tại Thất huyền môn.",
+    "detail": "Bộ ngân châm được cất trong một hộp bạc lớn bằng bàn tay, là vật Hàn Lập từng dùng để châm cứu trong quãng thời gian ở Thất huyền môn. Đây là dụng cụ để hắn thi triển Vô ưu châm pháp; khi lấy ra, hắn hồi tưởng lại Mặc đại phu, Lịch Phi Vũ cùng cuộc sống quá khứ tại Thải hà sơn và Thần thủ cốc.",
+    "nguon": [
+     "@c0203"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hop-vang-kim-hap-dam-lay",
+    "name": "Hộp vàng (kim hạp)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Bảo vật",
+    "phamCap": "Phi phàm (không phải vật phàm)",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Chiếc hộp vàng dài chừng một hai trượng lơ lửng trên tiểu đình bạch ngọc giữa đầm lầy, đóng chặt, ngoài có kim quang lưu động — mục tiêu tranh đoạt.",
+    "detail": "Ở trung gian thế giới đầm lầy dưới địa đạo có một tiểu đình bạch ngọc, trên không lơ lửng một hộp vàng dài chừng một hai trượng, rộng cỡ nửa trượng, đang đóng chặt, bên ngoài có kim quang lưu động — rõ ràng không phải vật phàm. Nó trở thành tâm điểm tranh đoạt giữa Hàn Lập và đám Yểm Nguyệt tông tiến vào đầm lầy.",
+    "nguon": [
+     "@c0204"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chu-tuoc-hoan",
+    "name": "Chu tước hoàn",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp bảo hình vòng tròn của cô gái sư tổ Yểm Nguyệt tông, biến lớn như căn phòng, luân chuyển thành lửa đỏ tụ mấy trăm hỏa cầu.",
+    "detail": "Chu tước hoàn là pháp bảo hình vòng tròn được cô gái sư tổ Yểm Nguyệt tông phun ra, bay lên không trung đầm lầy, biến lớn như căn phòng và luân chuyển thành ngọn lửa đỏ rực tụ thành mấy trăm hỏa cầu to bằng nắm tay, làm nhiệt độ tăng cao. Có thể biến mất rồi hiện thân, chụp giam thân yêu thú Mặc Giao trong lửa đỏ, kết hợp với Hồng viêm thuật để bùng nổ sức mạnh. Việc khu sử được pháp bảo này khiến Hàn Lập nghĩ cô gái phải là Kết đan kỳ.",
+    "nguon": [
+     "@c0205"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cai-hop-vat-can-tim-yem-nguyet-tong",
+    "name": "Cái hộp (vật cần tìm)",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Vật cô gái sư tổ Yểm Nguyệt tông lẩm bẩm rằng thứ thật sự cần tìm nằm bên trong “cái hộp này”, còn những thứ trước chỉ là rác rưởi.",
+    "detail": "Cô gái sư tổ Yểm Nguyệt tông lẩm bẩm rằng vật thật sự cần tìm nằm bên trong “cái hộp này”, còn những thứ trước đây chỉ là rác rưởi — gợi mở mục tiêu thật của Yểm Nguyệt tông tại cấm địa.",
+    "nguon": [
+     "@c0205"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chu-tuoc-hoan-nam-cung",
+    "name": "Chu tước hoàn (pháp bảo viên hoàn)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Pháp bảo",
+    "soHuu": [
+     "Nam Cung Uyển"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp bảo viên hoàn của Nam Cung sư tổ, có thể phun liệt hỏa, phóng lớn đỡ đòn và vây khốn yêu thú.",
+    "detail": "Pháp bảo viên hoàn hình dạng chu tước của Nam Cung sư tổ Yểm Nguyệt tông. Có thể phun liệt hỏa, phóng lớn để đỡ chất lỏng tím của Mặc Giao và vây khốn giữ chặt yêu thú. Là vũ khí duy nhất gây được chút thống khổ cho Mặc Giao sau khi nó tiến hóa bậc hai.",
+    "nguon": [
+     "@c0206"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kim-ti-phu",
+    "name": "Kim ti phù",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phù lục",
+    "phamCap": "Trung cấp bậc trung",
+    "soHuu": [
+     "Nam Cung Uyển"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Phù lục trung cấp bậc trung hóa thành kim quang rồi phân vô số sợi tơ vàng quấn chặt yêu thú một lúc.",
+    "detail": "Nam Cung sư tổ dùng Kim ti phù kích phát thành kim quang, phân ra vô số sợi tơ vàng quấn chặt Mặc Giao. Trong chốc lát đã trói được yêu thú, nhưng chỉ giữ được một lúc trước khi mất hiệu.",
+    "nguon": [
+     "@c0206"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tieu-ngu-hanh-phu",
+    "name": "Tiểu ngũ hành phù",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phù lục",
+    "phamCap": "Trung cấp bậc thấp",
+    "soHuu": [
+     "Triệu sư muội (nữ tử áo trắng)"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Phù lục trung cấp bậc thấp dán ở lối vào, phát động Tiểu ngũ hành tu di cấm pháp phong bế thông đạo.",
+    "detail": "Triệu sư muội dán Tiểu ngũ hành phù ở lối vào định hại Mặc Giao, nhưng phù phát động cấm pháp phong bế khiến hai bên thông đạo đá ép sát kín mít, vô tình nhốt Nam Cung sư tổ và Hàn Lập bên trong.",
+    "nguon": [
+     "@c0206"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoa-linh-thach-nam-cung",
+    "name": "Hỏa linh thạch (màu đỏ)",
+    "cn": "",
+    "category": "linh-khi",
+    "categoryLabel": "Linh thạch",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Nam Cung Uyển"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Linh thạch màu đỏ Nam Cung sư tổ dùng để hấp nạp linh khí phục hồi pháp lực.",
+    "detail": "Hỏa linh thạch màu đỏ được Nam Cung sư tổ dùng để hấp nạp linh khí phục hồi pháp lực trong lúc chiến đấu với Mặc Giao.",
+    "nguon": [
+     "@c0206"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cac-phu-luc-trung-cap-nam-cung",
+    "name": "Thổ độn phù / Thủy lao phù / Hỏa điểu phù",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Phù lục",
+    "phamCap": "Trung cấp",
+    "soHuu": [
+     "Nam Cung Uyển"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Các phù lục trung cấp khó gặp Nam Cung sư tổ xuất ra tạo hiệu ứng đặc biệt chuyển nguy thành an.",
+    "detail": "Nam Cung sư tổ liên tiếp xuất ra nhiều phù lục trung cấp khó gặp gồm Thổ độn phù, Thủy lao phù, Hỏa điểu phù... tạo các hiệu ứng đặc biệt để đối phó Mặc Giao, khiến Hàn Lập âm thầm kiêng dè.",
+    "nguon": [
+     "@c0206"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hop-vang-lo-lung-bach-ngoc",
+    "name": "Hộp vàng (lơ lửng trên bạch ngọc)",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Bảo vật",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Cái hộp vàng lơ lửng trên bạch ngọc mà Nam Cung sư tổ tiếc nuối, dự định lấy sau.",
+    "detail": "Một cái hộp vàng lơ lửng trên khối bạch ngọc trong khu chiến đấu. Nam Cung sư tổ tiếc nuối nhìn nó nhưng đành để lại, dự định sau này hãy tính; báo hiệu bảo vật quan trọng chưa thu được.",
+    "nguon": [
+     "@c0206"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "binh-thuy-tinh-thu-nguyen-than",
+    "name": "Bình thủy tinh thu nguyên thần",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Cô gái (Sư tổ Yểm Nguyệt tông)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bình nhỏ của cô gái bắn hắc khí kéo nguyên thần Mặc Giao ra và giam vào.",
+    "detail": "Cô gái lấy một bình thủy tinh nhỏ, niệm chú bắn ra mấy cổ hắc khí quấn thân Mặc Giao, kéo hình ảnh Mặc Giao nhỏ màu xanh (nguyên thần) thu vào bình. Cô mặt mày hớn hở cho thấy nguyên thần này rất giá trị.",
+    "nguon": [
+     "@c0207"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vien-chau-vang-co-gai",
+    "name": "Viên châu màu vàng (ám khí cô gái)",
+    "category": "khac",
+    "categoryLabel": "Ám khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Cô gái (Sư tổ Yểm Nguyệt tông)"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Viên châu vàng cô gái ném nổ thành khói vàng khống chế đầu Mặc Giao.",
+    "detail": "Cô gái ném một viên châu màu vàng, nổ tung thành khói vàng bao phủ đầu Mặc Giao, khiến nó ngừng phun dung dịch tím, tạo cơ hội cho kim chuyên hạ xuống.",
+    "nguon": [
+     "@c0207"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dung-dich-tim-mac-giao",
+    "name": "Dung dịch màu tím của Mặc Giao",
+    "category": "khac",
+    "categoryLabel": "Chất tiết yêu thú",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "da-dung",
+    "blurb": "Độc dịch màu tím Mặc Giao phun ra chặn kim chuyên, Hàn Lập kiêng kị.",
+    "detail": "Mặc Giao phun dung dịch màu tím chặn kim quang chuyên khiến nó không hạ xuống được; đây là độc dịch Hàn Lập kiêng kị.",
+    "nguon": [
+     "@c0207"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vien-cau-do-nghi-giao-dan",
+    "name": "Viên cầu màu đỏ (nghi giao đan)",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "hong",
+    "blurb": "Cầu đỏ mềm nhũn lớn bằng nắm tay moi từ bụng Mặc Giao, tự nổ phun sương hồng.",
+    "detail": "Hàn Lập moi từ bụng Mặc Giao ra viên cầu màu đỏ lớn bằng nắm tay. Cô gái nghi không phải nội đan thật vì Mặc Giao mới tiến hóa bậc hai và thuộc tính thủy thì nội đan phải màu lam. Khi cô vuốt nhẹ vài cái, viên cầu tự nổ tung phun ra sương khói màu hồng bao trùm cả hai.",
+    "nguon": [
+     "@c0207"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tai-lieu-than-mac-giao",
+    "name": "Tài liệu thân Mặc Giao",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Cao cấp",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Toàn thân Mặc Giao là tài liệu trân quý: da, sừng-móng, đan dịch.",
+    "detail": "Cô gái giải thích Mặc Giao tuy mới tiến hóa bậc hai nhưng toàn thân là tài liệu quý: da có thể luyện hộ giáp, sừng-móng luyện đỉnh cấp pháp khí, đan dịch luyện đan dược. Đáng tiếc chưa tiến hóa bậc ba nên không có nội giao đan.",
+    "nguon": [
+     "@c0207"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tui-dam-nang-thoi-tinh-mac-giao",
+    "name": "Túi dâm nang (thôi tình khí của Mặc Giao)",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Mặc Giao"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Túi chứa thôi tình vụ khí của Mặc Giao, chạm vào lập tức nổ tung.",
+    "detail": "Túi dâm nang của Mặc Giao, con súc sinh này thực ra là Hùng Giao hiếm thấy. Túi chứa thôi tình vụ khí, giống cái tiếp xúc sẽ lập tức nổ tung; thành phần mê dược trong đó rất ít, gây hôn mê cỡ năm sáu canh giờ. Chính là viên cầu khiến Hàn Lập và nữ tử hợp hoan; nữ tử sơ sẩy chạm phải nên nổ tung.",
+    "nguon": [
+     "@c0208"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hop-vang-bach-ngoc-dinh",
+    "name": "Hộp vàng (bạch ngọc đình)",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Nữ tử tuyệt sắc (nữ tu Kết đan kỳ)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Hộp vàng đặt phía trước bên bạch ngọc đình, nữ tử thu vào túi trữ vật.",
+    "detail": "Hộp vàng đặt phía trước bên bạch ngọc đình. Nữ tử đòi lấy, Hàn Lập không dám tranh; nàng thu hộp vàng vào túi trữ vật thuận lợi. Công dụng chưa rõ.",
+    "nguon": [
+     "@c0208"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tui-tru-vat-de-tu-linh-thu-son",
+    "name": "Túi trữ vật (của đệ tử Linh thú sơn)",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Túi trữ vật Hàn Lập đoạt được sau khi giết một đệ tử Linh thú sơn không đầu.",
+    "detail": "Sau khi giết một đệ tử Linh thú sơn ngoài cấm địa, Hàn Lập có thêm một túi trữ vật trong tay; hắn liếc qua rồi lắc đầu.",
+    "nguon": [
+     "@c0209"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyet-lan-tram-nam",
+    "name": "Huyết lan trăm năm",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược / Linh dược",
+    "phamCap": "Linh dược trăm năm",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Loại linh dược trưởng thành trăm năm, đạo sĩ Thanh Hư môn ra ba gốc trong đổ cục.",
+    "detail": "Linh dược trưởng thành khoảng trăm năm, được vị trung niên đạo sĩ Thanh Hư môn bày ra ba gốc trong cuộc đổ cục hái thuốc ở cấm địa.",
+    "nguon": [
+     "@c0210"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-linh-qua-linh-duoc",
+    "name": "Thiên linh quả (300 năm)",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược / Linh dược",
+    "phamCap": "Linh dược ba trăm năm",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Quả linh dược trưởng thành ba trăm năm, ra hai quả trong đổ cục.",
+    "detail": "Linh dược trưởng thành khoảng ba trăm năm, đạo sĩ Thanh Hư môn bày ra hai quả trong cuộc đổ cục.",
+    "nguon": [
+     "@c0210"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngoc-tuy-chi",
+    "name": "Ngọc tủy chi",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược / Linh dược",
+    "phamCap": "Linh dược bốn trăm năm",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Loại linh dược trưởng thành bốn trăm năm, ra ba gốc trong đổ cục.",
+    "detail": "Linh dược trưởng thành khoảng bốn trăm năm, đạo sĩ Thanh Hư môn bày ra ba gốc trong cuộc đổ cục hái thuốc ở cấm địa.",
+    "nguon": [
+     "@c0210"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-thu-ngui-mui-do-cuc",
+    "name": "Linh thú ngửi mùi",
+    "category": "khac",
+    "categoryLabel": "Kỳ thú",
+    "phamCap": "Linh thú kiểm tra",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Kỳ thú mỗi phái dẫn theo, trong phạm vi ba trượng ngửi ra bất kỳ linh dược trên trăm năm kể cả trong túi trữ vật.",
+    "detail": "Mỗi phái dẫn theo một hai con linh thú này để kiểm tra đệ tử ra khỏi cấm địa; trong phạm vi ba trượng có thể ngửi ra bất kỳ linh dược trên trăm năm dù được cất giấu trong túi trữ vật, khiến đệ tử không thể giấu thu hoạch.",
+    "nguon": [
+     "@c0210"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thiet-tinh",
+    "name": "Thiết tinh",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Lý Sư Tổ"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Vật liệu quý mà Lý sư tổ hứa đưa hai khối cho Khung lão quái khi thua cuộc.",
+    "detail": "Vật đặt cược khi Lý sư tổ thua cược với Khung lão quái. Lý sư tổ chủ động đáp ứng trong vòng hai mươi năm sẽ cho người đem hai khối thiết tinh tới.",
+    "nguon": [
+     "@c0211"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngan-kiem",
+    "name": "Ngân kiếm",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "khong-ro",
+    "blurb": "Thanh kiếm bạc của đệ tử Cự kiếm môn chân trần trong câu chuyện Hàn Lập bịa ra.",
+    "detail": "Xuất hiện trong câu chuyện trai cò tương tranh ngư ông đắc lợi mà Hàn Lập bịa để giải thích việc tìm được linh dược: một đệ tử Cự kiếm môn chân trần cầm ngân kiếm tranh đấu với người mặt đầy sẹo của Thiên khuyết bảo.",
+    "nguon": [
+     "@c0211"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bich-quang-dao",
+    "name": "Bích quang đao",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Pháp khí",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Thanh trường đao đỉnh cấp linh quang lấp lóe, Lý Hóa Nguyên tặng Hàn Lập làm lễ gặp mặt khi thu ký danh đệ tử.",
+    "detail": "Pháp khí trường đao chất lượng cao, linh quang lấp lóe, được Lý Hóa Nguyên trao cho Hàn Lập như lễ gặp mặt trong nghi thức bái ký danh sư phụ, xem như minh chứng cho danh phận mới của hắn trong Hoàng phong cốc.",
+    "nguon": [
+     "@c0212"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khoi-loi-cung-thu",
+    "name": "Khôi lỗi cung thủ",
+    "aliases": [
+     "con rối cung thủ"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Thượng phẩm pháp khí",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Con rối gỗ điêu khắc sống động, mặc thiết giáp cầm trường cung đồng phát ngân quang; cần bí thuật phân thần mới khu sử.",
+    "detail": "Con rối bằng gỗ điêu khắc sống động, khoác thiết giáp thiết khôi, tay cầm trường cung đồng phát ánh ngân quang — thuộc thượng phẩm pháp khí. Muốn khu sử phải dùng bí thuật phân thân, rót một tia thần thức vào rối, nên chỉ tu sĩ Trúc cơ kỳ trở lên mới dùng được; Hàn Lập lúc này chưa thử dùng.",
+    "nguon": [
+     "@c0213"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "to-giay-mau-bac",
+    "name": "Tờ giấy màu bạc",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm bí ẩn",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chiến lợi phẩm từ đại hán Cự kiếm môn; mặt lồi lõm nhiều hoa văn kỳ lạ thần bí, chưa giải được.",
+    "detail": "Vật lấy được từ đại hán chân trần của Cự kiếm môn trong cấm địa. Bề mặt lồi lõm với nhiều hoa văn kỳ lạ thần bí; Hàn Lập cân nhắc nửa ngày không hiểu công dụng, đành tạm cất và vừa nghiên cứu vừa chờ dịp giải mã.",
+    "nguon": [
+     "@c0213"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngan-kiem-phe-vat",
+    "name": "Ngân kiếm phế vật",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí (hỏng)",
+    "phamCap": "Phế vật",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "hong",
+    "blurb": "Một thanh ngân kiếm phế vật trong số chiến lợi phẩm thu được ở cấm địa.",
+    "detail": "Thanh ngân kiếm đã hỏng, nằm trong số thu hoạch của Hàn Lập từ cấm địa cùng linh thạch và tài liệu các loại.",
+    "nguon": [
+     "@c0213"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chuong-linh-phap-khi",
+    "name": "Chuông linh",
+    "aliases": [
+     "pháp khí linh đang"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí phát tiếng chuông; Hàn Lập dùng để khua tỉnh đại hán ngốc nghếch ở Nhạc lộc điện.",
+    "detail": "Một kiện pháp khí dạng chuông linh của Hàn Lập, được hắn dùng để khua đánh thức đại hán đang ngủ gật trong thông đạo Nhạc lộc điện.",
+    "nguon": [
+     "@c0213"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "truc-co-dan-thanh-pham",
+    "name": "Trúc cơ đan",
+    "cn": "",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Đan dược mục tiêu Hàn Lập chuẩn bị nhiều năm để luyện chế.",
+    "detail": "Đan dược Hàn Lập dồn công chuẩn bị mấy năm để tự luyện chế. Hắn tự nhận là tay mơ nên tính mỗi lần chỉ luyện một viên, chuẩn bị linh dược đủ luyện cả trăm lần để tích lũy kinh nghiệm, lường trước sẽ thất bại nhiều.",
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lenh-tien-mau-tim",
+    "name": "Lệnh tiễn màu tím",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Lệnh phù",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Đại hán ngốc nghếch (dẫn đường Địa Hỏa Chi Ốc)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Lệnh phù dùng mở cửa vào khu ổ thạch đạo của Địa Hỏa Chi Ốc.",
+    "detail": "Vật đại hán dùng bắn tia sáng vào cửa đá nhiều màu để kích hoạt, mở ra thông đạo ổ thạch đen ngòm cao hơn trượng dẫn vào Địa Hỏa Chi Ốc.",
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngoc-bai-mau-trang-gian-19",
+    "name": "Ngọc bài màu trắng (gian mười chín)",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Lệnh bài",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chìa mở và phong bế cửa phòng luyện đan gian mười chín.",
+    "detail": "Ngọc bài trắng dùng mở và phong bế cửa đá trắng của phòng luyện đan gian mười chín; đại hán giao Hàn Lập tự giữ. Khi cửa đóng, phòng đoạn tuyệt liên hệ với ngoại giới trừ khi vài tu sĩ Kết đan kỳ hợp lực mới vào được.",
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ho-lo-chua-hoa-tinh",
+    "name": "Hồ lô chứa hỏa tinh",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật phụ trợ luyện đan",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Hồ lô cỡ nắm tay chứa hỏa tinh, treo trên vách phòng luyện đan.",
+    "detail": "Các hồ lô cỡ nắm tay treo trên vách gian mười chín, chứa hỏa tinh dùng gia tăng uy lực địa hỏa khi nhiệt độ chưa đủ, nhưng hiệu lực chỉ kéo dài trong thời gian ngắn.",
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-thach-bac-trung-hoa",
+    "name": "Linh thạch bậc trung (thuộc tính hỏa)",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Linh thạch",
+    "phamCap": "Bậc trung",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Linh thạch hỏa thuộc tính bậc trung, hấp nạp linh khí nhanh hơn nhiều linh thạch bậc thấp.",
+    "detail": "Khối linh thạch hỏa thuộc tính bậc trung Hàn Lập đưa cho đại hán để nhờ an bài phòng luyện đan. Theo quy ước một trăm linh thạch bậc thấp mới đổi được một khối bậc trung, nhưng hiếm ai chịu đổi vì bậc trung hấp nạp linh khí nhanh hơn nhiều.",
+    "nguon": [
+     "@c0214",
+     "@c0229"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "ich-coc-dan",
+    "name": "Ích cốc đan",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Đan dược chống đói, ăn vào duy trì được khoảng một tháng không cần tiến thực.",
+    "detail": "Đan chống đói mà Hàn Lập đổi được một bình từ lão nhân nơi phòng địa hỏa, mượn cớ ra ngoài thu thập thảo dược trăm năm. Nhờ Ích cốc đan hắn duy trì thêm được một tháng để tiếp tục luyện chế Trúc cơ đan không gián đoạn.",
+    "nguon": [
+     "@c0215"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phe-dan-lam-nhat",
+    "name": "Phế đan (vụn màu lam nhạt)",
+    "category": "khac",
+    "categoryLabel": "Khác",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Vụn đan màu lam nhạt còn sót lại từ những lần luyện Trúc cơ đan chưa ngưng thành công.",
+    "detail": "Trong những lần luyện đan thất bại, đỉnh còn lại vô số vụn bể nát màu lam nhạt là phế đan chưa ngưng đan. Hàn Lập không vứt bỏ mà cẩn thận thu vào hộp ngọc, dự phòng về sau còn có thể có công dụng khác.",
+    "nguon": [
+     "@c0215"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phap-khi-han-lap-gia-ngu",
+    "name": "Pháp khí (Hàn Lập giá ngự)",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí bay Hàn Lập cưỡi khi rời Nhạc Lộc điện.",
+    "detail": "Pháp khí Hàn Lập giá ngự bay trên trời khi rời Nhạc Lộc điện sau khi trùng quan thành công vào Trúc cơ kỳ.",
+    "nguon": [
+     "@c0216"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "me-tung-ky",
+    "name": "Mê tung kỳ",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Lá cờ nhỏ cỡ bàn tay vẽ năm đỉnh núi bị sương mù che phủ, dùng để bày Mê tung pháp trận khai mở động phủ.",
+    "detail": "Trận kỳ nhỏ cỡ bàn tay, trên vẽ năm đỉnh núi bị sương mù che phủ, tỏa linh khí quỷ dị cổ quái. Chung Linh Đạo giao cho Hàn Lập cùng ngọc giản hướng dẫn để bày Mê tung pháp trận bảo vệ động phủ mới lập.",
+    "nguon": [
+     "@c0219"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngoc-diep-trang-danh-sach",
+    "name": "Ngọc điệp trắng (danh sách động phủ)",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Chung Linh Đạo"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Ngọc điệp trắng ghi danh sách đệ tử; Chung Linh Đạo dùng bút cán vàng điền tên Hàn Lập để hắn có động phủ danh chính ngôn thuận.",
+    "detail": "Danh sách đệ tử được lưu trên ngọc điệp trắng. Chung Linh Đạo dùng bút cán vàng điền tên Hàn Lập vào phía dưới cùng để hắn được cấp động phủ một cách danh chính ngôn thuận.",
+    "nguon": [
+     "@c0219"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngoc-gian-huong-dan-tran",
+    "name": "Ngọc giản hướng dẫn trận pháp",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Ngọc giản chứa thủ pháp bày và thao túng trận, điều chú ý sau Trúc Cơ, và tiến cử loài Song đồng thử.",
+    "detail": "Ngọc giản Chung Linh Đạo trao cho Hàn Lập, bên trong ghi thủ pháp bày và thao túng trận pháp, các điều cần chú ý sau khi Trúc Cơ, cùng tiến cử loài yêu thú Song đồng thử — thứ khiến Hàn Lập đổi hướng đến Kỳ lân các.",
+    "nguon": [
+     "@c0219"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "qua-tho-le",
+    "name": "Quả thổ lê",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Loại quả vàng Song đồng thử thích ăn nhất, đựng trong túi trắng.",
+    "detail": "Quả thổ lê là loại quả màu vàng mà Song đồng thử thích ăn nhất, được nữ đệ tử Kỳ lân các đựng trong túi trắng giao cho Hàn Lập khi cho thuê con thú. Hàn Lập dùng thổ lê để dụ và điều khiển con thú lần theo tìm hang.",
+    "nguon": [
+     "@c0220"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-nhan-chi-vat",
+    "name": "Linh nhãn chi vật",
+    "aliases": [
+     "Linh nhãn chi tuyền",
+     "Linh nhãn chi thạch",
+     "Linh nhãn chi thụ"
+    ],
+    "category": "khac",
+    "categoryLabel": "Bảo vật linh khí",
+    "phamCap": "Bảo vật quý (chia theo cấp)",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bảo vật quý sản sinh nơi linh khí nồng đậm, khiến các môn phái tranh đoạt điên cuồng; gồm nhiều loại như thạch, thụ, tuyền.",
+    "detail": "Linh nhãn chi vật là bảo vật quý sinh ra ở nơi linh khí nồng đậm, mỗi lần xuất hiện đều gây gió tanh mưa máu vì các môn phái tranh đoạt điên cuồng. Chúng gồm nhiều loại: linh nhãn chi thạch, linh nhãn chi thụ, linh nhãn chi tuyền. Tại Việt quốc chúng sớm đã rơi vào tay thất đại phái; Hoàng Phong Cốc từng có hai khối linh nhãn chi thạch, ba khối linh nhãn chi thụ, bảy linh nhãn chi tuyền và hơn mười linh nhãn chi vật, bị các tu sĩ Kết đan kỳ và lão tổ Nguyên Anh kỳ chia hết. Hàn Lập tình cờ tìm được một linh nhãn chi tuyền nhất cấp nhỏ đến đáng thương ở phụ cận đỉnh núi và dùng nó làm động phủ, giúp tăng tốc tu luyện hơn nửa thành.",
+    "nguon": [
+     "@c0221"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tran-ky-tran-ban",
+    "name": "Trận kỳ / trận bàn",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí bố trận",
+    "phamCap": "Pháp khí bố trận",
+    "soHuu": [
+     "Thiên Tinh Tông"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí dựa vào để bố trí trận pháp mà không cần tu luyện trận đạo, chỉ cần linh thạch là mua được.",
+    "detail": "Trận kỳ và trận bàn là loại pháp khí cho phép tu sĩ bố trí trận pháp mà không cần dành hàng chục năm tu luyện trận đạo. Dù không tạo được cấm pháp đại trận, chúng đủ dùng cho các trận phòng thủ tầm thường, lấy số lượng bù chất lượng. Thiên Tinh Tông của Nguyên Vũ Quốc nổi danh nhờ luyện chế và bày bán loại pháp khí này, chỉ cần có linh thạch là có thể mua được. Đây là mục tiêu chính khiến Hàn Lập lặn lội tới phường thị của tông môn.",
+    "nguon": [
+     "@c0221"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dinh-cap-phap-khi-tinh-pham",
+    "name": "Đỉnh cấp pháp khí (tinh phẩm)",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Đỉnh cấp",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Loại pháp khí cao cấp, giá động đến vài trăm linh thạch bậc thấp; tinh phẩm là mức cao nhất trong đỉnh cấp.",
+    "detail": "Pháp khí đỉnh cấp có giá trị rất cao, chỉ động đến cũng phải vài trăm linh thạch bậc thấp, người tu tiên bình thường gom cả đời chưa chắc mua nổi một kiện. Luyện chế đỉnh cấp pháp khí cần hỏa lực mạnh như tiên thiên chân hỏa hoặc địa hỏa, tương tự khi luyện Trúc Cơ đan. Hàn Lập tới gian hàng luyện khí đòi xem tinh phẩm của đỉnh cấp pháp khí nhưng tiệm chỉ có loại bình thường, nên hắn giao tài liệu để Từ lão giả luyện chế.",
+    "nguon": [
+     "@c0222"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoa-van-kiem",
+    "name": "Hỏa Vân Kiếm",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "Pháp khí",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Kiện pháp khí là vật phẩm đầu tiên do bản điếm chủ trì đưa ra đấu giá tại cạnh mại hội của bí điếm.",
+    "detail": "Hỏa Vân Kiếm được một trung niên nam tử cao gầy vẻ mặt khôn khéo bước ra giới thiệu, mở màn chuỗi đấu giá của cạnh mại hội ngầm mà Hàn Lập tham dự.",
+    "nguon": [
+     "@c0223"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khoi-loi-co-quan-thu",
+    "name": "Khôi lỗi cơ quan thú",
+    "cn": "",
+    "aliases": [
+     "đôi khôi lỗi thú",
+     "khôi lỗi thú"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo (thượng cấp)",
+    "phamCap": "Thượng cấp pháp khí (khôi lỗi thú cấp hai)",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Một cặp khôi lỗi màu đen sáng bóng, kích cỡ bằng nắm tay, ngoại hình hao hao sư tử-hổ; thực lực ngang tu sĩ Luyện Khí kỳ tầng chín.",
+    "detail": "Cặp khôi lỗi cơ quan thú là thượng cấp pháp khí do khôi lỗi cơ quan thuật chế thành, xếp vào khôi lỗi thú cấp hai theo phân cấp chính thức. Thân màu đen sáng bóng, kích cỡ bằng nắm tay, hình dáng hao hao giữa sư tử và hổ nhưng không rõ nguyên hình quái thú. Thực lực ngang tu sĩ Luyện Khí kỳ tầng chín, tuyệt đối trung thành và hung dữ không sợ chết. Được rao bán tại phiên đấu giá bí điếm, bị hai quái nhân đẩy giá bất thường tới trên chín trăm linh thạch kèm bảo vật.",
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hong-la-thien-lo",
+    "name": "Hồng La Thiên lô",
+    "cn": "",
+    "aliases": [],
+    "category": "khac",
+    "categoryLabel": "Đan lô",
+    "phamCap": "Đan lô đỉnh cấp",
+    "soHuu": [
+     "Nữ tu sĩ Trúc Cơ kỳ (mua Hồng La Thiên lô)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Đan lô đỉnh cấp màu hỏa hồng được luyện khí sư yêu quí, từng truyền qua nhiều luyện khí đại sư.",
+    "detail": "Hồng La Thiên lô là đan lô đỉnh cấp màu hỏa hồng, được giới luyện khí sư trân quí nhất, từng qua tay nhiều luyện khí đại sư và luyện chế ra hàng loạt tinh phẩm pháp khí như Huyễn Âm kiếm, Thanh Giao kỳ, Hắc Viêm châu. Nghe nói lô này gia tăng thành công suất luyện chế. Tại phiên đấu giá bí điếm được bán với tám trăm năm mươi mốt linh thạch. Chi tiết Thanh Giao kỳ trong tay Hàn Lập cũng xuất từ đan lô này khiến hắn kinh ngạc.",
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyen-am-kiem",
+    "name": "Huyễn Âm kiếm",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí (tinh phẩm)",
+    "phamCap": "Tinh phẩm pháp khí",
+    "soHuu": [],
+    "trangThai": "khong-ro",
+    "blurb": "Tinh phẩm pháp khí được nêu là từng luyện chế bằng Hồng La Thiên lô.",
+    "detail": "Huyễn Âm kiếm được nhắc tên như một trong các tinh phẩm pháp khí từng ra đời từ đan lô Hồng La Thiên lô, dùng để minh chứng đẳng cấp và giá trị của đan lô này trong phiên đấu giá bí điếm.",
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hac-viem-chau",
+    "name": "Hắc Viêm châu",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí (tinh phẩm)",
+    "phamCap": "Tinh phẩm pháp khí",
+    "soHuu": [],
+    "trangThai": "khong-ro",
+    "blurb": "Tinh phẩm pháp khí được nêu là từng luyện chế bằng Hồng La Thiên lô.",
+    "detail": "Hắc Viêm châu được nhắc tên như một trong các tinh phẩm pháp khí từng luyện chế bằng đan lô Hồng La Thiên lô, dùng làm dẫn chứng cho giá trị đan lô trong phiên đấu giá bí điếm.",
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "do-vat-trao-doi-nguoi-khoi-ngo",
+    "name": "Đồ vật trao đổi của người khôi ngô",
+    "cn": "",
+    "aliases": [],
+    "category": "khac",
+    "categoryLabel": "Vật phẩm trao đổi",
+    "phamCap": "Trị giá mấy ngàn linh thạch",
+    "soHuu": [
+     "Người khôi ngô đội mũ xanh biếc"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Món đồ được nói trị giá mấy ngàn linh thạch mà người khôi ngô dùng thêm vào giá để đổi cặp khôi lỗi thú.",
+    "detail": "Trong lúc quýnh lên giành cặp khôi lỗi cơ quan thú, người khôi ngô đội mũ xanh biếc lôi ra một món đồ được nói trị giá mấy ngàn linh thạch, cộng thêm chín trăm linh thạch để ép bí điếm giao khôi lỗi thú ngay. Bản chất và công năng cụ thể của món đồ chưa được tiết lộ.",
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoang-tinh-chi-ngan-nam",
+    "name": "Hoàng Tinh chi ngàn năm",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Linh dược",
+    "phamCap": "Linh dược đỉnh cấp",
+    "soHuu": [
+     "Hàn Lập",
+     "Vạn Bảo lâu"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Gốc linh dược đỉnh cấp ngàn năm, gần trăm năm mới hiện thế vài lần, dùng luyện linh đan để đột phá cảnh giới. Một trong hai gốc do Hàn Lập tự nuôi dưỡng, từng bán cho Vạn Bảo lâu.",
+    "detail": "Gốc dược thảo ngàn năm quý hiếm, gần trăm năm mới hiện thế vài lần, được dùng để luyện linh đan phục vụ đột phá cảnh giới. Đựng trong hộp ngọc xanh biếc, khi mở ra tỏa dược hương nồng đậm tràn ngập đại sảnh. Tại buổi đấu giá bí điếm, nam tử cao gầy đưa ra làm vật cuối cùng với giá khởi điểm năm trăm linh thạch, các tu sĩ tranh nhau hô giá từ một ngàn vượt hai ngàn linh thạch. Hàn Lập nhận ra đây chính là một trong hai gốc do chính mình nuôi dưỡng và từng bán cho Vạn Bảo lâu.",
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hop-ngoc-xanh-biec-dung-linh-duoc",
+    "name": "Hộp ngọc xanh biếc",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Hộp đựng",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Nam tử cao gầy (chủ trì bí điếm)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Hộp ngọc màu xanh biếc dùng đựng gốc Hoàng Tinh chi ngàn năm tại buổi đấu giá bí điếm.",
+    "detail": "Hộp bằng ngọc xanh biếc có vỏ bọc rút ra được, dùng để đựng và bảo quản gốc Hoàng Tinh chi ngàn năm. Khi mở ra, dược hương của linh dược tràn ngập đại sảnh đấu giá.",
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bo-bo-tran-phap-khi-dien-dao-ngu-hanh",
+    "name": "Bộ bố trận pháp khí Điên Đảo Ngũ Hành Trận (tàn phẩm)",
+    "category": "khac",
+    "categoryLabel": "Khí cụ trận pháp",
+    "phamCap": "Tàn phẩm (một phần mười uy lực)",
+    "soHuu": [
+     "Tề Vân Tiêu"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bộ khí cụ pháp khí hóa của kỳ trận Điên Đảo Ngũ Hành Trận, hiện chưa thành công, chỉ phát huy một phần mười uy lực nguyên trận.",
+    "detail": "Là mục tiêu Hàn Lập muốn đổi lấy bằng thiên niên linh dược, dù chỉ còn một phần mười công hiệu vẫn đủ dùng cho động phủ đơn giản. Thanh niên hứa vài năm sẽ nâng lên tối thiểu nửa uy lực.",
+    "nguon": [
+     "@c0226"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-nien-tu-que-hoa",
+    "name": "Thiên niên Tử Quế Hoa",
+    "category": "dan-duoc",
+    "categoryLabel": "Linh dược",
+    "phamCap": "Thiên niên linh dược",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Dược thảo trên nghìn năm giá trị không thấp hơn Hoàng Tinh Chi.",
+    "detail": "Hàn Lập lấy ra làm vật mặc cả với thanh niên trận pháp sư, không mở hộp ngay mà đòi đối phương nói rõ dùng vật gì trao đổi.",
+    "nguon": [
+     "@c0226"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyen-nguyet-thach",
+    "name": "Huyễn Nguyệt Thạch",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Khoáng thạch / linh vật",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Viên đá được tu sĩ Trúc Cơ kỳ dùng kèm hai ngàn linh thạch để đấu được thiên niên dược thảo.",
+    "detail": "Xuất hiện trong đấu giá mật điếm như vật thanh toán bổ sung cho thiên niên linh thảo.",
+    "nguon": [
+     "@c0226"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngoc-gian-phuong-phap-bo-tran-dien-dao",
+    "name": "Ngọc Giản (phương pháp bố trận Điên Đảo Ngũ Hành Trận)",
+    "cn": "",
+    "aliases": [],
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Ngọc Giản ghi phương pháp bố trí bộ pháp khí Điên Đảo Ngũ Hành Trận.",
+    "detail": "Ngọc Giản ghi lại phương pháp bố trí bộ bố trận pháp khí Điên Đảo Ngũ Hành Trận gồm trận bàn và trận kỳ, để đại trận phát sinh hiệu lực. Tề Vân Tiêu giao cho Hàn Lập cùng bộ pháp khí và quyển Vân Tiêu Tâm Thuật trong giao dịch đổi lấy thiên niên linh dược.",
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-nien-linh-duoc-trong-hop",
+    "name": "Thiên niên linh dược (trong hộp)",
+    "cn": "",
+    "aliases": [],
+    "category": "dan-duoc",
+    "categoryLabel": "Linh dược",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Linh dược ngàn năm trong hộp của Hàn Lập, dược hương đầy linh khí; dùng trao đổi lấy bộ pháp khí và Vân Tiêu Tâm Thuật.",
+    "detail": "Linh dược ngàn năm trong hộp của Hàn Lập, dược hương tỏa ra đầy linh khí. Hàn Lập mở hộp cho Tề Vân Tiêu ngửi nhưng giữ chặt không cho lấy, ám thị đòi giao hàng trước; cuối cùng dùng làm vật trao đổi lấy bộ bố trận pháp khí Điên Đảo Ngũ Hành Trận, Ngọc Giản và quyển Vân Tiêu Tâm Thuật.",
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vo-cung-ngo-cong",
+    "name": "Vỏ cứng của ngô công",
+    "cn": "",
+    "aliases": [],
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Vỏ ngoài của yêu thú loại độc trùng thượng cấp bậc một, hiếm; là tài liệu luyện khí rất tốt.",
+    "detail": "Vỏ cứng ngoài của một yêu thú thuộc loại độc trùng thượng cấp bậc một, rất hiếm. Lão giả tóc bạc chủ tiệm Luyện khí nhận định là tài liệu luyện khí thượng cấp thích hợp làm hộ giáp, thuẫn bài, có thể luyện thành đỉnh cấp pháp khí; ngay khi chưa chế luyện đã có thể ngạnh tiếp một kích của đỉnh giai pháp khí. Hàn Lập lấy ra bán cho lão nhưng chặn lại vì còn tài liệu khác chưa lấy ra.",
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-phong-chau",
+    "name": "Thần Phong Châu",
+    "cn": "",
+    "aliases": [
+     "Thần Phong chu"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Pháp khí phi hành cao cấp",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Thuyền nhỏ màu trắng luyện từ vẩy và da Mặc Giao, biến lớn thành thuyền độc mộc chở mấy người, tốc độ cực nhanh nhưng không có năng lực phòng vệ.",
+    "detail": "Pháp khí phi hành do Từ lão luyện từ vẩy và da giao long Mặc Giao. Khi Hàn Lập dùng pháp quyết màu xanh, thuyền trắng biến thành thuyền độc mộc như thật chở được mấy người, đưa hắn lên không trung; tốc độ hiếm có, chỉ dùng nửa tốc độ cũng về động phủ trong một thời thần. Nhược điểm là không chở được nhiều người và không có năng lực phòng vệ. Hàn Lập rất hài lòng, thay thế pháp khí hình chiếc lá chậm chạp cũ, và đánh giá so với Thiên Nguyệt Thần Châu của Yểm Nguyện Tông.",
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hai-vien-cau-xanh-do-may-che-giau",
+    "name": "Hai viên cầu xanh-đỏ",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Cặp cầu xanh và đỏ của Hàn Lập, đập vào nhau tạo cụm mây xanh đỏ đường kính hơn mười trượng bao trùm và giấu kín thân ảnh.",
+    "detail": "Hai viên cầu — một xanh một đỏ — khi đập vào nhau đồng thời tuôn ra một cụm khói xanh đỏ đường kính hơn mười trượng, bao trùm và che giấu thân ảnh Hàn Lập khỏi tầm nhìn để hắn an toàn quan sát trận chiến dưới đất.",
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tai-lieu-mac-giao",
+    "name": "Tài liệu Mặc Giao",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Nguyên liệu quý",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Da giao long, vẩy, sừng, răng nanh, nhãn châu, lợi trảo từ thân Mặc Giao — nguyên liệu quý dùng luyện chế pháp khí.",
+    "detail": "Bộ nguyên liệu luyện khí lấy từ thân con giao long Mặc Giao gồm da, vẩy, sừng, răng nanh, nhãn châu, lợi trảo. Vì giao long là thiên địa yêu thú đã biến mất từ lâu ở tu tiên giới nên tài liệu cực quý; Hàn Lập giao cho Từ lão luyện chế, trong đó vẩy và da dùng chế Thần Phong Châu.",
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phap-khi-hinh-la-co-tron-chay",
+    "name": "Pháp khí hình lá cờ (tu sĩ bị vây)",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí hình lá cờ một tu sĩ Trúc Cơ dùng để thoát ly hộ trạo bay ra ngoài định trốn chạy khỏi vòng vây khôi lỗi.",
+    "detail": "Pháp khí phòng ngự hình lá cờ mà một vị tu sĩ trong nhóm bị vây dùng để tăng phòng hộ và thoát ly hộ trạo hợp lực bay ra ngoài trốn chạy; nhưng vừa ra khỏi liền bị siêu cấp quang trụ bắn trúng.",
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dao-thuong-khoi-loi-can-chien",
+    "name": "Đao thương khôi lỗi cận chiến",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Pháp khí cấp thấp",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Binh khí sáng lòa trong tay khôi lỗi cận chiến mang trọng khải, xác thực là pháp khí cấp thấp.",
+    "detail": "Đao thương do đám khôi lỗi cận chiến (người máy mang trọng khải) cầm khi vây công nhóm Trúc Cơ tu sĩ; binh khí sáng lòa, được Hàn Lập nhận ra là pháp khí cấp thấp.",
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thanh-hoa-chuong",
+    "name": "Thanh Hỏa Chướng",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Kỳ môn pháp khí",
+    "phamCap": "Đỉnh cấp pháp khí (đôi)",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Đôi đỉnh cấp pháp khí kỳ môn của Hàn Lập, luyện từ mắt giao long, hóa thành sương mù xanh đỏ vừa che dấu thân ảnh vừa mang độc.",
+    "detail": "Hai đỉnh cấp pháp khí luyện chế từ mắt giao long, hóa thành sương mù xanh đỏ che dấu thân ảnh khiến người khác không nắm chắc vị trí. Được nhúng máu còn sót của Mạc Giao nên có thể khiến kẻ tiếp xúc chóng mặt nhức đầu, từ từ trúng độc mà không hay biết. Hàn Lập dùng nó ẩn mình trên không, đưa toàn bộ vân chướng xuyên nhập tầng mây xám để giấu thân triệt để.",
+    "nguon": [
+     "@c0229"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cu-ho-khoi-loi-ho-khong-lo",
+    "name": "Cự Hổ (khôi lỗi hổ khổng lồ)",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Khôi lỗi cơ quan thú",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Nam tử khôi vũ (Thiên Trúc Giáo)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Khôi lỗi hổ khổng lồ cao năm sáu trượng của nam tử khôi vũ, phun quang trụ bạch sắc siêu cấp uy lực cực lớn từ miệng.",
+    "detail": "Khôi lỗi hổ cao đến năm sáu trượng, phun quang trụ bạch sắc siêu cấp uy lực cực lớn từ hàm dưới sau khi ngưng tụ bạch quang. Trên đầu hổ có cửa bí mật để nạp linh thạch bậc trung thuộc tính hỏa làm nhiên liệu; một kích toàn lực tiêu hao trọn nguyên một khối linh thạch bậc trung. Nam tử khôi vũ ngồi trên đầu hổ điều khiển, dùng nó bắn chết đám tu sĩ Nguyên Vũ Quốc.",
+    "nguon": [
+     "@c0229"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khoi-loi-bo-ha-cu-ho",
+    "name": "Khôi lỗi bộ hạ (đám khôi lỗi máy)",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Khôi lỗi máy",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Nam tử khôi vũ (Thiên Trúc Giáo)"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Các khôi lỗi máy công kích hộ trạo đám tu sĩ, rút lui khi Cự Hổ khai hỏa.",
+    "detail": "Đám khôi lỗi máy do nam tử khôi vũ điều khiển, ban đầu công kích hộ trạo đám tu sĩ Nguyên Vũ Quốc; khi Cự Hổ chuẩn bị phun quang trụ thì được lệnh dừng tay rút lui.",
+    "nguon": [
+     "@c0229"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hac-ti-co",
+    "name": "Hắc Ti Cổ",
+    "category": "khac",
+    "categoryLabel": "Độc / cổ trùng",
+    "phamCap": "Kỳ độc",
+    "soHuu": [
+     "Hoàng Long"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Kỳ độc Hoàng Long phải ngàn cay vạn đắng mới cầu được từ Cổ Độc Tông. Được gieo qua hai lỗ máu trên cổ tay Lâm sư huynh, khó thanh trừ, thiết kế để trói buộc đối phương chờ phát tác.",
+    "detail": "Hắc Ti Cổ là kỳ độc Hoàng Long cầu được từ Cổ Độc Tông với ngàn cay vạn đắng. Hắn cấy nó vào Lâm sư huynh qua cái bắt tay giả vui mừng, để lại hai lỗ máu sâu cỡ cây đũa trên cổ tay đối phương. Loại độc này khó thanh trừ, được dùng làm mắt xích then chốt trong bẫy của Kim Giáo Chủ nhằm trói buộc Lâm sư huynh chờ độc phát tác. Lâm sư huynh kịp bức máu độc rồi uống bột phấn vàng trong bình ngọc xanh lục để giải.",
+    "nguon": [
+     "@c0230"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "binh-ngoc-xanh-luc-bot-phan-vang",
+    "name": "Bình ngọc màu xanh lục chứa bột phấn vàng",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược / giải độc",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Lâm sư huynh"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Bình ngọc màu xanh lục đựng bột phấn vàng dùng để giải độc. Lâm sư huynh đổ toàn bộ bột vào miệng để giải Hắc Ti Cổ.",
+    "detail": "Bình ngọc màu xanh lục chứa bột phấn vàng, là vật giải độc của Lâm sư huynh. Khi trúng Hắc Ti Cổ, hắn bức máu độc ra rồi đổ toàn bộ bột phấn vàng trong bình vào miệng để hóa giải kỳ độc từ Cổ Độc Tông.",
+    "nguon": [
+     "@c0230"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chiec-binh-nho-than-bi",
+    "name": "Chiếc bình nhỏ thần bí",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Dị bảo",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bảo vật bí ẩn của Hàn Lập có khả năng thúc linh dược trưởng thành nhanh, giúp luyện đan bù đắp tư chất kém.",
+    "detail": "Được Hàn Lập xác định là lợi thế then chốt trên con đường tiến lên Kết Đan: nhờ khả năng thúc linh dược trưởng thành, hắn có thể luyện đan để bù cho tư chất tu luyện kém của mình. Hắn coi đây là chỗ dựa để mưu tính đường tu luyện lâu dài.",
+    "nguon": [
+     "@c0231"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "truc-bai-xanh-biec",
+    "name": "Trúc bài xanh biếc",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hoàng Long"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Kiện trúc bài lớn màu xanh biếc nổi bồng bềnh trên không, chở nhóm sáu bảy người Thiên Trúc giáo tới tấn công động phủ Hàn Lập.",
+    "detail": "Pháp bảo bay của Thiên Trúc giáo: một trúc bài xanh biếc cỡ lớn lơ lửng giữa không trung, trên đó có Hoàng Long dẫn đầu cùng đôi nam nữ và bốn huynh đệ song sinh. Nó là bệ đứng cho nhóm công kích đại trận động phủ Hàn Lập.",
+    "nguon": [
+     "@c0231"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tui-tru-vat-lam-su-huynh",
+    "name": "Túi trữ vật (Lâm sư huynh)",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Lâm sư huynh"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Túi trữ vật trên áo xác Lâm sư huynh mà Hàn Lập lục tìm, kỳ vọng chứa khôi lỗi.",
+    "detail": "Khi lật thi thể Lâm sư huynh, Hàn Lập lục túi trữ vật trên áo hắn với hy vọng tìm được khôi lỗi. Chính lúc đó thần hồn Lâm sư huynh hóa đoàn sáng màu lục từ áo bay ra định đoạt xá.",
+    "nguon": [
+     "@c0231"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hai-goc-duoc-tai-sau-bay-tram-nam",
+    "name": "Hai gốc dược tài sáu bảy trăm năm",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Linh dược / Dược thảo",
+    "phamCap": "Sáu bảy trăm năm",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Hai gốc linh dược lâu năm Hàn Lập dùng làm mồi thu hút Lôi Vạn Hạc.",
+    "detail": "Hai gốc dược tài đã dùng khoảng sáu, bảy trăm năm, mua từ bên ngoài tốn không ít linh thạch, linh khí bức người. Hàn Lập lấy ra từ trữ tàng thất, nhờ Lôi Vạn Hạc xem giúp thật giả và tuổi linh dược, thực chất dùng làm mồi tạo quan hệ giao hảo với tu sĩ Kết Đan kỳ.",
+    "nguon": [
+     "@c0234"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phap-khi-hop-ngoc-dung-thuoc",
+    "name": "Pháp khí hộp ngọc (hộp đựng thuốc)",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí cất chứa",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Pháp khí cất chứa linh dược, chỉ giữ dược lực tạm thời.",
+    "detail": "Dùng cất chứa linh dược nhưng chỉ giữ tạm thời; để thời gian dài thì dược lực từ từ tiêu tán, nên động phủ tu tiên thường bố trí trữ tàng thất riêng để giữ dược tính vĩnh viễn.",
+    "nguon": [
+     "@c0234"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngoc-gian-cam-doan-than-thuc",
+    "name": "Ngọc giản (ghi phương pháp cấm đoạn thần thức)",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm ghi chép",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Ngọc giản ghi rõ đặc điểm biến hóa cấm đoạn thần thức của trận pháp.",
+    "detail": "Ghi rõ biến hóa cấm đoạn thần thức của Điên Đảo Ngũ Hành trận cực đơn giản dễ dàng, luyện chế pháp khí thì uy lực giống hoàn toàn chính bản — công hiệu duy nhất có thể sánh với chính bản.",
+    "nguon": [
+     "@c0234"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tang-nguyen-dan",
+    "name": "Tăng Nguyên đan",
+    "cn": "",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Loại đan dược Lôi Vạn Hạc muốn khai lô luyện chế để phụ trợ đột phá bình cảnh.",
+    "detail": "Đan dược mà Lôi Vạn Hạc dự tính luyện chế nhằm hỗ trợ vượt qua bình cảnh Kết Đan kỳ. Đòi hỏi chủ dược là linh dược đã ngoài năm trăm năm; nếu dùng linh thảo không đủ năm tuổi thì công hiệu suy giảm đáng kể. Đây là lý do lão thèm khát hai gốc linh thảo sáu-bảy trăm năm của Hàn Lập.",
+    "nguon": [
+     "@c0235",
+     "@c0236"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "hai-goc-linh-thao-sau-bay-tram-nam",
+    "name": "Hai gốc linh thảo (sáu-bảy trăm năm)",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Hai gốc linh thảo trân phẩm của Hàn Lập, được phán đoán đủ sáu-bảy trăm năm.",
+    "detail": "Hai gốc dược tài quý mà Hàn Lập sở hữu; Lôi Vạn Hạc vừa nhìn đã đoán đủ sáu, bảy trăm năm tuổi, thuộc loại trân phẩm khó tìm. Là vật trục tâm điểm của cuộc mặc cả trong chương: Hàn Lập dùng chúng làm giá đổi lấy một phương pháp luyện đan thích hợp.",
+    "nguon": [
+     "@c0235"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-thao-ngan-nam-bi-diem",
+    "name": "Linh thảo ngàn năm (bí điếm)",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "",
+    "soHuu": [],
+    "trangThai": "khac",
+    "blurb": "Gốc linh thảo ngàn năm Hàn Lập kể (nửa thật nửa giả) từng thấy ở bí điếm, dùng làm mồi kích Lôi Vạn Hạc.",
+    "detail": "Gốc linh thảo ngàn năm mà Hàn Lập kể mình từng thấy ở một bí điếm nhưng vô lực mua nổi, đành trơ mắt nhìn người khác mua đi. Câu chuyện nửa thật nửa giả này được Hàn Lập tung ra để kích động lòng tham và sự tiếc nuối của Lôi Vạn Hạc, dọn đường cho cuộc trao đổi.",
+    "nguon": [
+     "@c0235"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chu-linh-thao",
+    "name": "Chu Linh thảo",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Linh thảo",
+    "soHuu": [
+     "Hàn Lập",
+     "Lôi Vạn Hạc"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Loại linh thảo Hàn Lập có hai cây, dùng làm vật trao đổi phương thuốc cổ với Lôi Vạn Hạc.",
+    "detail": "Hàn Lập sở hữu hai gốc Chu Linh thảo. Trong cuộc giao dịch với Lôi Vạn Hạc, hai bên chốt dùng một gốc Chu Linh thảo đổi một cách điều chế phương thuốc cổ. Lôi Vạn Hạc thu nhận linh thảo để về luyện chế Tăng Nguyên đan của mình.",
+    "nguon": [
+     "@c0236"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-linh-dan",
+    "name": "Tụ Linh đan",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Phương thuốc cổ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Một trong hai phương thuốc cổ Hàn Lập chọn được từ mục lục của Lôi Vạn Hạc.",
+    "detail": "Phương điều chế đan dược cổ mà Hàn Lập chọn từ ngọc giản mục lục phương thuốc do Lôi Vạn Hạc đưa. Cùng với Luyện Khí tán, đây là kết quả cuộc trao đổi đổi Chu Linh thảo lấy cách điều chế.",
+    "nguon": [
+     "@c0236"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "luyen-khi-tan",
+    "name": "Luyện Khí tán",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Phương thuốc cổ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Phương thuốc cổ thứ hai Hàn Lập chọn từ mục lục phương thuốc của Lôi Vạn Hạc.",
+    "detail": "Phương điều chế đan dược cổ Hàn Lập chọn từ ngọc giản mục lục do Lôi Vạn Hạc cung cấp, bên cạnh Tụ Linh đan. Lôi Vạn Hạc lôi ra ngọc giản riêng ghi phương này để giao cho Hàn Lập.",
+    "nguon": [
+     "@c0236"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngoc-gian-muc-luc-phuong-thuoc",
+    "name": "Ngọc giản mục lục phương thuốc",
+    "category": "khac",
+    "categoryLabel": "Khác",
+    "phamCap": "Ngọc giản",
+    "soHuu": [
+     "Lôi Vạn Hạc"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Ngọc giản Lôi Vạn Hạc đưa Hàn Lập, chứa danh sách phương thuốc kèm tính năng và nguyên liệu cần dùng.",
+    "detail": "Lôi Vạn Hạc đưa cho Hàn Lập một ngọc giản ghi mục lục các phương thuốc cổ của mình, kèm mô tả tính năng đan dược và nguyên liệu cần dùng. Nhờ đó Hàn Lập chọn được Tụ Linh đan và Luyện Khí tán, đồng thời thắc mắc lão hoàn thành mục lục này lúc nào.",
+    "nguon": [
+     "@c0236"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "truyen-am-phu",
+    "name": "Truyền Âm phù",
+    "category": "khac",
+    "categoryLabel": "Phù lục",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Tờ phù dùng để truyền tin. Hàn Lập thấp giọng nói vào rồi ném đi, phù hóa thành đạo hỏa quang vọt vào màn nước báo tin đến động phủ.",
+    "detail": "Hàn Lập dùng khi tới trước động phủ Lý Hóa Nguyên: thấp giọng nói mấy câu vào tờ phù rồi ném ra, phù hóa thành một đạo hỏa quang vọt vào màn nước để báo tin. Sau một nén nhang thì Vu Khôn ra đón.",
+    "nguon": [
+     "@c0237"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-duoc-thien-dia",
+    "name": "Linh dược thiên địa",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập",
+     "Lý Hóa Nguyên"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Số linh dược thiên địa Hàn Lập từng có, bị Lý Hóa Nguyên lấy đi một nửa lấy danh nghĩa thu đồ; phần còn lại được luyện đan cứu mạng phu nhân của lão.",
+    "detail": "Lý Hóa Nguyên thu Hàn Lập làm đồ đệ vì tham số linh dược thiên địa này, lấy đi một nửa (nếu không Hàn Lập đã nhận hai viên Trúc Cơ đan thay vì một). Về sau chính số linh dược đó được luyện đan trong mấy năm để cứu chữa phu nhân của lão bị tu luyện sai lầm suýt mất mạng.",
+    "nguon": [
+     "@c0238"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kho-cong-phap-tang-thu-that",
+    "name": "Kho công pháp Tàng thư thất",
+    "category": "khac",
+    "categoryLabel": "Kho công pháp",
+    "phamCap": "",
+    "soHuu": [
+     "Lý Hóa Nguyên"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Năm sáu mươi kiện ngọc giản, sách, hộp nổi lơ lửng tản kỳ quang, là công pháp Lý Hóa Nguyên thu thập mấy trăm năm.",
+    "detail": "Bên trong Tàng thư thất có năm, sáu mươi kiện ngọc giản, sách, hộp và bộ sách nổi lơ lửng tản kỳ quang đủ màu, là công pháp Lý Hóa Nguyên thu thập trong mấy trăm năm. Mỗi món đều bị hạ cấm chế bảo vệ.",
+    "nguon": [
+     "@c0239"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "quyen-sach-mau-bac",
+    "name": "Quyển sách màu bạc",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm bí ẩn",
+    "phamCap": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Quyển sách Hàn Lập đang giữ, bề mặt có hoa văn cổ quái; khi bị nung, bề mặt tan chảy để lộ một lớp sách màu vàng bên trong không sợ lửa.",
+    "detail": "Quyển sách màu bạc Hàn Lập đang giữ, tên gọi trước đây là Tờ giấy màu bạc, bề mặt có hoa văn cổ quái, nặng và dày hơn quyển sách màu vàng. Khi Hàn Lập dùng liệt hỏa đỏ hồng nung, bề mặt tan chảy để lộ ra quang mang màu vàng — một quyển sách màu vàng ẩn bên trong không sợ lửa đốt.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "quyen-sach-mau-vang-ngung-nguyen",
+    "name": "Quyển sách màu vàng (Ngưng Nguyên công)",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm",
+    "phamCap": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Quyển sách màu vàng Hàn Lập chọn làm chủ công pháp, kích cỡ giống hệt sách bạc nhưng mỏng hơn, ghi Ngưng Nguyên công và Tụ Linh thuật.",
+    "detail": "Quyển sách màu vàng đựng trong hộp ngọc mà Hàn Lập chọn làm chủ công pháp ở Tàng thư thất. Hình dáng kích cỡ giống hệt quyển sách màu bạc hắn đang giữ, chỉ mỏng hơn và bề mặt phủ cổ văn dày đặc, ghi lại pháp quyết bình thường Ngưng Nguyên công cùng thần thông phụ trợ Tụ Linh thuật. Sự giống nhau về hình dáng khiến Hàn Lập nảy nghi hoặc.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "quyen-sach-mau-vang-an-trong-sach-bac",
+    "name": "Quyển sách màu vàng ẩn trong sách bạc",
+    "category": "khac",
+    "categoryLabel": "Vật phẩm bí ẩn",
+    "phamCap": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Quyển sách vàng lộ ra sau khi nung chảy bề mặt sách bạc, dạy phi kiếm và kiếm quang, không sợ lửa và nuốt trọn kiếm quang xanh của Hàn Lập.",
+    "detail": "Quyển sách màu vàng lộ ra sau khi Hàn Lập nung chảy bề mặt quyển sách màu bạc. Nội dung dạy điều khiển phi kiếm và Kiếm tu chi thuật tu luyện kiếm quang. Sách không sợ lửa đốt, không biến hóa; khi Hàn Lập quăng lên không và đánh một đạo kiếm quang xanh to như cái bát để tiêu hủy thì kiếm quang biến mất vô ảnh vô tung như bị sách nuốt, khiến hắn từ kinh hãi chuyển sang phấn chấn.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
    }
   ]
  },
  "techniques": {
   "updatedAt": "2026-06-11",
-  "count": 45,
+  "count": 121,
   "techniques": [
    {
     "id": "vo-danh-khau-quyet",
@@ -11854,9 +20000,14 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0043",
      "c0047",
      "c0048",
-     "c0075"
+     "c0075",
+     "@c0188"
     ],
-    "rank": "C"
+    "tabs": {},
+    "aliases": [
+     "La yên bộ"
+    ],
+    "rank": "B"
    },
    {
     "id": "ma-ngan-thu",
@@ -11932,7 +20083,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "nguon": [
      "c0067",
      "c0068",
-     "c0075"
+     "c0075",
+     "@c0190"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Hỏa đạn thuật"
     ],
     "rank": "C"
    },
@@ -11954,7 +20110,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0068",
      "c0088",
      "c0096",
-     "c0126"
+     "c0126",
+     "@c0190"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Thiên Nhãn thuật"
     ],
     "rank": "B"
    },
@@ -12032,7 +20193,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0074",
      "c0075",
      "c0084",
-     "c0087"
+     "c0087",
+     "@c0192"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Ngự phong quyết"
     ],
     "rank": "B"
    },
@@ -12342,9 +20508,11 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "blurb": "Thuật thu giấu pháp lực, làm bản thân trông như người phàm hoặc đệ tử pháp lực yếu. Ngô Phong truyền cho Hàn Lập trước khi hắn vào phường thị chuẩn bị Huyết Cấm Thí Luyện — giúp tránh bị cao thủ tiêu diệt trước vì lộ pháp lực.",
     "detail": "Hàn Lập học từ Ngô Phong tại c161. Mục đích thực tế: giảm rủi ro trong môi trường Huyết Cấm Thí Luyện và phường thị đông đảo tu tiên giả.",
     "nguon": [
-     "c0161"
+     "c0161",
+     "@c0181"
     ],
-    "rank": "D"
+    "tabs": {},
+    "rank": "C"
    },
    {
     "id": "phong-tuong-thuat",
@@ -12495,12 +20663,1313 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0180"
     ],
     "rank": "D"
+   },
+   {
+    "id": "thu-phap-khu-thu-linh-thu-son",
+    "name": "Thủ pháp khu thú Linh thú sơn",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông khu sử",
+    "phamCap": "Không rõ",
+    "hePhai": "Linh thú sơn",
+    "soHuu": [],
+    "blurb": "Thủ đoạn điều khiển thú-trùng cổ quái, bí truyền của đệ tử Linh thú sơn.",
+    "detail": "Thủ pháp khu sử thú vật và côn trùng cổ quái, quỷ dị, là sở trường bí mật của Linh thú sơn. Trong chương thể hiện qua việc hai đệ tử khu sử bầy bươm bướm biến màu làm lưới cảnh giới sống; Hàn Lập kiêng kị thủ đoạn này nên chọn đi vòng để tránh bị phát hiện.",
+    "nguon": [
+     "@c0181"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "liem-tuc-thuat",
+    "name": "Liễm tức thuật",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Thuật thu liễm pháp lực bản thân, khiến người khác dùng thần niệm cũng không tìm ra khí tức.",
+    "detail": "Thuật thu liễm khí tức: người dùng ém pháp lực khiến thần niệm đối phương không dò thấy dị thường. Hàn Lập dựa vào việc thần niệm không phát hiện linh khí bất thường để suy ra không có người dùng Liễm tức thuật nấp gần.",
+    "nguon": [
+     "@c0182"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khinh-cong-tuyet-the",
+    "name": "Khinh công tuyệt thế (thế tục)",
+    "cn": "",
+    "loai": "luyen-the",
+    "loaiLabel": "Võ công thế tục",
+    "phamCap": "Võ công thế tục",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Võ công khinh công thế tục của Hàn Lập; dù có cũng không đủ để trèo qua vách núi cao dựng đứng của Nhất tuyến thiên.",
+    "detail": "Được nhắc khi Hàn Lập cân nhắc thoát khỏi thế bị chặn — dù có khinh công thế tục cũng không dám trèo lên vách núi cao vòi vọi hai bên Nhất tuyến thiên.",
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ti-tuyen-thu-doan-giet-vo-hinh",
+    "name": "Ti tuyến trong suốt (thủ đoạn giết vô hình)",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Thủ đoạn giết vô hình của Hàn Lập: cách không vung tay như chào hỏi, đối phương thấy cổ ngứa như muỗi cắn rồi đầu lìa, người chia hai.",
+    "detail": "Hàn Lập sử dụng ti tuyến trong suốt để cách không giết chết địch; từng dùng xử lý một người tầng mười hai, ở đây chém đầu người Thiên khuyết bảo chỉ trong nháy mắt.",
+    "nguon": [
+     "@c0184"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khien-dan-thuat",
+    "name": "Khiên dẫn thuật",
+    "loai": "than-thong",
+    "loaiLabel": "Pháp thuật cảm ứng",
+    "phamCap": "Không rõ",
+    "hePhai": "Hoàng Phong cốc",
+    "soHuu": [
+     "Chung Linh Đạo"
+    ],
+    "blurb": "Pháp thuật cảm ứng do Chưởng môn Chung Linh Đạo thi triển cho đệ tử Hoàng Phong cốc, giúp cảm ứng vị trí đồng môn trong phạm vi để trợ giúp nhau.",
+    "detail": "Trước khi xuất phát, Chưởng môn Chung Linh Đạo thi triển Khiên dẫn thuật cho đệ tử Hoàng Phong cốc, cho phép đệ tử trong phạm vi cảm ứng vị trí lẫn nhau nhằm hợp lực tăng khả năng chiến thắng; hiệu lực kéo dài mười ngày. Các phái khác cũng có pháp thuật tương tự. Chính nhờ pháp thuật này mà nữ áo vàng tìm được nơi ẩn thân của Hàn Lập.",
+    "nguon": [
+     "@c0186"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bang-mau-thuat",
+    "name": "Băng Mâu Thuật",
+    "loai": "bi-thuat",
+    "loaiLabel": "Phù lục thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Phong Nhạc"
+    ],
+    "blurb": "Phù lục thuật của Phong Nhạc, hóa thành một mâu bằng băng trong suốt nghênh đón.",
+    "detail": "Phong Nhạc dùng phù lục Băng Mâu Thuật hóa thành một mâu bằng băng trong suốt, chấn bay ba bốn viên Hỗn Nguyên Châu; các viên vỡ đóng băng tạo thành mưa băng.",
+    "nguon": [
+     "@c0189"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bang-truy-thuat-yem-nguyet-tong",
+    "name": "Băng Trùy thuật",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "hePhai": "Yểm Nguyệt tông",
+    "soHuu": [
+     "Nữ đệ tử Yểm Nguyệt tông (Yểm Nguyệt song kiều)",
+     "Nam đệ tử Yểm Nguyệt tông"
+    ],
+    "blurb": "Thuật băng của đệ tử Yểm Nguyệt tông, tạo ra băng trùy đâm vào đất cát để lùng sục mục tiêu ẩn nấp.",
+    "detail": "Cặp đệ tử Yểm Nguyệt tông dùng Băng Trùy thuật đâm băng trùy vào đất cát vùng phía nam khu trung tâm suốt nửa ngày để tìm cô gái áo lục ẩn dưới cát, nhưng không phát hiện được nàng.",
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thach-phu-thuat",
+    "name": "Thạch Phu thuật",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thuật trời sinh của yêu thú",
+    "phamCap": "Cấp thấp",
+    "hePhai": "Thôi Sơn thú (yêu thú)",
+    "soHuu": [
+     "Thôi Sơn thú"
+    ],
+    "blurb": "Thuật trời sinh của yêu thú Thôi Sơn thú, phủ hộ giáp nham thạch trắng sáng lên toàn thân khi lâm chiến.",
+    "detail": "Thôi Sơn thú — yêu thú cấp thấp thường gặp trên núi lửa — trời sinh biết Thạch Phu thuật. Khi lâm chiến, toàn thân nó phủ một lớp hộ giáp nham thạch trắng sáng lên để phòng ngự.",
+    "nguon": [
+     "@c0196"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vong-bao-ho-tho-thuoc-tinh",
+    "name": "Vòng bảo hộ thổ thuộc tính",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông phòng hộ",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Vòng bảo hộ thuộc tính thổ tạo quanh người để phòng thân khi đi trong bóng tối, đổi lại giảm nhiều sự nhanh nhẹn.",
+    "detail": "Hàn Lập vỗ nhẹ tạo một vòng bảo hộ thổ thuộc tính quanh người khi đi trong động tối cho an tâm. Đổi lại, lớp phòng hộ này khiến hắn giảm nhiều sự linh hoạt, nên trước khi khiêu khích con rết hắn đã bỏ vòng bảo hộ để né tránh.",
+    "nguon": [
+     "@c0197"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-ho-bo",
+    "name": "Linh Hồ bộ",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thân pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Thanh Hư môn",
+    "soHuu": [
+     "Phù Vân Tử"
+    ],
+    "blurb": "Thân pháp bộ pháp của trung niên đạo sĩ Thanh Hư môn, cực nhanh, chớp mắt vượt qua bám sát sau lưng đối phương ngoài một trượng.",
+    "detail": "Phù Vân Tử thi triển Linh Hồ bộ, chỉ trong chớp mắt đã vượt qua khoảng cách bám sau lưng thanh niên áo lam để cảnh cáo, được lão giả áo xanh khen xuất thần nhập hóa.",
+    "nguon": [
+     "@c0198"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngan-phu-thuat-tran-dai-ca",
+    "name": "Ngân phù",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông / phù pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Trần thị gia tộc / Hoàng Phong cốc",
+    "soHuu": [
+     "Trần đại công tử"
+    ],
+    "blurb": "Phù pháp Trần đại ca thi triển bằng Ngân bút, tạo vô số điểm sáng như sao đầy trời phủ khắp thiên địa.",
+    "detail": "Trần đại công tử dùng Ngân bút thi triển ngân phù, kim quang khắp trời đất tạo vô số điểm sáng như sao đầy trời, kết hợp Kim thư tạo uy lực lớn dọa lui phe đối thủ tranh linh thảo.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "am-duong-khien-dan-thuat",
+    "name": "Âm Dương Khiên Dẫn thuật",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật hợp kích",
+    "phamCap": "Bí pháp hợp kích Yểm Nguyệt tông",
+    "hePhai": "Yểm Nguyệt tông",
+    "soHuu": [
+     "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)"
+    ],
+    "blurb": "Bí pháp hợp kích mới luyện thành của đệ tử Yểm Nguyệt tông: từng đôi đồng loạt ra tay, lực sát thương bằng đệ tử Trúc Cơ kỳ toàn lực tấn công một kích.",
+    "detail": "Pháp thuật hợp kích được đệ tử Yểm Nguyệt tông sử dụng theo cặp, phối hợp âm dương. Khi từng đôi đồng loạt ra tay, sức công kích tương đương một đòn toàn lực của đệ tử Trúc Cơ kỳ. Được dùng để hợp kích diệt yêu thú đỉnh cấp Bích Thủy ngạc dưới sự chỉ huy của Sư tổ.",
+    "nguon": [
+     "@c0200"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-phap-bien-ao-han-lap",
+    "name": "Thân pháp biến ảo khó lường",
+    "loai": "than-thong",
+    "loaiLabel": "Thân pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Thân pháp biến ảo mà Hàn Lập dựa vào để né tránh khi đối đầu ngân kiếm uy lực quá mạnh.",
+    "detail": "Trong trận đấu với Vũ Si, do cự kiếm màu bạc uy lực khủng khiếp có thể chém phá vòng bảo hộ bình thường, Hàn Lập cố ý không dùng phòng ngự phù lục mà chọn dựa vào thân pháp biến ảo khó lường để tránh né.",
+    "nguon": [
+     "@c0201"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phap-quyet-dieu-khien-ngan-kiem",
+    "name": "Pháp quyết điều khiển ngân kiếm",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Không rõ",
+    "hePhai": "Cự kiếm môn",
+    "soHuu": [
+     "Hán tử áo đen chân trần (Cự Kiếm môn)"
+    ],
+    "blurb": "Pháp quyết kỳ quái của đại hán Cự kiếm môn, xoay chuôi ngân kiếm biến thành vùng sáng bạc có hấp lực hút và nghiền nát pháp khí.",
+    "detail": "Đại hán chân trần dùng hai tay bay múa xoay vòng, biến cự kiếm màu bạc thành một vùng sáng bạc có hấp lực. Vùng sáng này hút pháp khí của địch vào lốc xoáy rồi nghiền nát, đồng thời có thể cắt đứt liên hệ điều khiển pháp khí của đối phương. Kim nhận đỉnh cấp của Hàn Lập bị hút không nhúc nhích, hai thượng phẩm pháp khí và một kim nhận bị cuốn hủy.",
+    "nguon": [
+     "@c0202"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vo-uu-cham-phap",
+    "name": "Vô ưu châm pháp",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Di vật Mặc đại phu",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Bộ châm pháp Hàn Lập học từ di vật Mặc đại phu, dùng ngân châm để xóa trí nhớ người khác trong một khoảng thời gian.",
+    "detail": "Vô ưu châm pháp là bộ châm pháp Hàn Lập lĩnh hội từ di vật của Mặc đại phu tại tu tiên giới. Khi thi triển, hắn dùng bộ ngân châm đâm vào các huyệt vị để xóa đi trí nhớ của đối phương trong một khoảng thời gian nhất định. Kết hợp với Vong Trần hoàn, châm pháp đạt tới mức hoàn mỹ, giúp Hàn Lập xóa sạch trí nhớ nửa ngày của Hạm Vân Chi nhằm bảo vệ bí mật của mình.",
+    "nguon": [
+     "@c0203"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nac-hinh-thuat",
+    "name": "Nặc hình thuật",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật ẩn thân",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Thuật ẩn thân giúp thu liễm khí tức và hòa thân vào mặt đất, từ xa nhìn không phát hiện được tung tích.",
+    "detail": "Hàn Lập thi triển Nặc hình thuật toàn lực khi đám Yểm Nguyệt tông tiến vào thế giới đầm lầy: hắn thu liễm khí tức, ép sát vào sau một mô đất, hòa mình vào mặt đất khiến từ xa nhìn không thể phát hiện. Nhờ thuật này hắn ẩn nấp an toàn thay vì mạo hiểm tranh đoạt hộp vàng bảo vật.",
+    "nguon": [
+     "@c0204"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-che-thach-dien-cam-dia",
+    "name": "Cấm chế thạch điện",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Cấm chế / Trận pháp",
+    "phamCap": "Cao (bài xích thần thức Kết đan kỳ)",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Cấm chế mạnh thi trên tòa thạch điện cổ trong cấm địa, thanh quang lờ mờ lưu động trên bề mặt và bài xích cả thần thức tu sĩ Kết đan kỳ.",
+    "detail": "Cấm chế bao phủ thạch điện cổ quái giữa vùng lòng chảo: bề mặt đá có thanh quang lờ mờ lưu động, ném pháp khí vào bị bắn xa mấy trượng còn điện thì bình yên vô sự. Khi sư tổ Yểm Nguyệt tông phóng thần thức khổng lồ đảo qua, thần thức bị một lực lượng bài xích không thể xuyên qua — lần đầu tiên nàng gặp cấm chế mạnh đến vậy, khiến nàng hưng phấn muốn tiến vào.",
+    "nguon": [
+     "@c0204"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-phap-than-toc-han-lap",
+    "name": "Thân pháp thần tốc",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thân pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Thân pháp thần tốc của Hàn Lập cho phép chớp thân di chuyển cực nhanh, nhưng tiêu hao thể lực lớn nên chỉ dùng được vài lần.",
+    "detail": "Thân pháp giúp Hàn Lập chớp biến thân hình di chuyển thần tốc. Trong thạch điện, do hai ngày qua thể lực đã tiêu hao quá nhiều, hắn chỉ còn có thể dùng được vài lần và chạy không xa, buộc phải tìm chỗ trốn xuống địa đạo.",
+    "nguon": [
+     "@c0204"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "song-tu-yem-nguyet-tong",
+    "name": "Song tu Yểm Nguyệt tông",
+    "cn": "",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp song tu",
+    "phamCap": "Không rõ",
+    "hePhai": "Yểm Nguyệt tông",
+    "soHuu": [
+     "Nữ tử áo dài trắng (Yểm Nguyệt tông)"
+    ],
+    "blurb": "Công pháp song tu của Yểm Nguyệt tông: đệ tử nam nữ nắm tay đạo lữ phát hào quang lam hồng, tạo cột sáng hồng lam công kích.",
+    "detail": "Đệ tử nam nữ Yểm Nguyệt tông theo lệnh nắm tay đạo lữ song tu, phát ra hào quang hai sắc lam hồng — nam giới được màn hào quang màu hồng hộ thể, nữ tỏa lam quang. Nhờ song tu, họ hợp lực phóng ra những cột sáng hồng lam công kích yêu thú. Đệ tử mất đạo lữ song tu chỉ còn dùng vài pháp khí bình thường.",
+    "nguon": [
+     "@c0205"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngu-tu-ngon-quyet-yem-nguyet-tong",
+    "name": "Ngũ tự ngôn quyết (Thu, tốc, câu, cấm, tỏa)",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Khẩu quyết khống chế",
+    "phamCap": "Không rõ",
+    "hePhai": "Yểm Nguyệt tông",
+    "soHuu": [
+     "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)"
+    ],
+    "blurb": "Khẩu quyết năm chữ “Thu, tốc, câu, cấm, tỏa” dùng điều khiển Chu tước hoàn biến mất rồi hiện tại đỉnh đầu yêu thú để giam thân nó.",
+    "detail": "Cô gái sư tổ Yểm Nguyệt tông đọc ngũ tự ngôn quyết “Thu, tốc, câu, cấm, tỏa” khiến pháp bảo Chu tước hoàn biến mất rồi lập tức hiện tại đỉnh đầu Mặc Giao, chụp và giam toàn bộ thân yêu thú trong lửa đỏ.",
+    "nguon": [
+     "@c0205"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hong-viem-thuat",
+    "name": "Hồng viêm thuật",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Hỏa thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Yểm Nguyệt tông",
+    "soHuu": [
+     "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)"
+    ],
+    "blurb": "Hỏa thuật cô gái sư tổ thúc dục trên Chu tước hoàn, làm ngọn lửa bao vây yêu thú bùng nổ mãnh liệt.",
+    "detail": "Cô gái sư tổ Yểm Nguyệt tông thúc dục Hồng viêm thuật trên pháp bảo Chu tước hoàn, khiến ngọn lửa đỏ giam yêu thú bùng nổ mạnh hơn, gia tăng sức khống chế và sát thương.",
+    "nguon": [
+     "@c0205"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lan-hoa-phap-quyet",
+    "name": "Lan hoa pháp quyết",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Thủ ấn khu sử",
+    "phamCap": "Không rõ",
+    "hePhai": "Yểm Nguyệt tông",
+    "soHuu": [
+     "Cô gái áo trắng (Sư tổ Yểm Nguyệt tông)"
+    ],
+    "blurb": "Thủ ấn cô gái sư tổ bắt để tâm thần tương liên với Chu tước hoàn khi khu sử pháp bảo.",
+    "detail": "Khi khu sử Chu tước hoàn, cô gái sư tổ Yểm Nguyệt tông kết Lan hoa pháp quyết để tâm thần tương liên với pháp bảo, điều khiển cột lửa lớn phun vào cột bùn yêu thú.",
+    "nguon": [
+     "@c0205"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mac-van-ho-the",
+    "name": "Mặc vân hộ thể",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Hộ thể yêu thú",
+    "phamCap": "Không rõ",
+    "hePhai": "Mặc Giao",
+    "soHuu": [
+     "Mặc Giao"
+    ],
+    "blurb": "Tầng hắc vụ nhạt bao phủ thân yêu thú Mặc Giao, cản được cột sáng hồng lam của đệ tử Yểm Nguyệt tông.",
+    "detail": "Mặc Giao có tầng hắc vụ nhạt (mặc vân) bao phủ thân, dùng làm hộ thể cản mười mấy cột sáng hồng lam. Sau bị đánh tan để lộ lân giáp bị đục lỗ máu to bằng bát.",
+    "nguon": [
+     "@c0205"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tieu-ngu-hanh-tu-di-cam-phap",
+    "name": "Tiểu ngũ hành tu di cấm pháp",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Cấm pháp",
+    "phamCap": "Trung cấp",
+    "hePhai": "",
+    "soHuu": [
+     "Triệu sư muội (nữ tử áo trắng)"
+    ],
+    "blurb": "Cấm pháp do Tiểu ngũ hành phù phát động, khiến hai bên thông đạo đá ép lại phong bế hoàn toàn.",
+    "detail": "Cấm chế phong bế: khi Tiểu ngũ hành phù được kích hoạt, thần quang xanh chấn động mạnh khiến hai bên thông đạo đá ép sát vào nhau kín mít, không còn một khe hở. Nam Cung sư tổ nhận ra và biết cách giải cấm pháp này.",
+    "nguon": [
+     "@c0206"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngon-quyet-vay-khon-mac-giao",
+    "name": "Ngôn quyết vây khốn Mặc Giao",
+    "cn": "",
+    "loai": "kiem-quyet",
+    "loaiLabel": "Khẩu quyết điều khiển pháp bảo",
+    "phamCap": "Không rõ",
+    "hePhai": "Yểm Nguyệt tông",
+    "soHuu": [
+     "Nam Cung Uyển"
+    ],
+    "blurb": "Khẩu quyết Nam Cung sư tổ thi triển để dùng Chu tước hoàn giữ chặt thân thể Mặc Giao.",
+    "detail": "Nam Cung sư tổ đọc ngôn quyết điều khiển pháp bảo Chu tước hoàn siết giữ yêu thú bất động, tạo điều kiện cho Hàn Lập chuẩn bị phù bảo công kích.",
+    "nguon": [
+     "@c0206"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "the-luyen-ta-mon-ngan-kiem",
+    "name": "Phương pháp tế luyện tà môn của nguyên chủ ngân kiếm",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật luyện khí",
+    "phamCap": "Không rõ",
+    "hePhai": "Không rõ",
+    "soHuu": [],
+    "blurb": "Phương pháp cực kỳ tà môn dụng tâm luyện ngân kiếm khiến người ngoài không thể khu sử.",
+    "detail": "Nguyên chủ ngân kiếm (đại hán chân trần) đã tế luyện cự kiếm bạc bằng phương pháp cực tà môn, khiến với người ngoài kiếm chỉ là phế vật không khu sử được bằng pháp lực, trừ khi luyện lại từ đầu.",
+    "nguon": [
+     "@c0207"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chan-hoa-luyen-ngan-tinh",
+    "name": "Chân hỏa Kết đan kỳ luyện ngân tinh",
+    "loai": "bi-thuat",
+    "loaiLabel": "Thủ pháp luyện khí",
+    "phamCap": "Kết đan kỳ",
+    "hePhai": "Không rõ",
+    "soHuu": [],
+    "blurb": "Chỉ tu sĩ Kết đan kỳ mới dùng chân hỏa chế luyện lượng lớn thuần ngân thành nguyên liệu ngân tinh trân quý.",
+    "detail": "Ngân tinh là nguyên liệu chỉ tu sĩ Kết đan kỳ mới luyện được: dùng chân hỏa nấu luyện lượng lớn thuần ngân, phi thường trân quý; ngân kiếm và Chu tước hoàn đều dùng loại nguyên liệu này.",
+    "nguon": [
+     "@c0207"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "to-nu-luan-hoi-cong",
+    "name": "Tố nữ luân hồi công",
+    "cn": "",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Độc môn công pháp",
+    "hePhai": "",
+    "soHuu": [
+     "Nữ tử tuyệt sắc (nữ tu Kết đan kỳ)"
+    ],
+    "blurb": "Độc môn công pháp của nữ tu Kết đan kỳ, có thể khiến xuân nhan vĩnh trú.",
+    "detail": "Độc môn công pháp nữ tử tu luyện, đã đại thành. Cứ cách mười năm luân hồi một lần khiến người biến về lúc nhỏ, giữ dung mạo trẻ trung. Khi bị phá thân xử nữ, công pháp bị phá đi một ít nên người luyện biến lớn lên, tổn thất khoảng năm sáu năm pháp lực.",
+    "nguon": [
+     "@c0208"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-che-tuyet-dia-bach-ngoc-dinh",
+    "name": "Cấm chế tuyệt địa (bạch ngọc đình)",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Cấm chế",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Cấm chế phong bế tuyệt địa nơi bạch ngọc đình, phải hai người hợp lực mới phá được.",
+    "detail": "Cấm chế phong bế tuyệt địa nơi Hàn Lập và nữ tử tỉnh dậy. Muốn phá cấm rời đi cần sự hợp lực của hai người, thiếu một người thì không thể rời khỏi nơi đây.",
+    "nguon": [
+     "@c0208"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phan-than-than-bi-thuat",
+    "name": "Phân thân thần bí thuật",
+    "aliases": [
+     "bí thuật phân thần"
+    ],
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Không rõ",
+    "soHuu": [],
+    "blurb": "Bí thuật rót một tia thần thức vào pháp khí để khu sử; chỉ tu sĩ Trúc cơ kỳ trở lên đủ thần thức chống đỡ.",
+    "detail": "Người tu luyện tách một tia thần thức nhập vào pháp khí để điều khiển. Chỉ tu sĩ từ Trúc cơ kỳ trở lên mới đủ thần thức chống đỡ, còn Luyện khí kỳ phân thần dễ tan biến. Phân thần càng nhiều thì thao túng pháp khí đồng thời càng nhiều; đệ tử Luyện khí kỳ thường chỉ dùng được hai kiện pháp khí cùng lúc.",
+    "nguon": [
+     "@c0213"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thanh-nguyen-kiem-quyet",
+    "name": "Thanh nguyên kiếm quyết",
+    "aliases": [
+     "Thanh Nguyên kiếm quyết"
+    ],
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Lý Hóa Nguyên",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Quyển công pháp Lý Hóa Nguyên phái người đưa cho Hàn Lập, trên sách có bút tích của Lý sư tổ.",
+    "detail": "Công pháp do sư phụ mới Lý Hóa Nguyên phái ký danh đệ tử đưa đến cho Hàn Lập. Trên sách có chữ ký/bút tích của Lý sư tổ; Hàn Lập dùng chính bút tích này làm bằng chứng thân phận để đại hán giữ Nhạc lộc điện tin và an bài gian địa hỏa.",
+    "nguon": [
+     "@c0213"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phieu-phu-thuat",
+    "name": "Phiêu phù thuật",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Pháp thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Pháp thuật khiến vật thể lơ lửng trong không trung.",
+    "detail": "Pháp thuật giúp giữ vật lơ lửng, Hàn Lập tu luyện riêng và tốn không ít thời gian để dùng nó treo Ngân ti đỉnh lửng trên bếp lò khi luyện chế Trúc cơ đan.",
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phap-quyet-khu-su-dau-rong",
+    "name": "Pháp quyết khu sử đầu rồng",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Pháp quyết",
+    "phamCap": "Không rõ",
+    "hePhai": "Địa Hỏa Chi Ốc",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Phương pháp điều khiển tám đầu rồng của bếp lò địa hỏa phun và điều tiết lửa.",
+    "detail": "Phương pháp khắc trên vách lò, người dùng đánh tám đạo hồng quang vào tám đầu rồng để chúng hấp nạp rồi phun ra địa hỏa, đồng thời điều tiết độ dày mỏng, cao thấp của ngọn lửa. Hàn Lập ghi lại và luyện tập tới thuần thục trước khi luyện đan.",
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "truyen-tong-tran-nhac-loc-dien",
+    "name": "Truyền tống trận",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Hoàng Phong Cốc",
+    "soHuu": [],
+    "blurb": "Trận truyền tống đặt tại Nhạc Lộc điện, có hai người canh giữ luân phiên.",
+    "detail": "Trận truyền tống tại Nhạc Lộc điện của Hoàng Phong Cốc, luôn có hai người bảo vệ canh giữ. Khi Hàn Lập ra khỏi điện sau khi Trúc Cơ, ca canh giữ đã đổi thành hai người khác, nên không ai kinh ngạc khi thấy hắn từ Luyện khí kỳ đột nhiên tiến vào Trúc cơ kỳ.",
+    "nguon": [
+     "@c0216"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kiem-anh-phan-quang-thuat",
+    "name": "Kiếm ảnh phân quang thuật",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Pháp quyết ba tầng kiếm quyết cuối của Thanh nguyên kiếm quyết",
+    "hePhai": "Thanh nguyên kiếm quyết",
+    "soHuu": [],
+    "blurb": "Thần thông từ ba tầng cuối của Thanh nguyên kiếm quyết, huyễn hóa kiếm ảnh giống hệt phi kiếm để mê hoặc tầm mắt địch nhân.",
+    "detail": "Pháp quyết của ba tầng kiếm quyết cuối cùng, điều kiện tu luyện là phải có phi kiếm hoặc phi đao. Sau khi thành, có thể từ kiếm quang huyễn hóa ra một đạo kiếm ảnh giống hệt phi kiếm để mê hoặc tầm mắt địch nhân. Kiếm ảnh sơ thành chỉ có một phần mười uy lực bản thể, tăng dần theo tầng, tới tầng thứ chín đạt một phần ba uy lực. Từ tầng thứ bảy trở đi, mỗi tầng có thể luyện thêm một đạo kiếm ảnh, luyện tới cực hạn xuất ra ba đạo kiếm ảnh.",
+    "nguon": [
+     "@c0217"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ho-the-kiem-thuan",
+    "name": "Hộ thể kiếm thuẫn",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp phòng ngự",
+    "phamCap": "Pháp quyết trong Thanh nguyên kiếm quyết",
+    "hePhai": "Thanh nguyên kiếm quyết",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Pháp quyết phòng ngự trong Thanh nguyên kiếm quyết, tạo hộ thuẫn tự động phóng thích kiếm quang phản kích địch nhân.",
+    "detail": "Pháp quyết phòng ngự nằm trong Thanh nguyên kiếm quyết. Người tu luyện có thể tạo ra một hộ thuẫn màu xanh nước biển, bề mặt nhô ra những mũi nhọn như con nhím và ẩn chứa sát khí, có khả năng tự động phóng thích kiếm quang phản kích địch nhân khi bị tấn công. Hàn Lập luyện thành trong lúc bế quan tại phòng địa hỏa nhưng chưa có dịp thí nghiệm thực chiến.",
+    "nguon": [
+     "@c0217"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "me-tung-phap-tran",
+    "name": "Mê tung pháp trận",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Hoàng phong cốc",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Trận pháp nhỏ đơn giản bày ra từ Mê tung kỳ, đủ ngăn phàm nhân và dã thú xâm nhiễm động phủ.",
+    "detail": "Loại trận pháp kích thước nhỏ đơn giản nhất, bày ra từ Mê tung kỳ để bảo vệ động phủ, đủ ngăn phàm nhân và dã thú xâm nhiễm. Thủ pháp bày và thao túng trận được ghi trong ngọc giản Chung Linh Đạo giao cho Hàn Lập.",
+    "nguon": [
+     "@c0219"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ho-trao-thuy-thuoc-tinh",
+    "name": "Hộ tráo thủy thuộc tính",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật phòng ngự",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Lớp bảo hộ thủy thuộc tính Hàn Lập phóng ra bám thân, ngăn đá vụn và bụi bặm.",
+    "detail": "Khi khoét đá cứng để đào đường vào vách núi, Hàn Lập phóng ra một lớp hộ tráo thuộc tính thủy bám lấy thân, chắn đá vụn và bụi bặm bắn ra, giữ người sạch sẽ trong suốt hơn một canh giờ đục đá.",
+    "nguon": [
+     "@c0220"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-che-tran-phap-linh-thu-son",
+    "name": "Cấm chế trận pháp Linh thú sơn",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp phong bế",
+    "phamCap": "Không rõ",
+    "hePhai": "Kỳ lân các",
+    "soHuu": [
+     "Kỳ lân các"
+    ],
+    "blurb": "Các cấm chế đủ màu chia Linh thú sơn thành nhiều khối phong bế để tuần dưỡng linh thú riêng.",
+    "detail": "Linh thú sơn được bố trí nhiều cấm chế trận pháp đủ màu sắc, chia núi thành nhiều khối phong bế tách biệt, mỗi khối tuần dưỡng một loại linh thú, chỉ đệ tử Kỳ lân các mới được ra vào. Toàn sơn nuôi gần ngàn con linh thú nhờ hệ thống cấm chế này.",
+    "nguon": [
+     "@c0220"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tieu-me-tung-tran",
+    "name": "Tiểu mê tung trận",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "Trận pháp che dấu cấp thấp",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Trận che dấu do Hàn Lập bày bằng năm lá cờ nhỏ và mười viên linh thạch cấp thấp, ẩn toàn bộ lối ra vào động phủ.",
+    "detail": "Tiểu mê tung trận là trận pháp che dấu Hàn Lập bố trí theo phương pháp ghi trong ngọc giản, dùng năm lá cờ nhỏ cùng mười viên linh thạch cấp thấp. Trận che phủ toàn bộ lối ra vào của động phủ Linh tuyền nham động khiến người bên ngoài chỉ thấy vách núi thông thường, giúp giữ kín mật thất luyện công của hắn.",
+    "nguon": [
+     "@c0221"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-phap-cam-phi-hanh",
+    "name": "Cấm pháp cấm phi hành",
+    "loai": "khac",
+    "loaiLabel": "Cấm pháp",
+    "phamCap": "Cấm pháp quy mô phường thị",
+    "hePhai": "Thiên Tinh Tông",
+    "soHuu": [
+     "Thiên Tinh Tông"
+    ],
+    "blurb": "Trận cấm bao quanh phường thị Thiên Tinh Tông khiến pháp khí phi hành mất tác dụng.",
+    "detail": "Cấm pháp cấm phi hành là trận cấm được bố trí quanh phường thị Thiên Tinh Tông, khiến mọi pháp khí phi hành mất tác dụng và buộc tu sĩ phải hạ xuống đất khi tới gần. Chính dấu hiệu pháp khí hình lá trầm xuống, mất khả năng phi hành đã báo cho Hàn Lập biết hắn đã tới phụ cận phường thị.",
+    "nguon": [
+     "@c0221"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "luc-dich",
+    "name": "Lục dịch",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Thủ đoạn thôi thúc dược thảo",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Thủ đoạn Hàn Lập dùng để thôi thúc dược thảo sinh trưởng nhanh.",
+    "detail": "Lục dịch là thủ đoạn Hàn Lập dùng để thôi thúc dược thảo sinh trưởng vượt bậc. Nhờ nó, sau hai tháng ngắn ngủi hắn đã tạo ra được một gốc linh dược ngàn năm dùng làm vật trao đổi tại Thiên Tinh Tông.",
+    "nguon": [
+     "@c0221"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "luyen-che-yeu-hoa",
+    "name": "Luyện chế yêu hỏa luyện khí",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật luyện khí",
+    "phamCap": "Bàng môn tả đạo",
+    "hePhai": "Từ gia",
+    "soHuu": [
+     "Từ lão giả"
+    ],
+    "blurb": "Tiểu thuật bàng môn tả đạo dùng yêu hỏa phun ra từ hỏa nha thay tiên thiên chân hỏa hoặc địa hỏa để luyện chế pháp khí.",
+    "detail": "Kỹ thuật luyện khí đặc biệt của Từ gia, dùng yêu hỏa do hỏa nha phun ra làm hỏa lực luyện chế thay cho tiên thiên chân hỏa hay địa hỏa. Cần kỹ xảo đặc biệt, cho phép cả tu sĩ Luyện Khí kỳ như Từ lão giả có thể luyện chế đỉnh cấp pháp khí. Đây là tiểu thuật bàng môn tả đạo, không được các đại phái thừa nhận và truyền bá nghiêm ngặt; Từ gia có được nhờ ngẫu nhiên sở hữu một con hỏa nha, chỉ cần nhị cấp sơ giai đã phun ra yêu hỏa lợi hại hơn tiên thiên chân hỏa vài phần.",
+    "nguon": [
+     "@c0222"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khoi-loi-co-quan-thuat",
+    "name": "Khôi lỗi cơ quan thuật",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Đạo pháp luyện chế",
+    "phamCap": "Không rõ",
+    "hePhai": "Thiên Trúc giáo (vùng đất cực tây)",
+    "soHuu": [],
+    "blurb": "Đạo pháp luyện chế khác hoàn toàn với pháp khí thông thường, lưu hành rộng ở vùng đất cực tây.",
+    "detail": "Khôi lỗi cơ quan thuật là một đạo pháp luyện chế riêng biệt, lưu hành cực kỳ rộng rãi tại vùng đất cực tây, có tông phái Thiên Trúc giáo lấy đó khai môn lập phái và phát huy tới cực điểm. Thành phẩm có phân cấp chính thức; khôi lỗi cơ quan nhân cao nhất có thể ganh đua với tu sĩ Trúc Cơ kỳ hậu kỳ. Cặp khôi lỗi cơ quan thú được rao bán tại bí điếm thuộc khôi lỗi thú cấp hai theo phân cấp này.",
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dien-dao-ngu-hanh-tran",
+    "name": "Điên Đảo Ngũ Hành Trận",
+    "aliases": [
+     "Tiểu Cấm Đoạn Chi Trận"
+    ],
+    "loai": "khac",
+    "loaiLabel": "Cấm pháp / Trận pháp",
+    "phamCap": "Kỳ trận trứ danh",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Kỳ trận cực nổi tiếng còn gọi Tiểu Cấm Đoạn Chi Trận; diện tích bao phủ nhỏ, không có công hiệu chủ động giết địch nhưng công hiệu ảo hóa, yểm hộ sơn môn, mê hoặc vây khốn địch nhân không thua kém hộ phái đại trận của đại môn phái.",
+    "detail": "Được các tu tiên gia tộc và môn phái xem trọng còn hơn cả thiên niên linh thảo. Bố trí kỳ trận bình thường cần một trận pháp đại sư tinh thông tốn khoảng một năm cùng nhiều nhân lực vật lực. Bộ khí cụ mà thanh niên đem ra đấu giá chỉ là tàn phẩm, phát huy được một phần mười uy lực nguyên trận, được hứa hẹn vài năm sẽ tăng lên tối thiểu nửa uy lực.",
+    "nguon": [
+     "@c0226"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cach-am-trao",
+    "name": "Cách âm trạo",
+    "loai": "bi-thuat",
+    "loaiLabel": "Tiểu pháp thuật",
+    "phamCap": "Pháp thuật thường dùng",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Pháp thuật cách âm thường dùng để chống nghe lén khi nói chuyện riêng.",
+    "detail": "Hàn Lập thuận tay học được và bố trí Cách âm trạo để nói chuyện riêng với thanh niên trận pháp sư. Sau khi thành công Trúc Cơ, những pháp thuật trước đây không dùng được nay vừa học đã biết dùng ngay.",
+    "nguon": [
+     "@c0226"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "van-tieu-tam-thuat",
+    "name": "Vân Tiêu Tâm Thuật",
+    "cn": "",
+    "aliases": [
+     "Vân Tiêu Tâm Đắc"
+    ],
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Thần Binh Môn",
+    "soHuu": [
+     "Tề Vân Tiêu",
+     "Hàn Lập"
+    ],
+    "blurb": "Quyển thư tịch ghi chép hiểu biết luyện khí của Tề Vân Tiêu tích lũy hơn hai mươi năm, chứa nhiều phương pháp luyện khí bí mật của Thần Binh Môn.",
+    "detail": "Quyển ghi chép toàn bộ hiểu biết về luyện khí thuật mà Tề Vân Tiêu tích lũy suốt hai mươi mấy năm, bên trong chứa nhiều phương pháp luyện khí bí mật của Thần Binh Môn vốn không được lưu truyền ra ngoài. Do vướng tổ huấn, Tề Vân Tiêu chỉ có thể giao lại quyển sách chứ không đích thân truyền thụ. Hàn Lập nhận quyển này trong giao dịch rồi dùng phong ấn thuật khóa lại, hẹn năm năm không mở, biến sách hóa thành bạc cứng.",
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phong-an-thuat",
+    "name": "Phong ấn thuật",
+    "cn": "",
+    "aliases": [],
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Thuật Hàn Lập dùng để khóa quyển Vân Tiêu Tâm Thuật, phát ra chuỗi phù văn màu bạc xuyên nhập vào sách.",
+    "detail": "Khi thi triển, thuật phát ra một chuỗi phù văn màu bạc xuyên nhập vào quyển sách, khiến sách hóa thành bạc cứng, không thể lật mở được. Hàn Lập dùng thuật này khóa quyển Vân Tiêu Tâm Đắc, hẹn năm năm không động tới để giữ chữ tín với Tề Vân Tiêu.",
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "luyen-khi-thuat",
+    "name": "Luyện khí thuật",
+    "cn": "",
+    "aliases": [],
+    "loai": "khac",
+    "loaiLabel": "Kỹ thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Tề Vân Tiêu"
+    ],
+    "blurb": "Kỹ thuật chế luyện pháp khí; ở tu tiên giới nhiều tu sĩ biết, nhưng luyện khí thuật của Thần Binh Môn thuộc hàng nổi tiếng.",
+    "detail": "Kỹ thuật chế luyện pháp khí phổ biến ở tu tiên giới với nhiều tu sĩ nắm giữ, nhưng luyện khí thuật của Thần Binh Môn thuộc hàng nổi tiếng bậc nhất trong các quốc gia lân cận. Gia tổ Tề Vân Tiêu từng là Luyện khí trưởng lão Thần Binh Môn, luyện khí đạt cực đỉnh và tự tay truyền dạy cho hắn.",
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phap-quyet-dieu-khien-than-phong-chau",
+    "name": "Pháp quyết điều khiển Thần Phong Châu",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Đạo pháp quyết màu xanh của Hàn Lập chạm vào Thần Phong Châu khiến thuyền nhỏ biến lớn thành thuyền độc mộc như thật, chở người bay lên không.",
+    "detail": "Hàn Lập niệm một đạo pháp quyết màu xanh chạm vào thuyền trắng nhỏ, khiến nó biến lớn thành thuyền độc mộc chở được mấy người, đưa hắn lên không trung mười mấy trượng để điều khiển bay đi.",
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ho-trao-hop-luc",
+    "name": "Hộ trạo hợp lực",
+    "cn": "",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Pháp thuật phòng ngự chung do nhóm Trúc Cơ Hậu Kỳ tu sĩ dựng lên, hai người áp tay bổ sung pháp lực để chống quang trụ, quang tiễn và đao thương khôi lỗi.",
+    "detail": "Lồng bảo vệ hợp lực (hộ trạo) do bốn năm Trúc Cơ Hậu Kỳ tu sĩ chung dựng, với hai người liên tục áp tay bổ sung pháp lực nhằm duy trì che chắn trước quang trụ nhiều màu, quang tiễn và binh khí của gần trăm khôi lỗi.",
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-dien-quyet",
+    "name": "Đại Diễn Quyết",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Trọng yếu",
+    "hePhai": "Thiên Trúc Giáo",
+    "soHuu": [
+     "Lâm sư huynh",
+     "Hoàng Long"
+    ],
+    "blurb": "Công pháp trọng yếu của Thiên Trúc Giáo, nửa phần sau bị đồn giấu trong khôi lỗi thú (thực ra là bẫy). Người luyện tới tầng cao có thể điều khiển đồng thời hàng trăm khôi lỗi.",
+    "detail": "Đại Diễn Quyết là công pháp trọng yếu liên quan tới Thiên Trúc Giáo. Nửa phần sau bị đồn giấu trong khôi lỗi thú, nhưng thực chất chỉ là bẫy do Kim Giáo Chủ giăng ra để dụ Lâm sư huynh xuất hiện. Lâm sư huynh từng lén truyền khẩu quyết tầng thứ nhất cho Hoàng Long, còn bản thân đã luyện tới tầng thứ ba — cấp độ cho phép điều khiển nhiều khôi lỗi cùng lúc, nên có thể triệu ra và chỉ huy hơn hai trăm khôi lỗi sĩ binh trong trận đại chiến.",
+    "nguon": [
+     "@c0230",
+     "@c0236"
+    ],
+    "cn": "大衍诀",
+    "rank": "C"
+   },
+   {
+    "id": "doat-xa",
+    "name": "Đoạt xá",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Lâm sư huynh"
+    ],
+    "blurb": "Thuật thần hồn chiếm đoạt xác thân người khác. Thần hồn Lâm sư huynh hóa đoàn sáng màu lục lao vào mặt Hàn Lập định chiếm thân xác hắn.",
+    "detail": "Hành động thần hồn rời khỏi xác cũ, hóa thành đoàn sáng lao vào đối phương để chiếm lấy thân thể. Ở chương này thần hồn Lâm sư huynh từ trong áo xác bay ra như ma quỷ, đánh thẳng vào mặt Hàn Lập nhưng bị tay phải hắn lóe bạch quang chộp giữ khiến rên rỉ, đành cầu xin tha mạng.",
+    "nguon": [
+     "@c0231"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "trao-bach-quang",
+    "name": "Trảo bạch quang",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thủ pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Thủ pháp tay phải Hàn Lập lóe bạch quang, một trảo chộp giữ đoàn sáng thần hồn đang lao tới.",
+    "detail": "Khi thần hồn Lâm sư huynh lao vào mặt định đoạt xá, tay phải Hàn Lập bỗng lóe bạch quang, một trảo nắm chặt đoàn sáng khiến nó rên rỉ không thoát được, ghìm được màn đoạt xá.",
+    "nguon": [
+     "@c0231"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-dien-quyet-ban-don-gian-hoa-tang-thu-nhat",
+    "name": "Đại Diễn quyết bản đơn giản hóa tầng thứ nhất",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Thiên Trúc giáo",
+    "soHuu": [],
+    "blurb": "Bản Đại Diễn quyết giản lược mà giáo đồ thường của Thiên Trúc giáo tu luyện.",
+    "detail": "Là bản giản hóa của tầng thứ nhất Đại Diễn quyết, dễ luyện nhưng uy lực không bằng bản chính thống. Chỉ cao tầng trong Thiên Trúc giáo mới có tư cách tu, còn giáo đồ thường tu bản đơn giản hóa này để thao túng khôi lỗi ở mức cơ bản.",
+    "nguon": [
+     "@c0232"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phan-than-thuat",
+    "name": "Phân Thần thuật",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Thiên Trúc giáo",
+    "soHuu": [],
+    "blurb": "Bí pháp gắn liền trong Đại Diễn quyết, giúp gắn thần thức lên khôi lỗi để thao túng.",
+    "detail": "Bí pháp tu luyện song song trong Đại Diễn quyết của Thiên Trúc giáo. Nhờ Phân Thần thuật, người tu có thể gắn thần thức của mình lên các khôi lỗi cơ quan để thao túng chúng tự do; số lượng khôi lỗi khống chế được tùy theo tầng thứ Đại Diễn quyết đã tu.",
+    "nguon": [
+     "@c0232"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nguyen-than-xuat-the",
+    "name": "Nguyên thần xuất thể",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Chiêu bảo mệnh",
+    "hePhai": "",
+    "soHuu": [
+     "Lâm sư huynh",
+     "Dư Tử Đồng"
+    ],
+    "blurb": "Chiêu bảo mệnh cho nguyên thần thoát khỏi thân xác. Cần thời gian thi pháp và không được loạn động nên gần như vô dụng khi chém giết.",
+    "detail": "Chiêu bảo mệnh giúp nguyên thần tu sĩ thoát ly khỏi thân xác. Vì cần thời gian thi pháp và tu sĩ không được loạn động, bình thường gần như vô dụng trong tình huống chém giết; chỉ tu sĩ từ Nguyên Anh kỳ trở lên mới mượn sức Nguyên Anh để nguyên thần lập tức ly thể. Lâm sư huynh dùng khi độc phát cùng đường, định đoạt xá Hàn Lập nhưng bị bắt chế trụ mà tan.",
+    "nguon": [
+     "@c0233"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cong-phap-di-linh-can-loi-thuoc-tinh",
+    "name": "Công pháp dị linh căn Lôi thuộc tính",
+    "cn": "",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Dị linh căn",
+    "hePhai": "Hoàng Phong cốc",
+    "soHuu": [
+     "Lôi Vạn Hạc"
+    ],
+    "blurb": "Công pháp dị linh căn Lôi thuộc tính của Lôi Vạn Hạc, biểu hiện qua ngân quang dài mười trượng cùng sấm chớp.",
+    "detail": "Công pháp tu luyện theo dị linh căn Lôi thuộc tính, khiến Hàn Lập kinh ngạc. Khi thi triển hóa thành đạo ngân quang dài hơn mười trượng bay như sấm chớp, có thể tách thành sáu bảy đạo ngân quang nhỏ để truy sát nhiều mục tiêu cùng lúc, uy lực đủ biến cả nhóm tu sĩ thành tro bụi trong chớp mắt.",
+    "nguon": [
+     "@c0233"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "co-doc-co-doc-tong",
+    "name": "Cổ độc Cổ Độc tông",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Bí thuật",
+    "phamCap": "",
+    "hePhai": "Cổ Độc tông",
+    "soHuu": [
+     "Cổ Độc tông"
+    ],
+    "blurb": "Cổ độc gieo bởi Cổ Độc tông ở nơi cực tây, khiến người trúng bộc phát mà chết.",
+    "detail": "Loại cổ độc của Cổ Độc tông ở nơi cực tây. Lâm sư huynh trúng phải cổ độc này, độc bộc phát mà chết dù đã được thu vào Hoàng Phong cốc. Lôi Vạn Hạc chỉ cần nhấc thi thể kiểm tra là xác nhận được nguồn gốc cổ độc.",
+    "nguon": [
+     "@c0233"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-doan-than-thuc-dien-dao-ngu-hanh",
+    "name": "Cấm đoạn thần thức (biến hóa Điên Đảo Ngũ Hành trận)",
+    "loai": "bi-thuat",
+    "loaiLabel": "Cấm chế / Biến hóa trận",
+    "phamCap": "Không rõ",
+    "hePhai": "Điên Đảo Ngũ Hành trận",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Biến hóa cấm chế phụ trợ của Điên Đảo Ngũ Hành trận, hạn chế thần thức đối phương.",
+    "detail": "Phương pháp cấm đoạn thần thức cực đơn giản dễ dàng bố trí; nếu luyện chế thành pháp khí thì uy lực giống hoàn toàn chính bản, không yếu đi điểm nào — công hiệu duy nhất có thể sánh với chính bản. Khi phát động, thần thức Hàn Lập chỉ còn chuyển động cận vài thước trong phạm vi phụ; thần thức tu sĩ Kết Đan kỳ như Lôi Vạn Hạc cũng không khuếch tán quá mười trượng trong đại sảnh.",
+    "nguon": [
+     "@c0234"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khoi-loi-chan-giai",
+    "name": "Khôi lỗi chân giải",
+    "loai": "khac",
+    "loaiLabel": "Kinh văn chế tác khôi lỗi",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Bộ kinh văn ẩn phía sau Đại Diễn quyết trong ngọc giản, dạy pháp môn luyện chế các loại khôi lỗi thú và khôi lỗi nhân.",
+    "detail": "Xuất hiện ngay sau bốn tầng khẩu quyết Đại Diễn quyết trong ngọc giản Lâm sư huynh trao cho Hàn Lập. Là bộ khôi lỗi chế tác đại toàn cực kỳ tường tận, giảng giải pháp môn luyện chế khôi lỗi thú và khôi lỗi nhân. Hàn Lập nhận ra nó phối hợp hoàn mỹ với Đại Diễn quyết: tu tới một tầng nhất định có thể dùng nhiều khôi lỗi áp chế tu sĩ Trúc Cơ đồng cấp như Hoàng Long từng làm. Hắn tạm cất ngọc giản chờ xử lý sau.",
+    "nguon": [
+     "@c0237"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bang-tam-quyet",
+    "name": "Băng Tâm quyết",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Công pháp tu luyện của phu nhân Lý Hóa Nguyên",
+    "soHuu": [
+     "Sư nương (thê tử Lý Hóa Nguyên)"
+    ],
+    "blurb": "Công pháp tu luyện của phu nhân Lý Hóa Nguyên. Đòi hỏi tâm cảnh an ổn; nếu tâm trạng bất ổn (chưa báo được ân) sẽ không luyện thành cảnh giới đại viên mãn, cản trở tiến vào Kết Đan kỳ.",
+    "detail": "Phu nhân Lý Hóa Nguyên tu luyện Băng Tâm quyết. Nàng tiết lộ nếu không báo được ân cứu mạng cho Hàn Lập thì tâm trạng sẽ bất ổn, khiến không thể luyện tới cảnh giới đại viên mãn để tiến vào Kết Đan kỳ và sống bên chồng lâu dài. Đây là động cơ thật khiến nàng thúc chồng bồi thường Hàn Lập.",
+    "nguon": [
+     "@c0238"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngu-hanh-phap-thuat-thuc-chien",
+    "name": "Ngũ Hành pháp thuật thực chiến",
+    "loai": "than-thong",
+    "loaiLabel": "Pháp thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Sở trường của Tống Mông",
+    "soHuu": [
+     "Tống Mông"
+    ],
+    "blurb": "Pháp thuật thực chiến hệ Ngũ Hành, sở trường của Tống Mông, được nói là đứng đầu trong môn hạ Lý Hóa Nguyên.",
+    "detail": "Tống Mông (Tứ sư huynh) là hán tử cuồng chiến đấu, giỏi vận dụng Ngũ Hành pháp thuật trong thực chiến, đứng đầu về khả năng chiến đấu trong đám môn hạ Lý Hóa Nguyên.",
+    "nguon": [
+     "@c0238"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chan-duong-quyet",
+    "name": "Chân Dương quyết",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Đỉnh cấp",
+    "hePhai": "Hoàng Phong cốc",
+    "soHuu": [
+     "Lý Hóa Nguyên"
+    ],
+    "blurb": "Công pháp đỉnh cấp (loại thứ ba) mà Lý Hóa Nguyên tu luyện, hợp với người tam dương chi thể gần Thiên Linh căn.",
+    "detail": "Công pháp thuộc loại thứ ba (đỉnh cấp) mà Lý Hóa Nguyên tu luyện. Vì bản thân lão là tam dương chi thể gần với Thiên Linh căn nên tu như cá gặp nước, giúp lão kết thành kim đan. Thuộc dòng công pháp cực hiếm gộp điểm mạnh của cả hai loại thông thường.",
+    "nguon": [
+     "@c0239"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cong-phap-loai-mot",
+    "name": "Công pháp loại một",
+    "loai": "khac",
+    "loaiLabel": "Phân loại công pháp",
+    "phamCap": "Thông thường",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Loại công pháp pháp lực tinh tiến bình thường nhưng có thần thông thủ đoạn khắc địch chế thắng, thực chiến vượt cấp.",
+    "detail": "Một trong ba loại công pháp theo cách phân của Lý Hóa Nguyên. Pháp lực tinh tiến bình thường hoặc hơi thấp nhưng có thần thông và thủ đoạn khắc địch chế thắng, uy lực mạnh, thực chiến vượt cấp. Tu sĩ tự biết đời này vô vọng kết đan thường chọn loại này.",
+    "nguon": [
+     "@c0239"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cong-phap-loai-hai",
+    "name": "Công pháp loại hai",
+    "loai": "khac",
+    "loaiLabel": "Phân loại công pháp",
+    "phamCap": "Thông thường",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Loại công pháp hiệu quả tinh tiến pháp lực cực nhanh, dễ tu luyện nhưng thiếu thủ đoạn tự bảo vệ; là loại Hàn Lập chọn.",
+    "detail": "Một trong ba loại công pháp theo cách phân của Lý Hóa Nguyên. Hiệu quả tinh tiến pháp lực cực nhanh, dễ tu luyện, ít gặp bình cảnh, nhưng thiếu thủ đoạn tự bảo vệ và thần thông, dễ trở thành kẻ yếu cùng cấp. Người muốn tiến gần Kết Đan kỳ hay chọn. Đây là loại Hàn Lập kiên định lựa chọn.",
+    "nguon": [
+     "@c0239"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cong-phap-loai-ba-dinh-cap",
+    "name": "Công pháp loại ba (đỉnh cấp)",
+    "loai": "khac",
+    "loaiLabel": "Phân loại công pháp",
+    "phamCap": "Đỉnh cấp",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Loại công pháp cực hiếm gộp điểm mạnh hai loại kia nhưng cực nguy hiểm, sơ sẩy vạn kiếp bất phục.",
+    "detail": "Loại công pháp thứ ba theo cách phân của Lý Hóa Nguyên, cực hiếm, là pháp môn đỉnh cấp mà đông đảo tu sĩ truy đuổi. Gộp điểm mạnh hai loại kia (uy lực mạnh cộng pháp lực tinh tiến kinh người) nhưng nhiều điều kiện hạn chế, cực kỳ nguy hiểm, sơ sẩy là vạn kiếp bất phục. Sư nương của Hàn Lập tu loại này và từng suýt mất mạng.",
+    "nguon": [
+     "@c0239"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-che-tang-thu-that",
+    "name": "Cấm chế Tàng thư thất",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "",
+    "hePhai": "Hoàng Phong cốc",
+    "soHuu": [
+     "Lý Hóa Nguyên"
+    ],
+    "blurb": "Cấm chế đặt lên mỗi món trong Tàng thư thất, kích động trận pháp vây khốn kẻ lấy trái phép.",
+    "detail": "Mỗi món ngọc giản, sách, hộp trong Tàng thư thất của Lý Hóa Nguyên đều bị hạ cấm chế. Nếu không phải Lý Hóa Nguyên hoặc phu nhân đi lấy thì sẽ kích động trận pháp vây khốn kẻ lấy.",
+    "nguon": [
+     "@c0239"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "quy-nguyen-cong",
+    "name": "Quy Nguyên công",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Thông thường",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Công pháp có tốc độ tăng tiến pháp lực không chậm, kèm tiểu thần thông Quy Nguyên linh giáp.",
+    "detail": "Một trong các công pháp Hàn Lập xem xét trong Tàng thư thất. Tốc độ tăng tiến pháp lực không chậm, đi kèm tiểu thần thông phòng ngự Quy Nguyên linh giáp.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "quy-nguyen-linh-giap",
+    "name": "Quy Nguyên linh giáp",
+    "loai": "than-thong",
+    "loaiLabel": "Tiểu thần thông",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Tiểu thần thông phụ trợ của Quy Nguyên công, dùng pháp lực ngưng tụ xuất linh giáp bảo vệ tính mạng.",
+    "detail": "Tiểu thần thông đi kèm Quy Nguyên công, thêm một tầng phòng ngự pháp thuật bằng cách dùng pháp lực ngưng tụ xuất ra linh giáp bảo vệ tính mạng. Lực phòng ngự tăng theo sự tinh tiến của Quy Nguyên công.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyen-linh-quyet",
+    "name": "Huyễn Linh quyết",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Thông thường",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Công pháp Hàn Lập xem xét trong Tàng thư thất, kèm thần thông Ảo ảnh.",
+    "detail": "Một trong các công pháp Hàn Lập xem qua trong Tàng thư thất, đi kèm thần thông Ảo ảnh huyễn hóa phân thân.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ao-anh",
+    "name": "Ảo ảnh",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [],
+    "blurb": "Thần thông huyễn hóa ra phân thân giống đúc như mình để mê hoặc địch nhân.",
+    "detail": "Thần thông đi kèm Huyễn Linh quyết, huyễn hóa ra phân thân giống đúc như mình làm mê hoặc địch nhân. Tầng thứ càng cao thì số phân thân càng nhiều.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngung-nguyen-cong",
+    "name": "Ngưng Nguyên công",
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Thông thường",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Pháp quyết bình thường ghi trong quyển sách màu vàng Hàn Lập chọn, kèm thần thông phụ trợ Tụ Linh thuật.",
+    "detail": "Pháp quyết bình thường được ghi trong quyển sách màu vàng mà Hàn Lập chọn làm chủ công pháp, kèm thần thông phụ trợ Tụ Linh thuật nhưng không có đại thần thông. Hàn Lập chọn nó chủ yếu vì nghi ngờ mối liên hệ với quyển sách màu bạc trong tay hắn.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-linh-thuat",
+    "name": "Tụ Linh thuật",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông phụ trợ",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Thần thông phụ trợ đi kèm Ngưng Nguyên công, đẩy nhanh tốc độ tu luyện bằng cách tụ tập linh khí.",
+    "detail": "Thần thông phụ trợ ghi cùng Ngưng Nguyên công trong quyển sách màu vàng, có tác dụng đẩy nhanh tốc độ tu luyện bằng cách tụ tập linh khí.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thanh-nguyen-kiem-quang",
+    "name": "Thanh Nguyên kiếm quang",
+    "loai": "kiem-quyet",
+    "loaiLabel": "Kiếm quang",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [
+     "Hàn Lập"
+    ],
+    "blurb": "Công pháp kiếm quang Hàn Lập đang tu luyện, phóng ra đạo kiếm quang màu xanh to như cái bát.",
+    "detail": "Công pháp kiếm quang mà Hàn Lập đang tu luyện. Khi thi triển phóng ra một đạo kiếm quang màu xanh to như cái bát; chính đạo kiếm quang này bị quyển sách vàng ẩn nuốt trọn không tăm tích.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kiem-tu-chi-thuat",
+    "name": "Kiếm tu chi thuật",
+    "loai": "kiem-quyet",
+    "loaiLabel": "Kiếm thuật",
+    "phamCap": "",
+    "hePhai": "Cự Kiếm môn",
+    "soHuu": [],
+    "blurb": "Thuật điều khiển phi kiếm và tu luyện kiếm quang ghi trong quyển sách màu vàng ẩn bên trong sách bạc.",
+    "detail": "Nội dung dạy điều khiển phi kiếm cùng thuật tu luyện kiếm quang, ghi trong quyển sách màu vàng ẩn bên trong sách bạc. Thần diệu với tu sĩ Luyện Khí kỳ nhưng Hàn Lập cho là bình thường vì đã Trúc Cơ và đang tu Thanh Nguyên kiếm quang; hắn suy đoán hán tử chân trần Cự Kiếm môn ngày đó từng tu quyển này.",
+    "nguon": [
+     "@c0240"
+    ],
+    "rank": "D"
    }
   ]
  },
  "map": {
   "updatedAt": "2026-06-11",
-  "count": 18,
+  "count": 93,
   "nodes": [
    {
     "id": "kinh-chau",
@@ -12733,9 +22202,14 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "Hoàng Phong Cốc"
     ],
     "nguon": [
-     "c0144"
+     "c0144",
+     "@c0220"
     ],
-    "rank": "D"
+    "tabs": {},
+    "aliases": [
+     "Kiến châu"
+    ],
+    "rank": "C"
    },
    {
     "id": "thai-nhac-son",
@@ -12783,9 +22257,14 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "detail": "Nhắc gián tiếp tại c144 trong bối cảnh thất đại tiên phái Việt quốc và phạm vi địa bàn. Chi tiết cụ thể chưa được khai thác đầy đủ trong đợt này.",
     "theLucLienQuan": [],
     "nguon": [
-     "c0144"
+     "c0144",
+     "@c0221"
     ],
-    "rank": "D"
+    "tabs": {},
+    "aliases": [
+     "Nguyên Vũ Quốc"
+    ],
+    "rank": "C"
    },
    {
     "id": "cam-dia-hoang-phong-coc",
@@ -12802,12 +22281,1147 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0160"
     ],
     "rank": "D"
+   },
+   {
+    "id": "cam-dia-huyet-sac-thi-luyen",
+    "name": "Cấm địa (khu Huyết sắc thí luyện)",
+    "cn": "",
+    "capDo": "vuc",
+    "parentId": null,
+    "blurb": "Nơi diễn ra Huyết sắc thí luyện, chứa thiên địa linh vật ở khu trung tâm.",
+    "detail": "Khu cấm địa diễn ra Huyết sắc thí luyện, chứa nhiều thiên địa linh vật và linh dược tập trung ở khu trung tâm. Nhiều tu sĩ các tông môn va chạm tranh đoạt, tử vong liên tục; các nhóm tiến nhanh vào trung tâm để đục nước béo cò.",
+    "theLucLienQuan": [
+     "Linh thú sơn",
+     "Cự kiếm môn",
+     "Hoàng Phong cốc",
+     "Thiên khuyết bảo"
+    ],
+    "nguon": [
+     "@c0181"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "o-long-dam",
+    "name": "Ô long đàm",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Thủy đàm nước trời sinh dị chất, lạnh vô cùng khiến xung quanh như mùa đông.",
+    "detail": "Thủy đàm trong cấm địa, nước trời sinh dị chất, lạnh vô cùng làm quanh đàm như mùa đông. Nhờ đặc tính này, bươm bướm cảnh giới sợ lạnh của Linh thú sơn không thả được ở đây; việc Hàn Lập từng dừng chân tại Ô long đàm đã vô tình giúp hắn tránh một tai kiếp mà không hề hay biết.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0181"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vach-nui-co-quai",
+    "name": "Vách núi cổ quái",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Nơi Hàn Lập tìm thấy hai thi thể đồng quy vu tận.",
+    "detail": "Một vách núi cổ quái trong cấm địa, nơi Hàn Lập phát hiện hai thi thể thê thảm: một đệ tử Cự kiếm môn áo đen bị cắt đứt cổ và một sư huynh Hoàng Phong cốc áo vàng bị cự kiếm ghim xuống đất, kết cục của trận tử chiến không người thắng.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0181"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thai-nhac-son-mach",
+    "name": "Thái Nhạc sơn mạch",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Dãy núi nơi Hàn Lập từng thả Vân sí điểu tự do hoạt động.",
+    "detail": "Dãy sơn mạch được nhắc trong hồi ức của Hàn Lập: khi vào Hoàng Phong cốc, hắn thả Vân sí điểu tự do trong Thái Nhạc sơn mạch để tránh gây chú ý, về sau chim hoàn toàn hoang dã một đi không trở lại.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0181",
+     "@c0217"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "trung-tam-cam-dia-huyet-sac-thi-luyen",
+    "name": "Trung tâm cấm địa (Huyết Sắc thí luyện)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Khu trung tâm cấm địa có kỳ hoa dị quả thiên địa linh vật, được yêu thú bậc một cường đại bảo hộ và cấm chế vây khốn kẻ vào sâu.",
+    "detail": "Trung tâm cấm địa Huyết Sắc thí luyện có kỳ hoa dị quả thiên địa linh vật, được yêu thú bậc một cường đại (ngang đệ tử đỉnh cao Trúc Cơ kỳ) bảo hộ. Mỗi khi giết yêu thú lấy thuốc, chỗ đó lại sinh linh dược và yêu thú mới xuất hiện khó hiểu, không nhất định cùng loại. Có cấm chế vây khốn hoặc giết kẻ vào sâu, nên đệ tử các phái chỉ dám ở rìa thu thập.",
+    "theLucLienQuan": [
+     "Hóa Đao Ổ",
+     "Thanh Hư môn"
+    ],
+    "nguon": [
+     "@c0182"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nhat-tuyen-thien",
+    "name": "Nhất tuyến thiên",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Vị trí hiểm ác trong cấm địa: hai bên là vách núi cao vòi vọi, chỉ có một con đường nhỏ thông tới khu trung tâm.",
+    "detail": "Do cấm địa tuyệt cấm ngự khí phi hành nên tu sĩ buộc đi bộ theo đường nhỏ; chỗ giao nhau tại Nhất tuyến thiên dễ bị chặn cả trước lẫn sau — là nơi Hàn Lập bị hai tu sĩ phục kích một địch hai.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-dia-huyet-sac-thi-luyen-khu",
+    "name": "Cấm địa (khu truyền tống thí luyện)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Khu vực đệ tử các phái được truyền tống ngẫu nhiên vào; tuyệt cấm ngự khí phi hành; có linh dược khiến mọi người tranh giành, có thời hạn tồn tại rồi mới ra ngoài.",
+    "detail": "Trong cấm địa, bay qua sẽ bỏ mạng nên tu sĩ phải đi bộ theo đường nhỏ. Nơi tập trung linh dược quý khiến các tu sĩ tranh đoạt lẫn nhau; kẻ phục kích còn tính kế trốn chờ hết thời gian tồn tại của cấm địa rồi mới ra ngoài an toàn.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0183"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khu-rung-ram-nhat-tuyen-thien",
+    "name": "Khu rừng rậm",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Khu rừng rậm nơi phục kích giết người tốt; Hàn Lập tới nghỉ tạm khôi phục pháp lực sau trận chiến.",
+    "detail": "Sau khi rời Nhất tuyến thiên, Hàn Lập đi một hồi tới khu rừng rậm — nơi thích hợp phục kích giết người — quyết định tìm chỗ nghỉ tạm khôi phục pháp lực đã tổn thất.",
+    "nguon": [
+     "@c0184"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dong-suoi-nho-phu-can-trung-tam",
+    "name": "Dòng suối nhỏ khu phụ cận trung tâm",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "trung-tam-cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Dòng suối nhỏ ở khu phụ cận trung tâm cấm địa, nơi Hàn Thiên Nhai giết nữ đệ tử Yểm nguyệt tông.",
+    "detail": "Nằm ở khu phụ cận khu trung tâm huyết sắc thí luyện; bên dòng suối này Hàn Thiên Nhai lừa và giết nữ đệ tử Yểm nguyệt tông.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khu-trung-tam-vung-phia-tay",
+    "name": "Khu trung tâm — vùng phía tây",
+    "capDo": "khac",
+    "parentId": "trung-tam-cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Hố đất sản sinh kỳ trân dị thảo Hỏa Long thảo ở phía tây khu trung tâm, nơi ba tu sĩ diệt Hỏa lang ba mắt.",
+    "detail": "Vùng phía tây khu trung tâm có một hố đất mọc kỳ trân dị thảo; tại đây ba tu sĩ khác môn phái hợp sức diệt Hỏa lang ba mắt để hái Hỏa Long thảo mọc sau thi thể yêu thú.",
+    "theLucLienQuan": [
+     "Cự Kiếm môn"
+    ],
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khu-trung-tam-vung-phia-nam",
+    "name": "Khu trung tâm — vùng phía nam",
+    "capDo": "khac",
+    "parentId": "trung-tam-cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Vùng toàn cát vàng ở phía nam khu trung tâm, nơi Yểm Nguyệt tông truy sát và cô gái áo lục ẩn nấp dưới cát.",
+    "detail": "Phía nam khu trung tâm là một vùng nơi nơi đều là cát vàng; cặp đệ tử Yểm Nguyệt tông lùng sục nơi đây bằng Băng Trùy thuật và phù lục, còn cô gái áo lục Linh Thú sơn ẩn mình dưới cát để thoát nạn.",
+    "theLucLienQuan": [
+     "Yểm Nguyệt tông",
+     "Linh thú sơn"
+    ],
+    "nguon": [
+     "@c0191"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khu-trung-tam-huyet-sac-thi-luyen",
+    "name": "Khu vực trung tâm Huyết sắc thí luyện",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Vùng trung tâm của Huyết sắc thí luyện, bao bọc bởi tường đá phong hệ cấm pháp, chỉ vào được qua bốn cánh cửa đồng.",
+    "detail": "Vùng trung tâm được bao quanh bởi tường đá cao có phong hệ cấm pháp; ai cố nhảy tường sẽ bị cắt thành mảnh nhỏ, nên bốn cánh cửa đồng khắc minh ấn cổ văn đặt ở bốn phương là lối vào duy nhất. Bên trong là một mảng tiên cảnh đầy kỳ hoa dị thảo — cúc bạc to lớn, quái thụ đỏ, linh khí nồng đậm như động thiên phúc địa, một con đường đá vụn hiện ra khi thảo mộc uốn theo gió.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0192"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "buc-tuong-da-ba-tu-thi",
+    "name": "Bức tường đá ba tử thi",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "khu-trung-tam-huyet-sac-thi-luyen",
+    "blurb": "Bức tường đá cao vài trượng gần cửa đồng, trên đó ba tử thi bị đóng đinh xếp thành chữ đại.",
+    "detail": "Tường đá cao vài trượng hơi nghiêng nằm gần một cánh cửa đồng vào khu trung tâm. Trên tường có ba người ăn mặc khác nhau bị đại băng trùy đâm xuyên tứ chi, xếp thành chữ đại, đã chết vì mất máu — cảnh giết gà dọa khỉ lập uy nhằm dọa người không dám vào cổng.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0192"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khu-trung-tam-huyet-sac-thi-luyen-vao",
+    "name": "Khu vực trung tâm (lối vào)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "khu-trung-tam-huyet-sac-thi-luyen",
+    "blurb": "Nơi Hàn Lập vừa tiến vào để kiếm thuốc; trước cửa có bức tường với “kiệt tác” máu thịt do Hàn Thiên Nhai tạo ra.",
+    "detail": "Khu vực trung tâm của Huyết sắc thí luyện, chốn tân đệ tử tiến vào tìm dược. Trước cửa có bức tường được nhắc tới với cảnh máu thịt ghê rợn, được Chung Ngô gọi là “kiệt tác” do Hàn Thiên Nhai làm ra.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0193"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tang-thu-nhat-hoa-vien",
+    "name": "Tầng thứ nhất (hoa viên)",
+    "capDo": "khac",
+    "parentId": "khu-trung-tam-huyet-sac-thi-luyen",
+    "blurb": "Khu ngoài cùng của khu trung tâm cấm địa, đẹp như tranh với hoa thảo thụ mộc nhưng ít vật hữu dụng cho tu tiên.",
+    "detail": "Tầng thứ nhất trong ba tầng vỏ-thịt-hạt của khu trung tâm; kỳ trân hiếm, đa số hoa thảo chỉ để xem chơi không dùng được cho tu tiên. Nghi là hoa viên của chủ nhân cấm địa.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0194"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tang-thu-hai-son-mach-suong-mu",
+    "name": "Tầng thứ hai (sơn mạch sương mù)",
+    "capDo": "khac",
+    "parentId": "khu-trung-tam-huyet-sac-thi-luyen",
+    "blurb": "Sơn mạch lớn quanh năm bị sương mù dày bao phủ, có sơn động, thung lũng, thạch ốc, thạch điện, thiên địa linh dược và yêu thú thủ hộ.",
+    "detail": "Tầng thứ hai chứa thượng phẩm linh dược thật sự hữu dụng, trong đó có ba vị chủ dược luyện Trúc Cơ đan. Sương mù dày khiến người tu tiên bình thường đi vài bước là lạc, phải sờ soạng dò từng bước. Trong sơn mạch có vô số yêu thú như Hỏa diễm thử, Truy phong thỏ, Kim quang mãng, Băng hỏa lang, phần lớn làm thủ hộ thú bảo vệ linh dược.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0194"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tang-thu-ba-bao-thap",
+    "name": "Tầng thứ ba (bảo tháp)",
+    "capDo": "khac",
+    "parentId": "khu-trung-tam-huyet-sac-thi-luyen",
+    "blurb": "Trung tâm cấm địa có tòa bảo tháp gần 100 trượng, quanh là đá lớn và rừng rậm xanh biếc; nghi là nơi ở của chủ nhân cấm địa.",
+    "detail": "Tầng thứ ba thần bí nhất, ngăn với tầng hai bởi cấm chế cường đại mà đệ tử Luyện khí kỳ không khai phá được, còn tu sĩ Trúc Cơ kỳ lại không được vào cấm địa, nên bên trong bảo tháp có gì vẫn là bí ẩn.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0194"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngon-nui-cam-dia-dai-son",
+    "name": "Ngọn núi cấm địa (đại sơn)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen-khu",
+    "blurb": "Ngọn núi cao ngàn trượng trong cấm địa, quanh núi bao phủ sương mù dày đặc phải nhờ Nguyệt dương bảo châu xua tan; trong núi có yêu thú, hai sườn kéo dài liên miên nguy hiểm.",
+    "detail": "Núi cao ngàn trượng, cao ngất trong mây không thấy đỉnh, đầy quái thạch gờ đá và cây đại thụ nhiều người ôm; hai sườn núi kéo dài không dứt, địa thế nguy hiểm. Tiếng yêu thú gầm nhẹ vọng ra từ trong núi. Quanh núi bao phủ sương mù trắng dày đặc che lấp bầu trời, không nhìn rõ dù chỉ cách một trượng; trước khi có Nguyệt dương bảo châu không ai dám tới gần. Sau khi sương tan, các tu sĩ ẩn nấp đồng loạt lao vào đại sơn theo các hướng khác nhau.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0195"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thong-dao-loi-vao-len-nui",
+    "name": "Thông đạo (lối vào lên núi)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "ngon-nui-cam-dia-dai-son",
+    "blurb": "Con đường nhỏ duy nhất an toàn tiến vào ngọn núi cấm địa, khu vực lối vào nhiều sương mù với bụi rậm hoang thảo có thể giấu mười mấy người.",
+    "detail": "Con đường nhỏ duy nhất an toàn để tiến vào ngọn núi, gần chỗ Hàn Lập ẩn nấp. Khu vực lối vào nhiều sương mù, bụi rậm hoang thảo rậm rạp có thể ẩn giấu mười mấy người. Hàn Lập ẩn trong bụi rậm nơi đây, chờ Nguyệt dương bảo châu xua tan sương mù rồi mới quan sát các tu sĩ khác lên núi.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0195"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-dia-nui-lua",
+    "name": "Cấm địa núi lửa",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Cấm địa miệng núi lửa nơi Hàn Lập và các đệ tử tiến vào thí luyện, đầy yêu thú các cấp.",
+    "detail": "Cấm địa núi lửa là khu vực Hàn Lập cùng đệ tử các phái tiến vào thí luyện. Khu vực ngoài chủ yếu có yêu thú cấp thấp, càng vào giữa miệng núi lửa càng có yêu thú cấp trung cao. Vì nguy hiểm nhiều nên tin tức về nơi có linh dược trong tư liệu lại rất ít.",
+    "theLucLienQuan": [
+     "Hoàng Phong Cốc",
+     "Thanh Hư môn",
+     "Yểm Nguyệt tông"
+    ],
+    "nguon": [
+     "@c0196"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "son-dong-tu-hau-hoa",
+    "name": "Sơn động sản sinh Tử Hầu hoa",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-nui-lua",
+    "blurb": "Sơn động bí mật nơi Hàn Lập chạy đến; trăm năm trước bị hái, nay còn cây con Tử Hầu hoa.",
+    "detail": "Một sơn động bí mật trong cấm địa núi lửa sản sinh Tử Hầu hoa. Trăm năm trước nơi đây đã bị hái sạch, nay chỉ còn cây con chưa trưởng thành mà người khác coi vô dụng — chính là mục tiêu trong kế hoạch hái dược của Hàn Lập.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0196"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "loi-vao-cho-pha-cam",
+    "name": "Lối vào chỗ phá cấm",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-nui-lua",
+    "blurb": "Nơi người giữ cửa bảy đại phái đứng chờ ngoài cấm địa để theo dõi cuộc đánh cược.",
+    "detail": "Lối vào chỗ phá cấm là nơi bảy vị cao thủ Kết Đan kỳ giữ cửa của các phái đứng chờ ngoài cấm địa, trong đó có Lý sư tổ của Hoàng Phong cốc, Phù Vân Tử của Thanh Hư môn và Nghê Thường tiên tử của Yểm Nguyệt tông, cùng theo dõi kết quả cuộc đánh cược thí luyện.",
+    "theLucLienQuan": [
+     "Thất đại phái"
+    ],
+    "nguon": [
+     "@c0196"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bi-dong-tu-hau-hoa",
+    "name": "Bí động (sơn động chứa Tử Hầu hoa)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-nui-lua",
+    "blurb": "Sơn động tự nhiên chứa Tử Hầu hoa, do một con rết yêu thú canh giữ.",
+    "detail": "Động khẩu cao mấy trượng do tự nhiên tạo thành, đá núi màu xanh nhạt không dấu đục đẽo, nhìn từ ngoài bình thường như các sơn động hoang dã. Thông đạo hẹp dài, kết thúc là một sảnh đá thiên nhiên với vách chung nhũ lấp lánh và khối đá tím mọc Tử Hầu hoa. Đây cũng là sào huyệt của con rết yêu thú bậc trung bảo vệ linh dược.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0197"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "son-coc-dong-nam-tranh-tu-hau-hoa",
+    "name": "Sơn cốc đông nam (tranh Tử Hầu hoa tím)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "khu-trung-tam-huyet-sac-thi-luyen",
+    "blurb": "Sơn cốc u tĩnh phía đông nam vị trí Hàn Lập, nơi ba tu sĩ giằng co tranh hai đóa Tử Hầu hoa tím bên cạnh xác Chích giác lộc.",
+    "detail": "Sơn cốc u tĩnh cách Hàn Lập về phía đông nam, nơi thanh niên áo lam, lão giả áo xanh và trung niên đạo sĩ đứng hình tam giác kiêng kị nhau, tranh đoạt hai đóa Tử Hầu hoa tím thành thục; bên cạnh có xác Chích giác lộc thân chia đôi.",
+    "theLucLienQuan": [
+     "Thiên khuyết bảo",
+     "Thanh Hư môn"
+    ],
+    "nguon": [
+     "@c0198"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thach-oc-tren-dinh-nui",
+    "name": "Thạch ốc trên đỉnh núi",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi diễn ra trận đoạt linh thảo giữa phe họ Trần và phe Chung Ngô.",
+    "detail": "Thạch ốc trên đỉnh núi, nơi bốn người chia hai phe tranh đoạt linh thảo; Trần thất muội sau đó lấy cớ hái thuốc đi vào thạch ốc, đại ca có kế sách đi theo.",
+    "theLucLienQuan": [
+     "Trần thị gia tộc",
+     "Hóa Đao ổ",
+     "Linh thú sơn"
+    ],
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "rung-ram-nu-ao-luc",
+    "name": "Rừng rậm (cô gái áo lục)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi cô gái áo lục điều khiển tiểu điêu trắng đấu quái xà hai đầu cạnh cây đại thụ đỏ.",
+    "detail": "Khu rừng rậm có cây đại thụ đỏ như lửa mang vài trái đỏ to bằng nắm đấm; cô gái áo lục điều khiển tiểu điêu trắng gian nan đấu con quái xà hai đầu.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "son-dong-hep-dai-duoi-dat",
+    "name": "Sơn động hẹp dài dưới đất",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Sơn động hẹp dài dưới đất nơi đệ tử Yểm Nguyệt tông đi qua.",
+    "detail": "Sơn động hẹp và dài dưới đất, nơi khoảng 15-16 đệ tử Yểm Nguyệt tông sống sót áo trắng lặng lẽ đi tới, dẫn đầu là cô gái trẻ Hàn Lập từng thấy xa xa.",
+    "theLucLienQuan": [
+     "Yểm Nguyệt tông"
+    ],
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dam-nuoc-xanh-biec-bich-thuy-ngac",
+    "name": "Đầm nước xanh biếc (sào huyệt Bích Thủy ngạc)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-nui-lua",
+    "blurb": "Đầm sâu màu xanh biếc, giữa có đá ngầm đen, dưới có bí quật sâu vài chục trượng — sào huyệt Bích Thủy ngạc chứa nhiều linh dược.",
+    "detail": "Một đầm nước xanh biếc trong cấm địa, giữa đầm có vài khối đá ngầm đen, phía dưới là bí quật sâu vài chục trượng. Đây là sào huyệt của yêu thú đỉnh cấp Bích Thủy ngạc (con từng nuốt chết một đệ tử Yểm Nguyệt tông), chứa nhiều linh dược. Đoàn Yểm Nguyệt tông đã dẫn dụ và diệt Bích Thủy ngạc tại đây.",
+    "theLucLienQuan": [
+     "Yểm Nguyệt tông"
+    ],
+    "nguon": [
+     "@c0200"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thach-dien-nho-gan-dinh-nui",
+    "name": "Thạch điện nhỏ gần đỉnh núi",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-nui-lua",
+    "blurb": "Tòa thạch điện nhỏ gần đỉnh núi trồng linh dược kỳ thảo, có Thiên Linh quả và Liệt Dương hoa; nơi diễn ra cuộc chiến cô gái áo lục và hán tử Cự Kiếm môn.",
+    "detail": "Tòa thạch điện nhỏ nằm gần đỉnh núi trong cấm địa, trồng nhiều linh dược kỳ thảo, trong đó có Thiên Linh quả (chưa thành thục — mục tiêu Hàn Lập cần nhất) và Liệt Dương hoa. Trước thạch điện có khoảng đất trống nơi hán tử Cự Kiếm môn áp bức cô gái áo lục Linh Thú sơn để tranh linh dược.",
+    "theLucLienQuan": [
+     "Cự kiếm môn",
+     "Linh thú sơn"
+    ],
+    "nguon": [
+     "@c0200"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thach-phong-linh-duoc-vu-si",
+    "name": "Thạch phòng chứa linh dược",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Căn phòng đá chứa số linh dược mà Vũ Si treo làm phần thưởng nếu Hàn Lập thắng trận.",
+    "detail": "Trong trận khiêu chiến, Vũ Si tuyên bố nếu Hàn Lập thắng thì sẽ tha cô gái áo lục và cho toàn bộ linh dược trong thạch phòng làm phần thưởng.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0201"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "son-dong-thien-nhien-xoa-tri-nho",
+    "name": "Sơn động thiên nhiên (xóa trí nhớ)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Động thiên nhiên trên đỉnh núi phụ cận nơi Hàn Lập đưa Hạm Vân Chi tới để thi triển Vô ưu châm pháp.",
+    "detail": "Một sơn động thiên nhiên gần đỉnh núi trong cấm địa Huyết sắc thí luyện. Hàn Lập ôm Hạm Vân Chi đang hôn mê tới đây, hồi phục thể lực rồi thi triển Vô ưu châm pháp kết hợp Vong Trần hoàn để xóa trí nhớ nửa ngày của nàng. Sau đó hắn nấp sau đại thụ ngoài động quan sát cho tới khi nàng tỉnh dậy rời đi.",
+    "theLucLienQuan": [
+     "Linh thú sơn"
+    ],
+    "nguon": [
+     "@c0203"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thach-oc-linh-duoc-dinh-nui",
+    "name": "Thạch ốc (chứa linh dược trên đỉnh núi)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Nhà đá chứa linh dược trên đỉnh núi mà Hàn Lập thu hết, riêng chừa mấy đóa Liệt Dương hoa cho Hạm Vân Chi.",
+    "detail": "Thạch ốc là căn nhà đá trên đỉnh núi trong cấm địa, bên trong chứa nhiều linh dược trong đó có Liệt Dương hoa. Hàn Lập vào thu hết linh dược sau khi đánh hôn mê Hạm Vân Chi.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0203"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thach-dien-co-trong-cam-dia",
+    "name": "Thạch điện cổ (trong cấm địa)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "khu-vuc-trung-tam-huyet-sac-thi-luyen",
+    "blurb": "Tòa thạch điện cổ kính lớn giữa vùng lòng chảo bị quái thạch vây quanh, cửa vào rất nhỏ, bề mặt có thanh quang và bị thi cấm chế mạnh.",
+    "detail": "Nằm giữa một vùng lòng chảo bốn phía bị quái thạch cao lớn hình thù kỳ lạ vây quanh, mưa gió không vào. Thạch điện cổ kính lớn nhưng cửa vào chỉ đủ hai người; bề mặt ngẫu nhiên có thanh quang lờ mờ lưu động do bị thi cấm chế mạnh — cấm chế bài xích cả thần thức tu sĩ Kết đan kỳ. Bên trong qua hành lang uốn lượn tới một đại sảnh trống không có lan can ngọc thạch, bên dưới là địa đạo dẫn xuống thế giới đầm lầy.",
+    "theLucLienQuan": [
+     "Yểm Nguyệt tông"
+    ],
+    "nguon": [
+     "@c0204"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "the-gioi-dam-lay-duoi-dia-dao",
+    "name": "Thế giới đầm lầy (dưới địa đạo)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "thach-dien-co-trong-cam-dia",
+    "blurb": "Thế giới đầm lầy kỳ dị dưới lòng đất cả trăm mét, cao khoảng ba mươi trượng, rộng vài dặm, bùn đen sủi bọt, giữa treo hộp vàng bảo vật.",
+    "detail": "Cuối thông đạo địa đạo là một thế giới đầm lầy kỳ dị, cao khoảng ba mươi trượng, rộng vài dặm, khắp nơi bùn đen sủi bọt; gió nóng sinh ra từ trên khoảng không đầm lầy tạo thế cân bằng đối lưu. Bốn phía biên đầm lầy có kỳ hoa linh thảo cùng mấy loại thiên địa linh dược. Trung gian có tiểu đình bạch ngọc treo lơ lửng một hộp vàng phi phàm. Trong đầm lầy còn ẩn nấp Hắc lân mãng — cự mãng đã nuốt mười mấy đệ tử các phái.",
+    "theLucLienQuan": [
+     "Yểm Nguyệt tông"
+    ],
+    "nguon": [
+     "@c0204"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dia-dao-duoi-lan-can-thach-dien",
+    "name": "Địa đạo dưới lan can",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "thach-dien-co-trong-cam-dia",
+    "blurb": "Thông đạo bằng đá dưới lan can ngọc thạch giữa đại sảnh thạch điện, có mấy trăm bậc thang đi xuống với gió nóng khốc liệt.",
+    "detail": "Nằm dưới lan can ngọc thạch ở trung ương đại sảnh thạch điện: một địa đạo tối đen có bậc thang đi xuống, không ngừng có gió nóng thổi ra. Thông đạo bằng đá ban đầu chỉ đủ một người, sau vài trăm bậc rộng ra, gió nóng càng khốc liệt; đi xuống gần cả trăm mét thì chấm dứt, dẫn tới thế giới đầm lầy.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0204"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vung-long-chao-thach-dien",
+    "name": "Vùng lòng chảo (quanh thạch điện)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "khu-vuc-trung-tam-huyet-sac-thi-luyen",
+    "blurb": "Vùng lòng chảo bốn phía bị quái thạch cao lớn hình thù kỳ lạ vây quanh, mưa gió không vào, chính giữa là tòa thạch điện cổ.",
+    "detail": "Bốn phía bị quái thạch cao lớn hình thù kỳ lạ vây quanh nên mưa gió không lọt vào; chính giữa vùng lòng chảo là tòa thạch điện cổ. Quanh đó không có dấu vết người tới, khiến Hàn Lập thấy cổ quái dù tư liệu do Chung Ngô đưa cho.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0204"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thong-dao-da-dia-dao-chien-truong",
+    "name": "Thông đạo đá / địa đạo (dưới lòng đất)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Đường ra vào khu vực chiến đấu hơn mười trượng dưới lòng đất, bị Tiểu ngũ hành phù phong bế.",
+    "detail": "Thông đạo đá hơn mười trượng dưới lòng đất là đường ra vào khu vực chiến đấu với Mặc Giao. Khi Tiểu ngũ hành phù phát động, hai bên thông đạo đá ép lại kín mít phong bế lối ra. Bên ngoài thông đạo là đại sảnh thạch điện nơi đệ tử Yểm Nguyệt tông tụ họp.",
+    "theLucLienQuan": [
+     "Yểm Nguyệt tông"
+    ],
+    "nguon": [
+     "@c0206"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "the-gioi-duoi-long-dat-khong-gian-dia-ha",
+    "name": "Thế giới dưới lòng đất (không gian địa hạ)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Không gian dưới lòng đất nơi diễn ra trận chiến giết Mặc Giao.",
+    "detail": "Không gian dưới lòng đất nơi Hàn Lập cùng cô gái hợp lực giết Mặc Giao; được kim quang chiếu sáng trong khoảnh khắc khi kim chuyên hạ xuống.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0207"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tuyet-dia-cam-che-bach-ngoc-dinh",
+    "name": "Tuyệt địa cấm chế (bạch ngọc đình)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi Hàn Lập và nữ tử tỉnh dậy; có bạch ngọc đình, hộp vàng và linh dược.",
+    "detail": "Tuyệt địa có cấm chế phong bế, nơi Hàn Lập và nữ tử tỉnh dậy sau cơn hôn mê. Có bạch ngọc đình, phía trước đặt hộp vàng, xung quanh mọc hơn mười gốc linh dược. Muốn rời khỏi phải hai người hợp lực phá cấm mới ra được.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0208"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-dia-thong-dao-cua-vao",
+    "name": "Cấm địa (thông đạo cửa vào)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "cam-dia-huyet-sac-thi-luyen",
+    "blurb": "Khu vực cửa vào cấm địa nơi bảy tu sĩ Kết đan kỳ phá cấm đón người ra.",
+    "detail": "Chiều ngày thứ năm từ khi vào cấm địa, bảy tu sĩ Kết đan kỳ công kích mở cửa vào; lần phá cấm dễ hơn năm ngày trước và thông đạo giữ vững không biến mất sau khi thu pháp bảo, nối thẳng vào cấm địa; đệ tử các phái lần lượt ra, thông đạo sắp đóng khi chỉ còn một canh giờ.",
+    "theLucLienQuan": [
+     "Yểm Nguyệt tông",
+     "Hoàng phong cốc",
+     "Linh thú sơn",
+     "Cự kiếm môn"
+    ],
+    "nguon": [
+     "@c0209"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dam-lay-trong-long-dat",
+    "name": "Đầm lầy trong lòng đất",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "the-gioi-dam-lay-duoi-dia-dao",
+    "blurb": "Nơi Hàn Lập và Nam Cung Uyển bị cấm chế, từ đây đánh thông đường hầm nối lên mặt đất.",
+    "detail": "Hai người dùng Chu tước hoàn và Kim quang chuyên phù bảo đánh thông một đường hầm từ đầm lầy lòng đất nối lên mặt đất; mỗi khi Hàn Lập hết pháp lực Nam Cung Uyển lại truyền sang, tiêu hao hai ba chục năm công lực.",
+    "theLucLienQuan": [
+     "Yểm Nguyệt tông"
+    ],
+    "nguon": [
+     "@c0209"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-dia-yem-nguyet",
+    "name": "Cấm địa",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi các phái vừa vào tìm linh dược; sau khi kết thúc các đội lục tục rời đi.",
+    "detail": "Khu vực các phái Hoàng phong cốc, Yểm Nguyệt tông, Thanh Hư môn, Linh thú sơn vào tìm linh dược. Sau khi phân định thắng thua đánh cuộc, các đội lần lượt cáo từ rời đi; Lý sư tổ ngửa đầu nhìn im lặng.",
+    "theLucLienQuan": [
+     "Hoàng Phong Cốc",
+     "Yểm Nguyệt tông",
+     "Thanh Hư môn",
+     "Linh thú sơn"
+    ],
+    "nguon": [
+     "@c0211"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nghi-su-dien-hoang-phong-coc",
+    "name": "Nghị sự điện",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Điện nghị sự trong Hoàng phong cốc, nơi Lý Hóa Nguyên dẫn hai quản sự vào sau khi trở về cốc.",
+    "detail": "Nơi bàn việc trong Hoàng phong cốc; sau khi đoàn cưỡi Ngân giáp giác mãng bay mấy ngày về tới cốc, Lý Hóa Nguyên liền dẫn hai gã quản sự tiến vào để xử lý công việc.",
+    "theLucLienQuan": [
+     "Hoàng Phong Cốc"
+    ],
+    "nguon": [
+     "@c0212",
+     "@c0218",
+     "@c0219"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "bach-thao-vien-hoang-phong-coc",
+    "name": "Bách thảo viên",
+    "aliases": [
+     "Bách dược viên"
+    ],
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Khu vườn dược trong Hoàng phong cốc, có nhà cỏ nơi Mã sư bá cư ngụ và cuối chương giao lại cho Hàn Lập trông coi.",
+    "detail": "Vườn trồng linh dược của Hoàng phong cốc, bên trong có một gian nhà cỏ nơi Mã sư bá ở và coi sóc; kết chương, Mã sư bá cáo từ và trả lại quyền trông nom Bách dược viên cho Hàn Lập.",
+    "theLucLienQuan": [
+     "Hoàng Phong Cốc"
+    ],
+    "nguon": [
+     "@c0212"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bach-duoc-vien-hoang-phong-coc",
+    "name": "Bách dược viên",
+    "capDo": "khac",
+    "parentId": "hoang-phong-coc",
+    "blurb": "Nơi Hàn Lập cư trú và trồng linh dược, chuẩn bị luyện đan.",
+    "detail": "Khu vườn dược trong Hoàng Phong Cốc nơi Hàn Lập ở. Sau chuyến cấm địa, hắn về đây nghỉ ngơi, an bài trồng ba vị chủ dược và chuẩn bị suốt ba năm cho việc luyện Trúc cơ đan.",
+    "theLucLienQuan": [
+     "Hoàng Phong Cốc"
+    ],
+    "nguon": [
+     "@c0213",
+     "@c0217"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "nhac-loc-dien-hoang-phong-coc",
+    "name": "Nhạc lộc điện",
+    "capDo": "khac",
+    "parentId": "hoang-phong-coc",
+    "blurb": "Điện có địa hỏa dùng để luyện khí, luyện đan; có Truyền tống trận và thạch phòng địa hỏa.",
+    "detail": "Điện trong Hoàng Phong Cốc chứa địa hỏa phục vụ luyện khí và luyện đan. Nơi đây có Truyền tống trận do tu sĩ Trúc cơ kỳ bảo hộ và các thạch phòng địa hỏa. Hàn Lập đến đây mượn một gian địa hỏa hỏa lực ổn định để luyện Trúc cơ đan.",
+    "theLucLienQuan": [
+     "Hoàng Phong Cốc"
+    ],
+    "nguon": [
+     "@c0213"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dia-hoa-chi-oc",
+    "name": "Địa Hỏa Chi Ốc",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Khu luyện đan luyện khí bằng ổ thạch của bổn môn, nơi địa hỏa thịnh vượng.",
+    "detail": "Khu vực luyện đan luyện khí của bổn môn, gồm thông đạo ổ thạch, một đại sảnh hình tròn siêu lớn bằng ổ thạch (đường kính bốn năm mươi trượng, cao hơn mười trượng) và ba mươi sáu gian địa hỏa quây quanh. Phía dưới đại sảnh là nơi địa hỏa thịnh vượng nhất; ổ thạch chịu nhiệt cao, không sợ đặc tính cổ quái của địa hỏa nên các tổ sư dùng để xây dựng.",
+    "theLucLienQuan": [
+     "Bổn môn (tông môn của Hàn Lập)"
+    ],
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "gian-muoi-chin-dia-hoa-chi-oc",
+    "name": "Gian mười chín (phòng luyện đan)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "dia-hoa-chi-oc",
+    "blurb": "Phòng luyện đan Hàn Lập được cấp trong Địa Hỏa Chi Ốc.",
+    "detail": "Phòng luyện đan vuông vắn cỡ bảy tám trượng, giữa có bếp lò hình tròn bằng ổ thạch cao nửa thước, hai sườn khảm tám đầu rồng đỏ rực làm địa hỏa khẩu, cạnh có bồ đoàn xanh biếc, trên vách treo các hồ lô hỏa tinh. Khi đóng cửa, phòng phong bế tuyệt với ngoại giới trừ khi vài tu sĩ Kết đan kỳ hợp lực mới vào được.",
+    "theLucLienQuan": [
+     "Bổn môn (tông môn của Hàn Lập)"
+    ],
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cac-nuoc-phia-cuc-tay",
+    "name": "Các nước phía cực tây",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Các nước phía cực tây, nơi các sư tổ đem ổ thạch về.",
+    "detail": "Các quốc gia ở phía cực tây, nơi sinh ra ổ thạch; các sư tổ phải đem về từ đây vì Việt quốc không sinh ra ổ thạch, việc vận chuyển rất phiền toái.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phong-dia-hoa",
+    "name": "Phòng địa hỏa",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Khu vực luyện đan/luyện khí có địa hỏa, đóng bằng mười tám tấm cửa đá phát bạch quang.",
+    "detail": "Nơi cung cấp địa hỏa cho đệ tử tông môn luyện đan, thu phí sử dụng và do một đại hán quản lý. Hàn Lập thuê nơi đây gần một năm để luyện Trúc cơ đan rồi bế quan trùng quan Trúc Cơ ngay bên trong, cửa đá đóng chặt bằng bạch quang cho tới khi hắn xuất quan.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0215",
+     "@c0216"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "bach-co-duong-hoang-phong-coc",
+    "name": "Bách cơ đường",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoang-phong-coc",
+    "blurb": "Nơi Chung chưởng môn đang nghị sự khi Hàn Lập tới Nghị sự điện.",
+    "detail": "Một nơi nghị sự trong Hoàng Phong Cốc; khi Hàn Lập tới Nghị sự điện thì Chung Linh Đạo còn đang họp bàn ở Bách cơ đường chưa về.",
+    "theLucLienQuan": [
+     "Hoàng Phong Cốc"
+    ],
+    "nguon": [
+     "@c0218"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ky-lan-cac-hoang-phong-coc",
+    "name": "Kỳ lân các",
+    "capDo": "khac",
+    "parentId": "bon-mon-han-lap-dia-hoa",
+    "blurb": "Một trong các chỗ trọng yếu nhất của Hoàng phong cốc, chuyên nuôi dưỡng và thuần hóa linh thú.",
+    "detail": "Nơi Hoàng phong cốc nuôi dưỡng và thuần hóa linh thú (yêu thú bị thuần phục), phần lớn là linh thú cấp một, vài con cấp hai là của người khác gửi. Hàn Lập đến đây thuê Song đồng thử để hỗ trợ tìm nơi lập động phủ.",
+    "theLucLienQuan": [
+     "Hoàng phong cốc"
+    ],
+    "nguon": [
+     "@c0219"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nghenh-khach-dai-ky-lan-cac",
+    "name": "Nghênh khách đài",
+    "capDo": "khac",
+    "parentId": "ky-lan-cac-hoang-phong-coc",
+    "blurb": "Tòa tiểu sơn xanh biếc của Kỳ lân các, nơi đệ tử ra tiếp đón khách đến thuê linh thú.",
+    "detail": "Tòa tiểu sơn xanh biếc thuộc Kỳ lân các, là nơi một nữ đệ tử trẻ trực để tiếp đón khách thuê linh thú, trong đó có Hàn Lập.",
+    "theLucLienQuan": [
+     "Hoàng phong cốc"
+    ],
+    "nguon": [
+     "@c0219"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-nhan-chi-tuyen",
+    "name": "Linh nhãn chi tuyền",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nguồn suối phun nước trong động nham thạch, nước ẩn linh khí nồng, một dạng linh nhãn thực thể hóa hiếm thấy.",
+    "detail": "Linh nhãn chi tuyền là nguồn suối nhỏ phun nước không ngừng nằm giữa một động nham thạch lớn hơn mười trượng ở phía Tây Bắc Thái nhạc sơn mạch. Linh khí ẩn trong nước, đường vào khéo léo qua khe hở vách núi cao hơn trăm trượng. Đây là một dạng linh nhãn thực thể hóa hiếm thấy thế gian, hình thành khi linh khí quá nồng và duy trì hơn vạn tới mười vạn năm; nó phát linh khí nồng hơn nhiều, tăng tốc tu luyện gần hai ba thành và có thể dùng để di chuyển pháp lực mà không hao tổn công hiệu. Hàn Lập phát hiện nơi này và định khai mở động phủ tại đây.",
+    "theLucLienQuan": [
+     "Hàn Lập"
+    ],
+    "nguon": [
+     "@c0220"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-thu-son-ky-lan-cac",
+    "name": "Linh thú sơn (Kỳ lân các)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "ky-lan-cac-hoang-phong-coc",
+    "blurb": "Núi của Kỳ lân các chia thành nhiều khu cấm chế nuôi gần ngàn con linh thú.",
+    "detail": "Linh thú sơn do Kỳ lân các quản lý, được các cấm chế trận pháp đủ màu chia thành nhiều khối phong bế, mỗi khối tuần dưỡng một loại linh thú; toàn sơn nuôi gần ngàn con. Nghênh khách đài trên núi là nơi tiếp khách và cho thuê linh thú; chỉ đệ tử Kỳ lân các được vào các khu nuôi thú.",
+    "theLucLienQuan": [
+     "Kỳ lân các",
+     "Hoàng phong cốc"
+    ],
+    "nguon": [
+     "@c0220"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khe-chau",
+    "name": "Khê châu",
+    "cn": "",
+    "capDo": "chau",
+    "parentId": "viet-quoc",
+    "blurb": "Châu quận nhỏ nhất của Việt quốc, hơn ba phần tư sa mạc, không đại phái trú chân.",
+    "detail": "Khê châu là châu quận nhỏ nhất của Việt quốc, hơn ba phần tư diện tích là sa mạc, dân số chỉ hơn vạn người. Do nghèo vật lực nhân lực, không đại phái nào trong thất đại phái trú chân tại đây. Khê châu giáp Kiến châu ở hướng tây, cách nơi Hàn Lập chọn khai mở động phủ hai trăm dặm về hướng tây.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0220"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phuong-thi-thien-tinh-tong",
+    "name": "Phường thị Thiên Tinh Tông (Tinh Trần Các)",
+    "capDo": "khac",
+    "parentId": "nguyen-vu-quoc",
+    "blurb": "Chợ tu tiên bố trí hình vòng tròn của Thiên Tinh Tông, trung tâm là tòa Tinh Trần Các, quanh phường có cấm pháp cấm phi hành.",
+    "detail": "Phường thị Thiên Tinh Tông là chợ tu tiên bố trí hình vòng tròn, to hơn phường thị Hoàng Phong Cốc ba phần. Giữa trung tâm là tòa nhà cao hai ba mươi trượng mang ba chữ bạc Tinh Trần Các — cửa hàng chính của tông môn — trong khi các tòa xung quanh chỉ cao bằng một phần mười. Quanh phường thị có cấm pháp cấm phi hành buộc tu sĩ hạ xuống đất. Bên trong có các gian luyện khí, gian chế phù và một Linh thú viện thuần dưỡng yêu thú kể cả thượng cấp làm hộ viện linh thú.",
+    "theLucLienQuan": [
+     "Thiên Tinh Tông"
+    ],
+    "nguon": [
+     "@c0221"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-tuyen-nham-dong",
+    "name": "Linh tuyền nham động (động phủ Hàn Lập)",
+    "capDo": "khac",
+    "parentId": "viet-quoc",
+    "blurb": "Nham động chứa linh nhãn chi tuyền được Hàn Lập cải tạo thành động phủ mật thất gồm mười ba phòng và một đại sảnh, kèm dược viên bí mật.",
+    "detail": "Linh tuyền nham động là nham động ẩn chứa một linh nhãn chi tuyền nhất cấp mà Hàn Lập tình cờ tìm được ở phụ cận đỉnh núi. Hắn dùng ngân kiếm và kim nhận mở rộng, hình thành động phủ sơ bộ gồm mười ba căn phòng lớn nhỏ và một đại sảnh trên mặt đất, bố trí tiểu mê tung trận che dấu toàn bộ lối ra vào và lập một dược viên bí mật gần đó. Nơi đây trở thành mật thất luyện công bí mật giúp hắn tăng tốc tu luyện.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0221"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phuong-thi-nho-tieu-dieu",
+    "name": "Phường thị nhỏ (tiêu điều)",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Phường thị tiêu điều Hàn Lập ghé, chỉ khoảng ba mươi người tu tiên bên ngoài, phần lớn tập trung về phía Tinh Trần Các ở giữa.",
+    "detail": "Một phường thị nhỏ và tiêu điều, số người tu tiên bên ngoài chỉ khoảng ba mươi người. Phần lớn người đều đi về phía Tinh Trần Các nằm ở giữa phường thị. Trong phường thị có gian hàng luyện khí của Từ lão giả với chiêu bài cam kết luyện khí thất bại trả lại bằng linh thạch.",
+    "theLucLienQuan": [
+     "Từ gia"
+    ],
+    "nguon": [
+     "@c0222"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tinh-tran-cac",
+    "name": "Tinh Trần Các",
+    "capDo": "khac",
+    "parentId": "phuong-thi-nho-tieu-dieu",
+    "blurb": "Cửa hàng ở giữa phường thị, nơi phần lớn người tu tiên đi tới; Hàn Lập cho rằng đây là nơi có loại trận kỳ, trận bàn tốt nhất.",
+    "detail": "Cửa hàng nằm ở giữa phường thị nhỏ, thu hút phần lớn người tu tiên tới. Hàn Lập nhắm tới đây vì cho rằng chỉ Tinh Trần Các mới có loại trận kỳ, trận bàn tốt nhất mà hắn cần mua nhiều.",
+    "theLucLienQuan": [
+     "Thiên Tinh Tông"
+    ],
+    "nguon": [
+     "@c0222"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "gian-hang-luyen-khi-tu-lao-gia",
+    "name": "Gian hàng luyện khí của Từ lão giả",
+    "capDo": "khac",
+    "parentId": "phuong-thi-nho-tieu-dieu",
+    "blurb": "Cửa tiệm nhỏ trong phường thị gồm ba gian phòng và một hậu viện, có chiêu bài cam kết luyện khí thất bại trả lại bằng linh thạch.",
+    "detail": "Gian hàng luyện khí của Từ lão giả trong phường thị nhỏ, quy mô khiêm tốn với ba gian phòng và một hậu viện. Nổi bật với chiêu bài khẩu khí lớn cam kết nếu luyện khí thất bại sẽ trả lại bằng linh thạch, cùng lời quảng cáo có thể luyện chế đỉnh cấp pháp khí. Đây là nơi Hàn Lập ghé vào vì hiếu kỳ và thỏa thuận giao tài liệu để Từ lão giả luyện chế.",
+    "theLucLienQuan": [
+     "Từ gia"
+    ],
+    "nguon": [
+     "@c0222"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bi-diem-dai-sanh-ngam",
+    "name": "Bí điếm (đại sảnh ngầm)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "phuong-thi-thien-tinh-tong",
+    "blurb": "Đại sảnh hình tròn đường kính khoảng mười trượng dưới lòng đất, xa hoa như nhà đại phú, nơi tổ chức cạnh mại hội của bí điếm.",
+    "detail": "Vào qua địa đạo dài mười trượng từ một gian hàng nhỏ cách phường thị một dặm; đại sảnh trải thảm đỏ tươi, tường ngọc bích trắng, treo đèn lồng đỏ, có bảy tám ghế dài cho khách và bàn cùng ghế gỗ cho ba người chủ trì đối diện.",
+    "theLucLienQuan": [
+     "Bí điếm (cạnh mại hội)"
+    ],
+    "nguon": [
+     "@c0223"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vung-dat-cuc-tay",
+    "name": "Vùng đất cực tây",
+    "cn": "",
+    "capDo": "vuc",
+    "parentId": null,
+    "blurb": "Khu vực nơi khôi lỗi cơ quan thuật lưu hành cực kỳ rộng rãi.",
+    "detail": "Vùng đất cực tây là khu vực nơi khôi lỗi cơ quan thuật lưu hành cực kỳ rộng rãi, có tông phái Thiên Trúc giáo lấy đạo pháp này khai môn lập phái. Được nhắc tới trong lời giới thiệu cặp khôi lỗi cơ quan thú tại phiên đấu giá bí điếm.",
+    "theLucLienQuan": [
+     "Thiên Trúc giáo"
+    ],
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-sanh-dau-gia-bi-diem",
+    "name": "Đại sảnh đấu giá (bí điếm)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "bi-diem-dai-sanh-ngam",
+    "blurb": "Sảnh đấu giá của bí điếm với cửa đá đóng mở kiểm soát ra vào, có ghế đàn mộc cho ba người định giá.",
+    "detail": "Đại sảnh diễn ra buổi đấu giá kín của bí điếm. Cửa đá đóng mở kiểm soát việc ra vào — khách bị giữ lại tới khi giao dịch chấm dứt mới được mở cửa ra ngoài. Bên trong có ghế đàn mộc dành cho ba người mang mặt nạ định giá vật phẩm. Nơi diễn ra việc rao bán thiết tinh thượng phẩm, đôi khôi lỗi thú và gốc Hoàng Tinh chi ngàn năm.",
+    "theLucLienQuan": [
+     "Bí điếm (cạnh mại hội)"
+    ],
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cua-hieu-luyen-khi-lao-gia-toc-bac",
+    "name": "Cửa hiệu Luyện khí (của lão giả tóc bạc)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Cửa hiệu nơi Hàn Lập nhận mối làm ăn, bán vỏ ngô công làm tài liệu luyện khí.",
+    "detail": "Cửa hiệu Luyện khí do một lão giả tóc bạc làm chủ kiêm Luyện khí sư. Hàn Lập tới đây bán vỏ cứng ngô công làm tài liệu luyện khí; lão giả hớn hở mời trà nhưng thái độ nóng nảy khiến Hàn Lập hoài nghi có phải mình tìm nhầm Luyện khí sư.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thanh-thi-co-cua-hieu-luyen-khi-cam-bay",
+    "name": "Thành thị có cửa hiệu luyện khí (phạm vi cấm bay)",
+    "cn": "",
+    "capDo": "thanh",
+    "parentId": null,
+    "blurb": "Thành thị nơi Hàn Lập giao tài liệu Mặc Giao cho Từ lão; trong thành có quy định cấm bay, ra khỏi phạm vi mới được dùng pháp khí phi hành.",
+    "detail": "Đô thị có cửa hiệu luyện khí của Từ lão. Nội thành áp quy định cấm bay nên Hàn Lập phải ra khỏi phạm vi cấm bay mới phóng Thần Phong Châu bay lên không trung lên đường về động phủ.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khu-rung-mai-phuc-tran-chien-khoi-loi",
+    "name": "Khu rừng mai phục / trận chiến khôi lỗi",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Vùng đất dưới đường bay của Hàn Lập, nơi bốn năm tu sĩ Trúc Cơ Hậu Kỳ bị gần trăm khôi lỗi từ trong rừng vây công liên tục.",
+    "detail": "Khu rừng nằm dưới lộ trình bay về động phủ của Hàn Lập. Từ trong rừng đám khôi lỗi (hổ báo, cung thủ, cận chiến) được bổ sung liên tục duy trì số lượng bất biến để vây công nhóm Trúc Cơ Hậu Kỳ tu sĩ; một siêu cấp quang trụ đường kính mấy trượng cũng bắn ra từ trong rừng.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0228"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khu-rung-cu-ho-vay-khon",
+    "name": "Khu rừng (chiến trường vây khốn Cự Hổ)",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Khu rừng nơi diễn ra trận nam tử khôi vũ dùng Cự Hổ vây khốn và diệt khẩu đám tu sĩ Nguyên Vũ Quốc.",
+    "detail": "Nơi diễn ra trận vây khốn: Cự Hổ vọt ra từ rìa rừng, đám tu sĩ bị khốn trong hộ trạo, còn Hàn Lập ẩn trong tầng mây xám cách mặt đất trăm mấy trượng quan sát toàn cảnh.",
+    "theLucLienQuan": [
+     "Thiên Trúc Giáo",
+     "Nguyên Vũ Quốc (tu tiên giới / các gia môn)"
+    ],
+    "nguon": [
+     "@c0229"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "go-dat-nho-tran-khoi-loi",
+    "name": "Gò đất nhỏ",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Gò đất nhỏ nơi Lâm sư huynh ẩn nấp, bị vũ khí khôi lỗi của Hoàng Long chỉ về trước khi lộ diện.",
+    "detail": "Gò đất nhỏ đằng xa nơi Lâm sư huynh cải trang quái nhân túi vải bố ẩn nấp theo dõi cuộc đối đầu. Vũ khí của các khôi lỗi do Hoàng Long điều khiển đồng loạt hướng về gò đất này, khiến Hàn Lập nhận ra còn người thứ ba nấp ở đó trước khi Lâm sư huynh lộ diện.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0230"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dong-phu-han-lap",
+    "name": "Động phủ Hàn Lập",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi Hàn Lập ở, được bao bọc bởi Điên Đảo Ngũ Hành trận trải hơn mười mẫu; bị Thiên Trúc giáo công kích và là nơi Lâm sư huynh chạy trốn rồi chết.",
+    "detail": "Động phủ của Hàn Lập, quanh nó hắn bố trí Điên Đảo Ngũ Hành trận phủ hơn mười mẫu, từ ngoài nhìn không có gì khác thường. Tại đây Thiên Trúc giáo kéo tới tấn công đại trận đòi giao người, và Lâm sư huynh đã chạy chết trong phạm vi trận, gần cửa động.",
+    "theLucLienQuan": [
+     "Thiên Trúc giáo"
+    ],
+    "nguon": [
+     "@c0231"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "noi-cuc-tay",
+    "name": "Nơi cực tây",
+    "cn": "",
+    "capDo": "vuc",
+    "parentId": null,
+    "blurb": "Vùng đặt Cổ Độc tông, nơi phát nguồn cổ độc khiến Lâm sư huynh chết.",
+    "detail": "Vùng đất ở nơi cực tây, nơi Cổ Độc tông đặt tông môn và là nguồn gốc của loại cổ độc mà Lâm sư huynh trúng phải.",
+    "theLucLienQuan": [
+     "Cổ Độc tông"
+    ],
+    "nguon": [
+     "@c0233"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tru-tang-that-dong-phu-han-lap",
+    "name": "Trữ tàng thất (động phủ Hàn Lập)",
+    "capDo": "khac",
+    "parentId": "dong-phu-han-lap",
+    "blurb": "Phòng cất chứa của Hàn Lập, bố trí kết giới đặc thù giữ dược tính linh dược không mất.",
+    "detail": "Phòng cất chứa trong động phủ Hàn Lập, bố trí kết giới đặc thù giữ dược tính linh dược vĩnh viễn không tiêu tán; nơi cất hai gốc dược tài lâu năm và các bí mật Hàn Lập lo sợ bị thần thức Lôi Vạn Hạc phát hiện.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0234"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "luc-ba-dong",
+    "name": "Lục Ba động",
+    "capDo": "khac",
+    "parentId": "thai-nhac-son-mach",
+    "blurb": "Động phủ của Lý Hóa Nguyên, nằm sau một thác nước lớn dưới ngọn núi ở phía đông Thái Nhạc sơn mạch, non xanh nước biếc, cực kỳ bí mật.",
+    "detail": "Chỗ non xanh nước biếc phía đông Thái Nhạc sơn mạch, động phủ xây sau màn nước của một thác nước lớn dưới ngọn núi. Bên trong có một tiểu cốc thiên nhiên hoa thơm chim hót, cây xanh nước sạch, nuôi các động vật nhỏ quý hiếm là bảo bối của sư nương. Trong đại sảnh, Hàn Lập tham kiến Lý Hóa Nguyên cùng sư nương. Vị trí do Lôi Vạn Hạc chỉ.",
+    "theLucLienQuan": [
+     "Sư môn Lý Hóa Nguyên"
+    ],
+    "nguon": [
+     "@c0237"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "luan-kiem-duong-luc-ba-dong",
+    "name": "Luận Kiếm đường",
+    "capDo": "khac",
+    "parentId": "luc-ba-dong",
+    "blurb": "Gian nhà đá phụ cận cực kỳ rộng lớn trong Lục Ba động, nơi Hàn Lập gặp Tứ sư huynh Tống Mông.",
+    "detail": "Một gian nhà đá rộng lớn nằm trong Lục Ba động — động phủ của Lý Hóa Nguyên. Trong lúc Vu Khôn dẫn Hàn Lập tham quan, hai người ghé Luận Kiếm đường và gặp Tống Mông đang có mặt tại đây.",
+    "theLucLienQuan": [
+     "Môn hạ Lý Hóa Nguyên"
+    ],
+    "nguon": [
+     "@c0238"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tang-thu-that-ly-hoa-nguyen",
+    "name": "Tàng thư thất (của Lý Hóa Nguyên)",
+    "capDo": "khac",
+    "parentId": "dong-phu-han-lap",
+    "blurb": "Thạch thất thấp bé cách đại sảnh không xa, được kết giới màu hỏa hồng bảo vệ, chứa kho công pháp của Lý Hóa Nguyên.",
+    "detail": "Một thạch thất bình thường, thấp bé, nằm cách đại sảnh động phủ Lý Hóa Nguyên không xa, được một tầng kết giới màu hỏa hồng bảo vệ khiến người ngoài không vào được. Bên trong chứa kho công pháp năm sáu mươi kiện của lão. Lý Hóa Nguyên vươn ngón tay vạch mở một cửa rộng khoảng một trượng để hai người sánh vai bước qua.",
+    "theLucLienQuan": [
+     "Hoàng Phong cốc"
+    ],
+    "nguon": [
+     "@c0239"
+    ],
+    "rank": "D"
    }
   ]
  },
  "factions": {
   "updatedAt": "2026-06-11",
-  "count": 31,
+  "count": 49,
   "factions": [
    {
     "id": "that-huyen-mon",
@@ -13310,7 +23924,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
      "c0147",
      "c0148",
      "c0149",
-     "c0150"
+     "c0150",
+     "@c0181"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Hoàng Phong cốc"
     ],
     "rank": "B"
    },
@@ -13429,9 +24048,11 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "nguon": [
      "c0178",
      "c0179",
-     "c0180"
+     "c0180",
+     "@c0181",
+     "@c0211"
     ],
-    "rank": "C"
+    "rank": "B"
    },
    {
     "id": "cu-kiem-mon",
@@ -13445,9 +24066,12 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "detail": "Xuất hiện c178–c179: Cự Kiếm Môn là một trong bốn phái còn lại (cùng Linh Thú Sơn, Hóa Đao Ổ, Thiên Khuyết Bảo) tham gia Huyết Cấm Thí Luyện. Mô tả: toàn nam tử hắc y, đeo cự kiếm, lãnh khốc sát khí theo quan sát của Hàn Lập.",
     "nguon": [
      "c0178",
-     "c0179"
+     "c0179",
+     "@c0181",
+     "@c0211",
+     "@c0213"
     ],
-    "rank": "C"
+    "rank": "B"
    },
    {
     "id": "hoa-dao-o",
@@ -13461,7 +24085,9 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "detail": "Xuất hiện c178–c179: Hóa Đao Ổ là một trong bốn phái còn lại tham gia Huyết Cấm Thí Luyện. Phục sức khác lạ theo quan sát của Hàn Lập. Không có nhân vật nào được nêu tên từ môn phái này trong đợt nghiên cứu.",
     "nguon": [
      "c0178",
-     "c0179"
+     "c0179",
+     "@c0185",
+     "@c0199"
     ],
     "rank": "C"
    },
@@ -13478,9 +24104,306 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
     "nguon": [
      "c0178",
      "c0179",
-     "c0180"
+     "c0180",
+     "@c0181",
+     "@c0211"
+    ],
+    "rank": "B"
+   },
+   {
+    "id": "van-bao-cac",
+    "name": "Vạn bảo các",
+    "type": "the-luc-buon-ban",
+    "typeLabel": "Thế lực buôn bán",
+    "blurb": "Thế lực buôn bán, nơi Hàn Lập mua Kim quang chuyên.",
+    "detail": "Hàn Lập mua phù bảo Kim quang chuyên từ Vạn bảo các; khi bị phù bảo hút pháp lực, hắn mắng Vạn bảo các đã bán “quỷ hút máu chết người”.",
+    "nguon": [
+     "@c0184"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "yem-nguyet-tong",
+    "name": "Yểm nguyệt tông",
+    "cn": "",
+    "type": "tong-mon",
+    "typeLabel": "Tông môn",
+    "diaBan": "Không rõ",
+    "nhanVatChinh": [
+     "Nữ đệ tử Yểm nguyệt tông"
+    ],
+    "blurb": "Tông môn của nữ đệ tử bị Hàn Thiên Nhai lừa giết bên dòng suối trong cấm địa.",
+    "detail": "Tông môn xuất hiện qua một nữ đệ tử tham gia huyết sắc thí luyện; nữ đệ tử này bị Hàn Thiên Nhai giết bằng thủ đoạn lừa gạt sau khi dùng nhan sắc cầu sống.",
+    "nguon": [
+     "@c0185"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "that-dai-phai",
+    "name": "Thất đại phái",
+    "cn": "七大派",
+    "type": "lien-minh",
+    "typeLabel": "Liên minh tông môn",
+    "diaBan": "",
+    "nhanVatChinh": [
+     "Phong Nhạc"
+    ],
+    "blurb": "Bối cảnh nơi Phong Nhạc hoành hành, ác danh lan xa trong đám đệ tử cấp thấp.",
+    "detail": "Thất đại phái là bối cảnh nơi Phong Nhạc hoành hành sau khi Trúc Cơ không thành. Dựa vào vài món pháp khí không tệ và thủ đoạn hung độc, hung danh của Phong Nhạc lan xa trong đám đệ tử cấp thấp, khiến hắn duy ngã độc tôn, càng thêm hung hãn điên cuồng.",
+    "nguon": [
+     "@c0188"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tran-thi-gia-toc",
+    "name": "Trần thị gia tộc",
+    "cn": "",
+    "type": "gia-toc",
+    "typeLabel": "Gia tộc",
+    "diaBan": "Không rõ",
+    "nhanVatChinh": [
+     "Trần đại công tử",
+     "Trần sư muội"
+    ],
+    "blurb": "Siêu cấp gia tộc họ Trần. Trần đại công tử là đại công tử của gia tộc, Trần thất muội là em gái.",
+    "detail": "Siêu cấp gia tộc họ Trần, có thế lực lớn khiến các phe kiêng nể. Trần đại công tử — đại công tử của gia tộc — và Trần thất muội (em gái) đang tranh đoạt linh thảo trong cấm địa và truy tìm người cứu thất muội qua manh mối Thanh Giao kỳ.",
+    "nguon": [
+     "@c0199"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bon-mon-han-lap-dia-hoa",
+    "name": "Bổn môn (tông môn của Hàn Lập)",
+    "cn": "",
+    "type": "tong-mon",
+    "typeLabel": "Tông môn",
+    "diaBan": "Việt quốc",
+    "nhanVatChinh": [
+     "Hàn Lập",
+     "Đại hán ngốc nghếch (dẫn đường Địa Hỏa Chi Ốc)"
+    ],
+    "blurb": "Tông môn sở hữu khu Địa Hỏa Chi Ốc dùng để luyện khí luyện đan.",
+    "detail": "Tông môn của Hàn Lập, sở hữu khu Địa Hỏa Chi Ốc và dựng tổng cộng ba mươi sáu gian địa hỏa để môn nhân luyện khí luyện đan. Trong đó gian mười tám và mười chín là tốt nhất; gian mười tám do một vị sư bá chiếm dùng.",
+    "nguon": [
+     "@c0214"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyen-kiem-mon",
+    "name": "Huyền kiếm môn",
+    "type": "tong-mon",
+    "typeLabel": "Tông môn",
+    "diaBan": "Không rõ (đã bị diệt)",
+    "nhanVatChinh": [
+     "Môn chủ Huyền kiếm môn"
+    ],
+    "blurb": "Môn phái đã bị Hoàng phong cốc tiêu diệt nhiều năm trước; Thanh nguyên kiếm quyết là tuyệt học trấn phái của môn này.",
+    "detail": "Một môn phái từng có tuyệt học trấn phái là Thanh nguyên kiếm quyết mười ba tầng, đã bị Hoàng phong cốc tiêu diệt nhiều năm về trước. Khi sắp diệt môn, Môn chủ Huyền kiếm môn hủy kiếm quyết ngay tại đương trường, nhưng vài vị sư tổ Hoàng phong cốc cướp được nửa bộ, nửa còn lại bị hủy thất truyền, khiến bản Hoàng phong cốc lưu truyền chỉ là bản thiếu.",
+    "nguon": [
+     "@c0217"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ky-lan-cac",
+    "name": "Kỳ lân các",
+    "cn": "",
+    "type": "khac",
+    "typeLabel": "Bộ phận tông môn",
+    "diaBan": "Linh thú sơn",
+    "nhanVatChinh": [
+     "Nữ đệ tử Kỳ lân các"
+    ],
+    "blurb": "Bộ phận của Hoàng phong cốc phụ trách Linh thú sơn, cho thuê linh thú.",
+    "detail": "Kỳ lân các là tổ chức thuộc Hoàng phong cốc phụ trách Linh thú sơn, cho các tu sĩ thuê linh thú. Đệ tử Kỳ lân các thay phiên tuần dưỡng gần ngàn con linh thú nuôi trong các khối cấm chế phong bế; chỉ đệ tử của các mới được ra vào các khu này. Nghênh khách đài là nơi các tiếp khách và giao thú thuê.",
+    "nguon": [
+     "@c0220"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-tinh-tong",
+    "name": "Thiên tinh tông",
+    "cn": "",
+    "type": "tong-mon",
+    "typeLabel": "Tông môn tu tiên",
+    "diaBan": "Nguyên Vũ quốc",
+    "nhanVatChinh": [],
+    "blurb": "Đại phái tu tiên của Nguyên Vũ quốc, lập phường thị giằng co với Hoàng phong cốc.",
+    "detail": "Thiên tinh tông là một tu tiên đại phái của Nguyên Vũ quốc. Tông môn này thiết lập một phường thị cạnh tranh giằng co với phường thị của Hoàng phong cốc. Hàn Lập chọn khai mở động phủ gần phường thị Thiên tinh tông để tiện mua bán mà không bị người bổn môn nhận ra.",
+    "nguon": [
+     "@c0220",
+     "@c0221"
     ],
     "rank": "C"
+   },
+   {
+    "id": "tu-gia",
+    "name": "Từ gia",
+    "type": "gia-toc",
+    "typeLabel": "Gia tộc",
+    "diaBan": "Phường thị nhỏ (Thiên Tinh Tông)",
+    "nhanVatChinh": [
+     "Từ lão giả"
+    ],
+    "blurb": "Gia tộc của Từ lão giả, nắm giữ bí thuật luyện khí bằng yêu hỏa nhờ ngẫu nhiên sở hữu một con hỏa nha.",
+    "detail": "Gia tộc luyện khí bàng môn tả đạo. Mấy trăm năm qua Từ gia chỉ cần nhị cấp sơ giai đã có thể phun ra yêu hỏa lợi hại hơn tiên thiên chân hỏa vài phần, dùng để luyện chế pháp khí và đan dược. Sở dĩ có được năng lực này là nhờ ngẫu nhiên có một con hỏa nha. Kỹ thuật này không được các đại phái thừa nhận và bị truyền bá nghiêm ngặt.",
+    "nguon": [
+     "@c0222"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bi-diem-canh-mai-hoi",
+    "name": "Bí điếm (cạnh mại hội)",
+    "cn": "",
+    "type": "khac",
+    "typeLabel": "Điếm ngầm",
+    "diaBan": "Cách phường thị Thiên Tinh Tông một dặm, ẩn sau một gian hàng bình thường",
+    "nhanVatChinh": [
+     "Trương phu nhân"
+    ],
+    "blurb": "Điếm ngầm mở một lần mỗi tháng, ẩn sau gian hàng bình thường, có địa đạo và hắc y hộ vệ Trúc cơ kỳ, chuyên bán tinh phẩm nhiều vật có vấn đề về lai lịch.",
+    "detail": "Bí điếm cách phường thị một dặm, vào qua địa đạo dài mười trượng từ một gian hàng nhỏ do Trương phu nhân coi giữ, hai bên cửa đá có hai hắc y nhân đeo mặt nạ ác quỷ (một người ở Trúc Cơ trung kỳ). Đại sảnh ngầm hình tròn xa hoa quy tụ hơn nửa tu sĩ từ Trúc cơ kỳ trở lên, tổ chức đấu giá do ba người che mặt chủ trì: điếm ra giá trước, khách đấu giá tự do, thiếu linh thạch có thể dùng vật phẩm thay thế.",
+    "nguon": [
+     "@c0223"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-truc-giao",
+    "name": "Thiên Trúc giáo",
+    "cn": "",
+    "type": "tong-mon",
+    "typeLabel": "Tông phái",
+    "diaBan": "Vùng đất cực tây",
+    "nhanVatChinh": [],
+    "blurb": "Tông phái ở vùng đất cực tây lấy khôi lỗi cơ quan thuật khai môn lập phái.",
+    "detail": "Thiên Trúc giáo là tông phái tại vùng đất cực tây, lấy khôi lỗi cơ quan thuật làm gốc để khai môn lập phái và phát huy đạo thuật luyện chế này tới cực điểm. Thành phẩm khôi lỗi cơ quan nhân của họ có thể ganh đua với tu sĩ Trúc Cơ kỳ hậu kỳ.",
+    "nguon": [
+     "@c0224"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "van-bao-lau",
+    "name": "Vạn Bảo lâu",
+    "cn": "",
+    "type": "the-luc",
+    "typeLabel": "Thế lực",
+    "diaBan": "Không rõ",
+    "nhanVatChinh": [],
+    "blurb": "Nơi Hàn Lập từng bán hai gốc Hoàng Tinh chi ngàn năm do chính hắn nuôi dưỡng; một trong các gốc nay xuất hiện tại buổi đấu giá bí điếm.",
+    "detail": "Thế lực buôn bán vật phẩm tu tiên nơi Hàn Lập từng đem bán hai gốc Hoàng Tinh chi ngàn năm. Đến chương này, một trong hai gốc linh dược đó lại xuất hiện tại buổi đấu giá kín của bí điếm, được Hàn Lập nhận ra ngay khi đưa ra sàn.",
+    "nguon": [
+     "@c0225"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-binh-mon",
+    "name": "Thần Binh Môn",
+    "cn": "",
+    "aliases": [],
+    "type": "chinh-phai",
+    "typeLabel": "Chánh phái",
+    "diaBan": "Nguyên Vũ Quốc",
+    "nhanVatChinh": [
+     "Tề Vân Tiêu"
+    ],
+    "blurb": "Một trong Nguyên Vũ Quốc tam đại chánh phái, nổi tiếng về luyện khí thuật; ngang hàng Thiên Tinh Tông và Vạn Diệu Quan.",
+    "detail": "Một trong ba đại chánh phái của Nguyên Vũ Quốc, nổi tiếng về luyện khí thuật khắp tu tiên giới các quốc gia lân cận, đứng ngang hàng với Thiên Tinh Tông (trận pháp) và Vạn Diệu Quan (phù đạo). Gia tổ của Tề Vân Tiêu từng là Luyện khí trưởng lão của môn phái, luyện khí đạt cực đỉnh.",
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "van-dieu-quan",
+    "name": "Vạn Diệu Quan",
+    "cn": "",
+    "aliases": [],
+    "type": "chinh-phai",
+    "typeLabel": "Chánh phái",
+    "diaBan": "Nguyên Vũ Quốc",
+    "nhanVatChinh": [],
+    "blurb": "Một trong Nguyên Vũ Quốc tam đại chánh phái, nổi tiếng về phù đạo.",
+    "detail": "Một trong ba đại chánh phái của Nguyên Vũ Quốc, nổi tiếng về phù đạo, đứng ngang hàng với Thần Binh Môn (luyện khí) và Thiên Tinh Tông (trận pháp).",
+    "nguon": [
+     "@c0227"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nguyen-vu-quoc-tu-tien-gioi",
+    "name": "Nguyên Vũ Quốc (tu tiên giới / các gia môn)",
+    "cn": "",
+    "aliases": [],
+    "type": "the-luc",
+    "typeLabel": "Tu tiên giới",
+    "diaBan": "Nguyên Vũ Quốc",
+    "nhanVatChinh": [
+     "Tu sĩ lớn tuổi (gia môn Nguyên Vũ Quốc, bị vây)",
+     "Tu sĩ trẻ tuổi (gia môn Nguyên Vũ Quốc, bị vây)"
+    ],
+    "blurb": "Tu tiên giới của quốc gia Nguyên Vũ, gồm nhiều gia môn phái đệ tử đi hoạt động. Đám tu sĩ bị vây tự nhận là đệ tử các gia môn, dùng danh nghĩa này đe dọa họa sát thân.",
+    "detail": "Quốc gia mà đám tu sĩ bị nam tử khôi vũ vây khốn tự nhận là đệ tử các gia môn phái đi. Họ dùng danh nghĩa toàn thể tu tiên giới Nguyên Vũ Quốc làm lời đe dọa họa sát thân, nhưng nam tử khôi vũ đến từ Thiên Trúc Giáo nên không sợ đắc tội.",
+    "nguon": [
+     "@c0229"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "co-doc-tong",
+    "name": "Cổ Độc Tông",
+    "type": "tong-mon",
+    "typeLabel": "Tông môn",
+    "diaBan": "Không rõ",
+    "nhanVatChinh": [],
+    "blurb": "Tông môn chuyên về cổ độc, nơi Hoàng Long phải ngàn cay vạn đắng mới cầu được Hắc Ti Cổ.",
+    "detail": "Cổ Độc Tông là tông môn chuyên luyện độc và cổ trùng. Hoàng Long đã phải ngàn cay vạn đắng mới cầu được Hắc Ti Cổ từ nơi này để dùng làm mắt xích then chốt trong bẫy hạ độc Lâm sư huынh.",
+    "nguon": [
+     "@c0230",
+     "@c0233"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "bi-diem-che-tao-khoi-loi",
+    "name": "Bí điếm (bí tiệm chế tạo khôi lỗi)",
+    "type": "the-luc",
+    "typeLabel": "Thế lực",
+    "diaBan": "Không rõ",
+    "nhanVatChinh": [],
+    "blurb": "Nơi chế tạo khôi lỗi đã phối hợp với Thiên Trúc Giáo vì lợi ích, bán đứng Lâm sư huynh trong bẫy Đại Diễn Quyết.",
+    "detail": "Bí điếm là nơi làm khôi lỗi. Vì lợi ích, nơi này đã phối hợp với Thiên Trúc Giáo để tung tin giả về nửa phần Đại Diễn Quyết giấu trong khôi lỗi thú, góp phần dụ Lâm sư huынh sa vào bẫy diệt trừ.",
+    "nguon": [
+     "@c0230"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mon-ha-ly-hoa-nguyen",
+    "name": "Môn hạ Lý Hóa Nguyên",
+    "type": "su-mon",
+    "typeLabel": "Sư môn",
+    "diaBan": "Lục Ba động",
+    "nhanVatChinh": [
+     "Lý Hóa Nguyên",
+     "Vu Khôn",
+     "Tống Mông",
+     "Hàn Lập"
+    ],
+    "blurb": "Nhóm đệ tử dưới trướng Lý Hóa Nguyên, gồm Vu Khôn (Đại sư huynh), Tống Mông (Tứ sư huynh), Hàn Lập (sắp làm Bát sư đệ) và năm sư huynh đệ khác có động phủ riêng bên ngoài.",
+    "detail": "Ngoài vợ chồng Lý Hóa Nguyên, chỉ Vu Khôn và Tống Mông ở lại Lục Ba động vì từ nhỏ lớn lên bên vợ chồng sư phụ; năm sư huynh đệ còn lại đều có động phủ riêng bên ngoài, ít khi đến. Hàn Lập vừa Trúc Cơ thành công được thu chính thức làm môn hạ, xếp thứ tự thành Bát sư đệ.",
+    "nguon": [
+     "@c0238"
+    ],
+    "rank": "D"
    }
   ]
  },
@@ -13564,7 +24487,7 @@ window.LIB_DATA["pham-nhan-tu-tien"]={
   }
  ],
  "volumes": {
-  "updatedAt": "2026-06-27",
+  "updatedAt": "2026-07-05",
   "volumes": [
    {
     "value": "q01",
