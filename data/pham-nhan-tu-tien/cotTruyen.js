@@ -1,5 +1,5 @@
 /* cotTruyen TÁCH KHỎI data.js (giảm kích thước) — nạp NGAY SAU data.js. */
-/* sync-bump 2026-07-05T02:43:02.433Z build_datajs — tự sinh lại từ quyển */
+/* sync-bump 2026-07-05T11:39:23.774Z build_datajs — tự sinh lại từ quyển */
 window.LIB_DATA = window.LIB_DATA || {};
 window.LIB_DATA["pham-nhan-tu-tien"] = window.LIB_DATA["pham-nhan-tu-tien"] || {};
 window.LIB_DATA["pham-nhan-tu-tien"].cotTruyen = {
