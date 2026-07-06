@@ -859,7 +859,7 @@
     if (/\n/.test(text)) {
       paras = text.split(/\n+/).map(s => s.trim()).filter(Boolean);
     } else {
-      const sents = text.match(/[^.!?…]+[.!?…]+(?:["'”’)\]]+)?\s*|[^.!?…]+$/g) || [text];
+      const sents = text.match(/[^.!?…;]+[.!?…;]+(?:["'”’)\]]+)?\s*|[^.!?…;]+$/g) || [text];
       paras = [];
       for (let i = 0; i < sents.length; i += 2) paras.push(sents.slice(i, i + 2).join(" ").trim());
     }
