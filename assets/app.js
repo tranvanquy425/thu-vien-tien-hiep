@@ -348,14 +348,14 @@
           ? '<span class="neo rng">' + esc(e.khoang) + '</span> '
           : (e.chuong ? '<a class="neo" href="#doc" data-goch="' + String(e.chuong).replace(/[^0-9]/g, "") + '">' + esc(e.chuong) + '</a> ' : '');
         return '<div class="ev bridge"' + qattr + '><div class="ev-bridge">' +
-          bneo + esc(e.text || "") + '</div></div>';
+          bneo + fmtProse(e.text || "") + '</div></div>';
       }
       const lv = e.importance || "normal";
       return '<div class="ev ' + lv + '"' + qattr + '><div class="ev-head"><span class="lvl ' + lv + '">' +
         ({ major: "Trọng đại", normal: "Quan trọng", minor: "Bình thường" }[lv] || "Quan trọng") + '</span>' +
         (e.tieuDe ? '<b class="ev-tieude">' + esc(e.tieuDe) + '</b>' : '') +
         (e.chuong ? '<a class="neo" href="#doc" data-goch="' + String(e.chuong).replace(/[^0-9]/g, "") + '">' + esc(e.chuong) + '</a>' : '') +
-        '</div><div class="ev-text">' + esc(e.text || "") + '</div></div>';
+        '</div><div class="ev-text">' + fmtProse(e.text || "") + '</div></div>';
     }).join("");
     // Nhãn dải chương: "Ch.X–Y" (quyển cuối lấy tới chương lớn nhất nhân vật xuất hiện).
     const qRange = q => "Ch." + q.start + "–" + (q._end || (klChMax >= q.start ? klChMax : q.start));
@@ -712,7 +712,7 @@
       $("#mapTree").querySelectorAll(".node").forEach(x => x.classList.remove("sel")); nd.classList.add("sel");
       const n = nodes.find(x => x.id === nd.dataset.id);
       openDrawer(n.name, n.cn, '<div class="kv"><span class="chip gold">' + (CAP_LABEL[n.capDo] || n.capDo || "") + '</span></div>' +
-        '<div class="prose">' + esc(stripNeo(n.detail || n.blurb || "—")) + '</div>' +
+        '<div class="prose">' + fmtProse(n.detail || n.blurb || "—") + '</div>' +
         (n.theLucLienQuan && n.theLucLienQuan.length ? '<div style="margin-top:12px"><div class="chip">Thế lực liên quan</div><div class="prose">' + n.theLucLienQuan.map(esc).join(" · ") + '</div></div>' : ''));
     });
   }
@@ -803,7 +803,7 @@
     if (ll) view.querySelectorAll('.card[data-ll]').forEach(el => el.onclick = () => {
       const c = (ll.capBac || [])[+el.dataset.ll]; if (!c) return;
       openDrawer(c.ten, "Cảnh giới linh lực" + (ll.ten ? " · " + ll.ten : ""),
-        '<div class="prose">' + esc(stripNeo(c.detail || c.blurb || "—")) + '</div>');
+        '<div class="prose">' + fmtProse(c.detail || c.blurb || "—") + '</div>');
     });
   }
 
@@ -918,8 +918,23 @@
     });
   }
 
+  // (2026-07-06 V2-Steward) Mục Thế Lực — data factions đã có sẵn, trước đây thiếu route hiển thị.
+  function viewTheLuc() {
+    gridView({
+      title: "Thế Lực", sub: DB.factions.length + " mục", items: DB.factions,
+      getCat: it => it.typeLabel || it.type,
+      detail: it => openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn),
+        infoGrid([
+          ["Loại", esc(it.typeLabel || it.type || "")],
+          ["Địa bàn", esc(stripNeo(it.diaBan || ""))],
+          ["Nhân vật chính", it.nhanVatChinh && it.nhanVatChinh.length ? esc(it.nhanVatChinh.join(", ")) : "", true]
+        ]) +
+        '<div class="prose" style="margin-top:14px">' + fmtProse(it.detail || it.blurb) + '</div>')
+    });
+  }
+
   /* ======================= router ======================= */
-  const ROUTES = { "doc": viewDoc, "cot-truyen": viewCotTruyen, "nhan-vat": viewNhanVat, "map": viewMap, "canh-gioi": viewCanhGioi, "phap-bao": viewPhapBao, "cong-phap": viewCongPhap };
+  const ROUTES = { "doc": viewDoc, "cot-truyen": viewCotTruyen, "nhan-vat": viewNhanVat, "the-luc": viewTheLuc, "map": viewMap, "canh-gioi": viewCanhGioi, "phap-bao": viewPhapBao, "cong-phap": viewCongPhap };
   function route() {
     const id = (location.hash.replace("#", "") || (MUC[0] && MUC[0].id));
     nav.querySelectorAll("a").forEach(a => a.classList.toggle("active", a.dataset.id === id));
