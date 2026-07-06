@@ -64,11 +64,15 @@
   });
 })();
 </script>
-<script>/* nạp dữ liệu thật của bộ (data.js) + chương đọc (reader.js) trước app.js — chạy cả local lẫn deploy.
-   reader.js có thể chưa có (chỉ khi đã dựng) → 404 vô hại, mục Đọc truyện sẽ báo chưa có chương. */
+<script>/* nạp dữ liệu thật của bộ (data.js + cotTruyen.js) + chương đọc (reader.js) trước app.js.
+   (2026-07-06 V2-Steward) data.js/cotTruyen.js GỘP LỚN nay ở R2 (config dataR2) — gỡ khỏi git, hết trần 5MB.
+   Chưa cấu hình dataR2 → dùng local 'data/<slug>' (tương thích ngược). reader.js giữ local (bundle fallback).
+   R2 lỗi → app.js tự hiện DỮ LIỆU MẪU; cotTruyen lỗi → __noCot. */
 (function(){var s=new URLSearchParams(location.search).get("bo")||"tien-nghich";
-document.write('<scr'+'ipt src="data/'+s+'/data.js"><\/scr'+'ipt>');
-document.write('<scr'+'ipt src="data/'+s+'/cotTruyen.js" onerror="window.__noCot=1"><\/scr'+'ipt>');
+var cfg=((window.LIB_CONFIG&&window.LIB_CONFIG.boList)||[]).filter(function(b){return b.slug===s})[0]||{};
+var base=cfg.dataR2||("data/"+s);
+document.write('<scr'+'ipt src="'+base+'/data.js"><\/scr'+'ipt>');
+document.write('<scr'+'ipt src="'+base+'/cotTruyen.js" onerror="window.__noCot=1"><\/scr'+'ipt>');
 document.write('<scr'+'ipt src="data/'+s+'/reader.js" onerror="window.__noReader=1"><\/scr'+'ipt>');})();</script>
 <script src="assets/chrome.js"></script>
 <script src="assets/hoi-ai.js"></script><!-- (2026-07-03 V2-Steward hoi-ai-2tang) widget Hỏi AI công khai — tự ẩn khi config chưa có endpoint -->
