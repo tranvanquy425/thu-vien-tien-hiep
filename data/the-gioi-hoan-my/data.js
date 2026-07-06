@@ -1,9 +1,9 @@
-/* sync-bump 2026-07-05T14:29:46.876Z build_datajs */
+/* sync-bump 2026-07-05T17:17:55.406Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["the-gioi-hoan-my"]={
  "characters": {
   "updatedAt": "2026-07-05",
-  "count": 367,
+  "count": 401,
   "chars": [
    {
     "id": "thach-van-phong",
@@ -5119,56 +5119,6 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "rank": "B"
    },
    {
-    "id": "chi-cuong-gia-mat-troi-tim-bao-dien",
-    "name": "Chí cường giả trong bảo điện (lãnh địa vương hầu)",
-    "cn": "",
-    "aliases": [],
-    "gioiTinh": "nam",
-    "theLuc": [
-     {
-      "ten": "Lãnh địa vương hầu (tòa thành cổ tường đen ánh kim)",
-      "trangThai": "gan-bo"
-     }
-    ],
-    "canhGioiCaoNhat": "Không rõ (Chí cường giả) @c0041",
-    "trangThai": "song",
-    "blurb": "Chí cường giả ngồi giữa bảo điện lãnh địa vương hầu, hiện thân vầng mặt trời màu tím, khí tức như biển.",
-    "vaiTro": "Cường giả lãnh địa vương hầu, nghe tin Tế linh liền động lòng.",
-    "tinhCach": [
-     {
-      "text": "Uy nghi, khí tức mênh mông như biển.",
-      "chuong": "@c0041"
-     }
-    ],
-    "tabs": {
-     "diem": [],
-     "kinhLich": [
-      {
-       "text": "Ngồi giữa bảo điện tòa thành cổ tường đen ánh kim của lãnh địa vương hầu dân số mấy chục triệu, hiện thân vầng mặt trời màu tím, khí tức mênh mông như biển; nghe tin dãy núi Thương Mãng xuất hiện Tế linh liền động lòng.; Trong bảo điện tòa thành cổ tường đen ánh kim của lãnh địa vương hầu, một Chí cường giả hiện thân vầng mặt trời màu tím, khí tức như biển, nghe tin về Tế linh và xương quý Toan Nghê cũng động lòng.; Ngồi giữa bảo điện của lãnh đ…",
-       "anchor": "dãy núi Thương Mang xuất hiện một Tế linh ghê gớm",
-       "bridge": true,
-       "khoang": "@c0041"
-      }
-     ],
-     "tuViMoc": [],
-     "tuVi": "",
-     "nhanMach": [],
-     "tuiDo": {
-      "phapBao": [],
-      "danDuoc": [],
-      "congPhap": [],
-      "linhThu": [],
-      "nguyenLieu": [],
-      "linhThao": [],
-      "khac": []
-     }
-    },
-    "nguon": [
-     "@c0041"
-    ],
-    "rank": "D"
-   },
-   {
     "id": "thieu-toc-truong-kim-lang",
     "name": "Thiếu tộc trưởng bộ lạc Kim Lang",
     "gioiTinh": "nam",
@@ -5322,7 +5272,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       "trangThai": "gan-bo"
      }
     ],
-    "canhGioiCaoNhat": "không rõ @c0226",
+    "canhGioiCaoNhat": "Không rõ @c0278",
     "trangThai": "song",
     "blurb": "Liễu Thần là cây liễu cổ đầu Thạch Thôn được thôn dân tôn thờ, nhiều lần hiển linh diệt cường địch và cứu cả thôn thoát Đại Hoang. Sau nhiều chục năm im lặng, nó thức tỉnh để truyền dạy Nguyên Thủy Chân Giải, mài giũa thể phách và dẫn dắt Thạch Hạo. Cuối cùng nó mọc thêm cành non, mở Thông Thiên lữ trình đưa nhóc tỳ vào giới rồi hẹn ngày tái ngộ.",
     "vaiTro": "Thần vật che chở Thạch Thôn — cây liễu cổ dẫn dắt Thạch Hạo",
@@ -5572,6 +5522,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Liễu Thần gặp nạn, tắm rửa trong lôi điện cả vạn trượng, từ bên ngoài cửu thiên hạ xuống rồi cắm rễ trong Thạch Thôn, khối xương trắng bóng này chính là vật duy nhất mà Liễu Thần đã mang tới.",
        "bridge": true,
        "khoang": "@c0245"
+      },
+      {
+       "chuong": "@c0278",
+       "importance": "normal",
+       "tieuDe": "Báo tin tổ phụ",
+       "text": "Khi Thạch Hạo trở về Thạch thôn, Liễu Thần đã lột xác mạnh mẽ hơn với năm mươi cành xanh rủ xuống. Liễu Thần chấn động khi biết Thạch Hạo lấy được bảo thuật Côn Bằng hoàn chỉnh, đồng thời báo tin tổ phụ của cậu đã xuất hiện.",
+       "anchor": "\"Tổ phụ của ngươi đã xuất hiện.\" Liễu Thần báo tin."
       }
      ],
      "tuViMoc": [],
@@ -5679,7 +5636,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0231",
      "@c0232",
      "@c0245",
-     "@c0256"
+     "@c0256",
+     "@c0278"
     ],
     "rank": "A"
    },
@@ -6460,7 +6418,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "id": "thach-hao",
     "name": "Thạch Hạo",
     "gioiTinh": "nam",
-    "canhGioiCaoNhat": "Hóa Linh Cảnh @c0260",
+    "canhGioiCaoNhat": "Hóa Linh cảnh @c0288",
     "trangThai": "song",
     "tabs": {
      "diem": [
@@ -7649,6 +7607,138 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "tốt nhất là đánh cho thiên băng địa liệt",
        "bridge": true,
        "khoang": "@c0260"
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0261",
+       "tieuDe": "Tiếp nhận truyền thừa Côn Bằng chân chính",
+       "text": "Sau khi lĩnh ngộ đầy đủ bảo thuật Côn Bằng tại thần sào, Thạch Hạo trở thành kẻ thù chung của các thế lực nên cố ý mượn tay mọi người để rơi xuống Hóa Ma động, tránh làm đích ngắm và tìm truyền thừa hoàn chỉnh; nó vượt qua hành lang đầy chấp niệm hung thú Thái Cổ nhờ vận chuyển phù văn Côn Bằng, tới nhà đá cuối động gặp ao máu, chìm vào ngộ đạo sâu và cuối cùng phù văn Côn Bằng tổ hợp lên thân như một tầng chiến y thần thánh, tỏa khí tức chí tôn.",
+       "anchor": "toàn bộ xuất hiện ở trên người Thạch Hạo"
+      },
+      {
+       "chuong": "@c0262",
+       "importance": "normal",
+       "tieuDe": "Được chân huyết Côn Bằng phạt cốt tẩy tủy",
+       "text": "Thân thể rách nát suýt chết trong đại chiến trên tế đàn; phát hiện ao máu linh tuyền chứa một giọt chân huyết Côn Bằng do Côn Bằng lưu cho người thừa kế, nhờ đó phạt cốt tẩy tủy, thoát thai hoán cốt, hồi phục hoàn hảo không còn vết sẹo, tiến thêm một bước; hoàn thành bước Động Thiên Dưỡng Linh trong ba bước Hóa Linh cảnh và quyết định trở về sau hơn hai năm.; Trên người hiện vô số phù văn, chìm đắm cảm ngộ thần du Thái Cổ qua truyền thừa Côn Bằng; phù văn từ màu vàng chuyển sang màu đen, chim Bằng hóa thành cá Côn bơi trong ao máu; cuối cùng khắc toàn bộ phù văn vào đầu, bảo thuật cô đọng còn một chữ Phù, được liệt trong mười bảo thuật lớn của Thái Cổ.",
+       "anchor": "phạt cốt tẩy tủy, phiến cho người thoát thai hoán cốt"
+      },
+      {
+       "chuong": "@c0263",
+       "importance": "normal",
+       "tieuDe": "Hóa Linh viên mãn",
+       "text": "Trong ao máu Côn Bằng, Thạch Hạo hấp thu chân huyết và phù văn áo nghĩa, dung hợp truyền thừa vào linh thân Côn Bằng, tiếp tục tế luyện Toan Nghê cùng các hình thái linh thân khác cho đủ mười Động Thiên. Sau mấy tháng bế quan, nó hoàn thành Động Thiên dưỡng Linh, đạt ranh giới truyền thuyết của Hóa Linh Cảnh, rồi dùng linh thân Côn Bằng mở đường rời Hóa Ma Động và lần lượt vào các cực địa để kiểm chứng trạng thái viên mãn.",
+       "anchor": "Mà nó đã làm được, hiện tại mười tòa Động Thiện đều đã dưỡng Linh thành công"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0264",
+       "tieuDe": "Uy chấn Bắc Hải, thành cao thủ Hóa Linh",
+       "text": "Sau hơn hai năm rời Thạch thôn đến Bắc Hải tìm bảo thuật, Thạch Hạo đã trở thành cao thủ Hóa Linh Cảnh, đạp sóng lướt trên Bắc Hải khiến sinh linh Hải tộc khiếp sợ bỏ chạy gọi là “sát tinh”; nhắc lại chiến công đại khai sát giới ở hang ổ Côn Bằng, đánh bại Mạc Thương và Hàn Thiên; bắt hải sản mang về cho người thân Thạch thôn, vẫn cho rằng gia gia đã chết.",
+       "anchor": "rời đi Thạch thôn đến Bắc Hải tìm kiếm bảo thuật, tổng cộng cũng đã qua hơn hai năm thời gian và nó đã trở thành cao thủ Hóa Linh Cảnh"
+      },
+      {
+       "chuong": "@c0265",
+       "importance": "normal",
+       "tieuDe": "Được ông nội xác nhận",
+       "text": "Tuy không trực tiếp xuất hiện, Thạch Hạo được nhắc là tôn nhi của Thạch Trung Thiên từng bị moi Chí Tôn cốt; Thập Ngũ gia khẳng định hắn tuyệt đối không đơn giản và có thể cùng cấp bậc với Thạch Nghị.",
+       "anchor": "Nếu như Thạch Hạo có mặt nhất định sẽ nhận ra, năm đó bên trong tòa cung điện ở dưới lòng đất, nó nằm trên một chiếc giường lạnh lẽo, bị mẫu thân của Thạch Nghị và một bóng đen lấy ra Chí Tôn cốt đấm máu, sau đó có hai trưởng bối xông tới, một người muốn giết đi người đàn bà độc ác đó và một người thì muốn che chở."
+      },
+      {
+       "text": "Vũ tộc nhớ lại chuyện từng vào Hư Thần giới xử lý Hùng Hài Tử nhưng pháp chỉ chữ Phạt bị hắn nuốt mất một góc phù văn; việc thiếu hụt này bị xem là nguyên nhân khiến pháp chỉ hiện tại không địch lại thần khí của Đại Ma Thần.",
+       "anchor": "Đến giờ phút này thình lình bọn họ phát hiện, pháp chỉ khong địch lại được với thần khí của đối phương, cũng có thể bởi vì thiếu mất một góc phù văn kia",
+       "bridge": true,
+       "khoang": "@c0275"
+      },
+      {
+       "chuong": "@c0277",
+       "importance": "normal",
+       "tieuDe": "Chém đầu Bích Ma Hắc Đồng Chu",
+       "text": "Quyết chiến sinh tử với cường giả Ma Linh hồ dưới sự chứng kiến của Nhân Hoàng; bộc phát nhiều linh thân từ Động Thiên như Kim Sí Đại Bằng, Toan Nghê, Bệ Ngạn; bị Ma Chu nuốt một linh thân và giam cầm hư không, nhưng dùng tâm niệm từ mi tâm hóa thành bảo cung thần tiễn bắn thủng đầu Ma Chu rồi chém rơi đầu nó, kết thúc đại chiến ở Hoàng Đô.",
+       "anchor": "chém rớt đầu Ma Chu, nắm ở trong tay, thần uy cái thế"
+      },
+      {
+       "chuong": "@c0278",
+       "importance": "normal",
+       "tieuDe": "Trở về Thạch thôn",
+       "text": "Sau hai năm lưu lạc hải ngoại, Thạch Hạo cùng Bóng Lông trở về từ Bắc Hải trên thuyền U Linh, thăm dò thành trì Nhân Ngư dưới đáy biển và được tặng nhiều vật liệu quý. Nhờ truyền tống trận của Nhân Ngư Tộc, cậu về Tây Cương Thạch Quốc, băng qua núi rừng trở lại Thạch thôn, bí mật báo Liễu Thần rằng mình đã lấy được bảo thuật Côn Bằng hoàn chỉnh, rồi nghe tin tổ phụ đã xuất hiện.",
+       "anchor": "\"Tổ phụ của ngươi đã xuất hiện.\" Liễu Thần báo tin."
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0279",
+       "tieuDe": "Hay tin tổ phụ còn sống, trở về Thạch thôn",
+       "text": "Liễu Thần báo tổ phụ Thạch Hạo vẫn còn sống, đang ở Hoàng Đô Thạch Quốc, khiến nó chấn động buồn vui sợ đan xen; nghe tin gia gia đại náo Vũ Vương phủ, một mũi tên bắn đứt thân thể Vũ Vương và bắn chết Thái Cổ Bích Ma Hắc Đồng Chu, Thạch Hạo xúc động rơi nước mắt; trở về Thạch thôn sau hai năm được cả thôn vui mừng đón, mở tiệc hải sản; đêm khuya chia sẻ bảo thuật Côn Bằng cho Liễu Thần rồi một mình lên đường qua thông đạo, thấy cảnh chiến của hai thánh linh trong thông đạo và tới gần Hoàng Đô Thạch Quốc.",
+       "anchor": "gia gia đại náo Võ Vương phủ, một mũi tên bắt đứt thân thể của Vũ Vương"
+      },
+      {
+       "text": "Thạch Hạo không lộ chân dung thật khi tiến vào Hoàng Đô Thạch Quốc, vừa quan sát sự hùng vĩ phồn hoa của thủ phủ vừa thận trọng trước các thù địch sau biến cố hải ngoại và Thập Ngũ gia đại náo thủ phủ; nó gặp cửa hàng rao bán Hồ nữ, nghe giải thích về khác biệt giữa Hồ nữ và Hồ Ly Tinh, bị bà chủ trêu chọc rồi phản kích bằng cách véo mặt búng trán; sau khi bị thần bích của Hồ Ly Tinh áo trắng cảm ứng tiềm năng, nó dùng cổ pháp trong Nguyên Thủy Chân Giải để thu liễm khí cơ và tiếp tục nghe tin phong vân Hoàng Đô trước thọ yến Nhân Hoàng.",
+       "anchor": "Thạch Hạo không hề lộ ra hình dáng thật của mình",
+       "bridge": true,
+       "khoang": "@c0280"
+      },
+      {
+       "chuong": "@c0281",
+       "importance": "major",
+       "tieuDe": "Tới Hoàng Đô, quyết công khai thân phận",
+       "text": "Tới Hoàng Đô hai ngày mà chưa vào Võ Vương phủ vì nghe tin tổ phụ có thể đã rời đi; nghe lời Thạch Tử Đằng khinh miệt chi mạch mình, phẫn nộ quyết định công khai mình còn sống và phơi bày chuyện Chí Tôn cốt; xác định tiểu tháp là át chủ bài mạnh nhất nhưng chỉ dùng được một lần nên tìm kỳ trân đổi thêm lần xuất thủ, theo cảm ứng tiểu tháp tới nhà đấu giá Cốt Cổ và lần đầu nhìn thấy Thạch Tử Đằng trực diện",
+       "anchor": "Ta muốn cho các ngươi biết rõ ta vẫn còn sống, bây giờ đã trở về rồi"
+      },
+      {
+       "text": "Đến phòng đấu giá Cốt Cổ ở Hoàng Đô, đứng ngoài cửa nghe nghị luận để thu thập tin tức về các nhân vật nổi danh; khi vào phòng khách quý bị người giúp việc khinh thường vì mặc áo da thú, lại bị hậu nhân Tây Minh hầu tranh phòng, nó lấy một khối Hải Lam tủy lớn nện ngã người giúp việc khiến cả phòng đấu giá kinh động và đổi thái độ hầu hạ như khách quý; khi thấy khối cốt trắng sáng giống Nguyên Thủy Chân Giải được đưa ra đấu giá đầu tiên, nó quyết tâm mua bằng được.",
+       "anchor": "Dùng loại cực phẩm tài liệu như vậy nện người, cũng quá xa xỉ à nha",
+       "bridge": true,
+       "khoang": "@c0282"
+      },
+      {
+       "chuong": "@c0283",
+       "importance": "major",
+       "tieuDe": "Đoạt cốt và bảo thuật",
+       "text": "Tại phòng đấu giá, Thạch Hạo dùng Hải Lam Tủy trong Túi Càn Khôn để thắng khối tàn cốt Thiên Cốt, sau đó được Tiểu tháp tiết lộ bên trong ẩn tàng đại pháp vô thượng; nó tiếp tục dùng phương thuốc tổ truyền Thạch Thôn đổi lấy bảo thuật Huyền Quy và thử tu bước đầu, thân thể hiện hào quang vàng đất, phòng ngự tăng mạnh.",
+       "anchor": "Cuối cùng có người nói cho nó biết, vị cường giả thần bí kia lựa chọn phương thuốc của nó"
+      },
+      {
+       "text": "Trên hội đấu giá Cốt Cổ tại Hoàng Đô, Thạch Hạo phân phó chặt một khối lớn Hải Lam Tủy ra đấu giá để đổi lấy Súc Địa phù mà không ai dám tranh; cuối phiên, tiểu tháp truyền âm giục nó cạnh tranh tiểu nhân đen bị coi là phế bảo, khẳng định đó là chí bảo nhân gian.",
+       "anchor": "Chặt ra một khối lớn Hải Lam Tủy kia rồi đi tham dự cạnh tranh cho ta",
+       "bridge": true,
+       "khoang": "@c0284"
+      },
+      {
+       "chuong": "@c0285",
+       "importance": "normal",
+       "tieuDe": "Đoạt Bất Diệt Kim Thân",
+       "text": "Tại Phòng đấu giá Cốt Cổ, Thạch Hạo nghe Tiểu tháp nhận ra chiến ngẫu tàn phá là Bất Diệt Kim Thân, âm thầm mua được với giá thấp; khi Thập Cửu hoàng tử và nữ tử Thiên Hồ tộc lần lượt muốn mua lại, hắn từ chối bán; sau đó tiếp tục mua tài liệu cổ hữu dụng cho Tiểu tháp và quyết định toàn lực tranh hạt châu có nguồn gốc từ Trùng Đồng giả.",
+       "anchor": "Trong đại sảnh, Thạch Hạo dùng giá nhỏ nhất cạnh tranh thành công, lúc nữ tử xinh đẹp gõ chiếc búa xuống, nó thở phào một cái, cảm thấy rất mỹ mãn."
+      },
+      {
+       "text": "Sau đấu giá, Thạch Hạo từ chối bán Bất Diệt Kim Thân, trở về khách sạn kiểm kê chiến lợi phẩm; hắn bóc lớp vỏ người tí hon, dung hợp thành chiến giáp hắc kim khiến chiến lực tạm thời vượt Hóa Linh cảnh, rồi tiếp tục phá thạch châu, phát hiện Trùng Đồng Thượng Cổ còn sinh cơ.",
+       "anchor": "Trực tiếp vượt qua Hóa Linh cảnh, chuyện này... cũng quá khủng bố mà!",
+       "bridge": true,
+       "khoang": "@c0286"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0287",
+       "tieuDe": "Luyện nhãn Trùng Đồng",
+       "text": "Thạch Hạo thử nghiệm nhãn cầu Trùng Đồng giả, nắm ba tác dụng gồm nhìn xuyên bản nguyên, phá diệt bảo cụ và khiến tốc độ đối thủ trở nên chậm trong cảm ứng; sau đó diễn hóa linh thân trong Động Thiên, đặt nhãn cầu vào mi tâm để tẩm bổ và lĩnh ngộ nguyên thủy phù văn; tiếp tục kiểm kê bảo vật, được Tiểu tháp nhận ra thịt nát của Thiên Thần, rồi dùng bồ đoàn Côn Bằng ngộ bảo thuật Huyền Quy suốt mấy ngày và nắm đại bộ phận thần thông này.",
+       "anchor": "Tại vị trí mi tâm của linh thân này, có một con mắt của trời sinh thần nhân đang lưu động ánh sáng vàng nhạt"
+      },
+      {
+       "text": "Thạch Hạo đi bộ tới Thanh Lâm viên giữa lúc Hoàng Đô tề tụ thiên tài chúc thọ Nhân Hoàng; nó từ chối lời mời đi nhờ xe của Thiên Hồ tiên tử vì cảm thấy nàng nguy hiểm, sau đó đánh gãy roi đồng, đạp phu xe trọng thương, dùng bóng huyền quy và tia chớp tím trấn áp nhóm thiếu niên quý tộc rồi chiếm chiến xa rời đi.",
+       "anchor": "Xe này thuộc quyền sở hữu của ta.",
+       "bridge": true,
+       "khoang": "@c0288"
+      },
+      {
+       "text": "Tại đại hội anh kiệt Thanh Lâm viên, Thạch Hạo dùng bảo thuật không đầy đủ chế phục tám hung thú kéo xe để tránh lộ Bảo thuật Côn Bằng; sau đó tên thật và thân phận trời sinh Chí Tôn của nó bị người trong Võ Vương phủ công bố trước đám đông, khiến toàn hội chấn động.",
+       "anchor": "Là sự thật, vốn là trong phủ chúng ta còn có một đứa nhỏ, nó chính là trời sinh Chí Tôn, tên là Thạch Hạo!",
+       "bridge": true,
+       "khoang": "@c0289"
+      },
+      {
+       "text": "Đang ăn uống tiêu sái trong lâm viên, Thạch Hạo bỗng bị đưa vào một không gian đặc biệt trước mặt tiên tử che mặt và Thiên Hồ tiên tử; nó vẫn cầm thịt khô, uống rượu và gọi hai người là hai bà mập.",
+       "anchor": "lúc này nó cảm thấy thân thể bỗng nhiên nhẹ bẫng rồi biến mất tại chổ, xuất hiện ở một không gian vô cùng đặc biệt",
+       "bridge": true,
+       "khoang": "@c0290"
       }
      ],
      "tuViMoc": [
@@ -7873,6 +7963,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0251",
        "canhGioi": "cảnh giới mới chưa rõ tên",
        "text": "Vân Hi nhận ra Thạch Hạo đã lại đột phá, thực lực vượt xa hai năm trước và đủ sức giao phong với các cường giả đang tụ tập ở hải vực.",
+       "importance": "major"
+      },
+      {
+       "chuong": "@c0262",
+       "canhGioi": "Hóa Linh cảnh — Động Thiên Dưỡng Linh",
+       "text": "Hoàn thành bước Động Thiên Dưỡng Linh, bước cuối trong ba bước Hóa Linh cảnh (Thân thể thành linh, Trọng tố chân ngã, Động thiên dưỡng linh) — ba giai đoạn cả Hoang Vực khó ai đạt trọn.",
+       "importance": "major"
+      },
+      {
+       "chuong": "@c0263",
+       "canhGioi": "Hóa Linh Cảnh viên mãn",
+       "text": "Thạch Hạo hoàn thành thập đại Động Thiên dưỡng Linh, ba giai đoạn đầu đều đạt đến viên mãn theo ranh giới truyền thuyết; đây là mốc cảnh giới trong hệ tu vi chính.",
        "importance": "major"
       }
      ],
@@ -9098,6 +9200,120 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "doi-thu",
        "quanHe": "đối thủ trong liên minh Thiên Thần Sơn",
        "ghiChu": "Xích Hảo đi cùng nhóm liên minh Thiên Thần Sơn khi gặp lại Thạch Hạo."
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "ho-hang",
+       "quanHe": "ông nội",
+       "ghiChu": "Được ông nội nhớ tới bằng tên Hạo nhi sau khi thoát khỏi cấm địa màu đen."
+      },
+      {
+       "ten": "Cô gái Nhân Ngư Tộc",
+       "tag": "dong-minh",
+       "quanHe": "người chịu ơn",
+       "ghiChu": "Cô từng được Thạch Hạo cứu khỏi Mạc Thương tại hang ổ Côn Bằng, nay đền ơn bằng bảo vật và truyền tống trận."
+      },
+      {
+       "ten": "Tổ phụ Thạch Hạo",
+       "tag": "ho-hang",
+       "quanHe": "Tổ phụ đã tha hương tưởng chết, nay được báo còn sống ở Hoàng Đô Thạch Quốc; từng liều mạng đi tìm thuần huyết và đại náo Vũ Vương phủ báo oan Chí Tôn cốt cho nó",
+       "ghiChu": "@c0279"
+      },
+      {
+       "ten": "Bà chủ cửa hàng Hồ nữ",
+       "tag": "khac",
+       "quanHe": "va chạm thoáng qua",
+       "ghiChu": "Bị bà chủ trêu chọc ngoài cửa hàng Hồ nữ, sau đó Thạch Hạo quay lại véo mặt và búng trán để đáp trả."
+      },
+      {
+       "ten": "Chàng thanh niên vành mắt thâm đen",
+       "tag": "khac",
+       "quanHe": "người giải thích tin tức",
+       "ghiChu": "Giải thích cho Thạch Hạo khác biệt giữa Hồ nữ và Hồ Ly Tinh."
+      },
+      {
+       "ten": "Hồ Ly Tinh áo trắng",
+       "tag": "khac",
+       "quanHe": "bị chú ý tiềm năng",
+       "ghiChu": "Thần bích trong tay Hồ Ly Tinh áo trắng phát sáng khi Thạch Hạo xuất hiện, khiến nàng nhận định hắn có thể thành bá chủ Hoang Vực."
+      },
+      {
+       "ten": "Thạch Tử Đằng",
+       "tag": "doi-thu",
+       "quanHe": "Đại bá cùng tộc, kẻ đề cao Thạch Nghị và khinh miệt chi mạch Thạch Hạo",
+       "ghiChu": "Lần đầu Thạch Hạo nhìn thấy hắn trực diện tại nhà đấu giá Cốt Cổ (@c0281)"
+      },
+      {
+       "ten": "Hỗn Thiên hầu",
+       "tag": "khac",
+       "quanHe": "Cùng có mặt tại phòng đấu giá Cốt Cổ",
+       "ghiChu": "Hỗn Thiên hầu tới trước vì Huyết Ma Thước, Thạch Hạo quan sát từ ngoài cửa (@c0282)"
+      },
+      {
+       "ten": "Hậu nhân Tây Minh hầu",
+       "tag": "doi-thu",
+       "quanHe": "Tranh phòng khách quý",
+       "ghiChu": "Tiểu hầu gia mặc chiến y bạc muốn chiếm gian phòng Thạch Hạo đã chọn, chùn lại khi thấy Hải Lam tủy (@c0282)"
+      },
+      {
+       "ten": "Đại tiểu thư Lôi tộc",
+       "tag": "doi-thu",
+       "quanHe": "đối thủ đấu giá",
+       "ghiChu": "Cạnh tranh khối tàn cốt Thiên Cốt trong phòng đấu giá, cuối cùng bỏ cuộc trước giá trị Hải Lam Tủy."
+      },
+      {
+       "ten": "Thập Lục công chúa",
+       "tag": "khac",
+       "quanHe": "Cùng tham dự hội đấu giá; công chúa đoạt Tị Hỏa Châu",
+       "ghiChu": "@c0284"
+      },
+      {
+       "ten": "Tiểu Hồ Ly",
+       "tag": "khac",
+       "quanHe": "người truyền lời mời",
+       "ghiChu": "Nàng đến tìm Thạch Hạo, thay tiểu thư nhà mình mời gặp mặt và nói chuyện mua bán gây bất ngờ."
+      },
+      {
+       "ten": "Thiên Hồ tiên tử",
+       "tag": "khac",
+       "quanHe": "người mời đi nhờ xe",
+       "ghiChu": "Nàng chủ động mời Thạch Hạo lên xe tại Hoàng Đô, nhưng Thạch Hạo dè chừng phong thái mê hoặc và từ chối."
+      },
+      {
+       "ten": "Phu xe chiến xa tám hung thú",
+       "tag": "doi-thu",
+       "quanHe": "đối thủ xung đột trên đường",
+       "ghiChu": "Phu xe hạch hỏi và dùng roi đồng phù văn tấn công Thạch Hạo, bị Thạch Hạo đá trọng thương."
+      },
+      {
+       "ten": "Thiếu niên chủ nhân chiến xa",
+       "tag": "doi-thu",
+       "quanHe": "đối thủ bị đoạt xe",
+       "ghiChu": "Thiếu niên quý tộc để tâm Thiên Hồ tiên tử, cùng đồng bọn bị Thạch Hạo trấn áp và mất chiến xa."
+      },
+      {
+       "ten": "Thiếu niên mặc Giao Long y vàng",
+       "tag": "khac",
+       "quanHe": "người chất vấn",
+       "ghiChu": "Chất vấn Thạch Hạo vì thấy nó lái chiến xa của Lăng Vân hầu."
+      },
+      {
+       "ten": "Tiên tử che mặt",
+       "tag": "khac",
+       "quanHe": "bị triệu tới trước mặt",
+       "ghiChu": "Lần đầu trực diện trong không gian đặc biệt sau khi nàng và Thiên Hồ tiên tử biến mất trên mặt hồ."
+      },
+      {
+       "ten": "A Man",
+       "tag": "khac",
+       "quanHe": "Được A Man truyền âm nhắc tránh sát cơ; đánh giá nàng là hạt giống tốt",
+       "ghiChu": "Trận đại chiến ở Hoàng Đô @c0277"
+      },
+      {
+       "ten": "Thạch Uyên",
+       "tag": "doi-thu",
+       "quanHe": "kẻ từng che chở phe đoạt cốt",
+       "ghiChu": "Thạch Uyên từng chống Thạch Tử Lăng và che chở mẹ con Thạch Nghị."
       }
      ],
      "tuiDo": {
@@ -9296,7 +9512,27 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0257",
      "@c0258",
      "@c0259",
-     "@c0260"
+     "@c0260",
+     "@c0261",
+     "@c0262",
+     "@c0263",
+     "@c0264",
+     "@c0265",
+     "@c0275",
+     "@c0278",
+     "@c0279",
+     "@c0280",
+     "@c0281",
+     "@c0282",
+     "@c0283",
+     "@c0284",
+     "@c0285",
+     "@c0286",
+     "@c0287",
+     "@c0288",
+     "@c0289",
+     "@c0290",
+     "@c0277"
     ],
     "aliases": [
      "Nhóc tỳ",
@@ -10594,7 +10830,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      }
     ],
     "canhGioiCaoNhat": "Động Thiên thứ mười @c0229",
-    "trangThai": "song @c0229",
+    "trangThai": "song",
     "blurb": "Đứa bé ba bốn tuổi trong ký ức Thạch Hạo, trời sinh có trọng đồng (bốn con ngươi) — dị tượng của Thượng Cổ Thánh Nhân; được cả tộc kỳ vọng trấn áp bát hoang.",
     "vaiTro": "Anh cùng dòng họ với Thạch Hạo, thiên túng kỳ tài của dòng hoàng thân cổ quốc.",
     "tinhCach": [
@@ -10784,6 +11020,25 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Ngay cả Võ Vương đều bị kinh động xuất quan, lại còn mới đến Chí Cường Giả cùng nhau hộ pháp cho Nghị ca ...",
        "bridge": true,
        "khoang": "@c0229"
+      },
+      {
+       "chuong": "@c0265",
+       "importance": "normal",
+       "tieuDe": "Thiếu niên chí tôn",
+       "text": "Trong Võ Vương phủ, Thạch Nghị được tộc nhân khen là Trùng Đồng giả, thiếu niên chí tôn Hoang Vực và vô song ở Thạch Quốc; Thập Ngũ gia lại khẳng định Thạch Hạo cũng cùng cấp với hắn.",
+       "anchor": "nó mà cùng cấp bậc với Nghị nhi?"
+      },
+      {
+       "text": "Trong Hoàng Đô Thạch Quốc lan truyền tin vết nứt không gian tại di chỉ Bổ Thiên Các xuất hiện, nhiều người cho rằng Thạch Nghị sắp đi ra, khiến chuyến vào Hoàng Đô của Thạch Hạo càng thêm dậy sóng.",
+       "anchor": "hơn nửa là Thạch Nghị sắp đi ra rồi",
+       "bridge": true,
+       "khoang": "@c0280"
+      },
+      {
+       "text": "Trong cuộc bàn tán tại Thanh Lâm viên, Thạch Nghị được nhắc là Thiếu Niên Chí Tôn của Thạch Quốc, không có đối thủ cùng tuổi, khiến nhiều người chờ hắn trở về Hoàng Đô.",
+       "anchor": "Là sự thật, vốn là trong phủ chúng ta còn có một đứa nhỏ, nó chính là trời sinh Chí Tôn, tên là Thạch Hạo!",
+       "bridge": true,
+       "khoang": "@c0289"
       }
      ],
      "tuViMoc": [
@@ -10876,8 +11131,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       {
        "ten": "Thạch Lạp",
        "tag": "dong-minh",
-       "quanHe": "Người cõng Thạch Nghị, cưỡng ép thôi thúc Chí Tôn cốt phát thần uy.",
-       "ghiChu": "@c0062"
+       "quanHe": "trưởng bối che chở",
+       "ghiChu": "Thạch Lạp từng che chở mẹ con Thạch Nghị trong biến cố năm đó."
       },
       {
        "ten": "Thập Ngũ Gia",
@@ -11020,24 +11275,43 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0168",
      "@c0173",
      "@c0181",
-     "@c0229"
+     "@c0229",
+     "@c0265",
+     "@c0280",
+     "@c0289"
     ],
     "rank": "A"
    },
    {
-    "id": "thap-ngu-gia",
+    "id": "thach-trung-thien",
     "name": "Thập Ngũ Gia",
     "aliases": [
-     "Ông nội Thạch Hạo"
+     "Lão Thập Ngũ",
+     "Ông nội Thạch Hạo",
+     "#lao-thap-ngu",
+     "Ông lão cụt tay mang cung lớn",
+     "Gia gia của Hạo nhi",
+     "Đại Ma Thần",
+     "thần tiễn cái thế",
+     "Trung Thiên",
+     "Thạch Trung Thiên"
     ],
     "gioiTinh": "nam",
     "theLuc": [
      {
       "ten": "Cổ quốc (hoàng thân)",
       "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Cổ quốc (Nhân Hoàng)",
+      "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Nhân Tộc",
+      "trangThai": "gan-bo"
      }
     ],
-    "canhGioiCaoNhat": "Không rõ (@c0055)",
+    "canhGioiCaoNhat": "Không rõ @c0278",
     "trangThai": "song",
     "blurb": "Ông lão trưởng bối trong ký ức Thạch Hạo, gia gia của Hạo Nhi; tiễn pháp tinh diệu, hai tên hạ Loan Điểu ở Thánh Hồ, sau còn bắn chết Tỳ Hưu ở Bách Tộc Chiến Trường.",
     "vaiTro": "Cường giả tiễn pháp của dòng hoàng thân cổ quốc; người trực tiếp nhỏ bảo huyết Thần Cầm cho Hạo Nhi lúc còn quấn tã.",
@@ -11056,6 +11330,26 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       {
        "text": "Đích thân nhỏ bảo huyết Thần Cầm cho Hạo Nhi bất chấp cha mẹ đứa bé khuyên can",
        "chuong": "@c0055"
+      },
+      {
+       "text": "Tiễn pháp tinh diệu — hai mũi tên hạ một Loan Điểu mạnh",
+       "chuong": "@c0055"
+      },
+      {
+       "text": "Bắn chết một con Tỳ Hưu trên Bách Tộc Chiến Trường, chấn động bát hoang",
+       "chuong": "@c0055"
+      },
+      {
+       "text": "Từng vào chiến trường bách tộc để tìm thuần huyết gột rửa cho Hạo nhi nhưng gặp nạn, bị nhốt nhiều năm trong cấm địa màu đen.",
+       "chuong": "@c0263"
+      },
+      {
+       "text": "Thoát khỏi rừng sâu màu đen trong tình trạng cụt tay, toàn thân đẫm máu nhưng khí thế vẫn đáng sợ.",
+       "chuong": "@c0263"
+      },
+      {
+       "text": "Mang theo một viên thần đan, xem đó là vật có thể bù đắp cho cháu sau khi không đem được thuần huyết trở về.",
+       "chuong": "@c0263"
       }
      ],
      "kinhLich": [
@@ -11079,6 +11373,106 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tieuDe": "Chiến tích Loan Điểu và Tỳ Hưu được nhắc lại",
        "text": "Các bề trên nhắc lại: Thập Ngũ Gia nổi danh cường đại tại Hoàng Đô, hai mũi tên bắn chết Thái Cổ Di Chủng Loan Điểu, dám bắn chết thú con Tỳ Hưu huyết mạch tinh khiết để lấy máu chân chính gột rửa thân thể cho cháu trai Thạch Hạo.; Được các bề trên nhắc lại danh tiếng cường đại tại Hoàng Đô: hai mũi tên bắn chết Thái Cổ Di Chủng Loan Điểu, bắn chết thú con Tỳ Hưu huyết mạch tinh khiết để lấy máu gột rửa thân thể cho cháu trai Thạch Hạo.",
        "anchor": "hai mũi tên bắn chết một con Thái Cổ Di Chủng -- Loan Điểu"
+      },
+      {
+       "chuong": "@c0263",
+       "importance": "major",
+       "tieuDe": "Thoát khỏi cấm địa",
+       "text": "Sau mười ba năm bị nhốt trong rừng sâu màu đen, Thạch Trung Thiên cụt một tay, mang cung lớn và toàn thân đầy máu xông ra khỏi tuyệt địa. Ông nhắc tới thù cũ với Tỳ Hưu, nhớ Tử Lăng và Hạo nhi, đồng thời nói năm xưa mình vào chiến trường bách tộc tìm thuần huyết cho cháu nhưng gặp nạn; nay ông có một viên thần đan và muốn trở về đoàn tụ.",
+       "anchor": "Hạo nhi, năm đó gia gia đặt hết hy vọng lên trên người cháu"
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0264",
+       "tieuDe": "Thoát khốn trở về Hoàng Đô",
+       "text": "Thập Ngũ gia thoát khốn sau nhiều năm bị vây khốn, đón ánh mặt trời chuẩn bị đoàn tụ tôn nhi; thu hồi bình chân huyết Tỳ Ngưu giấu trong đầm lầy Đại Hoang, thu phục Long Lân Tước làm tọa kỵ đưa ông về Hoàng Đô Thạch Quốc; hạ xuống trước cổng thành đi vào “về nhà”, khiến giáo úy khiếp sợ lầm bẩm Đại Ma Thần đã trở về, Hoàng Đô sẽ đại loạn.",
+       "anchor": "Đại Ma Thần đã trở về, Hoàng Đô sẽ đại loạn"
+      },
+      {
+       "chuong": "@c0265",
+       "importance": "major",
+       "tieuDe": "Đại Ma Thần trở về",
+       "text": "Sau mười ba năm bị cho là đã chết ngoài Thái Cổ Thần Sơn, Thạch Trung Thiên cưỡi Long Lân Tước trở lại Hoàng Đô, khiến cửa thành chấn động và bị các chiến tướng nhận ra; ông về Võ Vương phủ, tự báo tên, gặp lại tộc nhân rồi nổi giận truy hỏi tung tích Thạch Hạo, thần âm chấn động khiến Thạch Lạp ngã xuống đất.",
+       "anchor": "ngươi chính là Tiểu Lục tử của Chiến Vương phủ"
+      },
+      {
+       "text": "Thập Ngũ gia trở về Võ Vương phủ, từ phản ứng hoảng loạn của Thạch Lạp và sự vắng mặt bất thường của người thân, nhận ra trong phủ che giấu tung tích Thạch Hạo; khi biết Thạch Tử Lăng và Thạch Hạo nhiều năm sống chết không rõ, ông bùng nộ; bị dụ vào cung điện có tam đại sát trận vây giết nhưng dùng phù văn trong mắt hóa Kim Sí Đại Bằng cùng nhật nguyệt tinh thần phá tan đại trận; ném chín cây cờ lớn phong bế toàn phủ rồi giải cứu các lão huynh đệ và trưởng lão bị giam dưới lòng đất.",
+       "anchor": "Còn hỏi ta làm cái gì? Trả lời ta, Hạo nhi của ta đâu?",
+       "bridge": true,
+       "khoang": "@c0266"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0267",
+       "tieuDe": "Đại Ma Thần trở về thi hành gia pháp",
+       "text": "Thập Ngũ gia (Đại Ma Thần) trở về Võ Vương phủ sau nhiều năm tưởng đã chết, dùng chín cây cờ lớn phong ấn phủ; nghe chuyện Chí Tôn cốt của cháu Thạch Hạo bị móc thì phát điên, ép sập cung điện dưới lòng đất, đánh rơi răng và phế tu vi Thạch Lạp; một tiếng hét nổ tung hơn nửa cao thủ phe Thạch Uyên; tuyên bố Thạch tộc cấm nội đấu, phế tu vi ông cố Thạch Nghị, vỗ chết trưởng bối phản đối và tuyên bố có thể phế Võ Vương",
+       "anchor": "Thạch tộc cấm nội đấu, huynh đệ tàn sát, nếu làm trái giết không tha"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0268",
+       "tieuDe": "Xét xử nội bộ Võ Vương phủ",
+       "text": "Đại Ma Thần công khai ý định chỉnh đốn Võ Vương phủ, ví phủ như đại thụ ruỗng mục sinh sâu mọt; đảo tội tạo phản sang phe vi phạm tộc quy, dùng thần lực màu vàng nghiền nhiều trưởng bối/nguyên lão thành tro; bác lý lẽ bảo toàn Thạch Nghị bằng giả định tự tay đoạt Trùng Đồng và thu Chí Tôn cốt, khẳng định Hạo nhi dù mất cốt vẫn có thể quật khởi; bị bốn lão tổ can ngăn nhưng áp chế được họ, cuối cùng đối diện Võ Vương xuất hiện",
+       "anchor": "ta muốn tự tay đoạt lấy Trùng Đồng của nó, thu hồi Chí Tôn cốt"
+      },
+      {
+       "text": "Đại Ma Thần đáp chất vấn của Võ Vương bằng một chưởng, phá thần thông Thế giới trong lòng bàn tay và lư đồng bằng cung lớn, đánh ra Bệ Ngạn hoàng kim, phun Hỗn Độn Đại Khí công tan Hắc Thần Phong, dùng vuốt rồng chặn mắt bạc; cuối cùng đánh nổ đại tinh phù văn, cứng đối cứng ép Võ Vương phun máu lùi lại",
+       "anchor": "Đáp lại câu hỏi của hắn là một chưởng của Thập Ngũ gia, một mảng phù văn tỏa ra",
+       "bridge": true,
+       "khoang": "@c0270"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0271",
+       "tieuDe": "Thần tiễn vô song đánh bại Võ Vương",
+       "text": "Đại Ma Thần thu huyết hồ của Võ Vương luyện thành huyết đan chế nhạo; dùng cung lớn đối kháng lư đồng Kim Ô Thượng Cổ, một tay và ống tay áo bên tay cụt kéo cung bắn diệt sáu Kim Ô phù văn, làm móp thân lư; phóng thích lực lượng thần-ma trắng-đen từ hai chân, cuối cùng bắn mũi tên trắng đen phá phù văn hộ thể khiến Võ Vương gãy xương ngã ngửa vào phủ đệ, kết thúc trận chiến",
+       "anchor": "một mũi tên trắng đen xen kẽ bay ra, phát ra những tiếng vù vù"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0272",
+       "tieuDe": "Đánh bại Võ Vương, đối đầu Vũ Vương",
+       "text": "Đánh bại Võ Vương khiến ông mất năng lực tái chiến; tuyên bố không hứng thú với vị trí Võ Vương; thu chín cây cờ lớn mở trận ngoài phủ; nhận ra mưa bất thường là thủ đoạn Vũ tộc, đối đầu Vũ Vương tới khiêu khích, nhắc mối thù Vũ tộc truy sát Thạch Tử Lăng ở Tây Cương, bắn thẳng mũi tên trắng đen khiến Vũ Vương phải dùng thần vật liên quan Thần Linh chống đỡ",
+       "anchor": "Cho ngươi hai lựa chọn, một là cút, hai là chờ ta đánh bại ngươi sau đó đăng lâm Vũ tộc!"
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0273",
+       "tieuDe": "Khai chiến áp đảo Vũ Vương",
+       "text": "Vạch trần Chí Tôn cốt của Nghị nhi đến từ tôn nhi của mình (bị Thạch Tử Lăng giết móc lấy); ra tối hậu thư cho Vũ Vương; bắn hắc long bạch long từ hai mắt áp đảo tuyệt đối, đánh Vũ Vương ho máu, hai cánh tay nứt gãy; ép Vũ Vương lấy ra thứ có quan hệ với Thần Linh.",
+       "anchor": "Đó là một con hắc long và bạch long, từ hai mắt bắn ra ngoài, nhanh chóng phóng lớn"
+      },
+      {
+       "text": "Tại Hoàng Đô, Thạch Trung Thiên giao chiến với Vũ Vương, dùng Tay ma áp chế, đổi sang Tay thần phá chín hồ lô, rồi kéo cung bắn mũi tên thần phá Vũ Thần pháp chỉ. Sau cùng ông bắn nổ nửa thân dưới của Vũ Vương, khiến đối thủ ngã trước Vũ Vương Phủ.",
+       "anchor": "nửa người dưới đã bị trúng tên lập tức nổ tung, nửa đoạn dưới biến mất trở thành bùn nhão",
+       "bridge": true,
+       "khoang": "@c0274"
+      },
+      {
+       "text": "Thạch Trung Thiên truy kích Vũ Vương tới Vũ Vương phủ, tuyên bố Vũ tộc phải trả giá vì từng gây áp lực lên Võ Vương phủ; ông dùng cung lớn và tên thần bắn phá phủ đệ, phá thần miếu, diệt nhiều cường giả Vũ tộc rồi dừng trước tràng vực tượng đá và tế đàn.",
+       "anchor": "Vì hành động của mình nên ngươi phải trả giá thật lớn!",
+       "bridge": true,
+       "khoang": "@c0275"
+      },
+      {
+       "chuong": "@c0276",
+       "importance": "normal",
+       "tieuDe": "Tử chiến linh thân",
+       "text": "Thạch Trung Thiên đối mặt người tóc xanh trong Võ Vương phủ, vạch trần đối thủ chỉ là linh thân đang trọng thương; ông dùng Xích đen trật tự, chân long song hình và cung tên chống lại các thần thông cùng tháp đồng Pháp khí Thần Linh, bị hút vào tháp nhưng cuối cùng giết ra ngoài trong tình trạng đầy thương tích.",
+       "anchor": "Cuối cùng Thập Ngũ gia cũng giết ra bên ngoài, thoát khỏi sự ràng buộc của tháp đồng"
+      },
+      {
+       "chuong": "@c0278",
+       "importance": "normal",
+       "tieuDe": "Chém chết Ma Chu",
+       "text": "Trong trận chiến ở Hoàng Đô, Thạch Trung Thiên giết linh thân Thái Cổ Ma Chu, khiến thi thể hóa thành thần lực bản nguyên tan đi. Sau chiến công đánh bại Võ Vương, thắng Vũ Vương và chém Bích Ma Hắc Đồng Chu, ông được Nhân Hoàng triệu vào cung và truyền tin muốn phong làm Ma Thần Vương.",
+       "anchor": "Trận chiến này kết thúc, Ma Chu bỏ mình!"
+      },
+      {
+       "text": "Đại Ma Thần được nhắc lại trong lời bàn tán của người Võ Vương phủ: sau trận chiến chấn động Hoàng Đô, ông bị bức phải rời đi, khiến Võ Vương phủ chia thành hai phái.",
+       "anchor": "Là sự thật, vốn là trong phủ chúng ta còn có một đứa nhỏ, nó chính là trời sinh Chí Tôn, tên là Thạch Hạo!",
+       "bridge": true,
+       "khoang": "@c0289"
       }
      ],
      "tuViMoc": [],
@@ -11112,6 +11506,114 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "ho-hang",
        "quanHe": "Con dâu (vợ một huynh trưởng của Thập Nhất đệ)",
        "ghiChu": "Ở lại chăm cháu, thực chất chiết xương cháu chồng."
+      },
+      {
+       "ten": "Thạch Tử Lăng",
+       "tag": "ho-hang",
+       "quanHe": "con trai",
+       "ghiChu": "Nhớ tới Tử Lăng khi vừa thoát khỏi cấm địa, mong được đoàn tụ."
+      },
+      {
+       "ten": "Tỳ Hưu",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ thù",
+       "ghiChu": "Thập Ngũ gia mất một tay trong trận chiến, thề sớm muộn tính sổ Tỳ Hưu và đập nát sơn môn thần sơn đã truy sát ông."
+      },
+      {
+       "ten": "Thất ca",
+       "tag": "ho-hang",
+       "quanHe": "huynh đệ",
+       "ghiChu": "Thất ca kích động ra đón và dẫn ông vào trong Võ Vương phủ."
+      },
+      {
+       "ten": "Thạch Lạp",
+       "tag": "doi-thu",
+       "quanHe": "trưởng bối đối lập trong phủ",
+       "ghiChu": "Thạch Lạp từng là chủ lực chống phe Thạch Tử Lăng và bị ông quát chấn động trong đại điện."
+      },
+      {
+       "ten": "Thạch Uyên",
+       "tag": "doi-thu",
+       "quanHe": "trưởng bối đối lập trong phủ",
+       "ghiChu": "Thạch Uyên từng che chở mẹ con Thạch Nghị và dè chừng khi Thạch Trung Thiên trở về."
+      },
+      {
+       "ten": "Thạch Nghị",
+       "tag": "doi-thu",
+       "quanHe": "Kẻ được thiên vị, liên quan biến cố hại Thạch Hạo; nhất mạch bị trấn áp",
+       "ghiChu": "@c0267"
+      },
+      {
+       "ten": "Võ Vương",
+       "tag": "doi-thu",
+       "quanHe": "Chủ Võ Vương phủ, bị chê hồ đồ và đề nghị phế bỏ",
+       "ghiChu": "@c0267"
+      },
+      {
+       "ten": "Bốn vị lão tổ Võ Vương phủ",
+       "tag": "doi-thu",
+       "quanHe": "Nhóm lão tổ năm xưa xuất quan khiến Thạch Tử Lăng phải rời Hoàng Đô, nay can ngăn nhưng bị áp chế",
+       "ghiChu": "@c0268"
+      },
+      {
+       "ten": "Vũ Vương",
+       "tag": "doi-thu",
+       "quanHe": "Vương Vũ tộc tới khiêu khích lấy cớ giúp Võ Vương, bị Đại Ma Thần bắn tên cảnh cáo",
+       "ghiChu": "@c0272"
+      },
+      {
+       "ten": "Thạch Tử Đằng",
+       "tag": "doi-thu",
+       "quanHe": "Bị Thạch Tử Đằng mời Vũ Vương tới đối phó",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Bích Ma Hắc Đồng Chu",
+       "tag": "doi-thu",
+       "quanHe": "đại địch trong Võ Vương phủ",
+       "ghiChu": "Người tóc xanh phong ấn Võ Vương phủ rồi dùng thần thông và tháp đồng giao chiến sinh tử với ông."
+      },
+      {
+       "ten": "Nhân Hoàng",
+       "tag": "khac",
+       "quanHe": "người can thiệp trận chiến",
+       "ghiChu": "Nhân Hoàng xuất hiện cuối trận và tuyên bố nên kết thúc cuộc chiến."
+      },
+      {
+       "ten": "A Man",
+       "tag": "khac",
+       "quanHe": "người bí mật truyền âm cảnh báo sát cơ",
+       "ghiChu": "A Man nhắc Thạch Trung Thiên cẩn thận với phù cốt phong ấn, sau đó tự xưng tên và được ông đánh giá là hạt giống tốt."
+      },
+      {
+       "ten": "Nhân Hoàng",
+       "tag": "cap-tren",
+       "quanHe": "quân thần",
+       "ghiChu": "Nhân Hoàng triệu ông vào cung và muốn phong làm Ma Thần Vương sau trận chiến."
+      },
+      {
+       "ten": "Thạch Uyên",
+       "tag": "ho-hang",
+       "quanHe": "Trưởng bối, liếc cung lớn của ông với ý đồ, mừng khi thấy ông chỉ còn một tay",
+       "ghiChu": "@c0265"
+      },
+      {
+       "ten": "Tiểu Lục tử",
+       "tag": "khac",
+       "quanHe": "người quen cũ",
+       "ghiChu": "Tiểu Lục tử nhận ra ông là Thập Ngũ gia khi ông trở lại Hoàng Đô."
+      },
+      {
+       "ten": "Tứ ca",
+       "tag": "ho-hang",
+       "quanHe": "huynh đệ trong phủ",
+       "ghiChu": "Một trưởng bối thân cận bị Thạch Lạp và Thạch Uyên ép bế quan khi ông trở về."
+      },
+      {
+       "ten": "Tứ thúc Hoàng Kim sư tử",
+       "tag": "ho-hang",
+       "quanHe": "trưởng bối thân thiết",
+       "ghiChu": "Không xuất hiện đón ông, khiến ông sinh nghi về tình hình trong phủ."
       }
      ],
      "tuiDo": {
@@ -11140,9 +11642,26 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "nguon": [
      "@c0055",
      "@c0059",
-     "@c0056"
+     "@c0056",
+     "@c0263",
+     "@c0265",
+     "@c0266",
+     "@c0267",
+     "@c0268",
+     "@c0269",
+     "@c0270",
+     "@c0271",
+     "@c0272",
+     "@c0273",
+     "@c0274",
+     "@c0275",
+     "@c0276",
+     "@c0278",
+     "@c0289",
+     "@c0264",
+     "@c0281"
     ],
-    "rank": "B"
+    "rank": "A"
    },
    {
     "id": "nhan-hoang-co-quoc",
@@ -11152,7 +11671,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "Nhân Hoàng của cổ quốc",
      "bệ hạ",
      "Nhân Hoàng Hỏa Quốc",
-     "Phụ hoàng"
+     "Phụ hoàng",
+     "Thạch Hoàng"
     ],
     "gioiTinh": "nam",
     "theLuc": [
@@ -11165,7 +11685,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       "trangThai": "gan-bo"
      }
     ],
-    "canhGioiCaoNhat": "Có thể can thiệp vào tiểu thế giới Thượng Cổ từ bên ngoài (@c0171)",
+    "canhGioiCaoNhat": "Không rõ @c0278",
     "trangThai": "song",
     "blurb": "Kẻ thống trị sơn hà hàng tỉ dặm của cổ quốc; đích thân chủ trì đại lễ cả nước tế trời trong ký ức thân thế của Thạch Hạo.",
     "vaiTro": "Chí tôn cổ quốc, cùng huyết mạch hoàng tộc với dòng họ Thạch Hạo.",
@@ -11216,6 +11736,38 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tieuDe": "Cứu mấy trăm môn nhân Bổ Thiên các",
        "text": "Vì ân tình Hỏa Linh Nhi từng bái Bổ Thiên các, Nhân Hoàng ngồi trong xe chiến cổ xưa bùng sáng như thái dương, phong ấn núi bao phủ mấy trăm môn nhân Bổ Thiên các đưa đi xa; khi lão tổ Thác Bạt tộc ngăn cản, ông nổ tung cánh tay lão tổ và giết một con cháu trẻ tuổi của họ thành vũng máu.",
        "anchor": "Cánh tay của vị lão tổ này nổ tung, hóa thánh mưa máu, tôn nghiêm của Nhân Hoàng không thể kháng!"
+      },
+      {
+       "text": "Nhân Hoàng lặng lẽ xuất hiện trong Võ Vương phủ khi trận chiến giữa Thạch Trung Thiên và người tóc xanh đang căng thẳng, khiến mọi người kinh sợ cúi bái; ông tuyên bố trận chiến nên kết thúc và đứng giữa hào quang chói mắt như biển.",
+       "anchor": "Trận chiến này nên kết thúc rồi.",
+       "bridge": true,
+       "khoang": "@c0276"
+      },
+      {
+       "chuong": "@c0278",
+       "importance": "normal",
+       "tieuDe": "Phong Ma Thần Vương",
+       "text": "Nhân Hoàng tuyên bố trận chiến kết thúc, sau đó triệu Đại Ma Thần vào cung. Tin tức truyền ra rằng ông muốn phong Thạch Trung Thiên thành Ma Thần Vương và lập phủ mới cho vị vương hầu này.",
+       "anchor": "Nhân Hoàng muốn phong ông thành Ma Thần Vương."
+      },
+      {
+       "text": "Đại thọ của Nhân Hoàng sắp tới khiến Hoàng Đô Thạch Quốc trở thành điểm hội tụ của hoàng tử công chúa, con cháu vương hầu, sinh linh Thái Cổ Thần Sơn và thiên tài các Cổ Quốc; Hồ Ly Tinh áo trắng cũng nhắc chuyện đi sứ thăm hỏi Nhân Hoàng.",
+       "anchor": "lần này, phong vân hội tụ ở Hoàng Đô Thạch Quốc",
+       "bridge": true,
+       "khoang": "@c0280"
+      },
+      {
+       "chuong": "@c0281",
+       "importance": "normal",
+       "tieuDe": "Mật đàm với Thạch Tử Đằng",
+       "text": "Bị đồn từng che chở Thập Ngũ gia trước Thái Cổ Ma Chu; triệu Thạch Tử Đằng vào cung mật đàm và bị các vương hầu suy đoán đang cân nhắc vấn đề kế thừa",
+       "anchor": "Thạch Tử Đằng sau khi tiến cung cùng Nhân Hoàng mật đàm, một chút lời nói được truyền ra"
+      },
+      {
+       "text": "Đang tổ chức đại thọ khiến nhiều cường giả lai lịch phi phàm quy tụ về Hoàng Đô, con gái yêu quý nhất là Thập Lục công chúa đoạt Tị Hỏa Châu.",
+       "anchor": "Là Thập Lục công chúa, người con gái Nhân Hoàng yêu quý nhất",
+       "bridge": true,
+       "khoang": "@c0284"
       }
      ],
      "tuViMoc": [],
@@ -11261,6 +11813,36 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "cha-me",
        "quanHe": "con gái",
        "ghiChu": "ra tay cứu Bổ Thiên các vì ân tình con gái được gột rửa nơi đây"
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "khac",
+       "quanHe": "người bị can thiệp trận chiến",
+       "ghiChu": "Nhân Hoàng xuất hiện và tuyên bố kết thúc trận chiến giữa Đại Ma Thần với người tóc xanh."
+      },
+      {
+       "ten": "Bích Ma Hắc Đồng Chu",
+       "tag": "khac",
+       "quanHe": "người bị can thiệp trận chiến",
+       "ghiChu": "Nhân Hoàng đến Võ Vương phủ khi hắn đang tử chiến với Đại Ma Thần."
+      },
+      {
+       "ten": "Hồ Ly Tinh áo trắng",
+       "tag": "khac",
+       "quanHe": "đối tượng được đi sứ",
+       "ghiChu": "Hồ Ly Tinh áo trắng nhắc chuyện thế lực của nàng nên đi sứ thăm hỏi Nhân Hoàng Thạch Quốc."
+      },
+      {
+       "ten": "Thạch Tử Đằng",
+       "tag": "khac",
+       "quanHe": "Triệu Thạch Tử Đằng vào cung mật đàm",
+       "ghiChu": "@c0281"
+      },
+      {
+       "ten": "Thập Lục công chúa",
+       "tag": "ho-hang",
+       "quanHe": "Con gái được yêu quý nhất",
+       "ghiChu": "@c0284"
       }
      ],
      "tuiDo": {
@@ -11279,7 +11861,12 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0164",
      "@c0171",
      "@c0172",
-     "@c0194"
+     "@c0194",
+     "@c0276",
+     "@c0278",
+     "@c0280",
+     "@c0281",
+     "@c0284"
     ],
     "rank": "B"
    },
@@ -11287,7 +11874,6 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "id": "tu-thai-gia",
     "name": "Tứ Thái Gia",
     "aliases": [
-     "Tứ ca",
      "Ông lão như Hoàng Kim Sư Tử",
      "Ông lão như Hoàng Kim Thần Hỏa",
      "Lão Tứ",
@@ -11553,7 +12139,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       "trangThai": "gan-bo"
      }
     ],
-    "trangThai": "khong-ro",
+    "trangThai": "song",
     "blurb": "Cha ruột của Thạch Hạo, xếp thứ mười một trong thế hệ đương thời của Thạch Tộc; tu vi cực mạnh, sử dụng Hoàng Kim thần mâu.",
     "vaiTro": "Cha Thạch Hạo, chiến lực trục của bổn tộc; trở về sau chuyến tìm cha thất bại thì phát hiện con bị đoạt Chí Tôn cốt, quyết đại khai sát giới báo thù.",
     "tinhCach": [
@@ -11643,6 +12229,19 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "đứa bé kia quá đáng thương, vốn là trời sinh Chí Tôn, thế nhưng lại tàn lụi quá sớm",
        "bridge": true,
        "khoang": "@c0231"
+      },
+      {
+       "text": "Khi Thạch Trung Thiên thoát khỏi cấm địa màu đen, ông nhớ tới Tử Lăng và mong trở về đoàn tụ, đồng thời nhắc rằng lúc trẻ Tử Lăng không kém mình.",
+       "anchor": "Hạo nhi, năm đó gia gia đặt hết hy vọng lên trên người cháu",
+       "bridge": true,
+       "khoang": "@c0263"
+      },
+      {
+       "chuong": "@c0265",
+       "importance": "normal",
+       "tieuDe": "Được nhắc ở Tây Cương",
+       "text": "Thạch Tử Lăng không trực tiếp xuất hiện; trong Võ Vương phủ, có người nói vợ chồng ông đã đi Tây Cương, còn Tứ ca suy đoán sự áp chế trong phủ có thể vì Tử Lăng hoặc người lợi hại hơn đã trở về.",
+       "anchor": "Thạch Lạp, Thạch Uyên, đây là các ngươi muốn gì hả?"
       }
      ],
      "tuViMoc": [],
@@ -11766,6 +12365,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "khac",
        "quanHe": "Được Chiến Vương thưởng thức như kỳ tài trẻ tuổi",
        "ghiChu": "@c0076"
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "cha-me",
+       "quanHe": "cha",
+       "ghiChu": "Được cha nhớ tới khi ông thoát khỏi cấm địa."
+      },
+      {
+       "ten": "Tứ ca",
+       "tag": "ho-hang",
+       "quanHe": "trưởng bối trong phủ",
+       "ghiChu": "Tứ ca suy đoán việc mình bị áp chế có thể liên quan đến khả năng Tử Lăng trở về."
       }
      ],
      "tuiDo": {
@@ -11789,7 +12400,9 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0076",
      "@c0229",
      "@c0230",
-     "@c0231"
+     "@c0231",
+     "@c0263",
+     "@c0265"
     ],
     "rank": "A"
    },
@@ -11801,6 +12414,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      {
       "ten": "Thạch Tộc",
       "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Võ Vương phủ",
+      "trangThai": "danh-nghia"
      }
     ],
     "trangThai": "song",
@@ -11821,6 +12438,22 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       {
        "text": "Từng hứa dẫn Hạo đi xem Xích Vũ Hạc",
        "chuong": "@c0058"
+      },
+      {
+       "text": "Có thể nhận ra sát cơ từ phù cốt trong lúc các cường giả quyết chiến.",
+       "chuong": "@c0277"
+      },
+      {
+       "text": "Bí mật truyền âm nhắc Đại Ma Thần đúng thời khắc nguy hiểm.",
+       "chuong": "@c0277"
+      },
+      {
+       "text": "Được Thạch Trung Thiên đánh giá là hạt giống tốt.",
+       "chuong": "@c0277"
+      },
+      {
+       "text": "Có thiên phú cảm nhận chiến cơ, nắm bắt được động cơ của cường giả cấp cao",
+       "chuong": "@c0277"
       }
      ],
      "kinhLich": [
@@ -11850,6 +12483,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tieuDe": "Phá kỷ lục Song Tử Sơn",
        "text": "Đến Sơ Thủy Địa trước ánh mắt đám đông chấn động hai giới, chọn tòa Song Tử Sơn cao hơn mấy trượng; giẫm chân khiến đại địa nứt nẻ tứ phương, không dùng Phù Văn bí lực mà chỉ bằng thân thể trùng thiên vượt qua đỉnh núi, phá kỷ lục hai năm chưa ai vượt của Thạch Nghị.",
        "anchor": "chỉ cần thân thể đã trùng thiên mà lên như vậy rồi phá sương mù vượt lên tòa núi lớn kia"
+      },
+      {
+       "chuong": "@c0277",
+       "importance": "normal",
+       "tieuDe": "Truyền âm nhắc Đại Ma Thần tránh sát cơ",
+       "text": "Bí mật truyền âm nhắc Thập Ngũ gia cẩn thận với sát cơ từ phù cốt, giúp ông nhận ra nguy hiểm; sau đó tự xưng tên A Man và được đánh giá là hạt giống tốt.",
+       "anchor": "Đột nhiên, một cô gái bí mật truyền âm, thanh âm du dương bên tai nhắc nhở Đại Ma Thần."
       }
      ],
      "tuViMoc": [],
@@ -11883,6 +12523,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "khac",
        "quanHe": "Tự xưng là nô tỳ của thiếu gia (nhóc tỳ) trong ký ức mờ nhạt",
        "ghiChu": "@c0090"
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "khac",
+       "quanHe": "người được nàng bí mật cảnh báo",
+       "ghiChu": "A Man nhắc Thạch Trung Thiên tránh sát cơ từ phù cốt trong trận chiến với Ma Chu."
+      },
+      {
+       "ten": "Thập Ngũ gia",
+       "tag": "an-nhan",
+       "quanHe": "Được A Man truyền âm nhắc tránh sát cơ; Thập Ngũ gia đánh giá nàng là hạt giống tốt",
+       "ghiChu": "Trận đại chiến ở Hoàng Đô @c0277"
       }
      ],
      "tuiDo": {}
@@ -11891,14 +12543,16 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0056",
      "@c0058",
      "@c0090",
-     "@c0093"
+     "@c0093",
+     "@c0277"
     ],
     "aliases": [
      "Nhóc tỳ",
      "Thằng nhóc nhân thần cộng phẫn",
      "Tiểu tử tham tài"
     ],
-    "rank": "C"
+    "canhGioiCaoNhat": "không rõ @c0277",
+    "rank": "B"
    },
    {
     "id": "thap-tam-gia",
@@ -12215,6 +12869,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      {
       "ten": "Thạch tộc Hoàng Đô",
       "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Võ Vương phủ",
+      "trangThai": "gan-bo"
      }
     ],
     "trangThai": "song",
@@ -12243,6 +12901,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       {
        "text": "Vì cháu ruột Thạch Nghị mà chủ trương giữ Chí Tôn Cốt của Thạch Hạo trên người cháu.",
        "chuong": "@c0060"
+      },
+      {
+       "text": "Là trưởng bối hàng thứ năm, có vai vế rất cao trong Võ Vương phủ.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Là ông cố của Thạch Nghị, từng đứng về phía mẹ con Thạch Nghị trong biến cố năm đó.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Cùng Thạch Lạp ép Tứ ca bế quan khi Đại Ma Thần trở về.",
+       "chuong": "@c0265"
       }
      ],
      "kinhLich": [
@@ -12252,6 +12922,33 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tieuDe": "Bại trận trước Thạch Tử Lăng",
        "text": "Từ chối trả Chí Tôn Cốt, đòi bồi thường thứ khác vì phồn thịnh của tộc; vận Bảo Thuật hóa cánh Phượng Hoàng lông đỏ rồi triệu Thái Cổ Hung Cầm Huyết Hoàng giao chiến Thạch Tử Lăng; cuối cùng hung cầm bị đâm chết, bản thân bị đâm xuyên vai phế nửa cánh tay, mất chiến lực như già đi mười tuổi; Thái Cổ Hung Cầm bị Thạch Tử Lăng đâm chết; vai ông ta bị mũi mâu phủ ký hiệu đâm xuyên trước sau thông suốt, gồng Bảo Thuật giữ vết thương không lan nên cá…",
        "anchor": "Chí Tôn Cốt đã bị lấy ra rồi, khó mà nối lại"
+      },
+      {
+       "chuong": "@c0265",
+       "importance": "normal",
+       "tieuDe": "Dè chừng Thập Ngũ gia",
+       "text": "Thạch Uyên cùng Thạch Lạp áp chế Tứ ca bế quan trước lúc Thập Ngũ gia vào phủ; khi gặp lại, ông quan sát cung lớn của Đại Ma Thần và nhẹ nhõm vì đối phương chỉ còn một tay.",
+       "anchor": "Thạch Lạp, Thạch Uyên, đây là các ngươi muốn gì hả?"
+      },
+      {
+       "text": "Dùng Âm Ba công đánh thức Thạch Lạp, cố trấn an và kéo dài thời gian trước Thập Ngũ gia bằng cách nói vợ chồng Tử Lăng cùng Thạch Hạo đã đi Tây Cương; biện hộ cho việc bố trí sát trận, sau khi Thạch Lạp thoát thân thì hóa thành ánh sáng bỏ chạy.",
+       "anchor": "Vợ chồng Tử Lăng đi tới Tây Cương, Hạo nhi đương nhiên phải đi theo",
+       "bridge": true,
+       "khoang": "@c0266"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0272",
+       "tieuDe": "Nhận ra Tử Đằng là cha Thạch Nghị",
+       "text": "Cùng phe trong phủ suy sụp sau thất bại của Võ Vương; cuối chương nhận ra người đàn ông xuất hiện trong màn mưa là Tử Đằng, cháu ruột của hắn và cha ruột của Thạch Nghị",
+       "anchor": "đây chính là cháu ruột của hắn, cũng là cha ruột của Thạch Nghị"
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0273",
+       "tieuDe": "Phấn chấn khi tôn nhi trở về",
+       "text": "Gia gia của Thạch Tử Đằng, bị người phế bỏ, oán khí mạnh mẽ; phấn chấn khi tôn nhi trở về, tin Thạch Tử Đằng còn hậu chiêu ngoài việc mời Vũ Vương.",
+       "anchor": "Là ta đã trở về, từ biệt nhiều năm, gia gia, người còn khỏe không, con hướng người thỉnh an."
       }
      ],
      "tuViMoc": [],
@@ -12271,8 +12968,38 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       {
        "ten": "Thạch Hạo",
        "tag": "doi-thu",
-       "quanHe": "Nạn nhân bị chi ông đoạt Chí Tôn Cốt, cháu vai dưới hai đời — nguồn cơn xung đột cả chương.",
-       "ghiChu": "@c0060"
+       "quanHe": "đối lập từ biến cố đoạt cốt",
+       "ghiChu": "Từng chống Thạch Tử Lăng và che chở phe Thạch Nghị trong biến cố liên quan Chí Tôn cốt."
+      },
+      {
+       "ten": "Thạch Lạp",
+       "tag": "dong-minh",
+       "quanHe": "Cùng áp chế Tứ ca bế quan, cùng che giấu chuyện năm đó",
+       "ghiChu": "@c0265"
+      },
+      {
+       "ten": "Tứ ca",
+       "tag": "doi-thu",
+       "quanHe": "Áp chế ông bế quan vì sợ ông nói chuyện không nên nói",
+       "ghiChu": "@c0265"
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Trưởng bối kéo dài thời gian, biện hộ sát trận rồi bỏ chạy",
+       "ghiChu": "@c0266"
+      },
+      {
+       "ten": "Thạch Tử Đằng",
+       "tag": "ho-hang",
+       "quanHe": "Cháu ruột của Thạch Uyên, cha ruột của Thạch Nghị",
+       "ghiChu": "@c0272"
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "ho-hang",
+       "quanHe": "Liếc cung lớn của ông với ý đồ, mừng khi thấy ông chỉ còn một tay",
+       "ghiChu": "@c0265"
       }
      ],
      "tuiDo": {
@@ -12309,8 +13036,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      }
     },
     "nguon": [
-     "@c0060"
+     "@c0060",
+     "@c0265",
+     "@c0266",
+     "@c0269",
+     "@c0272",
+     "@c0273"
     ],
+    "canhGioiCaoNhat": "Trưởng bối Võ Vương phủ (@c0266)",
     "rank": "B"
    },
    {
@@ -12375,7 +13108,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       "trangThai": "gan-bo"
      }
     ],
-    "canhGioiCaoNhat": "Tu vi cao trong hàng tông lão @c0230",
+    "canhGioiCaoNhat": "Trưởng bối Võ Vương phủ (@c0266)",
     "trangThai": "song",
     "blurb": "Cửu thái gia của Thạch tộc, được Thạch Nghị chỉ đích danh gọi cõng để dùng trùng đồng gia trì nhìn thấu khe hở đòn đánh, xông vào đánh Thạch Tử Lăng.",
     "vaiTro": "Tông lão trực tiếp tham chiến trong vụ vây Thạch Tử Lăng ở phủ đệ",
@@ -12400,6 +13133,22 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       {
        "text": "Bị Nhóc Tỳ kéo ngược về, dẫm dưới chân rồi giết chết trước mặt mọi người.",
        "chuong": "@c0230"
+      },
+      {
+       "text": "Trưởng bối xếp hàng thứ chín, năm đó chủ lực vây công phụ thân Thạch Hạo, che chở mẹ con Thạch Nghị",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Là trưởng bối hàng thứ chín, quyền hành lớn trong Võ Vương phủ.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Năm đó là một trong các chủ lực vây công phụ thân Thạch Hạo và che chở mẹ con Thạch Nghị.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Bị tiếng quát của Thập Ngũ gia chấn vỡ ghế, ngã xuống đất run rẩy.",
+       "chuong": "@c0265"
       }
      ],
      "kinhLich": [
@@ -12435,6 +13184,19 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "chỉ một cước liền đạp chết trưởng bối Thạch Lạp",
        "bridge": true,
        "khoang": "@c0231"
+      },
+      {
+       "chuong": "@c0265",
+       "importance": "normal",
+       "tieuDe": "Bị Đại Ma Thần ép",
+       "text": "Khi Thập Ngũ gia trở lại Võ Vương phủ, Thạch Lạp cùng Thạch Uyên áp chế Tứ ca bế quan để tránh lộ chuyện; trong đại điện, hắn bị Thạch Trung Thiên truy hỏi về Thạch Hạo, thần âm chấn động khiến ghế vỡ và bản thân ngã xuống đất.",
+       "anchor": "Thạch Lạp, Thạch Uyên, đây là các ngươi muốn gì hả?"
+      },
+      {
+       "text": "Bị thần âm của Thập Ngũ gia chấn nhiếp đến hoảng loạn, tham gia che giấu biến cố năm xưa liên quan Thạch Tử Lăng và Thạch Hạo; khi bị Thập Ngũ gia cách không bắt ép hỏi tội, hắn tự bạo giả để kích hoạt Thế Tử phù mà biến mất.",
+       "anchor": "Thế Tử phù, lại có vật nghịch thiên như thế",
+       "bridge": true,
+       "khoang": "@c0266"
       }
      ],
      "tuViMoc": [],
@@ -12468,6 +13230,30 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "dong-minh",
        "quanHe": "người được bao che",
        "ghiChu": "Năm xưa Thạch Lạp từng dốc sức bao che cho mẹ con Thạch Nghị."
+      },
+      {
+       "ten": "Thạch Uyên",
+       "tag": "dong-minh",
+       "quanHe": "Cùng áp chế Tứ ca bế quan, cùng che giấu chuyện năm đó",
+       "ghiChu": "@c0265"
+      },
+      {
+       "ten": "Tứ ca",
+       "tag": "doi-thu",
+       "quanHe": "Áp chế ông bế quan vì sợ ông nói chuyện không nên nói",
+       "ghiChu": "@c0265"
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Bị Thập Ngũ gia bắt hỏi tội chuyện năm xưa, dùng phù thoát thân",
+       "ghiChu": "@c0266"
+      },
+      {
+       "ten": "Thạch Hạo",
+       "tag": "doi-thu",
+       "quanHe": "đối lập từ biến cố đoạt cốt",
+       "ghiChu": "Năm đó thuộc phe vây công phụ thân Thạch Hạo và che chở mẹ con Thạch Nghị."
       }
      ],
      "tuiDo": {}
@@ -12477,7 +13263,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0062",
      "@c0229",
      "@c0230",
-     "@c0231"
+     "@c0231",
+     "@c0265",
+     "@c0266",
+     "@c0269"
     ],
     "tinhCach": [
      {
@@ -13374,72 +14163,6 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     },
     "nguon": [
      "@c0062"
-    ],
-    "rank": "D"
-   },
-   {
-    "id": "lao-thap-ngu",
-    "name": "Lão Thập Ngũ",
-    "cn": "",
-    "aliases": [],
-    "gioiTinh": "nam",
-    "theLuc": [
-     {
-      "ten": "Cổ quốc (Nhân Hoàng)",
-      "trangThai": "gan-bo"
-     }
-    ],
-    "trangThai": "khong-ro",
-    "blurb": "Trưởng bối, gia gia của Thạch Hạo; tiễn pháp tinh diệu, hai tên hạ Loan Điểu ở Thánh Hồ và bắn chết Tỳ Hưu trên Bách Tộc Chiến Trường làm chấn động bát hoang.",
-    "vaiTro": "Ông nội (gia gia) của Thạch Hạo trong ký ức thân thế; cường giả xạ tiễn của dòng họ hoàng thân, đích thân cho Hạo Nhi uống bảo huyết Thần Cầm.",
-    "tinhCach": [
-     {
-      "text": "Xạ tiễn tinh diệu, sát phạt quyết đoán",
-      "chuong": "@c0055"
-     },
-     {
-      "text": "Thương yêu, dốc lòng bồi dưỡng cháu trai",
-      "chuong": "@c0055"
-     }
-    ],
-    "tabs": {
-     "diem": [
-      {
-       "text": "Tiễn pháp tinh diệu — hai mũi tên hạ một Loan Điểu mạnh",
-       "chuong": "@c0055"
-      },
-      {
-       "text": "Bắn chết một con Tỳ Hưu trên Bách Tộc Chiến Trường, chấn động bát hoang",
-       "chuong": "@c0055"
-      }
-     ],
-     "kinhLich": [],
-     "nhanMach": [
-      {
-       "ten": "Thạch Hạo",
-       "tag": "ho-hang",
-       "quanHe": "Cháu trai (Hạo Nhi), đích thân cho uống bảo huyết Thần Cầm"
-      },
-      {
-       "ten": "Cha mẹ Thạch Hạo",
-       "tag": "ho-hang",
-       "quanHe": "Con trai và con dâu, gọi ông là ‘Cha’"
-      }
-     ],
-     "tuiDo": {
-      "phapBao": [
-       {
-        "ten": "Cung đen dây gân Giao",
-        "loai": "cung",
-        "trangThai": "dang-co",
-        "moTa": "Thân cung màu đen, dây cung làm bằng gân Giao, phát sát khí mãnh liệt; bắn ra mũi tên như Giao Long hào quang ngập trời — dùng hạ Loan Điểu và Tỳ Hưu.",
-        "nguon": "@c0055"
-       }
-      ]
-     }
-    },
-    "nguon": [
-     "@c0055"
     ],
     "rank": "D"
    },
@@ -17481,7 +18204,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "id": "vu-vuong",
     "name": "Vũ Vương",
     "gioiTinh": "nam",
-    "trangThai": "song",
+    "trangThai": "khong-ro",
     "blurb": "Vương của Vũ tộc ở Thạch quốc (chữ \"Vũ\" chỉ lông vũ loài chim); sinh linh hình người sừng vàng, cánh ngũ sắc, dùng hung đao. Cùng liên minh công chúa Hỏa quốc đi Thần Quật đoạt chí bảo, bị nhóc tỳ đá hộc máu và chặt đứt một cánh tay.",
     "tabs": {
      "kinhLich": [
@@ -17521,6 +18244,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Vũ vương cần máu huyết cổ xưa của con Bát Trân Kê đó",
        "bridge": true,
        "khoang": "@c0197"
+      },
+      {
+       "text": "Vũ Vương xuất hiện giữa mưa phù văn phủ xuống Võ Vương phủ, lấy cớ giúp Võ Vương thanh lý môn hộ; bị Đại Ma Thần coi là khiêu khích, đối đầu trực diện và bị bắn một mũi tên trắng đen, phải dùng thần vật phát sáng liên quan Thần Linh chặn nhưng vẫn bị đánh bay mấy trăm trượng",
+       "anchor": "Được rồi, nói rõ ý đồ của mình vậy ta là tới giúp đỡ Võ Vương, giúp hắn thanh lý môn hộ.",
+       "bridge": true,
+       "khoang": "@c0272"
+      },
+      {
+       "text": "Vũ Vương đến Võ Vương phủ khiêu chiến, lần lượt dùng Đại trận mưa máu, chín hồ lô và Vũ Thần pháp chỉ để đối kháng Thạch Trung Thiên. Sau khi pháp chỉ bị mũi tên thần phá vỡ, ông bị bắn nổ nửa thân dưới và ngã trước Vũ Vương Phủ.",
+       "anchor": "nửa người dưới đã bị trúng tên lập tức nổ tung, nửa đoạn dưới biến mất trở thành bùn nhão",
+       "bridge": true,
+       "khoang": "@c0274"
       }
      ],
      "nhanMach": [
@@ -17547,6 +18282,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "dong-minh",
        "quanHe": "Cùng cướp Ấu Thần và cùng bị bắt trói",
        "ghiChu": "@c0125"
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Bị Đại Ma Thần coi là khiêu khích và bắn tên cảnh cáo",
+       "ghiChu": "@c0272"
+      },
+      {
+       "ten": "Thạch Tử Đằng",
+       "tag": "dong-minh",
+       "quanHe": "Được Tử Đằng mời tới; được nói xem như người thân của Thạch Nghị",
+       "ghiChu": "@c0272"
       }
      ],
      "tuViMoc": [],
@@ -17554,6 +18301,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       {
        "text": "Cần máu huyết cổ xưa của Bát Trân Kê, mắng thuộc hạ rác rưởi khi để nó chạy thoát",
        "chuong": "@c0197"
+      },
+      {
+       "text": "Vương của Vũ tộc nhiều năm không xuất hiện, sở hữu thần vật liên quan Thần Linh",
+       "chuong": "@c0272"
       }
      ]
     },
@@ -17563,17 +18314,24 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0125",
      "@c0121",
      "@c0196",
-     "@c0197"
+     "@c0197",
+     "@c0272",
+     "@c0274"
     ],
     "aliases": [],
     "theLuc": [
      {
       "ten": "Thái Cổ di chủng",
       "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Vũ tộc",
+      "trangThai": "gan-bo"
      }
     ],
     "vaiTro": "Vua Vũ tộc, đối thủ tiềm năng",
     "tinhCach": "Uy nghiêm; nóng nảy tàn nhẫn",
+    "canhGioiCaoNhat": "không rõ @c0274",
     "rank": "B"
    },
    {
@@ -18175,6 +18933,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "vết máu màu đen ở trên thân kiếm gãy lúc này dĩ nhiên trởi nên đỏ tươi bóng bẩy, giống như là thức tỉnh vậy",
        "bridge": true,
        "khoang": "@c0236"
+      },
+      {
+       "text": "Bóng Lông chui ra khỏi túi càn khôn trong ao máu Côn Bằng, cùng Thạch Hạo hấp thu chân huyết để gột rửa thân thể. Sau đó nó ngủ say, bộ lông vàng khôi phục phần nào và được Thạch Hạo thu lại vào túi càn khôn.",
+       "anchor": "Bóng Lông cũng đã được thu vào trong túi càn khôn",
+       "bridge": true,
+       "khoang": "@c0263"
+      },
+      {
+       "text": "Bóng Lông theo Thạch Hạo trên thuyền U Linh trở về từ Bắc Hải. Nó ngủ nửa tháng rồi tỉnh dậy ăn hải sản, cùng Thạch Hạo lặn xuống đáy biển thăm dò thành trì Nhân Ngư.",
+       "anchor": "Một chiếc thuyền U Linh di chuyển theo gió, hướng thẳng về một phía.",
+       "bridge": true,
+       "khoang": "@c0278"
       }
      ],
      "tuViMoc": [],
@@ -18237,14 +19007,17 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0196",
      "@c0197",
      "@c0201",
-     "@c0236"
+     "@c0236",
+     "@c0263",
+     "@c0278"
     ],
     "aliases": [
      "nhóc siêu quậy",
      "Nhóc Tỳ",
      "con vật nhỏ màu vàng"
     ],
-    "rank": "B"
+    "canhGioiCaoNhat": "Không rõ @c0278",
+    "rank": "A"
    },
    {
     "id": "vu-phong",
@@ -28168,7 +28941,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       "trangThai": "gan-bo"
      }
     ],
-    "canhGioiCaoNhat": "Thần Linh (@c0212)",
+    "canhGioiCaoNhat": "Thần @c0275",
     "trangThai": "khong-ro",
     "blurb": "Thần tổ của Vũ Tộc, được thờ trong miếu thần với Pháp Tướng vàng rực; truyền ngôn đã chết trong trận chiến Thượng Cổ, để lại tấm pháp chỉ nát bét làm di vật cuối cùng.",
     "vaiTro": "Thần tổ đã khuất của Vũ Tộc",
@@ -28196,6 +28969,12 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Bên trên tờ giấy xuất hiện một vết rách",
        "bridge": true,
        "khoang": "@c0212"
+      },
+      {
+       "text": "Vũ tộc rút vào nơi sâu nhất, tế bái tượng đá Vũ Thần và kích hoạt trận pháp do thần lưu lại trong thần miếu; sau đó thần miếu bị tên thần của Thạch Trung Thiên đánh rạn nứt rồi sụp đổ, chỉ còn tượng đá và tế đàn phát sáng.",
+       "anchor": "Cả miếu thờ đều là cấm địa, không chỉ là nơi thu nhận pháp chỉ Vũ Thần mà còn có trận pháp của thần lưu lại",
+       "bridge": true,
+       "khoang": "@c0275"
       }
      ],
      "tuViMoc": [],
@@ -28211,7 +28990,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     },
     "nguon": [
      "@c0211",
-     "@c0212"
+     "@c0212",
+     "@c0275"
     ],
     "rank": "C"
    },
@@ -29880,7 +30660,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       "trangThai": "gan-bo"
      }
     ],
-    "trangThai": "song @c0229",
+    "trangThai": "song",
     "blurb": "Võ Vương là bậc tôn trưởng của Võ Vương Phủ, đã bế quan nhiều năm. Việc Thạch Nghị mở Động Thiên thứ mười khiến ông bị kinh động xuất quan để tham dự hộ pháp.",
     "vaiTro": "tôn trưởng Võ Vương Phủ",
     "tinhCach": [
@@ -29910,6 +30690,25 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Ngay cả Võ Vương đều bị kinh động xuất quan, lại còn mới đến Chí Cường Giả cùng nhau hộ pháp cho Nghị ca ...",
        "bridge": true,
        "khoang": "@c0229"
+      },
+      {
+       "text": "Ra lệnh khiêng các nguyên lão bị phế xuống, chất vấn Lão Thập Ngũ, rồi quyết đấu bằng Thế giới trong lòng bàn tay, lư đồng, Hắc Thần Phong, mắt bạc và đại tinh phù văn; mỉa mai Thập Ngũ gia mất một tay nhưng cuối cùng bị đánh nổ đại tinh phù văn, phun máu lảo đảo lùi lại",
+       "anchor": "Võ Vương phun ra một ngụm máu, bị công kích đơn giản mà cuồng bảo của Đại Ma Thần chấn cho thân thể lảo đảo",
+       "bridge": true,
+       "khoang": "@c0270"
+      },
+      {
+       "text": "Bị Đại Ma Thần chấn đến thổ huyết nhưng tiếp tục dùng huyết hồ thần thông, để lộ chân hình lư đồng Kim Ô với sáu Kim Ô lửa; cởi bỏ phong ấn tự áp chế khiến thực lực tăng vọt, đánh trọng thương Thập Ngũ gia; cuối cùng bị mũi tên trắng đen của Đại Ma Thần bắn trọng thương gãy xương, ngã ngửa vào phủ đệ",
+       "anchor": "Võ Vương bị chấn cho thổ huyết, thế nhưng vẫn không có lùi bước trái lại cười dài",
+       "bridge": true,
+       "khoang": "@c0271"
+      },
+      {
+       "importance": "major",
+       "chuong": "@c0272",
+       "tieuDe": "Đại bại và tiết lộ chỗ dựa của Thạch Nghị",
+       "text": "Bị Thập Ngũ gia bắn thủng thân thể, thương thế nặng mất năng lực tái chiến, gây chấn động toàn Hoàng Đô; thừa nhận thất bại và rời đi, trước khi ngất nhắc rằng sau lưng Thạch Nghị có một vị Chí Cường giả",
+       "anchor": "Sau lưng Nghị nhi là một vị Chí Cường giả, ngươi ta đều khó mà ngăn cản được sự quật khởi của nó."
       }
      ],
      "tuViMoc": [],
@@ -29919,6 +30718,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "tag": "dong-minh",
        "quanHe": "hộ pháp trong phủ",
        "ghiChu": "Được nhắc là xuất quan và cùng Chí Cường Giả hộ pháp cho Thạch Nghị."
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Đối đầu trực diện, khai chiến vì bảo vệ nhất mạch Nghị nhi",
+       "ghiChu": "@c0269"
+      },
+      {
+       "ten": "Thạch Nghị",
+       "tag": "khac",
+       "quanHe": "Gọi là trời sinh Thần Nhân Trùng Đồng giả, xin bảo toàn nhất mạch của hắn",
+       "ghiChu": "@c0269"
       }
      ],
      "tuiDo": {
@@ -29932,9 +30743,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      }
     },
     "nguon": [
-     "@c0229"
+     "@c0229",
+     "@c0269",
+     "@c0270",
+     "@c0271",
+     "@c0272"
     ],
-    "rank": "D"
+    "rank": "B"
    },
    {
     "id": "truong-lao-vo-vuong-phu",
@@ -31921,6 +32736,12 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "mấy vị tông lão của Nhân Ngư Tộc bị hắn chém thẳng tới, chết oan uổng",
        "bridge": true,
        "khoang": "@c0258"
+      },
+      {
+       "text": "Hậu nhân Hải Thần dùng chiến kích hoàng kim quét ngang chiến trường trên tế đàn, nhưng bị vây công trọng thương gần chết, các chiến phó dẫn theo chết hết, bình đài chiến tranh nổ nát; buộc phải ném một miếng bảo cốt Côn Bằng để tránh thoát khỏi chiến trường đáng sợ.",
+       "anchor": "ép phải ném đi một miếng rồi nhờ vào đó tránh thoát và chạy thoát khỏi chiến trường đáng sợ đó",
+       "bridge": true,
+       "khoang": "@c0262"
       }
      ],
      "tuViMoc": [
@@ -31996,7 +32817,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0255",
      "@c0256",
      "@c0257",
-     "@c0258"
+     "@c0258",
+     "@c0262"
     ],
     "rank": "B"
    },
@@ -32063,6 +32885,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
       {
        "text": "Trở thành mục tiêu công kích của Thạch Hạo trong đại hỗn chiến.",
        "chuong": "@c0258"
+      },
+      {
+       "text": "Dùng Thần Chiếu Đăng đánh bay đám cường giả để đoạt bảo cốt.",
+       "chuong": "@c0262"
       }
      ],
      "kinhLich": [
@@ -32109,6 +32935,12 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "kiếm gãy phát sáng đâm vào lồng ngực một vị vương hầu Hải tộc",
        "bridge": true,
        "khoang": "@c0260"
+      },
+      {
+       "text": "Trong đại chiến trên tế đàn Cấm Kỵ Hải, dùng Thần Chiếu Đăng đánh bay đám cường giả, thu được một miếng bảo cốt Côn Bằng rồi trở về bộ tộc mình.",
+       "anchor": "Sáu miếng cốt đều bị người đoạt được, bị các thể lực chia cắt",
+       "bridge": true,
+       "khoang": "@c0262"
       }
      ],
      "tuViMoc": [
@@ -32177,7 +33009,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0256",
      "@c0258",
      "@c0259",
-     "@c0260"
+     "@c0260",
+     "@c0262"
     ],
     "rank": "B"
    },
@@ -32910,6 +33743,2611 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0233"
     ],
     "rank": "D"
+   },
+   {
+    "id": "tieu-luc-tu",
+    "name": "Tiểu Lục tử",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Chiến Vương phủ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0265)",
+    "trangThai": "song",
+    "blurb": "Chiến tướng gần ba mươi tuổi xuất thân Chiến Vương phủ, ứng cử viên Vương hầu Thạch Quốc, người nhận ra Thập Ngũ gia khi ông trở về Hoàng Đô.",
+    "vaiTro": "Chiến tướng Chiến Vương phủ, ứng cử viên Vương hầu",
+    "tinhCach": "cảnh giác; nhanh nhạy nhận biết cường giả",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Ứng cử viên Vương hầu Thạch Quốc, từng biết Thập Ngũ gia khi còn bé.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Ứng cử viên Vương hầu Thạch Quốc, xuất thân Chiến Vương phủ",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Xuất thân Chiến Vương phủ và có tư cách ứng cử Vương hầu Thạch Quốc.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Nhận ra Thập Ngũ gia ở cửa thành nhưng không đuổi kịp thân pháp của ông.",
+       "chuong": "@c0265"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0265",
+       "importance": "normal",
+       "tieuDe": "Nhận ra Đại Ma Thần",
+       "text": "Tại cửa thành Hoàng Đô, Tiểu Lục tử nhận ra người cưỡi Long Lân Tước là Thập Ngũ gia của Võ Vương phủ; hắn kinh sợ đuổi theo nhưng không kịp khi ông dùng súc địa thành thốn rời đi.",
+       "anchor": "ngươi chính là Tiểu Lục tử của Chiến Vương phủ"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "khac",
+       "quanHe": "Biết ông từ khi còn bé, nhận ra ông là Đại Ma Thần trở về",
+       "ghiChu": "@c0265"
+      }
+     ],
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0265"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "that-ca",
+    "name": "Thất ca",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Võ Vương phủ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0265)",
+    "trangThai": "song",
+    "blurb": "Ông lão râu tóc bạc, huynh đệ của Thập Ngũ gia trong Võ Vương phủ, kích động vọt ra đón khi ông trở về sau mười ba năm.",
+    "vaiTro": "Trưởng bối Võ Vương phủ, huynh đệ Thập Ngũ gia",
+    "tinhCach": "trọng tình huynh đệ; kích động",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Huynh đệ thân thiết của Thập Ngũ gia, đón và dẫn ông vào cung điện.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Huynh đệ ruột thịt với Thập Ngũ gia, vọt ra đón trước tiên",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Là người trong phủ ra nghênh đón Thập Ngũ gia khi ông trở về.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Đóng vai trò dẫn Thạch Trung Thiên vào cung điện giữa bối cảnh Võ Vương phủ căng thẳng.",
+       "chuong": "@c0265"
+      }
+     ],
+     "kinhLich": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "ho-hang",
+       "quanHe": "Huynh đệ, đón ông trở về",
+       "ghiChu": "@c0265"
+      }
+     ],
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0265"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-ca-vo-vuong-phu",
+    "name": "Tứ ca",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Võ Vương phủ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Trưởng bối Võ Vương phủ (@c0265)",
+    "trangThai": "song",
+    "blurb": "Trưởng bối Võ Vương phủ bị Thạch Lạp và Thạch Uyên áp chế bế quan, nghi ngờ có người lợi hại trở về nên họ sợ ông nói ra chuyện không nên nói.",
+    "vaiTro": "Trưởng bối Võ Vương phủ bị áp chế bế quan",
+    "tinhCach": "cương trực; tức giận",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Bị áp chế bế quan, suy đoán Tử Lăng trở về hoặc có người lợi hại hơn xuất hiện.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Bị ép bế quan trong thời điểm Thạch Trung Thiên trở về Võ Vương phủ.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Nghi ngờ Thạch Lạp và Thạch Uyên sợ ông nói ra chuyện không nên nói.",
+       "chuong": "@c0265"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0265",
+       "importance": "normal",
+       "tieuDe": "Bị ép bế quan",
+       "text": "Ở nơi sâu trong phủ, Tứ ca bị Thạch Lạp và Thạch Uyên áp chế bế quan; ông tức giận chất vấn hai người và suy đoán có thể Tử Lăng, hoặc một nhân vật còn lợi hại hơn, đã trở về.",
+       "anchor": "Thạch Lạp, Thạch Uyên, đây là các ngươi muốn gì hả?"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Thạch Lạp",
+       "tag": "doi-thu",
+       "quanHe": "Áp chế ông bế quan",
+       "ghiChu": "@c0265"
+      },
+      {
+       "ten": "Thạch Uyên",
+       "tag": "doi-thu",
+       "quanHe": "Áp chế ông bế quan",
+       "ghiChu": "@c0265"
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "ho-hang",
+       "quanHe": "huynh đệ trong phủ",
+       "ghiChu": "Việc ông bị áp chế gắn với thời điểm Thạch Trung Thiên trở về."
+      },
+      {
+       "ten": "Thạch Tử Lăng",
+       "tag": "ho-hang",
+       "quanHe": "người được ông suy đoán đã trở về",
+       "ghiChu": "Ông nghi có thể Tử Lăng trở về nên Thạch Lạp và Thạch Uyên mới sợ ông nói chuyện."
+      }
+     ],
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0265"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bon-vi-lao-to-vo-vuong-phu",
+    "name": "Bốn vị lão tổ Võ Vương phủ",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Võ Vương phủ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Nhóm bốn lão tổ cao niên của Võ Vương phủ, năm xưa vào thời khắc mấu chốt xuất quan khiến Thạch Tử Lăng buộc phải rời Hoàng Đô.",
+    "vaiTro": "Trưởng lão tối cao Võ Vương phủ, can ngăn Đại Ma Thần",
+    "tinhCach": "Coi trọng đại cục; bảo thủ, thiên vị Thạch Nghị",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Năm xưa xuất quan ở thời khắc mấu chốt khiến Thạch Tử Lăng phải rời Hoàng Đô",
+       "chuong": "@c0268"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Bốn lão tổ hiện thân khuyên Thập Ngũ gia dừng tay, viện lý do đại cục và bảo toàn Thạch Nghị người mang Trùng Đồng cùng Chí Tôn cốt, đề cao việc Thạch Nghị vào Thượng Cổ Thánh Viện có thể đạt Bổ Thiên thuật; nhưng bị khí thế và pháp tướng hung thú của Đại Ma Thần đánh bật, miệng chảy máu",
+       "anchor": "Đây chính là bốn vị lão tổ trong Võ Vương phủ",
+       "bridge": true,
+       "khoang": "@c0268"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Bị Đại Ma Thần áp chế khi can ngăn",
+       "ghiChu": "@c0268"
+      }
+     ]
+    },
+    "nguon": [
+     "@c0268"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thach-tu-dang",
+    "name": "Thạch Tử Đằng",
+    "cn": "石子藤",
+    "aliases": [
+     "Tử Đằng"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Võ Vương phủ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Thâm bất khả trắc (@c0273)",
+    "trangThai": "song",
+    "blurb": "Người đàn ông mạnh mẽ xuất hiện trong màn mưa, cháu ruột của Thạch Uyên và cha ruột của Thạch Nghị; chính hắn mời Vũ Vương tới.",
+    "vaiTro": "Cha ruột của Thạch Nghị, mời Vũ Vương can thiệp",
+    "tinhCach": "Cứng rắn, dám can dự vì thân phận người thân của Thạch Nghị",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cha ruột của Thạch Nghị, cháu ruột của Thạch Uyên; mời Vũ Vương tới",
+       "chuong": "@c0272"
+      },
+      {
+       "text": "Đi trong màn mưa mà không giọt nào dính người, như hợp thành một thể với thiên địa, tu vi thâm bất khả trắc",
+       "chuong": "@c0273"
+      },
+      {
+       "text": "Dáng hai bảy hai tám tuổi nhưng đã hơn bốn mươi, nước da trắng hồng như ngọc thạch, mắt thâm thúy như tinh không",
+       "chuong": "@c0273"
+      }
+     ],
+     "kinhLich": [
+      {
+       "importance": "normal",
+       "chuong": "@c0272",
+       "tieuDe": "Xuất hiện, nhận đã mời Vũ Vương",
+       "text": "Một người đàn ông mạnh mẽ bước ra từ màn mưa, nói chính mình mời Vũ Vương tới vì hắn có tư cách can dự với thân phận người thân của Thạch Nghị; Thạch Uyên nhận ra đó là Tử Đằng, cháu ruột của hắn và cha ruột của Thạch Nghị",
+       "anchor": "Là ta mời Vũ Vương tới, hắn có tư cách xuất hiện ở đây, dù sao hắn cũng xem như là người thân của Nghị nhi."
+      },
+      {
+       "importance": "normal",
+       "chuong": "@c0273",
+       "tieuDe": "Trở về Võ Vương phủ, mời Vũ Vương",
+       "text": "Trở về sau nhiều năm tu hành bên ngoài, thỉnh an gia gia Thạch Uyên đã bị phế; đối thoại với Thập Ngũ gia (Đại Ma Thần) về nguồn gốc Chí Tôn cốt của Nghị nhi; thừa nhận mình và Thạch Tử Lăng đều không địch nổi Đại Ma Thần nên mời Vũ Vương tới ra tay.",
+       "anchor": "Là ta đã trở về, từ biệt nhiều năm, gia gia, người còn khỏe không, con hướng người thỉnh an."
+      },
+      {
+       "text": "Sau khi rời chiến trường trước đó, Thạch Tử Đằng quay lại Võ Vương phủ, mở cửa nghênh người tóc xanh từ Thái Cổ Thần Sơn vào nơi sâu nhất trong phủ; khi người tóc xanh phong ấn xong, hắn cúi chào rồi được đưa ra ngoài để tránh đại chiến.",
+       "anchor": "Không có gì, mời một vị trưởng bối tới làm khách thôi.",
+       "bridge": true,
+       "khoang": "@c0276"
+      },
+      {
+       "chuong": "@c0281",
+       "importance": "major",
+       "tieuDe": "Về Hoàng Đô, xin thần huyết Tế Linh cho Thạch Nghị",
+       "text": "Trở lại Hoàng Đô cùng vài cường giả, được Nhân Hoàng triệu vào cung mật đàm; lời nói bị truyền ra đề cao Thạch Nghị là thiếu niên chí tôn có Bổ Thiên thuật, hạ thấp Thập Ngũ gia và Hạo nhi, rồi xin Nhân Hoàng lấy thần huyết Tế Linh lưu lại để tẩy thân thể cho Thạch Nghị, khiến các vương hầu chấn động suy đoán vấn đề kế thừa; cuối chương xuất hiện tại nhà đấu giá Cốt Cổ",
+       "anchor": "ta chỉ muốn mời Nhân Hoàng lấy ra thần huyết Tế Linh lưu lại để Nghị nhi tẩy thân thể"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Thạch Nghị",
+       "tag": "cha-me",
+       "quanHe": "Cha ruột của Thạch Nghị",
+       "ghiChu": "@c0272"
+      },
+      {
+       "ten": "Thạch Uyên",
+       "tag": "ho-hang",
+       "quanHe": "Là cháu ruột của Thạch Uyên",
+       "ghiChu": "@c0272"
+      },
+      {
+       "ten": "Vũ Vương",
+       "tag": "dong-minh",
+       "quanHe": "Mời Vũ Vương tới can thiệp",
+       "ghiChu": "@c0272"
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Đối đầu Thập Ngũ gia (Đại Ma Thần)",
+       "ghiChu": "Mời Vũ Vương tới đối phó"
+      },
+      {
+       "ten": "Thạch Tử Lăng",
+       "tag": "khac",
+       "quanHe": "Người giết thê tử Thạch Tử Đằng",
+       "ghiChu": "Nhỏ hơn Thạch Tử Đằng mười tuổi"
+      },
+      {
+       "ten": "Bích Ma Hắc Đồng Chu",
+       "tag": "dong-minh",
+       "quanHe": "viện binh từ cùng sơn môn",
+       "ghiChu": "Thạch Tử Đằng dẫn người tóc xanh vào Võ Vương phủ để đối phó Đại Ma Thần."
+      },
+      {
+       "ten": "Nhân Hoàng",
+       "tag": "cap-tren",
+       "quanHe": "Được Nhân Hoàng triệu vào cung mật đàm",
+       "ghiChu": "@c0281"
+      },
+      {
+       "ten": "Nhân Hoàng",
+       "tag": "khac",
+       "quanHe": "Được triệu vào cung mật đàm",
+       "ghiChu": "Xin Nhân Hoàng lấy thần huyết Tế Linh cho Thạch Nghị. @c0281"
+      }
+     ],
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0272",
+     "@c0273",
+     "@c0276",
+     "@c0281"
+    ],
+    "rank": "B"
+   },
+   {
+    "id": "vo-vuong-nhan-vat",
+    "name": "Vũ Vương",
+    "cn": "雨王",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Vũ tộc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ @c0275",
+    "trangThai": "song",
+    "blurb": "Cường giả được Thạch Tử Đằng mời tới đối phó Đại Ma Thần. Dùng âm ba công Chân Hống khiếu, điều khiển sấm sét chín tầng trời và nước mưa. Nghi có quan hệ với Thần Linh.",
+    "vaiTro": "Cường giả ngoại lực do Thạch Tử Đằng mời, đối chiến Đại Ma Thần",
+    "tinhCach": "Cao ngạo tuyên chiến; điều khiển thiên uy",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Dùng Chân Hống khiếu âm ba công, âm như sấm chấn động cả tòa thành lớn truyền khắp Hoàng Đô",
+       "chuong": "@c0273"
+      },
+      {
+       "text": "Bị Đại Ma Thần đánh trọng thương ho máu, hai cánh tay nứt gãy; nghi còn thứ có quan hệ với Thần Linh chưa dùng",
+       "chuong": "@c0273"
+      }
+     ],
+     "kinhLich": [
+      {
+       "importance": "normal",
+       "chuong": "@c0273",
+       "tieuDe": "Tuyên chiến, tru diệt Thạch Trung Thiên",
+       "text": "Xuất hiện trong màn mưa, tuyên bố nhận lời mời dòng chính nhất mạch Võ Vương phủ, thay Võ Vương ra tay diệt phản nghịch tru diệt Thạch Trung Thiên; dẫn sấm sét chín tầng trời, gom nước mưa thành sông nhỏ chảy ngược bao phủ nhưng bị Đại Ma Thần áp đảo, ho máu gãy tay.",
+       "anchor": "thay Võ Vương ra tay, diệt trừ phản nghịch, tru diệt Thạch Trung Thiên trong trận chiến này!"
+      },
+      {
+       "chuong": "@c0275",
+       "importance": "major",
+       "tieuDe": "Tàn phế thoát thân",
+       "text": "Vũ Vương bị đánh chỉ còn nửa thân thể, hiến tế phần thân nát cho pháp chỉ thần linh để thoát khỏi tên thần, rồi được pháp chỉ màu vàng bao lấy trốn vào Vũ Vương phủ; từ đây hắn bị xác định là tàn phế.",
+       "anchor": "Pháp chỉ màu vàng này bao quanh lấy hắn rồi trốn vào trong Vũ Vương phủ."
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Thạch Tử Đằng",
+       "tag": "dong-minh",
+       "quanHe": "Được Thạch Tử Đằng mời tới",
+       "ghiChu": ""
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "doi-thu",
+       "quanHe": "Tuyên bố tru diệt trong trận chiến",
+       "ghiChu": ""
+      }
+     ],
+     "tuiDo": {},
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0273",
+     "@c0275"
+    ],
+    "rank": "B"
+   },
+   {
+    "id": "bong-nguoi-cam-bao-thap",
+    "name": "Bóng người cầm bảo tháp",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "khong-ro",
+    "theLuc": [],
+    "canhGioiCaoNhat": "Không rõ @c0275",
+    "trangThai": "song",
+    "blurb": "Một nhân vật chưa rõ thân phận xuất hiện trên đường chính Hoàng Đô sau khi Đại Ma Thần ép Vũ tộc chịu nhục. Người này vóc dáng cao to, tay cầm một tòa bảo tháp.",
+    "vaiTro": "Nhân vật bí ẩn cuối chương",
+    "tinhCach": [
+     {
+      "text": "Chưa rõ lai lịch và mục đích",
+      "chuong": "@c0275"
+     },
+     {
+      "text": "Xuất hiện đúng lúc cục diện Vũ tộc vừa lắng xuống",
+      "chuong": "@c0275"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Xuất hiện trên đường chính Hoàng Đô với vóc người cao to và tay cầm bảo tháp.",
+       "chuong": "@c0275"
+      },
+      {
+       "text": "Sự xuất hiện của nhân vật này báo hiệu biến cố mới sau trận Đại Ma Thần công phạt Vũ tộc.",
+       "chuong": "@c0275"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Khi toàn Hoàng Đô còn chấn động vì Vũ tộc bị một người ép đến không ngóc đầu nổi, một bóng người cao lớn tay cầm bảo tháp đi tới trên đường chính, mở ra biến cố kế tiếp.",
+       "anchor": "Lúc này đây, trên đường chính xuất hiện một bóng người, vó người cao to, tay cầm một tòa bảo tháp đi tới.",
+       "bridge": true,
+       "khoang": "@c0275"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Bảo tháp của bóng người cuối chương",
+        "trangThai": "dang-co",
+        "moTa": "Tòa bảo tháp được nhân vật bí ẩn cầm khi xuất hiện trên đường chính Hoàng Đô.",
+        "nguon": "@c0275"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bich-ma-hac-dong-chu",
+    "name": "Bích Ma Hắc Đồng Chu",
+    "aliases": [
+     "Người tóc xanh",
+     "Thái Cổ Ma Chu",
+     "Cường giả Ma Linh hồ",
+     "nam nhân tóc xanh biếc"
+    ],
+    "cn": "",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Thái Cổ Thần Sơn",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ @c0278",
+    "trangThai": "tu-vong",
+    "blurb": "Sinh linh tóc xanh đến từ Thái Cổ Thần Sơn, được Thạch Tử Đằng dẫn vào Võ Vương phủ làm viện binh. Hắn hiện thân dưới dạng linh thân đang trọng thương nhưng vẫn sở hữu ánh mắt nuốt hồn, tám khối cốt phong ấn và tháp đồng Pháp khí Thần Linh.",
+    "vaiTro": "viện binh Thái Cổ Thần Sơn",
+    "tinhCach": [
+     {
+      "text": "cường thế, tự tin vào lai lịch và pháp khí",
+      "chuong": "@c0276"
+     },
+     {
+      "text": "ra tay lạnh lùng, dùng ánh mắt hút hồn để uy hiếp nguyên lão",
+      "chuong": "@c0276"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Chỉ một ánh mắt đã khiến một nguyên lão Võ Vương phủ hồn phách chấn động, ngã gục tại chỗ.",
+       "chuong": "@c0276"
+      },
+      {
+       "text": "Dùng tám khối cốt phong ấn toàn bộ Võ Vương phủ trước khi tử chiến với Đại Ma Thần.",
+       "chuong": "@c0276"
+      },
+      {
+       "text": "Mang theo tháp đồng được Đại Ma Thần nhận ra là Pháp khí Thần Linh.",
+       "chuong": "@c0276"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0276",
+       "importance": "normal",
+       "tieuDe": "Phong ấn Võ Vương phủ",
+       "text": "Bích Ma Hắc Đồng Chu được Thạch Tử Đằng đưa vào Võ Vương phủ, dùng ánh mắt làm một nguyên lão hồn phách rời thân, sau đó thả tám khối cốt niêm phong toàn phủ; hắn giao chiến với Thạch Trung Thiên bằng Đóng băng cực hạn, thần thông mở cửa địa ngục và tháp đồng Pháp khí Thần Linh, nhưng bị vạch trần chỉ là linh thân đang trọng thương.",
+       "anchor": "Gã rung tay, tám khối cốt bay ra tám hướng, phong ấn Võ Vương phủ, niêm phong nơi đây lại hoàn toàn."
+      },
+      {
+       "chuong": "@c0277",
+       "importance": "normal",
+       "tieuDe": "Lộ bản thể Thái Cổ Ma Chu và bị chém đầu",
+       "text": "Tự nói mình chỉ là tấm thân tàn chứ không phải chân thân; quyết chiến sinh tử với Thập Ngũ gia; lộ hình Thái Cổ Ma Chu dài mười trượng phun tơ bạc lôi điện, nuốt một linh thân của Thập Ngũ gia, dùng thần thông giam cầm hư không; cuối cùng linh thân bị tâm niệm thần tiễn bắn thủng đầu và bị chém rơi đầu.",
+       "anchor": "Ta chỉ là một tấm thân tàn, không phải là chân thân tới"
+      },
+      {
+       "chuong": "@c0278",
+       "importance": "normal",
+       "tieuDe": "Linh thân bị chém",
+       "text": "Linh thân Thái Cổ Ma Chu bị Thạch Trung Thiên chém chết trong trận chiến. Bản thể không được xác nhận tử vong, chỉ còn ý chí để lại trong tháp đồng gào thét trước khi thông đạo mở ra và biến mất.",
+       "anchor": "Trận chiến này kết thúc, Ma Chu bỏ mình!"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Tử Đằng",
+       "tag": "dong-minh",
+       "quanHe": "người dẫn vào Võ Vương phủ",
+       "ghiChu": "Thạch Tử Đằng mời hắn tới làm viện binh và được đưa ra khỏi phủ trước đại chiến."
+      },
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "doi-thu",
+       "quanHe": "đối thủ tử chiến",
+       "ghiChu": "Hắn phong ấn Võ Vương phủ rồi dùng nhiều thần thông và tháp đồng để đối đầu Đại Ma Thần."
+      },
+      {
+       "ten": "Nhân Hoàng",
+       "tag": "khac",
+       "quanHe": "người răn giới hạn tại Hoàng Đô",
+       "ghiChu": "Bị Nhân Hoàng nói cường giả Ma Linh hồ không nên tới Hoàng Đô."
+      },
+      {
+       "ten": "Thập Ngũ gia",
+       "tag": "doi-thu",
+       "quanHe": "Quyết chiến sinh tử tại Võ Vương phủ; linh thân bị Thập Ngũ gia chém đầu",
+       "ghiChu": "@c0277"
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Tháp đồng Pháp khí Thần Linh",
+        "loai": "pháp khí",
+        "trangThai": "dang-co",
+        "moTa": "Chiếc tháp đồng có thể hóa lớn như núi, phóng thích uy năng trấn áp và hút người vào trong.",
+        "nguon": "@c0276"
+       },
+       {
+        "ten": "Tám khối cốt phong ấn",
+        "loai": "vật phẩm phong ấn",
+        "trangThai": "da-dung",
+        "moTa": "Tám khối cốt màu sắc khác nhau được hắn ném ra tám hướng để niêm phong Võ Vương phủ.",
+        "nguon": "@c0276"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [
+       {
+        "ten": "Đóng băng cực hạn",
+        "loai": "thần thông",
+        "trangThai": "dang-co",
+        "moTa": "Thần thông vận Thái Âm chân lực tạo hàn khí đóng băng và nghiền nát mục tiêu.",
+        "nguon": "@c0276"
+       },
+       {
+        "ten": "Thần thông mở cửa địa ngục",
+        "loai": "thần thông",
+        "trangThai": "dang-co",
+        "moTa": "Thần thông dùng con ngươi dệt phù văn mở vùng hư không đen tối như ma quật để cuốn đối thủ vào.",
+        "nguon": "@c0276"
+       }
+      ],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0276",
+     "@c0278",
+     "@c0281",
+     "@c0277"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "co-gai-nhan-ngu-toc",
+    "name": "Cô gái Nhân Ngư Tộc",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Nhân Ngư Tộc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ @c0278",
+    "trangThai": "song",
+    "blurb": "Cô gái Nhân Ngư Tộc là nhân ngư đuôi cá bạc, tóc xanh lam, sống trong thành trì dưới đáy Bắc Hải. Từng được Thạch Hạo cứu ở hang ổ Côn Bằng, cô đền ơn bằng cách tặng vật liệu quý và nhờ tộc nhân mở truyền tống trận.",
+    "vaiTro": "Người Nhân Ngư đền ơn Thạch Hạo",
+    "tinhCach": [
+     {
+      "text": "biết ơn người cứu mạng",
+      "chuong": "@c0278"
+     },
+     {
+      "text": "hào phóng với ân nhân",
+      "chuong": "@c0278"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Từng bị hậu nhân Hải Thần Mạc Thương uy hiếp ở hang ổ Côn Bằng và được Thạch Hạo cứu giúp.",
+       "chuong": "@c0278"
+      },
+      {
+       "text": "Dẫn Thạch Hạo vào thành trì Nhân Ngư dưới đáy Bắc Hải, tặng nhiều vật liệu quý và sắp xếp truyền tống trận.",
+       "chuong": "@c0278"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cô gái Nhân Ngư Tộc nhận ra Thạch Hạo là người từng cứu mình khỏi Mạc Thương tại hang ổ Côn Bằng. Cô cảm tạ, tặng Huyết tinh châu, Hải Lam Thạch, Giao long đan và nhờ ông lão trong tộc kích hoạt truyền tống trận đưa Thạch Hạo về Tây Cương Thạch Quốc.",
+       "anchor": "Cảm tạ ngày đó đã cứu giúp.",
+       "bridge": true,
+       "khoang": "@c0278"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "an-nhan",
+       "quanHe": "ân nhân",
+       "ghiChu": "Thạch Hạo từng cứu cô ở hang ổ Côn Bằng; cô đền ơn khi gặp lại."
+      },
+      {
+       "ten": "Mạc Thương",
+       "tag": "doi-thu",
+       "quanHe": "kẻ từng tàn sát tộc nhân",
+       "ghiChu": "Mạc Thương từng ra tay với tộc nhân của cô ở hang ổ Côn Bằng."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [
+       {
+        "ten": "Giao long đan",
+        "loai": "đan dược",
+        "trangThai": "da-dung",
+        "moTa": "Đặc sản đỉnh cấp dưới đáy biển được cô đem tặng Thạch Hạo.",
+        "nguon": "@c0278"
+       }
+      ],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [
+       {
+        "ten": "Huyết tinh châu",
+        "loai": "vật liệu",
+        "trangThai": "da-dung",
+        "moTa": "Một trong các vật liệu quý cô tặng Thạch Hạo để đền ơn.",
+        "nguon": "@c0278"
+       },
+       {
+        "ten": "Hải Lam Thạch",
+        "loai": "vật liệu luyện khí",
+        "trangThai": "da-dung",
+        "moTa": "Tinh thạch xanh lam quý được cô tặng Thạch Hạo.",
+        "nguon": "@c0278"
+       }
+      ],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0278"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ba-chu-cua-hang-ho-nu",
+    "name": "Bà chủ cửa hàng Hồ nữ",
+    "cn": "",
+    "aliases": [
+     "cô gái ăn mặc hở hang"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Tổ chức bí ẩn của Hồ Ly Tinh áo trắng",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Bà chủ phụ trách rao bán Hồ nữ tại một quần kiến trúc trong Hoàng Đô Thạch Quốc. Sau khi va chạm với Thạch Hạo, bà vào điện phủ nhận lệnh từ Hồ Ly Tinh áo trắng để chú ý thiếu niên này.",
+    "vaiTro": "Người môi giới Hồ nữ trong Hoàng Đô",
+    "tinhCach": "lả lơi trêu chọc; nhanh nhạy trước mệnh lệnh; biết kính sợ thế lực phía sau",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Đứng ngoài đường rao bán Hồ nữ và công khai trêu chọc Thạch Hạo trước đám đông.",
+       "chuong": "@c0280"
+      },
+      {
+       "text": "Biết Hồ Ly Tinh áo trắng đại diện cho sức mạnh đáng sợ và lập tức nhận lệnh chú ý Thạch Hạo.",
+       "chuong": "@c0280"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Bà chủ cửa hàng Hồ nữ trêu chọc Thạch Hạo ngoài phố, khiến thiếu niên bỏ đi rồi quay lại tuyên bố không chịu thiệt, véo mặt và búng trán bà trước khi rời đi; sau đó bà vào điện phủ, nghe Hồ Ly Tinh áo trắng nói thần bích phát sáng khi Thạch Hạo xuất hiện và nhận lệnh chú ý thiếu niên này.",
+       "anchor": "Con người của ta từ xưa tới nay không bao giờ chịu thiệt",
+       "bridge": true,
+       "khoang": "@c0280"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "khac",
+       "quanHe": "va chạm thoáng qua",
+       "ghiChu": "Trêu chọc Thạch Hạo rồi bị thiếu niên véo mặt búng trán đáp trả."
+      },
+      {
+       "ten": "Hồ Ly Tinh áo trắng",
+       "tag": "cap-tren",
+       "quanHe": "người sai khiến",
+       "ghiChu": "Vào điện phủ nhận lệnh chú ý Thạch Hạo sau khi thần bích phát sáng."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chang-thanh-nien-vanh-mat-tham-den",
+    "name": "Chàng thanh niên vành mắt thâm đen",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Một khách xem Hồ nữ tại Hoàng Đô Thạch Quốc. Hắn giải thích cho Thạch Hạo rằng Hồ nữ bình thường chỉ còn chút huyết thống Hồ Tộc, còn Hồ Ly Tinh là hung thú mạnh mẽ hóa hình và cực hiếm.",
+    "vaiTro": "Khách qua đường giải thích về Hồ nữ",
+    "tinhCach": "nhiều chuyện; hiểu biết tin đồn trong thành",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Giúp Thạch Hạo phân biệt Hồ nữ bị rao bán với Hồ Ly Tinh hóa hình chân chính.",
+       "chuong": "@c0280"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Khi Thạch Hạo tò mò trước cửa hàng bán Hồ nữ, chàng thanh niên vành mắt thâm đen giải thích rằng Hồ nữ chỉ còn chút huyết thống Hồ Tộc, còn Hồ Ly Tinh là hung thú mạnh mẽ thật sự hóa hình nên cực kỳ hiếm thấy.",
+       "anchor": "Mà Hồ Ly Tinh chính là hung thú mạnh mẽ thật thụ hóa hình mà thành",
+       "bridge": true,
+       "khoang": "@c0280"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "khac",
+       "quanHe": "người giải thích tin tức",
+       "ghiChu": "Giải thích cho Thạch Hạo về nguồn gốc và mức độ hiếm thấy của Hồ Ly Tinh."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ho-ly-tinh-ao-trang",
+    "name": "Hồ Ly Tinh áo trắng",
+    "cn": "",
+    "aliases": [
+     "Hồ nữ đại biểu tổ chức bí ẩn"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Hồ Tộc",
+      "trangThai": "gan-bo"
+     },
+     {
+      "ten": "Tổ chức bí ẩn của Hồ Ly Tinh áo trắng",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ",
+    "trangThai": "song",
+    "blurb": "Thiếu nữ Hồ Ly Tinh tuyệt sắc có mấy chiếc đuôi hồ ly trắng, được mô tả là hậu nhân Cửu Vĩ Hồ nhất mạch. Nàng nắm thần bích trong điện phủ, nhờ vật này phát hiện tiềm năng kinh người của Thạch Hạo và bàn việc đi sứ Nhân Hoàng Thạch Quốc.",
+    "vaiTro": "Đại diện thế lực bí ẩn của Hồ Tộc",
+    "tinhCach": "bình tĩnh quan sát; nhìn xa trước đại loạn; xem trọng thiên tài tiềm năng",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Là hậu nhân Cửu Vĩ Hồ nhất mạch, xuất hiện trong điện phủ sâu sau khu buôn Hồ nữ.",
+       "chuong": "@c0280"
+      },
+      {
+       "text": "Dùng thần bích phát hiện Thạch Hạo có tiềm năng trở thành bá chủ Hoang Vực.",
+       "chuong": "@c0280"
+      },
+      {
+       "text": "Bàn việc thế lực của mình nên đi sứ Nhân Hoàng Thạch Quốc trước đại loạn Hoang Vực.",
+       "chuong": "@c0280"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Trong điện phủ phía sau khu buôn Hồ nữ, Hồ Ly Tinh áo trắng thấy thần bích phát sáng khi Thạch Hạo xuất hiện, nhận định thiếu niên này tương lai có thể trở thành một trong những bá chủ Hoang Vực; nàng căn dặn bà chủ chú ý Thạch Hạo, đồng thời nhắc chuyện các thế lực đã chuẩn bị cho đại loạn và bên mình cũng nên đi sứ Nhân Hoàng Thạch Quốc.",
+       "anchor": "Khi hắn xuất hiện thì thần bích phát sáng",
+       "bridge": true,
+       "khoang": "@c0280"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "khac",
+       "quanHe": "người được nàng chú ý",
+       "ghiChu": "Thần bích của nàng phát sáng khi Thạch Hạo xuất hiện, khiến nàng đánh giá cao tiềm năng của hắn."
+      },
+      {
+       "ten": "Bà chủ cửa hàng Hồ nữ",
+       "tag": "cap-tren",
+       "quanHe": "người dưới quyền",
+       "ghiChu": "Sai bà chủ chú ý Thạch Hạo sau khi thần bích phát sáng."
+      },
+      {
+       "ten": "Nhân Hoàng",
+       "tag": "khac",
+       "quanHe": "đối tượng đi sứ",
+       "ghiChu": "Nàng nhắc chuyện thế lực của mình cũng nên đi sứ thăm hỏi Nhân Hoàng Thạch Quốc."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Ngọc bích thần",
+        "loai": "vật phẩm thần bí",
+        "trangThai": "dang-co",
+        "moTa": "Thần bích phát sáng khi Thạch Hạo xuất hiện, có khả năng cảm ứng tiềm năng kinh người.",
+        "nguon": "@c0280"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "con-gai-tu-tieu-hau",
+    "name": "Con gái yêu của Tử Tiêu hầu",
+    "gioiTinh": "nu",
+    "trangThai": "song",
+    "vaiTro": "Thiên tài trẻ tuổi Hoàng Đô Thạch Quốc, con gái Tử Tiêu hầu",
+    "tinhCach": "Hoạt bát; nổi bật",
+    "blurb": "Thiếu nữ tóc đỏ hoạt bát ở Hoàng Đô Thạch Quốc, được nhận ra là con gái yêu của Tử Tiêu hầu. Xuất hiện tại nhà đấu giá Cốt Cổ.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Thiếu nữ tóc đỏ hoạt bát bước xuống từ xe bằng đồng",
+       "chuong": "@c0281"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0281",
+       "importance": "normal",
+       "tieuDe": "Xuống xe đồng vào đấu giá Cốt Cổ",
+       "text": "Thiếu nữ tóc đỏ hoạt bát bước xuống từ cỗ xe bằng đồng, được nhận ra là con gái yêu của Tử Tiêu hầu và đi vào nhà đấu giá Cốt Cổ",
+       "anchor": "Nhà đấu giá Cốt Cổ có bối cảnh rất lớn trong Hoàng Đô"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Tử Tiêu hầu",
+       "tag": "cha-me",
+       "quanHe": "Con gái của Tử Tiêu hầu",
+       "ghiChu": "@c0281"
+      }
+     ]
+    },
+    "nguon": [
+     "@c0281"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-tieu-hau",
+    "name": "Tử Tiêu hầu",
+    "gioiTinh": "nam",
+    "trangThai": "song",
+    "vaiTro": "Vương hầu Thạch Quốc",
+    "tinhCach": "Chưa rõ",
+    "blurb": "Một vị vương hầu của Thạch Quốc, được nhắc qua thân phận con gái yêu xuất hiện tại nhà đấu giá Cốt Cổ.",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Vương hầu Thạch Quốc, cha của thiếu nữ tóc đỏ ở nhà đấu giá Cốt Cổ",
+       "chuong": "@c0281"
+      }
+     ],
+     "kinhLich": [],
+     "nhanMach": [
+      {
+       "ten": "Con gái yêu của Tử Tiêu hầu",
+       "tag": "ho-hang",
+       "quanHe": "Cha của thiếu nữ tóc đỏ",
+       "ghiChu": "@c0281"
+      }
+     ]
+    },
+    "nguon": [
+     "@c0281"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hon-thien-hau",
+    "name": "Hỗn Thiên hầu",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Hoàng tộc Thạch quốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0282)",
+    "trangThai": "song",
+    "blurb": "Vương hầu trẻ họ Thạch khoảng hai lăm tuổi thuộc dòng chính vương tộc Thạch quốc, trấn thủ biên cương lập công lớn trong đại chiến với Mộc tộc, có tư cách tranh đoạt hoàng vị. Đến phòng đấu giá Cốt Cổ vì thanh Huyết Ma Thước.",
+    "vaiTro": "Vương hầu trẻ Thạch quốc, ứng viên tranh hoàng vị",
+    "tinhCach": "Mạnh mẽ; bá đạo; quyết đoán",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Trấn thủ biên cương, lập nhiều kỳ công trong đại chiến với Mộc tộc",
+       "chuong": "@c0282"
+      },
+      {
+       "text": "Thân phận vương hầu được nhận ra qua chiến xa hoàng kim do tám hung thú kéo",
+       "chuong": "@c0282"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Chiến xa hoàng kim do tám hung thú kéo lao tới phòng đấu giá Cốt Cổ làm đám đông chú ý; bước vào với thái độ mạnh mẽ, tuyên bố chỉ vì thanh Huyết Ma Thước mới đến.",
+       "anchor": "Đừng để ta thất vọng, ta chỉ vì thanh Huyết Ma Thước mới đến.",
+       "bridge": true,
+       "khoang": "@c0282"
+      },
+      {
+       "text": "Hỗn Thiên hầu xuất hiện tại đại hội anh kiệt; hắn mới hai mươi lăm tuổi đã được phong Hầu, trấn thủ biên cương lập công lớn, thuộc dòng chính vương hầu Thạch tộc và từng đoạt Huyết Ma Xích trong đấu giá.",
+       "anchor": "Hiện tại, hắn chỉ mới hai mươi lăm tuổi, trẻ như vậy đã được phong Hầu, trấn thủ biên cương, luôn lập công lớn",
+       "bridge": true,
+       "khoang": "@c0289"
+      },
+      {
+       "text": "Trước hành động ngạo mạn của Chân Chấn, Hỗn Thiên hầu ra tay bằng Thần Ma Huyết Xích, pháp khí hung danh từ Thượng Cổ; trận đối đầu bị tiên tử che mặt ngăn lại.",
+       "anchor": "một thanh thước máu bay lên đâm thằng vào không trung",
+       "bridge": true,
+       "khoang": "@c0290"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "khac",
+       "quanHe": "người cùng dự đấu giá",
+       "ghiChu": "Cùng có mặt trong buổi đấu giá, Hỗn Thiên Hầu lấy Huyết Ma Xích trước mắt Thạch Hạo."
+      },
+      {
+       "ten": "Muội muội của Hỗn Thiên hầu",
+       "tag": "ho-hang",
+       "quanHe": "muội muội",
+       "ghiChu": "Muội muội của hắn cũng xuất hiện tại hội và được nhiều người vây quanh."
+      },
+      {
+       "ten": "Chân Chấn",
+       "tag": "doi-thu",
+       "quanHe": "đối đầu",
+       "ghiChu": "Từng xuất thủ bằng Thần Ma Huyết Xích trước Chân Chấn bên hồ."
+      }
+     ],
+     "tuiDo": {},
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0282",
+     "@c0283",
+     "@c0289",
+     "@c0290"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "thap-luc-cong-chua",
+    "name": "Thập lục công chúa",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Hoàng tộc Thạch quốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0282)",
+    "trangThai": "song",
+    "blurb": "Công chúa nổi tiếng trong Hoàng Đô Thạch quốc, được Nhân Hoàng yêu thích nhất. Ngồi xe do thụy cầm kéo đến phòng đấu giá Cốt Cổ cùng vài cô gái.",
+    "vaiTro": "Công chúa Thạch quốc được Nhân Hoàng sủng ái",
+    "tinhCach": "Cao quý; được yêu thích",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nữ nhi được Nhân Hoàng yêu thích nhất, danh tiếng lớn trong Hoàng Đô",
+       "chuong": "@c0282"
+      },
+      {
+       "text": "Con gái được Nhân Hoàng yêu quý nhất",
+       "chuong": "@c0284"
+      }
+     ],
+     "kinhLich": [
+      {
+       "importance": "normal",
+       "chuong": "@c0282",
+       "tieuDe": "Xuất hiện tại phòng đấu giá Cốt Cổ",
+       "text": "Sau Hỗn Thiên hầu, Thập lục công chúa được Nhân Hoàng yêu thích đến phòng đấu giá bằng xe do vài con thụy cầm kéo cùng vài cô gái, báo hiệu thân phận không đơn giản.",
+       "anchor": "Thập lục công chúa đến rồi!"
+      },
+      {
+       "text": "Trên hội đấu giá, dùng một đống nguyên thủy phù cốt thắng cuộc tranh viên Tị Hỏa Châu đỏ thẫm.",
+       "anchor": "Là Thập Lục công chúa, người con gái Nhân Hoàng yêu quý nhất",
+       "bridge": true,
+       "khoang": "@c0284"
+      },
+      {
+       "text": "Thập Lục công chúa, một minh châu của Hoàng Đô, xuất hiện tại đại hội anh kiệt bên hồ Thanh Lâm viên cùng một chàng trai tóc tím khí chất xuất chúng.",
+       "anchor": "Nơi này có rất nhiều người, họ đều là tuấn kiệt trẻ tuổi từ mười mấy cho tới hai mươi mấy tuổi, tất cả bất phàm",
+       "bridge": true,
+       "khoang": "@c0289"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Nhân Hoàng",
+       "tag": "cha-me",
+       "quanHe": "Cha; là con gái được Nhân Hoàng yêu quý nhất",
+       "ghiChu": "@c0284"
+      },
+      {
+       "ten": "Chàng trai tóc tím",
+       "tag": "khac",
+       "quanHe": "người đi cùng",
+       "ghiChu": "Cùng xuất hiện tại đại hội anh kiệt Thanh Lâm viên."
+      }
+     ],
+     "tuiDo": {},
+     "tuViMoc": []
+    },
+    "nguon": [
+     "@c0282",
+     "@c0284",
+     "@c0289"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "hau-nhan-tay-minh-hau",
+    "name": "Hậu nhân Tây Minh hầu",
+    "cn": "",
+    "aliases": [
+     "Tiểu hầu gia"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tây Minh hầu phủ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "Không rõ (@c0282)",
+    "trangThai": "song",
+    "blurb": "Thiếu niên mặc chiến y bạc, con cháu Tây Minh hầu, đi cùng nhóm nam nữ quý tộc Hoàng Đô. Muốn chiếm phòng khách quý mà Thạch Hạo đã chọn nhưng chùn lại khi thấy Thạch Hạo dùng Hải Lam tủy.",
+    "vaiTro": "Con cháu vương hầu Hoàng Đô, đối thủ thoáng qua của Thạch Hạo",
+    "tinhCach": "Kiêu ngạo; ỷ thế; biết dừng khi gặp đối thủ mạnh",
+    "tabs": {
+     "diem": [
+      {
+       "text": "Mặc chiến y bạc tỏa bảo quang, đại diện Tây Minh hầu phủ",
+       "chuong": "@c0282"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Cùng nhóm quý tộc trẻ đến, chỉ đúng gian phòng Thạch Hạo đã chọn để tranh; nhưng chùn lại khi thấy Thạch Hạo lấy Hải Lam tủy cực phẩm nện ngã người giúp việc.",
+       "anchor": "Gian phòng này không có người sao, ta chọn nó.",
+       "bridge": true,
+       "khoang": "@c0282"
+      }
+     ],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "doi-thu",
+       "quanHe": "Tranh phòng khách quý",
+       "ghiChu": "Chùn lại trước tài lực của Thạch Hạo (@c0282)"
+      }
+     ],
+     "tuiDo": {}
+    },
+    "nguon": [
+     "@c0282"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-tieu-thu-loi-toc",
+    "name": "Đại tiểu thư Lôi tộc",
+    "cn": "",
+    "aliases": [
+     "Minh châu Lôi tộc"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Lôi tộc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Đại tiểu thư Lôi tộc là cô gái mặc lam khoảng mười tám, mười chín tuổi, được xem là một trong những mỹ nữ nổi bật tại Hoàng Đô. Nàng cạnh tranh với Thạch Hạo trong buổi đấu giá khối tàn cốt Thiên Cốt.",
+    "vaiTro": "đối thủ đấu giá của Thạch Hạo",
+    "tinhCach": [
+     {
+      "text": "kiêu hãnh, không dễ nhượng bộ",
+      "chuong": "@c0283"
+     },
+     {
+      "text": "xuất thân đại tộc, có khí thế của minh châu Hoàng Đô",
+      "chuong": "@c0283"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Lộ diện khi cạnh tranh khối tàn cốt Thiên Cốt với Thạch Hạo.",
+       "chuong": "@c0283"
+      },
+      {
+       "text": "Được nhận ra là viên minh châu của Lôi tộc vừa trở lại Hoàng Đô.",
+       "chuong": "@c0283"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0283",
+       "importance": "normal",
+       "tieuDe": "Đấu giá Thiên Cốt",
+       "text": "Đại tiểu thư Lôi tộc xuất hiện trong phòng đấu giá, dùng phù cốt màu tím và Long Cốt Thiết cạnh tranh khối tàn cốt Thiên Cốt với Thạch Hạo; khi Hải Lam Tủy cực lớn được đưa lên đài, nàng hừ lạnh rồi bỏ cuộc.",
+       "anchor": "Viên minh châu của Lôi tộc, nàng cũng trở lại rồi à!"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "doi-thu",
+       "quanHe": "đối thủ đấu giá",
+       "ghiChu": "Cạnh tranh với Thạch Hạo trong buổi đấu giá khối tàn cốt Thiên Cốt."
+      },
+      {
+       "ten": "Minh châu đệ nhất Hoàng Đô",
+       "tag": "ho-hang",
+       "quanHe": "muội muội",
+       "ghiChu": "Muội muội được đồn có thiên tư cực cao, có thể đối đầu Thạch Nghị."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [
+       {
+        "ten": "Long Cốt Thiết",
+        "loai": "thần liệu",
+        "trangThai": "dang-co",
+        "moTa": "Đưa ra một khối bằng đốt ngón tay để tranh đấu giá.",
+        "nguon": "@c0283"
+       },
+       {
+        "ten": "Phù cốt màu tím",
+        "loai": "bảo cốt",
+        "trangThai": "dang-co",
+        "moTa": "Nguyên thủy bảo cốt của Thái Cổ di chủng, từng được đưa ra làm giá.",
+        "nguon": "@c0283"
+       }
+      ],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0283"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "minh-chau-de-nhat-hoang-do",
+    "name": "Minh châu đệ nhất Hoàng Đô",
+    "cn": "",
+    "aliases": [
+     "Muội muội Lôi tộc"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Lôi tộc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Minh châu đệ nhất Hoàng Đô là muội muội của Đại tiểu thư Lôi tộc, khoảng mười bốn, mười lăm tuổi. Nàng được đồn có thiên tư cực cao, thậm chí có thể đối đầu Thạch Nghị.",
+    "vaiTro": "thiên tài trẻ Lôi tộc được nhắc tới",
+    "tinhCach": [
+     {
+      "text": "thiên tư nổi bật",
+      "chuong": "@c0283"
+     },
+     {
+      "text": "danh tiếng rất lớn trong thế hệ trẻ Thạch Quốc",
+      "chuong": "@c0283"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Được nhắc là minh châu đệ nhất Hoàng Đô, có khả năng trở thành đệ nhất minh châu Thạch Quốc.",
+       "chuong": "@c0283"
+      },
+      {
+       "text": "Được đem ra so sánh với Thạch Nghị trong lời đồn về thế hệ trẻ.",
+       "chuong": "@c0283"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Đại tiểu thư Lôi tộc",
+       "tag": "ho-hang",
+       "quanHe": "tỷ tỷ",
+       "ghiChu": "Là muội muội của Đại tiểu thư Lôi tộc."
+      },
+      {
+       "ten": "Thạch Nghị",
+       "tag": "doi-thu",
+       "quanHe": "được đồn có thể đối đầu",
+       "ghiChu": "Chưa trực tiếp giao thủ trong chương này, chỉ được người ngoài đem ra so sánh."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0283"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ong-lao-toc-bac-dau-gia",
+    "name": "Ông lão tóc bạc",
+    "gioiTinh": "nam",
+    "trangThai": "song",
+    "blurb": "Người trên đài dẫn dắt hội đấu giá Cốt Cổ, giới thiệu các vật phẩm.",
+    "vaiTro": "Người dẫn đấu giá trên đài",
+    "tinhCach": "Điềm tĩnh;lão luyện",
+    "tabs": {
+     "kinhLich": [
+      {
+       "text": "Cùng cô gái áo đỏ dẫn dắt hội đấu giá, giới thiệu Tị Hỏa Châu và các trân bảo.",
+       "anchor": "Là Thập Lục công chúa, người con gái Nhân Hoàng yêu quý nhất",
+       "bridge": true,
+       "khoang": "@c0284"
+      }
+     ]
+    },
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "co-gai-ao-do-dau-gia",
+    "name": "Cô gái áo đỏ",
+    "gioiTinh": "nu",
+    "aliases": [],
+    "trangThai": "song",
+    "blurb": "Người dẫn đấu giá trên đài, giới thiệu Súc Địa phù, da Hư Không Thú và tiểu nhân đen.",
+    "vaiTro": "Người dẫn đấu giá nhà Cốt Cổ",
+    "tinhCach": "Khéo léo;dẫn dắt lôi cuốn",
+    "tabs": {
+     "kinhLich": [
+      {
+       "text": "Đưa ra Súc Địa phù, khoác lên tấm da Hư Không Thú biến mất để chứng minh công năng, rồi giới thiệu tiểu nhân đen.",
+       "anchor": "Cuối cùng tấm Hư Không Thú này rơi vào tay một người thần bí",
+       "bridge": true,
+       "khoang": "@c0284"
+      }
+     ]
+    },
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thap-cuu-hoang-tu",
+    "name": "Thập Cửu hoàng tử",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Hoàng tộc Thạch quốc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ @c0285",
+    "trangThai": "song",
+    "blurb": "Thập Cửu hoàng tử là hoàng tử Thạch quốc từng học nghệ bên ngoài và có chiến tích trên chiến trường bách tộc. Hắn xuất hiện tại Cốt Cổ đấu giá hội cùng một nữ tử áo trắng che mặt và muốn mua lại món bảo vật Thạch Hạo vừa đoạt được.",
+    "vaiTro": "Hoàng tử tham gia đấu giá",
+    "tinhCach": [
+     {
+      "text": "Có thân phận cao trong Hoàng tộc Thạch quốc",
+      "chuong": "@c0285"
+     },
+     {
+      "text": "Lễ ngộ nữ tử che mặt đi cùng mình",
+      "chuong": "@c0285"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Từng được đưa tới chiến trường bách tộc và có chiến tích khiến Hoàng Đô chú ý.",
+       "chuong": "@c0285"
+      },
+      {
+       "text": "Đến phòng đấu giá bằng chiến xa cổ phủ phù văn, lập tức được mọi người nhận ra.",
+       "chuong": "@c0285"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Thập Cửu hoàng tử xuất hiện bên ngoài Phòng đấu giá Cốt Cổ bằng chiến xa cổ, đi cùng nữ tử áo trắng che mặt; sau khi Bất Diệt Kim Thân đã được bán, hắn thay nàng hỏi có thể tham gia cạnh tranh hay không và đề nghị mua lại từ Thạch Hạo với giá cao.",
+       "anchor": "Thập Cửu hoàng tử!\" Mọi người giật mình, đều nhận ra vị nam tử này.",
+       "bridge": true,
+       "khoang": "@c0285"
+      },
+      {
+       "text": "Thập Cửu hoàng tử ngỏ ý mua lại người tí hon màu đen từ Thạch Hạo nhưng bị từ chối; sau đó hắn kiêng kỵ cô gái Thiên Hồ tộc và dẫn đường mời tiên tử che mặt lên chiến xa hoàng kim.",
+       "anchor": "Thứ lỗi, vật này thật sự không thể bán, ta chỉ muốn tự mình nghiên cứu mà thôi.",
+       "bridge": true,
+       "khoang": "@c0286"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Tiên tử che mặt",
+       "tag": "dong-minh",
+       "quanHe": "người đi cùng được hắn lễ ngộ",
+       "ghiChu": "Hắn thay nàng hỏi mua lại món bảo vật vừa bán tại đấu giá hội."
+      },
+      {
+       "ten": "Thạch Hạo",
+       "tag": "khac",
+       "quanHe": "người giữ bảo vật hắn muốn mua lại",
+       "ghiChu": "Hắn đề nghị mua lại Bất Diệt Kim Thân nhưng bị từ chối."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": [
+       {
+        "ten": "Chiến xa cổ xưa của Thập Cửu hoàng tử",
+        "loai": "phương tiện",
+        "trangThai": "dang-co",
+        "moTa": "Chiến xa phủ phù văn đưa hắn tới bên ngoài Phòng đấu giá Cốt Cổ.",
+        "nguon": "@c0285"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0285",
+     "@c0286"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "tien-tu-che-mat",
+    "name": "Tiên tử che mặt",
+    "cn": "",
+    "aliases": [
+     "Cô gái che mặt",
+     "Nữ tử áo trắng che mặt đi cùng Thập Cửu hoàng tử",
+     "Tiên tử đến từ vực ngoại"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [],
+    "canhGioiCaoNhat": "không rõ @c0285",
+    "trangThai": "song",
+    "blurb": "Tiên tử che mặt là nữ tử áo trắng khí chất siêu phàm đi cùng Thập Cửu hoàng tử. Nàng chú ý tới Bất Diệt Kim Thân ngay sau khi món này đã được bán và về sau tự giám định hạt châu vết máu trong đấu giá hội.",
+    "vaiTro": "Nữ tử bí ẩn dự đấu giá",
+    "tinhCach": [
+     {
+      "text": "Khí chất siêu phàm, được Thập Cửu hoàng tử lễ ngộ",
+      "chuong": "@c0285"
+     },
+     {
+      "text": "Nhạy bén với bảo vật hiếm trong đấu giá hội",
+      "chuong": "@c0285"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Muốn tham gia tranh Bất Diệt Kim Thân dù búa đấu giá đã gõ xuống.",
+       "chuong": "@c0285"
+      },
+      {
+       "text": "Tự giám định hạt châu dính vết máu đen nhưng cho rằng vật này đã bị hủy.",
+       "chuong": "@c0285"
+      },
+      {
+       "text": "Thổi sáo bên hồ nước xanh lam, khiến mưa ánh sáng và dị thú tụ về quanh mình.",
+       "chuong": "@c0290"
+      },
+      {
+       "text": "Có lai lịch vượt ngoài Hoàng Vực, từng được Nhân Hoàng tiếp kiến cả đêm.",
+       "chuong": "@c0290"
+      },
+      {
+       "text": "Dùng thần âm ngưng thành núi vàng trấn áp Chân Chấn phun máu.",
+       "chuong": "@c0290"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tiên tử che mặt tới Phòng đấu giá Cốt Cổ cùng Thập Cửu hoàng tử; nàng muốn tham gia cạnh tranh Bất Diệt Kim Thân sau khi vật này đã rơi vào tay Thạch Hạo, rồi về sau cũng xem xét hạt châu dính vết máu đen và bỏ qua vì nhận định nó đã hỏng.",
+       "anchor": "Có thể chờ một chút hay không, vị bằng hữu của ta muốn tham dự cạnh tranh.",
+       "bridge": true,
+       "khoang": "@c0285"
+      },
+      {
+       "chuong": "@c0286",
+       "importance": "normal",
+       "tieuDe": "Mời dự tụ hội",
+       "text": "Tiên tử che mặt không tranh đoạt Bất Diệt Kim Thân, mời Thạch Hạo tham gia buổi tụ hội của tinh anh các tộc; nàng giao thủ bằng phù văn với Thiên Hồ tiên tử, bị lật lụa che mặt để lộ nửa dung nhan kinh diễm, rồi được bàn tán là người có thể đến từ vực ngoại và từng vào cung gặp bệ hạ.",
+       "anchor": "Cô gái này có khả năng là người của vực ngoại, nghe nói trước đây không lâu đã từng vào cung gặp bệ hạ, nói chuyện cũng rất lâu."
+      },
+      {
+       "text": "Nàng xuất hiện bên hồ, thổi sáo ngọc khiến sinh linh tụ về; khi Chân Chấn xung đột với Hỗn Thiên hầu, nàng ngăn cả hai và dùng thần âm hóa thành ký hiệu núi vàng trấn áp Chân Chấn phun máu.",
+       "anchor": "một khúc thần âm vang lên tức khắc có một ký hiệu rực sáng bay ra",
+       "bridge": true,
+       "khoang": "@c0290"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thập Cửu hoàng tử",
+       "tag": "dong-minh",
+       "quanHe": "người đi cùng",
+       "ghiChu": "Được Thập Cửu hoàng tử lễ ngộ và thay mặt hỏi mua bảo vật."
+      },
+      {
+       "ten": "Thạch Hạo",
+       "tag": "khac",
+       "quanHe": "người giữ món nàng muốn tranh",
+       "ghiChu": "Nàng muốn tranh Bất Diệt Kim Thân mà Thạch Hạo đã mua."
+      },
+      {
+       "ten": "Thiên Hồ tiên tử",
+       "tag": "doi-thu",
+       "quanHe": "đối thủ tiềm tàng",
+       "ghiChu": "Thiên Hồ tiên tử nhận ra nàng và cũng muốn tranh món bảo vật nàng chú ý."
+      },
+      {
+       "ten": "Nhân Hoàng",
+       "tag": "khac",
+       "quanHe": "từng được tiếp kiến",
+       "ghiChu": "Từng tiến cung gặp Nhân Hoàng và trò chuyện cả đêm."
+      },
+      {
+       "ten": "Chân Chấn",
+       "tag": "khac",
+       "quanHe": "người theo đuổi trong môn phái",
+       "ghiChu": "Chân Chấn theo đuổi nàng, nhiều lần thất bại và bị nàng trấn áp."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0285",
+     "@c0286",
+     "@c0290"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "thien-ho-tien-tu",
+    "name": "Thiên Hồ tiên tử",
+    "cn": "",
+    "aliases": [
+     "Tiên tử Thiên Hồ",
+     "Hồ Ly Tinh",
+     "Hồ Ly Linh",
+     "cô gái Thiên Hồ tộc"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Thiên Hồ tộc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "khong-ro @c0288",
+    "trangThai": "song",
+    "blurb": "Thiên Hồ tiên tử là thiếu nữ Thiên Hồ tộc có đuôi cáo trắng, dung mạo khuynh thế và thân phận khiến các vương hầu kiêng dè. Nàng quan sát từ phòng khách quý, nhận ra nữ tử che mặt và cũng muốn tranh Bất Diệt Kim Thân.",
+    "vaiTro": "Thiếu nữ Thiên Hồ tộc",
+    "tinhCach": [
+     {
+      "text": "Thông minh, nhanh chóng nhận ra giá trị bất thường qua phản ứng của người khác",
+      "chuong": "@c0285"
+     },
+     {
+      "text": "Thân phận phía sau khiến các lão giả vương hầu kiêng sợ",
+      "chuong": "@c0285"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Từ phòng khách quý, nàng nhận ra nữ tử che mặt và suy đoán món đồ được đối phương coi trọng không tầm thường.",
+       "chuong": "@c0285"
+      },
+      {
+       "text": "Nàng mời Thạch Hạo bán lại Bất Diệt Kim Thân, rồi về sau cũng giám định hạt châu vết máu.",
+       "chuong": "@c0285"
+      },
+      {
+       "text": "Nàng xuất hiện trên xe kéo trong suốt do thụy thú kéo, khí chất mông lung và nổi bật giữa đường phố Hoàng Đô.",
+       "chuong": "@c0288"
+      },
+      {
+       "text": "Thạch Hạo dựa vào bản năng nhận ra nàng rất nguy hiểm và mạnh mẽ, nên không dễ bị cuốn vào lời mời.",
+       "chuong": "@c0288"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Thiên Hồ tiên tử xuất hiện trong phòng khách quý của Cốt Cổ đấu giá hội, nhận ra nữ tử che mặt và lập tức muốn tranh Bất Diệt Kim Thân; sau khi Thạch Hạo không chịu bán, nàng tiếp tục giám định hạt châu dính vết máu đen nhưng bỏ qua vì cho rằng vật này đã hỏng.",
+       "anchor": "A ..., thứ cô ta để ý đến hẳn sẽ không tầm thường, như vậy mới khiến nàng vừa ý.",
+       "bridge": true,
+       "khoang": "@c0285"
+      },
+      {
+       "text": "Thiên Hồ tiên tử xuất hiện, trêu ghẹo Thạch Hạo và mời tiên tử che mặt đồng hành; nàng dùng phù văn giao thủ nguy hiểm với đối phương, lật được lụa che mặt, đồng thời bị các vương hầu nhận định đại biểu cho một tổ chức chí cao từng tiết lộ thiên cơ.",
+       "anchor": "Thật sự là một tiên tử nhen!",
+       "bridge": true,
+       "khoang": "@c0286"
+      },
+      {
+       "text": "Thiên Hồ tiên tử cùng Tiểu Hồ Ly dừng xe kéo trong suốt giữa đường Hoàng Đô, mời Thạch Hạo đi nhờ tới nơi tụ hội. Sự hiện diện của nàng khiến Thạch Hạo cảnh giác vì cảm nhận được vẻ mê hoặc và nguy hiểm khó dây.",
+       "anchor": "dựa vào bản năng nên nó biết cô gái Thiên Hồ tộc này vô cùng nguy hiểm, vô cùng mạnh mẽ",
+       "bridge": true,
+       "khoang": "@c0288"
+      },
+      {
+       "text": "Thiên Hồ tiên tử tái xuất tại đại hội anh kiệt, đến gần Thạch Hạo và tiếp tục trêu chọc nó về chuyện bán một vị tiên tử thánh khiết; sức hấp dẫn của nàng khiến đám người xung quanh phải chú ý và dạt ra.",
+       "anchor": "Đừng nóng vội, sẽ bán cô ta thôi.",
+       "bridge": true,
+       "khoang": "@c0289"
+      },
+      {
+       "text": "Thiên Hồ tiên tử hiện thân trước tiên tử che mặt, nhắc đến cuộc cá cược kéo dài nhiều năm, trận chiến mạnh nhất và việc hai giáo phái sắp khai chiến; sau đó cùng tiên tử che mặt biến mất trên mặt hồ.",
+       "anchor": "Cuộc cá cược đã kéo dài nhiều năm giữa hai ta, trận chiến mạnh nhất!",
+       "bridge": true,
+       "khoang": "@c0290"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Tiên tử che mặt",
+       "tag": "doi-thu",
+       "quanHe": "đối thủ tiềm tàng",
+       "ghiChu": "Nàng nhận ra đối phương và vì vậy muốn tranh món đồ đối phương coi trọng."
+      },
+      {
+       "ten": "Thạch Hạo",
+       "tag": "khac",
+       "quanHe": "người giữ món nàng muốn mua",
+       "ghiChu": "Nàng mời Thạch Hạo bán lại Bất Diệt Kim Thân nhưng không thành."
+      },
+      {
+       "ten": "Tiểu Hồ Ly",
+       "tag": "dong-minh",
+       "quanHe": "đồng tộc đi cùng",
+       "ghiChu": "Cùng ngồi trên xe kéo trong suốt của Thiên Hồ tộc."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0285",
+     "@c0286",
+     "@c0288",
+     "@c0289",
+     "@c0290"
+    ],
+    "rank": "B"
+   },
+   {
+    "id": "tieu-ho-ly",
+    "name": "Tiểu Hồ Ly",
+    "cn": "",
+    "aliases": [
+     "Tiểu nha đầu hồ ly"
+    ],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Thiên Hồ tộc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "khong-ro @c0288",
+    "trangThai": "song @c0288",
+    "blurb": "Tiểu Hồ Ly là nha đầu mười bốn, mười lăm tuổi, dung mạo xinh đẹp và có mấy chiếc đuôi hồ ly trắng. Nàng đến tìm Thạch Hạo để truyền lời mời của tiểu thư nhà mình.",
+    "vaiTro": "người truyền lời của tiểu thư hồ ly",
+    "tinhCach": [
+     {
+      "text": "lanh lợi, nói chuyện táo bạo",
+      "chuong": "@c0287"
+     },
+     {
+      "text": "mang vẻ mê hoặc trời sinh của hồ tộc",
+      "chuong": "@c0287"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Sau lưng có mấy chiếc đuôi hồ ly trắng như tuyết, khí chất tự nhiên mang sức mê hoặc.",
+       "chuong": "@c0287"
+      },
+      {
+       "text": "Đến gặp Thạch Hạo để truyền lời mời và đưa ra đề nghị gây ngạc nhiên về việc tìm chồng cho một vị tiên tử.",
+       "chuong": "@c0287"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tiểu Hồ Ly tìm đến nơi Thạch Hạo đang ở, nói tiểu thư nhà mình muốn gặp hắn; nàng còn nhắc việc tiểu thư không thích một vị tiên tử thánh khiết và muốn kiếm chồng cho người đó, khiến Thạch Hạo đùa hỏi có thể mua một tặng một hay không.",
+       "anchor": "sau lưng nàng mọc ra mấy cái đuôi hồ ly trắng như tuyết",
+       "bridge": true,
+       "khoang": "@c0287"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "khac",
+       "quanHe": "người được nàng truyền lời mời",
+       "ghiChu": "Nàng thay tiểu thư nhà mình đến mời Thạch Hạo gặp mặt."
+      },
+      {
+       "ten": "Thiên Hồ tiên tử",
+       "tag": "cap-tren",
+       "quanHe": "tiểu thư nhà mình",
+       "ghiChu": "Nàng gọi người sai mình đến mời là tiểu thư; tuyến này gắn với hồ tộc và lời mời gặp Thạch Hạo."
+      },
+      {
+       "ten": "Thiên Hồ tiên tử",
+       "tag": "dong-minh",
+       "quanHe": "đồng tộc đi cùng",
+       "ghiChu": "Cùng ngồi trên xe kéo trong suốt của Thiên Hồ tộc khi gặp Thạch Hạo tại Hoàng Đô."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0287",
+     "@c0288"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "phu-xe-chien-xa-tam-hung-thu",
+    "name": "Phu xe chiến xa tám hung thú",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "khong-ro @c0288",
+    "trangThai": "song @c0288",
+    "blurb": "Phu xe chiến xa tám hung thú là kẻ đánh xe cho một thiếu niên quý tộc trên đường tới Thanh Lâm viên. Hắn hạch hỏi Thạch Hạo vì chuyện Thiên Hồ tiên tử rồi ra tay trước, cuối cùng bị đá trọng thương.",
+    "vaiTro": "Phu xe gây sự với Thạch Hạo",
+    "tinhCach": [
+     {
+      "text": "hống hách, ỷ thế chủ nhân quý tộc",
+      "chuong": "@c0288"
+     },
+     {
+      "text": "ra tay tàn nhẫn khi bị trái ý",
+      "chuong": "@c0288"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Hắn điều khiển chiến xa tám hung thú lao tới ép Thạch Hạo trên đường phố Hoàng Đô.",
+       "chuong": "@c0288"
+      },
+      {
+       "text": "Hắn dùng roi đồng vẽ phù văn tấn công nhưng bị Thạch Hạo đá gãy roi và đánh bay.",
+       "chuong": "@c0288"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Phu xe hạch hỏi Thạch Hạo về lời Thiên Hồ tiên tử, sau đó vung roi đồng phù văn đánh thẳng vào mặt hắn. Thạch Hạo bay lên đá gãy roi rồi đạp phu xe văng xa, khiến hắn gãy răng và nứt xương gò má.",
+       "anchor": "lăng không bay lên một cước đã gãy cây roi đồng thời bàn chân đạo mạnh lên trên mặt phu xe khiến cho hắn bay ngược ra xa mấy chục trượng",
+       "bridge": true,
+       "khoang": "@c0288"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "doi-thu",
+       "quanHe": "đối thủ bị đánh bại",
+       "ghiChu": "Ra tay trước với Thạch Hạo và bị đá trọng thương."
+      },
+      {
+       "ten": "Thiếu niên chủ nhân chiến xa",
+       "tag": "cap-tren",
+       "quanHe": "chủ nhân",
+       "ghiChu": "Đánh xe và thay chủ nhân hỏi chuyện Thiên Hồ tiên tử."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Roi đồng",
+        "loai": "binh khí",
+        "trangThai": "hong",
+        "moTa": "Roi đồng có thể vẽ phù văn trong hư không, bị Thạch Hạo đá gãy trong xung đột.",
+        "nguon": "@c0288"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0288"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thieu-nien-chu-nhan-chien-xa",
+    "name": "Thiếu niên chủ nhân chiến xa",
+    "cn": "",
+    "aliases": [
+     "Thiếu niên quý tộc chủ nhân chiến xa"
+    ],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "khong-ro @c0288",
+    "trangThai": "song @c0288",
+    "blurb": "Thiếu niên chủ nhân chiến xa là một quý tộc trẻ để tâm tới Thiên Hồ tiên tử. Hắn cùng đồng bọn lao ra sau khi phu xe bị đánh, nhưng bị Thạch Hạo trấn áp và đoạt mất chiến xa.",
+    "vaiTro": "Thiếu niên quý tộc bị đoạt xe",
+    "tinhCach": [
+     {
+      "text": "kiêu ngạo, để ý thể diện trước Thiên Hồ tiên tử",
+      "chuong": "@c0288"
+     },
+     {
+      "text": "dựa vào chiến xa và tùy tùng để gây áp lực",
+      "chuong": "@c0288"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Hắn là chủ nhân chiến xa tám hung thú gây sự với Thạch Hạo trên đường tới Thanh Lâm viên.",
+       "chuong": "@c0288"
+      },
+      {
+       "text": "Hắn bị bóng huyền quy của Thạch Hạo trấn áp, nhóm đồng bọn còn bị tia chớp tím đánh bốc khói.",
+       "chuong": "@c0288"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Thiếu niên quý tộc để tâm tới Thiên Hồ tiên tử, sai phu xe hạch hỏi Thạch Hạo rồi cùng đồng bọn lao ra sau khi phu xe bị đánh. Hắn bị Thạch Hạo dùng bóng huyền quy trấn áp, đồng bọn bị tia chớp tím đánh ngã, cuối cùng cả nhóm bị đá xuống xe và mất chiến xa.",
+       "anchor": "Xe này thuộc quyền sở hữu của ta.",
+       "bridge": true,
+       "khoang": "@c0288"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "doi-thu",
+       "quanHe": "đối thủ bị đoạt xe",
+       "ghiChu": "Bị Thạch Hạo trấn áp và đoạt chiến xa tám hung thú."
+      },
+      {
+       "ten": "Phu xe chiến xa tám hung thú",
+       "tag": "khac",
+       "quanHe": "thuộc hạ đánh xe",
+       "ghiChu": "Phu xe thay hắn hỏi chuyện Thiên Hồ tiên tử và ra tay với Thạch Hạo."
+      },
+      {
+       "ten": "Thiên Hồ tiên tử",
+       "tag": "khac",
+       "quanHe": "người hắn để tâm",
+       "ghiChu": "Vì để ý Thiên Hồ tiên tử nên hắn sai phu xe hỏi Thạch Hạo đã nói gì với nàng."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Chiến xa tám hung thú",
+        "loai": "bảo xa",
+        "trangThai": "mat",
+        "moTa": "Bảo xa do tám hung thú kéo, bị Thạch Hạo đoạt sau cuộc xung đột.",
+        "nguon": "@c0288"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0288"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lang-ba-tieu-hau-gia",
+    "name": "Lăng Ba tiểu Hầu gia",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "khong-ro @c0288",
+    "trangThai": "khong-ro @c0288",
+    "blurb": "Lăng Ba tiểu Hầu gia là nhân vật nổi tiếng được người đi đường nhắc tới tại Hoàng Đô. Danh tiếng của hắn gắn với việc từ xưa đến nay không ngồi chiến xa, nên bị đem ra so sánh khi Thạch Hạo đi chân trần trên đường.",
+    "vaiTro": "Tiểu hầu gia được nhắc danh",
+    "tinhCach": [
+     {
+      "text": "nổi danh vì phong cách xuất hành khác thường",
+      "chuong": "@c0288"
+     },
+     {
+      "text": "chưa trực tiếp lộ diện trong chương này",
+      "chuong": "@c0288"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tên của hắn được người Hoàng Đô nhắc khi thấy Thạch Hạo đi bộ khác người giữa đám chiến xa quý tộc.",
+       "chuong": "@c0288"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0288"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lieu-han",
+    "name": "Liễu Hàn",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "khong-ro",
+    "blurb": "Liễu Hàn là cái tên được thiếu niên mặc Giao Long y vàng dùng khi gọi người đang ngồi trên chiến xa của Lăng Vân hầu. Chương này chưa làm rõ thân phận thật của người mang tên ấy.",
+    "vaiTro": "tên được nhắc nhầm ở Thanh Lâm viên",
+    "tinhCach": [
+     {
+      "text": "chưa rõ tính cách",
+      "chuong": "@c0289"
+     },
+     {
+      "text": "liên hệ chưa rõ với nhóm dùng chiến xa Lăng Vân hầu",
+      "chuong": "@c0289"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tên này xuất hiện khi thiếu niên Giao Long y vàng tưởng người trên xe là người quen.",
+       "chuong": "@c0289"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tên Liễu Hàn được nêu ra khi thiếu niên mặc Giao Long y vàng chất vấn người đang ngồi trên chiến xa của Lăng Vân hầu, nhưng người đó thực ra là Thạch Hạo.",
+       "anchor": "Chuyện gì xảy ra vậy, đây không phải là xe của Lăng Vân hầu sao, sao lại thuộc về ngươi?",
+       "bridge": true,
+       "khoang": "@c0289"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thieu-nien-mac-giao-long-y-vang",
+    "name": "Thiếu niên mặc Giao Long y vàng",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Thiếu niên mặc Giao Long y vàng xuất hiện tại Thanh Lâm viên trên một chiến xa mày vàng. Hắn có ánh mắt ngỗ ngược và lập tức chất vấn Thạch Hạo vì nhận ra chiến xa của Lăng Vân hầu.",
+    "vaiTro": "thiếu niên dự hội Thanh Lâm viên",
+    "tinhCach": [
+     {
+      "text": "ngỗ ngược, trực tiếp chất vấn người khác",
+      "chuong": "@c0289"
+     },
+     {
+      "text": "quen biết hoặc biết rõ chiến xa của Lăng Vân hầu",
+      "chuong": "@c0289"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Nhận ra chiến xa của Lăng Vân hầu và nghi ngờ Thạch Hạo.",
+       "chuong": "@c0289"
+      },
+      {
+       "text": "Xuất hiện với Giao Long y vàng và chiến xa mày vàng, cho thấy xuất thân không tầm thường.",
+       "chuong": "@c0289"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Tại Thanh Lâm viên, thiếu niên mặc Giao Long y vàng thấy Thạch Hạo lái chiến xa của Lăng Vân hầu nên lập tức chất vấn lai lịch chiếc xe.",
+       "anchor": "Chuyện gì xảy ra vậy, đây không phải là xe của Lăng Vân hầu sao, sao lại thuộc về ngươi?",
+       "bridge": true,
+       "khoang": "@c0289"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Hạo",
+       "tag": "khac",
+       "quanHe": "người bị chất vấn",
+       "ghiChu": "Hắn chất vấn Thạch Hạo về chiến xa của Lăng Vân hầu."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [
+       {
+        "ten": "Chiến xa mày vàng",
+        "loai": "chiến xa",
+        "trangThai": "dang-co",
+        "moTa": "Chiến xa mà thiếu niên mặc Giao Long y vàng sử dụng khi đến Thanh Lâm viên.",
+        "nguon": "@c0289"
+       }
+      ],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": [
+       {
+        "ten": "Giao Long y màu vàng",
+        "loai": "y phục",
+        "trangThai": "dang-co",
+        "moTa": "Y phục màu vàng khiến hắn trông như hoàng tử.",
+        "nguon": "@c0289"
+       }
+      ]
+     }
+    },
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chang-trai-toc-tim",
+    "name": "Chàng trai tóc tím",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Chàng trai tóc tím đi cùng Thập Lục công chúa tại đại hội anh kiệt Thanh Lâm viên. Khí chất của hắn xuất chúng và được nhận định có lai lịch lớn.",
+    "vaiTro": "tuấn kiệt đi cùng công chúa",
+    "tinhCach": [
+     {
+      "text": "khí chất xuất chúng",
+      "chuong": "@c0289"
+     },
+     {
+      "text": "lai lịch có vẻ không tầm thường",
+      "chuong": "@c0289"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Cùng Thập Lục công chúa xuất hiện trước đám tuấn kiệt bên hồ.",
+       "chuong": "@c0289"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Chàng trai tóc tím xuất hiện bên Thập Lục công chúa trong buổi tụ hội anh kiệt ở Thanh Lâm viên, nổi bật giữa đám người trẻ tuổi bất phàm.",
+       "anchor": "Nơi này có rất nhiều người, họ đều là tuấn kiệt trẻ tuổi từ mười mấy cho tới hai mươi mấy tuổi, tất cả bất phàm",
+       "bridge": true,
+       "khoang": "@c0289"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thập Lục công chúa",
+       "tag": "khac",
+       "quanHe": "người đi cùng",
+       "ghiChu": "Cùng xuất hiện tại Thanh Lâm viên."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "muoi-muoi-cua-hon-thien-hau",
+    "name": "Muội muội của Hỗn Thiên hầu",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Thạch tộc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Muội muội của Hỗn Thiên hầu là một nữ tử dung mạo xuất chúng, tu vi kinh người. Nàng xuất hiện tại đại hội anh kiệt và được nhiều người vây quanh.",
+    "vaiTro": "nữ tuấn kiệt dòng Hỗn Thiên hầu",
+    "tinhCach": [
+     {
+      "text": "dung mạo nổi bật",
+      "chuong": "@c0289"
+     },
+     {
+      "text": "tu vi được đánh giá kinh người",
+      "chuong": "@c0289"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Xuất hiện trong nhóm tuấn kiệt trẻ tuổi bên hồ Thanh Lâm viên.",
+       "chuong": "@c0289"
+      },
+      {
+       "text": "Được nhiều người chú ý vì dung mạo và tu vi.",
+       "chuong": "@c0289"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Muội muội của Hỗn Thiên hầu đến đại hội anh kiệt bên hồ Thanh Lâm viên, nơi tụ tập đông đảo tuấn kiệt trẻ tuổi.",
+       "anchor": "Nơi này có rất nhiều người, họ đều là tuấn kiệt trẻ tuổi từ mười mấy cho tới hai mươi mấy tuổi, tất cả bất phàm",
+       "bridge": true,
+       "khoang": "@c0289"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Hỗn Thiên hầu",
+       "tag": "ho-hang",
+       "quanHe": "huynh trưởng",
+       "ghiChu": "Là muội muội của Hỗn Thiên hầu."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ly-bach-dinh",
+    "name": "Lý Bạch Đinh",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Tiểu Tây Thiên",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Lý Bạch Đinh là con cháu vương hầu từng đến Tiểu Tây Thiên tu hành và được chân truyền. Hắn nổi danh trong lớp trẻ Hoàng Đô dưới hai mươi tuổi, nhưng tính tình phóng đãng khiến vị hôn thê Lôi tộc nổi giận từ hôn.",
+    "vaiTro": "tuấn kiệt phong lưu của Hoàng Đô",
+    "tinhCach": [
+     {
+      "text": "phóng đãng, háo sắc",
+      "chuong": "@c0289"
+     },
+     {
+      "text": "có thực lực cao trong lớp trẻ Hoàng Đô",
+      "chuong": "@c0289"
+     },
+     {
+      "text": "không giữ khuôn phép thanh tu của Tiểu Tây Thiên",
+      "chuong": "@c0289"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Được chân truyền Tiểu Tây Thiên và luyện Kim Cương Bất Hoại đến cảnh giới cao.",
+       "chuong": "@c0289"
+      },
+      {
+       "text": "Từng được xem là vô địch trong lớp trẻ Hoàng Đô dưới hai mươi tuổi, chỉ kém danh tiếng Thạch Nghị.",
+       "chuong": "@c0289"
+      },
+      {
+       "text": "Bị vị hôn thê Lôi tộc tuyên bố từ hôn ngay tại hội vì lối sống phóng đãng.",
+       "chuong": "@c0289"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Lý Bạch Đinh ôm mỹ nữ uống rượu tại đại hội, khiến vị hôn thê Lôi tộc phẫn nộ tuyên bố từ hôn; khi lão bộc ra tay, hắn hiện Kim Cương Bất Hoại của Tiểu Tây Thiên và đánh bật đối phương.",
+       "anchor": "đó là thần thông Kim Cương Bất Hoại, là bí mật không truyền của Tiểu Tây Thiên, vậy mà hắn lại luyện tới cảnh giới này",
+       "bridge": true,
+       "khoang": "@c0289"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Vị hôn thê của Lý Bạch Đinh",
+       "tag": "the-thiep",
+       "quanHe": "vị hôn thê cũ",
+       "ghiChu": "Nàng tức giận tuyên bố từ hôn tại Thanh Lâm viên."
+      },
+      {
+       "ten": "Thạch Nghị",
+       "tag": "khac",
+       "quanHe": "người cùng thế hệ được so sánh",
+       "ghiChu": "Danh tiếng của Lý Bạch Đinh trong lớp trẻ Hoàng Đô được đặt dưới Thạch Nghị."
+      },
+      {
+       "ten": "Tiên tử che mặt",
+       "tag": "khac",
+       "quanHe": "ngưỡng vọng",
+       "ghiChu": "Cùng con cháu vương hầu chứng kiến tiên tử bên hồ và tự nhận khó với tới nàng."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [
+       {
+        "ten": "Kim Cương Bất Hoại",
+        "loai": "thần thông",
+        "trangThai": "dang-co",
+        "moTa": "Bí mật không truyền của Tiểu Tây Thiên, được Lý Bạch Đinh luyện đến cảnh giới cao.",
+        "nguon": "@c0289"
+       }
+      ],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0289",
+     "@c0290"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "vi-hon-the-cua-ly-bach-dinh",
+    "name": "Vị hôn thê của Lý Bạch Đinh",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nu",
+    "theLuc": [
+     {
+      "ten": "Lôi tộc",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "song",
+    "blurb": "Vị hôn thê của Lý Bạch Đinh là đại tiểu thư Lôi tộc, một minh châu Hoàng Đô sánh ngang Thập Lục công chúa. Nàng tuyên bố từ hôn vì không chịu nổi lối sống phóng đãng của Lý Bạch Đinh.",
+    "vaiTro": "minh châu Lôi tộc",
+    "tinhCach": [
+     {
+      "text": "kiêu hãnh, quyết đoán",
+      "chuong": "@c0289"
+     },
+     {
+      "text": "không chấp nhận sự phóng đãng của vị hôn phu",
+      "chuong": "@c0289"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Là đại tiểu thư Lôi tộc và được xem như một minh châu của Hoàng Đô.",
+       "chuong": "@c0289"
+      },
+      {
+       "text": "Công khai tuyên bố từ hôn Lý Bạch Đinh tại đại hội anh kiệt.",
+       "chuong": "@c0289"
+      }
+     ],
+     "kinhLich": [
+      {
+       "chuong": "@c0289",
+       "importance": "normal",
+       "tieuDe": "Công khai từ hôn",
+       "text": "Tại Thanh Lâm viên, nàng giận dữ tuyên bố từ hôn Lý Bạch Đinh và sai lão bộc ra tay, nhưng Lý Bạch Đinh dùng Kim Cương Bất Hoại đánh bay lão bộc khiến nàng bỏ đi.",
+       "anchor": "đó là thần thông Kim Cương Bất Hoại, là bí mật không truyền của Tiểu Tây Thiên, vậy mà hắn lại luyện tới cảnh giới này"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Lý Bạch Đinh",
+       "tag": "the-thiep",
+       "quanHe": "vị hôn phu cũ",
+       "ghiChu": "Nàng tuyên bố từ hôn vì bất mãn với cách hành xử của hắn."
+      },
+      {
+       "ten": "Thập Lục công chúa",
+       "tag": "khac",
+       "quanHe": "người được so sánh",
+       "ghiChu": "Được xem là minh châu Hoàng Đô ngang Thập Lục công chúa."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chan-chan",
+    "name": "Chân Chấn",
+    "cn": "",
+    "aliases": [],
+    "gioiTinh": "nam",
+    "theLuc": [],
+    "canhGioiCaoNhat": "không rõ @c0290",
+    "trangThai": "song",
+    "blurb": "Chân Chấn là thiếu niên tóc tím mặc giáp trụ xích huyết, đến từ ngoài Hoàng Vực và theo đuổi tiên tử che mặt. Hắn có thân phận liên quan Hộ Đạo giả, gây náo loạn bên hồ rồi bị tiên tử dùng thần âm trấn áp phun máu.",
+    "vaiTro": "Kẻ khiêu chiến từ ngoài Hoàng Vực",
+    "tinhCach": [
+     {
+      "text": "Kiêu ngạo, xem thường con cháu vương hầu Hoàng Vực",
+      "chuong": "@c0290"
+     },
+     {
+      "text": "Chấp nhất theo đuổi tiên tử che mặt dù nhiều lần thất bại",
+      "chuong": "@c0290"
+     },
+     {
+      "text": "Bại trận nhưng vẫn giữ khí thế không khuất phục",
+      "chuong": "@c0290"
+     }
+    ],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Tự nhận đã vượt qua tất cả và không thuộc về Hoàng Vực.",
+       "chuong": "@c0290"
+      },
+      {
+       "text": "Gây hấn với con cháu vương hầu, khiến Hỗn Thiên hầu phải xuất thủ bằng Thần Ma Huyết Xích.",
+       "chuong": "@c0290"
+      },
+      {
+       "text": "Bị tiên tử che mặt trấn áp phun máu nhưng tuyên bố tâm chưa bại.",
+       "chuong": "@c0290"
+      }
+     ],
+     "kinhLich": [
+      {
+       "text": "Chân Chấn xuất hiện bên hồ, công khai theo đuổi tiên tử che mặt, phá bảo cụ của con cháu vương hầu và đối đầu Hỗn Thiên hầu; cuối cùng hắn bị tiên tử che mặt dùng thần âm trấn áp phun máu, rời đi trong lần bại thứ mười.",
+       "anchor": "Hắn phun máu òng ọc, sau đó xoay người rời đi",
+       "bridge": true,
+       "khoang": "@c0290"
+      }
+     ],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Tiên tử che mặt",
+       "tag": "khac",
+       "quanHe": "theo đuổi",
+       "ghiChu": "Theo đuổi thánh nữ trong môn phái mình, nhiều lần khiêu chiến nhưng thất bại."
+      },
+      {
+       "ten": "Hỗn Thiên hầu",
+       "tag": "doi-thu",
+       "quanHe": "đối đầu",
+       "ghiChu": "Giao phong ngắn khi Hỗn Thiên hầu dùng Thần Ma Huyết Xích xuất thủ."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0290"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tu-thuc-hoang-kim-su-tu",
+    "name": "Tứ thúc Hoàng Kim sư tử",
+    "gioiTinh": "nam",
+    "theLuc": [
+     {
+      "ten": "Võ Vương phủ",
+      "trangThai": "gan-bo"
+     }
+    ],
+    "canhGioiCaoNhat": "không rõ",
+    "trangThai": "khong-ro",
+    "blurb": "Trưởng bối thân thiết với Thập Ngũ gia trong Võ Vương phủ. Việc ông không tới đón khi Đại Ma Thần trở về khiến Thạch Trung Thiên sinh nghi.",
+    "vaiTro": "Trưởng bối thân cận vắng mặt trong cuộc đón tiếp Thạch Trung Thiên.",
+    "tinhCach": [],
+    "tabs": {
+     "diem": [
+      {
+       "text": "Được Thạch Trung Thiên xem là người thân thiết trong Võ Vương phủ.",
+       "chuong": "@c0265"
+      },
+      {
+       "text": "Không xuất hiện trong buổi đón tiếp Đại Ma Thần, trở thành dấu hiệu bất thường trong nội bộ phủ.",
+       "chuong": "@c0265"
+      }
+     ],
+     "kinhLich": [],
+     "tuViMoc": [],
+     "nhanMach": [
+      {
+       "ten": "Thạch Trung Thiên",
+       "tag": "ho-hang",
+       "quanHe": "trưởng bối thân thiết",
+       "ghiChu": "Sự vắng mặt của ông khiến Thạch Trung Thiên nghi ngờ tình hình Võ Vương phủ."
+      }
+     ],
+     "tuiDo": {
+      "phapBao": [],
+      "danDuoc": [],
+      "congPhap": [],
+      "linhThu": [],
+      "nguyenLieu": [],
+      "linhThao": [],
+      "khac": []
+     }
+    },
+    "nguon": [
+     "@c0265"
+    ],
+    "rank": "D"
    }
   ]
  },
@@ -33202,7 +36640,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
  },
  "techniques": {
   "updatedAt": "2026-07-04",
-  "count": 319,
+  "count": 363,
   "techniques": [
    {
     "id": "ren-luyen-than-the-duoi-may-som",
@@ -35377,9 +38815,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "blurb": "Công pháp của Tiêu Thiên (thiếu niên áo bạc); khi phát ra tiếng rống thì chấn động sơn hà, uy hiếp các thiếu niên xung quanh.",
     "detail": "Âm Ba Công là công lực của Tiêu Thiên. Trong chiến trường thứ hai, khi tỉnh dậy phát hiện bị đập ngất và mọc cục u trên trán, Tiêu Thiên nổi điên rống to, toàn thân giăng đầy phù văn màu bạc, tiếng rống chấn động sơn hà khiến các thiếu niên gần đó kinh hãi vì đủ sức quét ngang bọn họ. Tiếng rống dồi dào trung khí này về sau khiến các trưởng lão Bổ Thiên Các ngộ nhận hắn là kỳ tài ngút trời hiếm thấy.",
     "nguon": [
-     "@c0103"
+     "@c0103",
+     "@c0266"
     ],
-    "rank": "D"
+    "tabs": {},
+    "aliases": [
+     "Âm Ba công"
+    ],
+    "rank": "C"
    },
    {
     "id": "khuyen-ma-cong",
@@ -37394,9 +40837,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "blurb": "Thần thông mạnh nhất của Bổ Thiên Các, đã thất truyền từ thời Thượng cổ.",
     "detail": "Liễu Lão tiết lộ Bổ Thiên Thuật chính là thần thông mạnh nhất của Giáo, nhưng đã thất truyền từ thời Thượng cổ do một trận chiến khốc liệt — Chư thánh tranh bá, Thần linh phát điên, đến Tế Linh cũng suýt chết. Là bí ẩn lịch sử lớn gắn với nguồn gốc Bổ Thiên Các.",
     "nguon": [
-     "@c0186"
+     "@c0186",
+     "@c0268"
     ],
-    "rank": "D"
+    "tabs": {},
+    "aliases": [
+     "Bổ Thiên thuật"
+    ],
+    "rank": "C"
    },
    {
     "id": "bao-thuat-loi-dao-tran-giao",
@@ -38822,12 +42270,813 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0256"
     ],
     "rank": "D"
+   },
+   {
+    "id": "phu-van-con-bang",
+    "name": "Phù văn Côn Bằng",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Phù văn truyền thừa",
+    "phamCap": "Truyền thừa Thái Cổ",
+    "hePhai": "Côn Bằng",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Các ký hiệu vàng và đen mang áo nghĩa Côn Bằng, vừa là chìa khóa an toàn đi trong Hóa Ma động, vừa là nội dung truyền thừa dung hợp với thân thể người tu.",
+    "detail": "Phù văn Côn Bằng gồm hàng ngàn vạn ký hiệu vàng và đen, mang pháp tắc và áo nghĩa của Côn Bằng. Với Thạch Hạo, chúng vừa là chìa khóa giúp nó vận chuyển đúng con đường Côn Bằng để vượt qua các cấm chế đủ nghiền nát Tôn Giả trong Hóa Ma động, vừa là nội dung truyền thừa hoàn chỉnh. Ở ao máu cuối động, phù văn tổ hợp thành Côn Bằng, côn ngư, chim bằng rồi lao vào thân Thạch Hạo, ngưng tụ thành lớp chiến y thần thánh hữu hình bao ngoài cơ thể.",
+    "nguon": [
+     "@c0261"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "con-duong-cua-con-bang",
+    "name": "Con đường của Côn Bằng",
+    "cn": "",
+    "loai": "cong-phap",
+    "loaiLabel": "Pháp môn / Đường tu",
+    "phamCap": "Truyền thừa Thái Cổ",
+    "hePhai": "Côn Bằng",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Con đường tu hành năm xưa của Côn Bằng mà Thạch Hạo đã đi theo từ hai năm trước, giúp tiếp cận phù văn kỳ dị và vượt Hóa Ma động.",
+    "detail": "Từ hai năm trước, Thạch Hạo đã đi trên con đường tu hành của Côn Bằng, nhờ đó tiếp cận được hoàn cảnh tu hành năm xưa của sinh linh này. Chính con đường ấy giúp nó quan sát được phù văn kỳ dị trong thần sào, truyền phù văn vào Côn Bằng cốt để biết bí mật Hóa Ma động, và vận chuyển phù văn đúng cách để đi an toàn qua các cấm chế trong động.",
+    "nguon": [
+     "@c0261"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ba-buoc-hoa-linh-canh-tron-ven",
+    "name": "Ba bước Hóa Linh cảnh trọn vẹn",
+    "cn": "",
+    "aliases": [
+     "Thân thể thành linh, Trọng tố chân ngã, Động thiên dưỡng linh"
+    ],
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "",
+    "hePhai": "",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Ba giai đoạn viên mãn của Hóa Linh cảnh gồm Thân thể thành linh, Trọng tố chân ngã và Động thiên dưỡng linh. Đây là con đường cực khó, trong Hoang Vực hầu như không ai thật sự đi trọn vẹn.",
+    "detail": "Ba bước Hóa Linh cảnh trọn vẹn được nêu là Thân thể thành linh, Trọng tố chân ngã và Động thiên dưỡng linh. Các bước này chỉ có thể tiếp cận vô hạn, gần như không thể thật đạt tới; cả Hoang Vực khó có người làm được. Sau khi chiếm được pháp Côn Bằng để dưỡng linh, Thạch Hạo hoàn thành bước Động Thiên Dưỡng Linh, khiến ba bước Hóa Linh cảnh của mình đi tới trọn vẹn.",
+    "nguon": [
+     "@c0262"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dong-thien-duong-linh",
+    "name": "Động Thiên dưỡng Linh",
+    "cn": "",
+    "loai": "cong-phap",
+    "loaiLabel": "Pháp môn tu luyện",
+    "phamCap": "Ranh giới truyền thuyết trong Hóa Linh Cảnh",
+    "hePhai": "Động Thiên · Hóa Linh",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Pháp môn dùng Động Thiên làm nơi nuôi dưỡng linh thân, khiến mười Động Thiên của Thạch Hạo đều sinh linh tính. Tại ao máu Côn Bằng, pháp môn này được đẩy tới viên mãn truyền thuyết.",
+    "detail": "Thạch Hạo dung hợp chân huyết, phù văn và áo nghĩa Côn Bằng vào linh thân Côn Bằng trong một Động Thiên, rồi tiếp tục tế luyện Toan Nghê cùng các hình thái linh tính khác. Sau nhiều tháng, mười Động Thiên đều dưỡng Linh thành công, xác lập mốc viên mãn của Hóa Linh Cảnh.",
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-than-con-bang",
+    "name": "Linh thân Côn Bằng",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Linh thân Động Thiên",
+    "phamCap": "Không rõ",
+    "hePhai": "Côn Bằng · Động Thiên",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Linh thân Côn Bằng trong một Động Thiên của Thạch Hạo, được nuôi dưỡng bằng chân huyết và phù văn Côn Bằng. Sau dung hợp, nó trở nên linh động và có uy thế như chân linh thức tỉnh.",
+    "detail": "Trong ao máu, ký hiệu vàng đen cùng áo nghĩa phù văn còn sót lại của Côn Bằng dung hợp với linh thân trong Động Thiên. Linh thân này vì thế tăng mạnh, giúp Thạch Hạo mở đường rời Hóa Ma Động sau khi bế quan.",
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "linh-than-toan-nghe",
+    "name": "Linh thân Toan Nghê",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Linh thân Động Thiên",
+    "phamCap": "Không rõ",
+    "hePhai": "Toan Nghê · Động Thiên",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Một linh thân trong Động Thiên của Thạch Hạo mang hình Toan Nghê. Nó được tế luyện tiếp trong quá trình hoàn tất mười Động Thiên dưỡng Linh.",
+    "detail": "Sau khi linh thân Côn Bằng dung hợp truyền thừa, Thạch Hạo tiếp tục tế luyện các Động Thiên khác; trong đó có Động Thiên hiện Toan Nghê ngẩng đầu huýt dài, góp phần hoàn thiện dưỡng Linh.",
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "suc-dia-thanh-thon",
+    "name": "Súc địa thành thốn",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thân pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Thân pháp thần diệu giúp một bước đi được trăm trượng, khiến người dùng biến mất trên đường lớn.",
+    "detail": "Thập Ngũ gia dùng thân pháp này để rời đi sau khi gây chấn động cửa thành Hoàng Đô, một bước chính là trăm trượng, thoáng chốc biến mất trên đường lớn.",
+    "nguon": [
+     "@c0265"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tam-dai-sat-tran-trong-toc",
+    "name": "Tam đại sát trận trong tộc",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "Trận tổ truyền",
+    "hePhai": "Võ Vương phủ",
+    "soHuu": [],
+    "blurb": "Ba bộ sát trận tổ truyền của Võ Vương phủ, bố trí trong cung điện để vây nhốt và giết đối thủ mạnh.",
+    "detail": "Được bố trí trong cung điện Võ Vương phủ để vây giết Thập Ngũ gia, kích hoạt khi cung điện vỡ nát, hiện ra trận văn dày đặc cùng Giao Long và Bệ Ngạn; là phần tinh hoa tổ trận khác với trận văn năm xưa Thạch Tử Lăng từng phá, nhưng cuối cùng bị Thập Ngũ gia phá tan.",
+    "nguon": [
+     "@c0266"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyen-cong",
+    "name": "Huyền công",
+    "aliases": [],
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Võ Vương phủ",
+    "soHuu": [
+     "Võ Vương"
+    ],
+    "blurb": "Công pháp giúp dung mạo Võ Vương nhiều năm không đổi, vẫn như hơn bốn mươi tuổi và tinh lực chưa suy yếu.",
+    "detail": "Được dùng để giải thích vì sao dung mạo Võ Vương nhiều năm không đổi, vẫn như hơn bốn mươi tuổi và tinh lực chưa suy yếu như bốn vị lão tổ.",
+    "nguon": [
+     "@c0269"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bao-thuat-thuong-luong-xam",
+    "name": "Bảo thuật thuồng luồng xám",
+    "aliases": [],
+    "loai": "bi-thuat",
+    "loaiLabel": "Bảo thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Võ Vương phủ",
+    "soHuu": [
+     "Võ Vương"
+    ],
+    "blurb": "Bảo thuật Võ Vương phất tay áo hóa ra con thuồng luồng cổ xưa màu xám, khổng lồ như núi.",
+    "detail": "Võ Vương phất tay áo hóa ra một con thuồng luồng cổ xưa màu xám, khổng lồ như núi, có khí tức gần như sinh mệnh, để đối kháng đại bàng cánh vàng của Thập Ngũ gia.",
+    "nguon": [
+     "@c0269"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bao-thuat-dai-bang-canh-vang",
+    "name": "Bảo thuật đại bàng cánh vàng",
+    "aliases": [
+     "Kim Sí Đại Bàng"
+    ],
+    "loai": "bi-thuat",
+    "loaiLabel": "Bảo thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Thạch tộc",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Bảo thuật của Thập Ngũ gia khiến sau lưng bay lên đại bàng cánh vàng rực, dùng móng vuốt chụp vào đối thủ.",
+    "detail": "Thập Ngũ gia khiến sau lưng bay lên đại bàng cánh vàng rực, dùng móng vuốt lớn chụp vào thuồng luồng xám của Võ Vương. Trước đó ông cũng dùng Kim Sí Đại Bàng trấn áp nhất mạch Thạch Nghị.",
+    "nguon": [
+     "@c0269"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "the-gioi-trong-long-ban-tay",
+    "name": "Thế giới trong lòng bàn tay",
+    "aliases": [],
+    "loai": "than-thong",
+    "loaiLabel": "Đại thần thông",
+    "phamCap": "Cao",
+    "hePhai": "Võ Vương phủ",
+    "soHuu": [
+     "Võ Vương"
+    ],
+    "blurb": "Đại thần thông của Võ Vương biến bàn tay thành một thế giới có nhật nguyệt tinh thần, dùng để trấn áp rồi luyện hóa đối thủ.",
+    "detail": "Thần thông của Võ Vương biến bàn tay thành một thế giới có sương mù, nhật nguyệt tinh thần và đại tinh phù văn, dùng để trấn áp Đại Ma Thần; khi hô Hóa thì biến thành lò lửa liên hệ với lư đồng để luyện hóa địch.",
+    "nguon": [
+     "@c0270"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hac-than-phong",
+    "name": "Hắc Thần Phong",
+    "aliases": [],
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Cao",
+    "hePhai": "Võ Vương phủ",
+    "soHuu": [
+     "Võ Vương"
+    ],
+    "blurb": "Thần thông Võ Vương phóng hắc phong từ ống tay áo, âm nhu nhưng có uy lực cắn nát sông núi.",
+    "detail": "Võ Vương phóng hắc phong từ ống tay áo, âm nhu nhưng có uy lực cắn nát sông núi, quấn nát Bệ Ngạn hoàng kim do bảo thuật của Đại Ma Thần hóa thành.",
+    "nguon": [
+     "@c0270"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hon-don-dai-khi-cong",
+    "name": "Hỗn Độn Đại Khí công",
+    "aliases": [],
+    "loai": "cong-phap",
+    "loaiLabel": "Công pháp luyện khí",
+    "phamCap": "Gần như thất truyền",
+    "hePhai": "",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Công pháp gần như thất truyền, luyện khí hỗn độn vào cơ thể và nội liễm phù văn bản nguyên.",
+    "detail": "Công pháp gần như thất truyền, luyện khí hỗn độn vào cơ thể và nội liễm phù văn bản nguyên; Đại Ma Thần phun ra khí mờ cuồng bạo đánh tan Hắc Thần Phong. Ít người ở Thạch Quốc hiểu môn công pháp này.",
+    "nguon": [
+     "@c0270"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "be-ngan-hoang-kim",
+    "name": "Bệ Ngạn hoàng kim",
+    "aliases": [
+     "Bệ Ngạn"
+    ],
+    "loai": "bi-thuat",
+    "loaiLabel": "Bảo thuật",
+    "phamCap": "Không rõ",
+    "hePhai": "Thạch tộc",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Bảo thuật Đại Ma Thần đánh ra kình khí xoắn ốc hóa thành Bệ Ngạn hoàng kim chi chít vảy, mang sức mạnh như hung thú thật.",
+    "detail": "Đại Ma Thần đánh ra kình khí xoắn ốc hóa thành Bệ Ngạn hoàng kim chi chít vảy, mang sức mạnh như hung thú thật để công kích Võ Vương.",
+    "nguon": [
+     "@c0270"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-tien-vo-song",
+    "name": "Thần tiễn vô song",
+    "aliases": [],
+    "loai": "bi-thuat",
+    "loaiLabel": "Tiễn thuật/Thần thông",
+    "phamCap": "Cao",
+    "hePhai": "Thạch tộc",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Tiễn thuật đỉnh cao của Thập Ngũ gia, dùng một tay và ống tay áo bên tay cụt kéo cung, bắn xuyên Kim Ô phù văn và trọng thương Võ Vương.",
+    "detail": "Thập Ngũ gia dùng một tay và ống tay áo bên tay cụt kéo cung, các mũi tên xuyên thủng và tự đổi hướng truy kích mục tiêu, giết sạch sáu Kim Ô phù văn, làm móp lư đồng Thượng Cổ và cuối cùng trọng thương Võ Vương. Người quan chiến nhận xét ông vẫn chưa phát huy ra uy năng chân chính.",
+    "nguon": [
+     "@c0271"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyet-ho-than-thong",
+    "name": "Huyết hồ thần thông",
+    "aliases": [],
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Cao",
+    "hePhai": "Võ Vương phủ",
+    "soHuu": [
+     "Võ Vương"
+    ],
+    "blurb": "Thần thông Võ Vương dùng máu tươi hóa thành hồ máu có phù văn dày đặc để bao phủ và luyện hóa đối thủ.",
+    "detail": "Võ Vương dùng máu tươi hóa thành hồ máu có phù văn dày đặc để bao phủ và luyện hóa Thập Ngũ gia, thu gom tinh khí mười phương, nhưng bị Thập Ngũ gia hóa đỉnh thu luyện thành huyết đan.",
+    "nguon": [
+     "@c0271"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-tinh-ma-tinh-trang-den",
+    "name": "Thần tính và ma tính trắng-đen",
+    "aliases": [],
+    "loai": "cong-phap",
+    "loaiLabel": "Trạng thái tu hành",
+    "phamCap": "Cao",
+    "hePhai": "Thạch tộc",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Trạng thái Thập Ngũ gia phóng thích hai luồng sáng trắng an lành và đen lạnh lẽo từ hai chân, thần tính và ma tính hòa quyện toàn thân.",
+    "detail": "Thập Ngũ gia phóng thích hai luồng sáng trắng an lành và đen lạnh lẽo từ hai chân, khiến chiến lực tăng mạnh; chương xác nhận danh hiệu Đại Ma Thần không chỉ do phong cách hành sự mà còn liên quan đến con đường tu hành thần-ma.",
+    "nguon": [
+     "@c0271"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mua-phu-van-cua-vu-toc",
+    "name": "Mưa phù văn của Vũ tộc",
+    "aliases": [],
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Không rõ",
+    "hePhai": "Vũ tộc",
+    "soHuu": [
+     "Vũ Vương"
+    ],
+    "blurb": "Thần thông Vũ Vương khiến trời đổ mưa không tự nhiên, hơi nước chứa phù văn bao phủ Võ Vương phủ và có thể hóa thành công kích.",
+    "detail": "Vũ Vương khiến trời đổ mưa không tự nhiên, hơi nước chứa phù văn bao phủ Võ Vương phủ và có thể hóa thành công kích; mưa của Vũ tộc phủ xuống mang ý nghĩa uy hiếp.",
+    "nguon": [
+     "@c0272"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chan-hong-khieu",
+    "name": "Chân Hống khiếu",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Không rõ",
+    "hePhai": "Vũ Vương / Vũ tộc",
+    "soHuu": [
+     "Vũ Vương"
+    ],
+    "blurb": "Âm ba công của Vũ Vương, âm thanh như sấm chấn động cả tòa thành lớn, truyền khắp Hoàng Đô.",
+    "detail": "Công pháp âm thanh Vũ Vương thi triển khi khai chiến với Đại Ma Thần; tiếng gầm truyền vang khắp Hoàng Đô.",
+    "nguon": [
+     "@c0273"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hac-long-bach-long-chi-khi",
+    "name": "Hắc long bạch long chi khí",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "Không rõ",
+    "hePhai": "Đại Ma Thần (Thạch Trung Thiên)",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Đại Ma Thần bắn hai cột khí hình rồng (một hắc một bạch) từ hai mắt, phóng lớn đè ép thiên địa, nuốt sấm chớp.",
+    "detail": "Từ hai mắt Đại Ma Thần bắn ra một hắc long và một bạch long, nhanh chóng phóng lớn, áp đảo Vũ Vương trong đại chiến ở Võ Vương phủ.",
+    "nguon": [
+     "@c0273"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tay-ma",
+    "name": "Tay ma",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "đại thần thông",
+    "hePhai": "Con đường Thần Ma của Đại Ma Thần",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Tay ma là đại thần thông của Đại Ma Thần, hiện thành bàn tay đen khổng lồ như Ngũ Chỉ sơn. Trong trận với Vũ Vương, nó đè ép lôi điện và đánh tan phù văn trên người đối thủ.",
+    "detail": "Thần thông này tạo ra bàn tay đen ánh sáng lấp lánh, cường thế đến mức kiếm quang khó chém đứt. Thạch Trung Thiên dùng Tay ma áp chế Vũ Vương trong giai đoạn đầu trận, đập tan mưa máu và buộc Vũ Vương liên tục rút lui.",
+    "nguon": [
+     "@c0274"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tay-than",
+    "name": "Tay thần",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "đại thần thông",
+    "hePhai": "Con đường Thần Ma của Đại Ma Thần",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Tay thần là đại thần thông trong truyền thuyết, biểu hiện thành bàn tay trắng bóng như ngọc. Đây là bước tiếp sau Tay ma trên con đường Thần Ma của Thạch Trung Thiên.",
+    "detail": "Khi chín hồ lô đỏ nổ tung thành mảnh vỡ, Thạch Trung Thiên chuyển bàn tay từ đen sang trắng như ngọc và dùng Tay thần đánh tan mảnh vỡ thành bụi trần, dập tắt cơn bão năng lượng. Chương nhấn mạnh thần thông này nhiều năm chưa xuất hiện.",
+    "nguon": [
+     "@c0274"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dai-tran-mua-mau",
+    "name": "Đại trận mưa máu",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "đại trận sát phạt tổ truyền",
+    "hePhai": "Vũ tộc",
+    "soHuu": [
+     "Vũ Vương",
+     "Vũ tộc"
+    ],
+    "blurb": "Đại trận mưa máu là đại trận sát phạt tổ truyền của Vũ tộc. Vũ Vương kích hoạt nó bằng máu của mình để đối kháng Đại Ma Thần.",
+    "detail": "Mỗi hạt mưa máu trong trận chứa tinh thần sinh mệnh của Vũ Vương, hóa thành phù văn và ánh kiếm. Khi chín hồ lô đỏ phối hợp phun ánh kiếm, dư âm trận pháp còn làm nổ tung một ngọn núi ngoài Hoàng Đô, thể hiện uy lực đủ uy hiếp cả thành trì và đại quân.",
+    "nguon": [
+     "@c0274"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phu-van-phong-ho-vu-vuong-phu",
+    "name": "Phù văn phòng hộ Vũ Vương phủ",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Trận/phù văn",
+    "phamCap": "Không rõ",
+    "hePhai": "Vũ tộc",
+    "soHuu": [
+     "Vũ tộc"
+    ],
+    "blurb": "Hệ phù văn phòng hộ được bố trí trong các khu quan trọng của Vũ Vương phủ. Khi Đại Ma Thần bắn phá, lớp phòng hộ này vẫn bị mũi tên xuyên phá.",
+    "detail": "Phù văn phòng hộ Vũ Vương phủ được kích hoạt tại sân và khu vực trọng yếu của phủ đệ, nhưng không ngăn nổi uy lực cung tên của Thạch Trung Thiên. Các mũi tên phá nát cổng, sân và kiến trúc, khiến khu ngoài phủ thành phế tích trước mắt Hoàng Đô.",
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tran-phap-cua-than-trong-than-mieu-vu-toc",
+    "name": "Trận pháp của thần trong thần miếu Vũ tộc",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "Thần lưu lại",
+    "hePhai": "Vũ tộc",
+    "soHuu": [
+     "Vũ tộc"
+    ],
+    "blurb": "Trận pháp do thần lưu lại trong thần miếu Vũ tộc, được kích hoạt khi Vũ tộc rút vào nơi sâu nhất. Nó bao phủ phủ đệ và chống lại tên thần của Thập Ngũ gia.",
+    "detail": "Trận pháp nằm trong thần miếu Vũ tộc, nơi vừa là cấm địa vừa thu nhận pháp chỉ Vũ Thần. Khi Vũ tộc tế bái tượng đá và kích hoạt trận pháp, khói lan ra bao phủ phủ đệ, tạo phòng tuyến đối kháng Đại Ma Thần trước khi thần miếu bị tên thần bắn tới rạn nứt, sụp đổ.",
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "trang-vuc-tuong-da-va-te-dan",
+    "name": "Tràng vực tượng đá và tế đàn",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Tràng vực/phong tỏa",
+    "phamCap": "Không rõ",
+    "hePhai": "Vũ tộc",
+    "soHuu": [
+     "Vũ tộc"
+    ],
+    "blurb": "Tràng vực hình thành từ ánh sáng của tượng đá Vũ Thần và tế đàn sau khi thần miếu sụp đổ. Nó niêm phong phủ đệ, khiến Đại Ma Thần không tiến sâu vào thần thổ Vũ tộc.",
+    "detail": "Sau khi ngôi miếu thờ thiêng liêng của Vũ tộc đổ xuống, chỉ còn tượng đá và tế đàn tỏa ánh sáng đáng sợ. Đến phút cuối, ánh sáng này hình thành tràng vực niêm phong cả phủ đệ, trở thành lý do Thạch Trung Thiên dừng tay không tiếp tục tiến vào vùng sâu của Vũ tộc.",
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dong-bang-cuc-han",
+    "name": "Đóng băng cực hạn",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "không rõ",
+    "hePhai": "Thái Cổ Thần Sơn",
+    "soHuu": [
+     "Bích Ma Hắc Đồng Chu"
+    ],
+    "blurb": "Thần thông băng hàn do người tóc xanh thi triển trong Võ Vương phủ.",
+    "detail": "Người tóc xanh vận Thái Âm chân lực, dùng hàn khí trắng xóa đóng băng mục tiêu rồi khiến vật thể nổ tan, được mô tả có thể niêm phong thân thể và làm thân thể tử vong, nát vụn.",
+    "nguon": [
+     "@c0276"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "xich-den-trat-tu",
+    "name": "Xích đen trật tự",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "không rõ",
+    "hePhai": "không rõ",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Thần thông quy tắc của Đại Ma Thần trong trận chiến với người tóc xanh.",
+    "detail": "Thạch Trung Thiên điều khiển rồng đen hóa thành sợi xích đen mang trật tự và quy tắc, quấn chặt đối thủ như hình với bóng, tạo sức xiết trong giao chiến.",
+    "nguon": [
+     "@c0276"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-thong-mo-cua-dia-nguc",
+    "name": "Thần thông mở cửa địa ngục",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "không rõ",
+    "hePhai": "Thái Cổ Thần Sơn",
+    "soHuu": [
+     "Bích Ma Hắc Đồng Chu"
+    ],
+    "blurb": "Thần thông dùng mắt mở ra vùng hư không đen tối như địa ngục.",
+    "detail": "Người tóc xanh khiến con ngươi hóa thành phù văn xám như vong hồn, dệt ra một cánh cửa hư không dẫn tới vùng ma quật đen tối đầy bóng đen, nhằm đẩy đối thủ vào trong đó.",
+    "nguon": [
+     "@c0276"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dong-thien-linh-than",
+    "name": "Động Thiên linh thân",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "không rõ",
+    "hePhai": "Thạch Trung Thiên",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Thần thông dùng Động Thiên phóng ra nhiều linh thân để vây công đối thủ.",
+    "detail": "Trong trận ở Võ Vương phủ, Thạch Trung Thiên mở nhiều Động Thiên, phóng ra các linh thân như Kim Sí Đại Bằng, Toan Nghê, Bệ Ngạn và chim tước đỏ đậm để vây đánh Bích Ma Hắc Đồng Chu.",
+    "nguon": [
+     "@c0277"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "to-nhen-loi-dien-cua-bich-ma-hac-dong-chu",
+    "name": "Tơ nhện lôi điện của Bích Ma Hắc Đồng Chu",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "không rõ",
+    "hePhai": "Ma Linh hồ",
+    "soHuu": [
+     "Bích Ma Hắc Đồng Chu"
+    ],
+    "blurb": "Thần thông phun tơ bạc đan lôi điện thành lưới phù văn.",
+    "detail": "Bích Ma Hắc Đồng Chu phun các sợi tơ bạc kèm lôi điện, kết thành lưới lớn và xích thần phù văn, có thể vây bắt linh thân của Thạch Trung Thiên rồi nuốt chửng.",
+    "nguon": [
+     "@c0277"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "giam-cam",
+    "name": "Giam cầm",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "không rõ",
+    "hePhai": "Ma Linh hồ",
+    "soHuu": [
+     "Bích Ma Hắc Đồng Chu"
+    ],
+    "blurb": "Thần thông dùng mạng nhện phù văn khóa giữ vùng hư không.",
+    "detail": "Bích Ma Hắc Đồng Chu phát động mạng nhện phù văn dày đặc để giam giữ vùng trời đất, khiến Thạch Trung Thiên nhất thời không thể động đậy và bị uy hiếp bởi chân nhện.",
+    "nguon": [
+     "@c0277"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tam-niem-hoa-cung-tien",
+    "name": "Tâm niệm hóa cung tiễn",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông tinh thần lực",
+    "phamCap": "không rõ",
+    "hePhai": "Thạch Trung Thiên",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Thần thông dùng tâm niệm từ mi tâm hóa thành bảo cung và thần tiễn.",
+    "detail": "Khi thân thể bị giam cầm, Thạch Trung Thiên dùng tinh thần lực từ mi tâm hóa thành bảo cung và mũi tên ánh sáng, bắn thủng đầu linh thân Ma Chu để xoay chuyển kết cục trận chiến.",
+    "nguon": [
+     "@c0277"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "sat-tran-phu-cot-phong-an",
+    "name": "Sát trận phù cốt phong ấn",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "không rõ",
+    "hePhai": "Ma Linh hồ",
+    "soHuu": [
+     "Bích Ma Hắc Đồng Chu"
+    ],
+    "blurb": "Trận pháp dùng các khối cốt phong ấn phủ đệ và trấn áp đối thủ.",
+    "detail": "Người tóc xanh dùng các khối cốt phong ấn khu vực Võ Vương phủ và hư không, rồi vận dụng bảo cốt màu tím trấn áp Thạch Trung Thiên như một sát trận.",
+    "nguon": [
+     "@c0277"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tran-do-da-thu-va-bao-cot-kiem-khi",
+    "name": "Trận đồ da thú và bảo cốt kiếm khí",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "không rõ",
+    "hePhai": "Thạch Trung Thiên",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "blurb": "Trận pháp phòng thủ phản kích do tấm da thú và bảo cốt kích phát.",
+    "detail": "Thạch Trung Thiên tung tấm da thú xoay tròn, phối hợp mấy khối bảo cốt kích phát kiếm khí như thiên kiếm để đối kháng sát trận của Ma Chu.",
+    "nguon": [
+     "@c0277"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "truyen-tong-tran-nhan-ngu-toc",
+    "name": "Truyền tống trận Nhân Ngư Tộc",
+    "cn": "",
+    "loai": "khac",
+    "loaiLabel": "Trận pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Nhân Ngư Tộc",
+    "soHuu": [
+     "Nhân Ngư Tộc"
+    ],
+    "blurb": "Trận pháp truyền tống đặt tại tế đàn trung tâm thành trì Nhân Ngư dưới đáy Bắc Hải.",
+    "detail": "Truyền tống trận do ông lão trong Nhân Ngư Tộc kích hoạt theo lời nhờ của cô gái Nhân Ngư Tộc, mở thông đạo đưa Thạch Hạo rời thành trì dưới đáy biển về Tây Cương Thạch Quốc.",
+    "nguon": [
+     "@c0278"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "co-phap-thu-liem-khi-the-trong-nguyen-thuy-chan-giai",
+    "name": "Cổ pháp thu liễm khí thế trong Nguyên Thủy Chân Giải",
+    "cn": "",
+    "loai": "bi-thuat",
+    "loaiLabel": "Cổ pháp",
+    "phamCap": "Không rõ",
+    "hePhai": "Nguyên Thủy Chân Giải",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Một cổ pháp trong Nguyên Thủy Chân Giải dùng để làm mờ khí thế chân chính và che giấu khí cơ. Thạch Hạo vận dụng sau khi biết mình bị thần bích cảm ứng.",
+    "detail": "Cổ pháp này không phải bảo thuật tấn công mạnh mà thiên về thu liễm, giúp người dùng giữ tinh khí thần không lộ ra ngoài. Thạch Hạo gần đây mới tìm hiểu thấu đáo quy tắc này và lập tức dùng nó để tránh bị người khác nhận ra tiềm năng sau sự việc thần bích phát sáng.",
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bao-thuat-huyen-quy",
+    "name": "Bảo thuật Huyền Quy",
+    "cn": "",
+    "aliases": [],
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "đỉnh cấp bảo thuật phòng ngự",
+    "hePhai": "Bộ tộc Huyền Quy",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Bảo thuật Huyền Quy là thần thông phòng ngự khắc trên mai rùa của bộ tộc Huyền Quy. Thạch Hạo đổi được bằng phương thuốc tổ truyền Thạch Thôn trong phòng đấu giá.",
+    "detail": "Bảo thuật này chủ về phòng ngự, khi Thạch Hạo thử vận chuyển thì thân thể phát ra hào quang vàng đất, cơ thể trở nên cứng rắn như có xu thế kim cương bất hoại. Nó dự định dùng bồ đoàn Côn Mộc lấy từ sào huyệt Côn Bằng để tiếp tục tham ngộ.",
+    "nguon": [
+     "@c0283"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phu-van-giao-thu",
+    "name": "Phù văn giao thủ",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông/phù văn",
+    "phamCap": "không rõ",
+    "hePhai": "không rõ",
+    "soHuu": [
+     "Tiên tử che mặt",
+     "Thiên Hồ tiên tử"
+    ],
+    "blurb": "Lối giao chiến bằng phù văn giữa Tiên tử che mặt và Thiên Hồ tiên tử, bề ngoài không ầm ĩ nhưng cực kỳ nguy hiểm.",
+    "detail": "Hai bên thi triển phù văn như đóa hoa tiên đủ màu sắc, va chạm tạo gợn sóng có thể nghiền nát bảo cụ. Trận giao thủ ngắn ngủi kết thúc bằng việc tấm lụa che mặt của Tiên tử che mặt bị lật, lộ nửa dung nhan.",
+    "nguon": [
+     "@c0286"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bong-huyen-quy-tran-ap",
+    "name": "Bóng huyền quy trấn áp",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "khong-ro",
+    "hePhai": "Thạch Hạo",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Bóng huyền quy trấn áp là thủ đoạn Thạch Hạo thi triển khi giao chiến với thiếu niên quý tộc trên chiến xa. Bàn tay phải hóa đen, hiện bóng mờ huyền quy ép đối thủ ngã lăn.",
+    "detail": "Trong cuộc xung đột trên đường tới Thanh Lâm viên, Thạch Hạo dùng thủ đoạn này để nhanh chóng áp chế thiếu niên chủ nhân chiến xa. Thần thông tạo bóng huyền quy mang uy thế trấn áp trực diện, phối hợp với đòn tia chớp tím để đánh tan cả nhóm thiếu niên.",
+    "nguon": [
+     "@c0288"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tia-chop-mau-tim",
+    "name": "Tia chớp màu tím",
+    "cn": "",
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "khong-ro",
+    "hePhai": "Thạch Hạo",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Tia chớp màu tím là đòn công kích bằng lôi điện của Thạch Hạo trong trận cướp chiến xa. Đòn này đánh trúng nhóm thiếu niên khiến cả người họ bốc khói đen.",
+    "detail": "Sau khi dùng bóng huyền quy trấn áp thiếu niên chủ nhân chiến xa, Thạch Hạo tiếp tục phóng tia chớp tím vào nhóm thiếu niên còn lại. Đòn đánh có sức áp chế nhanh, giúp hắn quét sạch đối thủ và chiếm chiến xa.",
+    "nguon": [
+     "@c0288"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kim-si-bang-dieu",
+    "name": "Kim Sí Bằng Điểu",
+    "cn": "",
+    "aliases": [
+     "bảo thuật không đầy đủ"
+    ],
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "không rõ",
+    "hePhai": "không rõ",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "blurb": "Kim Sí Bằng Điểu là bảo thuật không đầy đủ được Thạch Hạo dùng để áp chế tám hung thú kéo xe. Nó mang uy áp chủng tộc khiến hung thú không dám phản kháng.",
+    "detail": "Khi chiếm chiến xa thanh đồng của Lăng Vân hầu, Thạch Hạo không thi triển Bảo thuật Côn Bằng hoàn chỉnh mà dùng một bảo thuật không đầy đủ hiện hình Kim Sí Bằng Điểu. Cách dùng này giúp nó chế phục tám hung thú kéo xe, đồng thời tránh để lộ truyền thừa Côn Bằng và chuốc họa sát thân.",
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "kim-cuong-bat-hoai",
+    "name": "Kim Cương Bất Hoại",
+    "cn": "",
+    "aliases": [],
+    "loai": "than-thong",
+    "loaiLabel": "Thần thông",
+    "phamCap": "bí mật không truyền",
+    "hePhai": "Tiểu Tây Thiên",
+    "soHuu": [
+     "Lý Bạch Đinh"
+    ],
+    "blurb": "Kim Cương Bất Hoại là thần thông bí mật không truyền của Tiểu Tây Thiên. Lý Bạch Đinh luyện đến cảnh giới cao và dùng nó đánh bay lão bộc của vị hôn thê.",
+    "detail": "Khi bị lão bộc của vị hôn thê ra tay, Lý Bạch Đinh thi triển Kim Cương Bất Hoại, sau lưng hiện kim cương trợn mắt, tỏa bảo huy và đánh bật đối thủ. Mọi người nhận ra đây là bí mật không truyền của Tiểu Tây Thiên, chứng tỏ hắn đã nhận chân truyền và luyện sâu pháp này.",
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
    }
   ]
  },
  "map": {
   "updatedAt": "2026-07-04",
-  "count": 286,
+  "count": 315,
   "nodes": [
    {
     "id": "day-nui-thuong-mang",
@@ -42485,9 +46734,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "detail": "Vùng rộng lớn với biên giới mênh mông; bên ngoài còn có các Đại Vực khác nơi các thiên tài tuyệt diễm khai sáng chiến tích vô địch có thể tự tới.",
     "theLucLienQuan": [],
     "nguon": [
-     "@c0209"
+     "@c0209",
+     "@c0290"
     ],
-    "rank": "D"
+    "rank": "C"
    },
    {
     "id": "hoang-do-thach-quoc",
@@ -42887,9 +47137,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "blurb": "Hang ổ của Côn Bằng Thái Cổ, đích đến của đoàn Thần Sơn; phong ấn đang mở, có thể muốn xuất thế hoàn toàn không phong ấn lại.",
     "detail": "Sào huyệt Côn Bằng là hang ổ của Côn Bằng thời Thái Cổ, đích đến của đoàn hơn ba trăm sinh linh Thần Sơn Thái Cổ. Trong chương, thần bộc suy diễn phong ấn thần sào đang mở ra, có thể muốn xuất thế hoàn toàn và sẽ không bao giờ phong ấn lại nữa, khiến tu vi trong vùng bị áp chế bất ổn.",
     "nguon": [
-     "@c0235"
+     "@c0235",
+     "@c0261"
     ],
-    "rank": "D"
+    "rank": "C"
    },
    {
     "id": "chien-truong-thuong-co",
@@ -43240,12 +47491,468 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0259"
     ],
     "rank": "D"
+   },
+   {
+    "id": "hoa-ma-dong",
+    "name": "Hóa Ma động",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Vực sâu quái dị xuyên qua đáy biển, nơi Côn Bằng trấn áp, luyện hóa kẻ địch Thái Cổ và cất giữ bảo thuật chân chính.",
+    "detail": "Hóa Ma động là một vực sâu quái dị xuyên thấu qua đáy biển rất sâu, đồng thời là một bãi tha ma và lò luyện hóa kẻ địch của Côn Bằng. Nơi đây trấn áp vô số thần linh, hung thú Thái Cổ và chí cường giả từng bị Côn Bằng giết, chứa tàn cốt, cốt phấn thần cốt bị rút phù văn cùng chấp niệm còn sót lại của các sinh linh như Thanh Loan, Bệ Ngạn, Thôn Thiên Tước, rắn chín đầu, ma cầm và Toan Nghê. Dọc đường có phù văn cấm chế đủ nghiền nát cả Tôn Giả; cuối động, sau hai cánh cửa đá là nhà đá chứa ao máu truyền thừa Côn Bằng.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0261"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nha-da-cuoi-hoa-ma-dong",
+    "name": "Nhà đá cuối Hóa Ma động",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoa-ma-dong",
+    "blurb": "Không gian sáng sủa thần thánh sau hai cánh cửa đá ở cuối Hóa Ma động, chứa ao máu Côn Bằng nơi truyền thừa hiển hóa.",
+    "detail": "Sau hai cánh cửa đá ở cuối Hóa Ma động là một thế giới sáng sủa và thần thánh, tương phản với hành lang u tối đầy chấp niệm phía trên. Trung tâm không gian này là ao máu Côn Bằng đỏ rực, nơi phù văn Côn Bằng bắn ra, hiển hóa truyền thừa hoàn chỉnh và cuối cùng tổ hợp lên thân người tiếp nhận.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0261"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "te-dan-tranh-doat-bao-cot",
+    "name": "Tế đàn tranh đoạt bảo cốt",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Khu vực phía trên nơi các thế lực và Tôn Giả tranh sáu mảnh bảo cốt Côn Bằng, khiến người giữ cốt thành mục tiêu sống.",
+    "detail": "Tế đàn tranh đoạt bảo cốt là khu vực phía trên, nơi nhiều thế lực và Tôn Giả tập trung tranh giành sáu mảnh bảo cốt Côn Bằng. Bất kỳ ai đoạt được bảo cốt hay lĩnh ngộ bảo thuật đều trở thành mục tiêu sống; chính từ cục diện vây ép ở đây, Thạch Hạo cố ý mượn tay mọi người để rơi xuống Hóa Ma động.",
+    "theLucLienQuan": [
+     "Các thế lực tranh đoạt bảo cốt"
+    ],
+    "nguon": [
+     "@c0261"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cam-ky-hai-c0262",
+    "name": "Cấm Kỵ Hải",
+    "cn": "禁忌海",
+    "aliases": [
+     "Bắc Hải"
+    ],
+    "capDo": "vuc",
+    "parentId": "hoang-vuc",
+    "blurb": "Vùng biển cấm nơi diễn ra đại chiến cướp bảo cốt Côn Bằng, trở thành bãi chôn xương, nước bị nhuộm đỏ.",
+    "detail": "Cấm Kỵ Hải, còn gọi là Bắc Hải, là vùng biển cấm nơi nổ ra đại chiến tranh đoạt sáu miếng bảo cốt Côn Bằng. Các thế lực lục địa và Hải tộc chém giết điên cuồng suốt mấy ngày, biến nơi đây thành bãi chôn xương. Khi miếng cốt Côn Bằng xuất hiện ngoài biển, các Tôn Giả chân thân hiện thân tranh đoạt, gây đại sát kiếp — có tin đồn hơn một Tôn Giả chân thân bị diệt, nước biển nhuộm đỏ. Phần cuối vùng biển hơn phân nửa là đầm rồng hang hổ nguy hiểm. Sau phong ba kéo dài mấy tháng, vùng biển trở lại yên tĩnh.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0262"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dong-phu-con-bang-c0262",
+    "name": "Động phủ Côn Bằng",
+    "cn": "鲲鹏洞府",
+    "aliases": [
+     "Hang ổ Côn Bằng"
+    ],
+    "capDo": "khac",
+    "parentId": "cam-ky-hai-c0262",
+    "blurb": "Động phủ có tế đàn nơi đại chiến diễn ra, cuối cùng nứt ra chìm xuống đáy biển thành phế tích.",
+    "detail": "Động phủ (hang ổ) Côn Bằng chứa tế đàn nơi diễn ra đại chiến tranh đoạt bảo cốt. Sau khi các thế lực chia cắt sáu miếng cốt, hang ổ nứt ra chìm xuống đáy biển, tế đàn tan nát. Các thần khí trong động — Thiên Hoang, Lượng Thiên Xích màu đen, cây quạt màu vàng, chủy thủ Long Nha — bay lên rồi chìm vào đại dương biến mất. Cấm chế nơi đây chưa biến mất nên các Tôn Giả không dám vào đáy biển tìm kiếm.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0262"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ao-mau-con-bang",
+    "name": "Ao máu Côn Bằng",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "dong-phu-con-bang-c0262",
+    "blurb": "Ao máu trong hang ổ Côn Bằng, nơi Thạch Hạo bế quan nhiều tháng. Tại đây, hắn hấp thu chân huyết, ghi nhớ phù văn áo nghĩa và hoàn thành Động Thiên dưỡng Linh.",
+    "detail": "Ao máu chứa sức mạnh cùng dấu ấn truyền thừa còn sót lại của Côn Bằng. Thạch Hạo và Bóng Lông hấp thu tinh hoa nơi này; riêng Thạch Hạo còn dung hợp áo nghĩa phù văn vào linh thân Côn Bằng, khiến mười Động Thiên dưỡng Linh thành công.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "be-da-than-bi",
+    "name": "Bệ đá thần bí",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "dong-cuc-duong",
+    "blurb": "Bệ đá trong động Cực Dương, nơi Thạch Hạo từng chịu thử thách bởi thần hỏa. Sau khi Hóa Linh viên mãn, hắn trở lại ngồi xếp bằng tại đây mà không còn bị tổn thương.",
+    "detail": "Bệ đá thần bí nằm trong cực địa có thần hỏa dưới đáy biển. Việc Thạch Hạo trở lại nơi này và bình yên chịu đựng hoàn cảnh khắc nghiệt giúp chứng thực cảnh giới Hóa Linh của hắn đã viên mãn.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cuc-huyen-bang",
+    "name": "Cực Huyền Băng",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "bac-hai",
+    "blurb": "Một cực địa lạnh giá được Thạch Hạo dùng để kiểm chứng Hóa Linh Cảnh viên mãn. Hắn tiến vào sâu mà không còn bị hao tổn như trước.",
+    "detail": "Sau khi rời ao máu Côn Bằng, Thạch Hạo lần lượt trở lại các nơi nguy hiểm trong Bắc Hải. Cực Huyền Băng là một trong những địa điểm chứng minh thân thể và cảnh giới của hắn đã đạt tới trạng thái viên mãn.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "rung-sau-mau-den",
+    "name": "Rừng sâu màu đen",
+    "cn": "",
+    "aliases": [
+     "cấm địa màu đen"
+    ],
+    "capDo": "khac",
+    "parentId": "hoang-vuc",
+    "blurb": "Cấm địa chết chóc tại Hoang Vực, nơi sinh linh xông vào hầu như đều không thể sống sót. Thạch Trung Thiên bị nhốt ở đây mười ba năm rồi cụt tay, đầy máu xông ra.",
+    "detail": "Khu rừng đen bao phủ khí tức tử vong, được xem là tuyệt địa nguy hiểm. Cuối chương, Thạch Trung Thiên từ nơi này thoát ra, mở ra manh mối về chuyến đi tìm thuần huyết cho Hạo nhi và thù cũ với Tỳ Hưu.",
+    "theLucLienQuan": [
+     "Nhân Tộc"
+    ],
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chien-truong-bach-toc",
+    "name": "Chiến trường bách tộc",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoang-vuc",
+    "blurb": "Chiến trường nơi Thạch Trung Thiên từng tiến vào để tìm thuần huyết cho Hạo nhi. Chính chuyến đi này khiến ông gặp nạn và nhiều năm không thể trở về.",
+    "detail": "Thạch Trung Thiên nhắc rằng năm xưa ông vào chiến trường bách tộc giao chiến và tìm thuần huyết nhằm gột rửa cho cháu. Việc gặp nạn tại hành trình đó dẫn tới mười ba năm bị nhốt trong cấm địa màu đen.",
+    "theLucLienQuan": [
+     "Nhân Tộc"
+    ],
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khu-dam-lay-dai-hoang",
+    "name": "Khu đầm lầy Đại Hoang",
+    "capDo": "khac",
+    "parentId": "dai-hoang",
+    "blurb": "Vùng u ám ở Đại Hoang, khí tức mục nát, cây cối to thưa, nơi Thập Ngũ gia giấu bình chân huyết Tỳ Ngưu nhiều năm.",
+    "detail": "Khu đầm lầy u ám trong Đại Hoang (Hoang Vực), khí tức mục nát bao trùm, cây cối to thưa thớt. Thập Ngũ gia từng giấu bình chân huyết Tỳ Ngưu tại đây để tránh con Tỳ Hưu trưởng thành; khi trở về, ông một chưởng tách đôi đầm lầy để tìm lại chiếc bình ngọc.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0264"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cung-dien-trong-vo-vuong-phu",
+    "name": "Cung điện trong Võ Vương phủ",
+    "capDo": "khac",
+    "parentId": "vo-vuong-phu",
+    "blurb": "Cung điện nơi Thập Ngũ gia bị dụ vào và tam đại sát trận được bố trí.",
+    "detail": "Nơi Thập Ngũ gia bị dụ vào, tam đại sát trận được kích hoạt để vây giết ông; cung điện vỡ nát và nổ tung khi ông phá trận bước ra.",
+    "theLucLienQuan": [
+     "Võ Vương phủ"
+    ],
+    "nguon": [
+     "@c0266"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cung-dien-duoi-long-dat",
+    "name": "Cung điện dưới lòng đất",
+    "capDo": "khac",
+    "parentId": "vo-vuong-phu",
+    "blurb": "Cung điện ngầm nơi các huynh đệ cũ và trưởng lão của Thập Ngũ gia bị giam cầm.",
+    "detail": "Nơi các lão huynh đệ của Thập Ngũ gia và một số trưởng lão tuổi cao bị giam cầm trước khi ông dùng thần âm phá cấm chế cứu ra.",
+    "theLucLienQuan": [
+     "Võ Vương phủ"
+    ],
+    "nguon": [
+     "@c0266"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phu-de-vu-vuong",
+    "name": "Vũ Vương Phủ",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoang-do-thach-quoc",
+    "blurb": "Vũ Vương Phủ là phủ đệ to lớn của Vũ tộc tại Hoàng Đô. Trong chương này, Vũ Vương bị bắn nổ nửa thân dưới và ngã xuống trước cửa phủ.",
+    "detail": "Địa điểm được nhắc qua tấm biển ghi ba chữ Vũ Vương Phủ. Sau khi Đại Ma Thần phá Vũ Thần pháp chỉ và bắn trọng thương Vũ Vương, nửa thân trên đầm máu của Vũ Vương ngã xuống trước phủ, báo hiệu đại họa giáng xuống phủ đệ này.",
+    "theLucLienQuan": [
+     "Vũ tộc"
+    ],
+    "nguon": [
+     "@c0274"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vo-vuong-phu-dia-diem",
+    "name": "Võ Vương phủ",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoang-do-thach-quoc",
+    "blurb": "Phủ đệ của Võ Vương tại Hoàng Đô, nơi Vũ tộc từng kéo tới gây áp lực. Sự kiện này trở thành lý do trực tiếp để Đại Ma Thần đánh trả Vũ tộc.",
+    "detail": "Võ Vương phủ được nhắc lại trong lời chất vấn của Thạch Trung Thiên trước Vũ Vương phủ. Ông cho rằng Vũ tộc từng đem thần khí tới đây diễu võ dương oai và đòi thanh lý môn hộ, nên Vũ tộc phải trả giá lớn trong trận công phạt hiện tại.",
+    "theLucLienQuan": [
+     "Võ Vương phủ",
+     "Vũ tộc"
+    ],
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-mieu-vu-toc",
+    "name": "Thần miếu Vũ tộc",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "phu-de-vu-vuong",
+    "blurb": "Cấm địa sâu trong Vũ Vương phủ, nơi thờ tượng đá Vũ Thần, thu nhận pháp chỉ và chứa trận pháp thần lưu lại. Nơi này bị tên thần của Đại Ma Thần bắn tới sụp đổ.",
+    "detail": "Thần miếu Vũ tộc là nơi Vũ tộc rút vào tế bái khi bị Đại Ma Thần ép sát. Miếu thờ chứa pháp chỉ Vũ Thần và trận pháp thần lưu lại, ban đầu chống được tên thần, nhưng sau nhiều lần công kích thì rạn nứt, sụp đổ, chỉ còn tượng đá và tế đàn tỏa sáng.",
+    "theLucLienQuan": [
+     "Vũ tộc"
+    ],
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-tho-vu-toc",
+    "name": "Thần thổ Vũ tộc",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "phu-de-vu-vuong",
+    "blurb": "Vùng sâu mang tính thần thánh của Vũ tộc, nơi còn tượng đá và tế đàn phát ánh sáng bất thường. Tràng vực tại đây khiến Đại Ma Thần dừng lại không tiến vào.",
+    "detail": "Thần thổ Vũ tộc nằm sâu trong phủ đệ, phía sau lớp phòng tuyến thần miếu. Sau khi thần miếu sụp đổ, tượng đá và tế đàn còn lại phát ánh sáng đặc biệt, hình thành tràng vực niêm phong cả phủ, khiến Thạch Trung Thiên không tiếp tục tiến sâu.",
+    "theLucLienQuan": [
+     "Vũ tộc"
+    ],
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ma-linh-ho",
+    "name": "Ma Linh hồ",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Địa danh xuất thân của Bích Ma Hắc Đồng Chu, đồng thời là một thế lực đáng sợ.",
+    "detail": "Ma Linh hồ được mô tả là nơi đáng sợ có chim thần và hung thú thuần huyết cư trú, tương tự những địa phương như Thái Cổ Thần Sơn. Cường giả tóc xanh từ nơi này đến Hoàng Đô và bị Nhân Hoàng răn rằng không nên tới đây.",
+    "theLucLienQuan": [
+     "Ma Linh hồ"
+    ],
+    "nguon": [
+     "@c0277"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thanh-tri-nhan-ngu-duoi-day-bac-hai",
+    "name": "Thành trì Nhân Ngư dưới đáy Bắc Hải",
+    "cn": "",
+    "capDo": "thanh",
+    "parentId": "bac-hai",
+    "blurb": "Thành trì phát sáng nằm sâu dưới đáy Bắc Hải, nơi cư trú của Nhân Ngư Tộc.",
+    "detail": "Thành trì nằm trong hõm sâu mấy ngàn mét dưới đáy biển, được xây bằng trân châu thủy tinh phát sáng, có nhiều bảo châu và linh khí. Nơi này bị đồn là Long cung, nhưng thực chất là nơi ở của Nhân Ngư Tộc và có tế đàn truyền tống ở trung tâm.",
+    "theLucLienQuan": [
+     "Nhân Ngư Tộc"
+    ],
+    "nguon": [
+     "@c0278"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chien-truong-bach-toc-dia-danh",
+    "name": "Chiến trường Bách Tộc",
+    "capDo": "vuc",
+    "parentId": null,
+    "blurb": "Nơi tổ phụ Thạch Hạo vào tìm thuần huyết rồi gặp huyết kiếp.",
+    "detail": "Chiến trường Bách Tộc là nơi tổ phụ Thạch Hạo đi tìm thuần huyết cho cháu, đắc tội với Tỳ Hưu nhất mạch nên bị Tỳ Hưu trưởng thành truy sát rồi mất tích.",
+    "theLucLienQuan": [
+     "Tỳ Hưu nhất mạch"
+    ],
+    "nguon": [
+     "@c0279"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cua-thanh-hoang-do-thach-quoc",
+    "name": "Cửa thành Hoàng Đô",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoang-do-thach-quoc",
+    "blurb": "Cổng thành của Hoàng Đô Thạch Quốc, nơi Thạch Hạo đứng quan sát trước khi vào thành. Cửa thành lầu cao hơn núi, được ví như Thái Cổ hung thú nằm dài.",
+    "detail": "Cửa thành thể hiện khí thế cổ xưa và hùng vĩ của thủ phủ Thạch Quốc. Từ đây, Thạch Hạo cảm nhận rõ Hoàng Đô khác xa những thành lớn hắn từng thấy, vừa uy nghi vừa phồn hoa.",
+    "theLucLienQuan": [
+     "Thạch Quốc"
+    ],
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "quan-kien-truc-buon-ho-nu",
+    "name": "Quần kiến trúc buôn Hồ nữ",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoang-do-thach-quoc",
+    "blurb": "Cụm kiến trúc như cung điện bên đường chính Hoàng Đô, nơi rao bán Hồ nữ. Phía sau nơi này còn có điện phủ của Hồ Ly Tinh áo trắng và khối ngọc bích thần.",
+    "detail": "Thạch Hạo dừng lại vì tò mò trước lời rao bán Hồ nữ, rồi xảy ra va chạm với bà chủ. Sau khi hắn rời xa, tiểu tháp truyền âm xác nhận trong cụm kiến trúc này có một khối ngọc bích thần, còn Hồ Ly Tinh áo trắng trong điện phủ đã dùng thần bích cảm ứng được tiềm năng của hắn.",
+    "theLucLienQuan": [
+     "Tổ chức bí ẩn của Hồ Ly Tinh áo trắng",
+     "Hồ Tộc"
+    ],
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dien-phu-cua-ho-ly-tinh-ao-trang",
+    "name": "Điện phủ của Hồ Ly Tinh áo trắng",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "quan-kien-truc-buon-ho-nu",
+    "blurb": "Điện phủ cổ bên trong quần kiến trúc buôn Hồ nữ. Đây là nơi Hồ Ly Tinh áo trắng cầm thần bích, ra lệnh chú ý Thạch Hạo và bàn chuyện đi sứ Nhân Hoàng.",
+    "detail": "Không gian này nằm phía sau khu rao bán Hồ nữ, tách khỏi cảnh náo nhiệt ngoài phố. Tại đây, thần bích phát sáng khi Thạch Hạo xuất hiện, khiến Hồ Ly Tinh áo trắng nhận ra tiềm năng của hắn và nhắc tới đại loạn Hoang Vực cùng kế hoạch đi sứ Thạch Quốc.",
+    "theLucLienQuan": [
+     "Tổ chức bí ẩn của Hồ Ly Tinh áo trắng",
+     "Hồ Tộc"
+    ],
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "di-chi-bo-thien-cac",
+    "name": "Di chỉ Bổ Thiên Các",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoang-vuc",
+    "blurb": "Di chỉ của Bổ Thiên Các được người trong Hoàng Đô nhắc tới vì xuất hiện vết nứt không gian. Có tin Thạch Nghị sắp từ nơi đó đi ra.",
+    "detail": "Tin tức về vết nứt không gian tại di chỉ Bổ Thiên Các làm bầu không khí Hoàng Đô trước thọ yến Nhân Hoàng càng thêm náo động. Việc Thạch Nghị có thể trở lại từ nơi này báo hiệu xung đột thiên tài sẽ tiếp tục dâng cao.",
+    "theLucLienQuan": [
+     "Bổ Thiên Các",
+     "Thạch Quốc"
+    ],
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoang-cung-nhan-hoang",
+    "name": "Hoàng cung Nhân Hoàng",
+    "capDo": "khac",
+    "parentId": "hoang-do-thach-quoc",
+    "blurb": "Nơi Nhân Hoàng triệu Thạch Tử Đằng vào mật đàm, sau đó lời về Thạch Nghị và thần huyết Tế Linh bị truyền ra.",
+    "detail": "Cung điện của Nhân Hoàng tại Hoàng Đô Thạch Quốc, nơi Thạch Tử Đằng được triệu vào mật đàm; các câu nói đề cao Thạch Nghị và xin thần huyết Tế Linh từ đây truyền ra ngoài gây xôn xao.",
+    "theLucLienQuan": [
+     "Hoàng thất Thạch Quốc"
+    ],
+    "nguon": [
+     "@c0281"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thong-dao-hu-khong",
+    "name": "Thông đạo hư không",
+    "capDo": "khac",
+    "parentId": null,
+    "blurb": "Nơi Thạch Hạo từng nhìn thấy cảnh một con nhện khổng lồ giao chiến với một người trên núi cao.",
+    "detail": "Thông đạo hư không mà Thạch Hạo từng đi qua, nơi nó thấy cảnh một con nhện khổng lồ cùng một người đại chiến trên một tòa núi cao; nay nó liên hệ cảnh này với tin Thái Cổ Ma Chu xuất động.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0281"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phong-dau-gia-cot-co-dia-diem",
+    "name": "Phòng đấu giá Cốt Cổ",
+    "cn": "",
+    "aliases": [
+     "Cốt Cổ đấu giá hội"
+    ],
+    "capDo": "khac",
+    "parentId": "hoang-do-thach-quoc",
+    "blurb": "Địa điểm chính của chương, nơi các đại nhân vật Hoàng Đô tụ tập, trưng bày hài cốt Nhai Tí và mở buổi đấu giá có Thiên cốt.",
+    "detail": "Tòa phòng đấu giá quy cách cao trong Hoàng Đô, đại sảnh hoa lệ với bộ hài cốt Nhai Tí khổng lồ dùng nguyên thủy phù cốt cung cấp thần lực cho cả tòa nhà; có phòng khách quý dành cho khách thân phận cao. Hoàng tộc, vương hầu, danh môn đại tộc và cường giả tán tu tụ tập đấu giá tại đây.",
+    "theLucLienQuan": [
+     "Phòng đấu giá Cốt Cổ"
+    ],
+    "nguon": [
+     "@c0282"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khach-san-khu-lam-vien",
+    "name": "Khách sạn khu lâm viên",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoang-do-thach-quoc",
+    "blurb": "Khách sạn nổi tiếng trong Hoàng Đô, có khu lâm viên yên tĩnh dành cho khách thân phận đặc biệt.",
+    "detail": "Sau buổi đấu giá, Thạch Hạo trở về nơi ở tại khách sạn này để điều tức và kiểm kê chiến lợi phẩm. Khu vực của hắn có nước chảy, cầu nhỏ và hòn non bộ phun nước, đủ yên tĩnh để tế luyện thần vật.",
+    "theLucLienQuan": [],
+    "nguon": [
+     "@c0286"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thanh-lam-vien",
+    "name": "Thanh Lâm viên",
+    "cn": "",
+    "capDo": "khac",
+    "parentId": "hoang-do-thach-quoc",
+    "blurb": "Thanh Lâm viên là nơi tụ hội lớn ở phía Tây Bắc Hoàng Đô. Khu vực có cung điện, lâm viên, hồ nước và núi, thích hợp cho các buổi ngắm cảnh và yến hội quy mô lớn.",
+    "detail": "Trong dịp các vương hầu, thiên tài quý tộc, hoàng tử công chúa trở về chúc thọ Nhân Hoàng, Thanh Lâm viên trở thành điểm tụ hội nổi bật. Thạch Hạo đi bộ từ khách sạn tới đây, còn các chiến xa quý tộc cũng đổ về, báo hiệu nhiều va chạm trong buổi tụ hội.",
+    "theLucLienQuan": [
+     "Thạch Quốc",
+     "Hoàng tộc Thạch Quốc",
+     "Vương hầu quý tộc Hoàng Đô"
+    ],
+    "nguon": [
+     "@c0288"
+    ],
+    "rank": "D"
    }
   ]
  },
  "artifacts": {
   "updatedAt": "2026-07-04",
-  "count": 581,
+  "count": 637,
   "artifacts": [
    {
     "id": "cot-bong-xuong-cu-thu",
@@ -49788,7 +54495,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Túi Càn Khôn",
     "aliases": [
      "túi da bảo dược Bạch Hổ",
-     "túi da thú"
+     "túi da thú",
+     "Túi càn khôn"
     ],
     "category": "phap-bao",
     "categoryLabel": "Bảo cụ",
@@ -49796,14 +54504,16 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "soHuu": [
      "Thạch Hạo"
     ],
-    "trangThai": "dang-co",
+    "trangThai": "đang sử dụng",
     "tenCu": "",
     "blurb": "Túi da thú bảo cụ mạnh nhất của Bạch Hổ, mở miệng hút vạn vật để đoạt binh khí.",
     "detail": "Túi da thú, bảo cụ mạnh nhất của Bạch Hổ, mở miệng túi hút vạn vật để đoạt binh khí đối thủ; bị kiếm khí Kiếm Cổ chặn khí lành. Sau khi Bạch Hổ mất thần lực khống chế, phù văn túi lu mờ ẩn vào trong, bị Nhóc Tỳ chụp đoạt được; Nhóc Tỳ định dùng bắt hết Thái Cổ di chủng trong Bách Đoạn sơn nhét vào.",
     "nguon": [
      "@c0148",
-     "@c0152"
+     "@c0152",
+     "@c0263"
     ],
+    "tabs": {},
     "rank": "C"
    },
    {
@@ -53617,12 +58327,1034 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "@c0258"
     ],
     "rank": "D"
+   },
+   {
+    "id": "ao-mau-con-bang",
+    "name": "Ao máu Côn Bằng",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật truyền thừa",
+    "phamCap": "Truyền thừa Thái Cổ",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Ao máu đỏ rực lấp lánh trong nhà đá cuối Hóa Ma động, bắn ra phù văn Côn Bằng và tái hiện toàn bộ bảo thuật truyền thừa.",
+    "detail": "Nằm sau hai cánh cửa đá ở cuối Hóa Ma động, trong một không gian sáng sủa thần thánh, ao máu Côn Bằng đỏ tươi và lấp lánh không ngừng bắn ra phù văn Côn Bằng. Toàn bộ bảo thuật Côn Bằng được tinh luyện, ẩn giấu và tái hiện từ ao máu này: các ký hiệu vàng đen tổ hợp thành chim Côn Bằng rồi hóa cá đen, phô bày truyền thừa hoàn chỉnh và tạo áp lực khủng khiếp lên người đứng trước nó.",
+    "nguon": [
+     "@c0261"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bao-cot-con-bang",
+    "name": "Bảo cốt Côn Bằng",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Bảo vật truyền thừa",
+    "phamCap": "Truyền thừa Côn Bằng",
+    "soHuu": [],
+    "trangThai": "Sáu miếng bị các thế lực chia cắt sau đại chiến trên tế đàn",
+    "blurb": "Sáu miếng bảo cốt chứa truyền thừa bảo thuật Côn Bằng, khiến các thế lực trên tế đàn chém giết dữ dội để tranh đoạt.",
+    "detail": "Bảo cốt Côn Bằng là vật chứa truyền thừa bảo thuật Côn Bằng. Trong chương này, sáu miếng cốt lần lượt bị các thế lực đoạt được và chia cắt, mỗi phe cùng lắm giữ một miếng. Một miếng rơi vào tay bộ tộc Hỏa Viêm Ngư, một miếng bị Hàn Thiên dùng Thần Chiếu Đăng thu lấy, một miếng do sinh linh thuộc Thái Cổ Thần Sơn cướp được; Mạc Thương từng giữ một miếng nhưng bị vây công đến mức phải ném ra để tránh thoát. Các miếng cốt còn có giá trị đủ lớn để đem đổi với Tôn Giả lấy bảo vật vô giá.",
+    "nguon": [
+     "@c0262"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chan-huyet-con-bang",
+    "name": "Chân huyết Côn Bằng",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Chân huyết",
+    "phamCap": "Di huyết Côn Bằng",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "trangThai": "Đã giúp Thạch Hạo phạt cốt tẩy tủy trong Hóa Ma động",
+    "blurb": "Một giọt chân huyết Côn Bằng ẩn trong ao máu linh tuyền, được Côn Bằng lưu lại cho người thừa kế dùng phạt cốt tẩy tủy.",
+    "detail": "Chân huyết Côn Bằng là một giọt huyết cực kỳ quý giá ẩn trong ao máu linh tuyền. Nó hòa vào ao máu, được lưu lại cho người thừa kế nhằm phạt cốt tẩy tủy. Thạch Hạo sau đại chiến trên tế đàn vốn thân thể rách nát, suýt chết; nhờ giọt chân huyết này mà hồi phục hoàn hảo, không còn vết sẹo, thân thể thoát thai hoán cốt và tiến thêm một bước.",
+    "nguon": [
+     "@c0262"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "luong-thien-xich-mau-den",
+    "name": "Lượng Thiên Xích màu đen",
+    "cn": "",
+    "category": "than-khi",
+    "categoryLabel": "Thần khí",
+    "phamCap": "Không rõ",
+    "soHuu": [],
+    "trangThai": "Chìm vào đại dương khi hang ổ Côn Bằng sụp xuống",
+    "blurb": "Một thần khí màu đen xuất hiện khi hang ổ Côn Bằng nứt sụp, sau đó bay lên rồi chìm vào đáy biển biến mất.",
+    "detail": "Lượng Thiên Xích màu đen là một trong các thần khí xuất hiện cùng Thiên Hoang, cây quạt màu vàng và chủy thủ Long Nha khi hang ổ Côn Bằng tan nát. Các thần khí này bay vút lên rồi chìm vào đại dương mênh mông, từ đó mất tăm. Do cấm chế dưới đáy biển chưa biến mất, ngay cả Tôn Giả cũng không dám tiến vào tìm kiếm.",
+    "nguon": [
+     "@c0262"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vien-than-dan-cua-thach-trung-thien",
+    "name": "Viên thần đan của Thạch Trung Thiên",
+    "cn": "",
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Thần đan",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "trangThai": "đang có",
+    "blurb": "Viên thần đan mà Thạch Trung Thiên tìm được trong thời gian gặp nạn. Ông muốn dùng nó để bù đắp cho Hạo nhi sau khi không thể mang thuần huyết trở về.",
+    "detail": "Khi thoát khỏi cấm địa rừng đen, Thạch Trung Thiên nói năm xưa vào chiến trường bách tộc tìm thuần huyết cho cháu nhưng gặp nạn. Hiện ông có một viên thần đan và xem đó là thứ có thể bù đắp cho Hạo nhi.",
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cung-lon-cua-dai-ma-than",
+    "name": "Cung lớn của Đại Ma Thần",
+    "cn": "",
+    "aliases": [
+     "Cung lớn của ông lão cụt tay",
+     "Cung lớn của Thập Ngũ gia"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Vũ khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "trangThai": "đang có",
+    "blurb": "Chiếc cung lớn mà Thạch Trung Thiên mang theo khi thoát khỏi cấm địa rừng đen. Vật này gắn với dáng vẻ thần võ, tàn tạ nhưng vẫn đáng sợ của ông.",
+    "detail": "Sau nhiều năm bị nhốt trong rừng sâu màu đen, Thạch Trung Thiên cụt tay, toàn thân đẫm máu nhưng vẫn mang theo một chiếc cung lớn khi xông ra ngoài.",
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "binh-chan-huyet-ty-nguu",
+    "name": "Bình chân huyết Tỳ Ngưu",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu / Huyết dịch",
+    "soHuu": [
+     "Thập Ngũ Gia"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Bình ngọc chứa huyết dịch màu bạc rực rỡ, chân huyết của Tỳ Ngưu, do Thập Ngũ gia chiếm được rồi giấu trong đầm lầy nhiều năm.",
+    "detail": "Bình ngọc chứa huyết dịch màu bạc rực rỡ — chân huyết Tỳ Ngưu mà Thập Ngũ gia năm xưa chiếm được, giấu trong khu đầm lầy u ám ở Đại Hoang để thoát khỏi con Tỳ Hưu trưởng thành. Khi thu hồi, do để lâu không xử lý cẩn thận nên đã tản mất một chút linh tính, tinh hoa thần tính giảm bớt. Thập Ngũ gia định làm lễ vật tặng cho tôn nhi Thạch Hạo.",
+    "nguon": [
+     "@c0264"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "te-dan-nho-truyen-tin",
+    "name": "Tế đàn nhỏ truyền tin",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Võ Vương phủ"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Tế đàn nhỏ cao một thước đặt trên cửa thành lầu Hoàng Đô và trong Võ Vương phủ, dùng để truyền tin nhanh.",
+    "detail": "Viết chữ lên giấy rồi thả lên tế đàn, thần văn lóe sáng tạo thành thông đạo màu bạc để truyền tin nhanh về gia tộc. Các chiến tướng Võ Vương phủ và Vũ tộc dùng nó để báo tin Đại Ma Thần trở về.",
+    "nguon": [
+     "@c0265"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "the-tu-phu",
+    "name": "Thế Tử phù",
+    "category": "phap-bao",
+    "categoryLabel": "Phù bảo",
+    "phamCap": "Vật nghịch thiên",
+    "soHuu": [
+     "Thạch Lạp"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Phù bảo nghịch thiên cho phép giả chết/tự bạo hóa thành mưa sáng để thoát thân.",
+    "detail": "Thạch Lạp dùng Thế Tử phù để giả chết, tự bạo hóa thành mưa sáng mà thoát khỏi tay Thập Ngũ gia; Thập Ngũ gia nhận xét trong phủ cũng không có nhiều tấm phù như thế.",
+    "nguon": [
+     "@c0266"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chin-cay-co-lon",
+    "name": "Chín cây cờ lớn",
+    "category": "phap-bao",
+    "categoryLabel": "Trận kỳ",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chín lá cờ dùng để niêm phong bốn phía một tòa phủ đệ, chặn mọi người rời đi.",
+    "detail": "Thập Ngũ gia ném ra chín cây cờ lớn để niêm phong bốn phía Võ Vương phủ, phong bế toàn phủ và tuyên bố không ai được rời đi.",
+    "nguon": [
+     "@c0266"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "the-menh-phu",
+    "name": "Thế Mệnh phù",
+    "aliases": [
+     "Thế Mệnh phù"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Phù bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Thạch Lạp"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Loại phù liên quan sinh mệnh mà Thạch Lạp nắm giữ; Thập Ngũ gia bắt dùng cho hết, chỉ còn một tấm.",
+    "detail": "Thập Ngũ gia hỏi về Thế Mệnh phù, Thạch Lạp khai chỉ còn lại một tấm.",
+    "nguon": [
+     "@c0267"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lu-dong-kim-o",
+    "name": "Lư đồng Kim Ô",
+    "aliases": [
+     "Lư đồng của Võ Vương",
+     "Lư đồng của ông lão cụt tay"
+    ],
+    "category": "than-khi",
+    "categoryLabel": "Thượng Cổ pháp khí",
+    "phamCap": "Thượng Cổ",
+    "soHuu": [
+     "Võ Vương"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chiếc lư đồng loang lổ gỉ xanh của Võ Vương, có thể dung hợp với bàn tay biến thế giới lòng bàn tay thành lò lửa luyện hóa địch.",
+    "detail": "Chiếc lư đồng loang lổ gỉ xanh, có thể dung hợp với bàn tay của Võ Vương, biến thế giới lòng bàn tay thành lò lửa luyện hóa địch và sau đó lơ lửng trên đầu hắn chảy thác nước thần hộ thân. Về sau lộ chân hình với đồ án Kim Ô.",
+    "nguon": [
+     "@c0270"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyet-dan",
+    "name": "Huyết đan",
+    "aliases": [],
+    "category": "dan-duoc",
+    "categoryLabel": "Đan dược",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Viên đan Thập Ngũ gia dùng phù văn hóa đỉnh luyện hồ máu của Võ Vương thành, tỏa ánh lửa, xem như chế nhạo đối thủ.",
+    "detail": "Thập Ngũ gia dùng phù văn hóa đỉnh luyện hồ máu của Võ Vương thành một viên đan tỏa ánh lửa, công khai chế nhạo là bảo dược huyết nhục.",
+    "nguon": [
+     "@c0271"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-vat-phat-sang-cua-vu-vuong",
+    "name": "Thần vật phát sáng của Vũ Vương",
+    "aliases": [],
+    "category": "than-khi",
+    "categoryLabel": "Thần vật",
+    "phamCap": "Liên quan Thần Linh",
+    "soHuu": [
+     "Vũ Vương"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Vật phát sáng chói mắt Vũ Vương lấy ra chặn thần tiễn của Đại Ma Thần, bị nhận định có quan hệ với Thần Linh.",
+    "detail": "Vũ Vương dùng thần vật phát sáng để chặn thần tiễn của Đại Ma Thần, dù vẫn bị đánh bay mấy trăm trượng; Thập Ngũ gia nghiêm túc nhận định vật này có quan hệ với Thần Linh.",
+    "nguon": [
+     "@c0272"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "vu-than-phap-chi",
+    "name": "Vũ Thần pháp chỉ",
+    "cn": "",
+    "category": "than-khi",
+    "categoryLabel": "Thần khí",
+    "phamCap": "di vật Thượng Cổ Thần Linh",
+    "soHuu": [
+     "Vũ tộc",
+     "Vũ Vương"
+    ],
+    "trangThai": "bị phá vỡ trong trận với Đại Ma Thần",
+    "blurb": "Vũ Thần pháp chỉ là pháp chỉ do Thượng Cổ Thần Linh của Vũ tộc lưu lại. Khi được thức tỉnh, nó hóa thành các tấm hoàng kim mang ý chí sát phạt và trấn áp cả chiến trường.",
+    "detail": "Vũ Vương dùng nghi thức tế tự, tiếp dẫn sức mạnh sinh ra trong trận chiến để thức tỉnh mảnh vỡ pháp chỉ phát sáng. Pháp chỉ khắc chữ Phù, tỏa uy áp khiến mọi người quỳ rạp, làm Đại Ma Thần rơi khỏi không trung và chảy máu khóe miệng. Sau đó Thạch Trung Thiên dùng mũi tên Thượng Cổ Thần Linh bắn phá nhiều tấm pháp chỉ, khiến Vũ Vương kinh sợ định bỏ chạy.",
+    "nguon": [
+     "@c0274"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chin-chiec-ho-lo",
+    "name": "Chín chiếc hồ lô",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "trận nhãn sát phạt",
+    "soHuu": [
+     "Vũ Vương",
+     "Vũ tộc"
+    ],
+    "trangThai": "bị phá vỡ",
+    "blurb": "Chín chiếc hồ lô là pháp bảo màu đỏ tươi xuất hiện trong Đại trận mưa máu của Vũ Vương. Chúng phun ánh kiếm, khiến uy lực trận pháp tăng vọt.",
+    "detail": "Chín hồ lô nhỏ lơ lửng trong màn mưa máu, miệng hồ lô phun ánh kiếm hóa thành sóng biển đỏ đậm. Khi bị Đại Ma Thần phá trận, chúng bốc cháy rồi nổ tung thành mảnh vỡ, cuối cùng bị Tay thần đánh tan thành bụi trần.",
+    "nguon": [
+     "@c0274"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mui-ten-thuong-co-than-linh",
+    "name": "Mũi tên Thượng Cổ Thần Linh",
+    "cn": "",
+    "category": "than-khi",
+    "categoryLabel": "Thần khí",
+    "phamCap": "mũi tên Thượng Cổ Thần Linh lưu lại",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "trangThai": "đã dùng trong trận với Vũ Vương",
+    "blurb": "Mũi tên Thượng Cổ Thần Linh là mũi tên gần trong suốt, ánh bạc nhạt do Đại Ma Thần bắn ra từ cung lớn. Nó có sát khí ngập trời và đủ sức phá Vũ Thần pháp chỉ.",
+    "detail": "Thạch Trung Thiên kéo cung lớn, phun tia sáng hóa thành mũi tên ánh bạc. Mũi tên đầu bắn vỡ nhiều tấm pháp chỉ hoàng kim; mũi tên bạc thứ hai khiến pháp chỉ nổ tung, buộc Vũ Vương rơi vào thế tuyệt vọng.",
+    "nguon": [
+     "@c0274"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mui-ten-trang-den-xen-ke",
+    "name": "Mũi tên trắng đen xen kẽ",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Vũ khí",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Mũi tên được Đại Ma Thần đặt lên dây cung khi áp sát Vũ Vương phủ. Nó được dùng bắn nổ đại môn và nhiều sân phủ.",
+    "detail": "Mũi tên trắng đen xen kẽ là một trong những mũi tên Đại Ma Thần dùng trong đợt công phạt Vũ tộc. Dưới uy lực của nó, đại môn, sân và phù văn phòng hộ của Vũ Vương phủ liên tiếp bị phá, khiến khu ngoài phủ biến thành phế tích.",
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tuong-da-vu-than",
+    "name": "Tượng đá Vũ Thần",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật thờ/thần vật",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Vũ tộc"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Tượng đá Vũ Thần nằm trong thần miếu Vũ tộc. Sau khi thần miếu sụp đổ, tượng đá cùng tế đàn phát ánh sáng đáng sợ và tạo tràng vực phong tỏa phủ đệ.",
+    "detail": "Tượng đá Vũ Thần là trung tâm tế bái trong cấm địa Vũ tộc. Khi thần miếu bị tên thần của Đại Ma Thần bắn tới sụp đổ, tượng đá vẫn còn lại, tỏa ánh sáng bất thường cùng tế đàn và góp phần hình thành tràng vực niêm phong cả tòa phủ đệ.",
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "te-dan-vu-toc",
+    "name": "Tế đàn Vũ tộc",
+    "cn": "",
+    "category": "khac",
+    "categoryLabel": "Vật thờ/trận cơ",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Vũ tộc"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Tế đàn còn lại trong thần miếu Vũ tộc sau khi nơi này sụp đổ. Nó cùng tượng đá phát ánh sáng bất thường, hình thành tràng vực niêm phong phủ đệ.",
+    "detail": "Tế đàn Vũ tộc xuất hiện cùng tượng đá Vũ Thần ở phần sâu nhất của phủ. Sau khi thần miếu bị phá, tế đàn vẫn tỏa ánh sáng đáng sợ và trở thành một phần của tràng vực khiến Đại Ma Thần không tiến vào thần thổ Vũ tộc.",
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bao-thap-cua-bong-nguoi-cuoi-chuong",
+    "name": "Bảo tháp của bóng người cuối chương",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Bóng người cầm bảo tháp"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Tòa bảo tháp được nhân vật bí ẩn cầm khi xuất hiện trên đường chính Hoàng Đô. Chương này chưa nêu lai lịch hay công năng của nó.",
+    "detail": "Bảo tháp xuất hiện ở cuối chương, trong tay một bóng người cao lớn đi tới trên đường chính Hoàng Đô. Sự xuất hiện của pháp bảo này diễn ra ngay sau khi Đại Ma Thần ép Vũ tộc chịu nhục, báo hiệu khả năng có biến cố tiếp theo.",
+    "nguon": [
+     "@c0275"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thap-dong-phap-khi-than-linh",
+    "name": "Tháp đồng Pháp khí Thần Linh",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Pháp khí Thần Linh",
+    "soHuu": [
+     "Bích Ma Hắc Đồng Chu"
+    ],
+    "trangThai": "đang sử dụng @c0276",
+    "blurb": "Chiếc tháp đồng của người tóc xanh, được Đại Ma Thần nhận ra là Pháp khí Thần Linh.",
+    "detail": "Tháp đồng thau mang vết tích năm tháng hóa thành phù văn, có thể hóa lớn như ngọn núi và phóng thích uy năng trấn áp cả Võ Vương phủ. Khi người tóc xanh hô thu, tháp có thể hút người vào trong; Thạch Trung Thiên từng đánh mất chiếc tháp này và bị hút vào tháp trong trận chiến, sau đó giết thoát ra ngoài.",
+    "nguon": [
+     "@c0276"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tam-khoi-cot-phong-an",
+    "name": "Tám khối cốt phong ấn",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "không rõ",
+    "soHuu": [
+     "Bích Ma Hắc Đồng Chu"
+    ],
+    "trangThai": "đã dùng @c0276",
+    "blurb": "Tám khối cốt nhiều màu dùng để phong ấn Võ Vương phủ.",
+    "detail": "Người tóc xanh lấy ra tám khối cốt màu sắc khác nhau, gồm tím, trắng bóng và vàng óng, tỏa mây khí lạnh. Hắn rung tay cho chúng bay ra tám hướng để niêm phong hoàn toàn Võ Vương phủ, ngăn Thạch Trung Thiên đào tẩu.",
+    "nguon": [
+     "@c0276"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mui-ten-bac-va-mui-ten-den",
+    "name": "Mũi tên bạc và mũi tên đen",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Vũ khí",
+    "phamCap": "không rõ",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "trangThai": "đang sử dụng @c0276",
+    "blurb": "Hai mũi tên thần được Thạch Trung Thiên dùng để công kích tháp đồng.",
+    "detail": "Trong trận với người tóc xanh, Thạch Trung Thiên dùng mũi tên màu bạc xuyên hư không đánh tháp đồng nhưng không thể bắn thủng. Khi bị hút vào tháp, ông tiếp tục bắn thêm mũi tên thần màu đen, trong lúc mũi tên bạc bên ngoài tự chủ công kích thân tháp.",
+    "nguon": [
+     "@c0276"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bao-cot-mau-tim",
+    "name": "Bảo cốt màu tím",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Vật phẩm trận cơ",
+    "phamCap": "không rõ",
+    "soHuu": [
+     "Bích Ma Hắc Đồng Chu"
+    ],
+    "trangThai": "không rõ",
+    "blurb": "Khối bảo cốt được dùng làm trận cơ trấn áp Thạch Trung Thiên.",
+    "detail": "Trong lúc Thạch Trung Thiên lùi gần vùng phong ấn, một khối bảo cốt màu tím bất ngờ vọt lên để trấn áp ông, là một phần của sát trận do Bích Ma Hắc Đồng Chu bố trí.",
+    "nguon": [
+     "@c0277"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tam-da-thu-tran-do",
+    "name": "Tấm da thú trận đồ",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Trận đồ",
+    "phamCap": "không rõ",
+    "soHuu": [
+     "Thạch Trung Thiên"
+    ],
+    "trangThai": "đang sử dụng",
+    "blurb": "Tấm da thú được Thạch Trung Thiên dùng để lập trận đối kháng Ma Chu.",
+    "detail": "Thạch Trung Thiên tung tấm da thú xoay tròn, phối hợp các khối bảo cốt kích phát kiếm khí, nhờ đó chống lại sát trận phù cốt của Bích Ma Hắc Đồng Chu.",
+    "nguon": [
+     "@c0277"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thuyen-u-linh",
+    "name": "Thuyền U Linh",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo di chuyển",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "trangThai": "đang được sử dụng",
+    "blurb": "Chiếc thuyền Thạch Hạo dùng vượt Bắc Hải để trở về đất liền sau hai năm lưu lạc hải ngoại.",
+    "detail": "Thuyền U Linh di chuyển trên biển, đưa Thạch Hạo và Bóng Lông trở về từ Bắc Hải. Khi Thạch Hạo lặn xuống đáy biển thăm dò thành trì Nhân Ngư, chiếc thuyền có thể được thu lại.",
+    "nguon": [
+     "@c0278"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyet-tinh-chau",
+    "name": "Huyết tinh châu",
+    "cn": "",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Vật liệu luyện dược",
+    "phamCap": "Quý hiếm",
+    "soHuu": [
+     "Thạch Hạo",
+     "Nhân Ngư Tộc"
+    ],
+    "trangThai": "được tặng cho Thạch Hạo",
+    "blurb": "Trân châu đỏ máu hình thành từ con trai có đạo hạnh cao thâm, chứa thần năng tinh thuần.",
+    "detail": "Huyết tinh châu do con trai đạo hạnh cao hun đúc huyết nhục tinh khí mà thành. Vật này có thể luyện thành Huyết đan, khi luyện dược thêm bột phấn còn có thể tăng dược tính, được cô gái Nhân Ngư Tộc tặng cho Thạch Hạo.",
+    "nguon": [
+     "@c0278"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hai-lam-tuy",
+    "name": "Hải Lam Tủy",
+    "cn": "",
+    "aliases": [
+     "Hải Lam Thạch"
+    ],
+    "category": "nguyen-lieu",
+    "categoryLabel": "Vật liệu luyện khí",
+    "phamCap": "Quý hiếm",
+    "soHuu": [
+     "Thạch Hạo",
+     "Nhân Ngư Tộc"
+    ],
+    "trangThai": "da-dung",
+    "blurb": "Tinh thạch xanh lam dưới đáy biển, dùng để luyện bảo cụ và tăng uy năng pháp khí.",
+    "detail": "Hải Lam Tủy là vật liệu luyện khí quý báu trong thành trì Nhân Ngư, khiến các thế lực lớn cũng động tâm. Cô gái Nhân Ngư Tộc tặng vật này cho Thạch Hạo để đền ơn.",
+    "nguon": [
+     "@c0278",
+     "@c0282",
+     "@c0284"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "doan-canh-cay-lieu-than",
+    "name": "Đoạn cành cây Liễu Thần",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Không rõ",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Đoạn cành xanh mơn mởn Liễu Thần cho Thạch Hạo, nó mang theo hơn hai năm.",
+    "detail": "Đoạn cành xanh mơn mởn mà Thạch Hạo chưa dùng tới, định trả lại nhưng Liễu Thần bảo cứ giữ trên người.",
+    "nguon": [
+     "@c0279"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ngoc-bich-than",
+    "name": "Ngọc bích thần",
+    "cn": "",
+    "aliases": [
+     "thần bích"
+    ],
+    "category": "khac",
+    "categoryLabel": "Vật phẩm thần bí",
+    "phamCap": "Siêu phàm",
+    "soHuu": [
+     "Hồ Ly Tinh áo trắng"
+    ],
+    "trangThai": "đang trong điện phủ của Hồ Ly Tinh áo trắng",
+    "blurb": "Khối thần bích trong điện phủ của Hồ Ly Tinh áo trắng, phát sáng khi Thạch Hạo xuất hiện. Tiểu tháp xác nhận đây là vật siêu phàm mà nó cần.",
+    "detail": "Ngọc bích thần có khả năng cảm ứng tiềm năng kinh người, khiến Hồ Ly Tinh áo trắng nhận ra Thạch Hạo có thể trở thành một trong các bá chủ Hoang Vực. Tiểu tháp từng nói nếu có đủ bốn khối ngọc bích thần thì sẽ cho Thạch Hạo một cơ hội sử dụng, nên khối thần bích này trở thành vật then chốt được Thạch Hạo chú ý.",
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-bich-vat-lieu",
+    "name": "Thần bích",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu / Kỳ trân",
+    "trangThai": "dang-co",
+    "soHuu": [],
+    "blurb": "Vật liệu kỳ trân từng được tiểu tháp cảm ứng ở Hoàng Đô, ví dụ cho việc nơi này có dị bảo có thể trao đổi.",
+    "detail": "Một loại vật liệu quý mà tiểu tháp của Thạch Hạo từng cảm ứng được mấy ngày trước tại Hoàng Đô, minh chứng cho việc Hoàng Đô có kỳ trân dị bảo đủ để đổi lấy thêm lần xuất thủ của tiểu tháp.",
+    "nguon": [
+     "@c0281"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-huyet-te-linh-luu-lai",
+    "name": "Thần huyết Tế Linh lưu lại",
+    "category": "khac",
+    "categoryLabel": "Thần huyết / Truyền thừa",
+    "trangThai": "dang-co",
+    "soHuu": [
+     "Nhân Hoàng"
+    ],
+    "blurb": "Thần huyết Tế Linh do Hoàng thất Thạch Quốc lưu giữ, được Thạch Tử Đằng xin để tẩy thân thể cho Thạch Nghị.",
+    "detail": "Thứ thần huyết truyền thừa của Tế Linh do Nhân Hoàng lưu giữ; Thạch Tử Đằng đề nghị Nhân Hoàng lấy ra để tẩy thân thể cho Thạch Nghị, khiến các vương hầu chấn động vì hàm ý chính trị về vấn đề kế thừa.",
+    "nguon": [
+     "@c0281"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-cot-khoi-ky-cot-trang",
+    "name": "Thiên cốt",
+    "cn": "",
+    "aliases": [
+     "Khối kỳ cốt trắng sáng"
+    ],
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Không rõ (@c0282)",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Vật phẩm đầu tiên của buổi đấu giá Cốt Cổ, khối cốt trắng sáng cực giống Nguyên Thủy Chân Giải khiến Thạch Hạo chấn động.",
+    "detail": "Khối cốt trắng sáng được đưa ra làm vật đấu giá mở màn, khí thế và chất liệu rất giống Nguyên Thủy Chân Giải. Lão giả chủ trì gọi đó là Thiên cốt, cứng rắn hiếm thấy, không thể phá hủy bằng mọi biện pháp đã thử, khiến toàn trường náo động và Thạch Hạo quyết tâm mua bằng được.",
+    "nguon": [
+     "@c0282"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "huyet-ma-thuoc",
+    "name": "Huyết Ma Thước",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ (@c0282)",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Vật phẩm đấu giá là mục tiêu khiến Hỗn Thiên hầu tới phòng đấu giá Cốt Cổ; chương này chưa mô tả hình dạng hay công dụng.",
+    "detail": "Hỗn Thiên hầu trực tiếp nói chỉ vì thanh Huyết Ma Thước mà đến phòng đấu giá Cốt Cổ, báo trước vật này có giá trị đủ hấp dẫn một vương hầu trẻ họ Thạch.",
+    "nguon": [
+     "@c0282"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chien-xa-hoang-kim-hon-thien-hau",
+    "name": "Chiến xa hoàng kim của Hỗn Thiên hầu",
+    "cn": "",
+    "aliases": [],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp bảo",
+    "phamCap": "Không rõ (@c0282)",
+    "soHuu": [
+     "Hỗn Thiên hầu"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Chiến xa hoàng kim do tám hung thú kéo, có ấn ký được người trong Hoàng Đô nhận ra là của Hỗn Thiên hầu.",
+    "detail": "Xe do tám hung thú kéo lao tới phòng đấu giá Cốt Cổ, mang ấn ký biểu thị thân phận vương hầu, khiến đám đông chú ý và nhận ra chủ nhân là Hỗn Thiên hầu.",
+    "nguon": [
+     "@c0282"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bo-hai-cot-nhai-ti",
+    "name": "Bộ hài cốt Nhai Tí",
+    "cn": "",
+    "aliases": [],
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "Không rõ (@c0282)",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Bộ xương hung thú Nhai Tí màu vàng khổng lồ được trưng bày ở đại sảnh phòng đấu giá Cốt Cổ.",
+    "detail": "Bộ xương màu vàng cao hơn mười trượng, dài hơn hai mươi đến ba mươi trượng, không phải Nhai Tí thuần huyết nhưng còn nguyên thủy phù cốt lưu chuyển thần lực cho cả tòa nhà, được trưng bày thay vì luyện thành pháp khí, cho thấy nội tình hùng hậu của phòng đấu giá.",
+    "nguon": [
+     "@c0282"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "long-cot-thiet",
+    "name": "Long Cốt Thiết",
+    "cn": "",
+    "aliases": [],
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "thần liệu luyện khí",
+    "soHuu": [
+     "Đại tiểu thư Lôi tộc"
+    ],
+    "trangThai": "được đưa ra đấu giá",
+    "blurb": "Long Cốt Thiết là thần liệu do Chân Long vẫn lạc trên quặng sắt mà hình thành. Đại tiểu thư Lôi tộc đưa ra một khối bằng đốt ngón tay để tranh khối tàn cốt Thiên Cốt.",
+    "detail": "Giám định sư nhận định đây là tài liệu thần cấp luyện khí của chư thánh, nếu đủ nhiều có thể luyện thành thần khí. Trong buổi đấu giá, giá trị của nó vẫn không vượt được khối Hải Lam Tủy cực lớn do Thạch Hạo đưa ra.",
+    "nguon": [
+     "@c0283"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phuong-thuoc-to-truyen-thach-thon",
+    "name": "Phương thuốc tổ truyền Thạch Thôn",
+    "cn": "",
+    "aliases": [],
+    "category": "dan-duoc",
+    "categoryLabel": "Phương thuốc",
+    "phamCap": "phương tẩy tủy tráng cốt",
+    "soHuu": [
+     "Thạch Hạo",
+     "Thạch Thôn"
+    ],
+    "trangThai": "đã dùng để trao đổi",
+    "blurb": "Phương thuốc tổ truyền Thạch Thôn gồm các phương tẩy tủy tráng cốt, bảo trì huyết khí cường thịnh. Thạch Hạo viết vài phương đơn giản để đổi lấy Bảo thuật Huyền Quy.",
+    "detail": "Người bán mai rùa Huyền Quy chỉ muốn đổi lấy phương thuốc giúp tẩy tủy, tráng cốt và giữ huyết khí. Thạch Hạo lấy truyền thừa dược phương của Thạch Thôn làm giá, cuối cùng được chọn và đoạt được bảo thuật phòng ngự.",
+    "nguon": [
+     "@c0283"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ti-hoa-chau",
+    "name": "Tị Hỏa Châu",
+    "category": "khac",
+    "categoryLabel": "Kỳ châu",
+    "phamCap": "Chí bảo",
+    "soHuu": [
+     "Thập Lục công chúa"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Viên châu đỏ thẫm như hồng ngọc, lớn như trứng bồ câu, kháng hỏa cực mạnh.",
+    "detail": "Kỳ châu đỏ thẫm lớn như trứng bồ câu, có vết nứt và tróc một miếng. Kháng hỏa, dùng để xâm nhập cấm địa dung nham hỏa diễm hay thần hỏa, làm thần liệu luyện chế Thánh khí, Thần khí. Cực kỳ quý hiếm, được xác định là chí bảo. Trên hội đấu giá bị Thập Lục công chúa đoạt bằng một đống nguyên thủy phù cốt.",
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dinh-phong-chau",
+    "name": "Định Phong Châu",
+    "category": "khac",
+    "categoryLabel": "Kỳ châu",
+    "phamCap": "Cực hiếm",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Kỳ châu cùng loại với Tị Hỏa Châu, cực kỳ quý hiếm.",
+    "detail": "Được nhắc cùng loại với Tị Hỏa Châu, thuộc hàng kỳ châu cực hiếm.",
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "da-hu-khong-thu",
+    "name": "Da Hư Không Thú",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Tài liệu",
+    "phamCap": "Cực hiếm",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Tấm da thú ảm đạm giúp nấp trong hư vô, tế luyện có thể xuyên hư không.",
+    "detail": "Tấm da thú ảm đạm khoảng một mét vuông, giúp người nấp trong hư vô không thể dò xét, tế luyện có thể xuyên hư không. Cực hiếm; Nhân Hoàng Hỏa Quốc từng có bản lớn hơn làm pháp khí quốc gia, Thạch Hạo từng thấy Hỏa Linh Nhi lấy ra ở Bách Đoạn Sơn. Trên hội đấu giá rơi vào tay một người thần bí trốn trong gian khách quý.",
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-ma-tan",
+    "name": "Thiên Ma Tán",
+    "category": "phap-bao",
+    "categoryLabel": "Binh khí",
+    "phamCap": "Cấp vương hầu",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Binh khí lấp lánh ô quang, âm khí dày đặc, trân phẩm cấp vương hầu.",
+    "detail": "Binh khí lấp lánh ô quang, âm khí dày đặc, thuộc hàng trân phẩm cấp vương hầu, trên hội đấu giá được một Vương gia lấy đi.",
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tieu-nhan-den-chien-ngau-thuong-co",
+    "name": "Tiểu nhân đen",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Chiến ngẫu",
+    "phamCap": "Chí bảo (hư hỏng)",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Tiểu nhân màu đen nhỏ như nắm đấm, nghi là chiến ngẫu chí cường Thượng Cổ hư hỏng, được tiểu tháp khẳng định là chí bảo.",
+    "detail": "Pháp khí Thượng Cổ nhỏ như nắm đấm, kim loại ảm đạm không ánh sáng, phù văn tổn hại nứt nẻ, cầm thấy nặng và lạnh như băng. Nghi là chiến ngẫu chí cường bị hư hỏng nên mọi người coi như phế bảo, nhưng tiểu tháp khẳng định đủ hưởng thụ cả đời, thậm chí tiếc không nỡ tiêu hóa — là chí bảo nhân gian.",
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "dia-tuy",
+    "name": "Địa tủy",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Vật liệu",
+    "phamCap": "Quý hiếm",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Vật liệu được xưng có thể kéo dài sinh mệnh.",
+    "detail": "Có người lấy ra một khối lớn trên hội đấu giá, được xưng có thể kéo dài sinh mệnh.",
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lam-linh-tho-tu-linh-dang",
+    "name": "Lam Linh Thổ và Tử Linh Đẳng",
+    "category": "nguyen-lieu",
+    "categoryLabel": "Tài liệu",
+    "phamCap": "Hi hữu",
+    "soHuu": [],
+    "trangThai": "dang-co",
+    "blurb": "Trong hơn mười loại tài liệu hi hữu được đấu giá, giá trị kinh người.",
+    "detail": "Nằm trong hơn mười loại tài liệu hi hữu được đưa ra đấu giá trên hội, giá trị kinh người.",
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "khoi-tai-lieu-khong-luu-chut-bui-ban",
+    "name": "Khối tài liệu không lưu chút bụi bẩn",
+    "cn": "",
+    "aliases": [
+     "Tài liệu cổ không dính bụi"
+    ],
+    "category": "nguyen-lieu",
+    "categoryLabel": "Nguyên liệu",
+    "phamCap": "không rõ",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "trangThai": "Thạch Hạo mua được tại đấu giá hội",
+    "blurb": "Khối tài liệu cổ được đào từ phế tích, bề ngoài không dính chút bụi bẩn. Người trong đấu giá hội xem nhẹ vì tưởng thần tính đã mất, nhưng Tiểu tháp cho biết nó có thể giúp Tiểu tháp thêm nửa lần xuất thủ.",
+    "detail": "Vật này được đưa ra sau biến cố Bất Diệt Kim Thân tại Phòng đấu giá Cốt Cổ. Dù giá trị bị đánh thấp, Thạch Hạo mua được sau khi nghe Tiểu tháp chỉ điểm; công dụng được nêu trực tiếp là có thể đổi lấy nửa lần xuất thủ của Tiểu tháp.",
+    "nguon": [
+     "@c0285"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nhan-cau-trung-dong-gia",
+    "name": "Nhãn cầu Trùng Đồng giả",
+    "cn": "",
+    "aliases": [
+     "Hạt châu dính vết máu đen",
+     "Trùng Đồng nhãn cầu Thượng Cổ",
+     "Trùng Đồng"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Thần vật",
+    "phamCap": "thần nhân chí tôn Thượng Cổ",
+    "soHuu": [],
+    "trangThai": "đang được tranh đoạt tại Phòng đấu giá Cốt Cổ",
+    "blurb": "Nhãn cầu Trùng Đồng giả xuất hiện dưới dạng hạt châu lớn như nắm đấm, có vết nứt và dính máu đen. Hai nữ tử từng giám định rồi bỏ qua, nhưng Tiểu tháp nhận ra bên trong là con mắt có nguồn gốc từ một vị Trùng Đồng giả.",
+    "detail": "Món này xuất hiện ở cuối đấu giá hội, bị đánh giá là đã hỏng vì vết máu đen và vết nứt trên bề mặt. Tiểu tháp lại chỉ ra ma huyết chỉ như vết sẹo, còn bên trong là con mắt từ thần nhân chí tôn Thượng Cổ, liên hệ trực tiếp tới Trùng Đồng, khiến Thạch Hạo quyết định toàn lực tranh đoạt.",
+    "nguon": [
+     "@c0285"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thach-chau",
+    "name": "Thạch châu",
+    "cn": "",
+    "aliases": [
+     "Quả cầu đá"
+    ],
+    "category": "khac",
+    "categoryLabel": "Vật chứa",
+    "phamCap": "thần bí",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "trangThai": "đã bị bóc mở",
+    "blurb": "Viên đá nặng âm u bọc máu Thần Ma khô, che giấu Trùng Đồng Thượng Cổ bên trong.",
+    "detail": "Thạch châu cực kỳ cứng rắn, bên ngoài có vết máu Thần Ma đã khô và mất linh tính. Khi bị Thạch Hạo dùng kiếm gãy chém bóc từng lớp, bên trong lộ mũi tên đồng đen mục nát và cuối cùng là Trùng Đồng còn sinh cơ.",
+    "nguon": [
+     "@c0286"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mui-ten-dong-den",
+    "name": "Mũi tên đồng đen",
+    "cn": "",
+    "aliases": [],
+    "category": "than-khi",
+    "categoryLabel": "Thần khí cổ",
+    "phamCap": "Thần linh pháp khí đã hủy",
+    "soHuu": [],
+    "trangThai": "mục nát",
+    "blurb": "Mũi tên cổ nằm trong thạch châu, từng là thần khí nhưng đã bị hủy hoại.",
+    "detail": "Mũi tên đồng đen suýt đâm vào trung tâm thạch châu, năm xưa là pháp khí thần linh. Nó không thể thương tổn Trùng Đồng Thượng Cổ, ngược lại bản thân mục nát và bị hủy.",
+    "nguon": [
+     "@c0286"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "mai-rua-huyen-quy",
+    "name": "Mai rùa Huyền Quy",
+    "cn": "",
+    "aliases": [
+     "Khối mai rùa Huyền Quy"
+    ],
+    "category": "khac",
+    "categoryLabel": "Vật phẩm chứa bảo thuật",
+    "phamCap": "bảo vật đấu giá",
+    "soHuu": [
+     "Thạch Hạo"
+    ],
+    "trangThai": "dang-co",
+    "blurb": "Mai rùa Huyền Quy là khối mai rùa ghi lại bảo thuật Huyền Quy mà Thạch Hạo lấy được từ hội đấu giá. Nó liên quan tới một con Huyền Quy Thái Cổ di chủng từng làm loạn ở Tây Cương Thạch Quốc.",
+    "detail": "Khối mai rùa chứa bảo thuật phòng ngự quý hiếm của Huyền Quy, một đời sau của Huyền Vũ với năng lực phòng ngự nổi bật. Thạch Hạo nghiên cứu vật này, sau đó ngồi trên bồ đoàn Côn Bằng để ngộ pháp, tu luyện ra hào quang vàng đất rồi chuyển đen, phù văn như sóng và cảnh tượng tựa Huyền Vũ sống lại.",
+    "nguon": [
+     "@c0287"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chien-xa-tam-hung-thu",
+    "name": "Chiến xa tám hung thú",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Bảo xa",
+    "phamCap": "khong-ro",
+    "soHuu": [
+     "Thiếu niên chủ nhân chiến xa",
+     "Thạch Hạo"
+    ],
+    "trangThai": "bị Thạch Hạo chiếm",
+    "blurb": "Chiến xa tám hung thú là bảo xa của một thiếu niên quý tộc tại Hoàng Đô. Xe do tám hung thú kéo, lao tới ép Thạch Hạo rồi trở thành chiến lợi phẩm của hắn.",
+    "detail": "Bảo xa xuất hiện trên đường tới Thanh Lâm viên, phu xe dùng nó để áp sát và hạch hỏi Thạch Hạo về Thiên Hồ tiên tử. Sau khi phu xe và nhóm thiếu niên bị đánh bại, Thạch Hạo tuyên bố chiếc xe thuộc về mình và nghênh ngang rời đi.",
+    "nguon": [
+     "@c0288"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bao-xa-vuong-hau-quy-toc",
+    "name": "Bảo xa vương hầu quý tộc",
+    "cn": "",
+    "aliases": [
+     "Thanh đồng xa",
+     "Chiến xa hoàng kim",
+     "Chiến xa màu bạc"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Bảo xa",
+    "phamCap": "khong-ro",
+    "soHuu": [
+     "Vương hầu quý tộc Hoàng Đô"
+    ],
+    "trangThai": "đang lưu hành",
+    "blurb": "Bảo xa vương hầu quý tộc là loại chiến xa xuất hiện dày đặc tại Hoàng Đô trong dịp chúc thọ Nhân Hoàng. Chúng có thể là thanh đồng xa, chiến xa hoàng kim hoặc chiến xa màu bạc, thường do hung thú kéo.",
+    "detail": "Các chiến xa phủ phù văn, tỏa bảo huy, chạy ầm ầm trên đường đá Hoàng Đô và biểu thị thân phận của vương hầu quý tộc. Một vụ va chạm giữa thanh đồng xa và chiến xa bạc của Tử Uy Hầu phủ cho thấy kiểu xung đột công khai giữa các phủ đệ trong không khí lấy võ lập quốc.",
+    "nguon": [
+     "@c0288"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "xe-keo-trong-suot-cua-thien-ho-tien-tu",
+    "name": "Xe kéo trong suốt của Thiên Hồ tiên tử",
+    "cn": "",
+    "category": "phap-bao",
+    "categoryLabel": "Bảo xa",
+    "phamCap": "khong-ro",
+    "soHuu": [
+     "Thiên Hồ tiên tử"
+    ],
+    "trangThai": "đang dùng",
+    "blurb": "Xe kéo trong suốt của Thiên Hồ tiên tử là bảo xa lấp lánh do thụy thú kéo. Xe tạo sương mù mông lung, tôn lên khí chất mê hoặc của nữ tử Thiên Hồ tộc.",
+    "detail": "Thiên Hồ tiên tử và Tiểu Hồ Ly ngồi trên chiếc xe này khi gặp Thạch Hạo trên đường Hoàng Đô. Nàng dừng xe mời Thạch Hạo đi nhờ, nhưng hắn cảm thấy nàng nguy hiểm nên từ chối.",
+    "nguon": [
+     "@c0288"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chien-xa-thanh-dong-cua-lang-van-hau",
+    "name": "Chiến xa thanh đồng của Lăng Vân hầu",
+    "cn": "",
+    "aliases": [
+     "chiến xa thanh đồng"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Chiến xa",
+    "phamCap": "không rõ",
+    "soHuu": [
+     "Thạch Hạo",
+     "Lăng Vân hầu"
+    ],
+    "trangThai": "Thạch Hạo tạm chiếm",
+    "blurb": "Chiến xa thanh đồng của Lăng Vân hầu là cỗ xe cổ được tám hung thú thông linh kéo. Thạch Hạo cướp được nó và lái thẳng vào Thanh Lâm viên.",
+    "detail": "Cỗ chiến xa có dáng cổ điển, khắc núi sông, chim muông, tinh tú và ngư trùng. Tám hung thú kéo xe đều có sát khí chiến trường và từng phản kháng khi đổi chủ, nhưng bị Thạch Hạo dùng Kim Sí Bằng Điểu áp chế.",
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-ma-huyet-xich",
+    "name": "Thần Ma Huyết Xích",
+    "cn": "",
+    "aliases": [
+     "Huyết Xích",
+     "Thước máu"
+    ],
+    "category": "phap-bao",
+    "categoryLabel": "Pháp khí",
+    "phamCap": "pháp khí hung danh từ Thượng Cổ",
+    "soHuu": [
+     "Hỗn Thiên hầu"
+    ],
+    "trangThai": "đang thuộc Hỗn Thiên hầu",
+    "blurb": "Thần Ma Huyết Xích là thanh thước máu của Hỗn Thiên hầu, nổi danh hung lệ từ thời Thượng Cổ. Khi được tung ra bên hồ, nó khiến Chân Chấn phải cả kinh rút tay lại.",
+    "detail": "Pháp khí này xuất hiện trong cuộc đối đầu giữa Hỗn Thiên hầu và Chân Chấn tại lâm viên Hoàng Đô. Hỗn Thiên hầu điều động thước máu đâm lên không trung, khí thế đủ khiến đối thủ ngoài Hoàng Vực nhận ra hung danh Thượng Cổ của nó.",
+    "nguon": [
+     "@c0290"
+    ],
+    "rank": "D"
    }
   ]
  },
  "factions": {
   "updatedAt": "2026-07-04",
-  "count": 149,
+  "count": 168,
   "factions": [
    {
     "id": "thach-thon",
@@ -53914,7 +59646,12 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "detail": "Bộ tộc lớn tới Tiểu Cô Sơn Trấn trên tấm da thú cổ. Thanh niên dẫn đoàn thân mang lôi điện đen, toát tiếng sấm; sai Minh Viễn và Nha Nha ra trấn áp hai cháu yêu của Tử Sơn Hầu và đặt bảo huyết làm cược.",
     "nguon": [
      "@c0030",
-     "@c0049"
+     "@c0049",
+     "@c0283"
+    ],
+    "tabs": {},
+    "aliases": [
+     "Lôi tộc"
     ],
     "rank": "C"
    },
@@ -54320,7 +60057,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Thạch Tộc",
     "cn": "",
     "aliases": [
-     "Thạch gia"
+     "Thạch gia",
+     "Thạch tộc"
     ],
     "type": "clan",
     "typeLabel": "Gia tộc",
@@ -54334,9 +60072,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "blurb": "Tộc của Thạch Hạo và Thạch Nghị, có tổ huấn cấm tàn sát lẫn nhau và chí hướng bước ra tổ địa ngồi ngôi Nhân Hoàng; Chí Tôn Cốt là bí mật tối cao trong tộc.",
     "detail": "Gia tộc lớn nơi Thạch Hạo và Thạch Nghị sinh ra. Tộc có tổ huấn cấm nội bộ tàn sát lẫn nhau, buộc phải đoàn kết đối ngoại để có ngày bước ra tổ địa, đánh chiếm bờ cõi, cai trị hàng tỉ con dân và ngồi vào ngôi Nhân Hoàng. Trong tộc có hai vị lão chủ sự bối phận cực cao là Tứ Thái Gia và Lão Ngũ, thực lực cực mạnh, thường ẩn tu trong cổ động tham ngộ diệu lý, ít khi lộ diện. Tộc chia thành các “chi”: thiếu phụ (mẹ Thạch Nghị) thuộc chi của Lão Ngũ, còn Thạch Hạo thuộc chi của Tử Lăng. Chí Tôn Cốt bẩm sinh trong người Thạch Hạo được xếp vào hàng tuyệt mật, chỉ vài người trong tộc biết, và được xem là bí mật tối cao — điều đã dẫn tới việc thiếu phụ moi cốt cấy sang con ruột, châm ngòi cho mâu thuẫn nội bộ giữa hai chi.",
     "nguon": [
-     "@c0057"
+     "@c0057",
+     "@c0267"
     ],
-    "rank": "D"
+    "tabs": {},
+    "rank": "C"
    },
    {
     "id": "nhanh-thach-nghi",
@@ -54550,7 +60290,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "id": "thach-quoc",
     "name": "Thạch Quốc",
     "aliases": [
-     "Cổ quốc"
+     "Cổ quốc",
+     "Thạch quốc"
     ],
     "type": "quoc-gia",
     "typeLabel": "Quốc gia",
@@ -54561,9 +60302,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "blurb": "Cổ quốc rộng lớn thống ngự ngàn tỉ dặm, cực thịnh nhờ Nhân Hoàng phù văn thông thiên; Xung Vân trấn là trọng trấn biên thùy phía tây.",
     "detail": "Thạch quốc được xác nhận là đích đến ngoài Đại Hoang của Thạch Hạo; uy danh Nhân Hoàng khiến không thế lực nào dám phản mấy trăm năm.",
     "nguon": [
-     "@c0072"
+     "@c0072",
+     "@c0277"
     ],
-    "rank": "D"
+    "tabs": {},
+    "rank": "C"
    },
    {
     "id": "vu-vuong-phu",
@@ -56138,7 +61881,339 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "blurb": "Ma Linh Hồ là một thế lực có Tôn Giả xuất hiện ngoài vùng biển cấm trong biến cố tranh đoạt bảo thuật Côn Bằng.",
     "detail": "Tôn Giả của Ma Linh Hồ cùng các cường giả Nam Vẫn Thần Sơn, Nghi Sơn và những chí cường giả khác chờ bên ngoài vùng biển cấm, không để chân thân tiến vào Côn Bằng Sào mà đợi kết quả từ linh thân hoặc hậu đại.",
     "nguon": [
-     "@c0259"
+     "@c0259",
+     "@c0277"
+    ],
+    "rank": "C"
+   },
+   {
+    "id": "cac-the-luc-tranh-doat-bao-cot",
+    "name": "Các thế lực tranh đoạt bảo cốt",
+    "cn": "",
+    "type": "lien-minh",
+    "typeLabel": "Nhóm thế lực",
+    "diaBan": "Khu tế đàn tranh đoạt bảo cốt",
+    "nhanVatChinh": [],
+    "blurb": "Nhiều phương thế lực lớn cùng Tôn Giả tập trung tại khu tế đàn, tranh giành sáu mảnh bảo cốt Côn Bằng.",
+    "detail": "Sau khi bảo cốt Côn Bằng thất lạc và bị chia thành sáu mảnh, các thế lực lớn cùng nhiều Tôn Giả tập trung tại khu tế đàn để tranh đoạt. Ai đoạt được bảo cốt hoặc lĩnh ngộ bảo thuật Côn Bằng đều trở thành mục tiêu sống của những phương còn lại, biến cuộc tranh đoạt thành cục diện vây giết lẫn nhau.",
+    "nguon": [
+     "@c0261"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bo-toc-hoa-viem-ngu",
+    "name": "Bộ tộc Hỏa Viêm Ngư",
+    "cn": "",
+    "aliases": [
+     "Hỏa Viên Ngư"
+    ],
+    "type": "tribe",
+    "typeLabel": "Bộ tộc Hải tộc",
+    "diaBan": "Cấm Kỵ Hải",
+    "nhanVatChinh": [],
+    "blurb": "Bộ tộc Hải tộc hơn mười mấy vạn con Hỏa Viêm Ngư, đoạt được một miếng bảo cốt Côn Bằng trong đại chiến trên tế đàn.",
+    "detail": "Bộ tộc Hỏa Viêm Ngư quy tụ hơn mười mấy vạn con, rời khỏi đầm nước mà không bị ảnh hưởng, dùng đuôi chạm đất phát hỏa phối hợp tác chiến. Trong cuộc đại chiến trên tế đàn tại Cấm Kỵ Hải tranh cướp truyền thừa Côn Bằng, bộ tộc này đoạt được một trong sáu miếng bảo cốt Côn Bằng, trở thành một trong những thế lực chia cắt được truyền thừa chí cao.",
+    "nguon": [
+     "@c0262"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nhat-mach-hai-than",
+    "name": "Nhất mạch Hải Thần",
+    "cn": "",
+    "aliases": [
+     "Hải Thần Đảo"
+    ],
+    "type": "lineage",
+    "typeLabel": "Mạch truyền thừa Hải tộc",
+    "diaBan": "Hải Thần Đảo / Cấm Kỵ Hải",
+    "nhanVatChinh": [
+     "Mạc Thương"
+    ],
+    "blurb": "Mạch truyền thừa của Hải Thần, có Mạc Thương là hậu nhân; tham chiến trên tế đàn và thu hoạch được bảo cốt Côn Bằng.",
+    "detail": "Nhất mạch Hải Thần là dòng truyền thừa của Hải Thần, có Mạc Thương làm hậu nhân đại diện tham chiến trên tế đàn tại Cấm Kỵ Hải. Trong đại chiến tranh đoạt bảo cốt Côn Bằng, phù văn của mạch này bị thiêu đốt, Mạc Thương trọng thương gần chết phải ném đi một miếng bảo cốt để tránh thoát; song Hải Thần Đảo cũng có thu hoạch bảo cốt, trở thành một trong các thế lực chia cắt được truyền thừa.",
+    "nguon": [
+     "@c0262"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-dao-hai-ngoai",
+    "name": "Thần đảo hải ngoại",
+    "cn": "",
+    "type": "the-luc",
+    "typeLabel": "Thế lực hải ngoại",
+    "diaBan": "Bắc Hải và hải ngoại",
+    "nhanVatChinh": [],
+    "blurb": "Nhóm thần đảo ngoài biển bị cuốn vào cuộc tranh đoạt phù cốt Côn Bằng ở Bắc Hải. Sau đại chiến, các Chí Cường giả của họ không chết thì cũng trọng thương.",
+    "detail": "Khi phù cốt Côn Bằng xuất thế, thần đảo hải ngoại cùng nhiều thế lực lớn tham gia vòng xoáy tranh đoạt. Hậu quả là họ chịu tổn thất nặng, nguyên khí đại thương và tạm thời phải lắng xuống.",
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "cac-quoc-gia-nhan-toc-hoang-vuc",
+    "name": "Các quốc gia Nhân Tộc Hoang Vực",
+    "cn": "",
+    "type": "quoc-gia",
+    "typeLabel": "Các quốc gia Nhân Tộc",
+    "diaBan": "Hoang Vực",
+    "nhanVatChinh": [],
+    "blurb": "Những quốc gia Nhân Tộc tại Hoang Vực được nhắc trong cục diện sau đại chiến Bắc Hải. Do lần này điều động nhân mã không nhiều, họ bước vào một giai đoạn tương đối ôn hòa.",
+    "detail": "Sau trận tranh đoạt phù cốt Côn Bằng, tổn thất lớn nhất thuộc về các thế lực thế ngoại như Thần Sơn và thần đảo. Các quốc gia Nhân Tộc ở Hoang Vực nhờ tham dự hạn chế nên có thời gian yên lặng hiếm thấy.",
+    "nguon": [
+     "@c0263"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "chien-vuong-phu",
+    "name": "Chiến Vương phủ",
+    "cn": "",
+    "type": "the-luc",
+    "typeLabel": "Phủ đệ vương hầu",
+    "diaBan": "Hoàng Đô",
+    "nhanVatChinh": [
+     "Tiểu Lục tử"
+    ],
+    "blurb": "Phủ đệ vương hầu ở Hoàng Đô, nơi Tiểu Lục tử — ứng cử viên Vương hầu Thạch Quốc — xuất thân.",
+    "detail": "Một phủ đệ vương hầu tọa lạc tại Hoàng Đô của Thạch Quốc. Tiểu Lục tử xuất thân từ đây, gần ba mươi tuổi, là ứng cử viên Vương hầu Thạch Quốc và biết Thập Ngũ gia khi còn bé.",
+    "nguon": [
+     "@c0265"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nhat-mach-thach-nghi",
+    "name": "Nhất mạch Thạch Nghị",
+    "aliases": [],
+    "type": "phe-phai",
+    "typeLabel": "Phe phái trong tộc",
+    "diaBan": "Võ Vương phủ, Hoàng Đô",
+    "nhanVatChinh": [
+     "Thạch Nghị"
+    ],
+    "blurb": "Mạch tộc của Thạch Nghị, bị Thập Ngũ gia trấn áp bằng Kim Sí Đại Bàng.",
+    "detail": "Nhất mạch của Thạch Nghị bị Đại Ma Thần dùng Kim Sí Đại Bàng đè ép, ông cố Thạch Nghị bị phế tu vi.",
+    "nguon": [
+     "@c0267"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "to-chuc-bi-an-cua-ho-ly-tinh-ao-trang",
+    "name": "Tổ chức bí ẩn của Hồ Ly Tinh áo trắng",
+    "cn": "",
+    "type": "the-luc",
+    "typeLabel": "Thế lực bí ẩn",
+    "diaBan": "Hoàng Đô Thạch Quốc",
+    "nhanVatChinh": [
+     "Hồ Ly Tinh áo trắng",
+     "Bà chủ cửa hàng Hồ nữ"
+    ],
+    "blurb": "Thế lực đứng sau Hồ Ly Tinh áo trắng và khu buôn Hồ nữ tại Hoàng Đô Thạch Quốc. Họ đã chuẩn bị trước đại loạn Hoang Vực, muốn tuyển người hùng mạnh để ứng kiếp và dự định đi sứ Nhân Hoàng Thạch Quốc.",
+    "detail": "Bà chủ cửa hàng Hồ nữ nhận định sức mạnh phía sau Hồ Ly Tinh áo trắng rất đáng sợ. Trong điện phủ, Hồ Ly Tinh áo trắng nhắc rằng phía đối phương đã thăm hỏi Nhân Hoàng Thạch Quốc, còn bên mình cũng nên đi sứ, cho thấy thế lực này đang triển khai trước biến cục lớn của Hoang Vực.",
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "ho-toc-cuu-vi-ho-nhat-mach",
+    "name": "Hồ Tộc",
+    "cn": "",
+    "aliases": [
+     "Cửu Vĩ Hồ nhất mạch"
+    ],
+    "type": "toc-mach",
+    "typeLabel": "Tộc mạch",
+    "diaBan": "Không rõ",
+    "nhanVatChinh": [
+     "Hồ Ly Tinh áo trắng"
+    ],
+    "blurb": "Tộc mạch liên quan tới Hồ nữ và Hồ Ly Tinh. Hồ nữ bình thường chỉ còn chút huyết thống Hồ Tộc, còn Hồ Ly Tinh áo trắng được mô tả là hậu nhân Cửu Vĩ Hồ nhất mạch.",
+    "detail": "Trong lời giải thích tại Hoàng Đô, Hồ nữ được phân biệt với Hồ Ly Tinh hóa hình chân chính. Sự xuất hiện của Hồ Ly Tinh áo trắng, người mang đặc trưng đuôi hồ trắng và xuất thân Cửu Vĩ Hồ nhất mạch, cho thấy phía sau khu buôn Hồ nữ có liên hệ với một tộc mạch mạnh mẽ hơn nhiều so với những Hồ nữ bình thường.",
+    "nguon": [
+     "@c0280"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nha-dau-gia-cot-co",
+    "name": "Nhà đấu giá Cốt Cổ",
+    "aliases": [
+     "Cốt Cổ đấu giá hội"
+    ],
+    "type": "co-so-giao-dich",
+    "typeLabel": "Cơ sở giao dịch",
+    "diaBan": "Hoàng Đô Thạch Quốc",
+    "nhanVatChinh": [],
+    "blurb": "Nhà đấu giá lớn ở Hoàng Đô, thường xuất hiện trân phẩm và thu hút vương hầu, thiên tài lui tới.",
+    "detail": "Cơ sở giao dịch có bối cảnh rất lớn tại Hoàng Đô Thạch Quốc, thường xuất hiện trân phẩm và dị bảo. Cổng được hai giao di chủng canh giữ; nhiều vương hầu, thiên tài trẻ, con gái yêu của Tử Tiêu hầu, Thạch Tử Đằng cùng Thạch Hạo đều xuất hiện tại đây.",
+    "nguon": [
+     "@c0281"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "phong-dau-gia-cot-co",
+    "name": "Phòng đấu giá Cốt Cổ",
+    "cn": "",
+    "aliases": [
+     "Cốt Cổ đấu giá hội"
+    ],
+    "type": "thuong-hoi",
+    "typeLabel": "Thương hội đấu giá",
+    "diaBan": "Hoàng Đô Thạch quốc",
+    "nhanVatChinh": [],
+    "blurb": "Nơi tổ chức buổi đấu giá quy cách cao ở Hoàng Đô, có phòng khách quý, chuyên gia giám định và người chủ trì.",
+    "detail": "Phòng đấu giá quy mô lớn ở Hoàng Đô, đại sảnh hoa lệ trưng bày hài cốt Nhai Tí khổng lồ với nguyên thủy phù cốt cung cấp thần lực. Có phòng khách quý, chuyên gia giám định, người chủ trì và khả năng xử lý đặc biệt với vật phẩm quý như Hải Lam tủy. Các đại nhân vật Hoàng Đô tụ tập tại đây; buổi đấu giá mở màn bằng khối Thiên cốt giống Nguyên Thủy Chân Giải.",
+    "nguon": [
+     "@c0282"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hoang-toc-thach-quoc",
+    "name": "Hoàng tộc Thạch quốc",
+    "cn": "",
+    "aliases": [
+     "Vương tộc họ Thạch"
+    ],
+    "type": "hoang-toc",
+    "typeLabel": "Hoàng tộc",
+    "diaBan": "Hoàng Đô Thạch quốc",
+    "nhanVatChinh": [
+     "Nhân Hoàng",
+     "Hỗn Thiên hầu",
+     "Thập lục công chúa"
+    ],
+    "blurb": "Vương tộc họ Thạch cai trị Thạch quốc, có nhiều vương hầu và công chúa; con cháu dòng chính có tư cách tranh đoạt hoàng vị.",
+    "detail": "Được nhắc qua Hỗn Thiên hầu thuộc dòng chính vương tộc họ Thạch, có tư cách tranh đoạt hoàng vị; Thập lục công chúa cũng thuộc hoàng thất và được Nhân Hoàng yêu thích nhất.",
+    "nguon": [
+     "@c0282"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "tay-minh-hau-phu",
+    "name": "Tây Minh hầu phủ",
+    "cn": "",
+    "aliases": [],
+    "type": "vuong-hau",
+    "typeLabel": "Dòng vương hầu",
+    "diaBan": "Hoàng Đô Thạch quốc",
+    "nhanVatChinh": [
+     "Hậu nhân Tây Minh hầu"
+    ],
+    "blurb": "Dòng vương hầu có địa vị cao trong Hoàng Đô, được đại diện bởi Tiểu hầu gia mặc chiến y bạc.",
+    "detail": "Dòng vương hầu địa vị cao trong Hoàng Đô Thạch quốc; hậu nhân là Tiểu hầu gia mặc chiến y bạc nhưng bị Thạch Hạo áp đảo bằng Hải Lam tủy khi tranh phòng khách quý.",
+    "nguon": [
+     "@c0282"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "bo-toc-huyen-quy",
+    "name": "Bộ tộc Huyền Quy",
+    "cn": "",
+    "aliases": [],
+    "type": "di-chung",
+    "typeLabel": "Bộ tộc dị chủng",
+    "diaBan": "Tây Cương",
+    "nhanVatChinh": [],
+    "blurb": "Bộ tộc Huyền Quy sở hữu bảo thuật phòng ngự khắc trên mai rùa. Một con Huyền Quy từng đại náo Tây Cương, làm chết hai vương hầu rồi bị cường giả chém chết.",
+    "detail": "Mai rùa khắc Bảo thuật Huyền Quy được đưa lên đấu giá trong Hoàng Đô. Người bán chỉ muốn đổi lấy phương thuốc tẩy tủy tráng cốt, cuối cùng chọn phương thuốc của Thạch Hạo.",
+    "nguon": [
+     "@c0283"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "nhan-hoang-hoa-quoc",
+    "name": "Nhân Hoàng Hỏa Quốc",
+    "type": "quoc-gia",
+    "typeLabel": "Quốc gia",
+    "diaBan": "",
+    "nhanVatChinh": [
+     "Hỏa Linh Nhi"
+    ],
+    "blurb": "Thế lực được nhắc trong hồi ức, sở hữu da Hư Không Thú làm pháp khí quốc gia.",
+    "detail": "Được nhắc trong hồi ức của Thạch Hạo: sở hữu tấm da Hư Không Thú lớn hơn làm pháp khí quốc gia, Hỏa Linh Nhi từng lấy ra một tấm ở Bách Đoạn Sơn.",
+    "nguon": [
+     "@c0284"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "thien-ho-toc",
+    "name": "Thiên Hồ tộc",
+    "cn": "",
+    "type": "toc",
+    "typeLabel": "Tộc đàn",
+    "diaBan": "không rõ",
+    "nhanVatChinh": [
+     "Thiên Hồ tiên tử"
+    ],
+    "blurb": "Thiên Hồ tộc là thế lực gắn với thiếu nữ có đuôi cáo trắng xuất hiện trong phòng khách quý của Phòng đấu giá Cốt Cổ. Thân phận và thế lực sau lưng nàng khiến một số lão giả vương hầu biến sắc.",
+    "detail": "Tại đấu giá hội, Thiên Hồ tiên tử đại diện cho thế lực phía sau rất lớn, được người ở đây mơ hồ nhận ra và kiêng dè. Chương cũng gợi rằng thế lực này có liên hệ rộng, khiến sự xuất hiện của nàng trở thành điểm đáng chú ý trong cuộc tranh bảo.",
+    "nguon": [
+     "@c0285"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "lang-van-hau-phu",
+    "name": "Lăng Vân hầu phủ",
+    "cn": "",
+    "type": "the-luc",
+    "typeLabel": "Phủ vương hầu",
+    "diaBan": "Hoàng Đô Thạch Quốc",
+    "nhanVatChinh": [
+     "Lăng Vân hầu"
+    ],
+    "blurb": "Lăng Vân hầu phủ là một thế lực vương hầu có chiến xa thanh đồng xuất hiện tại Thanh Lâm viên. Cỗ xe của phủ bị Thạch Hạo chiếm và lái vào đại hội anh kiệt.",
+    "detail": "Chiến xa thanh đồng của Lăng Vân hầu khiến người ở Thanh Lâm viên nhận ra ngay lai lịch, cho thấy phủ này có địa vị trong tầng lớp vương hầu Hoàng Đô. Sự xuất hiện của cỗ xe dưới tay Thạch Hạo khiến thiếu niên mặc Giao Long y vàng nghi ngờ và chất vấn.",
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "than-uy-hau-phu",
+    "name": "Thần Uy hầu phủ",
+    "cn": "",
+    "type": "the-luc",
+    "typeLabel": "Phủ vương hầu",
+    "diaBan": "Hoàng Đô Thạch Quốc",
+    "nhanVatChinh": [
+     "Thần Uy hầu"
+    ],
+    "blurb": "Thần Uy hầu phủ là một phủ vương hầu có chiến xa xuất hiện trong khu đỗ xe Thanh Lâm viên. Xe của phủ được nhắc trong nhóm chiến xa dùng Thái Cổ di chủng trưởng thành kéo.",
+    "detail": "Tại Thanh Lâm viên, một số chiến xa đáng sợ của các vương hầu được đưa đến, trong đó có xe của Chiến Vương và Thần Uy hầu. Việc dùng Thái Cổ di chủng đỉnh cấp trưởng thành kéo xe thể hiện uy thế của chủ nhân.",
+    "nguon": [
+     "@c0289"
+    ],
+    "rank": "D"
+   },
+   {
+    "id": "hon-thien-hau-phu",
+    "name": "Hỗn Thiên hầu phủ",
+    "cn": "",
+    "type": "the-luc",
+    "typeLabel": "Phủ vương hầu",
+    "diaBan": "Thạch Quốc",
+    "nhanVatChinh": [
+     "Hỗn Thiên hầu",
+     "Muội muội của Hỗn Thiên hầu"
+    ],
+    "blurb": "Hỗn Thiên hầu phủ là thế lực gắn với vị Hầu trẻ tuổi trấn thủ biên cương. Hỗn Thiên hầu thuộc dòng chính vương hầu Thạch tộc và nổi danh nhờ chiến công.",
+    "detail": "Hỗn Thiên hầu mới hai mươi lăm tuổi đã được phong Hầu, trấn thủ biên cương và lập công lớn. Tại đại hội Thanh Lâm viên, hắn được nhiều người vây quanh hỏi han chiến sự; muội muội của hắn cũng xuất hiện và được chú ý.",
+    "nguon": [
+     "@c0289"
     ],
     "rank": "D"
    }
