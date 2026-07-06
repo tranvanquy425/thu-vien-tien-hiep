@@ -86,6 +86,7 @@ window.LIB_CONFIG = {
     { id: "doc",        ten: "Đọc truyện" },
     { id: "cot-truyen", ten: "Cốt Truyện" },
     { id: "nhan-vat",   ten: "Nhân Vật" },
+    { id: "the-luc",    ten: "Thế Lực" },
     { id: "map",        ten: "Map" },
     { id: "canh-gioi",  ten: "Cảnh Giới" },
     { id: "phap-bao",   ten: "Pháp Bảo" },
