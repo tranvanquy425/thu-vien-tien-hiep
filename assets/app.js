@@ -903,6 +903,7 @@
   function _ttNeo(ch) { return ch ? '<a class="neo" href="#doc" data-goch="' + _ttSo(ch) + '">' + esc(ch) + '</a>' : ''; }
   function _khoi(tieuDe, noiDung) { return noiDung ? '<div style="margin-top:14px"><div class="chip gold">' + tieuDe + '</div>' + noiDung + '</div>' : ''; }
 
+  // trả INNER html (timeline) — dùng làm 1 TAB riêng. Rỗng → '' (tab sẽ không được thêm).
   function khoiTienTrinh(it, loai) {
     const arr = (it.tabs && Array.isArray(it.tabs.tienTrinh)) ? it.tabs.tienTrinh.slice() : [];
     if (!arr.length) return '';
@@ -917,7 +918,7 @@
         _ttNeo(e.chuong || e.khoang) + '</div><div class="ev-text">' + fmtProse(e.text || "") +
         (chip ? '<div style="margin-top:6px">' + chip + '</div>' : '') + '</div></div>';
     }).join("");
-    return _khoi('Tiến trình (' + arr.length + ' mốc)', '<div class="timeline" style="margin-top:10px">' + rows + '</div>');
+    return '<div class="timeline" style="margin-top:6px">' + rows + '</div>';
   }
   function khoiCongNang(it) {
     const a = Array.isArray(it.congNang) ? it.congNang.filter(Boolean) : [];
@@ -951,8 +952,9 @@
         (moc ? ' <span class="neo rng">' + esc(moc) + '</span>' : '') +
         (chip ? '<div style="margin-top:6px">' + chip + '</div>' : '') + '</div></div>';
     }).join("");
-    return _khoi(tieuDe + ' (' + arr.length + ')', '<div class="timeline" style="margin-top:8px">' + rows + '</div>');
+    return '<div class="timeline" style="margin-top:6px">' + rows + '</div>';   // INNER — 1 TAB riêng
   }
+  const NGUOI_LBL = { artifacts: "Người sở hữu", techniques: "Người tu", factions: "Thành viên" };
   // Quy mô & Sức mạnh — chỉ thế lực (SPEC §3C)
   function khoiQuyMo(it) {
     const rows = [["Đẳng cấp", it.capBac], ["Quy mô", it.quyMo], ["Cao thủ mạnh nhất", it.caoThuManhNhat],
@@ -971,20 +973,43 @@
     }
     return h ? '<div style="margin-bottom:10px">' + h + '</div>' : '';
   }
-  function thanThucThe(it, loai, arrAll, gridRows) {
-    return daiThucThe(it, arrAll) + infoGrid(gridRows) +
-      khoiCongNang(it) + (loai === "techniques" ? khoiCacTang(it) : '') +
-      khoiNguoi(it, loai) + (loai === "factions" ? khoiQuyMo(it) : '') +
-      khoiTienTrinh(it, loai) +
+  // Tabs dùng CHUNG (khớp drawer nhân vật): trả HTML bar+panes; wireDrawerTabs() gắn click sau openDrawer.
+  function drawerTabsHtml(tabsArr) {
+    const bar = '<div class="tabs">' + tabsArr.map((t, i) => '<button data-t="' + i + '"' + (i === 0 ? ' class="active"' : '') + '>' + t[0] + '</button>').join("") + '</div>';
+    const panes = tabsArr.map((t, i) => '<div class="tab-pane' + (i === 0 ? ' active' : '') + '" data-p="' + i + '">' + t[1] + '</div>').join("");
+    return bar + panes;
+  }
+  function wireDrawerTabs() {
+    $("#dBody").querySelectorAll(".tabs button").forEach(b => b.onclick = () => {
+      $("#dBody").querySelectorAll(".tabs button").forEach(x => x.classList.remove("active"));
+      $("#dBody").querySelectorAll(".tab-pane").forEach(x => x.classList.remove("active"));
+      b.classList.add("active"); $("#dBody").querySelector('.tab-pane[data-p="' + b.dataset.t + '"]').classList.add("active");
+    });
+  }
+  // (2026-07-09 V2-Steward — issue #1) Mở thẻ thực thể theo TAB (Tiểu sử / Người sở hữu-tu-thành viên / Tiến trình)
+  //   khớp mockup Chiến duyệt. Tab Người/Tiến trình CHỈ hiện khi có dữ liệu → thẻ cũ (flat) chỉ có tab Tiểu sử.
+  function moThucThe(it, loai, arrAll, gridRows) {
+    const tieuSu = infoGrid(gridRows) +
+      khoiCongNang(it) + (loai === "techniques" ? khoiCacTang(it) : '') + (loai === "factions" ? khoiQuyMo(it) : '') +
       '<div class="prose" style="margin-top:14px">' + fmtProse(it.detail || it.blurb) + '</div>';
+    const nguoiInner = khoiNguoi(it, loai);
+    const ttInner = khoiTienTrinh(it, loai);
+    const tabs = [["Tiểu sử", tieuSu]];
+    if (nguoiInner) tabs.push([NGUOI_LBL[loai] || "Người sở hữu", nguoiInner]);
+    if (ttInner) tabs.push(["Tiến trình", ttInner]);
+    const catLbl = { artifacts: it.categoryLabel || it.category, techniques: it.loaiLabel || it.loai, factions: it.typeLabel || it.type }[loai];
+    const chips = [catLbl, it.phanLoaiPhu, it.phamCap ? ("Phẩm cấp: " + stripNeo(it.phamCap)) : "", it.capBac]
+      .filter(Boolean).map(x => '<span class="chip">' + esc(String(x)) + '</span>').join("");
+    const head = (chips ? '<div class="kv" style="margin-bottom:8px">' + chips + '</div>' : '') + daiThucThe(it, arrAll);
+    openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn), head + drawerTabsHtml(tabs));
+    wireDrawerTabs();
   }
 
   function viewPhapBao() {
     gridView({
       title: "Pháp Bảo", sub: DB.artifacts.length + " mục", items: DB.artifacts,
       getCat: it => it.categoryLabel || it.category,
-      detail: it => openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn),
-        thanThucThe(it, "artifacts", DB.artifacts, [
+      detail: it => (moThucThe(it, "artifacts", DB.artifacts, [
           ["Loại", esc(it.categoryLabel || it.category || "")],
           ["Phân loại phụ", esc(stripNeo(it.phanLoaiPhu || ""))],
           ["Phẩm cấp", esc(stripNeo(it.phamCap || ""))],
@@ -1003,8 +1028,7 @@
     gridView({
       title: "Công Pháp", sub: DB.techniques.length + " mục", items: DB.techniques,
       getCat: it => it.loaiLabel || it.loai,
-      detail: it => openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn),
-        thanThucThe(it, "techniques", DB.techniques, [
+      detail: it => (moThucThe(it, "techniques", DB.techniques, [
           ["Loại", esc(it.loaiLabel || it.loai || "")],
           ["Thuộc tính", esc(stripNeo(it.thuocTinh || ""))],
           ["Phẩm cấp", esc(stripNeo(it.phamCap || ""))],
@@ -1023,8 +1047,7 @@
     gridView({
       title: "Thế Lực", sub: DB.factions.length + " mục", items: DB.factions,
       getCat: it => it.typeLabel || it.type,
-      detail: it => openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn),
-        thanThucThe(it, "factions", DB.factions, [
+      detail: it => (moThucThe(it, "factions", DB.factions, [
           ["Loại", esc(it.typeLabel || it.type || "")],
           ["Địa bàn", esc(stripNeo(it.diaBan || ""))],
           ["Tôn chỉ", esc(stripNeo(it.tonChi || ""))],
