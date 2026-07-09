@@ -889,18 +889,114 @@
     }
     $("#gSearch").oninput = draw; $("#gCat").onchange = draw; draw();
   }
+  /* ===== (2026-07-09 V2-Steward — SPEC thực thể Phase C) Render thẻ Pháp bảo / Công pháp / Thế lực =====
+     Thêm 4 khối: Công năng · Người sở hữu-Người tu-Thành viên · Quy mô & Sức mạnh (thế lực) · Tiến trình.
+     Dùng LẠI class timeline (.ev/.lvl/.chip/.neo) của kinh lịch nhân vật → đồng bộ theme, KHÔNG thêm CSS.
+     Thẻ CŨ (chưa có field mới) → mọi khối trả '' → hiển thị y HỆT trước, không vỡ. */
+  // Nhãn mức RIÊNG từng loại (SPEC §4d): major = "Cột mốc"; normal đổi theo loại; bridge/minor = "Nhắc tới".
+  const TT_LBL = {
+    artifacts:  { major: "Cột mốc", normal: "Xuất hiện", bridge: "Nhắc tới", minor: "Nhắc tới" },
+    techniques: { major: "Cột mốc", normal: "Thi triển", bridge: "Nhắc tới", minor: "Nhắc tới" },
+    factions:   { major: "Cột mốc", normal: "Biến động", bridge: "Nhắc tới", minor: "Nhắc tới" }
+  };
+  const _ttSo = x => parseInt(String(x || "").replace(/[^0-9]/g, ""), 10) || 0;
+  function _ttNeo(ch) { return ch ? '<a class="neo" href="#doc" data-goch="' + _ttSo(ch) + '">' + esc(ch) + '</a>' : ''; }
+  function _khoi(tieuDe, noiDung) { return noiDung ? '<div style="margin-top:14px"><div class="chip gold">' + tieuDe + '</div>' + noiDung + '</div>' : ''; }
+
+  function khoiTienTrinh(it, loai) {
+    const arr = (it.tabs && Array.isArray(it.tabs.tienTrinh)) ? it.tabs.tienTrinh.slice() : [];
+    if (!arr.length) return '';
+    arr.sort((a, b) => _ttSo(a.chuong || a.khoang) - _ttSo(b.chuong || b.khoang));
+    const L = TT_LBL[loai] || TT_LBL.artifacts;
+    const rows = arr.map(e => {
+      const lv = e.importance || "normal";
+      const chip = [e.giaiDoan, e.phamCap, e.trangThaiMoc].filter(Boolean)
+        .map(x => '<span class="chip">' + esc(stripNeo(String(x))) + '</span>').join("");
+      return '<div class="ev ' + esc(lv) + '"><div class="ev-head"><span class="lvl ' + esc(lv) + '">' +
+        esc(L[lv] || L.normal) + '</span>' + (e.loai ? '<b class="ev-tieude">' + esc(e.loai) + '</b>' : '') +
+        _ttNeo(e.chuong || e.khoang) + '</div><div class="ev-text">' + fmtProse(e.text || "") +
+        (chip ? '<div style="margin-top:6px">' + chip + '</div>' : '') + '</div></div>';
+    }).join("");
+    return _khoi('Tiến trình (' + arr.length + ' mốc)', '<div class="timeline" style="margin-top:10px">' + rows + '</div>');
+  }
+  function khoiCongNang(it) {
+    const a = Array.isArray(it.congNang) ? it.congNang.filter(Boolean) : [];
+    let h = '';
+    if (a.length) h += '<div class="timeline" style="margin-top:8px">' + a.map(x =>
+      '<div class="ev normal"><div class="ev-text">' +
+      fmtProse(typeof x === "string" ? x : (x.text || x.tacDung || x.congDung || "")) + '</div></div>').join("") + '</div>';
+    if (it.uyLuc) h += '<div class="prose" style="margin-top:8px"><b>Uy lực:</b> ' + fmtProse(String(it.uyLuc)) + '</div>';
+    if (it.dacDiem) h += '<div class="prose" style="margin-top:6px"><b>Đặc điểm:</b> ' + fmtProse(String(it.dacDiem)) + '</div>';
+    return _khoi('Công năng', h);
+  }
+  // Các tầng/chiêu hé lộ dần (công pháp)
+  function khoiCacTang(it) {
+    const a = Array.isArray(it.cacTang) ? it.cacTang.filter(Boolean) : [];
+    if (!a.length) return '';
+    return _khoi('Các tầng / chiêu', '<div class="timeline" style="margin-top:8px">' + a.map(t =>
+      '<div class="ev normal"><div class="ev-text"><b>' + esc(t.ten || "") + '</b> ' + _ttNeo(t.chuong) +
+      (t.moTa ? '<div style="margin-top:4px">' + fmtProse(String(t.moTa)) + '</div>' : '') + '</div></div>').join("") + '</div>');
+  }
+  function khoiNguoi(it, loai) {
+    const MAP = { artifacts: ["chuSoHuu", "Người sở hữu"], techniques: ["nguoiTu", "Người tu"], factions: ["thanhVien", "Thành viên"] };
+    const kt = MAP[loai] || MAP.artifacts, key = kt[0], tieuDe = kt[1];
+    const arr = (Array.isArray(it[key]) && !it.laBo) ? it[key] : [];
+    if (!arr.length) return '';
+    const rows = arr.map(o => {
+      if (typeof o === "string") return '<div class="ev normal"><div class="ev-text">' + esc(o) + '</div></div>';
+      const chip = [o.chucVu, o.tangDatToi, o.cachCoDuoc, o.trangThai].filter(Boolean)
+        .map(x => '<span class="chip">' + esc(stripNeo(String(x))) + '</span>').join("");
+      const moc = [o.tuChuong ? ('từ ' + o.tuChuong) : '', o.denChuong ? ('đến ' + o.denChuong) : ''].filter(Boolean).join(" → ");
+      return '<div class="ev normal"><div class="ev-text"><b>' + esc(o.ten || "") + '</b>' +
+        (moc ? ' <span class="neo rng">' + esc(moc) + '</span>' : '') +
+        (chip ? '<div style="margin-top:6px">' + chip + '</div>' : '') + '</div></div>';
+    }).join("");
+    return _khoi(tieuDe + ' (' + arr.length + ')', '<div class="timeline" style="margin-top:8px">' + rows + '</div>');
+  }
+  // Quy mô & Sức mạnh — chỉ thế lực (SPEC §3C)
+  function khoiQuyMo(it) {
+    const rows = [["Đẳng cấp", it.capBac], ["Quy mô", it.quyMo], ["Cao thủ mạnh nhất", it.caoThuManhNhat],
+    ["Số cao thủ", it.soCaoThu], ["Trấn phái", it.tranPhai], ["Quan hệ", it.quanHe], ["Phạm vi ảnh hưởng", it.phamViAnhHuong]]
+      .filter(r => r[1]).map(r => [r[0], esc(stripNeo(String(r[1])))]);
+    return rows.length ? _khoi('Quy mô & Sức mạnh', infoGrid(rows)) : '';
+  }
+  // Badge "Cập nhật tới @cXXXX" + dải "Thuộc bộ / Bộ gồm N"
+  function daiThucThe(it, arrAll) {
+    let h = '';
+    if (it.capNhatToi) h += '<span class="chip">Cập nhật tới ' + esc(it.capNhatToi) + '</span> ';
+    if (it.laBo) h += '<span class="chip gold">Bộ gồm ' + (Array.isArray(it.thanhVien) ? it.thanhVien.length : 0) + ' món</span>';
+    else if (it.boCha) {
+      const cha = (arrAll || []).find(x => x.id === it.boCha);
+      h += '<span class="chip gold">Thuộc bộ: ' + esc(cha ? cha.name : it.boCha) + '</span>';
+    }
+    return h ? '<div style="margin-bottom:10px">' + h + '</div>' : '';
+  }
+  function thanThucThe(it, loai, arrAll, gridRows) {
+    return daiThucThe(it, arrAll) + infoGrid(gridRows) +
+      khoiCongNang(it) + (loai === "techniques" ? khoiCacTang(it) : '') +
+      khoiNguoi(it, loai) + (loai === "factions" ? khoiQuyMo(it) : '') +
+      khoiTienTrinh(it, loai) +
+      '<div class="prose" style="margin-top:14px">' + fmtProse(it.detail || it.blurb) + '</div>';
+  }
+
   function viewPhapBao() {
     gridView({
       title: "Pháp Bảo", sub: DB.artifacts.length + " mục", items: DB.artifacts,
       getCat: it => it.categoryLabel || it.category,
       detail: it => openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn),
-        infoGrid([
+        thanThucThe(it, "artifacts", DB.artifacts, [
           ["Loại", esc(it.categoryLabel || it.category || "")],
+          ["Phân loại phụ", esc(stripNeo(it.phanLoaiPhu || ""))],
           ["Phẩm cấp", esc(stripNeo(it.phamCap || ""))],
+          ["Hình dạng", esc(stripNeo(it.hinhDang || ""))],
+          ["Vật liệu", esc(stripNeo(it.vatLieu || ""))],
+          ["Nguồn gốc", esc(stripNeo(it.nguonGoc || ""))],
+          ["Chủ hiện thời", esc(stripNeo(it.chuHienThoi || ""))],
+          ["Tầng ấn", esc(stripNeo(it.tangAn || ""))],
+          ["Khắc chế", esc(stripNeo(it.khacChe || ""))],
           ["Sở hữu", it.soHuu && it.soHuu.length ? esc(it.soHuu.map(ownerName).join(", ")) : ""],
           ["Trạng thái", esc(stripNeo(it.trangThai || "")), true]
-        ]) +
-        '<div class="prose" style="margin-top:14px">' + fmtProse(it.detail || it.blurb) + '</div>')
+        ]))
     });
   }
   function viewCongPhap() {
@@ -908,13 +1004,17 @@
       title: "Công Pháp", sub: DB.techniques.length + " mục", items: DB.techniques,
       getCat: it => it.loaiLabel || it.loai,
       detail: it => openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn),
-        infoGrid([
+        thanThucThe(it, "techniques", DB.techniques, [
           ["Loại", esc(it.loaiLabel || it.loai || "")],
+          ["Thuộc tính", esc(stripNeo(it.thuocTinh || ""))],
           ["Phẩm cấp", esc(stripNeo(it.phamCap || ""))],
           ["Hệ phái", esc(it.hePhai || "")],
-          ["Sở hữu", it.soHuu && it.soHuu.length ? esc(it.soHuu.map(ownerName).join(", ")) : ""]
-        ]) +
-        '<div class="prose" style="margin-top:14px">' + fmtProse(it.detail || it.blurb) + '</div>')
+          ["Nguồn gốc", esc(stripNeo(it.nguonGoc || ""))],
+          ["Điều kiện tu", esc(stripNeo(it.yeuCau || ""))],
+          ["Chiêu tiêu biểu", esc(stripNeo(it.chieuTieuBieu || ""))],
+          ["Sở hữu", it.soHuu && it.soHuu.length ? esc(it.soHuu.map(ownerName).join(", ")) : ""],
+          ["Trạng thái", esc(stripNeo(it.trangThai || "")), true]
+        ]))
     });
   }
 
@@ -924,12 +1024,15 @@
       title: "Thế Lực", sub: DB.factions.length + " mục", items: DB.factions,
       getCat: it => it.typeLabel || it.type,
       detail: it => openDrawer(it.name, (it.aliases && it.aliases.length ? it.aliases.join(", ") : it.cn),
-        infoGrid([
+        thanThucThe(it, "factions", DB.factions, [
           ["Loại", esc(it.typeLabel || it.type || "")],
           ["Địa bàn", esc(stripNeo(it.diaBan || ""))],
+          ["Tôn chỉ", esc(stripNeo(it.tonChi || ""))],
+          ["Nguồn gốc", esc(stripNeo(it.nguonGoc || ""))],
+          ["Lãnh đạo hiện thời", esc(stripNeo(it.lanhDaoHienThoi || ""))],
+          ["Trạng thái", esc(stripNeo(it.trangThai || ""))],
           ["Nhân vật chính", it.nhanVatChinh && it.nhanVatChinh.length ? esc(it.nhanVatChinh.join(", ")) : "", true]
-        ]) +
-        '<div class="prose" style="margin-top:14px">' + fmtProse(it.detail || it.blurb) + '</div>')
+        ]))
     });
   }
 
