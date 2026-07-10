@@ -1,8 +1,8 @@
-/* sync-bump 2026-07-05T17:17:55.406Z build_datajs */
+/* sync-bump 2026-07-10T08:14:43.838Z build_datajs */
 window.LIB_DATA=window.LIB_DATA||{};
 window.LIB_DATA["the-gioi-hoan-my"]={
  "characters": {
-  "updatedAt": "2026-07-05",
+  "updatedAt": "2026-07-10",
   "count": 401,
   "chars": [
    {
@@ -58,55 +58,55 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Khi đội săn chuẩn bị vào núi vì sắp hết thức ăn, Thạch Vân Phong dẫn đầu mấy chục thanh niên cầu khấn trước gốc liễu già, xin Tế Linh bảo hộ săn bắn bình an.; Trong cuộc bàn với các bậc trưởng lão, Thạch Vân Phong nhận định sâu trong Đại Hoang có thể xuất hiện thứ không tầm thường, thu hút các chủng tộc sót lại từ Thái Cổ kéo đến.; Sau bữa sáng, Thạch Vân Phong cùng các bô lão bàn về việc hồng hoang hung thú đêm đêm đi qua, cho rằng sâu trong Đạ…",
+       "text": "Sau bữa sáng, Thạch Vân Phong cùng các bô lão bàn về dấu hiệu nguy hiểm: nhiều đêm có hồng hoang hung thú đi ngang qua, và ông nhận định sâu trong Đại Hoang có thể xuất hiện thứ không tầm thường, thu hút các chủng tộc sót lại từ Thái Cổ kéo đến. Khi đội săn chuẩn bị vào núi vì sắp hết thức ăn, ông dẫn đầu mấy chục thanh niên cầu khấn trước gốc liễu già, xin Tế Linh bảo hộ tộc nhân săn được thịt thú và bình an trở về, hứa đời đời cúng tế phụng dưỡng.",
        "anchor": "đời đời cúng tế phụng dưỡng người",
        "bridge": true,
        "khoang": "@c0001"
       },
       {
-       "text": "Lão kể hồi trẻ từng cùng hơn mười tộc nhân cường đại xông pha thế giới bên ngoài, chỉ hai người đẫm máu trở về và một người sớm chết, chỉ mình lão sống sót; lão giảng về Đại Hoang rộng lớn và các chủng tộc Thái Cổ, tay sờ miếng ngọc cốt kỳ dị trong ngực áo với ánh mắt khác thường.; Sau lễ tiễn đội săn vào núi, Thạch Vân Phong dẫn lũ trẻ về bãi cỏ đầu thôn giảng giải cốt văn — những ký tự hiển hóa bẩm sinh trên xương cốt của chủng tộc mạnh mẽ thờ…",
+       "text": "Lão kể hồi trẻ từng cùng hơn mười tộc nhân cường đại xông pha thế giới bên ngoài, chỉ hai người đẫm máu trở về, một người không lâu sau thì chết và chỉ mình lão sống sót; lão giảng về Đại Hoang rộng lớn, các chủng tộc Thái Cổ, đồng thời sờ miếng ngọc cốt kỳ dị trong ngực áo với ánh mắt khác thường. Sau lễ tiễn đội săn vào núi, Thạch Vân Phong dẫn lũ trẻ về bãi cỏ đầu thôn giảng giải cốt văn là những ký tự hiển hóa bẩm sinh trên xương cốt của một chủng tộc mạnh mẽ thời Thái Cổ, ẩn chứa sức mạnh thần bí khó dò.",
        "anchor": "chỉ có hai người toàn thân đẫm máu trở về, một trong số đó không lâu sau thì chết, chỉ có một mình Thạch Vân Phong sống sót",
        "bridge": true,
        "khoang": "@c0002"
       },
       {
-       "text": "Giải thích Tế Linh là Linh mà bộ tộc cúng tế phụng dưỡng, bảo vệ thôn làng chấn nhiếp hung thú Đại Hoang; tiết lộ đời trước là một hòn đá lạ hấp thu quá nửa tinh huyết vật tế, đời nay là cây liễu già không đụng cống phẩm.; Dẫn già trẻ gái trai Thạch Thôn bước lên đàn tế cầu khấn cây liễu già phù hộ dân làng sau buổi săn bội thu; giải thích Tế Linh quý ở tấm lòng thành, thành kính đối đãi thì người mới phù hộ thôn.; Khi còn là thiếu niên, tận mắt…",
+       "text": "Dẫn già trẻ gái trai Thạch Thôn bước lên đàn tế cầu khấn cây liễu già phù hộ dân làng sau buổi săn bội thu; giải thích Tế Linh là Linh mà bộ tộc cúng tế phụng dưỡng, quý ở tấm lòng thành, bảo vệ thôn làng và chấn nhiếp hung thú Đại Hoang; tiết lộ đời trước là một hòn đá lạ hấp thu quá nửa tinh huyết vật tế, đời nay là cây liễu già không đụng cống phẩm. Khi còn là thiếu niên, tận mắt chứng kiến đêm mưa sấm chớp kinh khủng: cây liễu chọc trời từ tầng mây xuất hiện, tắm trong biển sét, cành liễu hóa xích thần đâm xuyên tầng không, cuối cùng bị chém đứt cháy đen, thu nhỏ rơi xuống cắm rễ ở Thạch Thôn; cùng đêm ấy hòn đá lạ bỏ đi.",
        "anchor": "Tế Linh là Linh mà chúng ta cúng tế và phụng dưỡng, quý ở tấm lòng thành",
        "bridge": true,
        "khoang": "@c0003"
       },
       {
-       "text": "Thạch Vân Phong chủ trì việc tắm thuốc trong hắc đỉnh đặc biệt cho nhóc tỳ. Lão mở hai bình đ���c biệt, dùng cốt văn sáng trong lòng bàn tay vỗ tan con Tỳ Hưu dài bằng bàn tay và đập tan con tê giác hai đầu đỏ rực, cả hai hóa huyết dịch rơi vào đỉnh.; Lão tự tay cầm chùy Tử Kim đập đoạn quý nhất trên sừng voi sừng rồng, thêm xương móng vuốt Tỳ Hưu và sừng đỏ Hỏa Tê mài bột, trộn chân huyết bỏ vào nồi sữa thú cùng thảo dược kỳ dị nấu thành chất s…",
+       "text": "Thạch Vân Phong chủ trì việc tắm thuốc trong hắc đỉnh đặc biệt cho nhóc tỳ. Lão mở hai bình đặc biệt, dùng cốt văn sáng trong lòng bàn tay vỗ tan con Tỳ Hưu dài bằng bàn tay và đập tan con tê giác hai đầu đỏ rực, cả hai hóa huyết dịch rơi vào đỉnh. Sau đó, lão tự tay cầm chùy Tử Kim đập đoạn quý nhất trên sừng voi sừng rồng, thêm xương móng vuốt Tỳ Hưu và sừng đỏ Hỏa Tê mài bột, trộn chân huyết vào nồi sữa thú cùng thảo dược kỳ dị, nấu thành lô bảo dược riêng thơm ngào ngạt cho nhóc tỳ.",
        "anchor": "Một chiếc bình khác phóng ra một con tê giác hai đầu, đỏ rực như lửa",
        "bridge": true,
        "khoang": "@c0004"
       },
       {
-       "text": "Lo khởi điểm Thạch Hạo thấp, Thạch Vân Phong ngày đêm chưng cất dược thảo, dùng cốt văn chưng cất tinh hoa máu mãnh thú thành huyết dược để chuẩn bị tẩy lễ năm tuổi cho Thạch Hạo, mỗi con thú cuối cùng chỉ còn một giọt máu vào bình ngọc.; Tộc trưởng kể năm xưa cùng hơn mười huynh đệ đi xa đến các thế tộc môn đình, đổi máu và mạng đem về ít cốt thư; cuối cùng chỉ mình lão sống sót trở về, mang một thân ám tật, còn ẩn tình chưa kể.; Bàn về khoảng…",
+       "text": "Lo khởi điểm Thạch Hạo thấp, Thạch Vân Phong ngày đêm chưng cất dược thảo, dùng cốt văn chưng cất tinh hoa máu mãnh thú thành huyết dược để chuẩn bị tẩy lễ năm tuổi cho Thạch Hạo; mỗi con thú cuối cùng chỉ còn một giọt máu vào bình ngọc. Tộc trưởng kể năm xưa cùng hơn mười huynh đệ đi xa đến các thế tộc môn đình, đổi máu và mạng đem về ít cốt thư; cuối cùng chỉ mình lão sống sót trở về, mang một thân ám tật, còn ẩn tình chưa kể. Ông cũng bàn về khoảng cách giữa Thạch Thôn và các tộc lớn: Thạch Hạo thiên tư kinh người nhưng khởi điểm thấp, không có chân huyết Thái Cổ, thánh dược hay truyền thừa đầy đủ như trẻ của các thế lực cường đại.",
        "anchor": "mỗi con mãnh thú cuối cùng chỉ rơi ra một giọt chảy vào trong bình ngọc",
        "bridge": true,
        "khoang": "@c0006"
       },
       {
-       "text": "Nghe tin Thanh Lân Ưng làm loạn gần thôn và đám nhóc lâm nguy, tộc trưởng Thạch Vân Phong ra lệnh lấy hai cái Tổ Khí, dẫn nhóm đàn ông cường tráng nhất lên đường cứu, chỉ huy phòng thủ và tế bảo khí.; Hay tin Thanh Lân Ưng làm loạn gần thôn và đám nhóc lâm nguy, tộc trưởng Thạch Vân Phong ra lệnh lấy hai cái Tổ Khí, dẫn nhóm đàn ông cường tráng nhất lên đường cứu; ngoài động lệnh mọi người tụ lại phòng thủ để Thạch Lâm Hổ tế Tổ Khí.; Phát giác T…",
-       "anchor": "Mau đi lấy hai cái Tổ Khí lại đây, chúng ta cùng nhau đi",
+       "text": "Phát giác Thanh Lân Ưng làm loạn gần Thạch Thôn và đám nhóc lâm nguy, tộc trưởng Thạch Vân Phong quyết đoán ra lệnh lấy hai cái Tổ Khí, dẫn nhóm đàn ông cường tráng nhất lên đường cứu viện; ngoài thạch động, ông chỉ huy mọi người tụ lại phòng thủ để Thạch Lâm Hổ tế Tổ Khí.",
+       "anchor": "Mau đi lấy hai cái Tổ Khí lại đây, chúng ta cùng nhau đi!",
        "bridge": true,
        "khoang": "@c0009"
       },
       {
-       "text": "Kể cho lũ trẻ về đại chiến hai năm trước khi sơn bảo sâu trong dãy núi thu hút chủng tộc Thái Cổ, lửa đỏ thiêu vỡ bầu trời cháy suốt mấy chục ngày, nghi có Hỏa Thú/Thần Tước.; Ra lệnh tế hai Tổ Khí rồi thừa cơ dẫn đoàn rút về thôn, lý do là cốt văn của Lâm Hổ và Phi Giao chưa đủ tinh thâm để phát huy uy lực thật của tổ khí; bản thân lão tự nhận có ám tật không hợp chiến đấu.; Tộc trưởng Thạch Vân Phong lệnh tế hai Tổ Khí rồi thừa cơ chỉ huy dân…",
+       "text": "Ra lệnh tế hai Tổ Khí để đối kháng Thanh Lân Ưng, sau đó thừa cơ chỉ huy dân làng rút về thôn vì cốt văn của Lâm Hổ và Phi Giao chưa đủ tinh thâm để phát huy uy lực thật của tổ khí; bản thân lão tự nhận có ám tật không hợp chiến đấu. Về thôn, lão kể cho lũ trẻ về đại chiến hai năm trước khi sơn bảo sâu trong dãy núi thu hút chủng tộc Thái Cổ, lửa đỏ thiêu vỡ bầu trời cháy suốt mấy chục ngày, nghi có Hỏa Thú/Thần Tước.",
        "anchor": "đứng ở thôn ta cũng lờ mờ trông thấy lửa cháy không ngừng suốt mấy chục ngày liền",
        "bridge": true,
        "khoang": "@c0010"
       },
       {
-       "text": "Sau khi cành liễu già phất qua, một quả trứng tỏa hào quang và nổi lên vô số ký hiệu phức tạp. Thạch Vân Phong nhận định Sinh mệnh lạc ấn truyền thừa từ Thái Cổ Ma Cầm đã hồi phục, quả trứng xảy ra phản tổ, huyết mạch cao quý hơn cả bố mẹ, nếu nở sẽ vượt xa Thanh Lân Ưng.; Nhận định quả trứng bị cành liễu già phất qua đã xảy ra hiện tượng phản tổ, Sinh mệnh lạc ấn truyền thừa từ Thái Cổ Ma Cầm hồi phục, huyết mạch cao quý hơn cả bố mẹ; khẳng địn…",
+       "text": "Sau khi cành liễu già phất qua, một quả trứng tỏa hào quang và nổi lên vô số ký hiệu phức tạp. Thạch Vân Phong nhận định Sinh mệnh lạc ấn truyền thừa từ Thái Cổ Ma Cầm đã hồi phục, quả trứng xảy ra hiện tượng phản tổ, huyết mạch cao quý hơn cả bố mẹ; nếu nở ra, nó khẳng định sẽ vượt xa Thanh Lân Ưng.",
        "anchor": "Quả trứng này nếu nở ra khẳng định sẽ vượt xa Thanh Lân Ưng!",
        "bridge": true,
        "khoang": "@c0011"
       },
       {
-       "text": "Kích động khen Thạch Hạo thiên tư kinh người, dặn phù văn nguyên thủy là “Bí Cốt Bảo Thư” đừng tùy tiện thi triển, nói nó đã có thể phân cao thấp với đám Lâm Hổ.; Tộc trưởng kinh động khi Thạch Hạo thi triển bảo phù, xác nhận phù văn đó có thể xưng Bí Cốt Bảo Thư và dặn không đến lúc mấu chốt đừng tùy tiện thi triển.; Tộc trưởng cho Thạch Hạo ở cạnh ba chim non để nghiên cứu, kích động khen thiên tư kinh người, nhưng nhắc nhở Bí Cốt Bảo Thư cực…",
+       "text": "Tộc trưởng Thạch Vân Phong cho Thạch Hạo ở cạnh ba chim non để nghiên cứu; khi thấy cậu thi triển bảo phù, ông kích động khen thiên tư kinh người, xác nhận phù văn nguyên thủy ấy có thể xưng là “Bí Cốt Bảo Thư”, dặn không đến lúc mấu chốt thì đừng tùy tiện thi triển, rồi nói Thạch Hạo đã đủ sức phân cao thấp với đám Lâm Hổ.",
        "anchor": "Phù văn nguyên thủy mà cháu vừa sử dụng tuyệt đối có thể xưng là",
        "bridge": true,
        "khoang": "@c0012"
@@ -118,7 +118,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0013"
       },
       {
-       "text": "Được người bẩm báo con Toan Nghê kinh khủng ở sâu trong dãy núi sắp chết già, đang rít gào giãy dụa; nếu rút được chân huyết và khắc Nguyên Thủy Bảo Phù trên bộ xương thì chẳng khác nào mở một kho báu động trời.; Tộc trưởng nhận bẩm báo về con Toan Nghê Thái Cổ Di Chủng sắp chết già rít gào trong núi, cân nhắc việc rút chân huyết và khắc Nguyên Thủy Bảo Phù trên bộ xương như mở kho báu động trời.; Được người trong tộc bẩm báo con Toan Nghê kinh…",
+       "text": "Được người bẩm báo con Toan Nghê kinh khủng ở sâu trong dãy núi sắp chết già, đang rít gào giãy dụa; nếu rút được chân huyết và khắc Nguyên Thủy Bảo Phù trên bộ xương thì chẳng khác nào mở một kho báu động trời.",
        "anchor": "con Toan Nghê kinh khủng ở sâu trong dãy núi",
        "bridge": true,
        "khoang": "@c0016"
@@ -130,7 +130,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0017"
       },
       {
-       "text": "Trên đường vào tranh di thể Toan Nghê, tộc trưởng bỗng kinh hãi cảm nhận luồng khí tức nguy hiểm của Hồng Hoang Cự Thú đang rình mò khu vực. Ông lệnh tộc nhân lập tức rút lui, không tiếp cận núi đá sụp đổ, khẳng định mạng người quan trọng hơn cả bảo vật — nhờ vậy Thạch Thôn thoát nạn quần thú bạo động.; Tộc trưởng cảm nhận luồng khí tức nguy hiểm của Hồng Hoang Cự Thú rình mò khu vực, lệnh tộc nhân rút lui không tranh trước di thể Toan Nghê, khẳ…",
+       "text": "Trên đường vào tranh di thể Toan Nghê, tộc trưởng Thạch Vân Phong bỗng kinh hãi cảm nhận luồng khí tức nguy hiểm của Hồng Hoang Cự Thú đang rình mò khu vực. Ông lệnh tộc nhân lập tức rút lui, không tiếp cận núi đá sụp đổ, khẳng định mạng người quan trọng hơn cả bảo vật; nhờ vậy Thạch Thôn thoát nạn quần thú bạo động.",
        "anchor": "Ông ấy cảm giác được một luồng khí tức nguy hiểm",
        "bridge": true,
        "khoang": "@c0018"
@@ -154,14 +154,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0023"
       },
       {
-       "text": "Thạch Vân Phong rắc thuốc giải độc cứu Thanh Lân Ưng, nhắc nhóc tỳ về nguồn gốc Bảo cụ do Tế linh ban; khi sinh vật kinh khủng của Bái thôn tới gần, ông gọi Lâm Hổ và Phi Giao chuẩn bị giết Tế linh.; Giải độc cho Thanh Lân Ưng, nhắc nhở nhóc tỳ về Bảo cụ (do Tế linh ban, còn Tế linh sống thì không cần Cốt văn cũng dùng được); khi sinh vật kinh khủng tới gần, gọi Lâm Hổ và Phi Giao chuẩn bị giết Tế linh nếu nó dám xuất hiện.; Giải độc cho Thanh L…",
+       "text": "Thạch Vân Phong rắc thuốc giải độc cứu Thanh Lân Ưng, giải thích Bảo cụ do Tế linh ban nên khi Tế linh còn sống thì người được ban không cần Cốt văn cũng dùng được; khi Tế linh Bái thôn sắp xuất hiện, ông gọi Lâm Hổ và Phi Giao chuẩn bị giết nó nếu dám tới.",
        "anchor": "Con mẹ nó, Tế linh Bái thôn dám xuất hiện thì chúng ta giết nó!!!",
        "bridge": true,
        "khoang": "@c0024"
       },
       {
-       "text": "Dùng hết các loại thuốc nhuyễn và lấy máu tươi từ sừng đỏ dị chủng Thái cổ cho Thanh Lân Ưng ăn để chữa thương.; Trổ hết thủ đoạn dùng thuốc nhuyễn và móc máu tươi từ sừng đỏ dị chủng Thái cổ cho Thanh Lân Ưng ăn để chữa thương; dùng mưu lừa Tế linh, ra lệnh dùng Tổ khí phá vây và toan giết sạch người Bái thôn để giữ bí mật Tổ khí.; Lạnh lùng tính kế giết sạch người Bái thôn từng thấy Tổ khí để giữ bí mật; đồng thời ra lệnh dùng Tổ khí phá vây k…",
-       "anchor": "trổ hết thủ đoạn dùng hết các loại thuốc nhuyễn hàng ngày chế được, lại càng lấy một cái sừng đỏ chót như ngọc của dị chủng Thái cổ móc ra một ít máu tươi cho hung cầm ăn.",
+       "text": "Trổ hết thủ đoạn dùng thuốc nhuyễn và móc máu tươi từ sừng đỏ dị chủng Thái cổ cho Thanh Lân Ưng ăn để chữa thương; dùng mưu lừa Tế linh, ra lệnh dùng Tổ khí phá vây và tính giết sạch người Bái thôn đã thấy Tổ khí để giữ bí mật.",
+       "anchor": "trổ hết thủ đoạn dùng hết các loại thuốc nhuyễn hàng ngày chế được, lại càng lấy một cái sừng đỏ chót như ngọc của dị chủng Thái cổ móc ra một ít máu tươi cho hung cầm ăn.; sau đó nghĩ cách giết sạch người Bái thôn thấy Tổ khí, đã bọn chúng bất nhân bức chúng ta đến mức này thì đừng trách chúng ta bất nghĩa.",
        "bridge": true,
        "khoang": "@c0025"
       },
@@ -178,19 +178,19 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0028"
       },
       {
-       "text": "Ngâm câu cổ về Thời đại Thái cổ, giảng cho Thạch Hạo nguồn gốc Phù văn nguyên thủy, tiên dân Thượng cổ, hung thú Thái cổ và sự yếu kém của Nhân tộc. Cuối buổi lão sờ khối xương trắng trước ngực rồi thân run rẩy một cơn, hé lộ ám thương cổ quái năm xưa cần Thiên địa bảo dược truyền thuyết mới chữa khỏi.; Giảng cho Thạch Hạo về Thời đại Thái cổ, nguồn gốc Cốt văn từ di cốt sinh vật chí cường, lịch sử Tiên dân khai phá phù văn; truyền mấy bộ Cốt th…",
+       "text": "Ngâm câu cổ về Thời đại Thái cổ, giảng cho Thạch Hạo nguồn gốc Phù văn nguyên thủy, tiên dân Thượng cổ, hung thú Thái cổ và sự yếu kém của Nhân tộc; đồng thời truyền dạy Cốt văn, nhắc giới hạn tu hành và khuyên Thạch Hạo sau này mạnh lên phải đi xa xem thế giới bên ngoài. Lão cũng mang ám thương cổ quái năm xưa, cần Thiên địa bảo dược truyền thuyết mới có thể chữa khỏi; cuối chương sờ khối xương trắng trước ngực rồi thân thể bỗng run rẩy một cơn.",
        "anchor": "thân thể bỗng run rẩy một cơn",
        "bridge": true,
        "khoang": "@c0029"
       },
       {
-       "text": "Dù Thạch Hạo chưa đủ năm tuổi, tộc trưởng vẫn quyết dùng bảo thể Toan Nghê, sừng Ly Hỏa Ngưu Ma và tay Ác Ma Viên Vương tẩy lễ cho nó ngay hôm nay, mong nó không kém các thiên tài của những bộ tộc lớn.; Tộc trưởng Thạch Thôn quyết định dùng bảo thể Toan Nghê, sừng Ly Hỏa Ngưu Ma và tay Ác Ma Viên Vương tẩy lễ cho Thạch Hạo ngay trong hôm nay, dù nó chưa đủ năm tuổi, để không kém thiên tài các bộ tộc lớn.; Nhận thấy Thạch Hạo đã dung nhập Cốt Văn…",
+       "text": "Nhận thấy Thạch Hạo chỉ mất nửa tháng đã tu hành xong, dung nhập Cốt Văn vào máu thịt, tộc trưởng Thạch Vân Phong quyết định dùng bảo thể Toan Nghê, sừng Ly Hỏa Ngưu Ma và tay Ác Ma Viên Vương tẩy lễ cho nó ngay trong hôm nay, dù nó chưa đủ năm tuổi, để không kém các thiên tài của những bộ tộc lớn.",
        "anchor": "Tiến hành ngay trong hôm nay đi!",
        "bridge": true,
        "khoang": "@c0030"
       },
       {
-       "text": "Khi phát hiện ấn ký Bảo Thuật chí cường còn lưu trên xương trán Toan Nghê, Thạch Vân Phong kích động và hạ lệnh giữ bí mật tuyệt đối để tránh nguy cơ với các tộc lớn.; Đích thân chủ trì tẩy lễ cho Thạch Hạo: ném cổ dược, đập độc trùng thành phụ dược, dùng đao ngọc đào tim chí bảo Toan Nghê đặt vào đỉnh và đổ bảo huyết thay nước suối.; Thạch Vân Phong tự tay chủ trì tẩy lễ: đứng trước đỉnh đen tổ truyền ném cổ dược, đập vỡ đầu các độc trùng thành…",
+       "text": "Đích thân chủ trì tẩy lễ cho Thạch Hạo: đứng trước đỉnh đen tổ truyền ném cổ dược vào nước sôi, đập vỡ đầu các độc trùng thành phụ dược, dùng đao ngọc đào tim chí bảo Toan Nghê đặt vào đỉnh và đổ bảo huyết thay nước suối. Khi phát hiện ấn ký Bảo Thuật chí cường còn lưu trên xương trán Toan Nghê, Thạch Vân Phong kích động và hạ lệnh giữ bí mật tuyệt đối để tránh nguy cơ với các tộc lớn.",
        "anchor": "Tộc trưởng, trên mảnh xương này có ký hiệu, có chảy một loại sức mạnh thần bí!",
        "bridge": true,
        "khoang": "@c0031"
@@ -208,43 +208,43 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0033"
       },
       {
-       "text": "Xuất quan trước hạn sau khi Liễu Thần thi triển đại pháp cứu cả thôn thoát Đại Hoang, trấn an thôn dân đã tích đủ lương thực sống qua mấy tháng; khi thôn thoát không gian kỳ lạ tới vùng đất mới, ông nhận biết Long Tu Ngư và Ngũ Sắc Kê quý giá nên dặn không được bắt giết tùy tiện; biến sắc khi nghe nhóc tỳ nhắc ký ức lạ và hỏi cha mẹ.; Sau khi Liễu Thần thi triển vô thượng đại pháp cứu thôn khỏi thú triều, Thạch Vân Phong xuất quan trước hạn trấn…",
+       "text": "Xuất quan trước hạn sau khi Liễu Thần thi triển vô thượng đại pháp cứu cả thôn thoát tai họa, trấn an thôn dân rằng lương thực đã đủ sống qua mấy tháng; khi thôn thoát không gian kỳ lạ tới vùng đất mới, ông nhận biết Long Tu Ngư và Ngũ Sắc Kê quý giá nên dặn không được bắt giết tùy tiện; biến sắc khi nghe nhóc tỳ nhắc ký ức lạ và hỏi cha mẹ.",
        "anchor": "Liễu Thần thi triển vô thượng đại pháp, để chúng ta tránh được một tai họa lớn.",
        "bridge": true,
        "khoang": "@c0050"
       },
       {
-       "text": "Tiết lộ Thạch Thôn có lai lịch từ thời Thượng Cổ, là tổ địa của một bộ tộc cổ quốc hùng mạnh nhưng truyền thừa đã đứt đoạn; kể chuyện đôi vợ chồng trẻ từ cổ quốc mang nhóc tỳ tìm về, rồi trịnh trọng dặn cất kỹ chiếc lông đỏ tín vật của tước đỏ.; Kể cho nhóc tỳ nghe Thạch Thôn là tổ địa của một bộ tộc cổ quốc hùng mạnh từ thời Thượng Cổ, truyền thừa đã đứt đoạn; kể chuyện đôi vợ chồng trẻ từ cổ quốc mang nhóc tỳ tìm về tổ địa.; Lo lắng cho nhóc t…",
+       "text": "Tiết lộ Thạch Thôn có lai lịch từ thời Thượng Cổ, là tổ địa của một bộ tộc cổ quốc hùng mạnh nhưng truyền thừa đã đứt đoạn; kể chuyện đôi vợ chồng trẻ từ cổ quốc mang nhóc tỳ khi cơ thể thoái hóa nghiêm trọng tìm về tổ địa, rồi trịnh trọng dặn cất kỹ chiếc lông đỏ tín vật của tước đỏ.",
        "anchor": "Bọn họ tới từ một cổ quốc, nói Thạch Thôn là tổ địa của bộ tộc bọn họ",
        "bridge": true,
        "khoang": "@c0051"
       },
       {
-       "text": "Lão tộc trưởng kể lại năm xưa cha mẹ Thạch Hạo chăm nó ở thôn mấy tháng rồi rời đi tìm Thánh dược trị tận gốc bệnh, không nỡ bỏ rơi nó; đồng thời cổ vũ lũ nam nhi phải tự cường, có lý tưởng cao cả để tái hiện huy hoàng cho tổ địa.; Kể lại chuyện năm xưa cha mẹ Thạch Hạo chăm nó mấy tháng rồi rời đi tìm Thánh dược trị tận gốc bệnh, không nỡ bỏ nó; cổ vũ lũ nam nhi Thạch thôn phải tự cường, có lý tưởng cao cả và tái hiện huy hoàng cho tổ địa; nói…",
+       "text": "Lão tộc trưởng kể lại năm xưa cha mẹ Thạch Hạo chăm nó ở thôn mấy tháng rồi rời đi tìm Thánh dược trị tận gốc bệnh, không nỡ bỏ rơi nó; đồng thời cổ vũ lũ nam nhi Thạch thôn phải tự cường, có lý tưởng cao cả và tái hiện huy hoàng cho tổ địa.",
        "anchor": "bọn họ muốm tìm Thánh dược để trị tận gốc bệnh tình của cháu",
        "bridge": true,
        "khoang": "@c0052"
       },
       {
-       "text": "Tới xem sinh linh quả cầu vàng nhóc tỳ mang về, nâng chân nó thấy đỏ rực như than lửa; kể truyền thuyết Thái Cổ về hung thú tuyệt thế Chu Yếm giống khỉ chân đỏ đầu trắng, xuất hiện báo hiệu đại loạn; vì đầu nó không trắng nên kết luận đây là Thái Cổ Di Chủng huyết mạch không thuần khiết, tuy không thuần chủng nhưng vẫn đáng sợ.; Được đưa tới xem quả cầu vàng Thạch Hạo mang về, tộc trưởng nâng chân nó thấy đỏ rực như than lửa và kể truyền thuyết…",
+       "text": "Tới xem sinh linh quả cầu vàng nhóc tỳ mang về, Thạch Vân Phong nâng chân nó thấy đỏ rực như than lửa; kể truyền thuyết Thái Cổ về hung thú tuyệt thế Chu Yếm giống khỉ, chân đỏ, đầu trắng, xuất hiện báo hiệu đại loạn; vì đầu nó không trắng nên kết luận đây là Thái Cổ Di Chủng huyết mạch không thuần khiết, tuy không phải hung thú Thái Cổ thuần chủng nhưng vẫn đáng sợ.",
        "anchor": "Ở trong truyền thuyết thời Thái Cổ có một loại hung thú tuyệt thế được gọi là Chu Yêm",
        "bridge": true,
        "khoang": "@c0053"
       },
       {
-       "text": "Kinh ngạc trước tốc độ tu hành quá nhanh của Thạch Hạo, lão không cho phép cậu tiến cao thêm mà muốn củng cố căn cơ, chờ Liễu Thần tỉnh dậy chỉ dẫn.; Là trưởng bối lão tộc, Thạch Vân Phong không cho Thạch Hạo đột phá gấp, muốn củng cố căn cơ và chờ Liễu Thần tỉnh; kể lại quá trình tu hành của nhóc tỳ và hỏi ý kiến Liễu Thần.; Thạch Vân Phong kinh ngạc trước tốc độ tu hành quá nhanh của nhóc tỳ nên không cho phép cậu đột phá gấp, muốn củng cố căn…",
+       "text": "Kinh ngạc trước tốc độ tu hành quá nhanh của Thạch Hạo, Thạch Vân Phong không cho cậu đột phá gấp mà muốn củng cố căn cơ, chờ Liễu Thần tỉnh dậy chỉ dẫn; sau đó lão kể lại quá trình tu hành của nhóc tỳ và hỏi ý kiến Liễu Thần.",
        "anchor": "lão cảm thấy tốc độ tu hành của nhóc tỳ thật nhanh quá, mới có tí tuổi mà đã đi hết đường của một đời rất nhiều người.",
        "bridge": true,
        "khoang": "@c0054"
       },
       {
-       "text": "Tiết lộ mấy chục năm trước tận mắt chứng kiến Liễu Thần rơi xuống trong biển sét kèm cục xương trắng; nhiều lần cúng bái cây liễu nhưng không được đáp lại; trịnh trọng trao cục xương cho nhóc tỳ, dặn chỉ nhìn một cái rồi quay đi vì nhìn lâu sẽ phun máu.; Tiếc nuối truyền thừa Cốt Văn và Bảo Thuật của tộc đã mai một, tộc trưởng lấy từ ngực ra cục xương trắng khắc ký hiệu, kể mấy chục năm nó rơi cùng Liễu Thần trong biển sét; ông từng nhiều lần cầ…",
+       "text": "Tiết lộ mấy chục năm trước tận mắt chứng kiến Liễu Thần rơi xuống trong biển sét kèm cục xương trắng; nhiều lần cầm xương cúng bái cây liễu nhưng không được đáp lại. Ông trịnh trọng trao cục xương cho nhóc tỳ, dặn chỉ nhìn một cái rồi quay đi vì nhìn lâu sẽ phun máu.",
        "anchor": "Ông có một cục xương, độ ảo diệu của ký hiệu phía trên làm cho người ta nhìn thấy một cái liền đủ để phun máu.",
        "bridge": true,
        "khoang": "@c0063"
       },
       {
-       "text": "Hỏi hộ nhóc tỳ cách tu hành; ngày ngày đun đỉnh canh thịt cùng thuốc cổ, Long Cân Xà, Long Tu Ngư bồi bổ cho nó; đích thân luyện đỉnh, khi nhỏ giọt máu vàng Chu Yếm vào thì đỉnh đen tỏa sáng, phát dị tượng chư thần ngâm xướng khiến cả thôn chấn động.; Hỏi hộ nhóc tỳ cách tu hành, run sợ trước yêu cầu khắc nghiệt của Nguyên Thủy Chân Giải. Ngày ngày đun đỉnh canh thịt Long Cân Xà kèm thuốc cổ bồi bổ cho nhóc tỳ. Phụ trách luyện đỉnh đen khi nhỏ m…",
+       "text": "Hỏi hộ nhóc tỳ cách tu hành và run sợ trước yêu cầu khắc nghiệt của Nguyên Thủy Chân Giải. Ngày ngày đun đỉnh canh thịt cùng thuốc cổ, Long Cân Xà, Long Tu Ngư để bồi bổ cho nhóc tỳ; sau đó phụ trách luyện đỉnh đen, đến khi nhỏ máu vàng Chu Yếm vào thì đỉnh tỏa sáng, phát dị tượng chư thần ngâm xướng khiến cả thôn chấn động.",
        "anchor": "Có từng hồi tiếng như chư thần ngâm xướng truyền ra",
        "bridge": true,
        "khoang": "@c0064"
@@ -625,19 +625,19 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Người trung niên chỉ dạy đám trẻ rèn luyện thân thể dưới mây sớm, giảng rằng lúc mặt trời mới mọc sinh khí mạnh nhất giúp bồi đắp sinh cơ để có vốn sinh tồn trong mãng sơn.; Đứng chỉ điểm và giảng cho lũ trẻ rằng lúc mặt trời mới mọc sinh khí mạnh nhất, rèn luyện dưới mây sớm giúp bồi đắp sinh cơ, cường gân tráng cốt.; Buổi sáng, ông chỉ điểm đám trẻ trên khoảng đất trống trước thôn, giảng rằng lúc mặt trời mới mọc sinh khí mạnh nhất, rèn luyện……",
+       "text": "Người đàn ông trung niên chỉ dạy đám trẻ rèn luyện thân thể dưới mây sớm, giảng rằng lúc mặt trời mới mọc sinh khí mạnh nhất, việc rèn luyện khi ấy giúp bồi đắp sinh cơ, cường gân tráng cốt và tạo vốn sinh tồn trong mãng sơn.",
        "anchor": "Lúc mặt trời mới mọc là lúc vạn vật khởi đầu, sinh khí mạnh nhất",
        "bridge": true,
        "khoang": "@c0001"
       },
       {
-       "text": "Lâm Hổ báo trong núi có mấy dấu chân lớn hình dạng giống chân người dài gần trăm mét, khiến dân làng và bô lão thót dạ, càng chắc chắn sâu trong núi đã phát sinh chuyện bất thường.; Chiều tà, Thạch Lâm Hổ dẫn đội săn trở về, gần như ai cũng kéo theo một con mãnh thú khổng lồ mà không ai bị thương; lão giải thích mấy đêm trong núi có cự thú siêu cấp đi qua dẫm thương vô số thú rừng nên đoàn lần theo giết hung thú trọng thương, đồng thời báo tin t…",
+       "text": "Chiều tà, Thạch Lâm Hổ dẫn đội săn trở về, gần như ai cũng kéo theo một con mãnh thú khổng lồ mà không ai bị thương; ông giải thích mấy đêm trong núi có cự thú siêu cấp đi qua, dẫm chết và làm bị thương vô số thú rừng nên đoàn lần theo giết các hung thú trọng thương, đồng thời báo tin trong núi có mấy dấu chân lớn hình dạng giống chân người, dài gần trăm mét, khiến dân làng và bô lão thót dạ, càng chắc chắn sâu trong núi đã phát sinh chuyện bất thường.",
        "anchor": "Trong núi có mấy dấu chân lớn hình dạng giống chân người, nhưng thực sự quá lớn, dài đến gần trăm mét!",
        "bridge": true,
        "khoang": "@c0002"
       },
       {
-       "text": "Khi dân làng nghi Thạch Hạo dùng sức mạnh cốt văn thần bí để ném chiếc đỉnh ngàn cân, thủ lĩnh đội săn Thạch Lâm Hổ khẳng định đó là sức mạnh cơ thể thuần túy. Sau đó lão dẫn đội săn trở về và tặng Thạch Hạo túi Tương Quả.; Thủ lĩnh đội săn Thạch Lâm Hổ khẳng định việc Thạch Hạo nhấc đỉnh ngàn cân là sức mạnh cơ thể thuần túy, không phải cốt văn; sau khi đội săn về, ông hái Tương Quả tặng Thạch Hạo.; Thủ lĩnh đội săn khẳng định sức mạnh Thạch Hạ…",
+       "text": "Khi dân làng nghi Thạch Hạo dùng sức mạnh cốt văn thần bí để ném chiếc đỉnh ngàn cân, thủ lĩnh đội săn Thạch Lâm Hổ khẳng định đó là sức mạnh cơ thể thuần túy, không phải cốt văn. Sau khi đội săn trở về, ông hái Tương Quả tặng Thạch Hạo.",
        "anchor": "đây là sức mạnh cơ thể thuần túy",
        "bridge": true,
        "khoang": "@c0006"
@@ -649,13 +649,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0008"
       },
       {
-       "text": "Thạch Lâm Hổ lấy cục xương tay hung thú, tay trái nổi cốt văn rực rỡ, ấn cục xương lên tay phát ra luồng hơi thở như vua vạn thú sống lại khiến Thanh Lân Ưng chấn động bay xa; cục xương dung hợp vào cánh tay trái, ngưng thành phù hiệu cổ xưa.; Trong đội cứu viện, Thạch Lâm Hổ lấy ra cục xương tay hung thú làm Tổ Khí, tay trái nổi cốt văn rồi ấn cục xương lên, phát luồng hơi thở như vua vạn thú sống lại khiến Thanh Lân Ưng chấn động bay lên xa; c…",
+       "text": "Trong đội cứu viện, Thạch Lâm Hổ lấy ra cục xương tay hung thú làm Tổ Khí; tay trái nổi cốt văn rực rỡ rồi ấn cục xương lên, phát luồng hơi thở như vua vạn thú sống lại khiến Thanh Lân Ưng chấn động bay lên xa; cục xương dung hợp vào cánh tay trái, ngưng thành phù hiệu cổ xưa.",
        "anchor": "như thể vua của vạn thú sống lại khiến cho con hung cầm ở trên không chấn động",
        "bridge": true,
        "khoang": "@c0009"
       },
       {
-       "text": "Thạch Lâm Hổ hòa xương cánh tay hung thú cổ đại (Tổ Khí thứ nhất) làm một với xương tay mình, thân cao vọt từ hai mét lên ba mét, huyết khí kinh người, sát cánh cùng Thạch Phi Giao phóng sức mạnh tổ khí uy áp bức lui Thanh Lân Ưng.; Hòa xương cánh tay hung thú cổ đại (Tổ Khí thứ nhất của Thạch Thôn) vào xương tay mình, thân hình vọt cao khó tin, huyết khí kinh người, uy hiếp Thanh Lân Ưng.; Trong cuộc đối đầu Thanh Lân Ưng, Thạch Lâm Hổ dung hợp…",
+       "text": "Thạch Lâm Hổ dung hợp xương cánh tay hung thú cổ đại (Tổ Khí thứ nhất của Thạch Thôn) với xương tay mình, thân cao vọt từ hai mét lên ba mét, huyết khí kinh người; sau đó sát cánh cùng Thạch Phi Giao phóng sức mạnh tổ khí, uy áp bức lui Thanh Lân Ưng.",
        "anchor": "Xương cánh tay hung thú cùng xương tay Thạch Lâm Hổ hòa làm một thể, ánh sáng chói lòa!",
        "bridge": true,
        "khoang": "@c0010"
@@ -667,13 +667,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0011"
       },
       {
-       "text": "Dẫn đội săn về với thu hoạch ít, sắc mặt không tốt báo tin cha Bì Hầu bị người Bái Thôn bắn tên trúng lá phổi khi tranh đoạt mồi săn.; Đi trong đội săn, sắc mặt không tốt khi báo tin cha Bì Hầu bị người Bái Thôn bắn một mũi tên trúng lá phổi.; Thành viên đội săn trở về với sắc mặt không tốt, báo tin người Bái Thôn cách mấy chục dặm xâm nhập khu săn bắn tranh mồi, suýt bắn chết cha Bì Hầu.; Thành viên đội săn về thôn, báo tin cha của Bì Hầu bị ng…",
+       "text": "Trong đội săn trở về thôn, sắc mặt không tốt, báo tin cha Bì Hầu bị người Bái Thôn cách mấy chục dặm xâm nhập khu săn bắn tranh đoạt mồi săn, bắn một mũi tên trúng lá phổi và suýt mất mạng.",
        "anchor": "cha Bì Hầu bị thương không nhẹ, bị người ta bắn một mũi tên, bị thương lá phổi",
        "bridge": true,
        "khoang": "@c0012"
       },
       {
-       "text": "Sơ cứu vết thương cho Thủ Sơn rồi trong sân tộc trưởng tố cáo người Bái Thôn vượt giới cướp con Lục Túc Đà và ra tay tàn nhẫn; sau đó triệu tập vận chuyển xác dị thú và phẫn nộ khi bị Bái Thôn chặn cướp.; Xử lý sơ vết thương cho Thủ Sơn, tố cáo người Bái Thôn vượt giới cướp con Lục Túc Đà và ra tay tàn nhẫn; sau đó triệu tập tộc nhân đi vận chuyển bãi xác dị thú.; Sơ cứu vết thương Thủ Sơn bằng thuốc lâu năm cắn nát và thuốc chân huyết hung thú…",
+       "text": "Sơ cứu vết thương cho Thủ Sơn bằng thuốc lâu năm cắn nát và thuốc nấu từ chân huyết hung thú; trong sân tộc trưởng tố cáo người Bái Thôn vượt giới cướp con Lục Túc Đà và ra tay tàn nhẫn; sau đó triệu tập tộc nhân đi vận chuyển bãi xác dị thú, rồi phẫn nộ khi Bái Thôn chặn cướp số thú săn còn lại.",
        "anchor": "thật sự là người của Bái Thôn gây chuyện, vượt giới tới chỗ chúng ta để cướp một con Lục Túc Đà",
        "bridge": true,
        "khoang": "@c0013"
@@ -685,7 +685,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0016"
       },
       {
-       "text": "Sốt ruột dẫn đoàn Thạch Thôn xông sâu vào núi tranh di thể Toan Nghê. Khi hai con Bưu ập tới, ông cùng Thạch Phi Giao vung kiếm bản to nghênh chiến nhưng bị con Bưu thứ hai đánh bay vũ khí, rách bụng trọng thương; sau đó an ủi Thạch Hạo vừa giết thú lần đầu.; Sốt ruột dẫn đầu vào núi tranh di thể Toan Nghê; khi hai con Bưu tấn công, vung kiếm bản to xông tới nhưng bị đánh bay vũ khí, rách bụng trọng thương. Sau đó an ủi Thạch Hạo khi nó lần đầu…",
+       "text": "Sốt ruột dẫn đoàn Thạch Thôn xông sâu vào núi tranh di thể Toan Nghê. Khi hai con Bưu ập tới, ông cùng Thạch Phi Giao vung kiếm bản to nghênh chiến nhưng bị con Bưu thứ hai đánh bay vũ khí, rách bụng trọng thương. Sau đó, ông an ủi Thạch Hạo sau khi nó dùng Bảo Thuật giết hai con Bưu trong lần đầu giết mãnh thú.",
        "anchor": "Lại là loài Bưu đáng sợ, hơn nữa còn những hai con!",
        "bridge": true,
        "khoang": "@c0018"
@@ -716,7 +716,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0029"
       },
       {
-       "text": "Thạch Lâm Hổ cùng thanh niên trai tráng trong thôn chặt Hắc Giao Mộc làm nguồn lửa, rồi dùng thần lực năm sáu nghìn cân khó khăn chém xác Toan Nghê theo vết nứt để lấy chân huyết chuẩn bị cho tẩy lễ của Thạch Hạo.; Cùng thanh niên trai tráng Thạch Thôn chặt Hắc Giao Mộc làm nguồn lửa, rồi khó khăn chém xác Toan Nghê theo vết nứt để lấy chân huyết chuẩn bị tẩy lễ.; Dẫn thanh niên trai tráng Thạch Thôn chặt Hắc Giao Mộc làm nguồn lửa nấu chân huyế…",
+       "text": "Thạch Lâm Hổ cùng thanh niên trai tráng Thạch Thôn chặt Hắc Giao Mộc làm nguồn lửa, rồi dùng thần lực năm sáu nghìn cân khó khăn chém xác Toan Nghê theo vết nứt để lấy chân huyết chuẩn bị tẩy lễ cho Thạch Hạo.",
        "anchor": "Vì tẩy lễ cho Thạch Hạo, trong thôn đã tiến hành các loại chuẩn bị.",
        "bridge": true,
        "khoang": "@c0031"
@@ -740,7 +740,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0037"
       },
       {
-       "text": "Cùng người Thạch Thôn phẫn nộ trước sự khinh người của cường giả đòi bảo cốt Toan Nghê, thề thà làm ngọc nát còn hơn làm ngói lành, quyết huyết chiến đến giọt máu cuối cùng.; Phẫn nộ trước sự khinh người của các cường giả La Phù, thề quyết huyết chiến đến giọt máu cuối cùng để giữ bảo cốt.; Người Thạch Thôn thề thà làm ngọc nát còn hơn làm ngói lành, quyết huyết chiến đến cùng chống các cường giả đòi bảo cốt Toan Nghê.; Cùng người Thạch Thôn phẫ…",
+       "text": "Cùng người Thạch Thôn phẫn nộ trước sự khinh người của cường giả đòi bảo cốt Toan Nghê, thề thà làm ngọc nát còn hơn làm ngói lành, quyết huyết chiến đến giọt máu cuối cùng.",
        "anchor": "Thà làm ngọc nát còn hơn làm ngói lành",
        "bridge": true,
        "khoang": "@c0039"
@@ -1250,8 +1250,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0003"
       },
       {
-       "text": "Thạch Mãnh tám tuổi rưỡi vật ngã con trâu mộng xanh đen, khi thử nâng đỉnh đồng ngàn cân đã nhấc lên giữa không trung nhưng chưa qua đầu thì run tay quăng xuống.; Thạch Mãnh vật ngã một con trâu mộng xanh đen; khi thi nâng đỉnh, nó nhấc được đỉnh lên giữa không trung nhưng chưa qua đầu thì run tay quăng xuống.; Nhị Mãnh mới tám tuổi rưỡi đã vật ngã được một con trâu mộng; khi thử nâng đỉnh đồng ngàn cân nó nhấc lên giữa không trung nhưng chưa qu…",
-       "anchor": "nhấc được cả những cái chùy đồng nặng hơn trăm cân",
+       "text": "Thạch Mãnh (Nhị Mãnh) mới tám tuổi rưỡi, là con thứ hai trong nhà, đã vật ngã một con trâu mộng; khi thử nâng đỉnh đồng ngàn cân, cậu nhấc đỉnh lên giữa không trung nhưng chưa qua đầu thì run tay quăng xuống.",
+       "anchor": "Nhị Mãnh mới tám tuổi rưỡi mà đã lật nhào được cả một con trâu mộng, giỏi quá!",
        "bridge": true,
        "khoang": "@c0005"
       },
@@ -1262,13 +1262,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0007"
       },
       {
-       "text": "Nhị Mãnh da đen nhẻm, tính tình ngờ nghệch, là người đầu tiên chạm vào quả trứng bích ngọc phát sáng và bị tê rần như điện giật; cả nhóm hí hửng vì chọc được cái tổ hung cầm lớn nhất từng thấy.; Cùng nhóm trẻ chọc được cái tổ hung cầm lớn nhất từng thấy, là người chạm vào quả trứng bích ngọc đầu tiên nên bị tê rần như điện giật.; Nhị Mãnh nước da đen nhẻm, tính ngờ nghệch, là người chạm vào quả trứng bích ngọc đầu tiên và bị tê rần như điện giật…",
+       "text": "Nhị Mãnh nước da đen nhẻm, tính tình ngờ nghệch, là người đầu tiên chạm vào quả trứng bích ngọc phát sáng và bị tê rần như điện giật; cùng nhóm trẻ Thạch Thôn chọc được cái tổ hung cầm lớn nhất từng thấy.",
        "anchor": "Nhị Mãnh nước da đen nhẻm nở nụ cười ngờ nghệch, nước dãi sắp chảy thòng lòng cả ra ngoài.",
        "bridge": true,
        "khoang": "@c0008"
       },
       {
-       "text": "Nhị Mãnh nhặt tảng đá to bằng mặt người ném trúng đầu hung cầm nhưng đá vỡ nát, vẩy không hề hấn; sau đó cùng Thạch Hạo và Thạch Đại Tráng — ba đứa khỏe nhất — chuyên ném thiết mâu vào hai mắt Thanh Lân Ưng.; Ném tảng đá bằng mặt người trúng đầu Thanh Lân Ưng nhưng đá vỡ nát, vẩy nó cứng như kim loại không hề hấn; sau là một trong ba đứa khỏe nhất chuyên ném thiết mâu vào hai mắt hung cầm để câu giờ.; Khi Thanh Lân Ưng ló đầu vào cửa động, Nhị M…",
+       "text": "Khi Thanh Lân Ưng ló đầu vào cửa động, Nhị Mãnh nhặt tảng đá to bằng mặt người ném trúng đầu nó, nhưng đá vỡ nát còn vẩy xanh cứng như kim loại không hề hấn; sau đó cậu cùng Thạch Hạo và Thạch Đại Tráng — ba đứa có sức lực mạnh nhất — chuyên ném thiết mâu vào hai mắt hung cầm để chọc giận nó, tạo động tĩnh lớn và câu giờ chờ cứu viện.",
        "anchor": "Nhị Mãnh thật sự rất mạnh mẽ, vừa nói vừa nhặt một tảng đá to bằng mặt người rồi dùng sức ném ra.",
        "bridge": true,
        "khoang": "@c0009"
@@ -1286,7 +1286,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0034"
       },
       {
-       "text": "Nhóc tám chín tuổi nhờ tẩy lễ bằng chân huyết Toan Nghê nên sức tăng vọt, dễ dàng nâng đỉnh cổ nặng ngàn cân; tính ngáo ngơ nên lỡ miệng lộ chuyện tộc đã ăn một con Toan Nghê rất mạnh và chuyện tộc trưởng bế quan, bị cha vỗ đầu răn.; Nhị Mãnh (tám chín tuổi) dễ dàng nâng cái đỉnh nặng ngàn cân nhờ tẩy lễ chân huyết Toan Nghê, ngáo ngơ hỏi đại thúc chuyện dẫn Phi Giao về nuôi, rồi vô tình lộ chuyện tộc trưởng đã bế quan.; Nhị Mãnh tám chín tuổi d…",
+       "text": "Nhị Mãnh tám chín tuổi, sau tẩy lễ bằng chân huyết Toan Nghê thì sức mạnh tăng nhiều, vừa nói vừa dễ dàng nâng cái đỉnh nặng ngàn cân; tính ngáo ngơ, nó hỏi đại thúc chuyện dẫn Phi Giao về ăn hay luyện chân huyết, rồi vô tình lộ chuyện tộc trưởng đã bế quan và bị cha vỗ đầu răn.",
        "anchor": "vừa nói vừa nâng một cái đỉnh nặng ngàn cân lên",
        "bridge": true,
        "khoang": "@c0035"
@@ -1473,14 +1473,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0005",
        "tieuDe": "Chín tuổi nâng đỉnh qua đầu",
-       "text": "Thạch Đại Tráng chín tuổi, mày rậm mắt to thân hình cao lớn, nâng bổng chiếc đỉnh đồng ngàn cân qua đỉnh đầu thành công, được cả thôn khen là trời sinh thần lực.; Thạch Đại Tráng chín tuổi nhấc bổng đỉnh đồng ngàn cân qua đỉnh đầu thành công, được cả thôn ca ngợi là trời sinh thần lực.; Thạch Đại Tráng chín tuổi bước lên nhấc bổng đỉnh đồng ngàn cân qua đỉnh đầu thành công, được cả thôn ca ngợi là trời sinh thần lực.; Thạch Đại Tráng bước lên và…",
+       "text": "Thạch Đại Tráng chín tuổi, mày rậm mắt to thân hình cao lớn, bước lên nhấc bổng chiếc đỉnh đồng ngàn cân và nhanh chóng nâng quá đỉnh đầu, được khen là trời sinh thần lực.",
        "anchor": "nhấc bổng lên và nhanh chóng nâng quá đỉnh đầu"
       },
       {
        "importance": "normal",
        "chuong": "@c0007",
        "tieuDe": "Dẫn đầu đoàn trẻ vào rừng nguyên thủy",
-       "text": "Mày rậm mắt to, chiều cao gần bằng người lớn, từng nâng đỉnh đồng ngàn cân; dẫn đầu hơn mười đứa trẻ trốn người lớn rời Thạch Thôn vào rừng nguyên thủy đầy hung thú để lấy trứng Thanh Lân Ưng, luôn dặn cẩn thận.; Làm thủ lĩnh đoàn trẻ Thạch Thôn, chỉ huy cả bọn lẻn vào rừng nguyên thủy để lấy trứng hung cầm, dặn mọi người cẩn thận và cùng trèo vách theo sau Thạch Hạo.; Dẫn đầu mười mấy đứa trẻ trốn người lớn vào rừng nguyên thủy tới sào huyệt Th…",
+       "text": "Mày rậm mắt to, chiều cao gần bằng người lớn, từng nâng đỉnh đồng ngàn cân; làm thủ lĩnh dẫn hơn mười đứa trẻ trốn người lớn rời Thạch Thôn vào rừng nguyên thủy để lấy trứng Thanh Lân Ưng, dặn mọi người cẩn thận và cùng Nhị Mãnh, Bì Hầu trèo vách theo sau Thạch Hạo.",
        "anchor": "chúng nó trốn người lớn rời khỏi Thạch Thôn để vào rừng"
       },
       {
@@ -1494,7 +1494,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0009",
        "tieuDe": "Đề xuất kế chọc giận hung cầm",
-       "text": "Đề xuất dốc sức chọc giận Thanh Lân Ưng để nó gây ra động tĩnh lớn, giúp Thạch Thôn nghe thấy mà đến cứu; cùng Thạch Hạo và Nhị Mãnh chuyên ném thiết mâu vào hai mắt hung cầm.; Khi bị Thanh Lân Ưng vây trong thạch động, Thạch Đại Tráng đề xuất dốc hết sức chọc giận hung cầm để tạo động tĩnh lớn cho Thạch Thôn nghe thấy mà đến cứu; là một trong ba đứa khỏe nhất chuyên ném thiết mâu vào hai mắt nó.; Trong lúc bị vây trong thạch động, Thạch Đại Trá…",
+       "text": "Khi bị Thanh Lân Ưng vây trong thạch động, Thạch Đại Tráng đề xuất dốc hết sức chọc giận hung cầm để tạo động tĩnh lớn cho Thạch Thôn nghe thấy mà đến cứu; sau đó cùng Thạch Hạo và Nhị Mãnh, ba đứa có sức lực mạnh nhất, chuyên ném thiết mâu vào hai mắt Thanh Lân Ưng.",
        "anchor": "chúng ta dốc hết sức tấn công, chọc giận nó để nó làm ra động tĩnh lớn hơn nữa"
       },
       {
@@ -1724,25 +1724,25 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "tabs": {
      "kinhLich": [
       {
-       "text": "Thạch Trung Hầu tám chín tuổi gầy còm mà khỏe, quăng cối đá xa mười mấy mét trong buổi thi thố; cha đặt tên Thạch Trung Hầu với kỳ vọng phong hầu xưng vương.; Bì Hầu gầy còm mà khỏe, quăng cối đá xa mười mấy mét; cha đặt tên nó là Thạch Trung Hầu với kỳ vọng mai sau phong hầu xưng vương.; Bì Hầu tám chín tuổi trông còm nhom nhưng rất khỏe, quăng cối đá xa mười mấy mét; cha đặt tên nó là Thạch Trung Hầu với mong ước sau này ra khỏi núi phong hầu…",
-       "anchor": "nhấc được cả những cái chùy đồng nặng hơn trăm cân",
+       "text": "Bì Hầu khoảng tám chín tuổi, trông còm nhom nhưng rất khỏe, quăng cối đá xa mười mấy mét; cha đặt tên nó là Thạch Trung Hầu, kỳ vọng sau này ra khỏi núi, đến các bộ lạc lớn phồn thịnh nổi danh phong hầu xưng vương.",
+       "anchor": "tôi đặt tên nó là Thạch Trung Hầu, sau này phải ra khỏi núi, đi đến những bộ lạc lớn phồn thịnh nổi danh phong hầu xưng vương.",
        "bridge": true,
        "khoang": "@c0005"
       },
       {
-       "text": "Nghe lén Lâm Hổ thúc kể về tập quán hung cầm, Bì Hầu nắm được vị trí tổ Thanh Lân Ưng và dẫn đoàn trẻ băng qua rừng đá đầy di cốt cự thú tới đúng vách núi có Ngô Sào.; Nghe lén thông tin từ Lâm Hổ thúc về tập quán của Thanh Lân Ưng, dẫn đoàn trẻ vào rừng đá tìm tổ hung cầm ở vách núi sâu, rồi cùng ba đứa lớn trèo lên vách.; Theo lời Lâm Hổ thúc, dẫn cả nhóm trẻ tới tổ hung cầm ở vách núi sâu trong rừng đá đầy hài cốt cự thú, đề xuất mang trứng v…",
+       "text": "Theo lời Lâm Hổ thúc, Bì Hầu nắm được vị trí tổ Thanh Lân Ưng ở vách núi sâu trong rừng đá, dẫn nhóm trẻ băng qua nơi đầy di cốt cự thú tới Ngô Sào và cùng Thạch Hạo, Thạch Đại Tráng, Thạch Mãnh trèo lên vách để lấy trứng hung cầm.",
        "anchor": "tổ của nó ở trên vách núi sâu trong rừng đá",
        "bridge": true,
        "khoang": "@c0007"
       },
       {
-       "text": "Bì Hầu gầy nhom cười giống khỉ núi, cùng nhóm trẻ trộm trứng Thanh Lân Ưng, nhận xét về độ cứng của vảy hung cầm và nhắc công lao sẽ được Lâm Hổ thúc công nhận.; Vác một quả trứng Thanh Lân Ưng, ước lượng vảy hung cầm cứng đến mức đại kiếm mấy trăm cân cũng khó chém đứt; kỳ vọng người lớn trong thôn sẽ nhìn bọn trẻ khác đi sau vụ trộm trứng.; Bì Hầu gầy nhom, lúc cười giống hệt con khỉ núi, tham gia chọc tổ trộm trứng và bàn tán về độ cứng của v…",
+       "text": "Bì Hầu gầy nhom, lúc cười giống hệt khỉ núi; cùng nhóm trẻ Thạch Thôn chọc tổ trộm ba quả trứng Thanh Lân Ưng, vác một quả trứng cất vào túi da thú. Cậu nhận xét vảy hung cầm rất cứng, đại kiếm mấy trăm cân cũng khó chém đứt, và kỳ vọng người lớn trong thôn như Lâm Hổ thúc sẽ công nhận công lao của bọn trẻ.",
        "anchor": "Đây là cái tổ chim to nhất tao từng chọc",
        "bridge": true,
        "khoang": "@c0008"
       },
       {
-       "text": "Trên đường trốn, Bì Hầu bị đá bay đập trúng cánh tay chảy máu; trong động cậu giương cung cứng bằng sừng rồng bắn Thanh Lân Ưng, nhưng tên chỉ tóe lửa không xuyên thủng vẩy.; Bị đá bay đập trúng cánh tay chảy máu khi chạy trốn; trong động bắn cung sừng rồng vào đầu Thanh Lân Ưng nhưng tên chỉ tóe lửa, không xuyên thủng lớp vẩy.; Bì Hầu bị đá bay đập trúng cánh tay chảy máu khi chạy trốn; trong động cậu giương cung cứng bằng sừng rồng bắn tên vào…",
+       "text": "Khi chạy trốn Thanh Lân Ưng, Bì Hầu bị đá bay đập trúng cánh tay chảy máu; trong động, cậu giương cung cứng bằng sừng rồng bắn vào đầu Thanh Lân Ưng, nhưng mũi tên chỉ tóe lửa, không xuyên thủng lớp vẩy.",
        "anchor": "Bì Hầu giương cung cài tên, đó là một cây cung cứng bằng sừng rồng",
        "bridge": true,
        "khoang": "@c0009"
@@ -1754,7 +1754,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0010"
       },
       {
-       "text": "Dân làng Thạch Thôn; cha của Bì Hầu theo đội săn bị người Bái Thôn bắn một mũi tên trúng lá phổi, bị thương không nhẹ nhưng không chết.; Cha của Bì Hầu bị người Bái Thôn bắn một mũi tên trúng lá phổi khi đội săn gặp người Bái Thôn tranh mồi, được khiêng về thôn.; Cha của Bì Hầu đi săn bị người Bái Thôn bắn một mũi tên trúng lá phổi, thương nặng nhưng không chết, khiến xung đột giữa hai thôn bùng lên.; Cha của Bì Hầu theo đội săn ra khu săn bắn t…",
+       "text": "Cha của Bì Hầu theo đội săn ra khu săn bắn của Thạch Thôn, bị người Bái Thôn cách mấy chục dặm xâm nhập tranh mồi săn rồi bắn một mũi tên trúng lá phổi; ông bị thương không nhẹ, được khiêng về thôn và suýt mất mạng.",
        "anchor": "cha Bì Hầu bị thương không nhẹ, bị người ta bắn một mũi tên, bị thương lá phổi",
        "bridge": true,
        "khoang": "@c0012"
@@ -2048,8 +2048,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0012",
        "tieuDe": "Phản tổ, Bí cốt bảo thư",
-       "text": "Xảy ra hiện tượng phản tổ, kế thừa một phần ấn ký Thái Cổ Ma Cầm; phù văn trong cơ thể được coi là Bí cốt bảo thư, nếu truyền ra sẽ khiến nhiều bộ tộc động lòng.; Được lũ trẻ đặt tên Tử Vân, là lão tam trong ba con Thanh Lân Ưng; linh tính nhất, từng vỗ cánh ra khỏi thôn xé xác hổ sói, học cốt văn cực hăng và ngày càng thân với Thạch Hạo.; Bé út linh tính và mạnh nhất, thân nhất với Thạch Hạo, xảy ra hiện tượng phản tổ kế thừa một phần ấn ký Thá…",
-       "anchor": "nó xảy ra hiện tượng phản tổ"
+       "text": "Được lũ trẻ đặt tên Tử Vân, là lão tam trong ba con Thanh Lân Ưng; bé út có linh tính nhất, mạnh mẽ nổi bật, từng vỗ cánh ra khỏi thôn xé xác hổ sói. Tử Vân học cốt văn cực hăng, ngày càng thân với Thạch Hạo; nó xảy ra hiện tượng phản tổ, kế thừa một phần ấn ký Thái Cổ Ma Cầm, phù văn trong cơ thể được coi là Bí cốt bảo thư.",
+       "anchor": "Nhất là Tử Vân, nó xảy ra hiện tượng phản tổ, cho dù chỉ kế thừa một phần ấn ký của thái cổ ma cầm nhưng cũng sẽ vô cùng đáng sợ và kinh người, phù văn trong cơ thể nó tuyệt đối có thể coi là “Bí cốt bảo thư”"
       },
       {
        "text": "Thanh Lân Ưng cùng nhóc tỳ xuống xác nhận Toan Nghê chết thật, tha về xác Toan Nghê, cánh tay Ác Ma Viên chứa chân huyết và sừng Ly Hỏa Ngưu Ma. Nó lảo đảo vì trúng độc Tử Kim Xà cắn từ trận trước, lại từng bị Huyết Điêu và Thử Vương đánh lén nên độc phát nhanh, gắng gượng bay về Thạch Thôn cầu tộc trưởng giải độc.",
@@ -2082,7 +2082,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0037"
       },
       {
-       "text": "Đã dài bốn mét, tung cánh phá không bay lượn trên tầng mây với tốc độ cực nhanh; cõng Thạch Hạo bay đi tham ngộ di tích chiến trường hướng Tây và kêu to ra hiệu dưới đáy hồ khô có sinh vật sống.; Tại hồ nước khô cạn, Tử Vân kêu to ra hiệu rằng dưới đáy hồ có sinh vật sống, dẫn tới việc phát hiện con khỉ ba tay bị vùi lấp.; Sau một năm, Tử Vân thân dài bốn mét, đã tung cánh phá không nhào lượn trên tầng mây với tốc độ cực nhanh và chở Thạch Hạo b…",
+       "text": "Sau một năm, Tử Vân cùng Đại Bằng và Tiểu Thanh thân dài bốn mét, đã có thể tung cánh phá không, nhào lượn trên tầng mây với tốc độ cực nhanh. Tử Vân cõng Thạch Hạo bay đi tham ngộ di tích chiến trường hướng Tây; tại hồ nước khô cạn, nó kêu to ra hiệu bên dưới có sinh vật sống, dẫn tới việc phát hiện con khỉ ba tay bị vùi lấp.",
        "anchor": "Đột nhiên Tử Vân kêu to, ra hiệu rằng ở dưới kia có sinh vật sống.",
        "bridge": true,
        "khoang": "@c0052"
@@ -2258,8 +2258,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Lớn nhanh trong một tháng dài gần hai mét, được lũ trẻ đặt tên lão đại Đại Bằng, được Thạch Hạo dạy cốt văn loài người.; Được lũ trẻ đặt tên Đại Bằng, là lão đại trong ba con Thanh Lân Ưng; chỉ một tháng đã dài gần hai mét, được Thạch Hạo dạy cốt văn.; Thanh Lân Ưng lão đại, được lũ trẻ đặt tên. Sau một tháng dài gần hai mét, có linh tính hiểu tiếng người, được Thạch Hạo dạy cốt văn.; Cùng hai chim non khác được lũ trẻ Thạch Thôn đặt tên; là lão…",
-       "anchor": "Lão đại tên là Đại Bằng, lão nhị Tiểu Thanh, lão tam Tử Vân.",
+       "text": "Thanh Lân Ưng lão đại, được lũ trẻ Thạch Thôn đặt tên là Đại Bằng; cùng Tiểu Thanh và Tử Vân lớn nhanh, sau một tháng dài gần hai mét, có linh tính hiểu tiếng người và được Thạch Hạo dạy cốt văn loài người.",
+       "anchor": "Lão đại tên là Đại Bằng, lão nhị Tiểu Thanh, lão tam Tử Vân",
        "bridge": true,
        "khoang": "@c0012"
       },
@@ -2295,7 +2295,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0037"
       },
       {
-       "text": "Sau khi ăn thịt Toan Nghê đã biến dị, thân dài bốn mét bay phá không; toàn thân tỏa hào quang vàng nhạt lao xuống đáy hồ khô cạn để xem xét sinh linh bị vùi lấp.; Đại Bằng cùng Tiểu Thanh sau khi ăn thịt Toan Nghê đã biến dị; nay toàn thân tỏa hào quang vàng nhạt, lao xuống đáy hồ khô cạn xem xét sinh linh bên dưới.; Đại Bằng đã biến dị sau khi ăn thịt Toan Nghê, toàn thân tỏa hào quang vàng nhạt lao xuống đáy hồ khô cạn xem xét sinh linh bị lấp…",
+       "text": "Sau khi ăn thịt Toan Nghê, Đại Bằng đã biến dị; thân dài bốn mét, có thể bay phá không với tốc độ cực nhanh. Khi Tử Vân ra hiệu dưới đáy hồ khô cạn có sinh vật sống, Đại Bằng toàn thân tỏa hào quang vàng nhạt lao xuống một đoạn gần rồi đi vòng quanh xem xét.",
        "anchor": "Đại Bằng toàn thân tỏa hào quang vàng nhạt lao xuống một đoạn gần rồi đi vòng quanh xem xét.",
        "bridge": true,
        "khoang": "@c0052"
@@ -2449,7 +2449,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Lớn nhanh trong một tháng dài gần hai mét, được lũ trẻ đặt tên lão nhị Tiểu Thanh, được Thạch Hạo dạy cốt văn loài người.; Được lũ trẻ đặt tên Tiểu Thanh, là lão nhị trong ba con Thanh Lân Ưng; lớn nhanh trong một tháng, được Thạch Hạo dạy cốt văn.; Thanh Lân Ưng lão nhị, được lũ trẻ đặt tên. Sau một tháng dài gần hai mét, có linh tính hiểu tiếng người, được Thạch Hạo dạy cốt văn.; Cùng hai chim non khác được lũ trẻ Thạch Thôn đặt tên; là lão nh…",
+       "text": "Thanh Lân Ưng lão nhị Tiểu Thanh, cùng Đại Bằng và Tử Vân được lũ trẻ Thạch Thôn đặt tên; sau một tháng lớn nhanh gần hai mét, có linh tính hiểu tiếng người và được Thạch Hạo dạy cốt văn loài người.",
        "anchor": "Lão đại tên là Đại Bằng, lão nhị Tiểu Thanh, lão tam Tử Vân.",
        "bridge": true,
        "khoang": "@c0012"
@@ -2489,7 +2489,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0052",
        "tieuDe": "Biến dị sau khi ăn Toan Nghê",
-       "text": "Cùng Đại Bằng biến dị sau khi ăn thịt Toan Nghê, thân hiện lên từng đoạn vằn sáng óng ánh; kêu to lao về hướng thung lũng mà thực ra là một hồ nước đã khô cạn.; Tiểu Thanh cùng Đại Bằng đã biến dị sau khi ăn thịt Toan Nghê; khi lao về hướng thung lũng, thân nó hiện lên từng đoạn vằn sáng óng ánh và dẫn cả nhóm tới hồ nước khô cạn.; Tiểu Thanh đã biến dị sau khi ăn thịt Toan Nghê, thân hiện lên từng đoạn vằn sáng óng ánh; kêu to lao về hướng hồ n…",
+       "text": "Tiểu Thanh cùng Đại Bằng đã biến dị sau khi ăn thịt Toan Nghê; khi kêu to lao về hướng một thung lũng, thân Tiểu Thanh hiện lên từng đoạn vằn sáng óng ánh, dẫn Thạch Hạo nhận ra nơi đó thực ra là một hồ nước đã khô cạn sau trận đại chiến kinh thiên động địa.",
        "anchor": "nó với Đại Bằng sau khi ăn thịt Toan Nghê cũng đã biến dị"
       },
       {
@@ -2728,7 +2728,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0022",
        "importance": "normal",
        "tieuDe": "Cầm đầu phục kích Thạch Hạo",
-       "text": "Hán tử cao hai mét ba bốn cơ bắp cuồn cuộn, dẫn hơn hai mươi người Bái Thôn cầm cung cứng tên sắt vây bắn Thạch Hạo để cướp bảo thể Toan Nghê và sừng, bội thề dù Thạch Thôn từng thả chúng.; Bắn tên sắt sạt qua cổ họng Thạch Hạo mở màn phục kích, dẫn hơn hai mươi người Bái Thôn vây bắt. Bị Bảo Nguyệt chém rách bụng suýt lòi ruột, sắc mặt tái nhợt ra lệnh rút lui.; Bị Bảo Nguyệt của Thạch Hạo chém rách bụng suýt lòi ruột, sắc mặt tái nhợt ra lệnh…",
+       "text": "Hán tử cao hai mét ba bốn cơ bắp cuồn cuộn, dẫn hơn hai mươi người Bái Thôn cầm cung cứng tên sắt vây bắn Thạch Hạo để cướp bảo thể Toan Nghê và sừng, bội thề dù Thạch Thôn từng thả chúng. Bắn tên sắt sạt qua cổ họng Thạch Hạo mở màn phục kích; sau bị Bảo Nguyệt chém rách bụng suýt lòi ruột, sắc mặt tái nhợt ra lệnh rút lui.",
        "anchor": "một mũi tên sắt lạnh lẽo bắn sạt qua cổ họng nó"
       }
      ],
@@ -2795,20 +2795,20 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Thạch Phi Giao vứt Lang Nha Đại Bổng, lấy tấm da thú cổ lấm máu khô ấn lên ngực; da thú dung hợp thành da thịt gã, kết kí tự thần bí hiện bóng hung thú, phát tiếng thú gầm rung núi. Gã cũng kể từng thấy sinh vật hình người cao chọc mây cầm Hắc Thiết Côn trong đại chiến Thái Cổ hai năm trước.; Vứt Lang Nha Đại Bổng, ấn tấm da thú cổ lấm máu khô lên ngực; da thú dung hợp thành da thịt, kết kí tự thần bí, hiện bóng hung thú và phát tiếng thú gầm ru…",
+       "text": "Thạch Phi Giao vứt Lang Nha Đại Bổng, lấy tấm da thú cổ lấm máu khô ấn lên ngực; da thú dung hợp thành da thịt gã, kết kí tự thần bí hiện bóng hung thú, phát tiếng thú gầm rung núi. Sau đó, gã kể từng thấy sinh vật hình người cao chọc mây cầm Hắc Thiết Côn trong đại chiến Thái Cổ hai năm trước.",
        "anchor": "tấm da thú cũ kĩ cổ xưa không ngờ lại dung hợp làm một cùng với lồng ngực gã",
        "bridge": true,
        "khoang": "@c0010"
       },
       {
-       "text": "Mô tả kẻ ra tay là thằng nhóc Bái Thôn trắng trẻo mà độc ác; về sau đi được nửa đường thì toàn thân đẫm máu tóc bù xù dẫn tộc nhân chạy về, báo Bái Thôn chặn giết cướp số thú săn còn lại. Gã là một trong hai người của thôn bắn xuyên nổi giáp thép.; Mô tả thằng nhóc Bái Thôn độc ác; sau toàn thân đẫm máu dẫn tộc nhân chạy về báo Bái Thôn chặn giết cướp số thú săn còn lại, nhiều người bị thương nặng.",
+       "text": "Mô tả kẻ ra tay là thằng nhóc Bái Thôn trắng trẻo mà độc ác, là một trong hai người của thôn bắn xuyên nổi giáp thép; về sau đi được nửa đường thì toàn thân đẫm máu, tóc bù xù dẫn tộc nhân chạy về, báo Bái Thôn chặn giết cướp số thú săn còn lại, nhiều người bị thương nặng.",
        "anchor": "nhìn thấy Thạch Phi Giao toàn thân đẫm máu, dẫn theo một đám tộc nhân chạy về",
        "bridge": true,
        "khoang": "@c0013"
       },
       {
-       "text": "Thạch Phi Giao ở Thạch Thôn chứng kiến Thạch Hạo đấu Bái Phong, mắng Bái Phong ác độc khi thiếu niên dùng chiêu tên nỏ giấu sau lưng, dự đoán tiểu tử này sau trưởng thành sẽ là tai họa.; Thạch Phi Giao tức giận mắng Bái Phong ác độc khi hắn giở chiêu bẩn giấu tên nỏ sau lưng bắn lén Thạch Hạo, và dự đoán tiểu tử này sau khi trưởng thành sẽ là một tai họa.; Chứng kiến trận đấu, Thạch Phi Giao tức giận trước sự ác độc trong trận chiến và dự đoán t…",
-       "anchor": "hàng loạt điểm sáng khuếch tán ra đánh vỡ toàn bộ tên nỏ",
+       "text": "Thạch Phi Giao ở Thạch Thôn chứng kiến Bái Phong dùng tên nỏ giấu sau lưng bắn lén Thạch Hạo, tức giận mắng hắn ác độc và dự đoán sau khi trưởng thành nhất định sẽ là một tai họa.",
+       "anchor": "Tiểu tử này quá ác độc, sau khi trưởng thành nhất định sẽ là một tai họa!",
        "bridge": true,
        "khoang": "@c0015"
       },
@@ -2849,7 +2849,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0029"
       },
       {
-       "text": "Thạch Phi Giao cùng chém xác Toan Nghê, rồi phát hiện trên mảnh xương trán vẫn còn giữ được phù hiệu ấn ký nguyên thủy đang chảy ra sức mạnh thần bí. Toan Nghê không kịp tự hủy ấn ký do trước đó phải đánh với Ly Hỏa Ngưu Ma và Ác Ma Viên.; Với thần lực năm sáu nghìn cân, cùng chém xác Toan Nghê và là người phát hiện phù hiệu ấn ký nguyên thủy còn giữ được trên xương trán Toan Nghê.; Cùng chém xác Toan Nghê, Thạch Phi Giao phát hiện trên mảnh xươ…",
+       "text": "Thạch Phi Giao cùng Thạch Lâm Hổ khó khăn chém xác Toan Nghê để lấy chân huyết; sau đó ông phát hiện trên mảnh xương trán Toan Nghê vẫn còn phù hiệu ấn ký nguyên thủy, chảy ra sức mạnh thần bí. Toan Nghê vốn thường tự hủy ấn ký trước khi chết, nhưng lần này vì phải đánh với Ly Hỏa Ngưu Ma và Ác Ma Viên nên không kịp xóa bỏ.",
        "anchor": "Tộc trưởng, trên mảnh xương này có ký hiệu, có chảy một loại sức mạnh thần bí!",
        "bridge": true,
        "khoang": "@c0031"
@@ -2879,7 +2879,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0047"
       },
       {
-       "text": "Là người chủ sự Thạch Thôn, cùng tộc trưởng và Thạch Lâm Hổ ứng phó khi gặp Độc Giác Thú ở vùng đất mới; biến sắc không còn nhìn chằm chằm mãnh thú khi nghe nhóc tỳ nhắc ký ức.; Là thành viên cốt cán, cùng tộc trưởng và Thạch Lâm Hổ ứng phó ở vùng đất mới, bàn chuyện bắt Độc Giác Thú; biến sắc khi nhóc tỳ nhắc ký ức mơ hồ về vùng đất.; Là thành viên cốt cán cùng tộc trưởng ứng phó mãnh thú, bàn chuyện bắt đàn Độc Giác Thú ánh bạc ở vùng đất mới…",
+       "text": "Là người chủ sự/cốt cán của Thạch Thôn, cùng tộc trưởng và Thạch Lâm Hổ ứng phó ở vùng đất mới, bàn chuyện bắt đàn Độc Giác Thú; sau đó biến sắc, không còn nhìn chằm chằm Độc Giác Thú khi nghe nhóc tỳ nhắc ký ức mơ hồ về vùng đất.",
        "anchor": "kể cả là mấy người Thạch Lâm Hổ và Thạch Phi Giao cũng biến sắc, không còn nhìn chằm chằm Độc Giác Thú nữa",
        "bridge": true,
        "khoang": "@c0050"
@@ -3194,14 +3194,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0023",
        "importance": "normal",
        "tieuDe": "Chỉ huy phục kích cướp Toan Nghê",
-       "text": "Lão tộc trưởng Bái Thôn dẫn hơn trăm người phục kích, giả nhân từ khuyên Thạch Hạo giao bảo thể Toan Nghê nhưng thực chất định giết cả nhóc lẫn hung cầm, ra lệnh bắn Thanh Lân Ưng để trói chân đối thủ.; Lão tộc trưởng Bái Thôn giả nhân từ khuyên Thạch Hạo giao bảo thể rồi ra lệnh bắn Thanh Lân Ưng để trói chân nhóc, tiết lộ Tế Linh của tộc sắp đột phá nên cần gấp một lượng lớn chân huyết, bất chấp quy củ Đại Hoang mà khai chiến với Thạch Thôn.…",
+       "text": "Lão tộc trưởng Bái Thôn dẫn hơn trăm người phục kích, giả nhân từ khuyên Thạch Hạo giao bảo thể Toan Nghê nhưng thực chất định giết cả nhóc lẫn hung cầm; ông ra lệnh bắn Thanh Lân Ưng để trói chân đối thủ, đồng thời tiết lộ Tế Linh của tộc sắp đột phá nên cần gấp một lượng lớn chân huyết, bất chấp quy củ Đại Hoang mà khai chiến với Thạch Thôn.",
        "anchor": "Bắn tên, trước tiên giết con Thanh Lân Ưng kia đã!"
       },
       {
        "chuong": "@c0025",
        "importance": "normal",
        "tieuDe": "Mất cháu đích tôn Bái Phong",
-       "text": "Cháu đích tôn Bái Phong bị người Thạch thôn chém bay đầu ngay trước mặt, Bái Lý Thanh đau đớn kêu than, thù hận dâng cao.; Đau đớn vì Bái Phong (cháu đích tôn) bị chém đầu, Bái Lý Thanh cưỡi sói trắng bạc dẫn thanh niên Bái thôn cưỡi sói trở lại đòi diệt Thạch thôn; khi Tế Linh áp sát, hô mọi người mau leo lên lưng sói nhưng không kịp.; Cưỡi con sói trắng bạc dẫn thanh niên Bái thôn cưỡi sói quay lại vây Thạch thôn, cùng thú triều do con bái già…",
+       "text": "Cháu đích tôn Bái Phong bị người Thạch thôn chém bay đầu ngay trước mặt, khiến Bái Lý Thanh đau đớn kêu than. Sau đó lão cưỡi sói trắng bạc dẫn thanh niên Bái thôn quay lại vây Thạch thôn, đòi báo thù và diệt tộc; khi Tế Linh áp sát, lão hô mọi người mau leo lên lưng sói nhưng không kịp, giữa lúc thú triều do con bái già kéo đến muốn càn quét nơi này.",
        "anchor": "XẸT một cái chặt bay đầu của Bái Phong rớt ra lăn lông lốc"
       },
       {
@@ -3324,7 +3324,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0022",
        "tieuDe": "Cầm đầu phục kích Thạch Hạo",
-       "text": "Cao hai mét ba bốn, cơ bắp cuồn cuộn, thủ lĩnh dẫn hơn hai mươi người Bái Thôn phục kích Thạch Hạo bằng tên sắt và mâu sắt để cướp bảo thể Toan Nghê cùng sừng Thái Cổ Di Chủng; bị Bảo Nguyệt chém rách bụng suýt lòi ruột, sắc mặt tái nhợt ra lệnh rút lui.; Bắn mũi tên sắt lạnh lẽo sạt qua cổ họng Thạch Hạo, dẫn hơn hai mươi người Bái Thôn dùng tên sắt và mâu sắt vây nhóc tỳ để cướp bảo thể Toan Nghê và sừng Thái Cổ Di Chủng; bị vầng trăng bạc thứ…",
+       "text": "Cao hai mét ba bốn, cơ bắp cuồn cuộn, thủ lĩnh đội săn thú Bái Thôn dẫn hơn hai mươi người phục kích Thạch Hạo bằng tên sắt và mâu sắt để cướp bảo thể Toan Nghê cùng sừng Thái Cổ Di Chủng; bị vầng trăng bạc thứ hai chém rách bụng suýt lòi ruột, sắc mặt tái nhợt ra lệnh rút lui.",
        "anchor": "một mũi tên sắt lạnh lẽo bắn sạt qua cổ họng nó"
       },
       {
@@ -3432,21 +3432,21 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0013",
        "tieuDe": "Bắn xuyên giáp ba lớp",
-       "text": "Trong vụ Bái Thôn chặn cướp thú săn, chính hắn bắn tên xuyên thủng cả ba lớp giáp thép tinh chế của người Thạch Thôn, bắn trọng thương nhiều người; nhờ một lão già Bái Thôn lắc đầu ngăn mới không giết thêm.; Trong vụ chặn cướp thú, ra tay bắn xuyên toàn bộ ba lớp giáp thép tinh chế của người Thạch Thôn, khiến nhiều người bị thương nặng; chỉ nhờ lão già Bái Thôn lắc đầu mới không giết thêm.; Thiếu niên Bái Thôn khoảng 14-15 tuổi, trắng trẻo đẹp t…",
+       "text": "Trong vụ Bái Thôn chặn cướp thú săn, thiếu niên Bái Thôn khoảng 14-15 tuổi ra tay bắn xuyên toàn bộ ba lớp giáp thép tinh chế của người Thạch Thôn, khiến nhiều người bị thương nặng; nhờ một lão già Bái Thôn lắc đầu ngăn mới không giết thêm.",
        "anchor": "mấy huynh đệ trước ngực đều lót ba lớp giáp thép tinh chế dày, nhưng toàn bộ đều bị nó bắn xuyên"
       },
       {
        "importance": "normal",
        "chuong": "@c0015",
        "tieuDe": "Bại dưới tay Thạch Hạo",
-       "text": "Thiếu niên thiên tài mười bốn tuổi của Bái Thôn, thần lực kinh người, dùng cung tên sắt, trường mâu Huyết Văn Thiết rồi mảng tên nỏ giấu sau lưng liên tiếp tấn công Thạch Hạo nhưng đều bị hóa giải; cuối cùng bị đánh phun máu văng ngang, đụng gãy cành cây đại thụ mà trọng thương.; Bái Phong mười bốn tuổi, thần lực kinh người rung tay nâng năm sáu đỉnh đồng, dùng cung tên sắt, trường mâu Huyết Văn Thiết và tên nỏ giấu sau lưng đánh Thạch Hạo nhưng…",
+       "text": "Thiếu niên thiên tài mười bốn tuổi của Bái Thôn, thần lực kinh người, dùng cung tên sắt, trường mâu Huyết Văn Thiết rồi mảng tên nỏ giấu sau lưng liên tiếp tấn công Thạch Hạo nhưng đều bị hóa giải; cuối cùng bị Thạch Hạo dùng văn lạc đánh phun máu văng ngang, đụng gãy nhiều cành cây đại thụ và rơi xuống đất.",
        "anchor": "Bái Phong phun ra một bụm máu tươi, người bay ngang ra, đụng gãy rất nhiều cành cây đại thụ"
       },
       {
        "importance": "normal",
        "chuong": "@c0016",
        "tieuDe": "Bị bắt và tra tấn thê thảm",
-       "text": "Thiếu niên thiên tư của Bái Thôn bị Thạch Hạo hạ gục, bắt sống làm tù binh; Thạch Phi Giao, cha Nhị Mãnh cùng nhiều người thay nhau đá đấm khiến gãy nhiều xương, mặt rách, gần như không còn hình người. Cuối cùng được thả sau khi Bái Thôn giao nộp vũ khí bồi thường.; Thiếu niên thiên tư của Bái Thôn bị Thạch Hạo hạ gục và bắt sống, bị người Thạch Thôn thay nhau đá đấm gãy nhiều xương, mặt rách, gần không còn hình người; Bái Thôn phải giao vũ khí…",
+       "text": "Thiếu niên thiên tư của Bái Thôn bị Thạch Hạo hạ gục, bắt sống làm tù binh; Thạch Phi Giao, cha Nhị Mãnh cùng nhiều người thay nhau đá đấm khiến hắn gãy nhiều xương, mặt rách, gần như không còn hình người. Cuối cùng, Bái Thôn phải giao nộp vũ khí bồi thường để đổi lấy việc thả người.",
        "anchor": "xương ngực của Bái Phong lập tức đứt mất mấy cây"
       },
       {
@@ -3460,14 +3460,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0023",
        "importance": "normal",
        "tieuDe": "Vòng răng thú, quyết không tha",
-       "text": "Mưa ánh sáng vờn quanh cổ tay hóa thành vòng răng thú trắng óng — khiến đám đông kinh ngạc vì Cốt Văn cũng dùng được Bảo Cụ; thấy đám trung niên bị mình đánh trọng thương, y vẫn giương tay phóng tiếp, tuyên bố lần này quyết không tha.; Thiếu niên thiên tài từng bị Thạch Hạo đánh bại và bị người Thạch Thôn đánh gãy xương, nay núp tập kích bằng Bảo Cụ phóng điểm sáng đánh xuyên sáu bảy người Thạch Thôn, làm rách vai và suýt xuyên yết hầu Thạch Hạo…",
+       "text": "Mưa ánh sáng vờn quanh cổ tay hóa thành vòng răng thú trắng óng, khiến đám đông kinh ngạc vì Cốt Văn cũng dùng được Bảo Cụ. Bái Phong là thiếu niên thiên tài từng bị Thạch Hạo đánh bại và bị người Thạch Thôn đánh gãy xương; nay núp tập kích bằng Bảo Cụ phóng điểm sáng đánh xuyên sáu bảy người Thạch Thôn, làm rách vai và suýt xuyên yết hầu Thạch Hạo, rồi lại giương tay phóng mưa ánh sáng, tuyên bố lần này quyết không tha.",
        "anchor": "hóa thành một cái vòng răng thú, cái nào cũng trắng tinh óng ánh"
       },
       {
        "importance": "normal",
        "chuong": "@c0024",
        "tieuDe": "Bại trận, bị cắt tứ chi tàn phế",
-       "text": "Bái Phong dùng Bảo cụ 42 răng thú áp đảo nhóc tỳ nhưng bị đảo ngược khi nhóc tỳ ngộ thêm tầng Bảo thuật; hắn bị đá gãy gò má trái, gãy xương sườn, ngực bể nát rồi bị trăng bạc cắt đứt cả hai tay hai chân, tàn phế và mất luôn Bảo cụ.; Dùng Bảo cụ 42 răng thú áp chế nhóc tỳ nhưng kinh hãi phát hiện đối thủ vận dụng sức mạnh Cốt văn thần bí; khi nhóc tỳ ngộ thêm tầng Bảo thuật, Bái Phong bị đánh phọt máu, đá vỡ nửa mặt và ngực, gãy xương, cuối cùng…",
+       "text": "Bái Phong dùng Bảo cụ 42 răng thú áp chế nhóc tỳ nhưng kinh hãi phát hiện đối thủ vận dụng sức mạnh Cốt văn thần bí; khi nhóc tỳ ngộ thêm một tầng Bảo thuật, hắn bị đánh phọt máu, bị đá gãy gò má trái, gãy xương sườn, ngực bể nát, cuối cùng bị trăng bạc cắt đứt cả hai tay hai chân, tàn phế và mất luôn Bảo cụ.",
        "anchor": "hay tay hai chân Bái Phong đều bị cắt đứt"
       },
       {
@@ -3640,7 +3640,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0042",
        "tieuDe": "Xuất thế tiến về Thạch thôn",
-       "text": "Được xưng là đệ nhất cường giả trong bán kính 25 ngàn cây số, chỉ trừ Vân tộc thần bí; có Tế linh đệ nhất là Sói thần vàng kim và từng một mình diệt nhiều bộ lạc cường đại. Hiện thân thành vầng Mặt trời màu tím lướt qua Tiểu Cô Sơn trấn, bay vào rừng cùng Lôi tộc, La Phù Đại Trạch và bộ lạc Kim Lang, cùng nhắm mục tiêu Thạch thôn.; Là đệ nhất cường giả trong bán kính 25 ngàn cây số (trừ Vân tộc), hiện thân là vầng Mặt trời màu tím, lướt qua Tiểu…",
+       "text": "Được xưng là đệ nhất cường giả trong bán kính 25 ngàn cây số, chỉ trừ Vân tộc thần bí; từng một mình diệt nhiều bộ lạc cường đại. Hiện thân thành vầng Mặt trời màu tím lướt qua Tiểu Cô Sơn trấn, bay vào rừng; sau đó Tử Sơn tộc cùng Lôi tộc, La Phù Đại Trạch và bộ lạc Kim Lang đều tiến về một hướng, mục tiêu là Thạch thôn.",
        "anchor": "Tử Sơn Hầu từng một mình diệt qua rất nhiều bộ lạc cường đại."
       },
       {
@@ -3654,21 +3654,21 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0044",
        "tieuDe": "Tử vong dưới lốc xoáy cây liễu",
-       "text": "Đích thân công kích Thạch thôn, hóa mây mù thành người tím khổng lồ giẫm chân xuống cây liễu đầu thôn; bị cành non khuấy tạo vòng xoáy xanh lục thông thiên cuốn vào, xoắn xé nát bấy mà chết.; Khi Tử Sơn Hầu giẫm chân xuống, cây liễu khuấy cành non tạo vòng xoáy xanh lục thông thiên; người tím khổng lồ bị cuốn vào xoắn xé nát bấy, Tử Sơn Hầu tử vong.; Cùng tứ đại cường giả bao vây Thạch thôn, giẫm chân tím khổng lồ xuống cây liễu. Cây liễu khuấy…",
+       "text": "Đích thân công kích Thạch thôn, hóa mây mù thành người tím khổng lồ giẫm chân xuống cây liễu đầu thôn; bị cành non khuấy tạo vòng xoáy xanh lục thông thiên cuốn vào, xoắn xé nát bấy mà chết.",
        "anchor": "toàn bộ đều bị cuốn vào trong cái lốc xoáy thông thiên, bị xoắn xé nát bấy"
       },
       {
        "importance": "normal",
        "chuong": "@c0045",
        "tieuDe": "Bỏ trốn nhờ Bảo Cụ thế thân",
-       "text": "Khi cây liễu bùng nổ tận diệt tứ đại cường giả, Tử Sơn Hầu để lại một Bảo Cụ ngưng tụ thành hình người chịu chết thay, còn bản thân hóa thành vầng thái dương màu tím áp sát mặt đất xông vào nguyên thủy sơn mạch; cành liễu chỉ có một nên chỉ kịp đâm xuyên Bảo Cụ, hắn trở thành tộc chủ duy nhất thoát nạn.; Khi cây liễu tận diệt tứ đại cường giả, Tử Sơn Hầu để lại một Bảo Cụ ngưng thành hình người chịu chết thay rồi bỏ chạy vào rừng, trở thành tộc…",
+       "text": "Khi cây liễu bùng nổ tận diệt tứ đại cường giả, Tử Sơn Hầu để lại một Bảo Cụ ngưng tụ thành hình người chịu chết thay, còn bản thân hóa thành vầng thái dương màu tím áp sát mặt đất xông vào nguyên thủy sơn mạch; cành liễu chỉ có một nên chỉ kịp đâm xuyên Bảo Cụ, hắn trở thành tộc chủ duy nhất thoát nạn.",
        "anchor": "Tử Sơn Hầu cũng đã bỏ chạy rồi!"
       },
       {
        "importance": "normal",
        "chuong": "@c0049",
        "tieuDe": "Kẻ sống sót duy nhất của Tử Sơn Tộc",
-       "text": "Khi hung thú mắt xanh nuốt chửng cả vương thành và toàn bộ nhân khẩu Tử Sơn Tộc, Tử Sơn Hầu vì không rõ ở đâu nên thoát nạn, trở thành người duy nhất còn sống của cả tộc, để ngỏ khả năng trở lại về sau.; Khi hung thú mắt xanh nuốt trọn vương thành và cả nhân khẩu Tử Sơn Tộc, Tử Sơn Hầu vắng mặt tại lãnh địa nên trở thành người duy nhất còn sống của cả tộc, để ngỏ khả năng trở lại báo thù hoặc tái lập tộc.; Khi hung thú mắt xanh nuốt chửng cả vươ…",
+       "text": "Khi hung thú mắt xanh nuốt chửng cả vương thành và toàn bộ nhân khẩu Tử Sơn Tộc, Tử Sơn Hầu vì không rõ ở đâu nên thoát nạn, trở thành người duy nhất còn sống của cả tộc.",
        "anchor": "Tử Sơn Tộc đã bị diệt tộc, trừ một Tử Sơn Hầu đang không biết ở đâu ra"
       }
      ],
@@ -3767,21 +3767,21 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0043",
        "tieuDe": "Tung lôi quang chặn cành liễu",
-       "text": "Ở hướng chính bắc, Vương Hầu Lôi Tộc dùng hết toàn lực tung loạt lôi quang đen như hóa thân Lôi Thần, chặn đánh cành liễu Thạch Thôn khi nó đâm lên trời.; Ở hướng chính bắc, tung loạt lôi quang màu đen bổ xuống, hóa thân thành Lôi Thần dùng hết toàn lực chặn đánh cành liễu phòng ngự của Thạch Thôn (không đánh thân cây).; Ở hướng chính bắc, Vương Hầu Lôi Tộc dốc toàn lực tung loạt lôi quang đen như hóa thân Lôi Thần, chặn đánh cành liễu xanh biếc…",
+       "text": "Ở hướng chính bắc, Lôi Hầu, Vương Hầu Lôi Tộc, dốc toàn lực tung lôi quang đen như hóa thân Lôi Thần để chặn đánh cành liễu xanh biếc của Thạch Thôn khi nó đâm lên trời phản kích Hung Giao.",
        "anchor": "Lôi Hầu đã ra tay, một vị Vương Hầu mạnh mẽ lúc dùng hết toàn lực"
       },
       {
        "importance": "major",
        "chuong": "@c0044",
        "tieuDe": "Bị bắt sống treo đầu thôn",
-       "text": "Dùng lôi quang mấy chục tầng công kích nhưng cây liễu càng xanh thẳm, hấp thu sạch sấm sét khiến hắn lần đầu mất lòng tin vào bản thân; hóa quả cầu sét chống cự vẫn bị cây liễu quấn chặt kéo về treo lơ lửng đầu thôn để liên tục thi triển Bảo thuật cung cấp sấm sét cho nó tẩm bổ.; Lôi Hầu rống to triệu mấy chục tầng lôi quang, hóa quả cầu sét công kích nhưng cây liễu càng xanh thẳm càng hấp thu sạch sấm sét; hắn lần đầu mất lòng tin vào bản thân…",
+       "text": "Dùng lôi quang mấy chục tầng công kích nhưng cây liễu càng xanh thẳm, hấp thu sạch sấm sét khiến Lôi Hầu lần đầu mất lòng tin vào bản thân; sau đó hắn hóa quả cầu sét chống cự vẫn bị cây liễu quấn chặt kéo về treo lơ lửng đầu thôn để liên tục thi triển Bảo thuật cung cấp sấm sét cho nó tẩm bổ.",
        "anchor": "Lôi Hầu bị treo trên cây liễu đầu thôn"
       },
       {
        "importance": "major",
        "chuong": "@c0045",
        "tieuDe": "Bị treo trên cây liễu đến chết",
-       "text": "Lôi Hầu bị cây liễu treo lên, dùng Lôi Quang chống cự nhưng sức cùng lực kiệt, cuối cùng toàn thân khô héo rơi xuống đất vỡ nát mà chết.; Bị cành liễu treo lơ lửng, Lôi Hầu vắt kiệt Lôi Quang chống cự nhưng sức cùng lực kiệt, cuối cùng toàn thân khô héo rơi xuống đất vỡ nát mà chết.; Bị cây liễu treo lên, sức cùng lực kiệt, toàn thân khô héo rồi rơi xuống đất vỡ nát.; Bị cây liễu treo lên, dùng Lôi Quang chống cự đến sức cùng lực kiệt, cuối cùng…",
+       "text": "Lôi Hầu bị cây liễu treo lên, dùng Lôi Quang chống cự đến sức cùng lực kiệt, cuối cùng toàn thân khô héo rơi xuống đất vỡ nát mà chết.",
        "anchor": "toàn thân khô héo, rơi xuống đất giống như một cái bình trà vỡ"
       }
      ],
@@ -3882,21 +3882,21 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0030",
        "tieuDe": "Đòi giết Tế Linh lấy máu",
-       "text": "Đứa nhỏ nhất năm sáu tuổi của La Phù Đại Trạch, khí thế hung mãnh, vừa tới trấn đã đòi tam thúc giết Tế Linh Tiểu Cô Sơn lấy máu tôi luyện thân thể, bị chú mắng cấm động vào vì sợ chọc Sơn Thần; sau đó khiêu chiến cháu của Tử Sơn Tộc.; Nhảy từ trên cao xuống với khí thế hung mãnh, đòi tam thúc giết Tế Linh Tiểu Cô Sơn lấy máu tôi luyện thân thể nhưng bị chú mắng cấm động vào. Sau đó khiêu chiến đấu với cháu của Tử Sơn Tộc, châm ngòi cuộc so tài…",
+       "text": "Đứa nhỏ nhất năm sáu tuổi của La Phù Đại Trạch, khí thế hung mãnh, vừa tới trấn đã đòi tam thúc giết Tế Linh Tiểu Cô Sơn lấy máu tôi luyện thân thể, nhưng bị chú mắng cấm động vào vì sợ chọc Sơn Thần; sau đó Giao Bằng khiêu chiến cháu của Tử Sơn Tộc, châm ngòi cuộc so tài giữa thiên tài các tộc.",
        "anchor": "Tế Linh loại đá núi không thể động vào, nếu không nói không chừng sẽ chọc phải một vị Sơn Thần đó."
       },
       {
        "importance": "normal",
        "chuong": "@c0034",
        "tieuDe": "Bị nhóc tỳ đánh bay",
-       "text": "Tức giận xông vào đầu Thạch Thôn tấn công đám Bì Hầu, Giao Bằng bị một nhóc tỳ chưa cai sữa vỗ một chưởng phát tiếng sấm, lảo đảo lùi mười mấy mét suýt ngã.; Vì thù cũ giữa các tộc, Giao Bằng cùng Tử Sơn Côn và Lôi Minh Viễn lời qua tiếng lại rồi khai chiến sinh tử, thi triển Bảo Thuật Thái Cổ Hung Giao đấu một địch hai.; Cùng Tử Sơn Côn và Lôi Minh Viễn khai chiến sinh tử ngoài rừng Thạch Thôn, tranh giành cành liễu, thi triển Bảo Thuật Thái Cổ…",
+       "text": "Vì tranh giành cành liễu và thù cũ giữa các tộc, Giao Bằng cùng Tử Sơn Côn, Lôi Minh Viễn khai chiến sinh tử ngoài rừng Thạch Thôn, thi triển Bảo Thuật Thái Cổ Hung Giao đấu một địch hai. Sau đó tức giận xông vào đầu Thạch Thôn tấn công đám Bì Hầu, Giao Bằng bị một nhóc tỳ chưa cai sữa vỗ một chưởng phát tiếng sấm, lảo đảo lùi mười mấy mét suýt ngã.",
        "anchor": "toàn thân Giao Bằng như bị sét đánh, lảo đảo lùi lại"
       },
       {
        "importance": "normal",
        "chuong": "@c0035",
        "tieuDe": "Bại dưới tay nhóc tỳ Thạch Thôn",
-       "text": "Thiên tài đến từ La Phù Đại Trạch bị nhóc tỳ đánh lui, cánh tay co giật, mất mặt; bị người đàn ông La Phù Đại Trạch kéo lại không cho xung động, sau đó tò mò hỏi chuyện tộc đã ăn Toan Nghê.; Thiên tài của La Phù Đại Trạch bị nhóc tỳ chưa tới bốn tuổi đẩy lui, cánh tay co giật, mất hết mặt mũi. Sau đó tò mò hỏi chuyện Thạch Thôn ăn Toan Nghê.; Thiên tài từ La Phù Đại Trạch bị Tiểu Thạch Hạo đẩy lui, cánh tay co giật, mất mặt trước đám cường giả…",
+       "text": "Thiên tài Giao Bằng đến từ La Phù Đại Trạch bị Tiểu Thạch Hạo chưa tới bốn tuổi đẩy lui bằng sức mạnh cơ thể thuần túy, cánh tay co giật và mất mặt trước đám cường giả. Sau đó Giao Bằng bị người đàn ông của La Phù Đại Trạch kéo lại, không để xung động, rồi tò mò hỏi chuyện Thạch Thôn đã ăn Toan Nghê.",
        "anchor": "Lúc này Giao Bằng đã bị người đàn ông của La Phù Đại Trạch đó kéo lại, không để nó xung động."
       },
       {
@@ -3910,21 +3910,21 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0037",
        "tieuDe": "Khai chiến bị đánh bay",
-       "text": "Kéo bảo cung bắn liên châu tiễn vào ba con chim non; khi Thạch Hạo cản đường, Giao Bằng vận Cốt Văn khiến hai tay hiện hai con Hung Giao dữ tợn, tự tin xông tới nhưng bị Thạch Hạo đánh bay ngang mười mấy mét, gan bàn tay vỡ nát máu đầm đìa, chỉ nhờ Cốt Văn mà xương tay không gãy.; Kéo bảo cung bắn mũi tên hàn quang nhắm Tử Vân, tuyên bố ba con hung cầm là vật săn của mình; bắn liên châu tiễn khiến Đại Bằng và Tiểu Thanh trúng tên.; Kéo bảo cung…",
+       "text": "Kéo bảo cung bắn mũi tên hàn quang nhắm Tử Vân, tuyên bố ba con hung cầm là vật săn của mình; sau đó bắn liên châu tiễn khiến Đại Bằng và Tiểu Thanh trúng tên. Khi Thạch Hạo cản đường và phản công, Giao Bằng vận Cốt Văn khiến hai tay hiện hai con Hung Giao dữ tợn, tự tin xông tới nhưng vừa giao thủ đã bị đánh bay ngang mười mấy mét, gan bàn tay vỡ nát máu đầm đìa; chỉ nhờ Cốt Văn bảo vệ nên xương tay không gãy.",
        "anchor": "vừa mới giao thủ mà Giao Bằng đã bị đánh bay rồi!"
       },
       {
        "importance": "normal",
        "chuong": "@c0038",
        "tieuDe": "Buộc dùng Bảo Thuật rồi bại thảm",
-       "text": "Mặt đầy máu gần biến dạng, Giao Bằng tức giận tuyên bố bị ép phải dùng Bảo Thuật, thả một con Hung Giao màu tro xám từ ký tự cổ trong lòng bàn tay tấn công Thạch Hạo; Hung Giao bị Thái Cổ Ma Cầm xé đứt, bản thân bị đá cằm chảy máu rồi trúng cối xay đá vào đầu, phun máu bọt và rụng hai răng.; Thiên tài đại tộc bị dồn ép, mặt đầy máu, buộc phải dùng Bảo Thuật chân chính thả một con Hung Giao tro xám tấn công Thạch Hạo, nhưng bị Thái Cổ Ma Cầm xé đ…",
+       "text": "Mặt đầy máu gần biến dạng, Giao Bằng tức giận tuyên bố bị ép phải dùng Bảo Thuật, thả một con Hung Giao màu tro xám từ ký tự cổ trong lòng bàn tay tấn công Thạch Hạo; Hung Giao bị Thái Cổ Ma Cầm xé đứt, bản thân bị đá cằm chảy máu rồi trúng cối xay đá vào đầu, phun máu bọt và rụng hai răng.",
        "anchor": "một con Hung Giao màu tro xám hóa hình bay ra từ trong cái ký hiệu đó"
       },
       {
        "importance": "normal",
        "chuong": "@c0039",
        "tieuDe": "Bắn lén thất bại, đe dọa huyết tẩy",
-       "text": "Dù được tha mạng, Giao Bằng bò dậy diễn hóa Hung Giao thành Hung Tiễn bắn lén sau gáy Thạch Hạo nhưng bị cối xay nghiền nát; bị đá bay, tra tấn cối xay đến gãy sống mũi, rụng cả hàm răng; sau đó cưỡi Phi Giao đe dọa huyết tẩy Thạch Thôn, ra lệnh Phi Giao xông xuống.; Bị Thạch Hạo đập cối xay lên mặt gãy mũi rụng răng; sau đó cưỡi Phi Giao đe dọa huyết tẩy Thạch Thôn, ra lệnh Phi Giao xông xuống nhưng bị cành liễu non chặn đứng.; Không nể việc đư…",
+       "text": "Dù được tha mạng, Giao Bằng vẫn bò dậy, dùng Bảo Thuật diễn hóa Hung Giao thành Hung Tiễn bắn lén sau gáy Thạch Hạo nhưng bị cối xay trắng nghiền nát; sau đó hắn bị Thạch Hạo đá bay, dùng cối xay đập đến gãy sống mũi, rụng cả hàm răng. Cuối chương, Giao Bằng cưỡi Phi Giao đe dọa huyết tẩy Thạch Thôn và ra lệnh Phi Giao xông xuống, nhưng con Phi Giao bị cành liễu non đâm thủng cơ thể.",
        "anchor": "trực tiếp dùng Bảo Thuật diễn hóa Hung Giao thành 'Hung Tiễn', đặt trên dây cung rồi bắn ra, tiến hành chặn giết."
       },
       {
@@ -4069,7 +4069,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0030",
        "tieuDe": "Dẫn Lôi Tộc tới trấn, đặt cược",
-       "text": "Thanh niên hai mươi mấy tuổi hùng tráng, thân mang lôi điện đen, cưỡi da thú cổ đưa người Lôi Tộc tới Tiểu Cô Sơn Trấn; sai Minh Viễn và Nha Nha ra so tài và đặt bảo huyết làm cược.; Cưỡi da thú cổ bay tới trấn, thân toát tiếng sấm và lôi điện đen. Sai Minh Viễn và Nha Nha ra trấn áp hai cháu yêu của Tử Sơn Hầu, cũng đặt bảo huyết làm cược.; Thanh niên hùng tráng thân mang lôi điện đen cưỡi tấm da thú cổ tới trấn, sai Minh Viễn và Nha Nha ra trấ…",
+       "text": "Thanh niên Lôi Tộc hai mươi mấy tuổi hùng tráng, thân mang lôi điện đen, cưỡi tấm da thú cổ đưa người Lôi Tộc tới Tiểu Cô Sơn Trấn. Hắn sai Minh Viễn và Nha Nha ra trấn áp hai cháu yêu của Tử Sơn Hầu, đồng thời đặt bảo huyết làm cược.",
        "anchor": "Đều là thiên tài cả, rốt cuộc ai mạnh nhất đây."
       }
      ],
@@ -4188,7 +4188,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0035",
        "tieuDe": "Thiên tài Tử Sơn Tộc lên tiếng dò hỏi",
-       "text": "Thiên tài Tử Sơn Tộc được nêu tên sánh ngang Giao Bằng, lên tiếng hỏi về hung thú với vẻ kỳ dị khi cảm nhận hung khí trong Thạch Thôn.; Được nêu tên như thiên tài nổi bật của Tử Sơn Tộc, sánh ngang Giao Bằng; lên tiếng hỏi về hung thú với vẻ kỳ dị khi vào Thạch Thôn dò xét.; Thiên tài Tử Sơn Tộc, được nêu tên như thiên tài sánh với Giao Bằng, hỏi về hung thú tại Thạch Thôn.; Thiên tài Tử Sơn Tộc được nhắc tên sánh ngang Giao Bằng; lên tiếng hỏi…",
+       "text": "Thiên tài Tử Sơn Côn của Tử Sơn Tộc được nêu tên như thiên tài nổi bật, sánh ngang Giao Bằng; khi vào Thạch Thôn dò xét, hắn lên tiếng hỏi về hung thú với vẻ kỳ dị.",
        "anchor": "Thiên tài Tử Sơn Côn lên tiếng, lộ ra vẻ kỳ dị"
       },
       {
@@ -4202,21 +4202,21 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0037",
        "tieuDe": "Săn chim non, cung bị đánh gãy",
-       "text": "Sợ tụt hậu sau Giao Bằng, cùng Lôi Minh Viễn cầm bảo cung tên sắt săn đuổi ba con chim non; khi thừa cơ giương cung nhắm bầy chim thì bị Thạch Hạo đá đỉnh đồng ngàn cân bay tới, bảo cung bị đánh gãy đôi.; Thiên tài Tử Sơn Tộc, cùng Lôi Minh Viễn giương bảo cung tên sắt săn đuổi ba con chim non; bảo cung bị đỉnh đồng do Thạch Hạo đá văng đánh gãy đôi.; Cùng Lôi Minh Viễn săn đuổi ba con chim non, bị Thạch Hạo đá văng đỉnh đồng ngàn cân đánh gãy b…",
+       "text": "Sợ tụt hậu sau Giao Bằng, Tử Sơn Côn cùng Lôi Minh Viễn cầm bảo cung tên sắt săn đuổi ba con chim non; khi thừa cơ giương cung nhắm bầy chim, bị Thạch Hạo đá văng đỉnh đồng ngàn cân bay tới, khiến bảo cung của Tử Sơn Côn bị đánh gãy.",
        "anchor": "Cuối cùng, bảo cung của Tử Sơn Côn vẫn bị đánh gãy"
       },
       {
        "importance": "normal",
        "chuong": "@c0038",
        "tieuDe": "Hỏa Lân tím bị Ma Cầm xuyên đầu",
-       "text": "Vốn tâm cao khí ngạo, Tử Sơn Côn chế nhạo Giao Bằng nhưng mắt lóe lãnh quang vì bảo cung bị hủy; khi Thạch Hạo xông vào, tay nó đau như rạn xương, nhờ vòng xương trên ngón cái phát sáng mới phá giải mà vẫn bị đá văng mười mấy mét. Nó thả Hỏa Lân màu tím bằng Bảo Thuật nhưng bị Thái Cổ Ma Cầm ấn chân xuyên thủng đầu, Hỏa Lân vỡ nát.; Thiên tài Tử Sơn Tộc tâm cao khí ngạo, chế nhạo Giao Bằng nhưng hận vì bảo cung bị hủy. Đỡ chưởng Thạch Hạo đến rạ…",
+       "text": "Vốn tâm cao khí ngạo, Tử Sơn Côn chế nhạo Giao Bằng nhưng mắt lóe lãnh quang vì bảo cung bị hủy. Khi Thạch Hạo xông vào, tay nó đau như rạn xương, nhờ vòng xương trên ngón cái phát sáng mới phá giải mà vẫn bị đá văng mười mấy mét. Sau đó Tử Sơn Côn toàn thân phát sáng, tử khí xung thiên, dùng Bảo Thuật thả Hỏa Lân màu tím, nhưng bị Thái Cổ Ma Cầm ấn chân xuyên thủng đầu khiến Hỏa Lân vỡ nát.",
        "anchor": "Tử Sơn Côn hét lớn, toàn thân phát sáng, tử khí xung thiên"
       },
       {
        "importance": "normal",
        "chuong": "@c0039",
        "tieuDe": "Bị áp chế phun máu",
-       "text": "Xông lên tấn công nhưng bị nhóc tỳ áp chế, muốn chạy mà thất bại; bị đạp phun máu, ho sằng sặc thành quả bóng lăn, bị tra tấn bằng cối xay đá.; Cùng hai thiên tài bị Thái Cổ Ma Cầm nghiền nát dị cầm; bị Thạch Hạo đạp phun máu và xếp hàng tra tấn cối xay.; Thiên tài Tử Sơn Tộc cùng xông lên tấn công Thạch Hạo nhưng bị áp chế, bị đạp phun máu và tra tấn bằng cối xay đá.; Cùng Lôi Minh Viễn và Giao Bằng xông lên tấn công nhóc tỳ nhưng bị đánh bay…",
+       "text": "Thiên tài Tử Sơn Tộc cùng Lôi Minh Viễn và Giao Bằng xông lên tấn công nhóc tỳ nhưng bị áp chế; dị cầm bị Thái Cổ Ma Cầm nghiền nát, bản thân bị đánh bay ho ra máu, muốn chạy cũng thất bại, bị đạp phun máu rồi bị xếp hàng tra tấn bằng cối xay đá.",
        "anchor": "lập tức nằm oặt ra đấy, đau buốt khắp người"
       }
      ],
@@ -4353,14 +4353,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0038",
        "tieuDe": "Sấm sét đen bị đè bẹp",
-       "text": "Lôi Minh Viễn tuyên bố ở thế giới này Bảo Thuật mới mạnh nhất, cơ thể bành trướng tạo cỗ điện quang màu đen, ấn ký hiệu sấm sét bắn tia chớp đen về Thạch Hạo; nhưng bị Cốt Văn dung hóa tia chớp, rồi bị Thạch Hạo đá đạp trọng thương, tay nhờ Tá Lực Phù Văn của Lôi Hầu mới không gãy.; Thiên tài Lôi Tộc đề cao Bảo Thuật hơn thể chất, tạo cỗ điện quang màu đen, ấn ký hiệu sấm sét bắn tia chớp lớn về Thạch Hạo. Cốt Văn của Thạch Hạo hiện thành mảng k…",
+       "text": "Lôi Minh Viễn tuyên bố ở thế giới này Bảo Thuật mới mạnh nhất, cơ thể bành trướng tạo cỗ điện quang màu đen, lòng bàn tay hiện ký hiệu sấm sét ấn về phía Thạch Hạo; nhưng bị Cốt Văn của Thạch Hạo dung hóa tia chớp, rồi bị đá đạp trọng thương, tay nhờ Tá Lực Phù Văn của Lôi Hầu mới không gãy.",
        "anchor": "cơ thể bành trướng tạo ra một cỗ điện quang màu đen, lòng bàn tay xuất hiện một cái ký hiệu, sấm sét đan xen, ấn về phía trước"
       },
       {
        "importance": "normal",
        "chuong": "@c0039",
        "tieuDe": "Lôi Cầm bị nuốt, bị tra tấn",
-       "text": "Triệu một con Hung Cầm mang tia chớp màu đen tấn công nhóc tỳ nhưng con Lôi Cầm bị Thái Cổ Ma Cầm nuốt chửng tan rã; bị đạp phun máu, ho ra máu và bị đập cối xay kêu thảm dù cơ thể mạnh mẽ.; Con Lôi Cầm của Lôi Minh Viễn bị Thái Cổ Hung Cầm của Thạch Hạo nuốt chửng tan rã; bản thân bị đánh bay ho ra máu và bị tra tấn cối xay.; Thả Lôi Cầm ra thì bị Thái Cổ Hung Cầm của Thạch Hạo nuốt chửng khiến nó tan rã; bản thân bị đánh bay ho ra máu, bị đập…",
+       "text": "Lôi Minh Viễn triệu một con Hung Cầm mang tia chớp màu đen tấn công nhóc tỳ, nhưng Lôi Cầm bị Thái Cổ Hung Cầm của Thạch Hạo nuốt chửng rồi tan rã; bản thân hắn bị đánh bay ho ra máu và bị đập cối xay đến kêu thảm dù cơ thể mạnh mẽ.",
        "anchor": "trong điện quang chói mắt có một con Hung Cầm bay ra, mang theo tia chớp màu đen đánh về nhóc tỳ"
       }
      ],
@@ -4531,11 +4531,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0030",
        "tieuDe": "Chú Tử Sơn Hầu tới trấn, đặt cược",
-       "text": "Ông lão áo lông, kim quan tỏa tử khí cưỡi xương thú Bảo Cụ tới trấn, khen ngợi Giao Bằng và đặt cược một bình chân huyết hung thú hiếm cho cuộc so tài của lũ trẻ các tộc.; Cưỡi xương thú Bảo Cụ bay sát đất tới trấn, tỏa tử khí. Khen Giao Bằng và tiên đoán mười năm sau ắt danh động mảnh đại địa, đặt cược một bình chân huyết hung thú hiếm cho cuộc so tài giữa bọn trẻ các tộc.; Ông lão áo lông, đội kim quan, tỏa tử khí, cưỡi xương thú Bảo Cụ chở th…",
+       "text": "Ông lão áo lông, đội kim quan, tỏa tử khí, cưỡi xương thú Bảo Cụ tới Tiểu Cô Sơn Trấn cùng một thanh niên, hai thiếu nữ và một bé trai. Ông là chú ruột của Tử Sơn Hầu, khen Giao Bằng, tiên đoán mười năm sau ắt danh động mảnh đại địa, rồi đặt cược một bình chân huyết hung thú hiếm cho cuộc so tài giữa bọn trẻ các tộc.",
        "anchor": "Ông lão là chú ruột của Tử Sơn Hầu"
       },
       {
-       "text": "Tộc thúc bối phận cực cao của Tử Sơn Hầu, một thân áo lông đầu đội kim quan lởn vởn tử khí, hòa nhã dò hỏi tộc trưởng và cây liễu; dẫn cường giả Tử Sơn Tộc và La Phù Đại Trạch vào Thạch Thôn xem xét; khiếp vía lảo đảo khi nghe danh xưng Liễu Thần.; Tộc thúc bối phận cao của Tử Sơn Hầu, một thân áo lông đầu đội kim quan lởn vởn tử khí, hòa nhã hỏi han xin vào làng nghỉ, dò hỏi chuyện tộc trưởng và cây liễu; khiếp vía lảo đảo khi nghe danh xưng Li…",
+       "text": "Tộc thúc bối phận cực cao của Tử Sơn Hầu, sở hữu quyền thế lớn; một thân áo lông, đầu đội kim quan, lởn vởn tử khí. Ông hòa nhã hỏi han xin vào làng nghỉ, dò hỏi chuyện tộc trưởng và cây liễu, dẫn cường giả Tử Sơn Tộc cùng La Phù Đại Trạch vào Thạch Thôn xem xét, rồi khiếp vía lảo đảo khi nghe danh xưng Liễu Thần.",
        "anchor": "Tộc thúc Tử Sơn Thọ của Tử Sơn Hầu ho khan, ông ấy có bối phận cực cao, sở hữu quyền thế khổng lồ",
        "bridge": true,
        "khoang": "@c0035"
@@ -4681,7 +4681,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0030",
        "tieuDe": "Cấm Giao Bằng động Tế Linh, đặt cược",
-       "text": "Người trung niên tóc đen mắt vàng cưỡi Giao có cánh đưa Giao Bằng cùng mấy đứa trẻ tới trấn; ngăn Giao Bằng động vào Tế Linh vì sợ chọc Sơn Thần, đồng thời đặt cược một bình máu dị chủng hung cầm cho cuộc so tài.; Cưỡi Giao có cánh dài hơn hai mươi mét đưa người La Phù Đại Trạch cùng ba đứa trẻ tới trấn. Cấm Giao Bằng động vào Tế Linh vì sợ chọc Sơn Thần, và đặt cược một bình máu dị chủng hung cầm cho cuộc so tài.",
+       "text": "Người trung niên tóc đen mắt vàng cưỡi Giao có cánh dài hơn hai mươi mét đưa người La Phù Đại Trạch cùng Giao Bằng và mấy đứa trẻ tới trấn; ngăn Giao Bằng động vào Tế Linh vì sợ chọc Sơn Thần, đồng thời đặt cược một bình máu dị chủng hung cầm cho cuộc so tài.",
        "anchor": "Tế Linh loại đá núi không thể động vào, nếu không nói không chừng sẽ chọc phải một vị Sơn Thần đó."
       },
       {
@@ -4986,7 +4986,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0041",
        "tieuDe": "Cụt tay về tộc báo tin Thạch thôn",
-       "text": "Ba Đồ cụt tay chạy về bộ lạc Kim Lang, ngất lịm rồi bừng tỉnh gào báo thù; hắn kể cho tộc trưởng chuyện vào thôn cổ quái phát hiện xương quý Toan Nghê chí bảo và hậu duệ ma cầm Thái cổ, nhưng bị cây liễu bị sét đánh chém giết.; Cụt tay, ngất lịm khi về tới bộ lạc Kim Lang rồi bừng tỉnh kêu tộc trưởng báo thù; kể lại việc trong thôn cổ có xương quý Toan Nghê chí bảo cùng hậu duệ ma cầm Thái cổ, và cây liễu bị sét đánh đã chém giết cao thủ.; Người…",
+       "text": "Ba Đồ cụt tay chạy về bộ lạc Kim Lang, ngất lịm rồi bừng tỉnh gào báo thù; hắn kể cho tộc trưởng chuyện vào một thôn cổ quái, phát hiện xương quý Toan Nghê chí bảo và hậu duệ ma cầm Thái cổ, nhưng bị cây liễu bị sét đánh chém giết.",
        "anchor": "Bọn tôi đã vào một cái thôn cổ quái, phát hiện ở đây có xương quý Toàn Nghê chí bảo"
       }
      ],
@@ -5048,7 +5048,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0041",
        "tieuDe": "Quyết đến Thạch thôn cùng Sói thần",
-       "text": "Nghe Ba Đồ báo về xương quý Toan Nghê và cây liễu thần bí, tộc trưởng Kim Lang hỏi rõ sự tình rồi quyết định đích thân đến Thạch thôn, còn định mời Sói thần vàng kim theo cùng cho ổn thỏa; quanh lều bùng lên cơn lốc xoáy vàng kim.; Nghe Ba Đồ kể chuyện xương quý Toan Nghê và cây liễu chém giết, lão liền quyết định đích thân tới Thạch thôn, còn mời sinh linh Sói thần vàng kim đi cùng cho ổn thỏa. Sau đó đích thân tới Tiểu Cô Sơn trấn.; Nghe Ba Đồ…",
+       "text": "Nghe Ba Đồ báo về xương quý Toan Nghê và cây liễu thần bí chém giết cao thủ, tộc trưởng Kim Lang hỏi rõ sự tình rồi quyết định đích thân đến Thạch thôn, đồng thời mời Sói thần đi cùng cho ổn thỏa. Sau đó, lão tới Tiểu Cô Sơn trấn và cùng Sói thần vàng kim xuất hiện ngoài Thạch thôn, báo hiệu các Chí cường giả sắp khuấy động sóng gió kinh thiên động địa.",
        "anchor": "Để ổn thỏa hơn sẽ đi mời Sói thần, để nó cũng theo ta một chuyến này."
       },
       {
@@ -5061,14 +5061,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0043",
        "tieuDe": "Chiếm phương chính nam",
-       "text": "Ông lão cao lớn con ngươi vàng nhạt có tia chớp, đi cùng con Thần Lang vàng mạnh nhất phương viên năm vạn dặm, ra lệnh thiết kỵ Kim Lang lùi một dặm rồi hóa ánh sáng vàng chiếm phương chính nam để hủy diệt Thạch Thôn.; Ra lệnh thiết kỵ Kim Lang lùi một dặm chờ lệnh rồi hóa ánh sáng vàng tới đỉnh núi cách Thạch Thôn một dặm; đi cùng con Thần Lang màu vàng — Tế Linh mạnh nhất phương viên năm vạn dặm — chiếm một phương để hủy diệt thôn.; Ông lão ca…",
+       "text": "Ông lão cao lớn con ngươi vàng nhạt có tia chớp, đi cùng con Thần Lang màu vàng — Tế Linh mạnh nhất phương viên năm vạn dặm — ra lệnh thiết kỵ Kim Lang lùi một dặm chờ lệnh, rồi hóa ánh sáng vàng tới đỉnh núi cách Thạch Thôn một dặm, chiếm phương chính nam trong thế tứ đại tộc chủ vây đánh Thạch Thôn.",
        "anchor": "Mỗi người chiếm cứ một phương, đây là muốn triển khai thủ đoạn lôi đình"
       },
       {
        "importance": "major",
        "chuong": "@c0045",
        "tieuDe": "Chết cùng Tổ Khí trong gió xoáy",
-       "text": "Tộc trưởng bộ lạc Kim Lang mang Tổ Khí Lang Nha Chủy đến nhưng bị cuốn vào mắt gió xoáy màu xanh của cây liễu; Tổ Khí không đỡ nổi, thân hắn tan thành vũng máu, Lang Nha Chủy ảm đạm rơi xuống trước mặt tộc nhân.; Điều khiển vùng cương thổ bao la, mang Tổ Khí Lang Nha Chủy đến nhưng bị cuốn vào mắt gió xoáy, dùng Tổ Khí thất bại nên thân tan thành vũng máu, Tổ Khí ảm đạm rơi xuống được một tộc lão nâng lên.; Bị cuốn vào mắt gió xoáy của cây liễu…",
+       "text": "Tộc trưởng bộ lạc Kim Lang điều khiển vùng cương thổ bao la, mang Tổ Khí Lang Nha Chủy đến Thạch Thôn nhưng bị cuốn vào mắt gió xoáy màu xanh của cây liễu; Tổ Khí không đỡ nổi, cơ thể hắn tan vỡ thành huyết vụ, còn Lang Nha Chủy ảm đạm rơi xuống trước mặt tộc nhân và được một tộc lão nâng lên.",
        "anchor": "cơ thể tan vỡ từng tấc, huyết vụ bay lên"
       }
      ],
@@ -5154,7 +5154,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0045",
        "tieuDe": "Chủ trương vây khốn rồi bị chém bay đầu",
-       "text": "Sau khi cha chết, thiếu tộc trưởng phán đoán cây liễu chỉ vươn được hơn một dặm nên chủ trương vây khốn Thạch Thôn cho chết đói; bị Thần Lang tát bay khi Tế Linh cướp Tổ Khí, rồi khi cây liễu tận diệt lần hai (cành kéo dài bốn năm dặm) thì bị chém bay đầu cùng các nhân vật nắm quyền các tộc.; Sau khi cha chết, hắn gào đòi báo thù và cầm đầu phe vây khốn; bị Thần Lang tát bay khi cố giữ Tổ Khí, rồi khi cành liễu bất ngờ kéo dài bốn năm dặm san bằ…",
+       "text": "Sau khi cha chết, thiếu tộc trưởng bộ lạc Kim Lang gào đòi báo thù, phán đoán cây liễu chỉ vươn được hơn một dặm nên chủ trương vây khốn Thạch Thôn cho chết đói; sau đó bị Thần Lang tát bay khi Tế Linh cướp Lang Nha Chủy, rồi bị cành liễu bất ngờ kéo dài bốn năm dặm chém bay đầu cùng các nhân vật nắm quyền các tộc.",
        "anchor": "Thiếu tộc trưởng của bộ lạc Kim Lang hét lớn, đầu bay lên"
       }
      ],
@@ -5306,26 +5306,26 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Khi Phi Giao há mồm xông tới định huyết tẩy Thạch Thôn, một cành liễu non xanh biếc như điêu khắc bằng thần ngọc phát hào quang xán lạn chọc thủng trời cao, ví như xích thần trật tự, đâm thủng cơ thể con Phi Giao khiến nó im bặt — lần đầu hiển lộ uy năng phi thường, ứng lời cầu khấn của Thạch Hạo.; Sau lời khấn của Thạch Hạo, một cành liễu non xanh biếc như điêu khắc bằng thần ngọc từ cây liễu cháy đen phóng lên, phát hào quang xán lạn chọc thủn…",
+       "text": "Khi Phi Giao há mồm xông tới định huyết tẩy Thạch Thôn, một cành liễu non xanh biếc như điêu khắc bằng thần ngọc phát hào quang xán lạn chọc thủng trời cao, ví như xích thần trật tự, rồi đâm thủng cơ thể con Phi Giao khiến nó im bặt — lần đầu hiển lộ uy năng phi thường, ứng lời cầu khấn của Thạch Hạo.",
        "anchor": "một cành liễu non xanh biếc như điêu khắc bằng thần ngọc",
        "bridge": true,
        "khoang": "@c0039"
       },
       {
-       "text": "Cành liễu vọt ra đâm xuyên giết chết con Phi Giao của La Phù Đại Trạch, hút tinh khí khiến thân nó phân hủy đứt thành mấy khối; hóa dây xích chém đứt hơn chục cường giả ẩn nấp chỉ trong một hơi thở; đâm phế cánh tay phải cùng tu vi Giao Thương và thủ lĩnh bộ lạc Kim Lang; cuối cùng vươn xa hơn nửa cây số chém ngang kẻ định bẩm báo tộc chủ, chém mất bàn tay lão Lôi tộc và chú ruột Tử Sơn Hầu để cảnh cáo.; Cành liễu hóa dây xích xanh sắc hơn đao t…",
+       "text": "Cành liễu vọt ra đâm xuyên giết chết con Phi Giao của La Phù Đại Trạch, hút tinh khí khiến thân nó phân hủy đứt thành mấy khối; hóa dây xích xanh chém đứt hơn chục cường giả ẩn nấp chỉ trong một hơi thở; đâm phế cánh tay phải cùng tu vi Giao Thương, trừng phạt thủ lĩnh bộ lạc Kim Lang và bảy tám cường giả từng đe dọa Thạch thôn; cuối cùng vươn xa hơn nửa cây số chém ngang kẻ định bẩm báo tộc chủ, chém mất bàn tay lão Lôi tộc và chú ruột Tử Sơn Hầu để cảnh cáo.",
        "anchor": "cành liễu như đóng đinh con Phi Giao ở giữa không trung",
        "bridge": true,
        "khoang": "@c0040"
       },
       {
-       "text": "Tộc chủ La Phù Đại Trạch hóa hung giao dài hơn ba trăm mét công kích; cành liễu xuyên thủng trán, quấn cổ hút khô tinh khí thần, rồi vươn tới con sông phương Tây chém đứt hắn làm hai, xác khô quắt như già mấy nghìn năm.; Khi Thạch thôn bị bốn cường giả liên thủ vây công từ mọi hướng, cây liễu bừng tỉnh phản kích: cành liễu hóa thần thông quét sạch bốn phe, biến trận vây diệt thôn thành màn ra oai chấn động bốn phương.; Lôi Hầu triệu mấy chục tần…",
+       "text": "Tộc chủ La Phù Đại Trạch hóa hung giao dài hơn ba trăm mét công kích; cành liễu xuyên thủng trán, quấn cổ hút khô tinh khí thần, rồi vươn tới con sông phương Tây chém đứt hắn làm hai, xác khô quắt như già mấy nghìn năm. Khi Thạch thôn bị bốn cường giả liên thủ vây công từ mọi hướng, cây liễu bừng tỉnh phản kích: cành liễu hóa thần thông quét sạch bốn phe, biến trận vây diệt thôn thành màn ra oai chấn động bốn phương. Lôi Hầu triệu mấy chục tầng lôi quang công kích nhưng bị cây liễu hấp thu sạch; sau đó hắn bị cành liễu quấn chặt kéo về Thạch thôn, treo lơ lửng đầu thôn để liên tục thi triển Bảo thuật cung cấp sấm sét cho nó tẩm bổ.",
        "anchor": "đơn giản chét đứt hắn ra làm hai",
        "bridge": true,
        "khoang": "@c0044"
       },
       {
-       "text": "Sau mấy chục năm im lặng, cây liễu cổ lên tiếng lần đầu, dặn thôn dân trữ lương chuẩn bị tai họa lớn; một sức mạnh thần bí lan ra gần giống lực lượng lễ bái của tiên dân Thượng Cổ trong Cốt Thư, khiến đỉnh cổ tổ truyền cộng minh.; Cây liễu cổ ở Thạch Thôn lên tiếng lần đầu sau mấy chục năm, thôn dân dập đầu bái lạy cầu bảo vệ; Liễu Thần dặn trữ lương chuẩn bị tai họa lớn sắp tới, một sức mạnh thần bí lan ra gần giống lực lượng lễ bái của tiên dâ…",
-       "anchor": "Nghe lời căn dặn của Liễu Thần, bắt đầu trữ lương ngay",
+       "text": "Sau mấy chục năm im lặng, cây liễu cổ ở Thạch Thôn lên tiếng lần đầu, dặn thôn dân trữ lương chuẩn bị tai họa lớn; thôn dân dập đầu bái lạy cầu Liễu Thần bảo vệ, một sức mạnh thần bí lan ra gần giống lực lượng lễ bái của tiên dân Thượng Cổ trong Cốt Thư, khiến đỉnh cổ tổ truyền cộng minh.",
+       "anchor": "Nghe lời căn dặn của Liễu Thần, bắt đầu trữ lương ngay!",
        "bridge": true,
        "khoang": "@c0046"
       },
@@ -5343,31 +5343,31 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0051"
       },
       {
-       "text": "Đáp lời cầu xin nhìn rõ tiềm thức của Thạch Hạo, cây liễu báo sắp ngủ một thời gian dài, hẹn chờ khi huyết khí Thạch Hạo mạnh hơn sẽ giúp nó nhìn rõ mảnh ký ức trong tiềm thức.; Khi Thạch Hạo cầu giúp nhìn rõ mảnh ký ức lạnh lùng trong tiềm thức, cây liễu thần báo sắp ngủ một thời gian dài, hẹn chờ một hai năm nữa khi huyết khí Thạch Hạo mạnh hơn.; Cây liễu báo sắp ngủ một thời gian dài, hẹn giúp Thạch Hạo nhìn rõ tiềm thức khi huyết khí nó mạnh…",
+       "text": "Khi Thạch Hạo cầu giúp nhìn rõ mảnh ký ức lạnh lùng trong tiềm thức, cây liễu báo sắp ngủ một thời gian dài, hẹn chờ một hai năm nữa khi huyết khí Thạch Hạo mạnh hơn sẽ giúp nó nhìn rõ tiềm thức.",
        "anchor": "Ta sắp ngủ một thời gian dài, chờ ngươi lớn hơn chút nữa",
        "bridge": true,
        "khoang": "@c0052"
       },
       {
-       "text": "Cây liễu đầu thôn tỏa sáng bao phủ Thạch thôn, tỉnh dậy sau hơn một năm ngủ say; trói rồi thả Mao Cầu, giải thích nó là Di Chủng Thái Cổ; răn Thạch Hạo đừng đột phá gấp mà rèn thân đạt cửa ải trăm ngàn cân, nhắc tới hung thú Thái cổ như Chân Hống, Đại Bàng Kim Sí; đồng ý soi tiềm thức Thạch Hạo để hé lộ chuyện năm đó.; Khi màn đêm buông, cây liễu đầu thôn tỏa sáng bao phủ cả Thạch thôn — Liễu Thần tỉnh lại sau hơn một năm ngủ say. Nó dùng cành l…",
+       "text": "Khi màn đêm buông, cây liễu đầu thôn tỏa sáng bao phủ Thạch thôn, Liễu Thần tỉnh dậy sau hơn một năm ngủ say; dùng cành liễu trói Mao Cầu khi nó định gặm chồi non, rồi thả ra sau khi Thạch Hạo giải thích Mao Cầu là Di Chủng Thái Cổ đã vỡ phù văn và quên quá khứ. Nghe Thạch Vân Phong kể quá trình tu hành của Thạch Hạo, Liễu Thần răn cậu đừng vội đột phá, hãy rèn thân hướng tới cửa ải trăm ngàn cân, nhắc tới hung thú Thái cổ như Chân Hống, Đại Bàng Kim Sí, và đồng ý giúp Thạch Hạo xem tiềm thức để biết chuyện năm đó.",
        "anchor": "Hơn một năm nay nó đã ngủ say, đến bây giờ mới tỉnh dậy.",
        "bridge": true,
        "khoang": "@c0054"
       },
       {
-       "text": "Truyền âm chiếu lại trận chiến Thạch phủ Hoàng Đô cho nhóc tỳ đứng dưới gốc xem như chuyện đã qua; đối đáp triết lý với nhóc tỳ về Chí Tôn cốt, khen nó thiện lương không để cừu hận làm mất lý trí dù mất Chí Tôn cốt; vui mừng hứa cho biết một bí mật, gợi mở bằng hình ảnh cây cỏ khô héo có thể xanh tươi trở lại; Cây liễu bị cháy đen nhưng có linh trí, truyền âm chiếu lại trận chiến quá khứ cho nhóc tỳ xem, khen nó thiện lương không bị cừu hận chi…",
+       "text": "Truyền âm chiếu lại trận chiến Thạch phủ Hoàng Đô cho nhóc tỳ đứng dưới gốc xem như chuyện đã qua; sau đó đối đáp với nhóc tỳ về Chí Tôn cốt, khen nó thiện lương không để cừu hận làm mất lý trí, vui mừng hứa cho biết một bí mật và gợi mở bằng câu hỏi cây cỏ khô héo có thể xanh tươi trở lại.",
        "anchor": "Cháu đã bao giờ thấy cây cỏ khô héo lại xanh tươi trở lại?",
        "bridge": true,
        "khoang": "@c0062"
       },
       {
-       "text": "Truyền âm bài kệ về niết bàn tái sinh, tiết lộ nhóc tỳ năm xưa tự tái sinh sinh cơ mà sống sót chứ Liễu Thần chỉ đứng nhìn, cảm thấy đồng bệnh tương lân; sau khi tộc trưởng trao cục xương trắng, Liễu Thần im lặng hồi lâu rồi lên tiếng đặt tên bốn chữ: Nguyên Thủy Chân Giải.; Tộc trưởng kể mấy chục năm trước một đêm sấm sét, Liễu Thần tắm trong biển sét, cành hóa thần liên đâm xuyên trời rồi gãy cháy đen rơi xuống kèm cục xương trắng. Con Chu Yếm…",
+       "text": "Truyền âm bài kệ về niết bàn tái sinh, tiết lộ nhóc tỳ năm xưa tự tái sinh sinh cơ mà sống sót chứ Liễu Thần chỉ đứng nhìn, cảm thấy đồng bệnh tương lân; sau khi tộc trưởng trao cục xương trắng và kể nó rơi cùng Liễu Thần trong biển sét mấy chục năm trước, Liễu Thần im lặng hồi lâu rồi lên tiếng đặt tên bốn chữ: Nguyên Thủy Chân Giải.",
        "anchor": "Lúc cháu sắp sửa khô kiệt thì sinh cơ lại tái hiện, từng bước từng bước tăng trưởng.",
        "bridge": true,
        "khoang": "@c0063"
       },
       {
-       "text": "Chỉ điểm nhóc tỳ cách tu Nguyên Thủy Chân Giải — lúc nhỏ phải nâng thần thiết mười vạn cân bằng sức cơ thể, mài ý chí cứng hơn sắt; trao phương thuốc trúc cơ cho Thái Cổ Hung Thú non và chỉ dùng máu Chu Yếm làm chủ dược, đồng thời chỉ nơi tu luyện nghịch dòng thác đá.; Chỉ nhóc tỳ tới vùng thác nước đá ngoài bảy mươi dặm tu luyện và cho phương thuốc chuyên trúc cơ Thái Cổ Hung Thú non; cho phép dùng đồ thường thay phụ liệu trừ chủ dược, định lấy…",
+       "text": "Chỉ điểm nhóc tỳ cách tu Nguyên Thủy Chân Giải: lúc nhỏ ở Bàn Huyết Cảnh phải dùng sức cơ thể nâng thần thiết mười vạn cân, mài ý chí cứng hơn sắt; trao phương thuốc trúc cơ cho Thái Cổ Hung Thú non, cho phép dùng đồ thường thay phụ liệu nhưng định lấy máu Chu Yếm làm chủ dược, đồng thời chỉ nhóc tỳ tới vùng thác nước đá ngoài bảy mươi dặm để tu luyện nghịch dòng.",
        "anchor": "Bảo nó cứ cách mỗi ngày hiến ra một giọt máu làm chủ dược là được rồi",
        "bridge": true,
        "khoang": "@c0064"
@@ -5678,14 +5678,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0046",
        "tieuDe": "Tranh thánh vật giữa đại chiến sơn mạch",
-       "text": "Cái bóng khổng lồ đỉnh thiên lập địa với đôi mắt xanh biếc đường kính mấy dặm tuyên bố thánh vật là của mình, thi triển Bảo Thuật phun hào quang đấu với đối thủ dùng côn sắt; sau khuyên đối thủ rút lui vì sợ lưỡng bại câu thương với con chim đỏ nhỏ.; Sinh vật đỉnh thiên lập địa, mắt xanh biếc đường kính mấy dặm, sát khí kinh thiên, tuyên bố thánh vật là của mình; giao chiến với đối thủ dùng côn sắt, thò bàn chân che phủ mấy dải núi và khuyên đối…",
-       "anchor": "Thánh vật này là của ta"
+       "text": "Cái bóng khổng lồ đỉnh thiên lập địa với đôi mắt xanh biếc đường kính mấy dặm, sát khí kinh thiên, tuyên bố thánh vật là của mình; nó thi triển Bảo Thuật phun hào quang, giao chiến với đối thủ dùng côn sắt, thò bàn chân che phủ mấy dải núi và về sau khuyên đối thủ rút lui vì đối phương cùng con chim đỏ nhỏ đã lưỡng bại câu thương.",
+       "anchor": "Thánh vật này là của ta."
       },
       {
        "importance": "normal",
        "chuong": "@c0049",
        "tieuDe": "Nuốt chửng Tử Sơn Tộc, hô hào tuyệt diệt",
-       "text": "Hung thú đỉnh thiên lập địa ẩn trong sương mù, giao đấu chim đỏ rồi lao đến lãnh địa Tử Sơn Tộc, há mồm như biển máu nuốt cả vương thành và nhân khẩu khiến Tế Linh nổ tung; tuyên bố trong mười vạn dặm sẽ không còn sinh linh nào tồn tại, hứa cho con nổi bật đi theo tu luyện ở Thần Sơn.; Cùng Thôn Thiên Tước điên cuồng hô hào huyết tẩy vùng đất mười vạn dặm bất kể Nhân Tộc hay tộc quần khác, hứa cho con nào nổi bật được đi theo tu luyện ở Thần Sơn…",
+       "text": "Hung thú đỉnh thiên lập địa ẩn trong sương mù giao đấu với chim đỏ rồi lao đến lãnh địa Tử Sơn Tộc, há mồm như biển máu nuốt cả vương thành và nhân khẩu, khiến Tế Linh nổ tung; nó tuyên bố trong mười vạn dặm sẽ không còn sinh linh nào tồn tại, rồi cùng Thôn Thiên Tước hô hào huyết tẩy mọi bộ lạc, tộc quần bất kể Nhân Tộc hay tộc khác, và hứa cho con nào nổi bật được đi theo tu luyện ở Thần Sơn.",
        "anchor": "Tử Sơn Tộc đã bị diệt tộc, trừ một Tử Sơn Hầu đang không biết ở đâu ra"
       }
      ],
@@ -5844,14 +5844,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0048",
        "tieuDe": "Diệt Lôi tộc, nuốt huyết khí phục hồi",
-       "text": "Con hung cầm mắt trăng máu bắt được Thánh vật rồi lao tới lãnh địa vương hầu của Lôi tộc mấy ngàn vạn nhân khẩu, há mỏ phun chùm ô quang hút trọn toàn bộ dân chúng vào mỏ, nổ nát thành sương máu; nhờ hấp thu lượng huyết khí cực lớn mà được tẩm bổ, tinh thần phấn chấn, hết vẻ mệt mỏi, tự nhủ miễn cưỡng cũng đủ no nhẹ.; Con hung cầm khổng lồ mắt trăng máu, thân lớn hơn mây đen, bắt được Thánh vật trắng nõn rồi bay ra xa, lao tới lãnh địa vương hầu…",
+       "text": "Con hung cầm khổng lồ mắt trăng máu, thân lớn hơn mây đen, bắt được Thánh vật rồi lao tới lãnh địa vương hầu của Lôi tộc mấy ngàn vạn nhân khẩu, há mỏ phun chùm ô quang hút trọn toàn bộ dân chúng vào mỏ, nổ nát thành sương máu; nhờ hấp thu lượng huyết khí cực lớn mà được tẩm bổ, tinh thần phấn chấn, hết vẻ mệt mỏi, tự nhủ miễn cưỡng cũng đủ no nhẹ.",
        "anchor": "trời ơi là một con Thôn Thiên Tước trong truyền thuyết!"
       },
       {
        "importance": "normal",
        "chuong": "@c0049",
        "tieuDe": "Diệt Lôi Tộc, huyết tẩy mười vạn dặm",
-       "text": "Là một trong tứ đại chí tôn, thân hình lớn hơn núi Thái Cổ, dùng lông đen ngưng luyện Thiên Địa Hồng Lô đối đầu sinh linh cầm côn sắt; nuốt chửng mấy nghìn vạn người cùng mấy chục tòa thành của Lôi Tộc khiến tộc này tuyệt diệt, rồi cùng hung thú mắt xanh hạ lệnh huyết tẩy vùng đất.; Trên bầu trời vùng đất mười vạn dặm, Thôn Thiên Tước triển Thiên Địa Hồng Lô đối đầu sinh linh cầm côn sắt có mắt dọc mi tâm, đồng thời nuốt chửng mấy nghìn vạn ngườ…",
+       "text": "Là một trong tứ đại chí tôn, Thôn Thiên Tước có thân hình lớn hơn núi Thái Cổ, dùng lông đen ngưng luyện Thiên Địa Hồng Lô đối đầu sinh linh cầm côn sắt có mắt dọc mi tâm. Nó nuốt chửng mấy nghìn vạn người cùng mấy chục tòa thành của Lôi Tộc, khiến tộc từng thống trị vùng đất này tuyệt diệt, rồi cùng hung thú mắt xanh hạ lệnh huyết tẩy mười vạn dặm.",
        "anchor": "Lôi Tộc hùng mạnh nhất, từng thống trị vùng đất này đã trở thành khói bụi lịch sử"
       },
       {
@@ -6139,7 +6139,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Sinh linh nhìn giống như khỉ này đột nhiên tỏa kim quang khắp người"
       },
       {
-       "text": "Mao Cầu trộm hai mươi mấy quả trứng dị cầm; đêm định gặm chồi non chí cường của cây liễu đầu thôn thì bị cành liễu trói treo giữa không trung. Thạch Hạo giải thích nó cũng là Di Chủng Thái Cổ nhưng phù văn bể nát, quên hết quá khứ; Liễu Thần thả nó ra.; Quả cầu vàng kim Chu Yếm chuyên ăn trộm đồ ăn khắp Thạch thôn, bị Hổ thẩm đuổi đánh bằng cục xương nhưng đánh vào kêu coong như thiết thạch không hề đau. Bị nhốt dưới đáy hồ một năm không ăn uống…",
+       "text": "Quả cầu vàng kim Chu Yếm chuyên ăn trộm đồ ăn khắp Thạch thôn, bị Hổ thẩm đuổi đánh bằng cục xương nhưng đánh vào kêu coong như thiết thạch không hề đau; Thạch Hạo nói nó là Chu Yếm và gọi là Mao Cầu. Nó từng bị nhốt dưới đáy hồ một năm không ăn uống nên giờ ăn bù để khôi phục nguyên khí. Sau đó Mao Cầu trộm hơn hai mươi quả trứng dị cầm; đêm định gặm chồi non chí cường của cây liễu đầu thôn thì bị cành liễu trói treo giữa không trung. Thạch Hạo giải thích nó cũng là Di Chủng Thái Cổ nhưng phù văn bể nát, quên hết quá khứ; Liễu Thần thả nó ra.",
        "anchor": "nó không phải là khỉ, nó là con Chu Yếm đó",
        "bridge": true,
        "khoang": "@c0054"
@@ -6276,14 +6276,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0012",
        "tieuDe": "Bị người Bái Thôn bắn trọng thương",
-       "text": "Là thành viên đội săn Thạch Thôn; khi người Bái Thôn cách mấy chục dặm xâm nhập khu săn bắn tranh mồi, cha Bì Hầu bị bắn một mũi tên trúng lá phổi, suýt mất mạng.; Đi săn cùng đội, bị người Bái Thôn bắn tên trúng lá phổi khi tranh đoạt mồi săn trong khu săn bắn Thạch Thôn, được khiêng về.; Trong lần đội săn Thạch Thôn ra khu săn bắn, người Bái Thôn cách mấy chục dặm xâm nhập tranh đoạt mồi săn. Cha Bì Hầu bị bắn một mũi tên trúng lá phổi, thương…",
+       "text": "Là thành viên đội săn Thạch Thôn; khi người Bái Thôn cách mấy chục dặm xâm nhập khu săn bắn tranh đoạt mồi săn, cha Bì Hầu bị bắn một mũi tên trúng lá phổi, thương thế không nhẹ và suýt mất mạng.",
        "anchor": "còn suýt nữa bắn chết cha của Bì Hầu"
       },
       {
        "importance": "normal",
        "chuong": "@c0013",
        "tieuDe": "Trọng thương vì tên Bái Thôn",
-       "text": "Bị người Bái Thôn vượt giới bắn một mũi tên sắt dài một mét ba xuyên thủng giáp hộ thân, thấu phổi phải ra tới sau lưng, suýt mất mạng; được Thạch Lâm Hổ sơ cứu rồi tộc trưởng rút tên, cầm máu và cho thuốc tím cứu sống.; Bị một mũi tên sắt bắn thủng giáp hộ thân, xuyên phổi phải ra tới sau lưng, suýt mất mạng; kiên cường trợn mắt mắng không cho vợ con khóc, được tộc trưởng rút tên và cho thuốc tím trị thương.; Bị một mũi tên sắt dài một mét ba b…",
+       "text": "Bị người Bái Thôn vượt giới cướp Lục Túc Đà và bắn một mũi tên sắt dài một mét ba xuyên thủng giáp hộ thân, thấu phổi phải ra tới sau lưng, suýt mất mạng; vẫn kiên cường trợn mắt mắng không cho vợ con khóc, được Thạch Lâm Hổ sơ cứu rồi tộc trưởng rút tên, cầm máu và cho thuốc tím cứu chữa.",
        "anchor": "một mũi tên sắt đã bắn thủng giáp hộ thân của hắn, xuyên qua phổi phải ra tới sau lưng"
       }
      ],
@@ -6456,7 +6456,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0001",
        "tieuDe": "Trà trộn rèn luyện và bú sữa thú",
-       "text": "Chú nhóc mới tập đi tự bám theo đám trẻ rèn luyện thân thể dưới mây sớm, bi bô bắt chước động tác xiêu vẹo. Mồ côi từ nửa tuổi, bú sữa bách thú lớn lên, nay được hơn một tuổi vẫn chưa cai sữa nên bị đám trẻ lớn trêu, song nó không để bụng mà múc sữa uống ngon lành.; Chú nhóc một tuổi rưỡi trà trộn vào đám trẻ rèn luyện dưới mây sớm, bi bô bắt chước động tác, sau đó đuổi theo con chim sẻ năm màu. Được lão tộc trưởng Thạch Vân Phong nấu sữa thú ch…",
+       "text": "Chú nhóc mới tập đi tự bám theo đám trẻ rèn luyện thân thể dưới mây sớm, bi bô bắt chước động tác xiêu vẹo, rồi nhanh chóng phân tán chú ý để đuổi theo con chim sẻ năm màu. Mồ côi từ nửa tuổi, bú sữa bách thú lớn lên, nay hơn một tuổi vẫn chưa cai sữa nên bị đám trẻ lớn trêu, nhưng nó không để bụng mà uống sữa thú do lão tộc trưởng Thạch Vân Phong nấu cùng dược thảo.",
        "anchor": "Chú nhóc mất cha mẹ từ khi mới nửa tuổi, bú sữa bách thú lớn lên"
       },
       {
@@ -6466,7 +6466,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0002"
       },
       {
-       "text": "Nhóc tỳ được tắm thuốc một mình trong hắc đỉnh đặc biệt chỉ thêm chút nước trắng, còn lại toàn chân huyết và bột xương hung thú; tộc trưởng đập tan Tỳ Hưu và tê giác hai đầu phóng từ hai bình thành huyết dịch rơi vào đỉnh. Nhờ thể chất cực mạnh và cốt văn tự vận chuyển luyện hóa dược lực, nó chịu được, uống no thuốc rồi ngủ say trong lòng Thạch Vân Phong.; Sau khi ăn ngấu nghiến hết nồi bảo dược riêng do Thạch Vân Phong nấu, dược kình quá mạnh k…",
+       "text": "Nhóc tỳ được tắm thuốc một mình trong hắc đỉnh đặc biệt chỉ thêm chút nước trắng, còn lại toàn chân huyết và bột xương hung thú; tộc trưởng đập tan Tỳ Hưu và tê giác hai đầu phóng từ hai bình thành huyết dịch rơi vào đỉnh. Nhờ thể chất cực mạnh và cốt văn tự vận chuyển luyện hóa dược lực, nó chịu được, uống no thuốc rồi ngủ say trong lòng Thạch Vân Phong. Sau khi ăn ngấu nghiến hết nồi bảo dược riêng do Thạch Vân Phong nấu, dược kình quá mạnh khiến nó hai mắt đỏ au như thỏ, chạy loạn quậy phá khắp thôn; cốt văn lan lên cả cánh tay, thể chất, tốc độ và sức mạnh đều tăng nhiều, đến hai canh giờ sau mới yên tĩnh.",
        "anchor": "thân hình nhỏ bé ngã vào trong lòng Thạch Vân Phong",
        "bridge": true,
        "khoang": "@c0004"
@@ -6475,35 +6475,35 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0005",
        "tieuDe": "Nâng bổng đỉnh đồng ngàn cân",
-       "text": "Trong buổi thi thố ở Thạch Thôn, Thạch Hạo ba tuổi rưỡi bê trục đá, ném cối đá xa sáu bảy mươi mét, vật ngã trâu mộng; vì thấp không với tới quai đỉnh, nó ngồi sụp nâng đáy đỉnh, nhấc bổng đỉnh đồng ngàn cân qua chỏm đầu khiến cả thôn sững sờ, ví nó như hung thú non Thái Cổ.; Hai năm trôi qua, nhóc tỳ nay ba tuổi rưỡi, chính thức mang tên riêng Thạch Hạo, thể chất khỏe kinh người, thường theo đám đàn anh chạy nhảy khắp thôn.; Trong buổi thi thố……",
+       "text": "Hai năm trôi qua, nhóc tỳ nay ba tuổi rưỡi và có tên riêng là Thạch Hạo. Trong buổi thi thố ở Thạch Thôn, Thạch Hạo bê trục đá, ném cối đá xa sáu bảy mươi mét, vật ngã trâu mộng; vì thấp không với tới quai đỉnh, nó ngồi sụp nâng đáy đỉnh, nhấc bổng đỉnh đồng ngàn cân qua chỏm đầu khiến cả thôn sững sờ, ví nó như hung thú non Thái Cổ.",
        "anchor": "nhấc bổng đỉnh đồng lên khỏi mặt đất, đỉnh bị nó nhấc lên quá chỏm đầu"
       },
       {
-       "text": "Thạch Hạo hiểu chuyện, khuyên tộc trưởng nghỉ ngơi; khi đội săn trở về, Thạch Lâm Hổ hái tặng nó túi Tương Quả — món quả nó thích ăn nhất. Nó chưa biết tộc trưởng đang âm thầm chuẩn bị nghi thức tẩy lễ cho mình.; Thạch Hạo mới ba tuổi nhấc bổng chiếc đỉnh đồng nặng ngàn cân rồi ném xuống đất, khiến cả dân làng sững sờ. Thủ lĩnh đội săn Thạch Lâm Hổ khẳng định đó là sức mạnh cơ thể thuần túy chứ không phải nhờ cốt văn, một điều hiếm thấy ngay cả……",
+       "text": "Thạch Hạo mới ba tuổi đã nhấc bổng chiếc đỉnh đồng nặng ngàn cân rồi ném xuống đất, khiến dân làng sững sờ; Thạch Lâm Hổ khẳng định đó là sức mạnh cơ thể thuần túy chứ không phải nhờ cốt văn. Sau đó Thạch Hạo hiểu chuyện, khuyên tộc trưởng nghỉ ngơi; khi đội săn trở về, Thạch Lâm Hổ hái tặng nó túi Tương Quả — món quả nó thích ăn nhất. Nó chưa biết Thạch Vân Phong đang âm thầm chưng cất huyết dược, chuẩn bị tẩy lễ cho mình khi lên năm tuổi, đến mức mỗi con mãnh thú cuối cùng chỉ rơi ra một giọt chảy vào trong bình ngọc.",
        "anchor": "mỗi con mãnh thú cuối cùng chỉ rơi ra một giọt chảy vào trong bình ngọc",
        "bridge": true,
        "khoang": "@c0006"
       },
       {
-       "text": "Cùng bọn trẻ Thạch Thôn trốn người lớn vào rừng nguyên thủy, tới sào huyệt Thanh Lân Ưng trong rừng đá. Ném đá thăm dò không thấy hung cầm, cậu trèo lên trước vách đá cao chừng ba trăm mét, cùng bọn trẻ phát hiện ba quả trứng Thanh Lân Ưng nằm trong Ngô Sào.; Cùng đám trẻ Thạch Thôn trốn người lớn vào rừng nguyên thủy tìm sào huyệt Thanh Lân Ưng. Sau khi ném đá thăm dò không thấy hung cầm, Thạch Hạo trèo vách đá cao khoảng ba trăm mét lên trước……",
+       "text": "Cùng bọn trẻ Thạch Thôn trốn người lớn vào rừng nguyên thủy, tới sào huyệt Thanh Lân Ưng trong rừng đá. Sau khi ném đá thăm dò không thấy hung cầm, Thạch Hạo trèo lên trước vách đá cao chừng ba trăm mét, cùng bọn trẻ phát hiện ba quả trứng Thanh Lân Ưng nằm trong Ngô Sào.",
        "anchor": "giống như một con khỉ con, vèo một tiếng nhanh chóng trèo thoăn thoắt lên dốc đá",
        "bridge": true,
        "khoang": "@c0007"
       },
       {
-       "text": "Nhờ ngày nào cũng học cốt văn, nhận ra ba quả trứng trộm được là trứng Thanh Lân Ưng — đời sau Thái Cổ Ma Cầm, huyết mạch còn mảnh vụn phù văn truyền thừa; thu các tấm vảy kim loại và đỡ Thạch Đại Tráng rời Thạch Lâm trước khi hung cầm về tổ.; Trong lần cùng nhóm trẻ trộm ba quả trứng hung cầm ở Thạch Lâm, nhờ ngày nào cũng học cốt văn, Thạch Hạo nhận ra đây là trứng Thanh Lân Ưng — đời sau của Thái Cổ Ma Cầm, huyết mạch còn giữ mảnh vụn phù văn…",
+       "text": "Trong lần cùng nhóm trẻ trộm ba quả trứng hung cầm ở Thạch Lâm, nhờ ngày nào cũng học cốt văn, Thạch Hạo nhận ra đây là trứng Thanh Lân Ưng — đời sau của Thái Cổ Ma Cầm, huyết mạch còn giữ mảnh vụn phù văn truyền thừa; sau đó thu các tấm vảy kim loại, đỡ Thạch Đại Tráng và cùng cả nhóm rời khỏi Thạch Lâm trước khi Thanh Lân Ưng về tổ.",
        "anchor": "Thanh Lân Ưng là đời sau của Thái Cổ Ma Cầm",
        "bridge": true,
        "khoang": "@c0008"
       },
       {
-       "text": "Thạch Hạo mượn thiết mâu nặng bốn năm chục cân, lấy đà tăng tốc ném về mắt Thanh Lân Ưng, làm bong một miếng vẩy ở khóe mắt khiến nó chảy máu; sau đó đề xuất chọc giận hung cầm để tạo động tĩnh lớn chờ cứu viện.; Bị Thanh Lân Ưng truy sát không kịp về thôn, Thạch Hạo dẫn cả bọn chui vào một thạch động ẩm ướt nó từng tìm ra khi đuổi theo con chim tước đỏ, chạy sâu mấy chục mét để né hung cầm.; Mượn cây thiết mâu nặng bốn năm chục cân, Thạch Hạo l…",
+       "text": "Bị Thanh Lân Ưng truy sát không kịp về thôn, Thạch Hạo dẫn cả bọn chui vào thạch động ẩm ướt nó từng tìm ra khi đuổi theo con chim tước đỏ, chạy sâu mấy chục mét để né hung cầm. Sau đó, Thạch Hạo mượn thiết mâu nặng bốn năm chục cân, lấy đà tăng tốc ném về mắt Thanh Lân Ưng, làm bong một miếng vẩy ở khóe mắt khiến nó chảy máu; cậu còn cùng mọi người chọc giận hung cầm để tạo động tĩnh lớn, câu giờ chờ Thạch Thôn đến cứu.",
        "anchor": "ở khóe mắt con hung cầm này cũng đã bong mất một miếng vẩy",
        "bridge": true,
        "khoang": "@c0009"
       },
       {
-       "text": "Bé Thạch Hạo ba tuổi rưỡi không bị phạt đòn mà còn được uống sữa thú vì kể cho tộc trưởng nghe chuyện Tiểu Hồng — con chim sẻ đỏ rực (nghi Chu Tước/Thần Tước truyền thuyết) nó từng đuổi bắt, dù lũ trẻ không tin. Nhóc tỳ cũng góp ý trả ba quả trứng cho Thanh Lân Ưng đang canh ngoài thôn.; Không bị phạt đòn, còn được thưởng sữa thú vì kể cho tộc trưởng nghe chuyện con chim sẻ đỏ rực (Tiểu Hồng, gợi truyền thuyết Chu Tước/Thần Tước) mà nó từng đuổi…",
+       "text": "Bé Thạch Hạo ba tuổi rưỡi không bị phạt đòn mà còn được uống sữa thú vì kể cho tộc trưởng nghe chuyện Tiểu Hồng — con chim sẻ đỏ rực gợi truyền thuyết Chu Tước/Thần Tước — mà nó từng đuổi bắt, dù lũ trẻ không tin. Nhóc tỳ cũng góp ý thử trả ba quả trứng cho Thanh Lân Ưng đang canh ngoài thôn.",
        "anchor": "Tiểu Hồng chính là con chim sẻ toàn thân đỏ rực đó.",
        "bridge": true,
        "khoang": "@c0010"
@@ -6512,17 +6512,17 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0012",
        "tieuDe": "Lĩnh ngộ Bí Cốt Bảo Thư",
-       "text": "Ôm cổ Tử Vân nghiên cứu ấn ký phù văn nguyên thủy, đối chiếu phù văn Đại Bằng và Tiểu Thanh; ngộ ra và thi triển vầng trăng bạc thần thánh chém đôi tảng đá cao năm sáu mét, mặt cắt bằng phẳng. Được tộc trưởng Thạch Vân Phong khen thiên tư kinh người, dặn đây là Bí Cốt Bảo Thư cực hiếm không nên tùy tiện thi triển.; Thạch Hạo dạy cốt văn cho ba con Thanh Lân Ưng rồi nghiên cứu phù văn nguyên thủy trong cơ thể chúng, lĩnh ngộ được bảo phù Bí Cốt B…",
+       "text": "Ôm cổ Tử Vân nghiên cứu ấn ký phù văn nguyên thủy, đối chiếu phù văn của Đại Bằng và Tiểu Thanh; ngộ ra và thi triển vầng trăng bạc thần thánh chém đôi tảng đá cao năm sáu mét, mặt cắt bằng phẳng. Được tộc trưởng Thạch Vân Phong khen thiên tư kinh người, dặn đây là Bí Cốt Bảo Thư cực hiếm, không nên tùy tiện thi triển.",
        "anchor": "một vầng trăng sáng lộng lẫy và thần thánh bay ra"
       },
       {
-       "text": "Chưa đầy bốn tuổi, Thạch Hạo đấu tay đôi với thiếu niên Bái Phong mười bốn tuổi: né tám mũi tên sắt, dùng văn lạc chém đứt trường mâu Huyết Văn Thiết mà tay không tổn thương, tạo vầng trăng lưỡi liềm phá tan mảng tên nỏ giấu sau lưng, cuối cùng đánh Bái Phong phun máu bay ngang rơi xuống đất rồi đuổi theo.; Thạch Hạo — đứa bé chưa đến bốn tuổi — đấu tay đôi với thiếu niên Bái Phong mười bốn tuổi thần lực kinh người: né tám mũi tên sắt, nâng tảng…",
+       "text": "Chưa đầy bốn tuổi, Thạch Hạo đấu tay đôi với thiếu niên Bái Phong mười bốn tuổi thần lực kinh người: né và đánh bay tám mũi tên sắt, dùng văn lạc chém đứt trường mâu Huyết Văn Thiết mà tay không tổn thương, tạo vầng trăng lưỡi liềm phá tan mảng tên nỏ giấu sau lưng, cuối cùng đánh Bái Phong phun máu bay ngang rơi xuống đất rồi nháy mắt đuổi theo.",
        "anchor": "Bái Phong phun ra một bụm máu tươi, người bay ngang ra",
        "bridge": true,
        "khoang": "@c0015"
       },
       {
-       "text": "Nhóc tỳ hơn ba tuổi rưỡi lần đầu liều mạng xông lên, vút người đá một cước vào ngực khiến Bái Phong ngã ngửa không dậy nổi; sau đó nắm cổ áo nhấc hắn lên làm lá chắn, tay còn lại tỏa ánh sáng cùng ký hiệu chuyển động đánh trọng thương, rồi ném hắn về phe Thạch Thôn. Được cả tộc khen ngợi.; Nhóc tỳ hơn ba tuổi rưỡi liều mạng xông lên, đá một cước vào ngực khiến Bái Phong ngã ngửa, rồi nắm cổ áo nhấc lên làm lá chắn và dùng tay tỏa ánh sáng đánh t…",
+       "text": "Nhóc tỳ hơn ba tuổi rưỡi lần đầu liều mạng xông lên, vút người đá một cước vào ngực khiến Bái Phong ngã ngửa không dậy nổi; sau đó nắm cổ áo nhấc hắn lên làm lá chắn, tay còn lại tỏa ánh sáng cùng ký hiệu chuyển động đánh trọng thương, rồi ném hắn về phe Thạch Thôn và được cả tộc khen ngợi.",
        "anchor": "một cước đá xuống, đạp ở trên ngực hắn",
        "bridge": true,
        "khoang": "@c0016"
@@ -6535,49 +6535,49 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "lần này lại có thể trực tiếp cắt đứt ba tảng đá, thật là lợi hại!"
       },
       {
-       "text": "Nhận ra Bảo Thuật vừa giết được hung thú vừa cứu người, Thạch Hạo khao khát có được ký hiệu nguyên thủy của Toan Nghê. Nó gọi Thanh Lân Ưng đại thẩm chở mình đi cùng tranh đoạt bảo thể Vạn Thú Vương.; Khi hai con Bưu dữ tấn công Thạch Thôn khiến Thạch Lâm Hổ và Thạch Phi Giao trọng thương, Thạch Hạo tức giận vận Bảo Thuật của Thanh Lân Ưng, ký hiệu sáng như vì sao trong lòng bàn tay tạo vầng trăng bạc chặt đứt chân rồi chém đầu cả hai con Bưu. Đ…",
+       "text": "Khi hai con Bưu dữ tấn công Thạch Thôn, cắn chết thôn nhân và khiến Thạch Lâm Hổ, Thạch Phi Giao trọng thương, Thạch Hạo tức giận vận Bảo Thuật của Thanh Lân Ưng, tạo vầng trăng bạc chặt chân rồi chém đầu cả hai con Bưu; đây là lần đầu nó giết mãnh thú. Sau đó, nhận ra Bảo Thuật vừa có thể giết hung thú vừa cứu người, Thạch Hạo khao khát có được ký hiệu nguyên thủy của Toan Nghê và gọi Thanh Lân Ưng đại thẩm chở mình đi cùng tranh đoạt bảo thể Toan Nghê.",
        "anchor": "Chúng ta cùng nhau đi tranh đoạt bảo thể của Toan Nghê.",
        "bridge": true,
        "khoang": "@c0018"
       },
       {
-       "text": "Bất chấp tộc trưởng can ngăn, Thạch Hạo nhảy lên lưng Thanh Lân Ưng lao tới vùng núi tranh đoạt thi thể Toan Nghê, dùng trăng bạc chém đứt sừng và đầu Sơn Miêu phục kích từ sau lưng.; Nhảy lên lưng Thanh Lân Ưng lao tới vùng núi tranh đoạt thi thể Toan Nghê bất chấp tộc trưởng can ngăn, dùng trăng bạc chém đứt sừng và đầu Sơn Miêu phục kích, hỗ trợ đối phó Tử Kim Xà và Huyết Điêu.; Trong trận đào bới, Thanh Lân Ưng bị Tử Kim Xà tập kích trúng độ…",
+       "text": "Bất chấp tộc trưởng can ngăn, Thạch Hạo nhảy lên lưng Thanh Lân Ưng lao tới vùng núi tranh đoạt thi thể Toan Nghê, dùng trăng bạc chém đứt sừng và đầu Sơn Miêu phục kích từ sau lưng. Trong lúc đào bới tìm bảo thể Toan Nghê, cậu hỗ trợ Thanh Lân Ưng đối phó Tử Kim Xà và Huyết Điêu; Thanh Lân Ưng bị Tử Kim Xà làm trúng độc, rồi bị Huyết Điêu cào rách cổ, khiến Thạch Hạo lo lắng vì độ khó đoạt di thể quá lớn.",
        "anchor": "Thạch Hạo vèo một tiếng nhảy lên cao năm sáu mét, hạ xuống lưng chim rộng rãi",
        "bridge": true,
        "khoang": "@c0019"
       },
       {
-       "text": "Nằm trên lưng Thanh Lân Ưng giữa đại loạn tranh đoạt xác Toan Nghê, Thạch Hạo vận Cốt Văn khiến hai mắt sáng lên nhìn xa, liên tiếp chém ra vầng trăng bạc; kết hợp ký hiệu Nguyên Thủy Bảo Phú của Thanh Lân Ưng, cuối cùng đánh gãy một bộ phận xương Thử Vương khiến chuột tím trọng thương rơi xuống.; Trong lúc bầy hung thú tranh đoạt bảo thể Toan Nghê, Thạch Hạo nằm trên lưng Thanh Lân Ưng, vận Cốt Văn cho hai mắt sáng lên quan sát biến cố. Khi Thử…",
+       "text": "Nằm trên lưng Thanh Lân Ưng giữa đại loạn tranh đoạt xác Toan Nghê, Thạch Hạo vận Cốt Văn khiến hai mắt sáng lên nhìn xa, liên tiếp chém ra vầng trăng bạc; khi Thử Vương nhảy lên lưng Thanh Lân Ưng cào phá vảy xanh, cậu kết hợp với ký hiệu Nguyên Thủy Bảo Phú của Thanh Lân Ưng, cuối cùng đánh gãy một bộ phận xương Thử Vương khiến chuột tím trọng thương rơi xuống.",
        "anchor": "xương của Thử Vương gãy một bộ phận, bị thương trầm trọng",
        "bridge": true,
        "khoang": "@c0020"
       },
       {
-       "text": "Trên lưng Thanh Lân Ưng, Thạch Hạo nhận ra Toan Nghê cố tình giả chết để dụ Ác Ma Viên và Ly Hỏa Ngưu Ma tới rồi tiêu diệt, khen chủng tộc này có trí tuệ.; Ngồi trên lưng Thanh Lân Ưng, Thạch Hạo nhận ra Toan Nghê cố tình giả chết để dụ Ác Ma Viên và Ly Hỏa Ngưu Ma tới rồi tiêu diệt, tấm tắc khen loài này có trí tuệ. Sau đại chiến, cậu khiêng cái sừng dài mấy mét của Ly Hỏa Ngưu Ma cùng Thanh Lân Ưng gom đủ ba con Thái Cổ Di Chủng, mừng vì đã có…",
+       "text": "Trên lưng Thanh Lân Ưng, Thạch Hạo nhận ra Toan Nghê cố tình giả chết để dụ Ác Ma Viên và Ly Hỏa Ngưu Ma tới rồi tiêu diệt, tấm tắc khen loài này có trí tuệ. Sau đại chiến, cậu khiêng cái sừng dài mấy mét của Ly Hỏa Ngưu Ma cùng Thanh Lân Ưng gom xác Toan Nghê, cánh tay Ác Ma Viên và sừng Ly Hỏa Ngưu Ma, mừng vì đã có đủ ba con Thái Cổ Di Chủng cho việc tẩy lễ lúc năm tuổi của mình.",
        "anchor": "Toan Nghê giả chết vì muốn tiêu diệt kẻ thù",
        "bridge": true,
        "khoang": "@c0021"
       },
       {
-       "text": "Hơn hai mươi người Bái Thôn bắn tên sắt phục kích; Thạch Hạo giương tay triệu Bảo Nguyệt chém gãy tên mâu, làm bị thương mười mấy người và chém rách bụng thủ lĩnh, buộc chúng rút lui, nhưng tay và tim vẫn run vì không nỡ hạ sát.; Chém thịt dính bảo huyết trong sừng Thái Cổ Di Chủng nhét vào mỏ hung cầm trọng thương, tin sừng có thể giải độc như sừng Linh Tê; ánh mắt Thanh Lân Ưng lộ vẻ nhu hòa như với con mình.; Thấy Thanh Lân Ưng kiệt sức rơi x…",
+       "text": "Thấy Thanh Lân Ưng kiệt sức rơi xuống gần Thạch Thôn, Thạch Hạo dùng thịt dính bảo huyết trong sừng Thái Cổ Di Chủng nhét vào mỏ hung cầm trọng thương, tin sừng có thể giải độc như sừng Linh Tê; khi hơn hai mươi người Bái Thôn bắn tên sắt phục kích, hắn giương tay triệu Bảo Nguyệt chém gãy tên mâu, làm bị thương mười mấy người và chém rách bụng thủ lĩnh, buộc chúng rút lui, nhưng tay và tim vẫn run vì không nỡ hạ sát.",
        "anchor": "hai tay giương ra, vẽ ra một vầng trăng óng ánh lóa mắt",
        "bridge": true,
        "khoang": "@c0022"
       },
       {
-       "text": "Bái Phong núp tập kích bằng Bảo Cụ vòng răng thú, một đốm sáng làm rách vai và suýt đâm xuyên yết hầu Thạch Hạo, khơi lại ân oán giữa hai người.; Trong đêm tối, Thạch Hạo một mình thủ hộ bảo thể Toan Nghê và Thanh Lân Ưng đang trúng độc, dùng mâu sắt cùng trăng bạc chém giết mãnh thú rồi phản kích đám phục kích Bái Thôn, hạ mười bảy mười tám người dù bị bắn xuyên tay và chân — lần đầu trong đời bị trúng tên nặng.; Một mình thủ hộ bảo thể Toan Ng…",
+       "text": "Trong đêm tối, Thạch Hạo một mình thủ hộ bảo thể Toan Nghê và Thanh Lân Ưng đang trúng độc, dùng mâu sắt cùng trăng bạc chém giết mãnh thú rồi phản kích đám phục kích Bái Thôn, hạ mười bảy mười tám người dù bị bắn xuyên tay và chân — lần đầu trong đời bị trúng tên nặng.; Bái Phong núp tập kích bằng Bảo Cụ vòng răng thú, một đốm sáng làm rách vai và suýt đâm xuyên yết hầu Thạch Hạo, khơi lại ân oán giữa hai người.",
        "anchor": "Không chỉ ngươi mới có Bảo Cụ, ta cũng có đây",
        "bridge": true,
        "khoang": "@c0023"
       },
       {
-       "text": "Nhóc tỳ nhảy cao đá vỡ nửa mặt và ngực Bái Phong, giẫm nát xương, rồi dùng trăng bạc chém đứt cả tứ chi khiến hắn tàn phế; sau đó thu xâu 42 răng thú chí bảo của Bái thôn và đeo lên cổ tay mình.; Trong trận vất vả chống Bảo cụ 42 răng thú của Bái Phong, nhóc tỳ ở thời khắc then chốt ngộ thêm một tầng Nguyên thủy bảo thuật; hai vầng trăng bạc hợp lại hóa con ma cầm, đánh Bái Phong phọt máu khiến 42 răng thú rơi rụng, Bảo cụ ảm đạm.; Trong trận vớ…",
+       "text": "Trong trận vất vả chống Bảo cụ 42 răng thú của Bái Phong, nhóc tỳ ở thời khắc then chốt ngộ thêm một tầng Nguyên thủy bảo thuật; hai vầng trăng bạc hợp lại hóa con ma cầm, đánh Bái Phong phọt máu khiến 42 răng thú rơi rụng, Bảo cụ ảm đạm. Sau đó nhóc tỳ nhảy cao đá vỡ nửa mặt và ngực Bái Phong, giẫm nát xương, dùng trăng bạc chém đứt cả tứ chi khiến hắn tàn phế, rồi thu xâu 42 răng thú chí bảo của Bái thôn và đeo lên cổ tay mình.",
        "anchor": "hay tay hai chân Bái Phong đều bị cắt đứt",
        "bridge": true,
        "khoang": "@c0024"
       },
       {
-       "text": "Thiếu niên Thạch thôn, kinh ngạc chứng kiến uy lực xâu răng thú của Nhóc tỳ xuyên thủng thân thể người Bái thôn.; Nổi giận dùng Bảo cụ xâu chuỗi 42 răng thú trắng khắc phù văn (nhờ hiểu Cốt văn nên uy lực cực mạnh) phóng ánh sáng xuyên thủng thân thể nhiều người Bái thôn khiến chúng suy sụp bỏ chạy.; Nổi giận dùng xâu chuỗi 42 răng thú trắng khắc phù văn (hiểu Cốt văn nên uy lực rất mạnh) tách ra bay như mưa ánh sáng xuyên thủng nhiều người Bái…",
+       "text": "Thiếu niên Thạch thôn, kinh ngạc chứng kiến uy lực xâu răng thú; sau đó nổi giận dùng Bảo cụ xâu chuỗi 42 răng thú trắng khắc phù văn, nhờ hiểu Cốt văn nên uy lực cực mạnh, phóng ánh sáng xuyên thủng thân thể nhiều người Bái thôn khiến chúng suy sụp bỏ chạy.",
        "anchor": "răng thú trắng loáng xuyên thủng thân thể rất nhiều người",
        "bridge": true,
        "khoang": "@c0025"
@@ -6599,11 +6599,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0029",
        "tieuDe": "Đột phá cảnh giới Thay máu",
-       "text": "Được tộc trưởng truyền mấy bộ Cốt thư cùng phù văn cuối cùng, Thạch Hạo học phương thức đưa phù văn hóa nhập cơ thể thành hào quang, kết thành Lô thần Vĩnh hằng trong mỗi tấc máu thịt, dẫn thần tinh nhập thể. Chỉ trong mấy ngày cậu đột phá cảnh giới Thay máu, lập kỷ lục thời gian (người thường mất mấy năm, thiên tài mấy tháng), khiến cả tộc mừng rỡ và kỳ vọng cậu thành Chí tôn.; Thành tựu của Thạch Hạo khiến cả Thạch thôn mừng rỡ ăn uống; tộc tr…",
+       "text": "Được tộc trưởng truyền mấy bộ Cốt thư cùng phù văn cuối cùng, Thạch Hạo học phương thức đưa phù văn hóa nhập cơ thể thành hào quang, kết thành Lô thần Vĩnh hằng trong mỗi tấc máu thịt, dẫn thần tinh nhập thể. Chỉ trong mấy ngày cậu đột phá cảnh giới Thay máu, lập kỷ lục thời gian khi người thường mất mấy năm, thiên tài cũng mất mấy tháng; thành tựu này khiến cả Thạch thôn mừng rỡ ăn uống và kỳ vọng tương lai cậu có thể trở thành Chí tôn.",
        "anchor": "Vẻn vẹn trong mấy ngày, nhóc tỳ đã có đột phá phi phàm."
       },
       {
-       "text": "Tộc trưởng Thạch Vân Phong quyết định dùng bảo thể Toan Nghê, sừng Ly Hỏa Ngưu Ma và tay Ác Ma Viên Vương để tẩy lễ cho Thạch Hạo ngay trong hôm nay, dù nó chưa đủ năm tuổi; Thạch Hạo khẳng định chịu được.; Chỉ mất nửa tháng, Thạch Hạo tu hành xong, dung nhập Cốt Văn vào trong máu thịt; toàn thân trong suốt, từ nay dùng Bảo Thuật không còn tổn hao sức của bản thân.; Chỉ trong nửa tháng, Thạch Hạo tu hành xong, dung nhập Cốt Văn vào máu thịt khiế…",
+       "text": "Chỉ mất nửa tháng, Thạch Hạo tu hành xong, dung nhập Cốt Văn vào trong máu thịt, toàn thân trong suốt, dùng Bảo Thuật không còn tổn hao sức bản thân; tộc trưởng Thạch Vân Phong quyết định dùng bảo thể Toan Nghê, sừng Ly Hỏa Ngưu Ma và tay Ác Ma Viên Vương để tẩy lễ cho Thạch Hạo ngay trong hôm nay, dù nó chưa đủ năm tuổi; Thạch Hạo khẳng định chịu được.",
        "anchor": "Tiến hành ngay trong hôm nay đi!",
        "bridge": true,
        "khoang": "@c0030"
@@ -6612,14 +6612,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0031",
        "tieuDe": "Nhảy vào đỉnh tẩy lễ",
-       "text": "Sau khi được rửa ráy sạch sẽ, toàn thân óng ánh, Thạch Hạo tự tung mình nhảy vào chiếc đỉnh đen tổ truyền đang sôi sùng sục chứa chân huyết Toan Nghê để bắt đầu tẩy lễ; thôn nhân đậy nắp đỉnh kín, chính thức luyện hóa chân huyết Thái Cổ Di Chủng vào huyết nhục.; Thạch Hạo được tắm rửa sạch sẽ trên hòn ngọc thạch, toàn thân óng ánh rồi tự tung người nhảy vào đỉnh đen tổ truyền chứa bảo huyết Toan Nghê đang sôi. Thôn nhân đậy nắp kín để bắt đầu qu…",
+       "text": "Sau khi được rửa ráy sạch sẽ, toàn thân óng ánh, Thạch Hạo tự tung mình nhảy vào chiếc đỉnh đen tổ truyền đang sôi sùng sục chứa bảo huyết Toan Nghê để bắt đầu tẩy lễ; thôn nhân đậy nắp kín, chính thức bắt đầu quá trình luyện hóa chân huyết Thái Cổ Di Chủng vào huyết nhục.",
        "anchor": "Nó tung người nhảy một cái liền rơi vào trong cái đỉnh lớn đang sôi sùng sục"
       },
       {
        "chuong": "@c0032",
        "importance": "major",
        "tieuDe": "Lột xác qua tẩy lễ dược đỉnh",
-       "text": "Sau nhiều ngày tẩy lễ trong đỉnh đen với huyết thanh vàng kim và chân huyết ba Di chủng Thái cổ (Toan Nghê, Bò ma Ly Hỏa, Vượn Ác ma), nhóc tỳ chịu nứt xương xoắn thịt rồi lột xác thành công, da chết đen bóc ra từng mảng lộ thân thể trắng nõn óng ánh.; Trong đỉnh đen, con Toan Nghê vàng kim (mảnh vỡ thần tính tổ hoàng Thái cổ) tấn công nhóc tỳ nhưng bị các điểm sáng quanh người tịnh hóa và dung luyện vào bản thân.; Chưa tới bốn tuổi, nhóc tỳ suý…",
+       "text": "Sau nhiều ngày tẩy lễ trong đỉnh đen với huyết thanh vàng kim và chân huyết ba Di chủng Thái cổ (Toan Nghê, Bò ma Ly Hỏa, Vượn Ác ma), nhóc tỳ chịu nứt xương xoắn thịt rồi lột xác thành công, da chết đen bóc ra từng mảng lộ thân thể trắng nõn óng ánh. Trong đỉnh đen, con Toan Nghê vàng kim (mảnh vỡ thần tính tổ hoàng Thái cổ) tấn công nhóc tỳ nhưng bị các điểm sáng quanh người tịnh hóa và dung luyện vào bản thân. Chưa tới bốn tuổi, nhóc tỳ suýt đẩy ngã Thạch Phi Giao và nâng được đỉnh Hống văn tám nghìn cân qua khỏi đỉnh đầu.",
        "anchor": "nó như lột da, da chết màu đen bóc ra từng mảng"
       },
       {
@@ -6635,7 +6635,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0034"
       },
       {
-       "text": "Nhóc tỳ chưa tới bốn tuổi chỉ dùng sức mạnh cơ thể thuần túy, không dùng Bảo Thuật, đẩy lui thiên tài Giao Bằng của La Phù Đại Trạch, khiến mặt đất nứt lớp lớp và cánh tay đối phương co giật; cả đám cường giả kinh hãi khi biết tuổi thật của nó.; Nhóc tỳ sắp bốn tuổi lần nữa đánh lui Giao Bằng — thiên tài tới từ La Phù Đại Trạch — chỉ bằng sức mạnh cơ thể thuần túy, không dùng Bảo Thuật, khiến mặt đất nứt lớp lớp, cánh tay Giao Bằng co giật. Cả đ…",
+       "text": "Nhóc tỳ sắp bốn tuổi chỉ dùng sức mạnh cơ thể thuần túy, không dùng Bảo Thuật, đẩy lui thiên tài Giao Bằng của La Phù Đại Trạch, khiến mặt đất nứt lớp lớp và cánh tay Giao Bằng co giật; cả đám cường giả kinh hãi khi biết tuổi thật của nó.",
        "anchor": "thằng bé dễ thương này sử dụng quả nhiên là sức mạnh cơ thể thuần túy",
        "bridge": true,
        "khoang": "@c0035"
@@ -6647,19 +6647,19 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0036"
       },
       {
-       "text": "Khi Giao Bằng bắn ba con chim non, Thạch Hạo lấy nhục thân chắn tên bảo vệ Đại Bằng, Tiểu Thanh, Tử Vân; một chưởng đánh bay Giao Bằng làm gan bàn tay đối phương vỡ nát; đá văng đỉnh đồng ngàn cân đánh gãy cung Tử Sơn Côn; rồi thách cả ba thiên tài cùng nhào vô, khiến cường giả các tộc kinh ngạc trước một đứa bé chưa đủ bốn tuổi.; Hai bàn tay chạm nhau, Thạch Hạo phát hào quang thần thánh, ngón tay trắng óng, đánh Giao Bằng bay ngang mười mấy mé…",
+       "text": "Khi Giao Bằng bắn ba con chim non, Thạch Hạo lấy nhục thân chắn tên bảo vệ Đại Bằng, Tiểu Thanh, Tử Vân; hai bàn tay chạm nhau thì phát hào quang thần thánh, đánh bay Giao Bằng làm gan bàn tay đối phương vỡ nát; sau đó đá văng đỉnh đồng ngàn cân đánh gãy cung Tử Sơn Côn, rồi thách cả ba thiên tài cùng nhào vô, khiến cường giả các tộc kinh ngạc trước một đứa bé chưa đủ bốn tuổi.",
        "anchor": "sức mạnh cơ thể của nhóc tỳ sớm đã vượt xa loại thiên tài như Giao Bằng, có thể xưng là thiên túng kỳ tài.",
        "bridge": true,
        "khoang": "@c0037"
       },
       {
-       "text": "Trong cuộc quyết đấu ở sơn thôn, Thạch Hạo mời ông lão Vân Thiên Cung làm trọng tài rồi cận chiến áp đảo ba thiên tài; đá văng Tử Sơn Côn, đấm đạp trọng thương Lôi Minh Viễn với thần lực tám ngàn cân, dùng Cốt Văn dung hóa tia chớp; sau đó thi triển Nguyên Thủy Bảo Thuật — vầng trăng bạc hiện Thái Cổ Ma Cầm xé đứt Hung Giao của Giao Bằng, xuyên đầu Hỏa Lân của Tử Sơn Côn, rồi nắm cối xay đá đập đầu Giao Bằng khiến nó phun máu rụng hai răng.; Tro…",
+       "text": "Trong cuộc quyết đấu ở sơn thôn, Thạch Hạo mời ông lão Vân Thiên Cung làm trọng tài rồi cận chiến áp đảo ba thiên tài; đá văng Tử Sơn Côn, đấm đạp trọng thương Lôi Minh Viễn với thần lực tám ngàn cân, dùng Cốt Văn dung hóa tia chớp; sau đó thi triển Nguyên Thủy Bảo Thuật — vầng trăng bạc hiện Thái Cổ Ma Cầm xé đứt Hung Giao của Giao Bằng, xuyên đầu Hỏa Lân của Tử Sơn Côn, rồi nắm cối xay đá đập đầu Giao Bằng khiến nó phun máu rụng hai răng.",
        "anchor": "Hai tay của nhóc tỳ vung một cái còn có thần lực tám ngàn cân",
        "bridge": true,
        "khoang": "@c0038"
       },
       {
-       "text": "Nhóc tỳ chủ động khống chế sức mạnh, không lấy mạng Giao Bằng vì sợ La Phù Đại Trạch huyết tẩy Thạch Thôn; dùng Bảo Thuật và Thái Cổ Ma Cầm nuốt Lôi Cầm, xé Hôi Giao thành ba đoạn, nghiền nát ba dị cầm; tạo hai vầng trăng hợp thành cối xay trắng đập tan Hung Tiễn bắn lén; tra tấn ba thiên tài, đập cối xay lên mặt Giao Bằng đến gãy mũi rụng răng; khéo léo từ chối các thế lực chiêu mộ; tuyên bố bảo cốt Toan Nghê và ba chim non là của mình; rồi cầu…",
+       "text": "Nhóc tỳ chủ động khống chế sức mạnh, không lấy mạng Giao Bằng vì sợ La Phù Đại Trạch huyết tẩy Thạch Thôn; dùng Bảo Thuật và Thái Cổ Ma Cầm áp đảo ba thiên tài, nuốt Lôi Cầm, xé Hôi Giao thành ba đoạn, nghiền nát ba dị cầm; tạo hai vầng trăng hợp thành cối xay trắng đập tan Hung Tiễn bắn lén; tra tấn ba thiên tài, đập cối xay lên mặt Giao Bằng đến gãy mũi rụng răng; khéo léo từ chối các thế lực chiêu mộ; tuyên bố bảo cốt Toan Nghê và ba chim non là của mình; rồi cầu Liễu Thần bảo vệ Thạch Thôn khi Phi Giao xông xuống.",
        "anchor": "hai vầng trăng giao hòa với nhau, hóa thành một cái cối xay trắng tinh",
        "bridge": true,
        "khoang": "@c0039"
@@ -6671,13 +6671,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0043"
       },
       {
-       "text": "Nhóc tỳ tròn bốn tuổi, sức mạnh phi thường nhảy một cái ba bốn mươi mét trở thành đệ nhất cao thủ Thạch Thôn; khi cả thôn thoát không gian kỳ lạ tới vùng đất mới trù phú, cậu ngây ngẩn nhận ra như đã từng thấy nơi này — hồ lớn, chim rực rỡ, có quý tộc đi săn — khiến tộc trưởng và các chủ sự biến sắc; lần đầu hỏi thẳng liệu cha mẹ còn tại thế hay không.; Trước cảnh hồ lớn ở vùng đất mới, nhóc tỳ ngây ngẩn lẩm bẩm như đã từng thấy nơi này (hồ lớn……",
+       "text": "Nhóc tỳ tròn bốn tuổi, sức mạnh phi thường, nhảy một cái ba bốn mươi mét và trở thành đệ nhất cao thủ Thạch Thôn; khi cả thôn thoát khỏi không gian kỳ lạ, tới vùng đất mới trù phú, cậu ngây ngẩn nhận ra như đã từng thấy nơi này — hồ lớn, chim rực rỡ hơn Tiểu Loan Điểu, có quý tộc đi săn — khiến tộc trưởng và các chủ sự biến sắc; lần đầu cậu hỏi thẳng liệu cha mẹ còn tại thế hay không.",
        "anchor": "Bọn họ rốt cuộc có còn tại thế hay không vậy? Cháu thật sự rất nhớ họ!",
        "bridge": true,
        "khoang": "@c0050"
       },
       {
-       "text": "Dỗ tước đỏ Tiểu Hồng bình tĩnh và đoán trúng ý định nó tới nhờ Liễu Thần trị thương; sau đó nghe tộc trưởng kể lai lịch Thạch Thôn cùng chuyện cha mẹ mình từ cổ quốc tìm về tổ địa, đau lòng rơi lệ khi mơ hồ nhớ lại người thân.; Dỗ tước đỏ bình tĩnh, đoán trúng nó tới tìm Liễu Thần trị thương; sau đó nghe tộc trưởng kể lai lịch Thạch Thôn cùng câu chuyện cha mẹ, mơ hồ nhớ lại mà đau lòng rơi lệ.; Dỗ Tiểu Hồng (tước đỏ chí cường) bình tĩnh, khẳng……",
+       "text": "Dỗ tước đỏ Tiểu Hồng bình tĩnh và đoán trúng ý định nó tới nhờ Liễu Thần trị thương; sau đó nghe tộc trưởng kể lai lịch Thạch Thôn cùng chuyện cha mẹ mình từ cổ quốc tìm về tổ địa, mơ hồ nhớ lại người thân và đau lòng rơi lệ.",
        "anchor": "nhịn không được mà đau lòng rơi lẹ, nước mắt dọc theo má chảy xuống",
        "bridge": true,
        "khoang": "@c0051"
@@ -6686,11 +6686,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0052",
        "tieuDe": "Biết thân thế, quyết tự cường",
-       "text": "Nghe Thạch Vân Phong kể cha mẹ rời thôn đi tìm Thánh dược trị tận gốc bệnh cho mình chứ không nỡ bỏ rơi, Thạch Hạo mơ hồ thấy mảnh ký ức lạnh lùng trong tiềm thức và quyết tâm tự cường để truy tìm tung tích cha mẹ; một năm sau đã sáu tuổi, nâng nổi cự thạch ba mươi ngàn cân, cưỡi Thanh Lân Ưng rồi Tử Vân đi thám sát vùng tử địa trăm ngàn dặm và phát hiện con khỉ ba tay dưới đáy một hồ nước khô cạn.; Cưỡi Thanh Lân Ưng dò xét theo lệnh Thạch Lâm…",
+       "text": "Nghe Thạch Vân Phong kể cha mẹ rời thôn đi tìm Thánh dược trị tận gốc bệnh cho mình chứ không nỡ bỏ rơi, Thạch Hạo mơ hồ thấy mảnh ký ức lạnh lùng trong tiềm thức và quyết tâm tự cường để truy tìm tung tích cha mẹ. Một năm sau, nó đã sáu tuổi, nâng nổi cự thạch ba mươi ngàn cân, cưỡi Thanh Lân Ưng dò xét vùng tử địa trăm ngàn dặm rồi cưỡi Tử Vân đi tham ngộ di tích chiến trường hướng Tây, nơi nó phát hiện con khỉ ba tay dưới đáy một hồ nước khô cạn.",
        "anchor": "Cháu đã sáu tuổi, lại có thể nâng cự thạch đến ba mươi ngàn cân"
       },
       {
-       "text": "Cưỡi Tử Vân tìm thấy sinh linh ba đầu sáu tay dài một xích kẹt dưới đáy hồ khô cạn, ném thịt khô cho nó ăn; dùng Cốt Văn tuôn mưa ánh sáng dò xét, phát hiện nó bị trọng thương và ký hiệu trong cơ thể sắp phai mờ; sau khi nó lột xác thu Bảo Thuật thành quả cầu vàng, cậu mang về Thạch Thôn nuôi; cuối cùng sờ đầu nó thấy hai cái sừng ẩn trong lông vàng thì bỗng như thấy điều gì đó mà đau lòng rơi lệ.; Cuối chương sờ đầu sinh linh phát hiện hai cái……",
+       "text": "Cưỡi Tử Vân tìm thấy sinh linh ba đầu sáu tay dài một xích kẹt dưới đáy hồ khô cạn, ném thịt khô cho nó ăn; dùng Cốt Văn tuôn mưa ánh sáng dò xét, phát hiện nó bị trọng thương và ký hiệu trong cơ thể sắp phai mờ; sau khi nó lột xác thu Bảo Thuật thành quả cầu vàng, cậu mang về Thạch Thôn nuôi; cuối chương sờ đầu nó thấy hai cái sừng ẩn trong lông vàng thì bỗng như thấy điều gì đó mà đau lòng rơi lệ.",
        "anchor": "Đây là một loại tác dụng của Cốt Văn, có thể dò xét thực hư của kẻ địch",
        "bridge": true,
        "khoang": "@c0053"
@@ -6699,38 +6699,38 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0054",
        "tieuDe": "Bước vào đỉnh cao Bàn Huyết",
-       "text": "Sau gần hai năm khổ tu, Thạch Hạo (6 tuổi) chỉ bằng sức cơ bắp đã nâng cự thạch ba mươi ngàn cân, bước vào đỉnh cao Bàn Huyết cảnh, vượt xa các tráng sĩ trong thôn; đọc nghiền ngẫm hết Cốt thư lão tộc trưởng sưu tầm và nghiên cứu hai Bảo thuật — phù văn nguyên thủy của ma cầm Thái cổ cùng đại thần thông của Toan Nghê; xin Liễu Thần giúp soi sâu tiềm thức để biết chuyện năm đó dù sợ chân tướng tàn khốc.; Sau gần hai năm khổ tu bên hồ, Thạch Hạo m…",
+       "text": "Sau gần hai năm khổ tu, Thạch Hạo 6 tuổi chỉ bằng sức cơ bắp đã nâng cự thạch ba mươi ngàn cân, bước vào đỉnh cao Bàn Huyết cảnh, vượt xa các tráng sĩ trong thôn; đọc nghiền ngẫm hết Cốt thư lão tộc trưởng sưu tầm và nghiên cứu hai Bảo thuật — phù văn nguyên thủy của ma cầm Thái cổ cùng đại thần thông của Toan Nghê. Sau khi Liễu Thần tỉnh dậy, cậu được khuyên đừng vội đột phá mà hãy rèn thân đạt cửa ải trăm ngàn cân, rồi xin Liễu Thần soi sâu tiềm thức để biết chuyện năm đó dù sợ chân tướng tàn khốc.",
        "anchor": "bằng vào sức mạnh cơ bắp đã nâng lên được cự thạch ba mươi ngàn cân"
       },
       {
        "chuong": "@c0055",
        "importance": "normal",
        "tieuDe": "Ký ức thân thế hoàng tộc tái hiện",
-       "text": "Đứng bất động dưới cây liễu cháy đen giữa tầng sương mù hỗn độn, ký ức tiềm thức thời sơ sinh tái hiện — hé lộ Thạch Hạo vốn xuất thân dòng họ hoàng thân có hoàng huyết của cổ quốc Nhân Hoàng, từng được Lão Thập Ngũ nhỏ bảo huyết Thái Cổ Thần Cầm vào miệng khi còn quấn tã.; Cây liễu cháy phát sương mù hỗn độn bao phủ riêng mình Tiểu Thạch Hạo, khai mở ký ức tiềm thức lộ thân thế thật: là hoàng thân cổ quốc mang hoàng huyết gần Nhân Hoàng, theo q…",
+       "text": "Đứng bất động dưới cây liễu cháy đen giữa tầng sương mù hỗn độn, ký ức tiềm thức thời sơ sinh của Thạch Hạo tái hiện: đại lễ tế trời của cổ quốc Nhân Hoàng, Thánh Hồ nơi Lão Thập Ngũ bắn hạ Loan Điểu, và cảnh Hạo Nhi còn quấn tã được nhỏ bảo huyết Thái Cổ Thần Cầm vào miệng. Ký ức này hé lộ Thạch Hạo xuất thân từ dòng họ hoàng thân có hoàng huyết của cổ quốc, thuộc nhánh có quyền tranh đoạt ngôi vị Nhân Hoàng.",
        "anchor": "Cảnh tượng mà nó đã từng thấy nhưng vì tuổi nhỏ mà không thể nhớ nổi, giấu ở trong tiềm thức đang tái hiện ở trước mắt."
       },
       {
        "chuong": "@c0056",
        "importance": "normal",
        "tieuDe": "Bị Lục tẩu chiết mất Chí Tôn cốt",
-       "text": "Cha mẹ đi Bách tộc chiến trường tìm ông nội, giao Hạo cho Lục tẩu; ả lừa xuống mật thất dưới trang viên, phù văn điểm huyệt bị Bảo cốt phát sáng hóa giải, rồi bóng u linh dùng đao bạc cứa lồng ngực chiết Chí Tôn cốt — Hạo gào khóc đau đớn không ngất, cuối cùng bị tách mất bảo cốt, hôn mê trên giường lạnh băng lẩm bẩm gọi Mẹ ơi.; Được cha tra xét xác nhận trời sinh Chí Tôn cốt; cha mẹ rời phủ giao cho Lục tẩu chăm; lớn nhanh biết đi biết nói sớm…",
+       "text": "Được cha tra xét xác nhận trời sinh Chí Tôn cốt; sau khi cha mẹ rời phủ đi Bách tộc chiến trường tìm ông nội, Hạo được giao cho Lục tẩu chăm sóc. Ả lừa Hạo xuống mật thất dưới trang viên, dùng phù văn điểm huyệt nhưng bị Bảo cốt phát sáng hóa giải, rồi sai bóng u linh dùng đao bạc cứa lồng ngực chiết Chí Tôn cốt. Hạo gào khóc đau đớn không ngất, cuối cùng bị tách mất bảo cốt, hôn mê trên giường lạnh băng và lẩm bẩm gọi Mẹ ơi.",
        "anchor": "Bỗng một thanh đao bạc lướt qua lóe lên một tia ánh sáng lạnh lẽo, cứa nhẹ vào lồng ngực nhóc tỳ"
       },
       {
        "importance": "normal",
        "chuong": "@c0057",
        "tieuDe": "Bị moi Chí Tôn Cốt và rút chân huyết",
-       "text": "Thiếu phụ (bá thẩm) cùng bóng đen u linh moi Chí Tôn Cốt trong lồng ngực Hạo Nhi cấy sang Thạch Nghị, rồi rút cạn chân huyết còn sót để tẩm bổ; nhóc tỳ hôn mê co rúm góc giường lạnh, thều thào gọi mẹ và đại nương, được Tứ Thái Gia phá cửa địa cung xông vào ôm vào lòng vận Bảo Phù bọc thụy hà cứu chữa.; Chí Tôn Cốt bẩm sinh trong lồng ngực Thạch Hạo bị thiếu phụ và bóng đen moi ra cấy sang Thạch Nghị; sau đó bị rút cạn chân huyết còn sót để tẩm b…",
+       "text": "Thiếu phụ cùng bóng đen u linh moi Chí Tôn Cốt trong lồng ngực Hạo Nhi cấy sang Thạch Nghị, rồi rút cạn chân huyết còn sót để tẩm bổ; nhóc tỳ hôn mê co rúm ở góc giường lạnh, thều thào gọi mẹ và đại nương, sau được Tứ Thái Gia phá cửa địa cung xông vào ôm vào lòng, vận Bảo Phù bọc thụy hà cứu chữa.",
        "anchor": "ký hiệu ngưng tụ hóa thành một miếng Chí Tôn Cốt, ẩn vào trong lồng ngực của Thạch Nghị"
       },
       {
-       "text": "Sau khi Chí Tôn cốt bị móc, tinh khí kiệt quệ, mỗi nửa đêm xương cốt rung động đùng đùng, thân thể co rút như nhỏ đi mấy tháng; dần quên cả Tứ thái gia và A Man, cô chú trong tộc lạnh nhạt không thăm hỏi.; Bị móc Chí Tôn cốt, mỗi đêm xương cốt rung động, thân thể co rút như nhỏ đi mấy tháng; mất dần tinh khí lẫn trí nhớ, quên cả Tứ thái gia và A Man, sinh mệnh thoi thóp.; Sau khi bị móc Chí Tôn cốt, thân thể Thạch Hạo teo rút như nhỏ đi mấy thán…",
+       "text": "Sau khi bị móc Chí Tôn cốt, Thạch Hạo tinh khí kiệt quệ, mỗi nửa đêm xương cốt rung động đùng đùng, thân thể co rút như nhỏ đi mấy tháng; hắn mất dần trí nhớ, quên cả Tứ thái gia và A Man, sinh mệnh thoi thóp.",
        "anchor": "xương cốt nhóc tỳ sẽ rung động đùng đùng, toàn bộ thân thể nhỏ bé lại rút ngắn",
        "bridge": true,
        "khoang": "@c0058"
       },
       {
-       "text": "Bị mẹ ôm đi theo cha vào cứ địa nhánh Thạch Nghị; mắt ngày càng mờ mịt, lồng ngực thoi thóp, chỉ kêu ê a không nói được; hé lộ trước đó Thập Ngũ Gia đã dùng máu Tỳ Hưu huyết mạch tinh khiết gột rửa thân thể cho hắn.; Bị cướp Chí Tôn cốt, mạng sống thoi thóp, mắt ngày càng mờ mịt, lồng ngực thoi thóp; được mẹ ôm đi theo cha, mơ màng nhìn hình bóng cha, tay bé nhỏ với tới, chỉ kêu ê a không nói được — một đứa trẻ thông minh hoạt bát bị thoái hoá t…",
+       "text": "Bị cướp Chí Tôn cốt, mạng sống thoi thóp, mắt ngày càng mờ mịt, lồng ngực thoi thóp; được mẹ ôm đi theo cha vào cứ địa nhánh Thạch Nghị, mơ màng nhìn hình bóng cha, tay bé nhỏ với tới, chỉ kêu ê a không nói được; mẹ ngấn lệ vì hắn vốn là một đứa trẻ thông minh hoạt bát lại bị thoái hoá thành như bây giờ.",
        "anchor": "một đứa trẻ thông minh hoạt bát lại bị thoái hoá thành như bây giờ",
        "bridge": true,
        "khoang": "@c0059"
@@ -6745,18 +6745,18 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0062",
        "importance": "major",
        "tieuDe": "Mất Chí Tôn cốt, thoi thóp bên bờ sinh tử",
-       "text": "Bị Thạch Nghị đoạt Chí Tôn cốt trong đại chiến Thạch phủ Hoàng Đô, thoi thóp bên bờ sinh tử, được mẹ ôm vào chiến trường hợp lực cha tế bảo thuật Tâm hữu linh tê nhất điểm thông rồi ngất trong ngực mẹ; bị Thạch Nghị liếc bằng ánh mắt ngạo thị vì coi như đã phế bỏ; sau đó theo cha mẹ bị đày tới Man Hoang khổ địa (tổ địa thứ hai) dưỡng thương dưới sự giám sát của đối phương theo ước định; Bị mất Chí Tôn cốt, coi như phế bỏ; mẹ ôm vào chiến trường…",
+       "text": "Bị mất Chí Tôn cốt, Thạch Hạo thoi thóp bên bờ sinh tử; trong đại chiến Thạch phủ Hoàng Đô, được mẹ ôm vào chiến trường, hợp lực cùng cha tế bảo thuật Tâm hữu linh tê nhất điểm thông rồi suy nhược ngất trong ngực mẹ. Thạch Nghị liếc nhìn bằng ánh mắt ngạo thị vì cho rằng hắn đã phế bỏ; sau đó cả nhà rời Hoàng Đô, bị đày tới Man Hoang khổ địa, tức tổ địa thứ hai, theo ước định dưỡng thương dưới sự giám sát của đối phương.",
        "anchor": "đã mất đi Chí Tôn cốt, cuộc đời này coi như phế bỏ"
       },
       {
        "importance": "normal",
        "chuong": "@c0063",
        "tieuDe": "Ngộ đạo tái sinh & nhận Nguyên Thủy Chân Giải",
-       "text": "Liễu Thần khai thị rằng Chí Tôn Cốt có khả năng tái sinh trong cơ thể nhóc tỳ, tiết lộ năm xưa chính nhóc tỳ tự tái sinh sinh cơ mà sống sót chứ Liễu Thần chỉ đứng nhìn; nhóc tỳ quyết chí trở nên mạnh mẽ để về cổ quốc đòi công bằng; tộc trưởng Thạch Vân Phong trao cục xương trắng khắc ký hiệu bí ẩn — bảo vật rơi cùng Liễu Thần mấy chục năm trước — Liễu Thần đặt tên bốn chữ: Nguyên Thủy Chân Giải.; Khi chỉ còn ba người, lão tộc trưởng Thạch Vân P…",
+       "text": "Liễu Thần khai thị rằng Chí Tôn Cốt có khả năng tái sinh trong cơ thể nhóc tỳ, nhưng chỉ là một khả năng; đồng thời tiết lộ năm xưa chính nhóc tỳ tự tái sinh sinh cơ mà sống sót chứ Liễu Thần chỉ đứng nhìn. Sau khi được tộc nhân Thạch Thôn an ủi, nhóc tỳ quyết chí trở nên mạnh mẽ để về cổ quốc đòi công bằng. Khi chỉ còn Thạch Vân Phong, nhóc tỳ và Chu Yếm, tộc trưởng trao cục xương trắng khắc ký hiệu bí ẩn — bảo vật rơi cùng Liễu Thần mấy chục năm trước — và cuối cùng Liễu Thần đặt tên bốn chữ: Nguyên Thủy Chân Giải.",
        "anchor": "cây liễu mới lên tiếng, chỉ nói đúng bốn chữ"
       },
       {
-       "text": "Bắt đầu tu hành gian khổ theo Nguyên Thủy Chân Giải dưới chỉ điểm của Liễu Thần. Mỗi ngày vác sống Long Giác Tượng mấy vạn cân chổng bốn vó chạy về thôn, nửa tháng liên tiếp rồi đổi sang thú khác; được tộc trưởng đun đỉnh canh thịt thuốc cổ bồi bổ. Ba tháng sau nâng được năm vạn cân không dùng Cốt Văn khi mới hơn sáu tuổi. Tu luyện nghịch dòng thác đá ngoài bảy mươi dặm, bị sóng đánh đá rơi, về thôn người chỗ xanh chỗ tím — lần đầu bị thương tro…",
+       "text": "Bắt đầu tu hành gian khổ theo Nguyên Thủy Chân Giải dưới chỉ điểm của Liễu Thần. Mỗi ngày vác sống Long Giác Tượng mấy vạn cân chổng bốn vó chạy về thôn, nửa tháng liên tiếp rồi đổi sang thú khác; được tộc trưởng đun đỉnh canh thịt thuốc cổ bồi bổ. Ba tháng sau nâng được năm vạn cân không dùng Cốt Văn khi mới hơn sáu tuổi. Tu luyện nghịch dòng thác đá ngoài bảy mươi dặm, bị sóng đánh đá rơi, về thôn người chỗ xanh chỗ tím — lần đầu bị thương trong quá trình tu hành.",
        "anchor": "nhóc tỳ đã có thể nâng được vật nặng năm vạn cân rồi",
        "bridge": true,
        "khoang": "@c0064"
@@ -6765,7 +6765,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0065",
        "tieuDe": "Ngộ chân nghĩa Bàn Huyết Cảnh",
-       "text": "Chọi cứng đá mấy nghìn cân, cơ thể tự phát bảo quang mà không cần Cốt Văn — ngộ ra chân nghĩa Bàn Huyết Cảnh mà Liễu Thần từng nói: sức mạnh thuần huyết khí tự động hộ thân.; Uống một bát thuốc luyện từ máu vàng Chu Yếm trong đỉnh cổ tổ truyền; cả người bốc lửa, mồ hôi đầm đìa, máu bầm tan, xương cốt sáng óng, tạng phủ trong suốt — cơ thể được tẩy tủy cường thân.; Ngày ngày tới vùng thác nước đá, chống thác trắng xóa mà trèo, để đá nặng đập vào…",
+       "text": "Uống một bát thuốc luyện từ máu vàng Chu Yếm trong đỉnh cổ tổ truyền, cả người bốc lửa, mồ hôi đầm đìa, máu bầm tan, xương cốt sáng óng, tạng phủ trong suốt — cơ thể được tẩy tủy cường thân. Sau đó ngày ngày tới vùng thác nước đá, chống thác trắng xóa mà trèo, để đá nặng đập vào người; qua ba tháng luyện thành mình đồng da sắt. Khi chọi cứng đá mấy nghìn cân, cơ thể tự phát bảo quang mà không cần Cốt Văn, Thạch Hạo ngộ ra chân nghĩa Bàn Huyết Cảnh mà Liễu Thần từng nói: sức mạnh thuần huyết khí tự động hộ thân.",
        "anchor": "Đây là sức mạnh thuần huyết khí, tự động hộ thân."
       },
       {
@@ -6800,7 +6800,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0070"
       },
       {
-       "text": "Cải trang thành nhóc tỳ áo da rách, mang Bóng Lông giả đần trên vai, gặp nhóm tu sĩ do Hạ U Vũ dẫn đầu và đóng vai trẻ chất phác nói “gia gia” dẫn đi rèn luyện Đại Hoang; khi cô gái áo trắng bất ngờ xuất thủ thử thực lực, phản đòn tóm cánh tay, bóp cổ và ấn ngón tay ký hiệu khống chế nàng trong nhất thời trước khi nàng thoát; xưng tên giả “Hạo Thiên”, nhận phù bài Bổ Thiên Các cuối cùng rồi cưỡi Độc Giác Thú rời đi; bị bà lão xác nhận thần lực tám chín vạn cân, gần cửa ải Cực Cảnh",
+       "text": "Cải trang thành nhóc tỳ áo da rách, mang Bóng Lông giả đần trên vai, gặp nhóm tu sĩ do Hạ U Vũ dẫn đầu và đóng vai trẻ chất phác nói “gia gia” dẫn đi rèn luyện Đại Hoang; khi cô gái áo trắng bất ngờ xuất thủ thử thực lực, phản đòn tóm cánh tay, bóp cổ và ấn ngón tay ký hiệu khống chế nàng trong nhất thời trước khi nàng thoát; xưng tên giả “Hạo Thiên”, nhận phù bài Bổ Thiên Các cuối cùng rồi cưỡi Độc Giác Thú rời đi; bị bà lão xác nhận thần lực tám chín vạn cân, đã tiếp cận cửa ải Cực Cảnh khi Thái Cổ Hung Thú khảo nghiệm con non.",
        "anchor": "Tay phải thò ra, 'bịch' một tiếng liền tóm lấy cánh tay ngọc đó",
        "bridge": true,
        "khoang": "@c0071"
@@ -6812,13 +6812,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0072"
       },
       {
-       "text": "Vòng hơn nghìn dặm vào Thạch quốc tới tổ địa rách nát; phát hiện đứa bé bệnh tật gầy yếu, chân tật, sống cô độc chính là ‘một mình khác’ của mình — kẻ thay hắn ở lại chịu khổ. Hắn sờ khối phù bài trong lòng, thề bằng mọi giá đưa đứa bé đến Bổ Thiên Các; sau đó biết người hầu đã bị mua chuộc, ngược đãi đứa bé nên tức giận siết nắm đấm.; Đứng xa quan sát trận cây Tế linh diệt thủ lĩnh hung cầm ở thành Trùng Vân, hắn nhận ra phù văn có thể dựng vũ…",
+       "text": "Vòng hơn nghìn dặm vào Thạch quốc tới tổ địa rách nát; phát hiện đứa bé bệnh tật gầy yếu, chân tật, sống cô độc chính là ‘một mình khác’ của mình — kẻ thay hắn ở lại chịu khổ. Hắn sờ khối phù bài trong lòng, thề bằng mọi giá đưa đứa bé đến Bổ Thiên Các; sau đó biết người hầu đã bị mua chuộc, ngược đãi đứa bé nên tức giận siết nắm đấm. Trước đó, đứng xa quan sát trận cây Tế linh diệt thủ lĩnh hung cầm ở thành Trùng Vân, hắn nhận ra phù văn có thể dựng vũ khí trong thân thể để tấn công xuyên thủng mọi thứ và cân nhắc bắt chước.",
        "anchor": "Ta muốn đưa ngươi đến Bổ Thiên Các, dù cho xa xôi thế nào ta cũng sẽ mang ngươi đi cùng",
        "bridge": true,
        "khoang": "@c0073"
       },
       {
-       "text": "Khoe với lão nhân “một tay có thể nhấc mười vạn tám ngàn cân” khiến ông hồi quang phản chiếu mãn nguyện; khi lão nhân trối trăng muốn đặt tay đứa bé vào tay mình, Thạch Hạo nắm hai bàn tay lại hứa sẽ thay ông chăm sóc đứa bé thế mạng, gánh trách nhiệm mà mấy lão nhân trong điền trang từng làm cho gia đình mình.; Sau mấy ngày quan sát xác nhận không có cao thủ, Thạch Hạo bí mật lẻn vào điền trang cũ nát ở Tây Cương; nhờ Liễu Thần cho thấy chuyện…",
+       "text": "Sau mấy ngày quan sát xác nhận không có cao thủ, Thạch Hạo bí mật lẻn vào điền trang cũ nát ở Tây Cương; nhờ Liễu Thần cho thấy chuyện năm xưa, cậu biết các lão nhân bị trục xuất từng đối tốt với gia đình mình và đứa bé bên giường chính là người được dùng để thế mạng cho cậu. Thạch Hạo tự nhận là đứa trẻ năm đó tới thăm, rồi khoe với lão nhân rằng một tay có thể nhấc mười vạn tám ngàn cân, khiến ông hồi quang phản chiếu mãn nguyện; khi lão nhân trối trăng muốn đặt tay đứa bé vào tay mình, Thạch Hạo nắm hai bàn tay lại và hứa sẽ chiếu cố thật tốt cho nó.",
        "anchor": "cháu sẽ chiếu cố thật tốt cho nó",
        "bridge": true,
        "khoang": "@c0074"
@@ -6907,7 +6907,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0090",
        "tieuDe": "Cối xay bạc Thần Nguyệt đoạt lại bảo cốt",
-       "text": "Bị bọn cướp giả vờ ‘mua’ bảo cốt bằng mười viên tinh bích rồi cưỡng đoạt; nhóc tỳ lướt ngang, hai vầng Thần Nguyệt dung hợp thành cối xay bạc đánh bay bọn cướp, đoạt lại bảo cốt.; Nhóc tỳ đọc bia đá ghi chiến tích Thạch Nghị chém chín Thú Vương tại Sơ Thủy Địa; nghe danh xưng ‘Chí Tôn trời sinh’ liền hiện ký ức cô bé nô tỳ A Man căn dặn bên giường bệnh, gợi lại thân phận thiếu gia mờ nhạt; ngông nghênh tuyên bố phá mọi kỷ lục của Thạch Nghị.; Ca…",
+       "text": "Bị bọn cướp giả vờ ‘mua’ bảo cốt bằng mười viên tinh bích rồi cưỡng đoạt, nhóc tỳ lướt ngang, hai vầng Thần Nguyệt dung hợp thành cối xay bạc đánh bay bọn cướp, đoạt lại bảo cốt. Nhóc tỳ đọc bia đá ghi chiến tích Thạch Nghị chém chín Thú Vương tại Sơ Thủy Địa; nghe danh xưng ‘Chí Tôn trời sinh’ liền hiện ký ức cô bé nô tỳ A Man căn dặn bên giường bệnh, gợi lại thân phận thiếu gia mờ nhạt; ngông nghênh tuyên bố phá mọi kỷ lục của Thạch Nghị. Cao thủ trong tộc xuất hiện, thả mười tám Xích Vũ muốn giết nhóc tỳ, nhưng nhóc tỳ dùng bọn cướp làm lá chắn thịt rồi dựng cối xay bạc khổng lồ chọi cứng Bảo Cụ.",
        "anchor": "hai vầng Thần Nguyệt xuất hiện rồi chạm vào nhau, dung hợp tạo thành một cái cối xay bạc"
       },
       {
@@ -6941,7 +6941,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0097"
       },
       {
-       "text": "Đào được mười tám khối phù cốt óng ánh đầy phù văn ở khu vực thứ tám; dùng bảo thuật Toan Nghê phá bình phong ánh sáng để vào tầng thứ hai cổ chiến trường; chia bảo cốt thành sáu nhóm chôn giấu ở đầm lầy, khe nước và tổ chim bỏ hoang; hành động này khiến 8927 người vượt ải kỷ lục và bị Bổ Thiên Các truy tìm dưới biệt danh Hùng hài tử",
+       "text": "Ở khu vực thứ tám, Thạch Hạo đào được mười tám khối phù cốt óng ánh đầy phù văn, sau đó dùng bảo thuật Toan Nghê phá bình phong ánh sáng để vào tầng thứ hai cổ chiến trường. Nó chia số bảo cốt thành sáu nhóm, chôn giấu ở đầm lầy, khe nước và tổ chim bỏ hoang; việc trộm bảo cốt làm hỏng nơi thí luyện, khiến 8927 người vượt ải thành công và khiến Bổ Thiên Các truy tìm thủ phạm dưới biệt danh Hùng hài tử.",
        "anchor": "nhóc tỳ vác một cái bao da thú khổng lồ, tổng cộng đào được mười tám khối phù cốt",
        "bridge": true,
        "khoang": "@c0099"
@@ -6970,7 +6970,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0161",
        "tieuDe": "Cướp trứng thần, giao đấu Tất Phương",
-       "text": "Nhóc Tỳ dùng túi Càn Khôn thu quả trứng bạc bị Tất Phương đục thủng rồi định thu luôn Tất Phương, hai bên giao đấu khiến vùng núi và tổ chim nổ tung; sau đó phát hiện Chư Kiền, Li Long cùng các hung thú Thái Cổ non tiến sâu Bách Đoạn sơn, và một thiếu nữ tóc tím được 108 vòng thần hoàn bao phủ, cân nhắc giao thủ.; Bách Đoạn sơn dỡ phong ấn hóa thế giới màu máu, lão quái các khu lao ra săn giết; Nhóc Tỳ dùng đại thần thông che giấu khí tức theo l…",
+       "text": "Nhóc Tỳ dùng túi Càn Khôn thu quả trứng bạc bị Tất Phương đục thủng rồi định thu luôn Tất Phương, hai bên giao đấu khiến vùng núi và tổ chim nổ tung; sau đó phát hiện Chư Kiền, Li Long cùng các hung thú Thái Cổ non tiến sâu Bách Đoạn sơn, và một thiếu nữ tóc tím được 108 vòng thần hoàn bao phủ, cân nhắc giao thủ.; Bách Đoạn sơn dỡ phong ấn hóa thế giới màu máu, lão quái các khu lao ra săn giết; Nhóc Tỳ dùng đại thần thông che giấu khí tức theo l",
        "anchor": "Ngươi lấy trộm trứng chim thì trả bằng thân thể của mình đi!"
       },
       {
@@ -7053,7 +7053,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0174",
        "tieuDe": "Về Bổ Thiên các, Các chủ ban ân",
-       "text": "Nó nán lại hai ngày tu hành ngộ đạo và mở ra Động Thiên thứ chín, thân thể mạnh hơn; gặp lại Đào Dã, giao dịch kiếm nguyền rủa rồi theo thông đạo hiến tế trở về Bổ Thiên các; Các chủ nhiều năm bế quan xuất hiện công nhận công lao đào toàn bộ bùn cát Bất Lão Tuyền, cho tùy tiện ra vào Tàng Kinh các và cảnh báo Hoang vực sắp đại loạn.; Sau khi rời Đoạn Không thành một mình để tránh nguy hiểm, Nhóc Tỳ mở túi Càn Khôn kiểm kê chiến lợi phẩm định dàn…",
+       "text": "Nó nán lại hai ngày tu hành ngộ đạo và mở ra Động Thiên thứ chín, thân thể mạnh hơn; gặp lại Đào Dã, giao dịch kiếm nguyền rủa rồi theo thông đạo hiến tế trở về Bổ Thiên các; Các chủ nhiều năm bế quan xuất hiện công nhận công lao đào toàn bộ bùn cát Bất Lão Tuyền, cho tùy tiện ra vào Tàng Kinh các và cảnh báo Hoang vực sắp đại loạn.; Sau khi rời Đoạn Không thành một mình để tránh nguy hiểm, Nhóc Tỳ mở túi Càn Khôn kiểm kê chiến lợi phẩm định dàn",
        "anchor": "Cố gắng học một vài thứ, tương lai không xa Hoang vực sẽ đại loạn đấy."
       },
       {
@@ -7137,7 +7137,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0186",
        "tieuDe": "Nghe Liễu Lão tiết lộ Bổ Thiên Thuật, gặp Lôi Tổ",
-       "text": "Đọc hơn phân nửa cốt thư Tàng Kinh Các, thỉnh giáo Tế Linh, học nhiều tiểu thần thông; nghe Liễu Lão tiết lộ Bổ Thiên Thuật thất truyền và Bổ Thiên Các sắp kinh biến; lần thứ hai vào linh sơn gặp Lôi Tổ Mộ Viêm xin chỉ điểm bảo thuật trấn giáo Lôi Đạo, được Lôi Tổ dự đoán sẽ rời Hoang vực ra ngoài tranh bá.; Sau hơn một tháng bế quan trong Tịnh Thổ, nhiều lần hóa thân thành Côn Bằng trải nghiệm một đời của loài này; đại thần thông này vượt xa bả…",
+       "text": "Đọc hơn phân nửa cốt thư Tàng Kinh Các, thỉnh giáo Tế Linh, học nhiều tiểu thần thông; nghe Liễu Lão tiết lộ Bổ Thiên Thuật thất truyền và Bổ Thiên Các sắp kinh biến; lần thứ hai vào linh sơn gặp Lôi Tổ Mộ Viêm xin chỉ điểm bảo thuật trấn giáo Lôi Đạo, được Lôi Tổ dự đoán sẽ rời Hoang vực ra ngoài tranh bá.; Sau hơn một tháng bế quan trong Tịnh Thổ, nhiều lần hóa thân thành Côn Bằng trải nghiệm một đời của loài này; đại thần thông này vượt xa bả",
        "anchor": "muốn gặp Lôi Tổ mong nhận được sự chỉ điểm về bảo thuật trấn giáo từ ông ta"
       },
       {
@@ -7190,7 +7190,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0195",
        "tieuDe": "Thoát khỏi đại kiếp nạn",
-       "text": "Chứng kiến hai trưởng lão tự bạo, Hùng Phi cùng Trác Vân trưởng lão chết thảm, Lâm Mộc sư huynh triển Nhiên Huyết Thông Thiên công tự sát chặn hậu; dùng bảo thuật Côn Bằng và Bóng Lông trốn khỏi loạn chiến, cuối cùng thoát thân khi kiếp nạn kéo dài một ngày một đêm chấm dứt, rời vùng Tịnh Thổ nhuốm máu.; Nhặt lại thanh kiếm gãy từng chặt Thôn Thiên Tước, chém Cùng Kỳ; phát hiện rỉ sét biến mất thay bằng những vết máu đỏ sậm, lo lắng cho Quỷ gia…",
+       "text": "Chứng kiến hai trưởng lão tự bạo, Hùng Phi cùng Trác Vân trưởng lão chết thảm, Lâm Mộc sư huynh triển Nhiên Huyết Thông Thiên công tự sát chặn hậu; dùng bảo thuật Côn Bằng và Bóng Lông trốn khỏi loạn chiến, cuối cùng thoát thân khi kiếp nạn kéo dài một ngày một đêm chấm dứt, rời vùng Tịnh Thổ nhuốm máu.; Nhặt lại thanh kiếm gãy từng chặt Thôn Thiên Tước, chém Cùng Kỳ; phát hiện rỉ sét biến mất thay bằng những vết máu đỏ sậm, lo lắng cho Quỷ gia",
        "anchor": "Trường đại kiếp nạn này kéo dài một ngày một đêm, cuối cùng cũng dần dần kết thúc, Nhóc Tỳ đã thành công trốn thoát"
       },
       {
@@ -9617,7 +9617,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0008"
       },
       {
-       "text": "Khi Thạch Lâm Hổ tế Tổ Khí, mỏ Thanh Lân Ưng phát hào quang lộ ký hiệu huyệt mạch truyền thừa; luồng uy áp như vua vạn thú khiến nó chấn động bay lên xa.; Thanh Lân Ưng (thân dài 7-8 mét, sải cánh 15 mét) truy sát đám nhóc vào thạch động, cào xé nham thạch chui vào. Đá và tên cung sừng rồng chỉ tóe lửa trên vẩy nó, nhưng thiết mâu của Thạch Hạo làm bong một miếng vẩy khóe mắt khiến nó phát điên.; Thanh Lân Ưng truy sát đám nhóc Thạch Thôn vào tậ…",
+       "text": "Thanh Lân Ưng (thân dài 7-8 mét, sải cánh 15 mét) truy sát đám nhóc Thạch Thôn vào thạch động, cào xé nham thạch chui vào; đá và tên cung sừng rồng chỉ tóe lửa trên vẩy nó, nhưng thiết mâu của Thạch Hạo làm bong một miếng vẩy ở khóe mắt khiến nó phát điên. Khi Thạch Lâm Hổ tế Tổ Khí, mỏ Thanh Lân Ưng phát hào quang lộ ký hiệu huyệt mạch truyền thừa; luồng uy áp như vua vạn thú khiến nó chấn động bay lên xa.",
        "anchor": "như thể vua của vạn thú sống lại khiến cho con hung cầm ở trên không chấn động",
        "bridge": true,
        "khoang": "@c0009"
@@ -9629,7 +9629,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0010"
       },
       {
-       "text": "Là hậu duệ Thái Cổ Ma Cầm, Thanh Lân Ưng quắp đuôi Xuyên Sơn Giáp thả từ trên trời cho vỡ thành bãi máu, nhổ vầng trăng xanh (Nguyên Thủy Bảo Thuật) chém đứt đầu Quỳ Thú, xé xác năm sáu con mãnh cầm bằng sức cơ thể.; Là hậu duệ Thái Cổ Ma Cầm, quắp giết Xuyên Sơn Giáp, nhổ vầng trăng xanh chém đứt đầu Quỳ Thú, nhưng bị Tử Kim Xà cắn nát vảy trúng độc và Huyết Điêu cào một lỗ dài ở cổ.; Bị Tử Kim Xà bắn tử quang cắn nát vảy làm trúng độc chảy máu…",
+       "text": "Là hậu duệ Thái Cổ Ma Cầm, Thanh Lân Ưng quắp đuôi Xuyên Sơn Giáp thả từ trên trời cho vỡ thành bãi máu, nhổ vầng trăng xanh (Nguyên Thủy Bảo Thuật) chém đứt đầu Quỳ Thú, xé xác năm sáu con mãnh cầm bằng sức cơ thể; sau đó bị Tử Kim Xà cắn nát vảy khiến vết thương chảy máu đen trúng độc, lại bị Huyết Điêu cào một lỗ dài ở cổ.",
        "anchor": "trực tiếp chặt đứt đầu của con Quỳ Thú đó, máu tươi bắn cao mười mấy mét",
        "bridge": true,
        "khoang": "@c0019"
@@ -9641,13 +9641,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0020"
       },
       {
-       "text": "Trên tầng mây, Thanh Lân Ưng kinh hãi khi thấy Toan Nghê không chết mà sống lại, chứng kiến trận đại chiến ba con Thái Cổ Di Chủng rung động Đại Hoang.; Sau khi Toan Nghê chết thật, Thanh Lân Ưng xuống xác nhận rồi tha về cánh tay Ác Ma Viên chứa chân huyết hiếm. Nó lảo đảo suýt rơi vì trúng độc Tử Kim Xà từ trận trước, lại từng bị Huyết Điêu và Thử Vương đánh lén nên độc phát nhanh, phải gắng gượng quắp xác Toan Nghê cùng các bảo vật bay về Thạ…",
+       "text": "Trên tầng mây, Thanh Lân Ưng kinh hãi khi thấy Toan Nghê không chết mà sống lại, chứng kiến trận đại chiến ba con Thái Cổ Di Chủng rung động Đại Hoang. Sau khi Toan Nghê chết thật, Thanh Lân Ưng xuống xác nhận rồi tha về cánh tay Ác Ma Viên chứa chân huyết hiếm. Nó lảo đảo suýt rơi vì trúng độc Tử Kim Xà từ trận trước, lại từng bị Huyết Điêu và Thử Vương đánh lén nên độc phát nhanh, phải gắng gượng quắp xác Toan Nghê, cánh tay Ác Ma Viên và sừng Ly Hỏa Ngưu Ma bay về Thạch Thôn cầu tộc trưởng giải độc.",
        "anchor": "Trong tầng mây, Thanh Lân Ưng r",
        "bridge": true,
        "khoang": "@c0021"
       },
       {
-       "text": "Do trọng thương chảy máu đen không ngừng, Thanh Lân Ưng kiệt sức lướt xuống chứ không rơi thẳng, đụng gãy nhiều cổ mộc; Bảo thể Toan Nghê rơi trước đụng vỡ đá lớn.; Trọng thương chảy máu đen hôi thối không ngừng, kiệt sức lướt xuống đụng gãy nhiều cổ mộc, bảo thể Toan Nghê rơi trước. Sau được Thạch Hạo cho ăn bảo huyết, ánh mắt hung cầm lộ vẻ nhu hòa yên bình dù bị cắm mâu sắt và mấy mũi tên.; Được Thạch Hạo cho ăn thịt dính bảo huyết trong sừng…",
+       "text": "Do trọng thương chảy máu đen hôi thối không ngừng, Thanh Lân Ưng kiệt sức lướt xuống chứ không rơi thẳng, đụng gãy nhiều cổ mộc; Bảo thể Toan Nghê rơi trước, đụng vỡ đá lớn. Sau đó, Thạch Hạo cho nó ăn thịt dính bảo huyết trong sừng đỏ thẫm của Thái Cổ Di Chủng để giải độc, khiến ánh mắt hung cầm lộ vẻ nhu hòa yên bình dù sau đó vẫn bị cắm mâu sắt và mấy mũi tên.",
        "anchor": "cuối cùng thì Thanh Lân Ưng cũng đã kiệt sức rồi",
        "bridge": true,
        "khoang": "@c0022"
@@ -9662,7 +9662,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0047",
        "tieuDe": "Lột xác cánh xanh hóa cánh bạc",
-       "text": "Sau khi ăn thịt Toan Nghê, Thanh Lân Ưng lột xác biến hóa, cánh xanh hóa thành cánh bạc, khí tức cường thịnh hơn nhiều; nó bay về Thạch thôn tránh đại họa, được ba con chim non Đại Bằng, Tiểu Thanh, Tử Vân mừng rỡ nhào tới cọ đầu, được người thôn và nhóc tỳ khuyên ở lại trong thôn tránh nạn.; Hậu duệ ma cầm Thái cổ, sau khi ăn thịt Toan Nghê thì lột xác — cánh xanh hóa thành cánh bạc, khí tức cường thịnh hơn nhiều; nó bay về Thạch thôn tránh họa…",
+       "text": "Sau khi ăn thịt Toan Nghê, Thanh Lân Ưng lột xác biến hóa, cánh xanh hóa thành cánh bạc, khí tức cường thịnh hơn nhiều; nó bay về Thạch thôn tránh đại họa, được ba con chim non Đại Bằng, Tiểu Thanh, Tử Vân mừng rỡ nhào tới cọ đầu, rồi được người thôn và nhóc tỳ khuyên ở lại trong thôn tránh nạn.",
        "anchor": "sau khi ăn thịt Toan Nghê nó đã được lột xác"
       },
       {
@@ -9999,28 +9999,28 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0047",
        "tieuDe": "Chiến hung cầm giữa tứ đại sinh linh",
-       "text": "Là một trong tứ đại sinh linh chí cường huyết chiến sinh tử tranh đoạt khối Thánh vật trắng nơi sâu nhất dãy núi Thương Mãng; dù mang sẵn thương tích, tiểu Hồng vẫn kéo con hung cầm mắt đỏ ra tiêu hao sinh lực, há mỏ phun Bảo thuật hóa tiên kiếm đỏ thẫm chém đối thủ, hứng chịu ô quang phù văn từ đôi cánh hung cầm phản kích.; Tiểu Hồng dù mang thương tích sẵn vẫn kéo con hung cầm mắt đỏ ra khỏi đại chiến để tiêu hao sinh lực, phun Bảo thuật hóa t…",
+       "text": "Là một trong tứ đại sinh linh chí cường huyết chiến sinh tử tranh đoạt khối Thánh vật trắng nơi sâu nhất dãy núi Thương Mãng; dù mang sẵn thương tích, tiểu Hồng vẫn kéo con hung cầm mắt đỏ ra khỏi đại chiến để tiêu hao sinh lực, há mỏ phun Bảo thuật hóa thành tiên kiếm đỏ thẫm chém đối thủ, rồi hứng chịu ô quang phù văn từ đôi cánh hung cầm phản kích.",
        "anchor": "ánh sáng hóa thành một thanh tiên kiếm đỏ thẫm rực rỡ sắc bén không gì sánh nổi"
       },
       {
        "importance": "normal",
        "chuong": "@c0049",
        "tieuDe": "Phun thần hỏa, cứu Tử Sơn Tộc bất thành",
-       "text": "Chí tôn phe chính diện, há mồm phun hào quang mang thần hỏa ngập trời thai nghén thành Tiên Kiếm màu đỏ giao đấu hung thú mắt xanh; định cứu Tử Sơn Tộc nhưng vừa chạm vào thì người trong phạm vi Bảo Thuật liền nổ tung thành sương máu, đành bất lực.; Chim tước đỏ nhỏ há mồm phun thần hỏa ngập trời thai nghén thành Tiên Kiếm màu đỏ, giao đấu với hung thú mắt xanh khổng lồ, hỏa quang và vuốt lớn va chạm rung động thiên địa. Nó cố lao vào cứu Tử Sơn…",
+       "text": "Chim tước đỏ nhỏ là chí tôn phe chính diện, há mồm phun hào quang mang thần hỏa ngập trời, thai nghén thành Tiên Kiếm màu đỏ để giao đấu với hung thú mắt xanh khổng lồ; hỏa quang và vuốt lớn va chạm rung động thiên địa. Khi Tử Sơn Tộc bị hung thú mắt xanh nuốt chửng, nó cố lao vào cứu nhưng vừa chạm tới thì người trong phạm vi Bảo Thuật liền nổ tung thành sương máu, cuối cùng cứu Tử Sơn Tộc bất thành.",
        "anchor": "Đây là một trận chiến sinh tử, bọn chúng đã dồn hết sức mình"
       },
       {
        "importance": "normal",
        "chuong": "@c0050",
        "tieuDe": "Trọng thương rơi xuống trước cây liễu",
-       "text": "Một tia điện đỏ xẹt qua nhuộm đỏ bầu trời, Tiểu Hồng — con chim đỏ như lửa toàn thân trong suốt to bằng bàn tay — rơi xuống trước cây liễu; bụng ngực bị đâm xuyên gần đứt người, đầu có mấy lỗ suýt xuyên xương sọ, trong vết thương có ký hiệu đáng sợ lấp lóe đang phá hủy sinh cơ; đôi mắt trắng đen như bảo thạch lườm nhóc tỳ đầy u oán tức giận.; Con chim đỏ như lửa toàn thân trong suốt to bằng bàn tay của nhóc tỳ, một tia điện đỏ xẹt qua rồi nó rơi…",
+       "text": "Một tia điện đỏ xẹt qua nhuộm đỏ bầu trời, Tiểu Hồng — con chim đỏ như lửa, toàn thân trong suốt, to bằng bàn tay — rơi xuống trước cây liễu; bụng ngực bị đâm xuyên gần đứt người, đầu có mấy lỗ suýt xuyên xương sọ, trong vết thương có ký hiệu đáng sợ lấp lóe đang phá hủy sinh cơ; đôi mắt trắng đen như bảo thạch lườm nhóc tỳ đầy u oán tức giận.",
        "anchor": "một vết thương đáng sợ đâm xuyên bụng và ngực, gần như chém đứt người nó"
       },
       {
        "importance": "normal",
        "chuong": "@c0051",
        "tieuDe": "Tước đỏ tới Thạch Thôn nhờ trị thương",
-       "text": "Sinh linh chí cường thân đỏ như lửa từng đại chiến ở Thương Mãng Sơn Mạch, mang trọng thương rơi xuống Thạch Thôn; được cây liễu Liễu Thần tiết Tiên Châu chữa lành, khôi phục nguyên khí phát thần uy khiến muôn thú quỳ lễ, để lại một chiếc lông đỏ làm tín vật rồi thu lại thần tính trước khi bay đi.; Khôi phục nguyên khí, phát thần uy khiến muôn thú quỳ lễ; nói với Liễu Thần rằng nợ một ân tình rất lớn, rơi lại một chiếc lông đỏ làm tín vật cho th…",
+       "text": "Sinh linh chí cường thân đỏ như lửa từng đại chiến ở Thương Mãng Sơn Mạch, mang trọng thương rơi xuống Thạch Thôn; được cây liễu Liễu Thần tiết Tiên Châu chữa lành, khôi phục nguyên khí phát thần uy khiến muôn thú quỳ lễ; nó nói với Liễu Thần rằng nợ một ân tình rất lớn, rồi để lại một chiếc lông đỏ làm tín vật cho thôn nhân nhưng thu lại thần tính trước khi bay đi.",
        "anchor": "từ xa một con chim nhỏ đỏ như lửa đại chiến ở trong Thương Mãng Sơn Mạch, thiêu rụi nửa bầu trời"
       }
      ],
@@ -10106,7 +10106,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Theo lời tộc trưởng, đôi vợ chồng trẻ tới từ một cổ quốc mạnh mẽ khôn lường, nói Thạch Thôn là tổ địa bộ tộc của họ; người đàn ông có vẻ mang bệnh, họ mang theo nhóc tỳ khi cơ thể cậu thoái hóa nghiêm trọng.; Từ một cổ quốc mạnh mẽ tìm về tổ địa Thạch Thôn, mang theo nhóc tỳ cơ thể đang thoái hóa nghiêm trọng; do tổ huấn không được tùy ý quay lại tổ địa nên đã thất lạc đường về.; Người phụ nữ xinh đẹp, người đàn ông anh tuấn nhưng có vẻ bệnh; từ…",
+       "text": "Theo lời tộc trưởng, đôi vợ chồng trẻ có thể là cha mẹ nhóc tỳ: họ tới từ một cổ quốc mạnh mẽ khôn lường, nói Thạch Thôn là tổ địa bộ tộc của mình; do tổ huấn không được tùy ý quay lại tổ địa nên đã thất lạc đường về. Người phụ nữ xinh đẹp, người đàn ông anh tuấn nhưng có vẻ bệnh; họ mang theo nhóc tỳ khi cơ thể cậu thoái hóa nghiêm trọng và tìm về Thạch Thôn.",
        "anchor": "Bọn họ tới từ một cổ quốc, nói Thạch Thôn là tổ địa của bộ tộc bọn họ",
        "bridge": true,
        "khoang": "@c0051"
@@ -10289,7 +10289,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0185",
        "importance": "major",
        "tieuDe": "Giết sinh vật hình người, phục hồi Bổ Thiên các",
-       "text": "Biến thành đại thụ Hỗn Độn che kín bầu trời, hóa chiến mâu ngọc bích xuyên thủng và hồ lô xanh phá mắt dọc nổ sừng rồng, đâm thủng đầu lâu sinh vật hình người xâm phạm rồi luyện hóa hoàn toàn thi thể làm chất dinh dưỡng; sau đó khôi phục các khe nứt, linh sơn và cung điện sụp đổ của Bổ Thiên các như thần tích.; Tế Linh nói mình sắp chết, mạnh mẽ vẻ ngoài nhưng bên trong suy yếu do nhiễm mầm bệnh từ trận chiến Thượng cổ; các chủ và lão tổ bi thươ…",
+       "text": "Biến thành đại thụ Hỗn Độn che kín bầu trời, hóa chiến mâu ngọc bích xuyên thủng và hồ lô xanh phá mắt dọc nổ sừng rồng, đâm thủng đầu lâu sinh vật hình người xâm phạm rồi luyện hóa hoàn toàn thi thể làm chất dinh dưỡng; sau đó khôi phục các khe nứt, linh sơn và cung điện sụp đổ của Bổ Thiên các như thần tích.; Tế Linh nói mình sắp chết, mạnh mẽ vẻ ngoài nhưng bên trong suy yếu do nhiễm mầm bệnh từ trận chiến Thượng cổ; các chủ và lão tổ bi thươ",
        "anchor": "dây leo màu xanh biết chấn động, từ nơi ngực đâm thẳng lên trên, chọc thủng đầu lâu của sinh vật hình người kia, kết thúc trận chiến này"
       },
       {
@@ -10484,7 +10484,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Con vượn dữ đen có cánh và sừng từ sâu trong núi tới, uy áp khiến hung cầm mãnh thú run rẩy im bặt. Nó đè đầu con Điêu Hùng dài mười mét thưởng thức, giẫm chân dọn sạch đá quanh Toan Nghê, rồi giằng co với Ly Hỏa Ngưu Ma. Cuối cùng bị con Toan Nghê bật dậy xé đứt một cánh tay.; Từ sâu trong núi tới, Vượn Ác Ma — vượn dữ đen có cánh và sừng — phát ra hung uy ngập trời khiến vạn thú im bặt. Nó đè đầu con Điêu Hùng dài mười mét thưởng thức, giẫm ch…",
+       "text": "Từ sâu trong núi tới, Vượn Ác Ma — vượn dữ đen có cánh và sừng — phát ra hung uy ngập trời khiến hung cầm mãnh thú run rẩy im bặt. Nó đè đầu con Điêu Hùng dài mười mét thưởng thức, giẫm chân dọn sạch đá quanh Toan Nghê, rồi giằng co với Ly Hỏa Ngưu Ma. Cuối cùng, con Toan Nghê tưởng đã chết bỗng bật dậy và xé đứt một cánh tay của Vượn Ác Ma.",
        "anchor": "giống như Cái Thế Ma Vương hàng lâm, phát ra hung uy ngập trời",
        "bridge": true,
        "khoang": "@c0020"
@@ -10496,7 +10496,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0021"
       },
       {
-       "text": "Hiện thân Vua vượn màu đen có cánh, đã mất một tay sau trận đại chiến với Toan Nghê; lùa cả thú triều đen nghịt đuổi giết đám cường giả liên hợp, hút não tủy từng người, không ai chạy thoát.; Hiện thân Vua vượn đen có cánh, mất một tay từ trận đại chiến với Toan Nghê, nay càng hung cuồng. Lùa cả thú triều đen nghịt đuổi giết đám cường giả liên hợp, hút não tủy từng người; không ai chạy thoát. Con Di chủng đang phụng mệnh dọn bãi cho Sơn bảo xuất…",
+       "text": "Hiện thân Vua vượn màu đen có cánh, đã mất một tay sau trận đại chiến với Toan Nghê; lùa cả thú triều đen nghịt đuổi giết đám cường giả liên hợp, hút não tủy từng người, không ai chạy thoát. Tộc trưởng bộ lạc Kim Lang nhận ra Di Chủng này đang phụng mệnh lùa bầy thú, báo hiệu có Chí cường đang dọn bãi săn Sơn bảo.",
        "anchor": "Sau cùng, không một ai có thể chạy thoát, tất cả đều bỏ mạng.",
        "bridge": true,
        "khoang": "@c0042"
@@ -10636,14 +10636,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0043",
        "tieuDe": "Hóa Hung Giao công phá Thạch Thôn",
-       "text": "Đứng ở hướng chính tây bên sông lớn, chủ nhân La Phù Đại Trạch thúc huyết tinh hóa hình một con Hung Giao khổng lồ dài hơn hai trăm trượng thoát khỏi lưng, nhào về Thạch Thôn phun hào quang đánh vỡ đá núi, nứt mặt đất.; Ở hướng chính tây ven sông lớn, thúc huyết tinh hóa một con Hung Giao khổng lồ (to một trượng, dài hơn hai trăm trượng) nhào về Thạch Thôn, phun hào quang đánh vỡ đá núi nứt mặt đất.; Đứng ở hướng chính tây bên sông lớn, chủ nhân…",
+       "text": "Đứng ở hướng chính tây bên sông lớn, chủ nhân La Phù Đại Trạch thúc huyết tinh dùng Bảo Thuật hóa thành một con Hung Giao khổng lồ to một trượng, dài hơn hai trăm trượng thoát ra khỏi lưng; Hung Giao màu tro nhào về Thạch Thôn, phun hào quang đánh vỡ đá núi, khiến mặt đất nứt ra.",
        "anchor": "Gào một tiếng, Hung Giao màu tro đứng thẳng người lên, nhào về phía Thạch Thôn."
       },
       {
        "importance": "major",
        "chuong": "@c0044",
        "tieuDe": "Tử vong dưới cành liễu",
-       "text": "Dùng Bảo thuật hóa hung giao dài hơn ba trăm mét công kích, bị cành liễu xuyên thủng trán, quấn cổ siết chặt hút khô tinh khí thần; đứng ở con sông phương Tây dùng khối xương thú làm thế thân vẫn bị cành liễu chém đứt làm hai, xác khô quắt như già mấy nghìn năm.; Dùng Bảo thuật hàm chứa tinh khí thần hóa hung giao dài hơn ba trăm mét công kích nhưng bị cây liễu hút khô, phải phun máu tươi; đứng bên con sông phương Tây dùng khối xương thú làm thế…; Cường giả nhất La Phù Đại Trạch hóa hung giao dài hơn ba trăm mét công kích; Bảo thuật bị cây liễu hút khô khiến hắn phun máu, dùng khối xương thú thế thân cũng bị đánh nát, cuối cùng bị cành liễu chém đứt làm hai, tinh hoa mất sạch.; Dùng Bảo thuật hóa hung giao dài hơn ba trăm mét công kích, bị cành liễu xuyên thủng trán, quấn cổ hút khô tinh khí thần. Dùng khối xương thú thế thân vẫn bị đánh nát; cành liễu vươn tới con sông phương Tây chém đứ…",
+       "text": "Dùng Bảo thuật hàm chứa tinh khí thần hóa hung giao dài hơn ba trăm mét công kích, nhưng bị cành liễu xuyên thủng trán, quấn cổ siết chặt và hút khô khiến hắn phun máu tươi; đứng ở con sông lớn phương Tây dùng khối xương thú làm thế thân vẫn bị đánh nát, cuối cùng bị cành liễu chém đứt làm hai, xác khô quắt như già mấy nghìn năm, tinh hoa mất sạch.",
        "anchor": "đơn giản chét đứt hắn ra làm hai"
       },
       {
@@ -10786,7 +10786,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0049",
        "tieuDe": "Chí tôn chính diện đối đầu Thôn Thiên Tước",
-       "text": "Sinh linh phe chính diện ẩn trong sương mù, vung côn sắt khổng lồ đánh về đầu Thôn Thiên Tước rồi mở mắt dọc giữa mi tâm phát kim quang hóa Tiên Kiếm chém Thiên Địa Hồng Lô đen; muốn ngăn cuộc huyết tẩy nhưng đánh với hai kẻ điên chỉ khiến tổn thất lớn hơn nên hiệu quả hạn chế.; Sinh linh cầm côn sắt ẩn trong sương mù vung côn khổng lồ quét sụp vòm trời đánh về đầu Thôn Thiên Tước, rồi mở mắt dọc giữa mi tâm phát kim quang hóa thành Tiên Kiếm ch…",
+       "text": "Sinh linh phe chính diện ẩn trong sương mù vung côn sắt khổng lồ đánh về đầu Thôn Thiên Tước, rồi mở mắt dọc giữa mi tâm phát kim quang hóa thành Tiên Kiếm chém Thiên Địa Hồng Lô đen. Hắn muốn ngăn cuộc huyết tẩy, nhưng nếu tiếp tục đánh với hai kẻ điên thì chỉ khiến tổn thất lớn hơn nên hiệu quả hạn chế.",
        "anchor": "Đây là một trận chiến sinh tử, bọn chúng đã dồn hết sức mình"
       }
      ],
@@ -10863,28 +10863,28 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0055",
        "importance": "major",
        "tieuDe": "Trọng đồng — dị tượng Thượng Cổ Thánh Nhân",
-       "text": "Trong ký ức tế trời của cổ quốc, Thạch Nghị là đứa bé ba bốn tuổi trời sinh có trọng đồng (bốn con ngươi), dị tượng của Thượng Cổ Thánh Nhân, thiên túng kỳ tài học gì cũng nhanh; cả tộc kỳ vọng nó tranh đoạt ngôi vị Nhân Hoàng.; Trong ký ức của Thạch Hạo, Thạch Nghị là đứa bé ba bốn tuổi trời sinh trọng đồng (bốn con ngươi) — dị tượng Thượng Cổ Thánh Nhân; chững chạc uy nghiêm, thiên túng kỳ tài học nhanh hơn xa bọn trẻ cùng lứa, được cả tộc kỳ…",
+       "text": "Trong ký ức tế trời của cổ quốc, Thạch Nghị là đứa bé ba bốn tuổi trời sinh có trọng đồng (bốn con ngươi), dị tượng của Thượng Cổ Thánh Nhân, thiên túng kỳ tài học gì cũng nhanh; dòng họ có hoàng huyết, theo quy củ có thể tranh đoạt ngôi vị Nhân Hoàng, nên cả tộc đặt kỳ vọng vào nó.",
        "anchor": "Nó trời sinh có trọng đồng, đây là dị tượng của Thượng Cổ Thánh Nhân."
       },
       {
        "chuong": "@c0056",
        "importance": "major",
        "tieuDe": "Dùng Trọng Đồng phát hiện Chí Tôn cốt của Hạo",
-       "text": "Chưa đủ bốn tuổi đã trầm ổn khác thường, tự tu hành Cốt văn; nhìn Hạo chằm chằm bằng Trọng Đồng, điềm tĩnh nói trong cơ thể Hạo có một khối xương ẩn chứa phù văn thâm ảo diệu kỳ khó lường; bị mẹ ra lệnh không được nói cho bất cứ ai.; Dùng Trọng Đồng phát hiện Chí Tôn cốt trong cơ thể Thạch Hạo; bị mẹ cấm không được nói cho ai; dửng dưng chứng kiến mẹ sai bóng u linh chiết xương Thạch Hạo; nằm trên giường ngọc bị rạch lồng ngực nhận cấy Chí Tôn c…",
+       "text": "Chưa đủ bốn tuổi đã trầm ổn khác thường, tự tu hành Cốt văn; nhìn Hạo chằm chằm bằng Trọng Đồng, điềm tĩnh nói trong cơ thể Hạo có một khối xương ẩn chứa phù văn thâm ảo diệu kỳ khó lường; bị mẹ ra lệnh không được nói cho bất cứ ai; dửng dưng chứng kiến mẹ sai bóng u linh chiết Chí Tôn cốt của Thạch Hạo, rồi nằm trên giường ngọc để bị rạch lồng ngực nhận cấy Chí Tôn cốt.",
        "anchor": "thấy con trai mình đang nhìn đứa bé này chằm chằm, thần quang ẩn hiện trong khóe mắt"
       },
       {
        "importance": "major",
        "chuong": "@c0057",
        "tieuDe": "Nhận Chí Tôn Cốt, ép Tứ Thái Gia tha mẹ",
-       "text": "Cắn tấm gỗ mềm chịu đau khi được cấy Chí Tôn Cốt của Thạch Hạo vào lồng ngực; khi Tứ Thái Gia phá cửa định giết mẹ, cầm dao bạc đầu giường kề cổ tự thương cứa ra vết máu để ép ông tha; sau đó bình tĩnh khai nhận Chí Tôn Cốt đang ở trong người mình.; Vốn có trọng đồng bẩm sinh, chịu đau cắn tấm gỗ mềm khi được thiếu phụ và bóng đen cấy Chí Tôn Cốt vào lồng ngực; khi Tứ Thái Gia định giết mẹ, chộp con dao bạc ở đầu giường kề cổ tự cứa chảy máu ép…",
+       "text": "Vốn có trọng đồng bẩm sinh, Thạch Nghị cắn tấm gỗ mềm chịu đau khi được thiếu phụ và bóng đen cấy Chí Tôn Cốt của Thạch Hạo vào lồng ngực; khi Tứ Thái Gia phá cửa định giết mẹ, chộp con dao bạc ở đầu giường kề cổ tự cứa chảy máu để ép ông tha; sau đó bình tĩnh khai nhận Chí Tôn Cốt đang ở trong người mình.",
        "anchor": "cầm lấy con dao bạc ở đầu giường kề lên cổ mình, lập tức xuất hiện một vết máu"
       },
       {
        "chuong": "@c0058",
        "importance": "major",
        "tieuDe": "Dung hợp Chí Tôn cốt thành một thể",
-       "text": "Chí Tôn cốt bị mẹ (độc phụ) móc từ Thạch Hạo, cấy vào Nghị nhi, được máu thịt bồi dưỡng như vốn sinh ra từ cơ thể; vài ngày sau dung luyện thành một lò, không cách nào tách trả — kết hợp với Trùng Đồng sẵn có khiến chư lão không dám tưởng tượng tương lai.; Được cấy Chí Tôn cốt móc từ Thạch Hạo; cốt hoà làm một thể với thân hắn, được máu thịt bồi dưỡng, sau vài ngày dung luyện thành một lò, không cách nào tách trả.; Chí Tôn cốt móc từ Thạch Hạo đ…",
+       "text": "Chí Tôn cốt bị mẹ Thạch Nghị móc từ Thạch Hạo rồi cấy vào Nghị nhi; cốt đã hòa làm một thể với thân hắn, được máu thịt bồi dưỡng như vốn sinh ra từ cơ thể. Vài ngày sau, Chí Tôn cốt trong Thạch Nghị dung luyện thành một lò, không cách nào tách trả; kết hợp với Trùng Đồng sẵn có khiến chư lão chấn động, không dám tưởng tượng tương lai.",
        "anchor": "Đã cùng Nghị nhi hòa làm một thể, được máu thịt của nó bồi dưỡng"
       },
       {
@@ -10898,21 +10898,21 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0060",
        "tieuDe": "Trùng đồng chỉ điểm và bị đánh gãy trăm xương",
-       "text": "Dùng trùng đồng nhìn thấu bổn nguyên, ba lần hét chỉ khe hở của Thạch Tử Lăng và hung thú cho ông nội Thạch Uyên tấn công nhưng không kịp tốc độ Bảo Thuật đối phương; bị vạch là kẻ tố giác Chí Tôn Cốt và dọa tự sát để bảo vệ mẹ; cuối chương bị ký hiệu Bảo Thuật lạ của Thạch Tử Lăng đánh bay tông vào giả sơn, toàn thân là máu, hơn trăm cây xương gãy lìa; Bị Thạch Tử Lăng vạch trần chính là kẻ tố giác chuyện Chí Tôn Cốt của Hạo Nhi cho mẹ và bày t…",
+       "text": "Dùng trùng đồng nhìn thấu bổn nguyên, ba lần hét chỉ khe hở của Thạch Tử Lăng và hung thú cho ông nội Thạch Uyên tấn công nhưng không kịp tốc độ Bảo Thuật đối phương; bị vạch là kẻ tố giác chuyện Chí Tôn Cốt của Hạo Nhi cho mẹ và dọa tự sát để bảo vệ mẹ; cuối chương bị ký hiệu Bảo Thuật lạ của Thạch Tử Lăng đánh bay tông vào giả sơn, toàn thân là máu, hơn trăm cây xương gãy lìa.",
        "anchor": "Thái gia, đánh vào sườn trái của hắn!"
       },
       {
        "importance": "major",
        "chuong": "@c0061",
        "tieuDe": "Trùng đồng + Chí Tôn Cốt tự chữa lành",
-       "text": "Chưa đủ bốn tuổi, gãy hơn trăm xương vẫn ngẩng đầu gào thét tàn ác; hào quang từ mắt tạo kén bao thân, xương gãy về vị trí cũ và ngồi dậy được, ngực phát thánh quang khép vết thương — Chí Tôn Cốt mới cấy chưa hai tháng đã phát huy uy lực nghịch thiên trên thân nó.; Đứa bé chưa đủ bốn tuổi, người trùng đồng mang đặc chất Thánh Nhân Thần Nhân Thượng Cổ, được cấy Chí Tôn Cốt của Hạo Nhi; gãy hơn trăm xương vẫn ngẩng đầu gào thét, rồi hào quang từ m…",
+       "text": "Chưa đủ bốn tuổi, Thạch Nghị gãy hơn trăm xương vẫn ngẩng đầu gào thét tàn ác; sau đó hào quang từ trùng đồng tạo kén bao thân, xương gãy về vị trí cũ, nó ngồi dậy được và ngực phát thánh quang khép vết thương, cho thấy Chí Tôn Cốt mới cấy chưa hai tháng đã phát huy uy lực nghịch thiên trên thân nó. 「những cái xương bị gẫy đã về vị trí cũ.」",
        "anchor": "những cái xương bị gẫy đã về vị trí cũ."
       },
       {
        "chuong": "@c0062",
        "importance": "major",
        "tieuDe": "Cưỡng vận Chí Tôn cốt, phản phệ nứt xương",
-       "text": "Được Thạch Lạp cõng, hai người ngưng kết cưỡng ép thôi thúc khối Chí Tôn cốt (vốn của Hạo nhi) phát thần uy chấn động khiến người quan chiến muốn quỳ bái; bị phản phệ vì Chí Tôn cốt chưa trưởng thành, trăm xương rạn nứt nhưng tinh khí thần không yếu; Trùng Đồng hiện nhật nguyệt chuyển động, ngân hà vẫn lạc, phù văn quấy nhiễu thi pháp Thạch Tử Lăng; nhìn chằm chằm Thạch Tử Lăng lạnh lùng rồi liếc nhóc tỳ (Hạo nhi) bằng ánh mắt ngạo thị; Được Thạ…",
+       "text": "Được Thạch Lạp cõng, Thạch Nghị cùng hắn ngưng kết, cưỡng ép thôi thúc khối Chí Tôn cốt vốn của Hạo nhi phát thần uy chấn động khiến người quan chiến muốn quỳ bái; sau đó bị phản phệ vì Chí Tôn cốt chưa trưởng thành, trăm xương rạn nứt nhưng tinh khí thần không yếu. Trùng Đồng hiện nhật nguyệt chuyển động, ngân hà vẫn lạc, phù văn quấy nhiễu thi pháp Thạch Tử Lăng; Thạch Nghị nhìn chằm chằm Thạch Tử Lăng lạnh lùng rồi liếc nhóc tỳ bằng ánh mắt ngạo thị.",
        "anchor": "trong sâu thẳm Trùng Đồng, nó đang nhìn chằm chằm Thạch Tử Lăng một cách lạnh lùng"
       },
       {
@@ -11357,15 +11357,15 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0055",
        "importance": "normal",
        "tieuDe": "Bắn hạ Loan Điểu, nuôi Thạch Hạo bằng bảo huyết",
-       "text": "Dùng cung thân đen dây gân Giao, hai tên bắn hạ Cầm Vương Loan Điểu dài mười bảy mười tám mét có dòng máu Thái Cổ Thần Cầm tại Thánh Hồ; xẻ lấy bảo huyết quý nhất nhỏ cho Hạo Nhi (Thạch Hạo sơ sinh) uống; về sau còn bắn chết một con Tỳ Hưu trên Bách Tộc Chiến Trường làm chấn động bát hoang.; Dùng cung đen dây gân Giao bắn hai tên hạ một Loan Điểu (hậu duệ Thái Cổ Thần Cầm) dài mười bảy mười tám mét ở Thánh Hồ, được khen tiễn pháp tinh diệu; tự x…",
+       "text": "Dùng cung thân đen dây gân Giao, hai tên bắn hạ Cầm Vương Loan Điểu dài mười bảy mười tám mét có dòng máu Thái Cổ Thần Cầm tại Thánh Hồ, được khen tiễn pháp tinh diệu; xẻ lấy bảo huyết quý nhất nhỏ cho Hạo Nhi (Thạch Hạo sơ sinh) uống; về sau còn bắn chết một con Tỳ Hưu trên Bách Tộc Chiến Trường làm chấn động bát hoang.",
        "anchor": "Lão Thập Ngũ, không ngờ tiễn pháp của ông đã trở nên tinh diệu như vậy, hai tên đã bắn hạ một con Loan Điểu mạnh mẽ."
       },
       {
        "chuong": "@c0056",
        "importance": "major",
        "tieuDe": "Bắn chết con Tỳ Hưu, bị đuổi giết mất tích",
-       "text": "Tại Bách tộc chiến trường bắn chết con của một Tỳ Hưu huyết mạch cực kỳ tinh thuần chuốc đại họa; bị con Tỳ Hưu điên cuồng đuổi giết mấy chục vạn dặm, bị chém đứt một cánh tay, xương cốt toàn thân gần như gãy nát; cuối cùng sai người dùng mấy khối bảo cốt Thái cổ di chủng xếp thành Thần trận mới thoát mạng, tăm tích không rõ, sống chết khó nói.; Tại Bách tộc chiến trường, bắn chết con của Tỳ Hưu huyết mạch cực kỳ tinh thuần; bị Tỳ Hưu điên cuồng…",
-       "anchor": "lão bị chém đứt một cánh tay, xương cốt toàn thân gần như gãy nát"
+       "text": "Tại Bách tộc chiến trường, Thập Ngũ gia bắn chết con của một Tỳ Hưu huyết mạch cực kỳ tinh thuần, chuốc đại họa; sau đó bị con Tỳ Hưu điên cuồng đuổi giết mấy chục vạn dặm, bị chém đứt một cánh tay, xương cốt gần như gãy nát. Cuối cùng, lão sai người dùng mấy khối bảo cốt Thái cổ di chủng xếp thành Thần trận mới thoát mạng, nhưng tăm tích không rõ, sống chết khó nói.",
+       "anchor": "lão bị chém đứt một cánh tay, xương cốt gần như gãy nát"
       },
       {
        "importance": "normal",
@@ -11915,7 +11915,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0057",
        "tieuDe": "Phá cửa địa cung cứu Thạch Hạo",
-       "text": "Được cha mẹ Thạch Hạo gửi nhờ trông cháu, hôm nay thiếu phụ dẫn hai đứa bé đi xem hậu duệ Thái Cổ Thần Cầm rồi vào địa cung không mở nổi cửa; ông phá hủy lối vào xông vào, nhấc cổ thiếu phụ như nhấc gà, gào mắng con tiện nhân độc ác, ném thiếu phụ đập tường vỡ đá; ôm Hạo Nhi vào lòng vận Bảo Phù phát thụy hà cứu chữa, khóc xin lỗi Tử Lăng; cảnh cáo khi Tử Lăng về sẽ chém tám phần mười chi thiếu phụ để đòi công đạo.; Cơn giận trút vào thiếu phụ…",
+       "text": "Được cha mẹ Thạch Hạo gửi nhờ trông cháu, hôm nay thiếu phụ dẫn hai đứa bé đi xem hậu duệ Thái Cổ Thần Cầm rồi vào địa cung không mở nổi cửa; ông phá hủy lối vào xông vào, nhấc cổ thiếu phụ như nhấc gà, gào mắng con tiện nhân độc ác. Sau khi Lão Ngũ can thiệp, ông ném thiếu phụ đập tường vỡ đá, ôm Hạo Nhi vào lòng vận Bảo Phù phát thụy hà cứu chữa, khóc xin lỗi Tử Lăng; cuối cùng cảnh cáo khi Tử Lăng về sẽ chém tám phần mười chi thiếu phụ để đòi công đạo.",
        "anchor": "không chém tận giết tuyệt chi của ngươi cũng phải giết tám phần mười"
       }
      ],
@@ -12044,14 +12044,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0057",
        "tieuDe": "Ngăn Tứ Thái Gia giết thiếu phụ, giữ Chí Tôn Cốt",
-       "text": "Đi vào địa cung ngay sau Tứ Thái Gia, tỏa xích hà, khuyên Tứ ca hạ thiếu phụ xuống; viện lý do Thạch Tộc vừa mất một vị Chí Tôn (Thạch Hạo) không thể để thêm một đứa trẻ trọng đồng (Thạch Nghị, giờ mang Chí Tôn Cốt) chết đi — đó là Thánh Nhân, Thần Nhân thời Thượng Cổ; bị Tứ Thái Gia mắng thiên vị hậu nhân chi mình.; Tỏa xích hà như Huyết Hoàng bước vào, ngăn Tứ ca giết thiếu phụ, viện lý do Thạch Tộc vừa mất một Chí Tôn nên không thể để đứa bé…",
+       "text": "Đi vào địa cung ngay sau Tứ Thái Gia, tỏa xích hà như Huyết Hoàng, khuyên Tứ ca hạ thiếu phụ xuống; viện lý do Thạch Tộc vừa mất một vị Chí Tôn là Thạch Hạo, không thể để thêm đứa bé trọng đồng Thạch Nghị, giờ mang Chí Tôn Cốt, chết đi — đó là Thánh Nhân, Thần Nhân thời Thượng Cổ; bị Tứ Thái Gia mắng thiên vị hậu nhân chi mình.",
        "anchor": "chúng ta đã mất đi một vị Chí Tôn, lẽ nào còn phải mở to mình nhìn một thằng bé trọng đồng khác chết đi sao"
       },
       {
        "chuong": "@c0058",
        "importance": "normal",
        "tieuDe": "Chủ trương giữ Chí Tôn cốt cho Thạch Tộc",
-       "text": "Trong đại hội trưởng lão, khẳng định Chí Tôn phải thuộc về Thạch Tộc, không thể để tan biến; sau đó báo tin Chí Tôn cốt đã hoà làm một thể với Nghị nhi (thuộc chi của lão) được máu thịt bồi dưỡng, khiến cả điện chấn động.; Tại đại hội trưởng lão, khẳng định Chí Tôn phải thuộc về Thạch Tộc, không thể để tan biến; sau đó báo tin Chí Tôn cốt đã dung hợp thành công vào thân Thạch Nghị thuộc chi của hắn.; Trong đại hội trưởng lão, người đầy Xích Hà l…",
+       "text": "Trong đại hội trưởng lão, Lão Ngũ khẳng định Chí Tôn phải thuộc về Thạch Tộc, không thể để tan biến; sau đó báo tin Chí Tôn cốt đã hoà làm một thể với Nghị nhi, được máu thịt bồi dưỡng như vốn sinh ra từ cơ thể nó, khiến cả điện chấn động.",
        "anchor": "Chí tôn phải là của Thạch Tộc ta , quyết không thể vì vậy mà tan biến."
       },
       {
@@ -12174,35 +12174,35 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0058",
        "importance": "major",
        "tieuDe": "Đại náo phủ đệ, thề cắt trăm xương báo thù",
-       "text": "Sau một tháng đi tìm Thập Tam gia không thấy, trở về gặp con trai suy kiệt vì bị đoạt Chí Tôn cốt; cầm Hoàng Kim thần mâu phá tan mảnh cung điện, xông về nhánh Thạch Nghị; đánh bay chư lão ngăn cản, giết chú ruột của Nghị nhi bằng một mâu xuyên ngực; tuyên thệ mụ ta cắt một xương của con hắn thì hắn cắt trăm xương của con mụ, vừa rơi lệ vừa quyết đại khai sát giới.; Trở về sau một tháng không tìm được Thập Tam gia, thấy con suy yếu liền phẫn nộ…",
+       "text": "Sau một tháng đi tìm Thập Tam gia không thấy, Thạch Tử Lăng trở về gặp con trai suy kiệt vì bị đoạt Chí Tôn cốt; hắn cầm Hoàng Kim thần mâu phá tan một mảnh cung điện, xông về nhánh Thạch Nghị, đánh bay chư lão ngăn cản và giết chú ruột của Nghị nhi bằng một mâu xuyên ngực. Hắn tuyên thệ mụ ta cắt một xương của con hắn thì hắn cắt trăm xương của con mụ, vừa rơi lệ vừa quyết đại khai sát giới.",
        "anchor": "Mụ ta cắt một cái xương của con ta, ta cắt một trăm cái xương của con mụ!"
       },
       {
        "importance": "major",
        "chuong": "@c0059",
        "tieuDe": "Phát điên đại khai sát giới",
-       "text": "Vì con bị cướp Chí Tôn cốt, Thạch Tử Lăng phát điên xông vào phủ mạch nhánh Thạch Nghị; tóc tung bay hoàng kim, cầm chiến mâu nguyên thủy phù văn, vận Bảo Thuật chư thiên thần linh đánh nát chuỗi cốt châu của lão bề trên, hạ liên tiếp lão quạt lông Phong Lôi và lão bảo cụ dây leo; phá sát trận bảo cốt, triệu hung thú Thái cổ tàn sát hơn trăm tử sĩ Vương tộc; cuối cùng bị Lão Ngũ và Thạch Nghị chặn lại, tuyên bố nợ máu trả máu — cắt một Chí Tôn c…",
+       "text": "Vì con bị cướp Chí Tôn cốt, Thạch Tử Lăng phát điên xông vào phủ mạch nhánh Thạch Nghị; tóc tung bay hoàng kim, cầm chiến mâu nguyên thủy phù văn, vận Bảo Thuật chư thiên thần linh đánh nát chuỗi cốt châu của lão bề trên, hạ liên tiếp lão quạt lông Phong Lôi và lão bảo cụ dây leo; phá sát trận bảo cốt, triệu hung thú Thái cổ tàn sát hơn trăm tử sĩ Vương tộc; cuối cùng bị Lão Ngũ và Thạch Nghị chặn lại, tuyên bố nợ máu trả máu — cắt một cái Chí Tôn cốt của con ta thì trả đây một trăm cái xương đi.",
        "anchor": "cắt một cái Chí Tôn cốt của con ta thì trả đây một trăm cái xương đi"
       },
       {
        "importance": "major",
        "chuong": "@c0060",
        "tieuDe": "Đại chiến Thạch Uyên đòi Chí Tôn Cốt",
-       "text": "Đối đầu chi Thạch Uyên đòi trả Chí Tôn Cốt cho con; đại chiến Thạch Uyên bằng chiến mâu vàng phủ thần phù và bóng Thái Cổ Hung Thú, đâm chết Thái Cổ Hung Cầm rồi đâm xuyên vai Thạch Uyên phế nửa cánh tay; vạch mặt Thạch Nghị là kẻ tố giác Chí Tôn Cốt; công khai tuyên bố làm phản, dùng ký hiệu Bảo Thuật lạ xuyên qua phòng ngự tộc lão đánh trọng thương Thạch Nghị rồi phóng mâu ghim thiếu phụ mẹ Thạch Nghị xuống đất; Trước cả đám tông lão thiên hướ…",
+       "text": "Đối đầu chi Thạch Uyên đòi trả Chí Tôn Cốt cho con; đại chiến Thạch Uyên bằng chiến mâu vàng phủ thần phù và bóng Thái Cổ Hung Thú, đâm chết Thái Cổ Hung Cầm rồi đâm xuyên vai Thạch Uyên phế nửa cánh tay; vạch mặt Thạch Nghị là kẻ tố giác Chí Tôn Cốt; công khai tuyên bố làm phản, dùng ký hiệu Bảo Thuật lạ xuyên qua phòng ngự tộc lão đánh trọng thương Thạch Nghị rồi phóng mâu ghim thiếu phụ mẹ Thạch Nghị xuống đất.",
        "anchor": "Làm phản thì đã sao? Ta đã nói rồi, ai cũng không thể ngăn được!"
       },
       {
        "importance": "major",
        "chuong": "@c0061",
        "tieuDe": "Giết thiếu phụ mẹ Nghị Nhi",
-       "text": "Vẫy tay rút chiến mâu khiến thân thiếu phụ (mẹ Thạch Nghị) nổ tung gần nửa, chết ngay tại chỗ; sau đó vạch mặt bốn lão tổ ẩn thân, đâm chết một tộc lão chi thứ cáo mượn oai hùm và đánh trọng thương lão nhân hùng tráng ra bắt hắn; đòi trả Chí Tôn Cốt cho con.; Áp đảo cả đám tông lão như Hoàng Kim Chiến Thần, phẫn nộ vì con Hạo Nhi bị cướp Chí Tôn Cốt đến thoái hóa hấp hối; vẫy tay rút chiến mâu khiến thân thiếu phụ mẹ Thạch Nghị nổ tung gần nửa m…",
+       "text": "Áp đảo các tông lão như Hoàng Kim Chiến Thần, phẫn nộ vì Hạo Nhi bị cướp Chí Tôn Cốt đến thoái hóa hấp hối; vẫy tay rút chiến mâu khiến thân thiếu phụ mẹ Thạch Nghị nổ tung gần nửa và chết ngay tại chỗ, rồi vạch mặt bốn lão tổ ẩn thân, đâm chết một tộc lão chi thứ cáo mượn oai hùm, đánh trọng thương lão nhân hùng tráng ra bắt hắn và đòi trả Chí Tôn Cốt cho con.",
        "anchor": "Cơ thể trực tiếp nổ tung gần một nửa."
       },
       {
        "chuong": "@c0062",
        "importance": "major",
        "tieuDe": "Đại chiến Thạch phủ, bị đày Man Hoang",
-       "text": "Cầm hoàng kim chiến mâu, thân hiện Thái cổ hung thú, một mình đơn đấu bốn vị lão tổ Thạch tộc trong Thạch phủ Hoàng Đô để đòi công đạo cho Hạo nhi, áp đảo khiến bốn đại cao thủ liên tục thổ huyết; bị bốn lão tổ ra tay trấn áp; sau đó cả nhà bị đày tới Man Hoang khổ địa (tổ địa thứ hai); được Tứ tổ lén trao tàn đồ dẫn tới tổ địa chính thức của Thạch tộc; thề nếu bất thành sẽ đi khắp Man Hoang tìm Thái Cổ Thần Sơn hái thánh dược cứu Hạo nhi, và nế…",
+       "text": "Cầm hoàng kim chiến mâu, thân hiện Thái cổ hung thú, một mình đơn đấu bốn vị lão tổ Thạch tộc trong Thạch phủ Hoàng Đô để đòi công đạo cho Hạo nhi, áp đảo khiến bốn đại cao thủ liên tục thổ huyết; bị bốn lão tổ ra tay trấn áp; sau đó cả nhà bị đày tới Man Hoang khổ địa (tổ địa thứ hai); được Tứ tổ lén trao tàn đồ dẫn tới tổ địa chính thức của Thạch tộc; thề nếu tìm tổ địa bất thành sẽ đi khắp Man Hoang tìm Thái Cổ Thần Sơn hái thánh dược cứu Hạo nhi, còn nếu Hạo nhi chết thì sẽ cùng đối phương cá chết lưới rách.",
        "anchor": "Thạch Tử Lăng như một vị thiên thần màu vàng, tung hoành xung kích giữa bốn đại cao thủ vây công mà vẫn chiếm cứ thượng phong"
       },
       {
@@ -12633,7 +12633,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0056",
        "importance": "major",
        "tieuDe": "Rời phủ theo chồng đi Bách tộc chiến trường",
-       "text": "Ôm con hôn thắm thiết khẳng định dù có Chí Tôn cốt vẫn phải cho con tuổi thơ vui vẻ; sau khi cha chồng bị Tỳ Hưu đuổi giết mất tích, kiên quyết theo chồng đi cứu vì hai Bảo thuật liên thủ mới đạt cực điểm, giao Hạo nhi cho Lục tẩu chăm sóc.; Được chồng thông báo Thạch Hạo trời sinh Chí Tôn cốt; thuyết phục chồng cho đi cùng vì hai Bảo thuật liên thủ đạt cực điểm; giao Hạo nhi cho Lục tẩu rồi cùng chồng lên đường tới Bách tộc chiến trường tìm Thậ…",
+       "text": "Được chồng thông báo Thạch Hạo trời sinh Chí Tôn cốt, ôm con hôn thắm thiết và khẳng định dù có Chí Tôn cốt vẫn phải cho con tuổi thơ vui vẻ. Sau khi cha chồng bị Tỳ Hưu đuổi giết mất tích, nàng thuyết phục chồng cho đi cùng vì hai loại Bảo thuật phu thê liên thủ mới đạt cực điểm; sau đó giao Hạo nhi cho Lục tẩu chăm sóc rồi cùng chồng lên đường tới Bách tộc chiến trường.",
        "anchor": "Cuối cùng vợ chồng hai người rời khỏi quốc gia cổ, tới Bách tộc chiến trường"
       },
       {
@@ -12707,7 +12707,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0059",
        "tieuDe": "Chuỗi cốt châu bị đánh nát",
-       "text": "Lấy chuỗi cốt châu (mỗi viên như trứng ngỗng, ánh sáng như sao Ngoại Vực) tạo hình chư tinh giáng xuống phủ Thạch Tử Lăng; bị Thạch Tử Lăng vận Bảo Thuật kinh thiên đánh nổ tung dải ngân hà cốt châu, bản thân bị đánh văng gãy nhiều xương, đập nát cung điện.; Bề trên Thạch tộc mở màn tấn công Thạch Tử Lăng bằng chuỗi cốt châu tạo hình dải ngân hà chư tinh giáng xuống; bị Thạch Tử Lăng đánh nổ tung Bảo Cụ, gãy nhiều xương, đập nát cung điện.; Mở m…",
+       "text": "Mở màn tấn công Thạch Tử Lăng bằng chuỗi cốt châu, mỗi viên to như trứng ngỗng, phát sáng như sao Ngoại Vực và kết thành hình dải ngân hà chư tinh giáng xuống. Thạch Tử Lăng vận Bảo Thuật kinh thiên cùng trường mâu mang nguyên thủy phù văn đánh nổ tung chuỗi cốt châu; lão già bị đánh văng, gãy nhiều xương và đập nát cung điện.",
        "anchor": "Một chuỗi cốt châu - một Bảo Cụ mạnh mẽ như vậy lại bị đánh nát"
       }
      ],
@@ -12920,7 +12920,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0060",
        "tieuDe": "Bại trận trước Thạch Tử Lăng",
-       "text": "Từ chối trả Chí Tôn Cốt, đòi bồi thường thứ khác vì phồn thịnh của tộc; vận Bảo Thuật hóa cánh Phượng Hoàng lông đỏ rồi triệu Thái Cổ Hung Cầm Huyết Hoàng giao chiến Thạch Tử Lăng; cuối cùng hung cầm bị đâm chết, bản thân bị đâm xuyên vai phế nửa cánh tay, mất chiến lực như già đi mười tuổi; Thái Cổ Hung Cầm bị Thạch Tử Lăng đâm chết; vai ông ta bị mũi mâu phủ ký hiệu đâm xuyên trước sau thông suốt, gồng Bảo Thuật giữ vết thương không lan nên cá…",
+       "text": "Từ chối trả Chí Tôn Cốt, đòi bồi thường thứ khác vì phồn thịnh của tộc; vận Bảo Thuật hóa cánh Phượng Hoàng lông đỏ rồi triệu Thái Cổ Hung Cầm Huyết Hoàng giao chiến với Thạch Tử Lăng. Cuối cùng, hung cầm bị Thạch Tử Lăng đâm chết, bản thân Thạch Uyên bị mũi mâu xuyên vai trước sau thông suốt, phế nửa cánh tay, mất chiến lực và trông như già đi mười tuổi.",
        "anchor": "Chí Tôn Cốt đã bị lấy ra rồi, khó mà nối lại"
       },
       {
@@ -13156,14 +13156,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0061",
        "tieuDe": "Cõng Nghị Nhi xông vào chém Thạch Tử Lăng",
-       "text": "Được Nghị Nhi xin cõng để dùng sức trùng đồng gia trì, nhìn thấu hư không thấy khe hở đòn đánh của Thạch Tử Lăng chậm lại; xông vào chém một thanh Giao Long Đao suýt trúng đầu Thạch Tử Lăng, cắt rơi một sợi tóc.; Tông lão được Thạch Nghị gọi Cửu thái gia, cõng nó lên và nhờ sức trùng đồng gia trì mà nhìn thấu hư không, thấy khe hở đòn đánh của Thạch Tử Lăng chậm lại; xông vào chiến trường vung Giao Long Đao suýt trúng đầu đối phương, cắt rơi một…",
+       "text": "Tông lão được Thạch Nghị gọi Cửu thái gia; được Nghị Nhi xin cõng để dùng sức trùng đồng gia trì, nhờ đó nhìn thấu hư không, thấy khe hở đòn đánh của Thạch Tử Lăng chậm lại; xông vào chiến trường vung một thanh Giao Long Đao suýt trúng đầu Thạch Tử Lăng, cắt rơi một sợi tóc.",
        "anchor": "Cửu thái gia cõng cháu với!"
       },
       {
        "chuong": "@c0062",
        "importance": "normal",
        "tieuDe": "Cõng Thạch Nghị vận Chí Tôn cốt, tinh khí thần bị thôn phệ",
-       "text": "Cõng Thạch Nghị ngưng kết cưỡng ép thôi thúc Chí Tôn cốt phát thần uy trong đại chiến Thạch phủ; chỉ sau đòn đó tinh khí thần bị thôn phệ sạch sẽ, thổ huyết, thân nứt rách, nửa người nổ tung; được lão tổ Thạch tộc dùng cánh tay chặn hoàng kim chiến mâu của Thạch Tử Lăng cứu mạng; Cõng Thạch Nghị cưỡng ép thôi thúc khối Chí Tôn cốt phát ra thần uy chấn động khiến người quan chiến muốn quỳ bái, nhưng đòn này thôn phệ sạch tinh khí thần của hắn; hắ…",
+       "text": "Thạch Lạp cõng Thạch Nghị, hai người ngưng kết, cưỡng ép thôi thúc khối Chí Tôn cốt (vốn của Hạo nhi) phát ra thần uy chấn động khiến người quan chiến muốn quỳ bái trong đại chiến Thạch phủ tại Hoàng Đô; nhưng chỉ sau đòn này tinh khí thần của Thạch Lạp bị thôn phệ sạch sẽ, hắn thổ huyết, thân nứt rách, nửa người nổ tung; Thạch Nghị bị phản phệ, xương cốt lại rạn nứt vì Chí Tôn cốt chưa trưởng thành; sau đó được một lão tổ Thạch tộc dùng cánh tay chặn hoàng kim chiến mâu của Thạch Tử Lăng cứu mạng.",
        "anchor": "Nhưng chỉ sau đòn đánh này tinh khí thần của Thạch Lạp bị thôn phệ sạch sẽ"
       },
       {
@@ -13297,13 +13297,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "diem": [],
      "kinhLich": [
       {
-       "text": "Bậc tối cao Thạch tộc ẩn thân từ sớm, dùng bảo cốt Thái Cổ Di Chủng khóa mảnh thiên địa ngăn tiếng chiến đấu truyền ra; khi Thạch Tử Lăng vạch mặt thì bốn lão nhân hiện ra ở bốn phương với uy áp khủng bố nhưng chưa ra tay, hứa cho hắn mười năm sau tiếp quản Thạch Phủ.; Bị Thạch Tử Lăng vạch mặt vì đã ẩn thân từ sớm dùng bảo cốt Thái Cổ Di Chủng khóa mảnh thiên địa, bốn lão nhân đồng loạt hiện thân ở bốn phương với uy áp khủng bố, ra điều kiện mư…",
+       "text": "Bậc tối cao Thạch tộc ẩn thân từ sớm, dùng bảo cốt Thái Cổ Di Chủng khóa mảnh thiên địa ngăn tiếng chiến đấu truyền ra ngoài; khi Thạch Tử Lăng vạch mặt thì bốn lão nhân đồng loạt hiện thân ở bốn phương với uy áp khủng bố nhưng chưa ra tay, dụ hứa cho hắn mười năm sau tiếp quản Thạch Phủ. 「Bốn vị lão nhân hiện ra, phân biệt xuất hiện ở bốn phương.」",
        "anchor": "Bốn vị lão nhân hiện ra, phân biệt xuất hiện ở bốn phương.",
        "bridge": true,
        "khoang": "@c0061"
       },
       {
-       "text": "Tu vi cực cao, ẩn ở Thạch phủ, trấn phong tứ phương ngay khi vợ chồng Thạch Tử Lăng bước vào; một lão dùng cánh tay chặn lưỡi mâu cứu Thạch Lạp và Thạch Nghị, khuyên Tử Lăng dừng tay, hứa bồi thường cho Hạo nhi rồi cùng ba lão kia hợp vây trấn áp.; Bốn lão tổ tu vi cực cao ẩn ở Thạch phủ Hoàng Đô, trấn phong tứ phương; một lão dùng cánh tay chặn lưỡi mâu cứu Thạch Lạp và Thạch Nghị, khuyên Tử Lăng dừng tay và hứa bồi thường cho Hạo nhi, rồi cùng…",
+       "text": "Bốn lão tổ tu vi cực cao ẩn ở Thạch phủ Hoàng Đô, trấn phong tứ phương ngay khi vợ chồng Thạch Tử Lăng bước vào; một lão dùng cánh tay chặn lưỡi mâu cứu Thạch Lạp và Thạch Nghị, khuyên Tử Lăng dừng tay và hứa bồi thường cho Hạo nhi. Thạch Tử Lăng không phục, tiếp tục quyết chiến nên bốn lão tổ hợp vây trấn áp.",
        "anchor": "Tử Lăng, cháu nên dừng tay lại",
        "bridge": true,
        "khoang": "@c0062"
@@ -13374,35 +13374,35 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0052",
        "tieuDe": "Con khỉ ba tay dưới đáy hồ",
-       "text": "Được đám chim của Thạch Hạo phát hiện nằm bất động dưới đáy hồ khô cạn, khắp người bị đất cát vùi lấp như đã nhiều năm, chỉ còn một con mắt sáng cho thấy chưa chết; Thạch Hạo giật mình nhận ra con khỉ dài chừng một thước này có tới ba cái tay.; Nằm bất động dưới đáy hồ khô cạn, khắp người bị đất cát phủ như bị lấp nhiều năm, chỉ còn một con mắt sáng cho thấy chưa chết; Thạch Hạo phát hiện đó là con khỉ dài một thước có tới ba cái tay.; Một sinh…",
+       "text": "Được đám chim của Thạch Hạo phát hiện nằm bất động dưới đáy hồ khô cạn, khắp người bị đất cát vùi lấp như đã bị lấp nhiều năm, chỉ còn một con mắt sáng cho thấy nó chưa chết; Thạch Hạo giật mình nhận ra con khỉ dài chừng một thước này có tới ba cái tay 「Sao nó lại có đến ba cái tay vậy」.",
        "anchor": "Sao nó lại có đến ba cái tay vậy"
       },
       {
        "importance": "normal",
        "chuong": "@c0053",
        "tieuDe": "Lột xác dưới đáy hồ và được thu nuôi",
-       "text": "Bị trọng thương kẹt một chân trong bùn cứng dưới đáy hồ khô, ba đầu sáu tay đói khát; khi bị Cốt Văn dò xét lần hai thì tỏa kim quang, toàn thân rạn nứt bong hết da cũ, thu Bảo Thuật về còn một đầu hai tay và co lại thành quả cầu vàng hơn ba tấc; ăn sạch túi thịt khô của nhóc tỳ, được mang về Thạch Thôn; cuối cùng lộ ra hai cái sừng ẩn trong lông vàng khiến nhóc tỳ đau lòng.; Bị trọng thương, một chân kẹt trong bùn cứng dưới đáy hồ khô cạn, được…",
+       "text": "Bị trọng thương kẹt một chân trong bùn cứng dưới đáy hồ khô, ba đầu sáu tay đói khát; khi bị Cốt Văn dò xét lần hai thì tỏa kim quang, toàn thân rạn nứt bong hết da cũ, thu Bảo Thuật về còn một đầu hai tay và co lại thành quả cầu vàng hơn ba tấc; ăn sạch túi thịt khô của nhóc tỳ, được mang về Thạch Thôn; cuối cùng lộ ra hai cái sừng ẩn trong lông vàng khiến nhóc tỳ đau lòng rơi lệ. 「Sinh linh nhìn giống như khỉ này đột nhiên tỏa kim quang khắp người」",
        "anchor": "Sinh linh nhìn giống như khỉ này đột nhiên tỏa kim quang khắp người"
       },
       {
        "importance": "normal",
        "chuong": "@c0054",
        "tieuDe": "Mao Cầu quậy phá Thạch thôn",
-       "text": "Quả cầu vàng kim to bằng nắm tay, cao ba tấc, chuyên trộm đồ ăn khắp thôn để khôi phục nguyên khí sau một năm bị nhốt dưới đáy hồ; bị Hổ thẩm đuổi đánh nhưng thân cứng như thiết thạch không hề đau, được Thạch Hạo đặt tên Tiểu Chu / Mao Cầu; trộm hàng chục quả trứng dị cầm; đêm định gặm chồi non cây liễu thì bị Liễu Thần trói treo giữa không trung, sau được thả vì là Di Chủng Thái Cổ có phù văn bể nát, quên hết quá khứ.; Chu Yếm — quả cầu vàng ki…",
+       "text": "Quả cầu vàng kim to bằng nắm tay, cao ba tấc, chuyên trộm đồ ăn khắp thôn để khôi phục nguyên khí sau một năm bị nhốt dưới đáy hồ; bị Hổ thẩm đuổi đánh nhưng thân cứng như thiết thạch không hề đau, được Thạch Hạo đặt tên Tiểu Chu / Mao Cầu; trộm hàng chục quả trứng dị cầm; đêm định gặm chồi non cây liễu thì bị Liễu Thần trói treo giữa không trung, sau được thả vì là Di Chủng Thái Cổ có phù văn bể nát, quên hết quá khứ.",
        "anchor": "nó không phải là khỉ, nó là con Chu Yếm đó"
       },
       {
        "importance": "normal",
        "chuong": "@c0063",
        "tieuDe": "Phản ứng bất an trước Nguyên Thủy Chân Giải",
-       "text": "Nhìn cục xương trắng thì cực kỳ bất an, gào thét nhào tới muốn ôm lấy, như đang gắng sức nhớ lại điều gì đó liên quan tới bảo cốt.; Đáp xuống vai nhóc tỳ sau khi sương mù tan; khi thấy cục xương trắng thì cực bất an, sốt ruột như đang gắng nhớ lại điều gì đó, gào thét nhào tới muốn ôm đoạt lấy.; Quả bóng lông vàng đáp xuống vai nhóc tỳ; khi thấy cục xương trắng thì phản ứng cực bất an, sốt ruột như đang gắng nhớ lại điều gì đó, gào thét nhào tới…",
+       "text": "Sau khi sương mù tan, quả bóng lông vàng đáp xuống vai nhóc tỳ; khi thấy cục xương trắng thì phản ứng cực bất an, sốt ruột như đang gắng nhớ lại điều gì đó, gào thét nhào tới muốn đoạt lấy để ôm vào lòng. 「Nó nhào về phía cục xương trắng tinh, muốn ôm vào trong lòng.」",
        "anchor": "Nó nhào về phía cục xương trắng tinh, muốn ôm vào trong lòng."
       },
       {
        "importance": "normal",
        "chuong": "@c0064",
        "tieuDe": "Lộ tên thật, bị chọn làm nguồn chủ dược",
-       "text": "Chương này lộ tên thật Chu Yếm (trước gọi bóng lông); ôm chặt cục xương Nguyên Thủy Chân Giải coi như của mình, mỗi ngày ăn hơn nửa con Long Giác Tượng; bị Liễu Thần định làm nguồn chủ dược, cách ngày hiến một giọt máu vàng dù nổi giận phản đối; khi máu nhỏ vào đỉnh phát tiếng chư thần ngâm xướng, ám chỉ thân phận cực tôn quý.; Ôm chặt cục xương Nguyên Thủy Chân Giải không buông. Ăn hơn nửa con Long Giác Tượng mỗi ngày. Bị Liễu Thần chọn làm ngu…",
+       "text": "Chương này lộ tên thật Chu Yếm (trước gọi bóng lông); ôm chặt cục xương Nguyên Thủy Chân Giải coi như của mình, mỗi ngày ăn hơn nửa con Long Giác Tượng; bị Liễu Thần định làm nguồn chủ dược, cách ngày hiến một giọt máu vàng dù nổi giận phản đối; khi máu nhỏ vào đỉnh phát tiếng chư thần ngâm xướng, ám chỉ thân phận cực tôn quý 「Bảo nó cứ cách mỗi ngày hiến ra một giọt máu làm chủ dược là được rồi」.",
        "anchor": "Bảo nó cứ cách mỗi ngày hiến ra một giọt máu làm chủ dược là được rồi"
       },
       {
@@ -13581,7 +13581,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0056",
        "importance": "normal",
        "tieuDe": "Xác nhận Chí Tôn cốt của con, rời phủ đi cứu cha",
-       "text": "Nhận tin cha bắn chết con Tỳ Hưu huyết mạch tinh thuần chuốc đại họa; cảm được khí tức phù văn trong người Hạo, tra xét kỹ, khiếp sợ đến run tay xác nhận con trời sinh Chí Tôn cốt; sau khi cha bị Tỳ Hưu đuổi giết mất tích, hắn cùng vợ giao Hạo cho Lục tẩu rồi lên đường tới Bách tộc chiến trường tìm cha.; Phát hiện trong cơ thể con trai có khí tức phù văn, tra xét xác nhận Thạch Hạo trời sinh Chí Tôn cốt, khiếp sợ run tay; bí mật bẩm báo hai vị l…",
+       "text": "Nhận tin cha bắn chết con Tỳ Hưu huyết mạch tinh thuần chuốc đại họa; cảm được khí tức phù văn trong người Hạo, tra xét kỹ, khiếp sợ đến run tay xác nhận con trời sinh Chí Tôn cốt; chuyện Chí Tôn cốt được bí mật bẩm báo cho hai vị lão gia tử chủ sự trong tộc, liệt hàng tuyệt mật đề phòng lộ ra dẫn đến chết non; sau khi cha bị Tỳ Hưu đuổi giết mất tích, hắn cùng vợ giao Hạo cho Lục tẩu rồi lên đường tới Bách tộc chiến trường tìm cha.",
        "anchor": "Cuối cùng vợ chồng hai người rời khỏi quốc gia cổ, tới Bách tộc chiến trường"
       }
      ],
@@ -13676,7 +13676,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0056",
        "importance": "major",
        "tieuDe": "Nhận nuôi Hạo rồi chiết Chí Tôn cốt cấy cho con",
-       "text": "Nhận chăm Hạo nhi khi cha mẹ Hạo đi Bách tộc chiến trường, hứa hai anh em sẽ cùng bình bát hoang trấn vạn tộc; Thạch Nghị phát hiện Chí Tôn cốt trong người Hạo, ả ra lệnh không được nói cho ai; sau vài tháng nuôi dưỡng, lừa Hạo tới trang viên xem hậu duệ Thái cổ Thần cầm rồi dẫn xuống mật thất, phù văn điểm huyệt bị Bảo cốt hóa giải nên triệu bóng u linh cầm đao bạc chiết xương; đã tra Cố thư khẳng định thành công, tuyên bố con ruột sẽ là Chí tô…",
+       "text": "Nhận chăm Hạo nhi khi cha mẹ Hạo đi Bách tộc chiến trường, hứa hai anh em sẽ cùng bình bát hoang trấn vạn tộc; Thạch Nghị phát hiện Chí Tôn cốt trong người Hạo, ả ra lệnh không được nói cho ai; sau vài tháng nuôi dưỡng, lừa Hạo tới trang viên xem hậu duệ Thái cổ Thần cầm rồi dẫn xuống mật thất, phù văn điểm huyệt bị Bảo cốt hóa giải nên triệu bóng u linh cầm đao bạc chiết xương; đã tra Cố thư khẳng định thành công, tách Chí Tôn cốt khỏi lồng ngực Hạo rồi ghép sang Nghị nhi trên giường ngọc, tuyên bố con ruột 「chính là… Chí tôn trời sinh」.",
        "anchor": "Không được nói cho bất cứ ai!"
       }
      ],
@@ -13775,8 +13775,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0056",
        "importance": "major",
        "tieuDe": "Chiết Chí Tôn cốt của Hạo cấy sang Nghị",
-       "text": "Được Lục tẩu triệu, xuất hiện không tiếng động không hơi thở; đặt Hạo lên giường lạnh băng, dùng đao bạc cứa lồng ngực Hạo chiết Chí Tôn cốt — sau nỗ lực dài rốt cuộc gào lên như dã thú vì tách được đoàn sáng chói lọi mang ma lực không thể cưỡng lại tỏa thần tính chói cả mật thất; tiếp đó dùng ngân đao lướt qua lồng ngực Nghị nhi rạch mở để cấy Chí Tôn cốt, bị thiếu phụ hung dữ cảnh cáo không được sai sót.; Được Lục tẩu triệu đến mật thất; dùng…",
-       "anchor": "gã đã phẫu thuật tách được ra từ trong lồng ngực nhóc tỳ một đoàn sáng chói lọi có ma lực không thể cưỡng lại"
+       "text": "Được Lục tẩu triệu, xuất hiện không tiếng động không hơi thở; đặt Hạo lên giường lạnh băng, dùng đao bạc cứa lồng ngực Hạo chiết Chí Tôn cốt — sau nỗ lực dài rốt cuộc gào lên như dã thú vì tách được đoàn sáng chói lọi mang ma lực không thể cưỡng lại tỏa thần tính chói cả mật thất; tiếp đó dùng ngân đao lướt qua lồng ngực Nghị nhi rạch mở để cấy Chí Tôn cốt, bị thiếu phụ hung dữ cảnh cáo không được sai sót.",
+       "anchor": "phẫu thuật tách được ra từ trong lồng ngực nhóc tỳ một đoàn sáng chói lọi mang ma lực không thể cưỡng lại"
       }
      ],
      "tuViMoc": [],
@@ -13854,14 +13854,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0057",
        "tieuDe": "Cấy Chí Tôn Cốt cho con, bị bắt quả tang",
-       "text": "Cùng bóng đen u linh moi Chí Tôn Cốt của Thạch Hạo cấy vào lồng ngực Thạch Nghị trong mật thất địa cung; ra lệnh rút cạn chân huyết Hạo Nhi để tẩm bổ; độc thoại mong cha mẹ Hạo Nhi chết dưới vuốt Tỳ Hưu để bịt đầu mối; bị Tứ Thái Gia phá cửa xông vào nhấc cổ như nhấc gà, ném đập tường vỡ đá; được Lão Ngũ can thiệp giữ mạng nhờ Chí Tôn Cốt trong người Thạch Nghị.; Cùng bóng đen cấy Chí Tôn Cốt đã moi từ Thạch Hạo vào lồng ngực Thạch Nghị; ra lệnh…",
+       "text": "Cùng bóng đen u linh moi Chí Tôn Cốt của Thạch Hạo cấy vào lồng ngực Thạch Nghị trong mật thất địa cung; ra lệnh rút cạn chân huyết Hạo Nhi để tẩm bổ Chí Tôn Cốt trong người Nghị Nhi; độc thoại mong cha mẹ Hạo Nhi chết dưới vuốt Tỳ Hưu để bịt đầu mối 「Đôi vợ chồng đó nếu mất mạng dưới vuốt của Tỳ Hưu」; bị Tứ Thái Gia phá cửa xông vào nhấc cổ như nhấc gà, ném đập tường vỡ đá; được Lão Ngũ can thiệp giữ mạng nhờ Chí Tôn Cốt trong người Thạch Nghị.",
        "anchor": "Đôi vợ chồng đó nếu mất mạng dưới vuốt của Tỳ Hưu"
       },
       {
        "importance": "major",
-       "chuong": "@c0060",
+       "chuong": "@c060",
        "tieuDe": "Bị áp giải và ghim xuống đất",
-       "text": "Bị các tông lão trói áp giải tới, sắc mặt lạnh nhưng trong lòng sợ hãi; kêu thảm khi thấy Thạch Nghị trọng thương, quay lại đe dọa Thạch Tử Lăng bằng danh nghĩa cha ả, liền bị Thạch Tử Lăng ném chiến mâu xuyên người mang bay mấy chục trượng rồi ghim xuống đất; Bị các tông lão trói và áp giải tới sân chiến, tông lão đề nghị đổi mạng ả lấy mạng Thạch Nghị; ả quay lại đe dọa Thạch Tử Lăng nhân danh cha mình, liền bị hắn phóng chiến mâu hào quang và…",
+       "text": "Bị các tông lão trói và áp giải tới sân chiến, sắc mặt lạnh nhưng trong lòng sợ hãi; các tông lão đề nghị muốn chém muốn giết ả tùy Thạch Tử Lăng nhưng cấm động vào Thạch Nghị. Khi thấy Thạch Nghị bị đánh bay tông vào giả sơn, toàn thân là máu, ả kêu thảm gọi Nghị Nhi rồi quay đầu trừng Thạch Tử Lăng, lạnh giọng cảnh cáo cha ả sẽ không tha; liền bị hắn phóng chiến mâu lóe hào quang vàng, mâu đâm xuyên người ả rồi mang theo ả bay những mấy chục trượng, ghim ả xuống đất.",
        "anchor": "mâu đâm xuyên người ả rồi mang theo ả bay những mấy chục trượng"
       },
       {
@@ -14013,7 +14013,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0062",
        "importance": "normal",
        "tieuDe": "Ôm con tham chiến, cùng chồng bị đày",
-       "text": "Ôm nhóc tỳ (Hạo nhi) giết vào chiến trường Thạch phủ, hợp lực Thạch Tử Lăng tế bảo thuật Tâm hữu linh tê nhất điểm thông chấn động cả Hoàng Đô; sau khi bị bốn lão tổ trấn áp thì cùng chồng con bị đày tới Man Hoang khổ địa (tổ địa thứ hai); ôm con lo lắng, lâu không cười; về sau cùng chồng trải trăm cay nghìn đắng tìm được Thạch thôn, rung động trước cây liễu cháy đen nhưng thất vọng với phần còn lại; Ôm nhóc tỳ giết vào chiến trường, hợp lực Thạ…",
+       "text": "Ôm nhóc tỳ (Hạo nhi) giết vào chiến trường Thạch phủ, hợp lực Thạch Tử Lăng tế bảo thuật Tâm hữu linh tê nhất điểm thông chấn động cả Hoàng Đô; sau khi bị bốn lão tổ trấn áp thì cùng chồng con bị đày tới Man Hoang khổ địa (tổ địa thứ hai); ôm con lo lắng, lâu không cười; về sau cùng chồng trải trăm cay nghìn đắng tìm được Thạch thôn, rung động trước cây liễu cháy đen nhưng thất vọng với phần còn lại.",
        "anchor": "Cuối cùng, mẹ của nhóc tỳ cũng tham chiến, nàng ôm nó, giết vào chiến trường"
       }
      ],
@@ -14066,7 +14066,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0059",
        "tieuDe": "Bảo cụ dây leo bị đốt thành tro",
-       "text": "Hét 'Trói buộc!', cầm nhánh dây bảo cụ (thân nâu đen giờ sáng óng ánh) khiến các nhánh vọt lên như Giao Long lao trói Thạch Tử Lăng; mái tóc hoàng kim của đối thủ cắn nát dây leo rồi đánh nổ bảo cụ hóa tro tàn, bản thân bị trường mâu quất bay đụng nát tòa núi giả, phun máu.; Cầm nhánh dây (thực vật hóa bảo cụ) hô Trói buộc, phóng dây như Giao Long lao trói Thạch Tử Lăng; mái tóc hoàng kim của Thạch Tử Lăng cắn nát dây leo rồi đánh nổ bảo cụ hóa…",
+       "text": "Một lão già hét 'Trói buộc!', cầm nhánh dây (thực vật hóa bảo cụ, thân nâu đen giờ sáng óng ánh), xuyên thấu một tòa cung điện, các nhánh cây vọt lên như Giao Long lao tới trói Thạch Tử Lăng; mái tóc hoàng kim của Thạch Tử Lăng như thác nước cắn nát dây leo, sau đó đánh nổ tung bảo cụ hóa tro tàn; trường mâu vung, lão già bị đánh bay đụng nát tòa núi giả, phun máu.",
        "anchor": "bảo cụ dây leo kia lập tức nổ tung rồi bị thiêu thành một mảnh tro tàn"
       }
      ],
@@ -14266,7 +14266,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "tabs": {
      "kinhLich": [
       {
-       "text": "Đã dùng bảo cốt Thái Cổ Di Chủng phong tỏa phụ đệ từ trước để cách âm ngoại giới; xuất hiện áp giải mẹ Thạch Nghị, đề nghị đổi tính mạng ả nhưng cấm Thạch Tử Lăng động vào Thạch Nghị; kinh hãi vì Bảo Thuật ký hiệu lạ chưa từng ghi chép xuyên qua phòng ngự của họ",
+       "text": "Đã dùng bảo cốt Thái Cổ Di Chủng phong tỏa phụ đệ từ trước để cách âm ngoại giới; xuất hiện áp giải mẹ Thạch Nghị, đề nghị đổi tính mạng ả nhưng cấm Thạch Tử Lăng động vào Thạch Nghị; kinh hãi vì Bảo Thuật ký hiệu lạ chưa từng ghi chép trong tộc xuyên qua phòng ngự của họ, muốn ngăn cũng đã muộn.",
        "anchor": "Con ác phụ này đang ở đây, muốn chém muốn giết tùy ngươi. Nhưng ngươi không thể động vào Nghị Nhi được",
        "bridge": true,
        "khoang": "@c0060"
@@ -14305,8 +14305,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "anchor": "Bốn vị lão nhân hiện ra, phân biệt xuất hiện ở bốn phương."
       },
       {
-       "text": "Tu vi cực cao, ẩn sẵn ở Thạch phủ Hoàng Đô, trấn phong tứ phương ngay khi vợ chồng Thạch Tử Lăng bước vào; bị Thạch Tử Lăng cầm hoàng kim chiến mâu áp đảo, liên tục thổ huyết; một lão tổ dùng cánh tay chặn lưỡi mâu cứu Thạch Lạp và Thạch Nghị, khuyên Tử Lăng dừng tay, hứa sẽ bồi thường cho Hạo nhi; sau đó cùng ba lão còn lại hợp vây trấn áp Thạch Tử Lăng và đày cả nhà tới Man Hoang khổ địa",
-       "anchor": "Tử Lăng, cháu nên dừng tay lại",
+       "text": "Tu vi cực cao, ẩn sẵn ở Thạch phủ Hoàng Đô, trấn phong tứ phương ngay khi vợ chồng Thạch Tử Lăng bước vào; bị Thạch Tử Lăng cầm hoàng kim chiến mâu, thân hiện Thái cổ hung thú áp đảo khiến liên tục thổ huyết; một lão tổ dùng cánh tay chặn lưỡi mâu cứu Thạch Lạp và Thạch Nghị, khuyên Tử Lăng dừng tay, hứa sẽ bồi thường cho Hạo nhi; Tử Lăng không phục nên bốn lão tổ hợp vây trấn áp hắn.",
+       "anchor": "「Thạch Tử Lăng như một vị thiên thần màu vàng, tung hoành xung kích giữa bốn đại cao thủ vây công mà vẫn chiếm cứ thượng phong」",
        "bridge": true,
        "khoang": "@c0062"
       }
@@ -14712,7 +14712,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "diem": [],
      "kinhLich": [
       {
-       "text": "Dẫn nhóm tu sĩ đi Tây Cương phát phù bài, chạm mặt nhóc tỳ áo da rách; bất ngờ xuất thủ thử thực lực nhưng bị bắt hụt cánh tay, phải vận Thiên Thư ký hiệu trơn như cá mới thoát ra; kinh ngạc vì bị một đứa bé khống chế trong nhất thời, rồi tặng nó phù bài Bổ Thiên Các cuối cùng và dặn giao trưởng bối để dẫn tới Bổ Thiên Các",
+       "text": "Dẫn nhóm tu sĩ đi Tây Cương phát phù bài, chạm mặt nhóc tỳ áo da rách; bất ngờ xuất thủ thử thực lực nhưng bị bắt hụt cánh tay, phải vận Thiên Thư ký hiệu trơn như cá mới thoát ra; kinh ngạc vì bị một đứa bé khống chế trong nhất thời, rồi tặng nó phù bài Bổ Thiên Các cuối cùng trong tám cái và dặn giao trưởng bối để họ dẫn nó tới Bổ Thiên Các.",
        "anchor": "đến lúc nào đó giao cho trưởng bối của đệ để họ dẫn đệ tới 'Bổ Thiên Các'",
        "bridge": true,
        "khoang": "@c0071"
@@ -15386,7 +15386,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0075",
        "importance": "normal",
        "tieuDe": "Rống giận, tát rụng răng quản gia",
-       "text": "Nhận tin tổ địa Thạch Tộc bị một mồi lửa thiêu rụi, rống giận kinh thiên động địa; ý thức tai họa ngập trời sắp giáng do bản thân từng lộ mặt ở Tây Cương; tát bay quản gia tu vi cao thâm rụng cả hàm răng lẫn máu; khẳng định Thạch Quốc sẽ phái vài Vương Hầu truy xét đến cùng, hắn cũng bị liên lụy.; Phụng lệnh tông lão tuần tra Tây Cương, coi sóc sản nghiệp Vũ Tộc (khoáng hiếm, khu tiến cống trân cầm dị thú); muốn xin sứ giả Bổ Thiên Các một phù b…",
+       "text": "Nhận tin tổ địa Thạch Tộc bị một mồi lửa thiêu rụi, rống giận kinh thiên động địa; ý thức tai họa ngập trời sắp giáng do bản thân từng lộ mặt ở Tây Cương; tát bay quản gia tu vi cao thâm rụng cả hàm răng lẫn máu; khẳng định Thạch Quốc sẽ phái vài Vương Hầu truy xét đến cùng, hắn cũng bị liên lụy. Phụng lệnh tông lão tuần tra Tây Cương, coi sóc sản nghiệp Vũ Tộc (khoáng hiếm, khu tiến cống trân cầm dị thú); muốn xin sứ giả Bổ Thiên Các một phù bài để giao cho một thiên tài trong tộc được các tông lão chiều chuộng, nhưng tiểu thư U Vũ chưa xuất hiện nên chưa lấy được.",
        "anchor": "vung tay tát bay quản gia tu vi cao thâm, cả hàm răng hắn đều rụng ra"
       },
       {
@@ -16459,8 +16459,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0093"
       },
       {
-       "text": "Nhanh nhẹn treo một tấm biển ở nơi đông người, rao đổi bí mật về nãi oa lấy một tinh bích",
-       "anchor": "Muốn biết bí mật về nãi oa, xin trả một tinh bích",
+       "text": "Nhanh nhẹn treo một tấm biển ở nơi đông người, rao đổi bí mật về nãi oa lấy một tinh bích.",
+       "anchor": "Muốn biết bí mật về nãi oa, xin trả một tinh bích.",
        "bridge": true,
        "khoang": "@c0099"
       },
@@ -16609,7 +16609,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0090"
       },
       {
-       "text": "Lau mồ hôi lạnh, nhận xét đứa nhóc đi tới đâu nơi đó không yên bình, may mà nó ở cách xa họ",
+       "text": "Lau mồ hôi lạnh, Chùy thúc nhận xét đứa nhóc đúng là kẻ gieo vạ, đi tới đâu nơi đó không yên bình; may mà nó ở cách xa bọn họ.",
        "anchor": "Nó đúng là một đứa gieo vạ, đi tới đâu là nơi đó không được yên bình",
        "bridge": true,
        "khoang": "@c0099"
@@ -16728,8 +16728,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0093"
       },
       {
-       "text": "Lập tức bắt chước Tinh Bích đại gia, kéo một tấm vải rách treo bên cạnh với lời rao cạnh tranh",
-       "anchor": "Một tinh bích, bí mật độc nhất",
+       "text": "Lập tức bắt chước Tinh Bích đại gia, kéo một tấm vải rách treo bên cạnh và rao bán bí mật độc nhất với giá một tinh bích.",
+       "anchor": "Một tinh bích, bí mật độc nhất.",
        "bridge": true,
        "khoang": "@c0099"
       },
@@ -17231,7 +17231,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "diem": [],
      "kinhLich": [
       {
-       "text": "Đi cùng nhóm Hạ U Vũ dò xét nhóc tỳ; đánh giá hai tay nó vung một cái có thần lực tám chín vạn cân, đã gần cửa ải Cực Cảnh lúc Thái Cổ Hung Thú khảo nghiệm con non, khiến cả nhóm chấn động; hứa sẽ đi xin thêm phù bài cho Vũ Tộc",
+       "text": "Đi cùng nhóm Hạ U Vũ dò xét nhóc tỳ; đánh giá hai tay nó vung một cái có thần lực tám chín vạn cân, đã gần cửa ải Cực Cảnh lúc Thái Cổ Hung Thú khảo nghiệm con non, khiến cả nhóm chấn động; hứa sẽ đi xin thêm phù bài cho Vũ Tộc.",
        "anchor": "đã tiếp cận tới cửa ải Cực Cảnh lúc Thái Cổ Hung Thú khảo nghiệm con non rồi",
        "bridge": true,
        "khoang": "@c0071"
@@ -17389,7 +17389,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0113",
        "importance": "normal",
        "tieuDe": "Nhận gói linh dược từ nhóc tỳ",
-       "text": "Được nhóc tỳ tới Thiên tài doanh tặng thuốc, mở gói thấy một cây linh dược nguyên vẹn (đệ tử thiên tài thường chỉ được dùng Dược tán) nên kinh sợ, tưởng là đồ trộm từ vườn thuốc; bị đám đông xem thường vì thực lực chưa mạnh, chưa tiến vào được Thiên tài doanh.; Thanh Phong là đệ tử Thiên tài doanh, được nhóc tỳ gọi là đệ đệ; mở gói thấy một cây linh dược nguyên vẹn nên kinh sợ tưởng đồ trộm từ vườn thuốc, vì đệ tử thiên tài cũng chỉ được dùng Dư…",
+       "text": "Được nhóc tỳ tới Thiên tài doanh tặng thuốc, mở gói thấy một cây linh dược nguyên vẹn (đệ tử thiên tài thường chỉ được dùng Dược tán) nên kinh sợ, tưởng là đồ trộm từ vườn thuốc; bị đám đông xem thường vì thực lực chưa mạnh, chưa tiến vào được Thiên tài doanh.; Thanh Phong là đệ tử Thiên tài doanh, được nhóc tỳ gọi là đệ đệ; mở gói thấy một cây linh dược nguyên vẹn nên kinh sợ tưởng đồ trộm từ vườn thuốc, vì đệ tử thiên tài cũng chỉ được dùng Dư",
        "anchor": "Hắn chính là đệ đệ của ta, ta đến để đưa thuốc cho hắn"
       },
       {
@@ -17810,7 +17810,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Nữ tử tỏa ánh sáng vàng, mỹ lệ yêu kiều, giữa lúc trưởng lão Bổ Thiên Các phẫn nộ đã công khai chiêu mộ nhóc tỳ, tuyên bố cửa Trục Lộc thư viện luôn mở rộng với tiểu huynh đệ",
+       "text": "Nữ tử tỏa ánh sáng vàng, mỹ lệ yêu kiều, giữa lúc trưởng lão Bổ Thiên Các phẫn nộ đã công khai chiêu mộ nhóc tỳ, tuyên bố cửa Trục Lộc thư viện luôn mở rộng với tiểu huynh đệ.",
        "anchor": "Cánh cửa Trục Lộc thư viên sẽ mãi mở rộng với đệ",
        "bridge": true,
        "khoang": "@c0099"
@@ -17904,7 +17904,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Dẫn đoàn chờ ở lối ra tám khu vực và đếm số người vượt ải; hoảng loạn sốt ruột khi con số bùng nổ tới 8927; khẳng định thủ phạm phá trận là Hùng hài tử, rơi lệ đầy mặt",
+       "text": "Dẫn đoàn chờ ở lối ra tám khu vực và đếm số người vượt ải; hoảng loạn sốt ruột khi con số bùng nổ tới 8927; khẳng định thủ phạm phá trận là Hùng hài tử và rơi lệ đầy mặt.",
        "anchor": "nó trộm cắp bảo cốt bên trong khu vực thứ tám, phá hỏng nơi thí luyện",
        "bridge": true,
        "khoang": "@c0099"
@@ -17916,13 +17916,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0100"
       },
       {
-       "text": "Trưởng lão Bổ Thiên Các thề tính sổ thằng ranh, quyết bắt nó trong chiến trường thứ hai, đồng ý dẫn ba nghìn đứa nhỏ và người xem lễ vào; sau khen ngợi Tiêu Thiên là kỳ tài ngút trời.; Hằn học đòi tính sổ thằng ranh, dụ rằng nó đã tham gia thử luyện tức đã là đệ tử Bổ Thiên Các để không cho chạy thoát; dẫn ba nghìn thí sinh vào chiến trường thứ hai xem lễ; nghe tiếng rống của Tiêu Thiên liền ngộ nhận đó là kỳ tài.; Cay đắng vì phải tuyển đám đôn…",
+       "text": "Trưởng lão Bổ Thiên Các thề tính sổ thằng ranh, quyết bắt nó trong chiến trường thứ hai, đồng ý dẫn ba nghìn đứa nhỏ và người xem lễ vào; sau khen ngợi Tiêu Thiên là kỳ tài ngút trời.; Hằn học đòi tính sổ thằng ranh, dụ rằng nó đã tham gia thử luyện tức đã là đệ tử Bổ Thiên Các để không cho chạy thoát; dẫn ba nghìn thí sinh vào chiến trường thứ hai xem lễ; nghe tiếng rống của Tiêu Thiên liền ngộ nhận đó là kỳ tài.; Cay đắng vì phải tuyển đám đôn",
        "anchor": "Họ đã bày ra thiên la địa võng, sớm đã phong tỏa chiến trường thứ hai rồi",
        "bridge": true,
        "khoang": "@c0103"
       },
       {
-       "text": "Đề nghị đoàn tiền bối trước tiên đi thưởng thức phong thái các thiếu niên tài tuấn, khen ngợi Tiêu Thiên; đồng thời ôm ngọn lửa giận về thằng ranh đã khiến hơn ba nghìn người xông ra khu thứ tám và tàn phá sơn lâm, quyết tóm nó.; Hùng Phi trưởng lão đề nghị đi thưởng thức phong thái các thiếu niên tài tuấn, khen ngợi Tiêu Thiên; đồng thời mang ngọn lửa giận về thằng ranh siêu quậy đã khiến hơn ba nghìn người xông ra khu thứ tám, quyết tóm nó khi…",
+       "text": "Đề nghị đoàn tiền bối trước tiên đi thưởng thức phong thái các thiếu niên tài tuấn, khen ngợi Tiêu Thiên; đồng thời ôm ngọn lửa giận về thằng ranh đã khiến hơn ba nghìn người xông ra khu thứ tám và tàn phá sơn lâm, quyết tóm nó.; Hùng Phi trưởng lão đề nghị đi thưởng thức phong thái các thiếu niên tài tuấn, khen ngợi Tiêu Thiên; đồng thời mang ngọn lửa giận về thằng ranh siêu quậy đã khiến hơn ba nghìn người xông ra khu thứ tám, quyết tóm nó khi",
        "anchor": "Những hai mươi tám viên Bổ Thiên Thạch, thật sự là kinh người.",
        "bridge": true,
        "khoang": "@c0104"
@@ -17940,7 +17940,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0111"
       },
       {
-       "text": "Bối phận kém, bị nhóc tỳ hoảng loạn nhảy lên bám cổ ôm chặt không buông suýt bóp tắt thở, may nhờ Phù Văn trên người mới không xỉu; phải đi thụt lùi dẫn nhóc tỳ tới cung điện vì có thi thể cổ đứng trước mặt, thầm nghi ra thân phận nhóc tỳ so với thằng nhóc ở Hư Thần giới.; Trưởng lão bối phận kém của Bổ Thiên các, bị nhóc tỳ nhảy lên bám cổ ôm không buông suýt bóp tắt thở, nhờ Phù Văn trên người mới không xỉu, phải đi thụt lùi dẫn nhóc tỳ tới cu…",
+       "text": "Bối phận kém, bị nhóc tỳ hoảng loạn nhảy lên bám cổ ôm chặt không buông suýt bóp tắt thở, may nhờ Phù Văn trên người mới không xỉu; phải đi thụt lùi dẫn nhóc tỳ tới cung điện vì có thi thể cổ đứng trước mặt, thầm nghi ra thân phận nhóc tỳ so với thằng nhóc ở Hư Thần giới.; Trưởng lão bối phận kém của Bổ Thiên các, bị nhóc tỳ nhảy lên bám cổ ôm không buông suýt bóp tắt thở, nhờ Phù Văn trên người mới không xỉu, phải đi thụt lùi dẫn nhóc tỳ tới cu",
        "anchor": "so với thằng nhóc ở Hư Thần giới còn đáng ghét hơn",
        "bridge": true,
        "khoang": "@c0112"
@@ -18071,7 +18071,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "An ủi mọi người rồi cứng họng vì quá đông người vượt ải; dọa sẽ đánh mông nhóc tỳ nở hoa; đổ mồ hôi trán và đảo mắt nhìn quanh khi nữ chiến thần Trục Lộc thư viện công khai chiêu mộ nhóc tỳ",
+       "text": "An ủi mọi người rồi cứng họng vì quá đông người vượt ải; dọa sẽ đánh mông nhóc tỳ nở hoa; đổ mồ hôi trán và đảo mắt nhìn quanh khi nữ chiến thần Trục Lộc thư viện công khai chiêu mộ nhóc tỳ.",
        "anchor": "Cánh cửa Trục Lộc thư viên sẽ mãi mở rộng với đệ",
        "bridge": true,
        "khoang": "@c0099"
@@ -18083,13 +18083,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0100"
       },
       {
-       "text": "Trưởng lão Bổ Thiên Các nhấn mạnh quyết bắt nhóc tỳ, hé lộ nội tình Bổ Thiên Các có gốc thuốc quý được chăm bằng Hắc Hổ Sát, tương lai có thể lột xác thành Thánh Dược.; Nhấn mạnh không thông qua cũng cho thông qua để giữ chân thí sinh; mời khách xem lễ và thưởng thức gốc thuốc quý được chăm bằng Hắc Hổ Sát, tương lai có thể lột xác thành Thánh Dược, nhằm oai chấn tứ phương thu hút thêm thiên tài gia nhập.; Nhấn mạnh ai đã thử luyện là đệ tử Bổ T…",
+       "text": "Trưởng lão Bổ Thiên Các nhấn mạnh quyết bắt nhóc tỳ, hé lộ nội tình Bổ Thiên Các có gốc thuốc quý được chăm bằng Hắc Hổ Sát, tương lai có thể lột xác thành Thánh Dược.; Nhấn mạnh không thông qua cũng cho thông qua để giữ chân thí sinh; mời khách xem lễ và thưởng thức gốc thuốc quý được chăm bằng Hắc Hổ Sát, tương lai có thể lột xác thành Thánh Dược, nhằm oai chấn tứ phương thu hút thêm thiên tài gia nhập.; Nhấn mạnh ai đã thử luyện là đệ tử Bổ T",
        "anchor": "Họ đã bày ra thiên la địa võng, sớm đã phong tỏa chiến trường thứ hai rồi",
        "bridge": true,
        "khoang": "@c0103"
       },
       {
-       "text": "Kêu mọi người bình tĩnh giữ hình tượng khi các trưởng lão định tóm thằng siêu quậy; dẫn đoàn tới hố đất có Hắc Hổ Sát canh giữ, ung dung giới thiệu cây Thánh Dược đã 800 năm sắp lột xác, nhưng khi giơ tay chỉ thì phát hiện Hắc Sát Liên đã bị đào cả gốc lẫn ngọn chỉ còn cái hố, liền từ điềm tĩnh chuyển sang nổi điên gào giận.; Trác Vân trưởng lão điềm tĩnh khuyên mọi người bình tĩnh giữ hình tượng, dẫn đoàn tới chỗ Thánh Dược có Hắc Hổ Sát canh g…",
+       "text": "Kêu mọi người bình tĩnh giữ hình tượng khi các trưởng lão định tóm thằng siêu quậy; dẫn đoàn tới hố đất có Hắc Hổ Sát canh giữ, ung dung giới thiệu cây Thánh Dược đã 800 năm sắp lột xác, nhưng khi giơ tay chỉ thì phát hiện Hắc Sát Liên đã bị đào cả gốc lẫn ngọn chỉ còn cái hố, liền từ điềm tĩnh chuyển sang nổi điên gào giận.; Trác Vân trưởng lão điềm tĩnh khuyên mọi người bình tĩnh giữ hình tượng, dẫn đoàn tới chỗ Thánh Dược có Hắc Hổ Sát canh g",
        "anchor": "Hắc Sát Liên không còn tăm hơi nữa, bị kẻ khác đào cả gốc lẫn ngọn mất rồi!",
        "bridge": true,
        "khoang": "@c0104"
@@ -18230,7 +18230,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0125",
        "importance": "normal",
        "tieuDe": "Bị chặt cánh tay rồi bị bắt trói",
-       "text": "Có đôi cánh rách nát bắn thần mang, xuất hung đao chém nhóc tỳ nhưng bị Cốt Tiễn đánh gãy đao và chặt đứt một cánh tay, phải nhặt ráp lại rồi lùi; sau bị nhóc tỳ và đồng bọn truy sát bắt trói.; Đôi cánh rách nát bắn thần mang, ra tay chém đao cướp hậu đại thần linh nhưng bị Cốt Tiễn chặt đứt một cánh tay (ráp lại rồi lùi); cùng Ngân Huyết định gọi người đánh tiếp nhưng bị Thạch Hạo và đám thiên tài Bổ Thiên các truy sát bắt trói.; Vung đao Phù V…",
+       "text": "Có đôi cánh rách nát bắn thần mang, xuất hung đao chém nhóc tỳ nhưng bị Cốt Tiễn đánh gãy đao và chặt đứt một cánh tay, phải nhặt ráp lại rồi lùi; sau bị nhóc tỳ và đồng bọn truy sát bắt trói.; Đôi cánh rách nát bắn thần mang, ra tay chém đao cướp hậu đại thần linh nhưng bị Cốt Tiễn chặt đứt một cánh tay (ráp lại rồi lùi); cùng Ngân Huyết định gọi người đánh tiếp nhưng bị Thạch Hạo và đám thiên tài Bổ Thiên các truy sát bắt trói.; Vung đao Phù V",
        "anchor": "Cốt Tiễn vọt tới không những đánh gãy cốt đao mà còn chặt đứt một cánh tay của Vũ Vương rơi xuống, máu phun tung tóe."
       },
       {
@@ -18400,7 +18400,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Một đêm chinh chiến thu được 16 khối Bổ Thiên thạch, thắng cả thiếu niên Mộc tộc, được đám bại trận tán tụng là số một trong hơn chín vạn người; luôn bất an về đứa nhỏ giấu mặt từng bị hắn đánh lén một chưởng, cuối cùng bị Thạch Hạo dùng Bạch cốt đại bổng đánh lén sau gáy hai búa quật ngã.; Áo bào màu bạc, tu vi kinh người, một đêm chinh chiến thu 16 khối Bổ Thiên thạch, thắng cả thiếu niên Mộc tộc, nuốt bảo đan khôi phục cường thịnh và được tán…",
+       "text": "Áo bào màu bạc, tu vi kinh người, một đêm chinh chiến thu được 16 khối Bổ Thiên thạch, thắng cả thiếu niên Mộc tộc, nuốt bảo đan khôi phục cường thịnh và được đám bại trận tán tụng là số một trong hơn chín vạn người; luôn bất an về đứa nhỏ giấu mặt từng bị hắn đánh lén một chưởng, cuối cùng bị Thạch Hạo dùng Bạch cốt đại bổng đánh lén sau gáy hai búa quật ngã. 「Tiêu Thiên tròng mắt trợn tròn, bị một búa quật ngã」",
        "anchor": "Tiêu Thiên tròng mắt trợn tròn, bị một búa quật ngã",
        "bridge": true,
        "khoang": "@c0101"
@@ -18415,11 +18415,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0103",
        "importance": "normal",
        "tieuDe": "Tỉnh dậy trong khe đá, nổi điên thi triển Âm Ba Công",
-       "text": "Tỉnh dậy trong khe đá bị bịt kín, đầu đau vì bị đập búa nhiều lần; phát hiện Bổ Thiên Thạch bị cướp nay được trả lại đầy đủ hơn hai mươi viên, phẫn uất vì bị đánh lén vẫn bị gõ thêm búa; nổi điên rống chấn động sơn hà, toàn thân giăng phù văn bạc thi triển Âm Ba Công, trán mọc cục u to như sừng, khiến các trưởng lão Bổ Thiên Các tưởng là kỳ tài mà tranh khen; Tỉnh sau khi bị đập búa ngất cả đêm, kẹt trong khe đá bị bịt kín; phát hiện hơn hai mươ…",
+       "text": "Tỉnh dậy trong khe đá bị bịt kín, đầu đau vì bị đập búa nhiều lần; phát hiện Bổ Thiên Thạch bị cướp nay được trả lại đầy đủ hơn hai mươi viên, phẫn uất vì bị đánh lén vẫn bị gõ thêm búa; nổi điên rống chấn động sơn hà, toàn thân giăng phù văn bạc thi triển Âm Ba Công, trán mọc cục u to như sừng, khiến các trưởng lão Bổ Thiên Các tưởng là kỳ tài mà tranh khen.",
        "anchor": "Toàn thân hắn giăng đầy phù văn màu bạc, hắn gần như nổi điên."
       },
       {
-       "text": "Thiếu niên áo bạc từ Tiêu Tộc cách 30 vạn dặm ném túi da thú, bên trong lộ 28 viên Bổ Thiên Thạch khiến trưởng lão Bổ Thiên Các tuyên bố là biểu hiện đệ nhất nhân; cục u to như sừng trên trán do bị đánh hai búa trong bóng tối bị các trưởng lão hiểu nhầm thành dị tượng, thiên tướng trời sinh, còn nội tâm hắn thì căm hận muốn gào chửi mà phải im lặng.; Tiêu Thiên ném túi da thú xuống đất, bên trong 28 viên Bổ Thiên Thạch, trưởng lão Bổ Thiên Các t…",
+       "text": "Thiếu niên áo bạc từ Tiêu Tộc cách 30 vạn dặm ném túi da thú, bên trong lộ 28 viên Bổ Thiên Thạch khiến trưởng lão Bổ Thiên Các tuyên bố là biểu hiện đệ nhất nhân; cục u to như sừng trên trán do bị đánh hai búa trong bóng tối bị các trưởng lão hiểu nhầm thành dị tượng, thiên tướng trời sinh, còn nội tâm hắn thì căm hận muốn gào chửi mà phải im lặng.",
        "anchor": "Những hai mươi tám viên Bổ Thiên Thạch, thật sự là kinh người.",
        "bridge": true,
        "khoang": "@c0104"
@@ -18455,7 +18455,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0134"
       },
       {
-       "text": "Ra tay giúp Đại Hồng Điểu hấp thu nước thần, nhiều lần khuyên Nhóc Tỳ nên nhổ ra vì Thái Nhất Chân Thủy không phải linh đan, uống nhiều sẽ nguy hiểm; ôm bình ngọc chứa Định Quang Châu giúp giữ thần thủy yên tĩnh; chứng kiến Chí Tôn Cốt và đột phá của Nhóc Tỳ; Ra tay giúp Đại Hồng Điểu thu Thái Nhất Chân Thủy và khuyên Nhóc Tỳ đừng cưỡng ép hấp thu, nên nhổ ra; ôm bình ngọc chứa nước thần (nhờ Định Quang Châu giữ yên); chấn động khi thấy khí tức…",
+       "text": "Ra tay giúp Đại Hồng Điểu hấp thu Thái Nhất Chân Thủy; nhiều lần khuyên Nhóc Tỳ nên nhổ ra, cảnh báo Thái Nhất Chân Thủy không phải linh đan, uống nhiều sẽ bị nước thần luyện hóa ngược lại rất nguy hiểm; ôm bình ngọc chứa Định Quang Châu giúp trấn giữ nước thần yên tĩnh; chấn động khi thấy khí tức Chí Tôn Cốt tái sinh trong ngực Nhóc Tỳ và việc nó đột phá khai mở Động Thiên thứ tám.",
        "anchor": "Một bộ phận của Thái Nhất Chân Thủy đã hòa vào máu thịt của nó",
        "bridge": true,
        "khoang": "@c0135"
@@ -18678,7 +18678,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "diem": [],
      "kinhLich": [
       {
-       "text": "Từ trong địa quật Bổ Thiên các, cự thú khổng lồ toàn thân đen nhánh có huyết mâu to lớn đi ra, tỏa sát khí đen cuồn cuộn; truyền thần niệm cho các trưởng lão báo đây là kế điệu hổ ly sơn rồi chậm rãi lui vào địa quật biến mất.; Cự thú thân cao hơn ngọn núi, toàn thân đen nhánh có huyết mâu to lớn, từng chinh chiến với Thái cổ dị chủng, năm xưa một tiền bối cực mạnh phá bảo cụ hao tâm mới hàng phục được; từ địa quật đi ra tỏa sát khí đen cuồn cuộ…",
+       "text": "Từ trong địa quật Bổ Thiên các, cự thú khổng lồ thân cao hơn ngọn núi, toàn thân đen nhánh có huyết mâu to lớn đi ra, tỏa sát khí đen cuồn cuộn khiến mọi người khiếp sợ. Đây là cự thú từng chinh chiến với Thái cổ dị chủng, năm xưa một tiền bối cực mạnh phá bảo cụ hao tâm mới hàng phục được. Nó truyền thần niệm cho các trưởng lão báo đây là kế điệu hổ ly sơn rồi chậm rãi lui vào địa quật biến mất.",
        "anchor": "đây là một con cự thú có thể chinh chiến với Thái cổ dị chủng",
        "bridge": true,
        "khoang": "@c0105"
@@ -18739,7 +18739,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0106",
        "importance": "normal",
        "tieuDe": "Dẫn dắt an trí tân đệ tử",
-       "text": "Đến dẫn nhóm đi gặp sư phó, nhéo má trêu Nhóc tỳ, kinh ngạc vì nó khua môi múa mép; dẫn trăm tân đệ tử đến cùng núi, giảng quy củ và nghiêm khắc cảnh báo tuyệt đối đừng đi tới Tế Cư của Tế Linh.; Đến dẫn nhóm đi gặp sư phụ, nhéo má trêu Thạch Hạo và kinh ngạc vì độ lém của nó; sau khi Thạch Hạo được Hùng Phi và Trác Vân chọn, nàng nhéo má thêm quở trách đừng nói nhiều, bảo được hai trưởng lão dạy bảo là phúc khí; dẫn trăm tân đệ tử tới cùng núi…",
+       "text": "Đến dẫn nhóm đi gặp sư phụ, nhéo má trêu Thạch Hạo (Nhóc tỳ) và kinh ngạc vì nó khua môi múa mép; sau khi Thạch Hạo được Hùng Phi và Trác Vân chọn, nàng nhéo má thêm, quở trách đừng nói nhiều, bảo được hai vị trưởng lão dạy bảo là phúc khí; rồi dẫn trăm tân đệ tử tới một cùng núi, dọc đường giảng quy củ và nghiêm khắc cảnh báo tuyệt đối đừng đi tới chốn Tế Cư của Tế Linh, đừng quấy nhiễu.",
        "anchor": "có thể được hai vị trưởng lão dạy bảo đó chính là phúc khí của các ngươi"
       }
      ],
@@ -19276,7 +19276,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0109"
       },
       {
-       "text": "Đang bị thương phải nhờ Bảo Dược của tộc mới bình phục, núp trong đám người chỉ đặt cược ít vì tin nhóc tỳ sẽ bị dạy dỗ; bị Thạch Hạo chủ động đánh một quyền vào mặt hôn mê, trước khi ngất nhận ra cú đấm quen thuộc và hiểu nhóc tỳ chính là ca ca của Thanh Phong.; Đang bị thương (từng suýt bị giẫm chết trong xung đột đẫm máu trước, nhờ Bảo Dược của tộc mới bình phục), Chu Vũ Hào núp trong đám người chỉ đặt cược ít; bị nhóc tỳ chủ động đấm một quy…",
+       "text": "Đang bị thương (từng suýt bị giẫm chết trong xung đột đẫm máu trước, nhờ Bảo Dược của tộc mới bình phục), Chu Vũ Hào núp trong đám người chỉ đặt cược ít vì tin nhóc tỳ sẽ bị dạy dỗ; bị nhóc tỳ chủ động đánh một quyền vào mặt hôn mê, trước khi ngất nhận ra cú đấm quen thuộc và hiểu nhóc tỳ chính là ca ca của Thanh Phong.",
        "anchor": "nó chính là ca ca của Thanh Phong",
        "bridge": true,
        "khoang": "@c0114"
@@ -19411,7 +19411,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0111"
       },
       {
-       "text": "Vị thần quái Thượng Cổ bị cổ kiếm đâm xuyên đầu, cách mấy trăm năm xuất thế một lần cùng dịp Bách Đoạn sơn mở ra; ai bị Hắn chọn trúng mà không giúp được đều chết. Lần này Hắn chọn một đệ tử bình thường thay vì thiên tài; kiếm thật của Hắn rơi mất ở Bách Đoạn sơn mạch cần người tìm về.; Vị tồn tại thần quái Thượng Cổ bị cổ kiếm đâm xuyên đầu, xưng Tử Thần, cách mấy trăm năm xuất thế một lần cùng dịp Bách Đoạn sơn mở ra; phàm người bị Hắn chọn tr…",
+       "text": "Vị tồn tại thần quái Thượng Cổ bị cổ kiếm đâm xuyên đầu, xưng Tử Thần, cách mấy trăm năm xuất thế một lần cùng dịp Bách Đoạn sơn mở ra; 「phàm là người bị hắn chọn trúng đều chết hết, không có một người sống sót」. Lần này Hắn chọn một đệ tử bình thường thay vì thiên tài; kiếm cắm đầu Hắn thật ra là của đối thủ ngày xưa, còn kiếm thật của Hắn rơi mất ở Bách Đoạn sơn mạch, cần người tìm về.",
        "anchor": "phàm là người bị hắn chọn trúng đều chết hết, không có một người sống sót",
        "bridge": true,
        "khoang": "@c0112"
@@ -19476,7 +19476,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0113",
        "importance": "normal",
        "tieuDe": "Ép nhóc tỳ đi, dặn canh vườn thuốc",
-       "text": "Cầm đầu nhóm nguyên lão, dùng ‘Hắn’ và Tang thần bên người nhóc tỳ để ép nó vào Bách Đoạn sơn; cho Hùng Phi dẫn nó xuống bàn bạc; bị nó lừa hỏi ‘củ cải’ ở vườn rau nên vô tình gật đầu cho ăn Tuyết Ngọc Sâm; bất đắc dĩ dặn canh chừng, cấm nó lại gần vườn thuốc, hứa lần sau cho hẳn một sọt củ cải thật.; Đào Dã cầm đầu nhóm nguyên lão, giọng ôn hòa; dọa nếu nhóc tỳ không đi Bách Đoạn sơn thì Hắn không đáp ứng và nó sớm muộn mất mạng vì mang Tang th…",
+       "text": "Đào Dã cầm đầu nhóm nguyên lão, giọng ôn hòa; dùng ‘Hắn’ và Tang thần bên người nhóc tỳ để ép nó vào Bách Đoạn sơn, dọa nếu không đi thì ‘Hắn’ không đáp ứng và nó sớm muộn mất mạng vì mang một Tang thần bên người; cho Hùng Phi dẫn nó xuống bàn bạc; bị nó lừa hỏi ‘củ cải’ ở vườn rau nên vô tình gật đầu cho ăn Tuyết Ngọc Sâm; bất đắc dĩ dặn canh chừng, cấm nó lại gần vườn thuốc, hứa lần sau cho hẳn một sọt củ cải thật.",
        "anchor": "sau này không có phép nó đến gần vườn thuốc nữa"
       },
       {
@@ -19489,7 +19489,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0115",
        "importance": "normal",
        "tieuDe": "Dẫn đội tới Đoạn Không thành",
-       "text": "Dẫn đội Bổ Thiên các hộ tống nhóc tỳ và năm thiếu niên thiên tài qua con đường Thanh Kim vào Đoạn Không thành; khi xung đột với tiểu Bạch Hổ Tây Lăng thú sơn, Đào Dã lấy hồ lô vàng lưu chuyển Phù Văn ra dằn mặt phu xe, xưng danh Bổ Thiên các Thượng Cổ Tịnh Thổ.; Phụ trách dẫn đội hộ tống tiểu sư đệ và năm thiếu niên thiên tài (ba nam hai nữ) qua con đường Thanh Kim của Tế Linh vào Đoạn Không thành; giới thiệu Bách Đoạn sơn mấy trăm năm mở một lầ…",
+       "text": "Phụ trách dẫn đội Bổ Thiên các hộ tống tiểu sư đệ và năm thiếu niên thiên tài (ba nam hai nữ) qua con đường Thanh Kim của Tế Linh vào Đoạn Không thành; giới thiệu Bách Đoạn sơn mấy trăm năm mở một lần, chấn động thiên hạ, các thế lực khắp Đại Hoang hộ tống thiên tài tới. Khi xung đột với tiểu Bạch Hổ Tây Lăng thú sơn, Đào Dã lấy hồ lô vàng lưu chuyển Phù Văn ra dằn mặt phu xe, xưng danh Bổ Thiên các Thượng Cổ Tịnh Thổ 「chúng ta tới từ Tây Lăng thú sơn」.",
        "anchor": "chúng ta tới từ Tây Lăng thú sơn"
       },
       {
@@ -19594,7 +19594,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0113",
        "importance": "normal",
        "tieuDe": "Thử thân thể, giao nhiệm vụ thần tuyền",
-       "text": "Bốn lão già mắt ánh xanh thử thân thể nhóc tỳ, kinh ngạc khen thân thể nghịch thiên; can Hùng Phi, dỗ nhóc tỳ rồi giao nhiệm vụ vào Bách Đoạn sơn tìm Bất Lão thần tuyền mang về, hứa khắc tên lên Bất Hủ Thần Bi và cho vào Tàng Kinh các chọn Bảo Thuật; cảnh báo muốn tới gần thần tuyền phải phá Phù Văn của Thượng Cổ Thánh trận.; Bốn cường giả Bổ Thiên các mắt ánh xanh tuyên bố đánh nhóc tỳ một trận để thử; kinh ngạc khen thân thể nó nghịch thiên kh…",
+       "text": "Bốn cường giả Bổ Thiên các mắt ánh xanh tuyên bố đánh nhóc tỳ một trận để thử thân thể; nó phản kích đấm trúng một lão gây tiếng sấm rền chấn động cung điện, khiến các lão kinh ngạc khen thân thể nó nghịch thiên 「quả nhiên đủ mạnh, thân thể như vậy cũng có thể xem như nghịch thiên rồi」. Sau đó bốn lão can Hùng Phi, dỗ nhóc tỳ rồi giao nhiệm vụ vào Bách Đoạn sơn tìm Bất Lão thần tuyền mang về, hứa khắc tên lên Bất Hủ Thần Bi và cho vào Tàng Kinh các chọn Bảo Thuật; cảnh báo muốn tới gần thần tuyền phải phá Phù Văn của Thượng Cổ Thánh trận.",
        "anchor": "Sau khi ngươi tiến vào Bách Đoạn sơn, nhất định phải lưu ý, tìm kiếm Bất Lão thần tuyền"
       }
      ],
@@ -19724,7 +19724,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      "diem": [],
      "kinhLich": [
       {
-       "text": "Ra tay đầu tiên trong đổ chiến, dùng Phù Văn tạo gió thả Khổng Tước xanh phát sáng và lưới ngọc bích tấn công; bị Thạch Hạo đánh tan Khổng Tước bằng búa bạc, đánh nát lưới rồi bắt cổ tay xoay ra sau lưng khống chế, thua nhanh và xấu hổ đỏ mặt.; Thiếu nữ áo xanh da trắng, dùng Phù Văn tạo gió dưới chân thả Khổng Tước xanh phát sáng tấn công rồi phản công bằng lưới ngọc bích; bị nhóc tỳ đánh tan Khổng Tước và lưới, bắt cổ tay xoay ra sau lưng đặt…",
+       "text": "Thiếu nữ áo xanh da trắng, ra tay đầu tiên trong đổ chiến; dùng Phù Văn tạo gió dưới chân, thả Khổng Tước xanh phát sáng tấn công rồi phản công bằng lưới ngọc bích (vân xanh lục). Bị nhóc tỳ dùng búa bạc đánh tan Khổng Tước, đánh nát lưới rồi 「liền nắm lấy cổ tay của Ngạn Tâm」, xoay ra sau lưng, đặt Phù Văn bạc lên cổ khống chế; thua nhanh, xấu hổ đỏ mặt.",
        "anchor": "liền nắm lấy cổ tay của Ngạn Tâm",
        "bridge": true,
        "khoang": "@c0114"
@@ -19846,7 +19846,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0115",
        "importance": "normal",
        "tieuDe": "Chào kết minh với Bổ Thiên các",
-       "text": "Thiếu niên áo tím tự xưng Sở Hạ, đến từ Hỏa quốc, con cháu Thượng Cổ thế gia Sở gia, tu vi sâu không lường, chủ động duỗi cành ô-liu kết minh với đoàn; bị thiếu niên họ Cổ mỉa mai.; Thiếu niên áo tím ~17-18 tuổi tự xưng Sở Hạ, đến từ Hỏa quốc, con cháu Thượng Cổ thế gia Sở gia, tu vi sâu không lường, chủ động duỗi cành ô-liu kết minh với đoàn; bị thiếu niên họ Cổ ra mỉa mai chuyện lôi kéo đồng minh.; Thiếu niên áo tím tự xưng Sở Hạ, đến từ Hỏa q…",
+       "text": "Thiếu niên áo tím ~17-18 tuổi tự xưng Sở Hạ, đến từ Hỏa quốc, con cháu Thượng Cổ thế gia Sở gia, tu vi sâu không lường, chủ động duỗi cành ô-liu kết minh với đoàn; bị thiếu niên họ Cổ (Cổ gia) ra mỉa mai chuyện lôi kéo đồng minh, tuyên bố Cổ gia không thèm kết minh. Anchor 「Ta là Sở Hạ, đến từ Hỏa quốc.」",
        "anchor": "Ta là Sở Hạ, đến từ Hỏa quốc."
       }
      ],
@@ -19948,7 +19948,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0115",
        "importance": "normal",
        "tieuDe": "Thả Ma Cầm diệt đám tranh đấu",
-       "text": "Thiếu niên đang uống trà ở quán trà vỗ bàn quát; con Linh Tước năm màu (Ma Cầm) trên vai hắn bay lên hút thành vòng xoáy, nuốt mấy chục người con cháu hai gia tộc động thủ, nghiền nát trong miệng rồi bay về, cả phố lặng ngắt.; Đang uống trà ở quán trà thì con cháu hai gia tộc động thủ trên phố; vỗ bàn quát, con Linh Tước năm màu trên vai bay lên hút thành vòng xoáy nuốt mấy chục người, nghiền nát trong miệng rồi bay về; cả phố lặng ngắt. Nhóc tỳ…",
+       "text": "Con cháu hai gia tộc động thủ trên phố; thiếu niên đang uống trà ở quán trà vỗ bàn quát, con Linh Tước năm màu (Ma Cầm) trên vai hắn bay lên hút thành vòng xoáy, nuốt mấy chục người, nghiền nát trong miệng rồi bay về, cả phố lặng ngắt. Nhóc tỳ nhìn con Linh Tước mà thèm chảy nước bọt, nhưng tiếc rằng nó ăn người nên không muốn ăn nó 「mấy chục người vỡ nát trong miệng nó」.",
        "anchor": "mấy chục người vỡ nát trong miệng nó"
       }
      ],
@@ -20003,7 +20003,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0115",
        "importance": "normal",
        "tieuDe": "Đối chọi Bổ Thiên các",
-       "text": "Cường giả Nhân tộc đánh xe cho tiểu Bạch Hổ; khi nữ đệ tử Bổ Thiên các lỡ lời, phu xe bắt tự vả miệng; Đào Dã đưa hồ lô xưng danh Bổ Thiên các, phu xe đổi sắc mặt nhưng đáp trả rằng họ đến từ Tây Lăng thú sơn và hẹn gặp lại ở Bách Đoạn sơn.; Đánh xe cho tiểu Bạch Hổ (Thái Cổ dị chủng); khi nữ đệ tử Bổ Thiên các lỡ lời, bắt nàng tự vả miệng, Bạch Hổ muốn ăn thịt nàng; khi Đào Dã đưa hồ lô xưng danh Bổ Thiên các thì đổi sắc mặt nhưng đáp trả rằng…",
+       "text": "Cường giả Nhân tộc đánh xe cho tiểu Bạch Hổ (Thái Cổ dị chủng); khi nữ đệ tử Bổ Thiên các lỡ lời, phu xe bắt nàng tự vả miệng, Bạch Hổ nổi giận muốn ăn thịt nàng; Đào Dã đưa hồ lô vàng lưu chuyển Phù Văn xưng danh Bổ Thiên các, phu xe đổi sắc mặt nhưng đáp trả rằng 「chúng ta tới từ Tây Lăng thú sơn」 và hẹn gặp lại ở Bách Đoạn sơn.",
        "anchor": "chúng ta tới từ Tây Lăng thú sơn"
       }
      ],
@@ -20107,7 +20107,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0118",
        "importance": "normal",
        "tieuDe": "Cướp Xích Lan, chiêu dụ nhóc tỳ",
-       "text": "Xuất hiện bên hồ nơi mọc bốn gốc Xích Lan; giẫm sập vách đá thả cự thạch vạn cân định chôn vùi sư huynh Bổ Thiên các rồi ngắt bốn gốc Linh dược; xem tranh xác nhận nhắm đúng nhóc tỳ, nhắc Hoàng Kim sư tử chín đầu muốn thu phục nó nhưng hắn không muốn, chiêu dụ nhóc tỳ làm chiến bộc và tự xưng là vương/chủ nhân, phát ra khí tức chấn động kinh khủng.; Sinh vật hình người khắp thân ánh bạc, con ngươi màu bạc từ sâu dãy núi đi ra, soi một bức tranh…",
+       "text": "Xuất hiện bên hồ nơi mọc bốn gốc Xích Lan; giẫm sập vách đá thả cự thạch vạn cân định chôn vùi sư huynh Bổ Thiên các rồi ngắt bốn gốc Linh dược; nhắc Hoàng Kim sư tử chín đầu muốn thu phục nó nhưng hắn không muốn, chiêu dụ nhóc tỳ làm chiến bộc và tự xưng là vương/chủ nhân, phát ra khí tức chấn động kinh khủng. Sinh vật hình người khắp thân ánh bạc, con ngươi màu bạc, khí tức lạnh giá từ sâu dãy núi đi ra, soi một bức tranh để đối chiếu nhận diện đúng nhóc tỳ.",
        "anchor": "Đi theo ta, trở thành chiến bộc của ta, sau này ta sẽ thả cho ngươi quay trở lại Nhân tộc"
       }
      ],
@@ -20183,7 +20183,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0130",
        "importance": "normal",
        "tieuDe": "Bị bắt làm phương tiện chạy trốn",
-       "text": "Hỏa Vân Tước giống Chu Tước, nhận ra Thạch Hạo liền hoảng sợ bỏ chạy nhưng bị đánh gục và ôm chặt cổ; ám ảnh gọi Thạch Hạo là Ma Vương vì từng bị mượn hai mươi cân thịt. Định phản kháng xoay bay về phía truy binh mong có người thu phục Ma Vương, nhưng bị dọa xin thịt nên đành rụt cổ chở nó chạy trốn với tốc độ cực nhanh.; Ác điểu phun lửa giống Thái Cổ thần điểu Chu Tước; nhận ra nhóc tỳ liền hoảng sợ bỏ chạy nhưng bị đánh gục, ôm chặt cổ ép làm…",
+       "text": "Hỏa Vân Tước Đại Hồng, ác điểu phun lửa giống Thái Cổ thần điểu Chu Tước; nhận ra Thạch Hạo liền hoảng sợ bỏ chạy nhưng bị đánh gục và ôm chặt cổ; ám ảnh gọi Thạch Hạo là Ma Vương vì từng bị mượn hai mươi cân thịt. Định phản kháng, xoay bay về phía truy binh mong có người thu phục Ma Vương, nhưng bị dọa xin thịt nên đành rụt cổ chở nó chạy trốn với tốc độ cực nhanh, bị ép làm phương tiện thoát khỏi truy sát.",
        "anchor": "cuối cùng cũng đánh gục được Hỏa Vân Tước, ôm chặt lấy cổ nó có chết cũng không buông tay"
       },
       {
@@ -20389,7 +20389,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0123"
       },
       {
-       "text": "Chạy vòng cả đêm quanh thảo nguyên rồi quay về điểm xuất phát, tức đến hộc máu; nhờ U Lan Thảo tìm được nhóc tỳ đang nướng trứng, thân trắng tuyết túa ra Phù Văn, giận đến run người dùng hỏa thuật xông vào đại chiến — nhưng chính lửa của nàng lại bị nhóc tỳ lợi dụng để nấu trứng.; Cùng Ngân Huyết Cự Nhân và Vũ Vương chạy vòng cả đêm quanh thảo nguyên rồi quay về điểm xuất phát, tức đến hộc máu; nhờ U Lan Thảo tìm được nhóc tỳ đang nướng trứng li…",
+       "text": "Cùng Ngân Huyết Cự Nhân và Vũ Vương chạy vòng cả đêm quanh thảo nguyên rồi quay về điểm xuất phát (gần Sơ Thủy Địa mười mấy dặm), tức đến hộc máu; nhờ U Lan Thảo tìm được nhóc tỳ đang nướng trứng. Thân trắng tuyết túa ra Phù Văn, giận đến run người, nàng dùng hỏa thuật xông vào đại chiến — nhưng chính lửa của nàng lại bị nhóc tỳ lợi dụng để nấu trứng; năm vị thiên tài Bổ Thiên các ra tay giúp nhóc tỳ đối kháng cả đám.",
        "anchor": "Năm vị thiên tài của Bổ Thiên các cũng ra tay cùng đối kháng đám người kia",
        "bridge": true,
        "khoang": "@c0124"
@@ -20398,7 +20398,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0125",
        "importance": "normal",
        "tieuDe": "Bảo vệ và nuôi dưỡng Ấu Thần",
-       "text": "Cùng Sư Tử chín đầu ngăn nhóc tỳ ăn/hành hạ Ấu Thần; cho sói con ăn hai cây Linh dược và đỉnh ngọc chứa trái tim hung thú; nổi trận lôi đình đuổi đánh nhóc tỳ hai giờ vì bị hỏi có sữa không; cùng truy sát bắt trói Ngân Huyết và Vũ Vương, được giao nuôi Ấu Thần.; Ngăn Thạch Hạo hành hạ và ăn sói con, bị hỏi “có sữa không” nổi trận lôi đình đuổi đánh suốt hai giờ; lấy hai cây Linh dược và trái tim hung thú (huyết nhục bảo dược) trong đỉnh ngọc cho…",
+       "text": "Cùng Sư Tử chín đầu ngăn nhóc tỳ ăn/hành hạ Ấu Thần; cho sói con ăn hai cây Linh dược và đỉnh ngọc chứa trái tim hung thú; nổi trận lôi đình đuổi đánh nhóc tỳ hai giờ vì bị hỏi có sữa không; cùng truy sát bắt trói Ngân Huyết và Vũ Vương, được giao nuôi Ấu Thần.; Ngăn Thạch Hạo hành hạ và ăn sói con, bị hỏi “có sữa không” nổi trận lôi đình đuổi đánh suốt hai giờ; lấy hai cây Linh dược và trái tim hung thú (huyết nhục bảo dược) trong đỉnh ngọc cho",
        "anchor": "Cuối cùng trận truy sát này kéo dài tận hai giờ thì mọi người mới ngồi lại."
       },
       {
@@ -20740,7 +20740,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0118"
       },
       {
-       "text": "Phẫn nộ vì bị nhóc tỳ Nhân tộc bắt làm thú cưỡi, bộc phát hào quang vàng chống trả bằng chín hạt niệm châu và chín răng nanh hóa phi kiếm; định tự bạo nhưng thất bại, bị chém rụng bốn đầu lâu nên thu bảo cụ bỏ trốn vào Thần Quật; về sau lao ra cuối cùng đầy máu, tuyên bố đây là Ma thổ nuôi sói của Lang Thần và cùng tranh cướp quả trứng vàng.; Bộc phát hào quang vàng chống trả nhóc tỳ, phóng chín hạt niệm châu và chín răng nanh hóa phi kiếm; bị n…",
+       "text": "Phẫn nộ vì bị nhóc tỳ Nhân tộc bắt làm thú cưỡi, bộc phát hào quang vàng chống trả bằng chín hạt niệm châu và chín răng nanh hóa phi kiếm; định tự bạo nhưng thất bại, bị chém rụng bốn đầu lâu nên thu bảo cụ bỏ trốn vào Thần Quật; về sau lao ra cuối cùng đầy máu, tuyên bố đây là Ma thổ nuôi sói của Lang Thần và cùng tranh cướp quả trứng vàng.",
        "anchor": "Nó không có nghịch thiên như nhóc tỳ, không thể lấy bảo thuật cứng rắn mà chống đỡ Long Giao tiễn được.",
        "bridge": true,
        "khoang": "@c0123"
@@ -21048,7 +21048,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0125",
        "importance": "normal",
        "tieuDe": "Bị thu phục và khai lai lịch cháu Cửu Linh Vương",
-       "text": "Là Thái Cổ di chủng lông vàng kim thuần huyết, cảnh cáo không được ăn Ấu Thần; chạy trốn nhưng bị sói con đánh hơi, đại chiến với nhóc tỳ rồi cùng rơi xuống thác nước và bị thu phục làm thú cưỡi/tiểu đệ; tự xưng cháu Cửu Linh Vương, khai tộc mình có cổ pháp hóa hung thú thuần huyết; nhận ra sói con có thể là một Ấu Thần và phát thệ giúp tìm Bất Lão Thần Tuyền.; Bị nhóc tỳ truy đuổi nhiều ngày, cả hai rơi xuống thác nước, bị cưỡi lên lưng và dùng…",
+       "text": "Là Thái Cổ di chủng lông vàng kim thuần huyết, cảnh cáo không được ăn Ấu Thần; chạy trốn nhưng bị sói con đánh hơi, đại chiến với nhóc tỳ rồi cùng rơi xuống thác nước và bị thu phục làm thú cưỡi/tiểu đệ; tự xưng cháu Cửu Linh Vương, khai tộc mình có cổ pháp hóa hung thú thuần huyết; nhận ra sói con có thể là một Ấu Thần và phát thệ giúp tìm Bất Lão Thần Tuyền.",
        "anchor": "đây có thể là một con Ấu Thần"
       },
       {
@@ -21062,14 +21062,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0127",
        "importance": "normal",
        "tieuDe": "Thần Vương Thái cổ làm tọa kỵ",
-       "text": "Dùng chuỗi niệm châu màu vàng nâng thân bay lên né Phù Văn thủy hệ của Vũ tộc; cõng Thạch Hạo đại khai sát giới, suy đoán Vũ tộc dùng biện pháp đặc biệt lừa qua cửa ải đưa đông người vào; khiến Vũ tộc kinh sợ vì từng được xưng Thần Vương thời Thái cổ nay lại làm tọa kỵ.; Dùng chuỗi niệm châu vàng bay lên né Phù Văn thủy hệ, cõng nhóc tỳ tiến bước như Chiến Thần hàng thế; suy đoán Vũ tộc dùng biện pháp đặc biệt lừa qua cửa ải đưa đông người vào…",
+       "text": "Dùng chuỗi niệm châu màu vàng nâng thân bay lên né Phù Văn thủy hệ của Vũ tộc; cõng Thạch Hạo (nhóc tỳ) tiến bước như Chiến Thần hàng thế, đại khai sát giới; suy đoán Vũ tộc dùng biện pháp đặc biệt lừa qua cửa ải đưa đông người vào; khiến Vũ tộc kinh sợ vì từng được xưng Thần Vương thời Thái cổ nay lại làm tọa kỵ.",
        "anchor": "Ở thời Thái cổ được xưng là Thần Vương"
       },
       {
        "chuong": "@c0129",
        "importance": "normal",
        "tieuDe": "Được nhóc tỳ cứu, thoát vòng vây",
-       "text": "Nhận ra bốn Người phong ấn Vũ tộc, cùng nhóc tỳ giả liều mạng rồi dùng Bảo Cụ phóng lên trời chạy trốn, than phiền bị biến thành khiên thịt; bị màn mưa thần lực bắn thủng ngực phải như cái sàng, máu me khắp người; cảm động vì nhóc tỳ chủ động chặn bốn đại cường giả cứu mình nên hứa xóa nợ cũ và không để Cửu Linh Vương gia gia gây phiền; phóng hào quang hoàng kim biến mất cuối chân trời.; Nhận ra bốn bóng người là Người phong ấn; cùng Thạch Hạo g…",
+       "text": "Nhận ra bốn Người phong ấn Vũ tộc, cùng nhóc tỳ giả liều mạng rồi dùng Bảo Cụ phóng lên trời chạy trốn, than phiền bị biến thành khiên thịt; bị màn mưa thần lực bắn thủng ngực phải như cái sàng, máu me khắp người; cảm động vì nhóc tỳ chủ động chặn bốn đại cường giả cứu mình nên hứa xóa nợ cũ và không để Cửu Linh Vương gia gia gây phiền; cuối cùng xoay người phóng hào quang hoàng kim biến mất ở nơi cuối chân trời. 「cả người hào quang hoàng kim chói lọi, trong phút chốc đã đi rất xa, biến mất ở nơi cuối chân trời.」",
        "anchor": "cả người hào quang hoàng kim chói lọi, trong phút chốc đã đi rất xa, biến mất ở nơi cuối chân trời."
       },
       {
@@ -21218,7 +21218,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0127",
        "importance": "normal",
        "tieuDe": "Thiếu nữ song kiệt lộ diện",
-       "text": "Bóng người ngồi xếp bằng trước thông đạo đột nhiên đứng dậy, Phù Văn lấp lóe đầy trời, lộ ra hình dáng thiếu nữ trong song kiệt của Vũ tộc, tuổi chừng mười lăm mười sáu, sẵn sàng đối đầu Thạch Hạo.; Bàn về Thạch Nghị và tiểu Ma vương cùng người canh thông đạo; tự xưng là một trong song kiệt của Vũ tộc nổi danh Hoàng Đô; sau khi nghe tin người của Vũ tộc chết hết, đứng dậy với Phù Văn lấp lóe đầy trời khi Thạch Hạo cưỡi Sư Tử chín đầu tiến tới.…",
+       "text": "Bóng người ngồi xếp bằng trước thông đạo đột nhiên đứng dậy, Phù Văn lấp lóe đầy trời, lộ ra hình dáng 「một thiếu nữa trong song kiệt của Vũ tộc, tuổi chừng mười lăm mười sáu」; nàng tự xưng là một trong song kiệt của Vũ tộc nổi danh Hoàng Đô, trước đó cùng người canh thông đạo bàn về Thạch Nghị và tiểu Ma vương; sau khi nghe tin người của Vũ tộc chết hết, nàng đứng dậy sẵn sàng đối đầu khi Thạch Hạo cưỡi Sư Tử chín đầu tiến từng bước như Chiến Thần hàng thế.",
        "anchor": "một thiếu nữa trong song kiệt của Vũ tộc, tuổi chừng mười lăm mười sáu"
       }
      ],
@@ -21347,7 +21347,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0127",
        "importance": "normal",
        "tieuDe": "Bị bảo kính Toan Nghê giết",
-       "text": "Bị thương nặng chạy về báo tin cho Lục tỷ về cái chết của các thiên tài Vũ tộc; sau đó trúng tia chớp vàng từ bảo kính Toan Nghê của Thạch Hạo đánh về bên hồ, nổ tung chết tại chỗ.; Toàn thân xẹt điện miệng chảy máu, báo cho Lục tỷ về tổn thất nặng của Vũ tộc; sau đó trúng đòn bảo kính Toan Nghê của thiếu niên, nổ tung chia năm xẻ bảy chết tại chỗ.; Toàn thân xẹt điện, miệng chảy máu, chạy tới báo cho Lục tỷ rằng mười vị thiên tài khác họ cùng m…",
+       "text": "Toàn thân xẹt điện, miệng chảy máu, chạy tới báo cho Lục tỷ rằng mười vị thiên tài khác họ do bộ tộc bồi dưỡng cùng mấy vị đường huynh đều đã chết hết, tiểu Ma vương xuất hiện từ một thông đạo khác; sau đó trúng tia chớp vàng từ bảo kính Toan Nghê của thiếu niên đánh về bên hồ, 「nổ tung chia năm xẻ bảy, chết ngay tại chổ」.",
        "anchor": "nổ tung chia năm xẻ bảy, chết ngay tại chổ"
       }
      ],
@@ -21453,14 +21453,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0128",
        "importance": "normal",
        "tieuDe": "Ra mặt tử chiến nhóc tỳ tại Bách Đoạn sơn",
-       "text": "Phụng lệnh trưởng bối vào Bách Đoạn sơn toàn lực giết nhóc tỳ (kẻ đã giết mười tám cao thủ Vũ tộc); dùng Thông Linh Thần Giác nhìn nhưng thấy hắn bị sương mù bao phủ, không nhìn thấu giống Thạch Nghị; thi triển Bảo Thuật Thông Linh ‘Nhất Thế Họa Quyển’ và ‘Trong mưa sinh điện’ phá nát tòa núi nhỏ, nhưng bị nhóc tỳ dùng lôi điện khắc chế, nhiều lần bị đánh ho ra máu, Bảo Tán và Bảo Y lần lượt bị hủy.; Thi triển Bảo Thuật Thông Linh “Nhất Thế Họa…",
+       "text": "Phụng lệnh trưởng bối vào Bách Đoạn sơn toàn lực giết nhóc tỳ (kẻ đã giết mười tám cao thủ Vũ tộc); dùng Thông Linh Thần Giác nhìn nhưng thấy hắn bị sương mù bao phủ, không nhìn thấu giống Thạch Nghị; thi triển Bảo Thuật Thông Linh ‘Nhất Thế Họa Quyển’ và ‘Trong mưa sinh điện’ phá nát tòa núi nhỏ, nhưng bị nhóc tỳ dùng lôi điện khắc chế, nhiều lần bị đánh ho ra máu, Bảo Tán và Bảo Y lần lượt bị hủy.",
        "anchor": "Hắn cũng giống như Thạch Nghị, nhìn không thấu, không thể nhìn thấy được do có một luồng sương mù bao phủ lại"
       },
       {
        "chuong": "@c0129",
        "importance": "normal",
        "tieuDe": "Bại trận trước nhóc tỳ",
-       "text": "Bị nhóc tỳ đánh tan sách cổ nhiều màu (Phù Văn) và ký hiệu cuối cùng trên người, ho ra máu; tung đòn cuối bảo thuật Thông Linh dệt lưới kỳ quang và đọc Thần âm “Phong!” bắt chéo hai tay ngăn cú đấm nhưng hai cánh tay gãy, phải phân tán thần lực khắp thân để khỏi vỡ nát rồi bay sang phun máu; nhận ra lực lượng thân thể cuồng bạo của nhóc tỳ giống lực từng thấy ở Thạch Nghị vài năm trước.; Bị Thạch Hạo đánh tổn hại Sách cổ nhiều màu Phù Văn, đánh…",
+       "text": "Bị nhóc tỳ đánh tan sách cổ nhiều màu (Phù Văn) và ký hiệu cuối cùng trên người, ho ra máu; tung đòn cuối bảo thuật Thông Linh dệt lưới kỳ quang và đọc Thần âm “Phong!” bắt chéo hai tay ngăn cú đấm nhưng hai cánh tay gãy, phải phân tán thần lực khắp thân để khỏi vỡ nát rồi bay sang phun máu; nhận ra lực lượng thân thể cuồng bạo của nhóc tỳ giống lực từng thấy ở Thạch Nghị vài năm trước.",
        "anchor": "lực lượng thân thể cuồng bạo vừa nãy nàng chỉ thấy được ở trên người của Thạch Nghị vài năm trước"
       },
       {
@@ -21604,14 +21604,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0129",
        "importance": "normal",
        "tieuDe": "Lộ danh tính, kể trận chiến năm xưa",
-       "text": "Cùng ba cường giả Vũ tộc vây bắt rồi truy đuổi nhóc tỳ và Sư Tử chín đầu; lộ chân thân, tự xưng tên, kể thúc tổ hắn năm xưa từ Hoàng Đô đuổi tới Tây Cương dùng Cốt Tiễn xuyên thủng lá phổi Thạch Tử Lăng suýt trúng tim; mắt bắn thần mang truy nhìn chân thân nhóc tỳ.; Trung niên trong nhóm bốn Người phong ấn Vũ tộc; kể thúc tổ hắn năm đó chỉ huy trận chiến, từ Hoàng Đô đuổi tới Tây Cương, dùng Cốt Tiễn xuyên thủng lá phổi Thạch Tử Lăng suýt trúng…",
+       "text": "Trung niên trong nhóm bốn Người phong ấn Vũ tộc, cùng ba cường giả vây bắt rồi truy đuổi nhóc tỳ và Sư Tử chín đầu. Sau khi thu mưa bụi lộ chân thân, hắn tự xưng tên và kể thúc tổ hắn năm đó chỉ huy trận chiến, từ Hoàng Đô đuổi tới Tây Cương, dùng Cốt Tiễn xuyên thủng lá phổi Thạch Tử Lăng nhưng suýt trúng tim; mắt bắn thần mang, nhìn chằm chằm muốn thấy mặt nhóc tỳ.",
        "anchor": "Hắn tên là Vũ Côn, là một cường giả rất nổi danh trong Vũ tộc."
       },
       {
        "chuong": "@c0130",
        "importance": "normal",
        "tieuDe": "Truy sát nhóc tỳ, mất đồng đội bên hồ",
-       "text": "Cùng ba cường giả Vũ tộc quyết bắt trực tiếp nhóc tỳ tra hỏi rồi diệt trừ, tránh để Vũ Vương phủ biết chuyện; ban đầu cười khinh miệt khi nhóc tỳ ngã bên hồ, nhắc năm đó không giết được Thạch Tử Lăng chỉ đánh trọng thương và dọa Thạch Tử Lăng sẽ phát điên khi biết con bị giết; sau khi Ngư Long trồi lên nuốt một đồng bọn, tàn phế một kẻ khác, nộ hỏa muốn róc xương nhóc tỳ nhưng không dám liều với Ngư Long, cùng đồng bọn còn lại điều động Bảo Cụ t…",
+       "text": "Cùng ba cường giả Vũ tộc quyết bắt trực tiếp nhóc tỳ tra hỏi rồi diệt trừ, tránh để Võ Vương phủ biết chuyện; ban đầu cười khinh miệt khi nhóc tỳ ngã bên hồ, nhắc năm đó không giết được Thạch Tử Lăng chỉ đánh trọng thương 「Năm đó ta không thể giết phụ thân ngươi, chỉ là đánh trọng thương hắn mà thôi」 và dọa Thạch Tử Lăng sẽ phát điên khi biết con bị giết; sau khi Ngư Long trồi lên nuốt một đồng bọn, tàn phế một kẻ khác, nộ hỏa muốn róc xương nhóc tỳ nhưng không dám liều với Ngư Long, cùng đồng bọn còn lại 「điều động Bảo Cụ cấp tốc truy sát nhóc tỳ.」",
        "anchor": "Năm đó ta không thể giết phụ thân ngươi, chỉ là đánh trọng thương hắn mà thôi"
       },
       {
@@ -22009,7 +22009,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "tabs": {
      "kinhLich": [
       {
-       "text": "Khi Thạch Hạo rời nơi Tế Linh ở ẩn, lão già tóc xám xuất hiện ngoài cửa, đầu bị cổ kiếm rỉ sét xuyên thủng, biến mất rồi hiện sau lưng, giữa đống ngói vỡ, phát tiếng ô ô như khóc rồi chặn đường nhóc tỳ.; Xuất hiện ngoài cửa khu vườn cổ với mái tóc xám, hai mắt trống rỗng, đầu bị một thanh cổ kiếm rỉ sét xuyên thủng, móng tay đen dài nửa thước, mặc y phục Thượng Cổ; không hô hấp không tim đập, biến mất rồi xuất hiện sau lưng nhóc tỳ, phát tiếng ô…",
+       "text": "Khi Thạch Hạo rời nơi Tế Linh ở ẩn, ngoài cửa khu vườn cổ xuất hiện một lão già tóc xám, hai mắt trống rỗng, đầu bị một thanh cổ kiếm rỉ sét xuyên thủng, móng tay đen dài nửa thước, mặc y phục Thượng Cổ, không hô hấp không tim đập; lão biến mất rồi hiện sau lưng nhóc tỳ, lại xuất hiện giữa đống ngói vỡ, phát tiếng ô ô như khóc, di chuyển như từ hư không, cuối cùng chặn đường nhóc tỳ. 「ngoài cửa có một lão già, mái tóc màu xám, hai mắt trống rỗng, trên đầu cắm vào một thanh cổ kiếm, xuyên thấu mà qua」",
        "anchor": "ngoài cửa có một lão già, mái tóc màu xám, hai mắt trống rỗng, trên đầu cắm vào một thanh cổ kiếm, xuyên thấu mà qua",
        "bridge": true,
        "khoang": "@c0110"
@@ -22062,7 +22062,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0125",
        "importance": "major",
        "tieuDe": "Ấu Thần ra đời và được nhận là hậu đại Lang Thần",
-       "text": "Sinh linh nhỏ bọc trong ánh sáng ra đời, hấp thu mọi bảo thuật và tia điện để trưởng thành; lộ hình sói con lông xám có sừng nhú và đôi cánh nhỏ, được xác nhận là hậu đại Lang Thần; bị nhóc tỳ điện giật thử khiến lông cháy đen; ăn hai Linh dược và trái tim hung thú của Hỏa Linh Nhi rồi bám vai nhóc tỳ; về sau Sư Tử chín đầu nhận ra nó có thể là một Ấu Thần Thái Cổ hung thú non.; Sinh linh thần linh Thượng Cổ hình sói con được ánh sáng ngũ sắc ba…",
+       "text": "Sinh linh nhỏ bọc trong ánh sáng ra đời, hấp thu mọi bảo thuật và tia điện để trưởng thành; lộ hình sói con lông xám có sừng nhú và đôi cánh nhỏ, được xác nhận là hậu đại Lang Thần 「Quả nhiên là hậu đại của Lang Thần!」; bị nhóc tỳ điện giật thử khiến lông cháy đen; ăn hai Linh dược và trái tim hung thú của Hỏa Linh Nhi rồi bám vai nhóc tỳ; về sau Sư Tử chín đầu nhận ra nó có thể là một Ấu Thần Thái Cổ hung thú non.",
        "anchor": "Là Ấu Thần, nó đang hấp thu sức mạnh để trưởng thành!"
       }
      ],
@@ -22240,7 +22240,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0103",
        "importance": "normal",
        "tieuDe": "Gặp nhóc tỳ, kể tình hình phong tỏa",
-       "text": "Cùng em gái nướng chim ăn sáng thì gặp nhóc tỳ; kể lại vì thằng ranh nhân thần cộng phẫn mà mọi người phải vượt ải lại từ đầu, Bổ Thiên Các bày thiên la địa võng phong tỏa chiến trường thứ hai và cho người ngoài xem lễ; được nhóc tỳ tặng một viên đan dược trước khi chia tay; Đang nướng chim ăn cùng muội thì gặp nhóc tỳ cướp chân chim; kể cho nhóc tỳ biết Bổ Thiên Các đã bày thiên la địa võng phong tỏa chiến trường thứ hai để bắt thằng ranh và ch…",
+       "text": "Đang cùng muội nướng chim ăn sáng thì gặp nhóc tỳ nhào tới cướp ăn chân chim rồi hỏi han tình hình; kể lại vì thằng ranh nhân thần cộng phẫn mà mọi người phải vượt ải lại từ đầu, Bổ Thiên Các đã bày thiên la địa võng phong tỏa chiến trường thứ hai để bắt thằng nhóc và đặc biệt cho người ngoài xem lễ; trước khi chia tay được nhóc tỳ tặng đan dược Long Tán và Hổ Dược lột từ thiếu niên áo bạc. 「Nghe nói Bổ Thiên Các đặc biệt cho phép người ngoài 'xem lễ'.」",
        "anchor": "Nghe nói Bổ Thiên Các đặc biệt cho phép người ngoài 'xem lễ'."
       }
      ],
@@ -22427,7 +22427,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "tabs": {
      "kinhLich": [
       {
-       "text": "Nhấn mạnh ai đã thử luyện là đệ tử Bổ Thiên Các không chạy được; hé lộ với các đạo huynh gốc thuốc quý hiếm được chăm bón bằng Hắc Hổ Sát, tương lai có thể lột xác thành Thánh Dược, dùng để oai chấn tứ phương chiêu mộ thiên tài",
+       "text": "Nhấn mạnh ai đã thử luyện là đệ tử Bổ Thiên Các không chạy được; hé lộ với các đạo huynh gốc thuốc quý hiếm được chăm bón bằng Hắc Hổ Sát, tương lai có thể lột xác thành Thánh Dược, dùng để oai chấn tứ phương chiêu mộ thiên tài.",
        "anchor": "nó là vật báu được chăm bón bằng Hắc Hổ Sát, tương lai có thể lột xác thành Thánh Dược",
        "bridge": true,
        "khoang": "@c0103"
@@ -22484,7 +22484,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "tabs": {
      "kinhLich": [
       {
-       "text": "Cay đắng vì phải tuyển đám đông chất lượng thấp, thề tính sổ với thằng ranh quậy phá; nghe tiếng rống của Tiêu Thiên lại tưởng là kỳ tài ngút trời mà khen ngợi",
+       "text": "Cay đắng vì phải tuyển đám đông chất lượng thấp, thề tính sổ với thằng ranh quậy phá; nghe tiếng rống của Tiêu Thiên lại tưởng là kỳ tài ngút trời mà tranh nhau khen ngợi.",
        "anchor": "Nghe nói Bổ Thiên Các đặc biệt cho phép người ngoài 'xem lễ'.",
        "bridge": true,
        "khoang": "@c0103"
@@ -22775,7 +22775,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0134"
       },
       {
-       "text": "Tiếc nuối cho rằng Nhóc Tỳ phung phí thần vật quá xa xỉ, đòi phần nước thần, phun ra một nồi đen (thực chất do quả trứng chim mài giũa thành, phù văn chằng chịt phong tỏa lôi điện) để hấp thu; kinh ngạc trước khí tức Chí Tôn Cốt và đột phá Động Thiên thứ tám của Nhóc Tỳ; Xót ruột thấy Nhóc Tỳ phung phí thánh vật nên phun ra một nồi đen (thực là quả trứng chim mài giũa) để thu hút Thái Nhất Chân Thủy; tham lam học Nhóc Tỳ nuốt cả nồi nước thần để…",
+       "text": "Tiếc nuối cho rằng Nhóc Tỳ phung phí thần vật quá xa xỉ, đòi phần nước thần, phun ra một nồi đen (thực chất do quả trứng chim mài giũa thành, phù văn chằng chịt phong tỏa lôi điện) để hấp thu Thái Nhất Chân Thủy; tham lam học Nhóc Tỳ nuốt cả nồi nước thần rồi nhiều lần nuốt-nhả, một bộ phận Thái Nhất Chân Thủy đã hòa vào máu thịt của nó; kinh ngạc trước khí tức Chí Tôn Cốt và đột phá Động Thiên thứ tám của Nhóc Tỳ.",
        "anchor": "Một bộ phận của Thái Nhất Chân Thủy đã hòa vào máu thịt của nó",
        "bridge": true,
        "khoang": "@c0135"
@@ -30692,14 +30692,14 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "khoang": "@c0229"
       },
       {
-       "text": "Ra lệnh khiêng các nguyên lão bị phế xuống, chất vấn Lão Thập Ngũ, rồi quyết đấu bằng Thế giới trong lòng bàn tay, lư đồng, Hắc Thần Phong, mắt bạc và đại tinh phù văn; mỉa mai Thập Ngũ gia mất một tay nhưng cuối cùng bị đánh nổ đại tinh phù văn, phun máu lảo đảo lùi lại",
+       "text": "Ra lệnh khiêng các nguyên lão bị phế xuống, chất vấn Lão Thập Ngũ, rồi quyết đấu bằng Thế giới trong lòng bàn tay, lư đồng, Hắc Thần Phong, mắt bạc và đại tinh phù văn; mỉa mai Thập Ngũ gia mất một tay nhưng cuối cùng bị Đại Ma Thần đánh nổ đại tinh phù văn, phun máu lảo đảo, không ngừng rút lui.",
        "anchor": "Võ Vương phun ra một ngụm máu, bị công kích đơn giản mà cuồng bảo của Đại Ma Thần chấn cho thân thể lảo đảo",
        "bridge": true,
        "khoang": "@c0270"
       },
       {
-       "text": "Bị Đại Ma Thần chấn đến thổ huyết nhưng tiếp tục dùng huyết hồ thần thông, để lộ chân hình lư đồng Kim Ô với sáu Kim Ô lửa; cởi bỏ phong ấn tự áp chế khiến thực lực tăng vọt, đánh trọng thương Thập Ngũ gia; cuối cùng bị mũi tên trắng đen của Đại Ma Thần bắn trọng thương gãy xương, ngã ngửa vào phủ đệ",
-       "anchor": "Võ Vương bị chấn cho thổ huyết, thế nhưng vẫn không có lùi bước trái lại cười dài",
+       "text": "Bị Đại Ma Thần chấn đến thổ huyết nhưng tiếp tục dùng huyết hồ thần thông, để lộ chân hình lư đồng Kim Ô với sáu Kim Ô lửa; cởi bỏ phong ấn tự áp chế khiến thực lực tăng vọt, đánh trọng thương Thập Ngũ gia; cuối cùng bị mũi tên trắng đen của Đại Ma Thần bắn trọng thương gãy xương, ngã ngửa vào phủ đệ, kết thúc trận chiến.",
+       "anchor": "「Võ Vương bị chấn cho thổ huyết, thế nhưng vẫn không có lùi bước trái lại cười dài」",
        "bridge": true,
        "khoang": "@c0271"
       },
@@ -30707,8 +30707,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "major",
        "chuong": "@c0272",
        "tieuDe": "Đại bại và tiết lộ chỗ dựa của Thạch Nghị",
-       "text": "Bị Thập Ngũ gia bắn thủng thân thể, thương thế nặng mất năng lực tái chiến, gây chấn động toàn Hoàng Đô; thừa nhận thất bại và rời đi, trước khi ngất nhắc rằng sau lưng Thạch Nghị có một vị Chí Cường giả",
-       "anchor": "Sau lưng Nghị nhi là một vị Chí Cường giả, ngươi ta đều khó mà ngăn cản được sự quật khởi của nó."
+       "text": "Bị Thập Ngũ gia bắn thủng thân thể, thương thế nặng mất năng lực tái chiến, gây chấn động toàn Hoàng Đô; thừa nhận thất bại rồi rời đi, trước khi ngất còn nhắc rằng sau lưng Thạch Nghị có một vị Chí Cường giả mà cả hai đều khó ngăn cản được sự quật khởi của nó.",
+       "anchor": "「Sau lưng Nghị nhi là một vị Chí Cường giả, ngươi ta đều khó mà ngăn cản được sự quật khởi của nó.」"
       }
      ],
      "tuViMoc": [],
@@ -33955,7 +33955,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
      ],
      "kinhLich": [
       {
-       "text": "Bốn lão tổ hiện thân khuyên Thập Ngũ gia dừng tay, viện lý do đại cục và bảo toàn Thạch Nghị người mang Trùng Đồng cùng Chí Tôn cốt, đề cao việc Thạch Nghị vào Thượng Cổ Thánh Viện có thể đạt Bổ Thiên thuật; nhưng bị khí thế và pháp tướng hung thú của Đại Ma Thần đánh bật, miệng chảy máu",
+       "text": "Bốn lão tổ hiện thân khuyên Thập Ngũ gia dừng tay, viện lý do đại cục và bảo toàn Thạch Nghị người mang Trùng Đồng cùng Chí Tôn cốt, đề cao việc Thạch Nghị vào Thượng Cổ Thánh Viện có thể đạt Bổ Thiên thuật; nhưng bị khí thế và pháp tướng hung thú của Đại Ma Thần đánh bật, miệng chảy đầy máu tươi và không ngăn được ông tiếp tục xử quyết các nguyên lão, trưởng lão vi phạm tộc quy.",
        "anchor": "Đây chính là bốn vị lão tổ trong Võ Vương phủ",
        "bridge": true,
        "khoang": "@c0268"
@@ -34014,7 +34014,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "importance": "normal",
        "chuong": "@c0272",
        "tieuDe": "Xuất hiện, nhận đã mời Vũ Vương",
-       "text": "Một người đàn ông mạnh mẽ bước ra từ màn mưa, nói chính mình mời Vũ Vương tới vì hắn có tư cách can dự với thân phận người thân của Thạch Nghị; Thạch Uyên nhận ra đó là Tử Đằng, cháu ruột của hắn và cha ruột của Thạch Nghị",
+       "text": "Một người đàn ông mạnh mẽ bước ra từ màn mưa, nói chính mình mời Vũ Vương tới vì hắn có tư cách xuất hiện ở đây, xem như người thân của Thạch Nghị; Thạch Uyên nhận ra đó là Tử Đằng, cháu ruột của hắn và cha ruột của Thạch Nghị.",
        "anchor": "Là ta mời Vũ Vương tới, hắn có tư cách xuất hiện ở đây, dù sao hắn cũng xem như là người thân của Nghị nhi."
       },
       {
@@ -34034,7 +34034,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0281",
        "importance": "major",
        "tieuDe": "Về Hoàng Đô, xin thần huyết Tế Linh cho Thạch Nghị",
-       "text": "Trở lại Hoàng Đô cùng vài cường giả, được Nhân Hoàng triệu vào cung mật đàm; lời nói bị truyền ra đề cao Thạch Nghị là thiếu niên chí tôn có Bổ Thiên thuật, hạ thấp Thập Ngũ gia và Hạo nhi, rồi xin Nhân Hoàng lấy thần huyết Tế Linh lưu lại để tẩy thân thể cho Thạch Nghị, khiến các vương hầu chấn động suy đoán vấn đề kế thừa; cuối chương xuất hiện tại nhà đấu giá Cốt Cổ",
+       "text": "Trở lại Hoàng Đô cùng vài cường giả, được Nhân Hoàng triệu vào cung mật đàm; lời nói bị truyền ra đề cao Thạch Nghị là thiếu niên chí tôn có Bổ Thiên thuật, hạ thấp Thập Ngũ gia và Hạo nhi, rồi xin Nhân Hoàng lấy thần huyết Tế Linh lưu lại để tẩy thân thể cho Thạch Nghị, khiến các vương hầu chấn động suy đoán vấn đề kế thừa; cuối chương hắn xuất hiện tại nhà đấu giá Cốt Cổ và lần đầu tiên bị Thạch Hạo tận mắt nhìn thấy 「Hắn chính là Thạch Tử Đằng?」.",
        "anchor": "ta chỉ muốn mời Nhân Hoàng lấy ra thần huyết Tế Linh lưu lại để Nghị nhi tẩy thân thể"
       }
      ],
@@ -34700,7 +34700,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
        "chuong": "@c0281",
        "importance": "normal",
        "tieuDe": "Xuống xe đồng vào đấu giá Cốt Cổ",
-       "text": "Thiếu nữ tóc đỏ hoạt bát bước xuống từ cỗ xe bằng đồng, được nhận ra là con gái yêu của Tử Tiêu hầu và đi vào nhà đấu giá Cốt Cổ",
+       "text": "Thiếu nữ tóc đỏ hoạt bát bước xuống từ cỗ xe bằng đồng, được người bên ngoài nhận ra là con gái yêu của Tử Tiêu hầu và đi vào nhà đấu giá Cốt Cổ.",
        "anchor": "Nhà đấu giá Cốt Cổ có bối cảnh rất lớn trong Hoàng Đô"
       }
      ],
@@ -36474,7 +36474,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
   }
  ],
  "volumes": {
-  "updatedAt": "2026-07-05",
+  "updatedAt": "2026-07-10",
   "volumes": [
    {
     "value": "q01",
@@ -38807,10 +38807,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "cn": "",
     "loai": "cong-phap",
     "loaiLabel": "Công pháp",
-    "phamCap": "",
-    "hePhai": "",
+    "phamCap": "Không rõ",
+    "hePhai": "Võ Vương phủ",
     "soHuu": [
-     "Tiêu Thiên"
+     "Tiêu Thiên",
+     "Thạch Uyên"
     ],
     "blurb": "Công pháp của Tiêu Thiên (thiếu niên áo bạc); khi phát ra tiếng rống thì chấn động sơn hà, uy hiếp các thiếu niên xung quanh.",
     "detail": "Âm Ba Công là công lực của Tiêu Thiên. Trong chiến trường thứ hai, khi tỉnh dậy phát hiện bị đập ngất và mọc cục u trên trán, Tiêu Thiên nổi điên rống to, toàn thân giăng đầy phù văn màu bạc, tiếng rống chấn động sơn hà khiến các thiếu niên gần đó kinh hãi vì đủ sức quét ngang bọn họ. Tiếng rống dồi dào trung khí này về sau khiến các trưởng lão Bổ Thiên Các ngộ nhận hắn là kỳ tài ngút trời hiếm thấy.",
@@ -40831,7 +40832,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Bổ Thiên Thuật",
     "loai": "than-thong",
     "loaiLabel": "Thần thông",
-    "phamCap": "Thần thông trấn giáo (thất truyền)",
+    "phamCap": "Truyền thuyết",
     "hePhai": "Bổ Thiên Các",
     "soHuu": [],
     "blurb": "Thần thông mạnh nhất của Bổ Thiên Các, đã thất truyền từ thời Thượng cổ.",
@@ -40959,7 +40960,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "phamCap": "Không rõ",
     "hePhai": "Lôi Đạo",
     "soHuu": [
-     "Mộ Viêm"
+     "Mộ Viêm",
+     "Nhóc Tỳ"
     ],
     "blurb": "Thần thông Lôi Đạo của Mộ Viêm, mười quả cầu ánh sáng tím bay nối thành đường thẳng dẫn nổ tạo uy năng pháp tắc Lôi Đạo.",
     "detail": "Mộ Viêm thi triển Thập Tinh Quán Nhật khi đại chiến cá sấu bạc và hai lão tổ đại giáo: mười quả cầu ánh sáng tím bay nối thành một đường thẳng, mỗi quả to như Mặt Trời, dẫn nổ tạo ra uy năng pháp tắc Lôi Đạo cực mạnh.",
@@ -49869,7 +49871,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "categoryLabel": "Thần khí",
     "phamCap": "Không rõ",
     "soHuu": [
-     "Thạch Thôn"
+     "Thạch Thôn",
+     "Thạch thôn"
     ],
     "trangThai": "dang-co",
     "blurb": "Hai món tổ khí của Thạch Thôn, vật rơi ra từ thân chủng tộc Thái Cổ siêu cấp.",
@@ -50861,7 +50864,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "phamCap": "Nguyên thủy · Chí Tôn (trời sinh)",
     "soHuu": [
      "Thạch Hạo",
-     "Thạch Nghị"
+     "Thạch Nghị",
+     "Nhóc tỳ"
     ],
     "trangThai": "Đã mất",
     "blurb": "Bảo cốt Nguyên thủy cực hiếm trời sinh trong lồng ngực Thạch Hạo, chứa dày đặc Nguyên thủy phù văn; như Kim Sí Đại Bàng, Chân Hống sinh ra đã có, tương lai sánh vai hung thú Thái cổ.",
@@ -51257,7 +51261,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "categoryLabel": "Thần khí",
     "phamCap": "Bảo cốt trời sinh cực hiếm",
     "soHuu": [
-     "Thạch Hạo"
+     "Thạch Hạo",
+     "Bổ Thiên các"
     ],
     "trangThai": "dang-co",
     "blurb": "Loại xương trời sinh cực hiếm chứa dày đặc Nguyên thủy phù văn, còn gọi là Chí Tôn cốt; sinh ra đã có như Kim Sí Đại Bàng, Chân Hống.",
@@ -52062,7 +52067,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "category": "phap-bao",
     "categoryLabel": "Pháp bảo",
-    "phamCap": "Bảo cụ",
+    "phamCap": "Chí bảo",
     "soHuu": [
      "Thạch Hạo"
     ],
@@ -52506,7 +52511,8 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "category": "khac",
     "categoryLabel": "Vật phẩm ải",
     "soHuu": [
-     "Thạch Hạo"
+     "Thạch Hạo",
+     "Tiêu Thiên"
     ],
     "trangThai": "dang-co",
     "blurb": "Hòn đá đen bay ra từ bia phù quang, là vật phẩm tính công qua ải chiến trường thứ hai.",
@@ -52519,6 +52525,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "aliases": [
      "Bổ Thiên thạch"
     ],
+    "phamCap": "Không rõ",
     "rank": "C"
    },
    {
@@ -54500,7 +54507,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "category": "phap-bao",
     "categoryLabel": "Bảo cụ",
-    "phamCap": "Bảo cụ mạnh nhất của Bạch Hổ",
+    "phamCap": "Không rõ",
     "soHuu": [
      "Thạch Hạo"
     ],
@@ -56375,7 +56382,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Bát Trân Kê",
     "category": "linh-khi",
     "categoryLabel": "Linh vật",
-    "phamCap": "Thần trân Thái Cổ",
+    "phamCap": "Di chủng Thái Cổ",
     "soHuu": [
      "Nhóc Tỳ"
     ],
@@ -59561,8 +59568,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Nhân tộc",
     "type": "chung-toc",
     "typeLabel": "Chủng tộc",
-    "diaBan": "Đại Hoang và các cương vực",
-    "nhanVatChinh": [],
+    "diaBan": "Hoang Vực",
+    "nhanVatChinh": [
+     "Nhóc Tỳ",
+     "Thiếu niên Nhân Tộc"
+    ],
     "blurb": "Tộc người yếu ớt thời Thái cổ, mượn pháp các tộc chúng để phát triển.",
     "detail": "Nhân tộc thời Thái cổ yếu ớt, phải mượn pháp của các tộc chúng — nghiên cứu di cốt sinh vật chí cường để phát triển Cốt văn, từ đó đi từ yếu ớt lên phồn thịnh. Tuy vậy chí tôn Nhân tộc vẫn thiếu, hung thú Thái cổ quá cường (một con phất tay diệt được mấy Siêu cấp đại tộc).",
     "nguon": [
@@ -59636,11 +59646,13 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "cn": "",
     "type": "bo-toc",
     "typeLabel": "Bộ tộc",
-    "diaBan": "",
+    "diaBan": "Hoàng Đô; Thạch Quốc; Hoang Vực",
     "nhanVatChinh": [
      "Thanh niên Lôi Tộc",
      "Minh Viễn",
-     "Nha Nha"
+     "Nha Nha",
+     "Đại tiểu thư Lôi tộc",
+     "Minh châu đệ nhất Hoàng Đô"
     ],
     "blurb": "Bộ tộc mang lôi điện đen, thân toát tiếng sấm; có Minh Viễn và Nha Nha.",
     "detail": "Bộ tộc lớn tới Tiểu Cô Sơn Trấn trên tấm da thú cổ. Thanh niên dẫn đoàn thân mang lôi điện đen, toát tiếng sấm; sai Minh Viễn và Nha Nha ra trấn áp hai cháu yêu của Tử Sơn Hầu và đặt bảo huyết làm cược.",
@@ -59791,8 +59803,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Mộc Tộc",
     "type": "toc-quan",
     "typeLabel": "Tộc quần",
-    "diaBan": "Vùng đất phương viên mười vạn dặm (Đại Hoang)",
-    "nhanVatChinh": [],
+    "diaBan": "Không rõ",
+    "nhanVatChinh": [
+     "Thiếu niên Mộc tộc"
+    ],
     "blurb": "Tộc quần đã hình thành bộ lạc, bị xóa sổ khỏi vùng đất này trong hạo kiếp.",
     "detail": "Mộc Tộc là một tộc quần đã hình thành bộ lạc tại vùng đất phương viên mười vạn dặm, cùng Dực Tộc và nhiều tộc quần khác bị tiêu diệt trong cuộc huyết tẩy mười vạn dặm.",
     "nguon": [
@@ -59909,8 +59923,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Giao Tộc",
     "type": "toc-lac",
     "typeLabel": "Bộ tộc",
-    "diaBan": "Vùng năm vạn dặm quanh Thạch Thôn",
-    "nhanVatChinh": [],
+    "diaBan": "không rõ",
+    "nhanVatChinh": [
+     "Giao Tôn Giả"
+    ],
     "blurb": "Một thế lực tham gia vây Thạch Thôn, nội bộ chia rẽ về cách đối phó cây liễu.",
     "detail": "Trong biến cố tại Thạch Thôn, có người của Giao Tộc chủ trương đứng xa phóng hỏa đốt Thạch Thôn, cũng có người phản đối vì không muốn liều chết.",
     "nguon": [
@@ -60062,12 +60078,15 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "type": "clan",
     "typeLabel": "Gia tộc",
-    "diaBan": "Tổ địa Thạch Tộc",
+    "diaBan": "Hoàng Đô, Thạch Quốc",
     "nhanVatChinh": [
      "Thạch Hạo",
      "Thạch Nghị",
      "Tứ Thái Gia",
-     "Lão Ngũ"
+     "Lão Ngũ",
+     "Thạch Trung Thiên",
+     "Võ Vương",
+     "Thạch Uyên"
     ],
     "blurb": "Tộc của Thạch Hạo và Thạch Nghị, có tổ huấn cấm tàn sát lẫn nhau và chí hướng bước ra tổ địa ngồi ngôi Nhân Hoàng; Chí Tôn Cốt là bí mật tối cao trong tộc.",
     "detail": "Gia tộc lớn nơi Thạch Hạo và Thạch Nghị sinh ra. Tộc có tổ huấn cấm nội bộ tàn sát lẫn nhau, buộc phải đoàn kết đối ngoại để có ngày bước ra tổ địa, đánh chiếm bờ cõi, cai trị hàng tỉ con dân và ngồi vào ngôi Nhân Hoàng. Trong tộc có hai vị lão chủ sự bối phận cực cao là Tứ Thái Gia và Lão Ngũ, thực lực cực mạnh, thường ẩn tu trong cổ động tham ngộ diệu lý, ít khi lộ diện. Tộc chia thành các “chi”: thiếu phụ (mẹ Thạch Nghị) thuộc chi của Lão Ngũ, còn Thạch Hạo thuộc chi của Tử Lăng. Chí Tôn Cốt bẩm sinh trong người Thạch Hạo được xếp vào hàng tuyệt mật, chỉ vài người trong tộc biết, và được xem là bí mật tối cao — điều đã dẫn tới việc thiếu phụ moi cốt cấy sang con ruột, châm ngòi cho mâu thuẫn nội bộ giữa hai chi.",
@@ -60204,8 +60223,12 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Thái Cổ Di Chủng",
     "type": "chung-toc",
     "typeLabel": "Chủng tộc cổ",
-    "diaBan": "Đại Hoang / trong núi",
-    "nhanVatChinh": [],
+    "diaBan": "Bách Đoạn sơn",
+    "nhanVatChinh": [
+     "Kim Sí Bằng điểu",
+     "Bạch Hổ",
+     "Hai huynh đệ tộc ba mắt"
+    ],
     "blurb": "Loài cổ mạnh mẽ trong núi thời Thái Cổ — con của chúng còn khó đạt mức sức mạnh của Thạch Hạo.",
     "detail": "Được nhắc là chủng tộc cổ mạnh mẽ sống trong núi; ngay cả con non của chúng cũng khó đạt tới mức sức mạnh mà nhóc tỳ Thạch Hạo phô diễn khi phá cực cảnh rèn thân.",
     "nguon": [
@@ -60267,10 +60290,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Vũ tộc",
     "type": "chung-toc",
     "typeLabel": "Chủng tộc",
-    "diaBan": "Xung Vân trấn",
+    "diaBan": "Hư Thần Giới",
     "nhanVatChinh": [
      "Người trung niên Vũ tộc Xung Vân",
-     "Hạ U Vũ"
+     "Hạ U Vũ",
+     "Vũ Vương"
     ],
     "blurb": "Chủng tộc trấn giữ Xung Vân trấn biên thùy phía tây Thạch quốc; từng bàn việc chiêu mộ tế linh Xung Vân nhưng gác lại vì chính sự.",
     "detail": "Người trung niên Vũ tộc nhắc chờ Hạ U Vũ tiểu thư về xin một khối phù bài; cho thấy Vũ tộc có tổ chức riêng ở Xung Vân trấn.",
@@ -60295,7 +60319,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "type": "quoc-gia",
     "typeLabel": "Quốc gia",
-    "diaBan": "Ngàn tỉ dặm quanh biên thùy phía tây Xung Vân trấn",
+    "diaBan": "Hoàng Đô Thạch Quốc",
     "nhanVatChinh": [
      "Nhân Hoàng"
     ],
@@ -60401,8 +60425,11 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Tiểu Tây Thiên",
     "type": "the-luc",
     "typeLabel": "Thế lực",
-    "diaBan": "Không rõ",
-    "nhanVatChinh": [],
+    "diaBan": "Đại Hoang",
+    "nhanVatChinh": [
+     "Khổ Thánh",
+     "Sinh linh Nghi Sơn"
+    ],
     "blurb": "Thế lực lớn mà đám hung khấu phục tùng, đang truy tìm Chí Tôn Thần Tàng.",
     "detail": "Tiểu Tây Thiên là thế lực đứng sau đám hung khấu vùng man hoang, sai chúng đi tìm Chí Tôn Thần Tàng và thu thập Hắc kim để phá phù văn trong một cổ trận. Con Tế Linh mạnh mẽ mà đám cướp cưỡi cũng đến từ đây, và hung khấu của Tiểu Tây Thiên không chỉ có một đội.",
     "nguon": [
@@ -60418,7 +60445,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "name": "Hư Thần Giới (thế lực)",
     "type": "khac",
     "typeLabel": "Thế lực",
-    "diaBan": "Hư Thần Giới — quản các thông đạo, động tiên nhiều tầng",
+    "diaBan": "Hư Thần Giới",
     "nhanVatChinh": [
      "Thạch Hạo",
      "Thải Loan",
@@ -60542,7 +60569,9 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "type": "co-quoc",
     "typeLabel": "Cổ quốc",
     "diaBan": "Cổ quốc",
-    "nhanVatChinh": [],
+    "nhanVatChinh": [
+     "Sở Hạ"
+    ],
     "blurb": "Cổ quốc sở hữu Hoàng Xa với Dị Cầm màu xanh, có nhân vật khó lường tới dự Bổ Thiên Các.",
     "detail": "Hỏa Quốc là một cổ quốc, sở hữu Hoàng Xa do Dị Cầm màu xanh lấp lánh bảo quang kéo; cỗ xe chở một nhân vật khó lường bay tới gần Bổ Thiên Các trong dịp phong vân tụ hội.",
     "nguon": [
@@ -60817,8 +60846,10 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "cn": "",
     "type": "the-luc",
     "typeLabel": "Thế lực",
-    "diaBan": "",
-    "nhanVatChinh": [],
+    "diaBan": "Tịnh Thổ rộng lớn trong Thạch quốc",
+    "nhanVatChinh": [
+     "Nhóc Tỳ"
+    ],
     "blurb": "Thế lực mà bốn cường giả Vũ tộc lo sợ biết chuyện truy sát nhóc tỳ sẽ gây sóng lớn.",
     "detail": "Bốn cường giả Vũ tộc đặc biệt tránh để người của Võ Vương phủ biết việc truy sát nhóc tỳ, sợ sinh biến cố. Năm đó, khi nhóc tỳ và Thạch Tử Lăng gặp nạn, Võ Vương phủ đã đưa ra lựa chọn của mình — gợi mối liên hệ chưa rõ giữa họ.",
     "nguon": [
@@ -60996,7 +61027,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "cn": "",
     "type": "chung-toc",
     "typeLabel": "Chủng tộc",
-    "diaBan": "Bách Đoạn sơn",
+    "diaBan": "Sơ Thủy Địa",
     "nhanVatChinh": [
      "Hai cường giả Tộc ba mắt"
     ],
@@ -61065,7 +61096,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     "cn": "鲲族",
     "type": "chung-toc",
     "typeLabel": "Chủng tộc",
-    "diaBan": "Di tích · Dãy núi dung nham",
+    "diaBan": "Không rõ",
     "nhanVatChinh": [
      "Người trẻ tuổi áo bào xanh (Côn tộc)"
     ],
@@ -61395,7 +61426,7 @@ window.LIB_DATA["the-gioi-hoan-my"]={
     ],
     "type": "gia-toc",
     "typeLabel": "Gia tộc",
-    "diaBan": "Đại Hoang",
+    "diaBan": "Hư Thần Giới",
     "nhanVatChinh": [],
     "blurb": "Gia tộc cổ xưa, kẻ thù thời Thượng Cổ của Bổ Thiên Các, ra tay tàn độc trong cuộc cướp phá.",
     "detail": "Thác Bạt tộc (Thác Bạt thế gia) là gia tộc cổ xưa, kẻ thù truyền kiếp từ thời Thượng Cổ của Bổ Thiên Các. Trong đại chiến cướp phá, một lão quái vật của tộc giết nhiều trưởng lão Bổ Thiên Các, muốn diệt sạch Tịnh Thổ.",
