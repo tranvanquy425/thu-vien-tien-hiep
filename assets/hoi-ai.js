@@ -29,27 +29,26 @@
     // ---- CSS riêng (tự tiêm — không sửa theme.css) ----
     const css = document.createElement("style");
     css.textContent =
-      /* nút tròn nổi góc TRÁI-dưới */
+      /* nút tròn nổi góc TRÁI-dưới — ấn son chu sa + viền vàng, nổi bật trên nền tối lẫn sáng */
       ".ha-fab{position:fixed;left:16px;bottom:20px;z-index:45;display:flex;align-items:center;justify-content:center;" +
-        "width:50px;height:50px;border-radius:50%;border:1px solid var(--line-gold,#6b521f);cursor:pointer;" +
-        "background:linear-gradient(160deg,#3a2c14,#241a0c);color:var(--gold2,#e5c96b);font-size:24px;line-height:1;" +
-        "box-shadow:0 4px 14px rgba(0,0,0,.4);transition:transform .15s}" +
+        "width:56px;height:56px;border-radius:50%;border:2px solid var(--gold2,#e5c96b);cursor:pointer;" +
+        "background:radial-gradient(circle at 32% 28%,#d94b3a,#b0231c 62%,#8f1a15);color:#ffe9c2;font-size:26px;line-height:1;" +
+        "box-shadow:0 4px 16px rgba(176,35,28,.55),0 0 0 4px rgba(229,201,107,.12);transition:transform .15s;animation:haPulse 2.6s ease-in-out infinite}" +
+      "@keyframes haPulse{0%,100%{box-shadow:0 4px 16px rgba(176,35,28,.55),0 0 0 4px rgba(229,201,107,.12)}50%{box-shadow:0 4px 22px rgba(176,35,28,.78),0 0 0 7px rgba(229,201,107,.22)}}" +
       ".ha-fab:hover{transform:scale(1.08)}" +
-      ".ha-fab .ha-fab-lbl{position:absolute;left:60px;white-space:nowrap;font-size:12px;font-family:var(--sans,sans-serif);" +
-        "background:#1c150d;border:1px solid var(--line-gold,#6b521f);color:var(--gold2,#e5c96b);" +
-        "padding:3px 9px;border-radius:8px;pointer-events:none}" +
-      "[data-theme=\"light\"] .ha-fab{background:linear-gradient(160deg,#f0e6cf,#e2d2ac);color:var(--gold3,#7a5c14)}" +
-      "[data-theme=\"light\"] .ha-fab .ha-fab-lbl{background:#f5f0e6;color:var(--gold3,#7a5c14)}" +
+      ".ha-fab .ha-fab-lbl{position:absolute;left:66px;white-space:nowrap;font-size:12px;font-weight:600;font-family:var(--sans,sans-serif);" +
+        "background:#b0231c;border:1px solid var(--gold2,#e5c96b);color:#ffe9c2;" +
+        "padding:3px 9px;border-radius:8px;pointer-events:none;box-shadow:0 2px 8px rgba(0,0,0,.3)}" +
       "@media(max-width:640px){.ha-fab .ha-fab-lbl{display:none}}" +
       /* panel chat nhỏ góc trái-dưới */
-      ".ha-panel{position:fixed;left:16px;bottom:84px;z-index:45;width:min(360px,calc(100vw - 32px));" +
+      ".ha-panel{position:fixed;left:16px;bottom:88px;z-index:45;width:min(360px,calc(100vw - 32px));" +
         "max-height:70vh;display:none;flex-direction:column;overflow:hidden;" +
-        "background:var(--card-bg,#1d160d);border:1px solid var(--line-gold,#6b521f);border-radius:14px;" +
-        "box-shadow:0 12px 34px rgba(0,0,0,.5)}" +
+        "background:var(--card-bg,#1d160d);border:1.5px solid var(--gold2,#e5c96b);border-radius:14px;" +
+        "box-shadow:0 14px 40px rgba(0,0,0,.55),0 0 0 3px rgba(176,35,28,.18)}" +
       ".ha-panel.show{display:flex}" +
       "@media(max-width:640px){.ha-panel{left:8px;right:8px;width:auto}}" +
-      ".ha-head{display:flex;align-items:center;gap:8px;padding:10px 14px;border-bottom:1px solid var(--line2,#4a3b22);flex:0 0 auto}" +
-      ".ha-title{font-weight:700;font-size:14.5px;color:var(--text,#e8dfc8)}" +
+      ".ha-head{display:flex;align-items:center;gap:8px;padding:11px 14px;border-bottom:1px solid var(--line-gold,#6b521f);flex:0 0 auto;background:linear-gradient(90deg,rgba(176,35,28,.20),rgba(229,201,107,.10))}" +
+      ".ha-title{font-weight:700;font-size:14.5px;color:var(--gold2,#e5c96b)}" +
       ".ha-close{margin-left:auto;background:none;border:none;color:var(--muted,#a99d84);font-size:17px;cursor:pointer;padding:2px 6px;flex:0 0 auto}" +
       ".ha-body{flex:1 1 auto;overflow-y:auto;padding:12px;display:flex;flex-direction:column;gap:10px;min-height:110px;" +
         "scrollbar-width:thin;scrollbar-color:var(--line2,#4a3b22) transparent}" +
