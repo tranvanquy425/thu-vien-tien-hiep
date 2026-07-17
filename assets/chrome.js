@@ -55,41 +55,47 @@
   function ensureData() {
     if (loading) return loading;
     loading = (async () => {
-      const ps = [];
+      INDEX = [];
       for (const b of boList) {
-        if (!(window.LIB_DATA && window.LIB_DATA[b.slug])) ps.push(loadScript("data/" + b.slug + "/data.js"));
+        // (2026-07-17) CHẾ ĐỘ SHARD: dùng search-index.json NHỎ (vài trăm KB) thay vì nạp cả data.js 17MB.
+        if (b.shardBase) {
+          try { const r = await fetch(b.shardBase + "/search-index.json"); addIndexFromShard(b, await r.json()); continue; }
+          catch (e) { /* lỗi index → rơi xuống nạp data.js như cũ */ }
+        }
+        if (!(window.LIB_DATA && window.LIB_DATA[b.slug])) await loadScript("data/" + b.slug + "/data.js");
+        buildIndexForBo(b);
       }
-      await Promise.all(ps);
-      buildIndex();
     })();
     return loading;
   }
-  function buildIndex() {
-    INDEX = [];
-    const DATA = window.LIB_DATA || {};
-    for (const b of boList) {
-      const d = DATA[b.slug]; if (!d) continue;
-      const bo = b.slug, boTen = b.ten;
-      const add = (type, name, aliases, link) => INDEX.push({ type, name, aliases: (aliases || []).join(", "), bo, boTen, link, hay: norm([name].concat(aliases || []).join(" ")) });
-      // Nhân vật — dẫn thẳng tới drawer tiểu sử (?char=id)
-      if (d.characters && d.characters.chars) d.characters.chars.forEach(c =>
-        add("Nhân vật", c.name, c.aliases, "bo.html?bo=" + bo + "&char=" + encodeURIComponent(c.id) + "#nhan-vat"));
-      // Pháp bảo (?artifact=index trong mảng)
-      if (d.artifacts && d.artifacts.artifacts) d.artifacts.artifacts.forEach((a, i) =>
-        add("Pháp bảo", a.name, a.aliases, "bo.html?bo=" + bo + "&artifact=" + i + "#phap-bao"));
-      // Công pháp (?tech=index)
-      if (d.techniques && d.techniques.techniques) d.techniques.techniques.forEach((t, i) =>
-        add("Công pháp", t.name, t.aliases, "bo.html?bo=" + bo + "&tech=" + i + "#cong-phap"));
-      // Cảnh giới (?realm=id)
-      if (d.realms && d.realms.realms) d.realms.realms.forEach(r =>
-        add("Cảnh giới", r.name, r.aliases, "bo.html?bo=" + bo + "&realm=" + encodeURIComponent(r.id) + "#canh-gioi"));
-      // Địa điểm (?place=id) — key đúng là map.nodes (app.js render từ nodes)
-      if (d.map && d.map.nodes) d.map.nodes.forEach(p =>
-        add("Địa điểm", p.name, p.aliases, "bo.html?bo=" + bo + "&place=" + encodeURIComponent(p.id) + "#map"));
-      // Thế lực (mở mục Nhân Vật — thế lực hiển thị trong đó)
-      if (d.factions && d.factions.factions) d.factions.factions.forEach(f =>
-        add("Thế lực", f.name, f.aliases, "bo.html?bo=" + bo + "#nhan-vat"));
-    }
+  // Dựng index từ file search-index.json (mảng {t:loại, n:tên, a:[biệt danh], id}) — link theo id
+  function addIndexFromShard(b, arr) {
+    const bo = b.slug, boTen = b.ten;
+    const LINK = {
+      "Nhân vật": id => "bo.html?bo=" + bo + "&char=" + encodeURIComponent(id) + "#nhan-vat",
+      "Pháp bảo": id => "bo.html?bo=" + bo + "&artifact=" + encodeURIComponent(id) + "#phap-bao",
+      "Công pháp": id => "bo.html?bo=" + bo + "&tech=" + encodeURIComponent(id) + "#cong-phap",
+      "Cảnh giới": id => "bo.html?bo=" + bo + "&realm=" + encodeURIComponent(id) + "#canh-gioi",
+      "Địa điểm": id => "bo.html?bo=" + bo + "&place=" + encodeURIComponent(id) + "#map",
+      "Thế lực": () => "bo.html?bo=" + bo + "#the-luc"
+    };
+    (arr || []).forEach(it => {
+      const mk = LINK[it.t]; if (!mk || !it.n) return;
+      const aliases = it.a || [];
+      INDEX.push({ type: it.t, name: it.n, aliases: aliases.join(", "), bo, boTen, link: mk(it.id), hay: norm([it.n].concat(aliases).join(" ")) });
+    });
+  }
+  // Dựng index từ LIB_DATA (chế độ non-shard: data.js đã nạp) — link pháp bảo/công pháp theo INDEX mảng
+  function buildIndexForBo(b) {
+    const d = (window.LIB_DATA || {})[b.slug]; if (!d) return;
+    const bo = b.slug, boTen = b.ten;
+    const add = (type, name, aliases, link) => INDEX.push({ type, name, aliases: (aliases || []).join(", "), bo, boTen, link, hay: norm([name].concat(aliases || []).join(" ")) });
+    if (d.characters && d.characters.chars) d.characters.chars.forEach(c => add("Nhân vật", c.name, c.aliases, "bo.html?bo=" + bo + "&char=" + encodeURIComponent(c.id) + "#nhan-vat"));
+    if (d.artifacts && d.artifacts.artifacts) d.artifacts.artifacts.forEach((a, i) => add("Pháp bảo", a.name, a.aliases, "bo.html?bo=" + bo + "&artifact=" + i + "#phap-bao"));
+    if (d.techniques && d.techniques.techniques) d.techniques.techniques.forEach((t, i) => add("Công pháp", t.name, t.aliases, "bo.html?bo=" + bo + "&tech=" + i + "#cong-phap"));
+    if (d.realms && d.realms.realms) d.realms.realms.forEach(r => add("Cảnh giới", r.name, r.aliases, "bo.html?bo=" + bo + "&realm=" + encodeURIComponent(r.id) + "#canh-gioi"));
+    if (d.map && d.map.nodes) d.map.nodes.forEach(p => add("Địa điểm", p.name, p.aliases, "bo.html?bo=" + bo + "&place=" + encodeURIComponent(p.id) + "#map"));
+    if (d.factions && d.factions.factions) d.factions.factions.forEach(f => add("Thế lực", f.name, f.aliases, "bo.html?bo=" + bo + "#nhan-vat"));
   }
   function highlight(name, q) {
     const nn = norm(name), i = nn.indexOf(q);
