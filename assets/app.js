@@ -53,7 +53,8 @@
   async function loadEntity(name, demoKey) {
     const D = (window.LIB_DATA || {})[slug];           // dữ liệu thật (data.js) — ưu tiên, chạy cả local
     if (D && D[demoKey]) return D[demoKey];
-    try { return await loadJson(bo.dataBase + "/" + name + ".json"); }
+    // Chế độ SHARD (tối ưu tải): nếu bo.shardBase có → fetch từng mảnh <name>.json từ đó; không → dataBase như cũ.
+    try { return await loadJson((bo.shardBase || bo.dataBase) + "/" + name + ".json"); }
     catch (e) { usedDemo = true; return DEMO[demoKey] || null; }
   }
   function readerBaseUrl() { return bo.readerBase + (readerState.phanBase || ""); }   // nối base của PHẦN đang chọn
@@ -75,7 +76,7 @@
   async function loadCotTruyen(quyen) {
     const D = (window.LIB_DATA || {})[slug];
     if (D && D.cotTruyen && D.cotTruyen[quyen]) return D.cotTruyen[quyen];
-    try { return await loadJson(bo.dataBase + "/cot-truyen/" + quyen + ".json"); }
+    try { return await loadJson((bo.shardBase || bo.dataBase) + "/cot-truyen/" + quyen + ".json"); }
     catch (e) { usedDemo = true; return (DEMO.cotTruyen && DEMO.cotTruyen[quyen]) || []; }
   }
   // Gộp MỌI nhóm cotTruyen (q01/q02/…) thành 1 mảng phẳng theo chương — để lọc theo QUYỂN GỐC (quyenList).
@@ -93,59 +94,53 @@
   }
 
   const DB = {};
-  async function preload() {
-    const [chars, realms, arts, techs, map, facs, vols] = await Promise.all([
-      loadEntity("characters", "characters"), loadEntity("realms", "realms"),
-      loadEntity("artifacts", "artifacts"), loadEntity("techniques", "techniques"),
-      loadEntity("map", "map"), loadEntity("factions", "factions"), loadEntity("volumes", "volumes")
-    ]);
-    DB.chars = (chars && chars.chars) || [];
-    DB.realms = ((realms && realms.realms) || []).slice().sort((a, b) => (a.capBac || 0) - (b.capBac || 0));
-    DB.heThong = (realms && realms.heThong) || [];
-    DB.doiChieu = (realms && realms.doiChieu) || [];
-    DB.realmsGhiChu = (realms && realms.ghiChu) || "";
-    DB.linhLuc = ((window.LIB_DATA || {})[slug] || {}).linhLuc || null;
-    DB.artifacts = (arts && arts.artifacts) || [];
-    DB.techniques = (techs && techs.techniques) || [];
-    DB.mapNodes = (map && map.nodes) || [];
-    DB.capBac = ((window.LIB_DATA || {})[slug] || {}).capBac || null;
-    DB.factions = (facs && facs.factions) || [];
-    DB.volumes = (vols && vols.volumes) || [];
-    DB.quyenList = ((window.LIB_DATA || {})[slug] || {}).quyenList || [];
-    // ƯU TIÊN HIỂN THỊ: thẻ quan trọng A→B→C→D lên trên (rank do build_datajs tự chấm). Ổn định trong cùng hạng.
-    //   Lọc/tìm kiếm giữ thứ tự → A+B luôn ở trên, C+D ở dưới. KHÔNG ẩn thẻ nào.
-    // (2026-07-03 V2-Steward 1moc-ghim) NHÂN VẬT CHÍNH thật (bo.nhanVatChinh) GHIM ĐẦU danh sách nhân vật,
-    //   trước cả rank A khác. Chỉ áp cho DB.chars — artifacts/techniques/map/factions vẫn A→B→C→D như cũ.
-    (function uuTienRank() {
-      var thuTu = { A: 0, B: 1, C: 2, D: 3 };
-      function sapRank(arr) {
-        if (!Array.isArray(arr)) return arr || [];
-        return arr.map(function (x, i) { return { x: x, i: i }; })
-          .sort(function (a, b) {
-            var ra = thuTu[(a.x && a.x.rank)]; if (ra == null) ra = 2;
-            var rb = thuTu[(b.x && b.x.rank)]; if (rb == null) rb = 2;
-            return ra !== rb ? ra - rb : a.i - b.i;
-          }).map(function (o) { return o.x; });
-      }
-      var nvcSet = new Set((bo && Array.isArray(bo.nhanVatChinh)) ? bo.nhanVatChinh : []);
-      function sapRankNhanVat(arr) {
-        if (!Array.isArray(arr)) return arr || [];
-        return arr.map(function (x, i) { return { x: x, i: i }; })
-          .sort(function (a, b) {
-            var ta = nvcSet.has(a.x && a.x.id) ? -1 : 0;
-            var tb = nvcSet.has(b.x && b.x.id) ? -1 : 0;
-            if (ta !== tb) return ta - tb;
-            var ra = thuTu[(a.x && a.x.rank)]; if (ra == null) ra = 2;
-            var rb = thuTu[(b.x && b.x.rank)]; if (rb == null) rb = 2;
-            return ra !== rb ? ra - rb : a.i - b.i;
-          }).map(function (o) { return o.x; });
-      }
-      DB.chars = sapRankNhanVat(DB.chars);
-      DB.artifacts = sapRank(DB.artifacts);
-      DB.techniques = sapRank(DB.techniques);
-      DB.mapNodes = sapRank(DB.mapNodes);
-      DB.factions = sapRank(DB.factions);
+  // --- ranking helpers (trước nằm trong uuTienRank của preload) ---
+  var _thuTu = { A: 0, B: 1, C: 2, D: 3 };
+  function _sapRank(arr) {
+    if (!Array.isArray(arr)) return arr || [];
+    return arr.map(function (x, i) { return { x: x, i: i }; }).sort(function (a, b) {
+      var ra = _thuTu[(a.x && a.x.rank)]; if (ra == null) ra = 2;
+      var rb = _thuTu[(b.x && b.x.rank)]; if (rb == null) rb = 2;
+      return ra !== rb ? ra - rb : a.i - b.i;
+    }).map(function (o) { return o.x; });
+  }
+  function _sapRankNhanVat(arr) {
+    if (!Array.isArray(arr)) return arr || [];
+    var nvcSet = new Set((bo && Array.isArray(bo.nhanVatChinh)) ? bo.nhanVatChinh : []);
+    return arr.map(function (x, i) { return { x: x, i: i }; }).sort(function (a, b) {
+      var ta = nvcSet.has(a.x && a.x.id) ? -1 : 0, tb = nvcSet.has(b.x && b.x.id) ? -1 : 0;
+      if (ta !== tb) return ta - tb;
+      var ra = _thuTu[(a.x && a.x.rank)]; if (ra == null) ra = 2;
+      var rb = _thuTu[(b.x && b.x.rank)]; if (rb == null) rb = 2;
+      return ra !== rb ? ra - rb : a.i - b.i;
+    }).map(function (o) { return o.x; });
+  }
+  // NẠP LƯỜI THEO TAB: mỗi entity chỉ tải khi view cần → cache. loadEntity đọc LIB_DATA trước (non-shard: monolith,
+  //   tức thì), không có thì fetch <shardBase>/<name>.json (shard: chỉ tải khi mở đúng tab) → hết cảnh tải 17MB lúc đầu.
+  var _ensured = {};
+  function ensure(name) {
+    if (_ensured[name]) return _ensured[name];
+    _ensured[name] = (async function () {
+      var d;
+      if (name === 'characters') { d = await loadEntity('characters', 'characters'); DB.chars = _sapRankNhanVat((d && d.chars) || []); }
+      else if (name === 'realms') { d = await loadEntity('realms', 'realms'); DB.realms = ((d && d.realms) || []).slice().sort(function (a, b) { return (a.capBac || 0) - (b.capBac || 0); }); DB.heThong = (d && d.heThong) || []; DB.doiChieu = (d && d.doiChieu) || []; DB.realmsGhiChu = (d && d.ghiChu) || ""; }
+      else if (name === 'artifacts') { d = await loadEntity('artifacts', 'artifacts'); DB.artifacts = _sapRank((d && d.artifacts) || []); }
+      else if (name === 'techniques') { d = await loadEntity('techniques', 'techniques'); DB.techniques = _sapRank((d && d.techniques) || []); }
+      else if (name === 'map') { d = await loadEntity('map', 'map'); DB.mapNodes = _sapRank((d && d.nodes) || []); }
+      else if (name === 'factions') { d = await loadEntity('factions', 'factions'); DB.factions = _sapRank((d && d.factions) || []); }
+      else if (name === 'volumes') { d = await loadEntity('volumes', 'volumes'); DB.volumes = (d && d.volumes) || []; }
+      if (usedDemo) $("#demoBanner").style.display = "";
     })();
+    return _ensured[name];
+  }
+  async function preload() {
+    // Chỉ nạp phần NHỎ đọc trực tiếp từ LIB_DATA (shard: core.js; non-shard: monolith). Entity lớn để view tự ensure().
+    var D0 = (window.LIB_DATA || {})[slug] || {};
+    DB.linhLuc = D0.linhLuc || null;
+    DB.capBac = D0.capBac || null;
+    DB.quyenList = D0.quyenList || [];
+    DB.volumes = DB.volumes || []; DB.chars = DB.chars || []; DB.artifacts = DB.artifacts || []; DB.techniques = DB.techniques || [];
+    DB.mapNodes = DB.mapNodes || []; DB.factions = DB.factions || []; DB.realms = DB.realms || []; DB.heThong = DB.heThong || []; DB.doiChieu = DB.doiChieu || []; DB.realmsGhiChu = DB.realmsGhiChu || "";
     if (usedDemo) $("#demoBanner").style.display = "";
   }
 
@@ -244,6 +239,7 @@
 
   /* --- 2. Cốt Truyện --- */
   async function viewCotTruyen() {
+    await ensure('volumes');
     // Dùng QUYỂN GỐC (quyenList — ranh giới nguyên tác Nhĩ Căn) thay vì volumes cũ (mốc 100/220 sai).
     const QL = (DB.quyenList || []).slice().sort((a, b) => (a.start || 0) - (b.start || 0));
     view.innerHTML =
@@ -286,7 +282,8 @@
   }
 
   /* --- 3. Nhân Vật --- */
-  function viewNhanVat() {
+  async function viewNhanVat() {
+    await ensure('characters');
     const chars = DB.chars;
     const theLucs = [...new Set(chars.flatMap(tlArr))];
     view.innerHTML =
@@ -317,8 +314,11 @@
     }
     $("#nvSearch").oninput = draw; $("#nvTheLuc").onchange = draw; draw();
   }
-  function openChar(id) {
+  async function openChar(id) {
+    await ensure('characters');
     const c = DB.chars.find(x => x.id === id); if (!c) return;
+    openDrawer(c.name, c.cn, '<div class="loading">Đang tải…</div>');   // hiện drawer ngay, chờ túi đồ (pháp bảo/công pháp)
+    await ensure('artifacts'); await ensure('techniques');
     const t = c.tabs || {};
     // --- Bộ lọc theo QUYỂN cho Kinh lịch ---
     // Mỗi sự kiện có neo chương (vd "@c0007", "@c0023-c0036"). Lấy số chương ĐẦU để xếp vào quyển.
@@ -663,7 +663,8 @@
     apply();
   }
 
-  function viewMap() {
+  async function viewMap() {
+    await ensure('map');
     var cb = DB.capBac;
     var svgBlock = "";
     if (cb && cb.capList && cb.capList.length) {
@@ -718,7 +719,8 @@
   }
 
   /* --- 5. Cảnh Giới --- */
-  function viewCanhGioi() {
+  async function viewCanhGioi() {
+    await ensure('realms');
     const realms = DB.realms, heThong = DB.heThong || [], doiChieu = DB.doiChieu || [];
     if (!realms.length) { view.innerHTML = '<div class="page-head"><h1>Cảnh Giới</h1></div><div class="empty">Chưa có dữ liệu cảnh giới.</div>'; return; }
     const heChinh = heThong.find(h => h.chinh) || heThong[0];
@@ -878,7 +880,7 @@
       $("#gCount").textContent = list.length + " mục";
       $("#gGrid").innerHTML = list.length ? list.map((it, i) =>
         // (2026-07-03 V2-Steward 1moc-ghim) badge hạng thẻ: rank A = "★ Trọng yếu"; rank B/C/D không badge nữa.
-        '<div class="card" data-i="' + items.indexOf(it) + '"><h3>' + esc(it.name) + (it.cn ? ' <span class="cn">' + esc(it.cn) + '</span>' : '') +
+        '<div class="card" data-i="' + items.indexOf(it) + '" data-id="' + esc(it.id || "") + '"><h3>' + esc(it.name) + (it.cn ? ' <span class="cn">' + esc(it.cn) + '</span>' : '') +
           (it.rank === 'A' ? ' <span class="rank-badge rank-a">★ Trọng yếu</span>' : '') + '</h3>' +
         '<div class="meta-row">' + (getCat(it) ? '<span class="chip gold">' + esc(getCat(it)) + '</span>' : '') +
         (it.phamCap ? '<span class="chip">' + esc(it.phamCap) + '</span>' : '') +
@@ -1005,7 +1007,8 @@
     wireDrawerTabs();
   }
 
-  function viewPhapBao() {
+  async function viewPhapBao() {
+    await ensure('artifacts');
     gridView({
       title: "Pháp Bảo", sub: DB.artifacts.length + " mục", items: DB.artifacts,
       getCat: it => it.categoryLabel || it.category,
@@ -1024,7 +1027,8 @@
         ]))
     });
   }
-  function viewCongPhap() {
+  async function viewCongPhap() {
+    await ensure('techniques');
     gridView({
       title: "Công Pháp", sub: DB.techniques.length + " mục", items: DB.techniques,
       getCat: it => it.loaiLabel || it.loai,
@@ -1043,7 +1047,8 @@
   }
 
   // (2026-07-06 V2-Steward) Mục Thế Lực — data factions đã có sẵn, trước đây thiếu route hiển thị.
-  function viewTheLuc() {
+  async function viewTheLuc() {
+    await ensure('factions');
     gridView({
       title: "Thế Lực", sub: DB.factions.length + " mục", items: DB.factions,
       getCat: it => it.typeLabel || it.type,
@@ -1061,12 +1066,13 @@
 
   /* ======================= router ======================= */
   const ROUTES = { "doc": viewDoc, "cot-truyen": viewCotTruyen, "nhan-vat": viewNhanVat, "the-luc": viewTheLuc, "map": viewMap, "canh-gioi": viewCanhGioi, "phap-bao": viewPhapBao, "cong-phap": viewCongPhap };
-  function route() {
+  async function route() {
     const id = (location.hash.replace("#", "") || (MUC[0] && MUC[0].id));
     nav.querySelectorAll("a").forEach(a => a.classList.toggle("active", a.dataset.id === id));
     closeDrawer();
     const fn = ROUTES[id] || viewDoc;
-    fn();
+    view.innerHTML = '<div class="loading">Đang tải…</div>';   // hiện chờ trong lúc ensure() nạp dữ liệu tab
+    await fn();
     openDeep(id);   // deep-link: mở thẳng drawer entity nếu URL có ?char=/?place=/?realm=/?artifact=/?tech=
   }
   // Dẫn thẳng tới 1 thực thể: đọc param trên URL, sau khi mục đã render thì click element tương ứng
@@ -1078,8 +1084,8 @@
       "nhan-vat":  { key: "char",     sel: id => '#nvGrid .card[data-id="' + cssq(id) + '"]' },
       "map":       { key: "place",    sel: id => '#mapTree .node[data-id="' + cssq(id) + '"]' },
       "canh-gioi": { key: "realm",    sel: id => '#ladder .rung[data-id="' + cssq(id) + '"]' },
-      "phap-bao":  { key: "artifact", sel: ix => '#gGrid .card[data-i="' + cssq(ix) + '"]' },
-      "cong-phap": { key: "tech",     sel: ix => '#gGrid .card[data-i="' + cssq(ix) + '"]' }
+      "phap-bao":  { key: "artifact", sel: v => '#gGrid .card[data-i="' + cssq(v) + '"], #gGrid .card[data-id="' + cssq(v) + '"]' },
+      "cong-phap": { key: "tech",     sel: v => '#gGrid .card[data-i="' + cssq(v) + '"], #gGrid .card[data-id="' + cssq(v) + '"]' }
     };
     const m = map[viewId]; if (!m) return;
     const val = p.get(m.key); if (!val) return;
