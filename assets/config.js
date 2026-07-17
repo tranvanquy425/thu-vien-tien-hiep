@@ -16,6 +16,8 @@ window.LIB_CONFIG = {
       dataBase: "data/tien-nghich",
       // (2026-07-06 V2-Steward) file GỘP LỚN (data.js/cotTruyen.js) nay ở R2 (gỡ khỏi git, hết trần 5MB). bo.html nạp từ đây, fallback local.
       dataR2: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/tien-nghich/data",
+      // ⚡ Bước 1 tối ưu tải: chạy shard_data.js → upload shards/ lên R2 → ĐIỀN URL …/tien-nghich/shards vào đây. Rỗng = chạy như cũ (data.js 17MB).
+      shardBase: "",
       // (2026-07-03 V2-Steward 1moc-ghim) chỉ NHÂN VẬT CHÍNH thật mới được badge "★ Nhân vật chính" + ghim đầu danh sách.
       nhanVatChinh: ["vuong-lam"]
     },
@@ -26,6 +28,7 @@ window.LIB_CONFIG = {
       readerBase: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/pham-nhan-tu-tien/reader",
       dataBase: "data/pham-nhan-tu-tien",
       dataR2: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/pham-nhan-tu-tien/data",
+      shardBase: "",   // ⚡ điền …/pham-nhan-tu-tien/shards sau khi upload (rỗng = như cũ)
       // Bộ có NHIỀU PHẦN: mỗi phần 1 thư mục reader riêng (base nối sau readerBase). 1 phần → bỏ qua, reader chạy như cũ.
       phanList: [
         { phan: 1, ten: "Phần 1 · Vong Ngữ", base: "" },
@@ -41,6 +44,7 @@ window.LIB_CONFIG = {
       readerBase: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/the-gioi-hoan-my/reader",
       dataBase: "data/the-gioi-hoan-my",
       dataR2: "https://pub-658fed66a0f7435ea298fac5be78815b.r2.dev/the-gioi-hoan-my/data",
+      shardBase: "",   // ⚡ điền …/the-gioi-hoan-my/shards sau khi upload (rỗng = như cũ)
       // (2026-07-03 V2-Steward 1moc-ghim) chỉ NHÂN VẬT CHÍNH thật mới được badge "★ Nhân vật chính" + ghim đầu danh sách.
       nhanVatChinh: ["thach-hao"]
     }
