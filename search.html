@@ -63,27 +63,40 @@
 </script>
 
 <script>
-// Dynamically load data.js + cotTruyen.js for each bộ
+// Nạp index nhẹ khi có shards; fallback về dataR2/dataBase cho bộ chưa bật shard.
 const CFG = window.LIB_CONFIG;
 const boList = CFG.boList || [];
+const SEARCH_INDEX = new Map();
 
 function loadScript(src) {
   return new Promise((ok, fail) => {
     const s = document.createElement("script");
     s.src = src;
     s.onload = ok;
-    s.onerror = fail;
+    s.onerror = () => fail(new Error("Không tải được " + src));
     document.head.appendChild(s);
   });
 }
 
-async function loadAllData() {
-  const promises = [];
-  for (const b of boList) {
-    promises.push(loadScript("data/" + b.slug + "/data.js").catch(() => {}));
-    promises.push(loadScript("data/" + b.slug + "/cotTruyen.js").catch(() => {}));
+async function loadBookSearchData(b) {
+  if (b.shardBase) {
+    const r = await fetch(b.shardBase + "/search-index.json");
+    if (!r.ok) throw new Error("Search index HTTP " + r.status);
+    SEARCH_INDEX.set(b.slug, await r.json());
+    return;
   }
-  await Promise.all(promises);
+  const base = b.dataR2 || b.dataBase || ("data/" + b.slug);
+  await Promise.all([
+    loadScript(base + "/data.js"),
+    loadScript(base + "/cotTruyen.js").catch(() => {})
+  ]);
+}
+
+async function loadAllData() {
+  const results = await Promise.allSettled(boList.map(loadBookSearchData));
+  if (results.length && results.every(r => r.status === "rejected")) {
+    throw new Error("Không tải được dữ liệu tìm kiếm");
+  }
 }
 
 function normalize(s) {
@@ -91,6 +104,63 @@ function normalize(s) {
   return (s || "").toLowerCase()
     .normalize("NFD").replace(/[̀-ͯ]/g, "")
     .replace(/đ/g, "d").replace(/Đ/g, "D");
+}
+
+function characterSearchResults(book, characters, query) {
+  const redirects = characters && characters.redirects && typeof characters.redirects === "object" ? characters.redirects : {};
+  const chars = characters && Array.isArray(characters.chars) ? characters.chars : [];
+  const byId = new Map(chars.filter(c => c && typeof c.id === "string").map(c => [c.id, c]));
+  const emitted = new Set();
+  const output = [];
+  const resolve = id => {
+    const redirect = Object.prototype.hasOwnProperty.call(redirects, id) ? redirects[id] : null;
+    if (!redirect) return id;
+    if (!redirect.to || Object.prototype.hasOwnProperty.call(redirects, redirect.to) || !byId.has(redirect.to)) throw new Error("Identity redirect không hợp lệ: " + id);
+    return redirect.to;
+  };
+  const emit = (inputId, fields) => {
+    if (!fields.some(value => normalize(value).includes(query))) return;
+    const mainId = resolve(inputId);
+    const main = byId.get(mainId);
+    if (!main) throw new Error("Identity target bị thiếu: " + mainId);
+    const key = book.slug + "|" + mainId;
+    if (emitted.has(key)) return;
+    emitted.add(key);
+    const identities = Array.isArray(main.thanPhanKhac) ? main.thanPhanKhac : [];
+    output.push({ type: "Nhân vật", name: main.name, bo: book.ten,
+      link: "bo.html?bo=" + book.slug + "&char=" + encodeURIComponent(mainId) + "#nhan-vat",
+      aliases: (main.aliases || []).concat(identities.map(x => x && x.name).filter(Boolean)).join(", ") });
+  };
+  for (const c of chars) {
+    if (!c || typeof c.id !== "string") continue;
+    const identities = Array.isArray(c.thanPhanKhac) ? c.thanPhanKhac : [];
+    emit(c.id, [c.id, c.name, ...(c.aliases || []), ...identities.flatMap(x => [x && x.name, ...((x && x.aliases) || []), ...((x && x.oldIds) || [])]), c.vaiTro || ""].filter(Boolean));
+  }
+  for (const oldId of Object.keys(redirects).sort()) emit(oldId, [oldId]);
+  return output;
+}
+
+function searchIndexResults(book, index, query) {
+  const LINK = {
+    "Nhân vật": id => "bo.html?bo=" + book.slug + "&char=" + encodeURIComponent(id) + "#nhan-vat",
+    "Pháp bảo": id => "bo.html?bo=" + book.slug + "&artifact=" + encodeURIComponent(id) + "#phap-bao",
+    "Công pháp": id => "bo.html?bo=" + book.slug + "&tech=" + encodeURIComponent(id) + "#cong-phap",
+    "Cảnh giới": id => "bo.html?bo=" + book.slug + "&realm=" + encodeURIComponent(id) + "#canh-gioi",
+    "Địa điểm": id => "bo.html?bo=" + book.slug + "&place=" + encodeURIComponent(id) + "#map",
+    "Thế lực": id => "bo.html?bo=" + book.slug + "&faction=" + encodeURIComponent(id) + "#the-luc"
+  };
+  return (index || []).filter(it => {
+    const fields = [it.n, ...((it && it.a) || [])].filter(Boolean);
+    return fields.some(value => normalize(value).includes(query));
+  }).map(it => ({
+    type: it.t, name: it.n, bo: book.ten,
+    link: LINK[it.t] ? LINK[it.t](it.id) : "bo.html?bo=" + book.slug,
+    aliases: (it.a || []).join(", ")
+  }));
+}
+
+function shardSearchResults(book, index, query) {
+  return searchIndexResults(book, index, query);
 }
 
 function search(query) {
@@ -101,19 +171,18 @@ function search(query) {
   const CT = window.LIB_COTTRUYEN || {};
 
   for (const b of boList) {
+    if (SEARCH_INDEX.has(b.slug)) {
+      results.push(...shardSearchResults(b, SEARCH_INDEX.get(b.slug), q));
+      continue;
+    }
     const d = DATA[b.slug];
     if (!d) continue;
     const boName = b.ten;
     const boSlug = b.slug;
 
-    // Characters — dẫn thẳng tới drawer tiểu sử
+    // Characters — resolve redirect trực tiếp rồi dedupe theo book_slug + main ID.
     if (d.characters && d.characters.chars) {
-      for (const c of d.characters.chars) {
-        const fields = [c.name, ...(c.aliases || []), c.vaiTro || ""];
-        if (fields.some(f => normalize(f).includes(q))) {
-          results.push({ type: "Nhân vật", name: c.name, bo: boName, link: "bo.html?bo=" + boSlug + "&char=" + encodeURIComponent(c.id) + "#nhan-vat", aliases: (c.aliases||[]).join(", ") });
-        }
-      }
+      results.push(...characterSearchResults(b, d.characters, q));
     }
 
     // Artifacts — dẫn thẳng tới drawer
@@ -121,7 +190,7 @@ function search(query) {
       d.artifacts.artifacts.forEach((a, i) => {
         const fields = [a.name, ...(a.aliases || [])];
         if (fields.some(f => normalize(f).includes(q))) {
-          results.push({ type: "Pháp bảo", name: a.name, bo: boName, link: "bo.html?bo=" + boSlug + "&artifact=" + i + "#phap-bao", aliases: (a.aliases||[]).join(", ") });
+          results.push({ type: "Pháp bảo", name: a.name, bo: boName, link: "bo.html?bo=" + boSlug + "&artifact=" + encodeURIComponent(a.id != null ? a.id : i) + "#phap-bao", aliases: (a.aliases||[]).join(", ") });
         }
       });
     }
@@ -131,7 +200,7 @@ function search(query) {
       d.techniques.techniques.forEach((t, i) => {
         const fields = [t.name, ...(t.aliases || [])];
         if (fields.some(f => normalize(f).includes(q))) {
-          results.push({ type: "Công pháp", name: t.name, bo: boName, link: "bo.html?bo=" + boSlug + "&tech=" + i + "#cong-phap", aliases: (t.aliases||[]).join(", ") });
+          results.push({ type: "Công pháp", name: t.name, bo: boName, link: "bo.html?bo=" + boSlug + "&tech=" + encodeURIComponent(t.id != null ? t.id : i) + "#cong-phap", aliases: (t.aliases||[]).join(", ") });
         }
       });
     }
@@ -159,20 +228,19 @@ function search(query) {
       for (const f of d.factions.factions) {
         const fields = [f.name, ...(f.aliases || [])];
         if (fields.some(x => normalize(x).includes(q))) {
-          results.push({ type: "Thế lực", name: f.name, bo: boName, link: "bo.html?bo=" + boSlug + "#nhan-vat" });
+          results.push({ type: "Thế lực", name: f.name, bo: boName, link: "bo.html?bo=" + boSlug + "&faction=" + encodeURIComponent(f.id || "") + "#the-luc", aliases: (f.aliases||[]).join(", ") });
         }
       }
     }
 
-    // Cốt truyện
-    const ct = CT[boSlug];
-    if (ct && Array.isArray(ct)) {
-      for (const ep of ct) {
-        const tieuDe = ep.tieuDe || ep.title || "";
-        const tomTat = ep.tomTat || ep.summary || "";
-        if (normalize(tieuDe).includes(q) || normalize(tomTat).includes(q)) {
-          results.push({ type: "Cốt truyện", name: tieuDe || tomTat.slice(0, 60), bo: boName, link: "bo.html?bo=" + boSlug + "#cot-truyen" });
-        }
+    // Cốt truyện — builder hiện gắn vào LIB_DATA[slug].cotTruyen theo từng quyển.
+    const ct = (d.cotTruyen && typeof d.cotTruyen === "object") ? d.cotTruyen : CT[boSlug];
+    const episodes = Array.isArray(ct) ? ct : (ct && typeof ct === "object" ? Object.values(ct).flatMap(x => Array.isArray(x) ? x : []) : []);
+    for (const ep of episodes) {
+      const tieuDe = ep.tieuDe || ep.title || "";
+      const tomTat = ep.tomTat || ep.summary || "";
+      if (normalize(tieuDe).includes(q) || normalize(tomTat).includes(q)) {
+        results.push({ type: "Cốt truyện", name: tieuDe || tomTat.slice(0, 60), bo: boName, link: "bo.html?bo=" + boSlug + "#cot-truyen" });
       }
     }
   }
@@ -222,17 +290,22 @@ function doSearch() {
   renderResults(results, q);
 }
 
-loadAllData().then(() => {
+function initSearch() {
   const params = new URLSearchParams(location.search);
   const q = params.get("q") || "";
-  document.getElementById("searchInput").value = q;
+  const inp = document.getElementById("searchInput");
+  inp.value = q;
   if (q) doSearch();
 
-  const inp = document.getElementById("searchInput");
   let tmr = null;
-  inp.addEventListener("input", () => { clearTimeout(tmr); tmr = setTimeout(doSearch, 120); });   // lọc ngay khi gõ
+  inp.addEventListener("input", () => { clearTimeout(tmr); tmr = setTimeout(doSearch, 120); });
   inp.addEventListener("keydown", e => { if (e.key === "Enter") { clearTimeout(tmr); doSearch(); } });
   document.getElementById("searchBtn").addEventListener("click", doSearch);
+}
+
+loadAllData().then(initSearch).catch(err => {
+  document.getElementById("results").innerHTML = '<p role="alert" style="color:var(--chu2)">Không tải được dữ liệu tìm kiếm. Vui lòng thử lại sau.</p>';
+  console.error(err);
 });
 </script>
 </body>
