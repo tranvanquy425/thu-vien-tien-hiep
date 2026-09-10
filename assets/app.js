@@ -11,6 +11,7 @@
   const $ = s => document.querySelector(s);
   const view = $("#view");
   const esc = s => (s == null ? "" : String(s)).replace(/[&<>"]/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[m]));
+  const normText = s => String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d");
   const pad4 = n => String(n).padStart(4, "0");
   // Một nhân vật có thể thuộc NHIỀU thế lực (giữ tới khi rời bỏ) → theLuc là mảng (chấp cả chuỗi cũ).
   const tlName = x => typeof x === "string" ? x : (x && x.ten || "");
@@ -115,6 +116,15 @@
       return ra !== rb ? ra - rb : a.i - b.i;
     }).map(function (o) { return o.x; });
   }
+  function _identityNames(c) {
+    return (c && Array.isArray(c.thanPhanKhac) ? c.thanPhanKhac : []).flatMap(function (x) {
+      return [x && x.name].concat(x && Array.isArray(x.aliases) ? x.aliases : [], x && Array.isArray(x.oldIds) ? x.oldIds : []);
+    }).filter(Boolean);
+  }
+  function _resolveCharacterId(id) {
+    var D = (window.LIB_DATA || {})[slug] || {}, redirects = D.characters && D.characters.redirects;
+    return redirects && redirects[id] && redirects[id].to ? redirects[id].to : id;
+  }
   // NẠP LƯỜI THEO TAB: mỗi entity chỉ tải khi view cần → cache. loadEntity đọc LIB_DATA trước (non-shard: monolith,
   //   tức thì), không có thì fetch <shardBase>/<name>.json (shard: chỉ tải khi mở đúng tab) → hết cảnh tải 17MB lúc đầu.
   var _ensured = {};
@@ -159,12 +169,21 @@
 
   /* -------- drawer -------- */
   const drawer = $("#drawer"), drawerBg = $("#drawerBg");
+  let drawerReturnFocus = null;
   function openDrawer(title, cn, bodyHtml) {
+    drawerReturnFocus = document.activeElement;
     $("#dTitle").innerHTML = esc(title); $("#dCn").textContent = cn || "";
     $("#dBody").innerHTML = bodyHtml;
     drawer.classList.add("show"); drawerBg.classList.add("show");
+    drawer.setAttribute("aria-hidden", "false");
+    $("#dClose").focus();
   }
-  function closeDrawer() { drawer.classList.remove("show"); drawerBg.classList.remove("show"); }
+  function closeDrawer() {
+    const wasOpen = drawer.classList.contains("show");
+    drawer.classList.remove("show"); drawerBg.classList.remove("show");
+    drawer.setAttribute("aria-hidden", "true");
+    if (wasOpen && drawerReturnFocus && drawerReturnFocus.focus) drawerReturnFocus.focus();
+  }
   $("#dClose").onclick = closeDrawer; drawerBg.onclick = closeDrawer;
 
   /* ======================= VIEWS ======================= */
@@ -293,9 +312,9 @@
         '<span class="count" id="nvCount"></span></div>' +
       '<div id="nvGrid" class="cards grid-3"></div>';
     function draw() {
-      const q = $("#nvSearch").value.trim().toLowerCase(), tl = $("#nvTheLuc").value;
+      const q = normText($("#nvSearch").value.trim()), tl = $("#nvTheLuc").value;
       const items = chars.filter(c => {
-        const hay = (c.name + " " + (c.cn || "") + " " + (c.aliases || []).join(" ")).toLowerCase();
+        const hay = normText(c.name + " " + (c.cn || "") + " " + (c.aliases || []).join(" ") + " " + _identityNames(c).join(" "));
         return (!q || hay.includes(q)) && (!tl || tlArr(c).includes(tl));
       });
       $("#nvCount").textContent = items.length + " kết quả";
@@ -316,6 +335,7 @@
   }
   async function openChar(id) {
     await ensure('characters');
+    id = _resolveCharacterId(id);
     const c = DB.chars.find(x => x.id === id); if (!c) return;
     openDrawer(c.name, c.cn, '<div class="loading">Đang tải…</div>');   // hiện drawer ngay, chờ túi đồ (pháp bảo/công pháp)
     await ensure('artifacts'); await ensure('techniques');
@@ -414,10 +434,15 @@
       (d.chuong ? ' <a class="neo" href="#doc" data-goch="' + String(d.chuong).replace(/[^0-9]/g, "") + '">' + esc(d.chuong) + '</a>' : '') + '</div></div>').join("");
     const ib = (lbl, val, full) => val ? '<div class="iblock' + (full ? ' full' : '') + '"><div class="lbl">' + lbl + '</div><div class="val">' + val + '</div></div>' : '';
     const hanBd = [c.cn ? esc(c.cn) : '', (c.aliases && c.aliases.length) ? esc(c.aliases.join(", ")) : ''].filter(Boolean).join(" · ");
+    const thanPhanKhac = (Array.isArray(c.thanPhanKhac) ? c.thanPhanKhac : []).map(function (x) {
+      var extra = [].concat(x.aliases || [], x.oldIds || []).filter(Boolean);
+      return esc(x.name || '') + (extra.length ? ' <span class="cn">(' + extra.map(esc).join(', ') + ')</span>' : '');
+    }).join('<br>');
     const tieuSuPane =
       '<div class="info-grid">' +
         ib("Họ tên", esc(c.name)) +
         ib("Hán tự / Bí danh", hanBd || "—") +
+        ib("Thân phận khác", thanPhanKhac) +
         ib("Vai trò", esc(c.vaiTro || (c.blurb ? "" : ""))) +
         ib("Phe / Môn phái", fmtTheLuc(c)) +
         ib("Cảnh giới", fmtCanhGioi(c.canhGioiCaoNhat), true) +
@@ -875,8 +900,11 @@
       '<select id="gCat"><option value="">— Mọi loại —</option>' + cats.map(c => '<option>' + esc(c) + '</option>').join("") + '</select>' +
       '<span class="count" id="gCount"></span></div><div id="gGrid" class="cards grid-3"></div>';
     function draw() {
-      const q = $("#gSearch").value.trim().toLowerCase(), cat = $("#gCat").value;
-      const list = items.filter(it => (!q || (it.name + " " + (it.cn || "")).toLowerCase().includes(q)) && (!cat || getCat(it) === cat));
+      const q = normText($("#gSearch").value.trim()), cat = $("#gCat").value;
+      const list = items.filter(it => {
+        const hay = normText(it.name + " " + (it.cn || "") + " " + (it.aliases || []).join(" "));
+        return (!q || hay.includes(q)) && (!cat || getCat(it) === cat);
+      });
       $("#gCount").textContent = list.length + " mục";
       $("#gGrid").innerHTML = list.length ? list.map((it, i) =>
         // (2026-07-03 V2-Steward 1moc-ghim) badge hạng thẻ: rank A = "★ Trọng yếu"; rank B/C/D không badge nữa.
@@ -1072,8 +1100,13 @@
     closeDrawer();
     const fn = ROUTES[id] || viewDoc;
     view.innerHTML = '<div class="loading">Đang tải…</div>';   // hiện chờ trong lúc ensure() nạp dữ liệu tab
-    await fn();
-    openDeep(id);   // deep-link: mở thẳng drawer entity nếu URL có ?char=/?place=/?realm=/?artifact=/?tech=
+    try {
+      await fn();
+      openDeep(id);   // deep-link: mở thẳng drawer entity nếu URL có ?char=/?place=/?realm=/?artifact=/?tech=
+    } catch (error) {
+      view.innerHTML = '<div class="page-head"><h1>Không tải được dữ liệu</h1></div><div class="empty" role="alert">Mục này đang tạm thời không khả dụng. Vui lòng thử lại sau.</div>';
+      console.error(error);
+    }
   }
   // Dẫn thẳng tới 1 thực thể: đọc param trên URL, sau khi mục đã render thì click element tương ứng
   // để TÁI DÙNG đúng logic drawer hiện có (không nhân bản nội dung). Chỉ chạy 1 lần / lần điều hướng tới.
@@ -1085,10 +1118,12 @@
       "map":       { key: "place",    sel: id => '#mapTree .node[data-id="' + cssq(id) + '"]' },
       "canh-gioi": { key: "realm",    sel: id => '#ladder .rung[data-id="' + cssq(id) + '"]' },
       "phap-bao":  { key: "artifact", sel: v => '#gGrid .card[data-i="' + cssq(v) + '"], #gGrid .card[data-id="' + cssq(v) + '"]' },
-      "cong-phap": { key: "tech",     sel: v => '#gGrid .card[data-i="' + cssq(v) + '"], #gGrid .card[data-id="' + cssq(v) + '"]' }
+      "cong-phap": { key: "tech",     sel: v => '#gGrid .card[data-i="' + cssq(v) + '"], #gGrid .card[data-id="' + cssq(v) + '"]' },
+      "the-luc":   { key: "faction",  sel: v => '#gGrid .card[data-id="' + cssq(v) + '"]' }
     };
     const m = map[viewId]; if (!m) return;
-    const val = p.get(m.key); if (!val) return;
+    let val = p.get(m.key); if (!val) return;
+    if (viewId === "nhan-vat") val = _resolveCharacterId(val);
     const sig = viewId + ":" + val;
     if (_deepDone === sig) return;   // tránh mở lại khi đổi tab nội bộ
     _deepDone = sig;
@@ -1105,7 +1140,7 @@
   document.addEventListener("keydown", e => {
     if (e.key === "Escape") closeDrawer();
     if ((location.hash === "#doc" || location.hash === "") && readerState.index) {
-      if (e.target.tagName === "INPUT") return;
+      if (/^(INPUT|TEXTAREA|SELECT|BUTTON)$/.test(e.target.tagName)) return;
       if (e.key === "ArrowLeft") openCh(readerState.cur - 1);
       if (e.key === "ArrowRight") openCh(readerState.cur + 1);
     }
