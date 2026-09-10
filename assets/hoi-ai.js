@@ -1,4 +1,4 @@
-/* hoi-ai.js — Bong bóng chat nổi "Hỏi AI về bộ này" (HỎI-AI 2 TẦNG)   (2026-07-03 V2-Steward hoi-ai-bubble)
+﻿/* hoi-ai.js — Bong bóng chat nổi "Hỏi AI về bộ này" (HỎI-AI 2 TẦNG)   (2026-07-03 V2-Steward hoi-ai-bubble)
    - Chỉ chạy khi window.LIB_CONFIG.chrome.hoiAI.endpoint có URL (Steward thêm vào config.js sau).
    - UI: nút tròn nổi cố định góc TRÁI-DƯỚI (góc PHẢI đã có bong bóng Zalo/TikTok .bubbles của chrome.js);
      bấm → mở panel chat nhỏ (câu hỏi phải, trả lời trái); giữ lịch sử nhiều lượt trong RAM, KHÔNG localStorage.
@@ -30,7 +30,7 @@
     const css = document.createElement("style");
     css.textContent =
       /* nút tròn nổi góc TRÁI-dưới — ấn son chu sa + viền vàng, nổi bật trên nền tối lẫn sáng */
-      ".ha-fab{position:fixed;left:16px;bottom:20px;z-index:45;display:flex;align-items:center;justify-content:center;" +
+      ".ha-fab{position:fixed;left:16px;bottom:20px;z-index:70;display:flex;align-items:center;justify-content:center;" +
         "width:56px;height:56px;border-radius:50%;border:2px solid var(--gold2,#e5c96b);cursor:pointer;" +
         "background:radial-gradient(circle at 32% 28%,#d94b3a,#b0231c 62%,#8f1a15);color:#ffe9c2;font-size:26px;line-height:1;" +
         "box-shadow:0 4px 16px rgba(176,35,28,.55),0 0 0 4px rgba(229,201,107,.12);transition:transform .15s;animation:haPulse 2.6s ease-in-out infinite}" +
@@ -41,7 +41,7 @@
         "padding:3px 9px;border-radius:8px;pointer-events:none;box-shadow:0 2px 8px rgba(0,0,0,.3)}" +
       "@media(max-width:640px){.ha-fab .ha-fab-lbl{display:none}}" +
       /* panel chat nhỏ góc trái-dưới */
-      ".ha-panel{position:fixed;left:16px;bottom:88px;z-index:45;width:min(360px,calc(100vw - 32px));" +
+      ".ha-panel{position:fixed;left:16px;bottom:88px;z-index:70;width:min(360px,calc(100vw - 32px));" +
         "max-height:70vh;display:none;flex-direction:column;overflow:hidden;" +
         "background:var(--card-bg,#1d160d);border:1.5px solid var(--gold2,#e5c96b);border-radius:14px;" +
         "box-shadow:0 14px 40px rgba(0,0,0,.55),0 0 0 3px rgba(176,35,28,.18)}" +
