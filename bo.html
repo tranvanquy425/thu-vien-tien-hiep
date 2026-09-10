@@ -31,13 +31,13 @@
 
 <!-- drawer chi tiết dùng chung -->
 <div class="drawer-bg" id="drawerBg"></div>
-<aside class="drawer" id="drawer">
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="dTitle" aria-hidden="true">
   <header>
     <div>
       <h2 id="dTitle"></h2>
       <div class="cn" id="dCn"></div>
     </div>
-    <button class="close" id="dClose">✕</button>
+    <button class="close" id="dClose" type="button" aria-label="Đóng chi tiết">✕</button>
   </header>
   <div class="body" id="dBody"></div>
 </aside>
