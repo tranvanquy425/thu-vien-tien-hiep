@@ -50,22 +50,34 @@
   let loading = null;
 
   function loadScript(src) {
-    return new Promise(ok => { const s = document.createElement("script"); s.src = src; s.onload = ok; s.onerror = ok; document.head.appendChild(s); });
+    return new Promise((resolve, reject) => {
+      const s = document.createElement("script");
+      s.src = src;
+      s.onload = () => resolve(src);
+      s.onerror = () => reject(new Error("Không tải được " + src));
+      document.head.appendChild(s);
+    });
+  }
+  async function loadSearchIndex(b) {
+    if (b.shardBase) {
+      const r = await fetch(b.shardBase + "/search-index.json");
+      if (!r.ok) throw new Error("Search index HTTP " + r.status);
+      addIndexFromShard(b, await r.json());
+      return;
+    }
+    if (!(window.LIB_DATA && window.LIB_DATA[b.slug])) {
+      await loadScript((b.dataR2 || b.dataBase || ("data/" + b.slug)) + "/data.js");
+    }
+    buildIndexForBo(b);
   }
   function ensureData() {
     if (loading) return loading;
-    loading = (async () => {
-      INDEX = [];
-      for (const b of boList) {
-        // (2026-07-17) CHẾ ĐỘ SHARD: dùng search-index.json NHỎ (vài trăm KB) thay vì nạp cả data.js 17MB.
-        if (b.shardBase) {
-          try { const r = await fetch(b.shardBase + "/search-index.json"); addIndexFromShard(b, await r.json()); continue; }
-          catch (e) { /* lỗi index → rơi xuống nạp data.js như cũ */ }
-        }
-        if (!(window.LIB_DATA && window.LIB_DATA[b.slug])) await loadScript("data/" + b.slug + "/data.js");
-        buildIndexForBo(b);
-      }
-    })();
+    INDEX = [];
+    loading = Promise.allSettled(boList.map(loadSearchIndex)).then(results => {
+      const failed = results.filter(r => r.status === "rejected").length;
+      if (failed === results.length && results.length) throw new Error("Không tải được dữ liệu tìm kiếm");
+      return INDEX;
+    });
     return loading;
   }
   // Dựng index từ file search-index.json (mảng {t:loại, n:tên, a:[biệt danh], id}) — link theo id
@@ -77,7 +89,7 @@
       "Công pháp": id => "bo.html?bo=" + bo + "&tech=" + encodeURIComponent(id) + "#cong-phap",
       "Cảnh giới": id => "bo.html?bo=" + bo + "&realm=" + encodeURIComponent(id) + "#canh-gioi",
       "Địa điểm": id => "bo.html?bo=" + bo + "&place=" + encodeURIComponent(id) + "#map",
-      "Thế lực": () => "bo.html?bo=" + bo + "#the-luc"
+      "Thế lực": id => "bo.html?bo=" + bo + "&faction=" + encodeURIComponent(id) + "#the-luc"
     };
     (arr || []).forEach(it => {
       const mk = LINK[it.t]; if (!mk || !it.n) return;
@@ -90,12 +102,16 @@
     const d = (window.LIB_DATA || {})[b.slug]; if (!d) return;
     const bo = b.slug, boTen = b.ten;
     const add = (type, name, aliases, link) => INDEX.push({ type, name, aliases: (aliases || []).join(", "), bo, boTen, link, hay: norm([name].concat(aliases || []).join(" ")) });
-    if (d.characters && d.characters.chars) d.characters.chars.forEach(c => add("Nhân vật", c.name, c.aliases, "bo.html?bo=" + bo + "&char=" + encodeURIComponent(c.id) + "#nhan-vat"));
-    if (d.artifacts && d.artifacts.artifacts) d.artifacts.artifacts.forEach((a, i) => add("Pháp bảo", a.name, a.aliases, "bo.html?bo=" + bo + "&artifact=" + i + "#phap-bao"));
-    if (d.techniques && d.techniques.techniques) d.techniques.techniques.forEach((t, i) => add("Công pháp", t.name, t.aliases, "bo.html?bo=" + bo + "&tech=" + i + "#cong-phap"));
+    if (d.characters && d.characters.chars) d.characters.chars.forEach(c => {
+      const identities = Array.isArray(c.thanPhanKhac) ? c.thanPhanKhac : [];
+      const aliases = Array.from(new Set([].concat(c.aliases || [], identities.flatMap(x => [x && x.name].concat((x && x.aliases) || [], (x && x.oldIds) || []))).filter(Boolean)));
+      add("Nhân vật", c.name, aliases, "bo.html?bo=" + bo + "&char=" + encodeURIComponent(c.id) + "#nhan-vat");
+    });
+    if (d.artifacts && d.artifacts.artifacts) d.artifacts.artifacts.forEach((a, i) => add("Pháp bảo", a.name, a.aliases, "bo.html?bo=" + bo + "&artifact=" + encodeURIComponent(a.id != null ? a.id : i) + "#phap-bao"));
+    if (d.techniques && d.techniques.techniques) d.techniques.techniques.forEach((t, i) => add("Công pháp", t.name, t.aliases, "bo.html?bo=" + bo + "&tech=" + encodeURIComponent(t.id != null ? t.id : i) + "#cong-phap"));
     if (d.realms && d.realms.realms) d.realms.realms.forEach(r => add("Cảnh giới", r.name, r.aliases, "bo.html?bo=" + bo + "&realm=" + encodeURIComponent(r.id) + "#canh-gioi"));
     if (d.map && d.map.nodes) d.map.nodes.forEach(p => add("Địa điểm", p.name, p.aliases, "bo.html?bo=" + bo + "&place=" + encodeURIComponent(p.id) + "#map"));
-    if (d.factions && d.factions.factions) d.factions.factions.forEach(f => add("Thế lực", f.name, f.aliases, "bo.html?bo=" + bo + "#nhan-vat"));
+    if (d.factions && d.factions.factions) d.factions.factions.forEach(f => add("Thế lực", f.name, f.aliases, "bo.html?bo=" + bo + "&faction=" + encodeURIComponent(f.id || "") + "#the-luc"));
   }
   function highlight(name, q) {
     const nn = norm(name), i = nn.indexOf(q);
@@ -202,6 +218,42 @@
       '<span class="lbl">Xem TikTok</span>' +
       '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.6 5.8c-.9-.6-1.5-1.6-1.7-2.8h-2.7v11c0 1.3-1.1 2.4-2.4 2.4S7.4 15.3 7.4 14s1.1-2.4 2.4-2.4c.3 0 .5 0 .8.1v-2.8c-.3 0-.5-.1-.8-.1C7 8.8 4.6 11.2 4.6 14s2.4 5.2 5.2 5.2 5.2-2.4 5.2-5.2V8.6c1 .7 2.3 1.1 3.6 1.1V7c-.7 0-1.4-.2-2-.6z"/></svg></a>';
   document.body.appendChild(bub);
+
+  // ---- nút cuộn nhanh lên đầu / xuống cuối trang (mũi tên nổi góc phải) ----
+  (function () {
+    const css = document.createElement("style");
+    css.textContent =
+      ".scroll-nav{position:fixed;right:16px;bottom:148px;z-index:65;display:flex;flex-direction:column;gap:8px}" +
+      ".scroll-nav button{width:44px;height:44px;border-radius:50%;border:1.5px solid var(--line-gold,#6b521f);cursor:pointer;" +
+        "background:var(--card-bg,#1d160d);color:var(--gold2,#e5c96b);font-size:18px;line-height:1;display:flex;align-items:center;justify-content:center;" +
+        "box-shadow:0 4px 14px rgba(0,0,0,.4);transition:.15s;font-family:var(--sans,sans-serif)}" +
+      ".scroll-nav button:hover{transform:scale(1.08);border-color:var(--gold,#c9a227);color:var(--gold3,#f3e6bf)}" +
+      ".scroll-nav button:disabled{opacity:.35;cursor:default;transform:none}" +
+      "@media(max-width:640px){.scroll-nav{right:10px;bottom:132px}.scroll-nav button{width:40px;height:40px}}";
+    document.head.appendChild(css);
+
+    const nav = document.createElement("div");
+    nav.className = "scroll-nav";
+    nav.innerHTML =
+      '<button type="button" class="sc-top" aria-label="Lên đầu trang" title="Lên đầu trang">▲</button>' +
+      '<button type="button" class="sc-bottom" aria-label="Xuống cuối trang" title="Xuống cuối trang">▼</button>';
+    document.body.appendChild(nav);
+
+    const topBtn = nav.querySelector(".sc-top");
+    const botBtn = nav.querySelector(".sc-bottom");
+    const doc = document.documentElement;
+    function update() {
+      const max = doc.scrollHeight - window.innerHeight;
+      const y = window.pageYOffset || doc.scrollTop || 0;
+      topBtn.disabled = y <= 1;
+      botBtn.disabled = y >= max - 1;
+    }
+    topBtn.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+    botBtn.addEventListener("click", () => window.scrollTo({ top: doc.scrollHeight, behavior: "smooth" }));
+    window.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update, { passive: true });
+    update();
+  })();
 
   // ---- xử lý góp ý ----
   const form = document.getElementById("fbForm");
